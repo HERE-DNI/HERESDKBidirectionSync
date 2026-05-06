@@ -33,10 +33,6 @@ slug: "sdk-for-android-explore-api-reference-index"
 <li><a href="sdk-for-android-explore-api-reference-allclasses">All&nbsp;Classes</a></li>
 </ul>
 <ul className="navListSearch">
-<li><label for="search">SEARCH:</label>
-
-
-</li>
 </ul>
 <div>
 
@@ -65,81 +61,24 @@ slug: "sdk-for-android-explore-api-reference-index"
 <h2>Get in Touch</h2>
 <p>We love feedback. Please <a href="https://www.here.com/contact">contact us</a> for any questions, suggestions or improvements. Thank you for using the HERE SDK.</p></div>
 </div>
-<div className="contentContainer">
-<table className="overviewSummary">
-<caption><span>Packages</span><span className="tabEnd">&nbsp;</span></caption>
-<tr>
-<th className="colFirst" scope="col">Package</th>
-<th className="colLast" scope="col">Description</th>
-</tr>
-<tbody>
-<tr className="altColor" id="i0">
-<th className="colFirst" scope="row"><a href="sdk-for-android-explore-api-reference-package-summary">com.here</a></th>
-<td className="colLast">&nbsp;</td>
-</tr>
-<tr className="rowColor" id="i1">
-<th className="colFirst" scope="row"><a href="sdk-for-android-explore-api-reference-package-summary">com.here.sdk.animation</a></th>
-<td className="colLast">&nbsp;</td>
-</tr>
-<tr className="altColor" id="i2">
-<th className="colFirst" scope="row"><a href="sdk-for-android-explore-api-reference-package-summary">com.here.sdk.core</a></th>
-<td className="colLast">&nbsp;</td>
-</tr>
-<tr className="rowColor" id="i3">
-<th className="colFirst" scope="row"><a href="sdk-for-android-explore-api-reference-package-summary">com.here.sdk.core.engine</a></th>
-<td className="colLast">&nbsp;</td>
-</tr>
-<tr className="altColor" id="i4">
-<th className="colFirst" scope="row"><a href="sdk-for-android-explore-api-reference-package-summary">com.here.sdk.core.errors</a></th>
-<td className="colLast">&nbsp;</td>
-</tr>
-<tr className="rowColor" id="i5">
-<th className="colFirst" scope="row"><a href="sdk-for-android-explore-api-reference-package-summary">com.here.sdk.core.threading</a></th>
-<td className="colLast">&nbsp;</td>
-</tr>
-<tr className="altColor" id="i6">
-<th className="colFirst" scope="row"><a href="sdk-for-android-explore-api-reference-package-summary">com.here.sdk.core.utilities</a></th>
-<td className="colLast">&nbsp;</td>
-</tr>
-<tr className="rowColor" id="i7">
-<th className="colFirst" scope="row"><a href="sdk-for-android-explore-api-reference-package-summary">com.here.sdk.engine</a></th>
-<td className="colLast">&nbsp;</td>
-</tr>
-<tr className="altColor" id="i8">
-<th className="colFirst" scope="row"><a href="sdk-for-android-explore-api-reference-package-summary">com.here.sdk.gestures</a></th>
-<td className="colLast">&nbsp;</td>
-</tr>
-<tr className="rowColor" id="i9">
-<th className="colFirst" scope="row"><a href="sdk-for-android-explore-api-reference-package-summary">com.here.sdk.mapview</a></th>
-<td className="colLast">&nbsp;</td>
-</tr>
-<tr className="altColor" id="i10">
-<th className="colFirst" scope="row"><a href="sdk-for-android-explore-api-reference-package-summary">com.here.sdk.mapview.datasource</a></th>
-<td className="colLast">&nbsp;</td>
-</tr>
-<tr className="rowColor" id="i11">
-<th className="colFirst" scope="row"><a href="sdk-for-android-explore-api-reference-package-summary">com.here.sdk.routing</a></th>
-<td className="colLast">&nbsp;</td>
-</tr>
-<tr className="altColor" id="i12">
-<th className="colFirst" scope="row"><a href="sdk-for-android-explore-api-reference-package-summary">com.here.sdk.search</a></th>
-<td className="colLast">&nbsp;</td>
-</tr>
-<tr className="rowColor" id="i13">
-<th className="colFirst" scope="row"><a href="sdk-for-android-explore-api-reference-package-summary">com.here.sdk.traffic</a></th>
-<td className="colLast">&nbsp;</td>
-</tr>
-<tr className="altColor" id="i14">
-<th className="colFirst" scope="row"><a href="sdk-for-android-explore-api-reference-package-summary">com.here.sdk.transport</a></th>
-<td className="colLast">&nbsp;</td>
-</tr>
-<tr className="rowColor" id="i15">
-<th className="colFirst" scope="row"><a href="sdk-for-android-explore-api-reference-package-summary">com.here.time</a></th>
-<td className="colLast">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-</div>
+## Packages
+
+- com.here
+- com.here.sdk.animation
+- com.here.sdk.core
+- com.here.sdk.core.engine
+- com.here.sdk.core.errors
+- com.here.sdk.core.threading
+- com.here.sdk.core.utilities
+- com.here.sdk.engine
+- com.here.sdk.gestures
+- com.here.sdk.mapview
+- com.here.sdk.mapview.datasource
+- com.here.sdk.routing
+- com.here.sdk.search
+- com.here.sdk.traffic
+- com.here.sdk.transport
+- com.here.time
 
 
 
