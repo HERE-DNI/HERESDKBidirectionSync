@@ -61,24 +61,26 @@ slug: "sdk-for-android-explore-api-reference-index"
 <h2>Get in Touch</h2>
 <p>We love feedback. Please <a href="https://www.here.com/contact">contact us</a> for any questions, suggestions or improvements. Thank you for using the HERE SDK.</p></div>
 </div>
-## Packages
+<h2>Packages</h2>
 
-- com.here
-- com.here.sdk.animation
-- com.here.sdk.core
-- com.here.sdk.core.engine
-- com.here.sdk.core.errors
-- com.here.sdk.core.threading
-- com.here.sdk.core.utilities
-- com.here.sdk.engine
-- com.here.sdk.gestures
-- com.here.sdk.mapview
-- com.here.sdk.mapview.datasource
-- com.here.sdk.routing
-- com.here.sdk.search
-- com.here.sdk.traffic
-- com.here.sdk.transport
-- com.here.time
+<ul>
+  <li>com.here</li>
+  <li>com.here.sdk.animation</li>
+  <li>com.here.sdk.core</li>
+  <li>com.here.sdk.core.engine</li>
+  <li>com.here.sdk.core.errors</li>
+  <li>com.here.sdk.core.threading</li>
+  <li>com.here.sdk.core.utilities</li>
+  <li>com.here.sdk.engine</li>
+  <li>com.here.sdk.gestures</li>
+  <li>com.here.sdk.mapview</li>
+  <li>com.here.sdk.mapview.datasource</li>
+  <li>com.here.sdk.routing</li>
+  <li>com.here.sdk.search</li>
+  <li>com.here.sdk.traffic</li>
+  <li>com.here.sdk.transport</li>
+  <li>com.here.time</li>
+</ul>
 
 
 
