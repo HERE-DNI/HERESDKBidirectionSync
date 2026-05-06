@@ -117,5 +117,5 @@ slug: "sdk-for-android-explore-api-reference-index"
 
 
 </div>
-</div>  {/* closes .sdk-for-android */}
+</div>
 
