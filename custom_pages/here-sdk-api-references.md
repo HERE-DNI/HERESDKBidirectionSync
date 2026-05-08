@@ -6,7 +6,7 @@ hidden: false
 Android
 
 * Explore <Anchor label="Android Explore API Reference" target="_blank" href="sdk-for-android-explore">Android Explore API Reference</Anchor>
-* Navigate: <Anchor label="Android Navigate API Reference" target="_blank" href="sdk-for-android-navigate&#x22;">Android Navigate API Reference</Anchor>
+* Navigate: <Anchor label="Android Navigate API Reference" target="_blank" href="sdk-for-android-navigate">Android Navigate API Reference</Anchor>
 
 Flutter
 
@@ -15,7 +15,7 @@ Flutter
 
 iOS
 
-* <Anchor label="iOS Explore API Reference" target="_blank" href="sdk-for-ios-explore&#x22;">iOS Explore API Reference</Anchor>
-* <Anchor label="iOS Navigate API Reference" target="_blank" href="sdk-for-ios-navigate">iOS Navigate API Reference</Anchor>
+* Explore:<Anchor label="iOS Explore API Reference" target="_blank" href="sdk-for-ios-explore">iOS Explore API Reference</Anchor>
+* Navigate: <Anchor label="iOS Navigate API Reference" target="_blank" href="sdk-for-ios-navigate">iOS Navigate API Reference</Anchor>
 
 <br />
