@@ -3,7 +3,8 @@ title: "API Help (API Reference)"
 slug: "sdk-for-android-navigate-help-doc"
 ---
 
-<HTMLBlock>{`
+<HTMLBlock>{
+`
 <div class="sdk-for-android">
 <!-- help-doc.html -->
 <!DOCTYPE HTML>
@@ -199,4 +200,5 @@ The following sections describe the different kinds of pages in this collection.
 </html>
 
 </div>
-`}</HTMLBlock>
+`
+}</HTMLBlock>

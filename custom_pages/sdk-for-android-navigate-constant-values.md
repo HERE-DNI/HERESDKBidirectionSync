@@ -3,7 +3,8 @@ title: "Constant Field Values (API Reference)"
 slug: "sdk-for-android-navigate-constant-values"
 ---
 
-<HTMLBlock>{`
+<HTMLBlock>{
+`
 <div class="sdk-for-android">
 <!-- constant-values.html -->
 <!DOCTYPE HTML>
@@ -715,4 +716,5 @@ loadScripts(document, 'script');</script>
 </html>
 
 </div>
-`}</HTMLBlock>
+`
+}</HTMLBlock>

@@ -3,7 +3,8 @@ title: "Deprecated List (API Reference)"
 slug: "sdk-for-android-navigate-deprecated-list"
 ---
 
-<HTMLBlock>{`
+<HTMLBlock>{
+`
 <div class="sdk-for-android">
 <!-- deprecated-list.html -->
 <!DOCTYPE HTML>
@@ -592,4 +593,5 @@ loadScripts(document, 'script');</script>
 </html>
 
 </div>
-`}</HTMLBlock>
+`
+}</HTMLBlock>

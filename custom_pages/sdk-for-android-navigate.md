@@ -3,7 +3,8 @@ title: "Overview (API Reference)"
 slug: "sdk-for-android-navigate"
 ---
 
-<HTMLBlock>{`
+<HTMLBlock>{
+`
 <div class="sdk-for-android">
 <!-- index.html -->
 <!DOCTYPE HTML>
@@ -149,4 +150,5 @@ loadScripts(document, 'script');</script>
 </html>
 
 </div>
-`}</HTMLBlock>
+`
+}</HTMLBlock>

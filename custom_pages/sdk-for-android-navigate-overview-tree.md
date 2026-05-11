@@ -3,7 +3,8 @@ title: "Class Hierarchy (API Reference)"
 slug: "sdk-for-android-navigate-overview-tree"
 ---
 
-<HTMLBlock>{`
+<HTMLBlock>{
+`
 <div class="sdk-for-android">
 <!-- overview-tree.html -->
 <!DOCTYPE HTML>
@@ -1172,4 +1173,5 @@ loadScripts(document, 'script');</script>
 </html>
 
 </div>
-`}</HTMLBlock>
+`
+}</HTMLBlock>

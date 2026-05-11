@@ -3,7 +3,8 @@ title: "API Reference"
 slug: "sdk-for-android-navigate-overview-summary"
 ---
 
-<HTMLBlock>{`
+<HTMLBlock>{
+`
 <div class="sdk-for-android">
 <!-- overview-summary.html -->
 <!DOCTYPE HTML>
@@ -33,4 +34,5 @@ slug: "sdk-for-android-navigate-overview-summary"
 </html>
 
 </div>
-`}</HTMLBlock>
+`
+}</HTMLBlock>

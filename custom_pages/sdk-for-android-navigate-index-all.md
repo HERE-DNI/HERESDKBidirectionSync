@@ -3,7 +3,8 @@ title: "A"
 slug: "sdk-for-android-navigate-index-all"
 ---
 
-<HTMLBlock>{`
+<HTMLBlock>{
+`
 <div class="sdk-for-android">
 <!-- index-all.html -->
 <!DOCTYPE HTML>
@@ -34716,4 +34717,5 @@ the order they are declared.</div>
 </html>
 
 </div>
-`}</HTMLBlock>
+`
+}</HTMLBlock>

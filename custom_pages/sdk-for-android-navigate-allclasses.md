@@ -3,7 +3,8 @@ title: "All Classes and Interfaces (API Reference)"
 slug: "sdk-for-android-navigate-allclasses"
 ---
 
-<HTMLBlock>{`
+<HTMLBlock>{
+`
 <div class="sdk-for-android">
 <!-- allclasses-index.html -->
 <!DOCTYPE HTML>
@@ -4284,4 +4285,5 @@ loadScripts(document, 'script');</script>
 </html>
 
 </div>
-`}</HTMLBlock>
+`
+}</HTMLBlock>

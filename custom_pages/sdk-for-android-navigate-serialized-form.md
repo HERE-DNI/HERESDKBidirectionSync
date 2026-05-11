@@ -3,7 +3,8 @@ title: "Serialized Form (API Reference)"
 slug: "sdk-for-android-navigate-serialized-form"
 ---
 
-<HTMLBlock>{`
+<HTMLBlock>{
+`
 <div class="sdk-for-android">
 <!-- serialized-form.html -->
 <!DOCTYPE HTML>
@@ -619,4 +620,5 @@ loadScripts(document, 'script');</script>
 </html>
 
 </div>
-`}</HTMLBlock>
+`
+}</HTMLBlock>
