@@ -1,5 +1,5 @@
 ---
-title: "A"
+title: "Index (API Reference)"
 slug: "sdk-for-android-explore-index-all"
 ---
 
