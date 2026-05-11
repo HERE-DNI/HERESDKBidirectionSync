@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Overview (API Reference)"
 slug: "sdk-for-android-explore"
 ---
 
@@ -39,14 +39,14 @@ slug: "sdk-for-android-explore"
 <div class="flex-content">
 <main role="main">
 <div class="header">
-<h1 class="title">API Reference</h1>
+
 </div>
 <div class="block"><p>Browse the latest API Reference for the HERE SDK for Android (Explore), Version 4.26.0.0.278965 Release</p>
 <p>For the terms and conditions covering this documentation, see the <a href="https://legal.here.com/en-gb/terms/documentation-license">HERE Documentation License</a>.
 
-<h2>More Documentation Resources</h2>
+
 <p>Be sure to check out our <i>User Guide</i> including a <i>Get Started</i> tutorial that shows how to integrate the HERE SDK into your own apps with a few simple steps.</p>
-<h2>Get in Touch</h2>
+
 <p>We love feedback. Please <a href="https://www.here.com/contact">contact us</a> for any questions, suggestions or improvements. Thank you for using the HERE SDK.</p></p></div>
 <div id="all-packages-table">
 <div class="caption"><span>Packages</span></div>

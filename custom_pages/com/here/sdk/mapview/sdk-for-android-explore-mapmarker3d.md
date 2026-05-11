@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapMarker3D (API Reference)"
 slug: "sdk-for-android-explore-mapmarker3d"
 ---
 
@@ -56,7 +56,7 @@ slug: "sdk-for-android-explore-mapmarker3d"
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
 <div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
-<h1 class="title" title="Class MapMarker3D">Class MapMarker3D</h1>
+
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
@@ -76,7 +76,7 @@ slug: "sdk-for-android-explore-mapmarker3d"
  <p>The display of a 3D marker is only guaranteed in case its origin is within
  the viewport. At the moment, this is a known limitation that mostly affects
  a 3D marker that is visually large and covers a sizeable part of the viewport.
- <h1>Sizing and scaling</h1>
+ 
 <p>Two aspects determine how big the <code>MapMarker3D</code> will be on the screen
  and how will it behave when the map is zoomed in and out.
  <p>The first, and most impactful is <a href="sdk-for-android-explore-rendersize-unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a>, which specifies
@@ -97,7 +97,7 @@ slug: "sdk-for-android-explore-mapmarker3d"
  <p>The second aspect that determines size of <code>MapMarker3D</code> is scale.
  It can be specified at construction time and can be changed later
  at any time using <a href="#setScale(double)"><code>setScale(double)</code></a>.
- <h1>Modifying at runtime</h1>
+ 
 <p>A 3D marker can be moved around a map by updating its coordinates using
  <a href="#setCoordinates(com.here.sdk.core.GeoCoordinates)"><code>setCoordinates(com.here.sdk.core.GeoCoordinates)</code></a>.
  <p>Altitude component of the coordinates, if set, controls 3D marker's elevation
@@ -105,7 +105,7 @@ slug: "sdk-for-android-explore-mapmarker3d"
  <p>Its orientation is specified by bearing, pitch and roll and can be changed
  by using <a href="#setBearing(double)"><code>setBearing(double)</code></a>, <a href="#setPitch(double)"><code>setPitch(double)</code></a>
  and <a href="#setRoll(double)"><code>setRoll(double)</code></a>.
- <h1>Flat marker</h1>
+ 
 <p>A flat marker is a special case of a 3D marker, where the 3D shape being drawn
  is a simple textured rectangle. In essence it's an image drawn "on the ground".
  Such 3D marker can be conveniently created using
@@ -117,7 +117,7 @@ slug: "sdk-for-android-explore-mapmarker3d"
 <!-- ======== CONSTRUCTOR SUMMARY ======== -->
 <li>
 <section class="constructor-summary" id="constructor-summary">
-<h2>Constructor Summary</h2>
+
 <div class="caption"><span>Constructors</span></div>
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
@@ -153,7 +153,7 @@ slug: "sdk-for-android-explore-mapmarker3d"
 <!-- ========== METHOD SUMMARY =========== -->
 <li>
 <section class="method-summary" id="method-summary">
-<h2>Method Summary</h2>
+
 <div id="method-summary-table">
 <div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
 <div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
@@ -280,7 +280,7 @@ slug: "sdk-for-android-explore-mapmarker3d"
 <!-- ========= CONSTRUCTOR DETAIL ======== -->
 <li>
 <section class="constructor-details" id="constructor-detail">
-<h2>Constructor Details</h2>
+
 <ul class="member-list">
 <li>
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMarker3DModel)">
@@ -407,7 +407,7 @@ slug: "sdk-for-android-explore-mapmarker3d"
 <!-- ============ METHOD DETAIL ========== -->
 <li>
 <section class="method-details" id="method-detail">
-<h2>Method Details</h2>
+
 <ul class="member-list">
 <li>
 <section class="detail" id="getCoordinates()">

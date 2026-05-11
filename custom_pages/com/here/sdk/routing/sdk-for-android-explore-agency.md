@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Agency (API Reference)"
 slug: "sdk-for-android-explore-agency"
 ---
 
@@ -56,7 +56,7 @@ slug: "sdk-for-android-explore-agency"
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
 <div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
-<h1 class="title" title="Class Agency">Class Agency</h1>
+
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">com.here.sdk.routing.Agency</div>
@@ -72,7 +72,7 @@ slug: "sdk-for-android-explore-agency"
 <!-- =========== FIELD SUMMARY =========== -->
 <li>
 <section class="field-summary" id="field-summary">
-<h2>Field Summary</h2>
+
 <div class="caption"><span>Fields</span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
@@ -94,7 +94,7 @@ slug: "sdk-for-android-explore-agency"
 <!-- ========== METHOD SUMMARY =========== -->
 <li>
 <section class="method-summary" id="method-summary">
-<h2>Method Summary</h2>
+
 <div id="method-summary-table">
 <div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
 <div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
@@ -123,7 +123,7 @@ slug: "sdk-for-android-explore-agency"
 <!-- ============ FIELD DETAIL =========== -->
 <li>
 <section class="field-details" id="field-detail">
-<h2>Field Details</h2>
+
 <ul class="member-list">
 <li>
 <section class="detail" id="name">
@@ -147,7 +147,7 @@ slug: "sdk-for-android-explore-agency"
 <!-- ============ METHOD DETAIL ========== -->
 <li>
 <section class="method-details" id="method-detail">
-<h2>Method Details</h2>
+
 <ul class="member-list">
 <li>
 <section class="detail" id="equals(java.lang.Object)">

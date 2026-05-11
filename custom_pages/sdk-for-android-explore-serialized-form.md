@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Serialized Form (API Reference)"
 slug: "sdk-for-android-explore-serialized-form"
 ---
 
@@ -39,12 +39,12 @@ slug: "sdk-for-android-explore-serialized-form"
 <div class="flex-content">
 <main role="main">
 <div class="header">
-<h1 class="title" title="Serialized Form">Serialized Form</h1>
+
 </div>
 <ul class="block-list">
 <li>
 <section class="serialized-package-container">
-<h2 title="Package">Package <a href="sdk-for-android-explore-package-summary">com.here.sdk.animation</a></h2>
+
 <ul class="block-list">
 <li>
 <section class="serialized-class-details" id="com.here.sdk.animation.Easing.InstantiationException">
@@ -127,7 +127,7 @@ slug: "sdk-for-android-explore-serialized-form"
 </li>
 <li>
 <section class="serialized-package-container">
-<h2 title="Package">Package <a href="sdk-for-android-explore-package-summary">com.here.sdk.core</a></h2>
+
 <ul class="block-list">
 <li>
 <section class="serialized-class-details" id="com.here.sdk.core.AuthenticationException">
@@ -153,7 +153,7 @@ slug: "sdk-for-android-explore-serialized-form"
 </li>
 <li>
 <section class="serialized-package-container">
-<h2 title="Package">Package <a href="sdk-for-android-explore-package-summary">com.here.sdk.core.engine</a></h2>
+
 <ul class="block-list">
 <li>
 <section class="serialized-class-details" id="com.here.sdk.core.engine.LogControl.InvalidPathException">
@@ -179,7 +179,7 @@ slug: "sdk-for-android-explore-serialized-form"
 </li>
 <li>
 <section class="serialized-package-container">
-<h2 title="Package">Package <a href="sdk-for-android-explore-package-summary">com.here.sdk.core.errors</a></h2>
+
 <ul class="block-list">
 <li>
 <section class="serialized-class-details" id="com.here.sdk.core.errors.InstantiationErrorException">
@@ -205,7 +205,7 @@ slug: "sdk-for-android-explore-serialized-form"
 </li>
 <li>
 <section class="serialized-package-container">
-<h2 title="Package">Package <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></h2>
+
 <ul class="block-list">
 <li>
 <section class="serialized-class-details" id="com.here.sdk.mapview.JsonStyleFactory.InstantiationException">
@@ -440,7 +440,7 @@ slug: "sdk-for-android-explore-serialized-form"
 </li>
 <li>
 <section class="serialized-package-container">
-<h2 title="Package">Package <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></h2>
+
 <ul class="block-list">
 <li>
 <section class="serialized-class-details" id="com.here.sdk.search.PlaceSerializationException">

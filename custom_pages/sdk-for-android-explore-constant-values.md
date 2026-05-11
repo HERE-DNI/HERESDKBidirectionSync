@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Constant Field Values (API Reference)"
 slug: "sdk-for-android-explore-constant-values"
 ---
 
@@ -39,16 +39,16 @@ slug: "sdk-for-android-explore-constant-values"
 <div class="flex-content">
 <main role="main">
 <div class="header">
-<h1 class="title" title="Constant Field Values">Constant Field Values</h1>
+
 <section class="packages">
-<h2 title="Contents">Contents</h2>
+
 <ul>
 <li><a href="#com.here">com.here.*</a></li>
 </ul>
 </section>
 </div>
 <section class="constants-summary" id="com.here.sdk.core">
-<h2 title="com.here">com.here.*</h2>
+
 <ul class="block-list">
 <li>
 <div class="caption"><span>com.here.sdk.core.<a href="sdk-for-android-explore-polylinesimplifier-options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></span></div>

@@ -39,10 +39,10 @@ slug: "sdk-for-android-explore-index-all"
 <div class="flex-content">
 <main role="main">
 <div class="header">
-<h1>Index</h1>
+
 </div>
 <a href="#I:A">A</a> <a href="#I:B">B</a> <a href="#I:C">C</a> <a href="#I:D">D</a> <a href="#I:E">E</a> <a href="#I:F">F</a> <a href="#I:G">G</a> <a href="#I:H">H</a> <a href="#I:I">I</a> <a href="#I:J">J</a> <a href="#I:K">K</a> <a href="#I:L">L</a> <a href="#I:M">M</a> <a href="#I:N">N</a> <a href="#I:O">O</a> <a href="#I:P">P</a> <a href="#I:Q">Q</a> <a href="#I:R">R</a> <a href="#I:S">S</a> <a href="#I:T">T</a> <a href="#I:U">U</a> <a href="#I:V">V</a> <a href="#I:W">W</a> <a href="#I:X">X</a> <a href="#I:Y">Y</a> <a href="#I:Z">Z</a> <br/><a href="sdk-for-android-explore-allclasses-index">All Classes and Interfaces</a><span class="vertical-separator">|</span><a href="sdk-for-android-explore-allpackages-index">All Packages</a><span class="vertical-separator">|</span><a href="sdk-for-android-explore-constant-values">Constant Field Values</a><span class="vertical-separator">|</span><a href="sdk-for-android-explore-serialized-form">Serialized Form</a>
-<h2 class="title" id="I:A">A</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-truckroadtype#A2">A2</a> - Enum constant in enum class com.here.sdk.transport.<a href="sdk-for-android-explore-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a></dt>
 <dd>
@@ -1144,7 +1144,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Direction azimuth value in degrees in the range [0, 360).</div>
 </dd>
 </dl>
-<h2 class="title" id="I:B">B</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-tunnelcategory#B">B</a> - Enum constant in enum class com.here.sdk.transport.<a href="sdk-for-android-explore-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></dt>
 <dd>
@@ -1816,7 +1816,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Botswana</div>
 </dd>
 </dl>
-<h2 class="title" id="I:C">C</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-truckroadtype#C">C</a> - Enum constant in enum class com.here.sdk.transport.<a href="sdk-for-android-explore-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a></dt>
 <dd>
@@ -3286,7 +3286,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Czechia</div>
 </dd>
 </dl>
-<h2 class="title" id="I:D">D</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-truckroadtype#D">D</a> - Enum constant in enum class com.here.sdk.transport.<a href="sdk-for-android-explore-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a></dt>
 <dd>
@@ -4039,7 +4039,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Algeria</div>
 </dd>
 </dl>
-<h2 class="title" id="I:E">E</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-tunnelcategory#E">E</a> - Enum constant in enum class com.here.sdk.transport.<a href="sdk-for-android-explore-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></dt>
 <dd>
@@ -5466,7 +5466,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">All extruded buildings are shown.</div>
 </dd>
 </dl>
-<h2 class="title" id="I:F">F</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-languagecode#FA_IR">FA_IR</a> - Enum constant in enum class com.here.sdk.core.<a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></dt>
 <dd>
@@ -5999,7 +5999,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Types of function road class.</div>
 </dd>
 </dl>
-<h2 class="title" id="I:G">G</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-languagecode#GA_IE">GA_IE</a> - Enum constant in enum class com.here.sdk.core.<a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></dt>
 <dd>
@@ -7972,7 +7972,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Guyana</div>
 </dd>
 </dl>
-<h2 class="title" id="I:H">H</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-languagecode#HA_LATN_NG">HA_LATN_NG</a> - Enum constant in enum class com.here.sdk.core.<a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></dt>
 <dd>
@@ -8770,7 +8770,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Hydrogen</div>
 </dd>
 </dl>
-<h2 class="title" id="I:I">I</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-iconprovidererror#ICON_HANDLING_FAILED">ICON_HANDLING_FAILED</a> - Enum constant in enum class com.here.sdk.mapview.<a href="sdk-for-android-explore-iconprovidererror" title="enum class in com.here.sdk.mapview">IconProviderError</a></dt>
 <dd>
@@ -9814,7 +9814,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">The list of road number information items.</div>
 </dd>
 </dl>
-<h2 class="title" id="I:J">J</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-languagecode#JA_JP">JA_JP</a> - Enum constant in enum class com.here.sdk.core.<a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></dt>
 <dd>
@@ -9885,7 +9885,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Junctions traversability of some traffic incident or flow section.</div>
 </dd>
 </dl>
-<h2 class="title" id="I:K">K</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-languagecode#KA_GE">KA_GE</a> - Enum constant in enum class com.here.sdk.core.<a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></dt>
 <dd>
@@ -9972,7 +9972,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Kyrgyz - Cyrillic</div>
 </dd>
 </dl>
-<h2 class="title" id="I:L">L</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-signpost#labels">labels</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-signpost" title="class in com.here.sdk.routing">Signpost</a></dt>
 <dd>
@@ -10897,7 +10897,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Latvia</div>
 </dd>
 </dl>
-<h2 class="title" id="I:M">M</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-countrycode#MAC">MAC</a> - Enum constant in enum class com.here.sdk.core.<a href="sdk-for-android-explore-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></dt>
 <dd>
@@ -12346,7 +12346,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Mayotte</div>
 </dd>
 </dl>
-<h2 class="title" id="I:N">N</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-countrycode#NAM">NAM</a> - Enum constant in enum class com.here.sdk.core.<a href="sdk-for-android-explore-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></dt>
 <dd>
@@ -12731,7 +12731,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">New Zealand</div>
 </dd>
 </dl>
-<h2 class="title" id="I:O">O</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-vehiclespecification#occupancy">occupancy</a> - Variable in class com.here.sdk.transport.<a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a></dt>
 <dd>
@@ -13476,7 +13476,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Represents the party of ownership provided by some suppliers.</div>
 </dd>
 </dl>
-<h2 class="title" id="I:P">P</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-languagecode#PA_ARAB">PA_ARAB</a> - Enum constant in enum class com.here.sdk.core.<a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></dt>
 <dd>
@@ -14544,7 +14544,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">French Polynesia</div>
 </dd>
 </dl>
-<h2 class="title" id="I:Q">Q</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-countrycode#QAT">QAT</a> - Enum constant in enum class com.here.sdk.core.<a href="sdk-for-android-explore-countrycode" title="enum class in com.here.sdk.core">CountryCode</a></dt>
 <dd>
@@ -14637,7 +14637,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Quint axle group in kilograms.</div>
 </dd>
 </dl>
-<h2 class="title" id="I:R">R</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-hazardousmaterial#RADIOACTIVE">RADIOACTIVE</a> - Enum constant in enum class com.here.sdk.transport.<a href="sdk-for-android-explore-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a></dt>
 <dd>
@@ -15807,7 +15807,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Rwanda</div>
 </dd>
 </dl>
-<h2 class="title" id="I:S">S</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-chargingconnectortype#SAE_J3400">SAE_J3400</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-chargingconnectortype" title="enum class in com.here.sdk.routing">ChargingConnectorType</a></dt>
 <dd>
@@ -17529,7 +17529,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Syrian Arab Republic</div>
 </dd>
 </dl>
-<h2 class="title" id="I:T">T</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-languagecode#TA">TA</a> - Enum constant in enum class com.here.sdk.core.<a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></dt>
 <dd>
@@ -19186,7 +19186,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Tanzania, United Republic of</div>
 </dd>
 </dl>
-<h2 class="title" id="I:U">U</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-roadfeatures#U_TURNS">U_TURNS</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-roadfeatures" title="enum class in com.here.sdk.routing">RoadFeatures</a></dt>
 <dd>
@@ -19387,7 +19387,7 @@ slug: "sdk-for-android-explore-index-all"
 <div class="block">Uzbekistan</div>
 </dd>
 </dl>
-<h2 class="title" id="I:V">V</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-transitincident#validFrom">validFrom</a> - Variable in class com.here.sdk.routing.<a href="sdk-for-android-explore-transitincident" title="class in com.here.sdk.routing">TransitIncident</a></dt>
 <dd>
@@ -21250,7 +21250,7 @@ the order they are declared.</div>
 <div class="block">Vanuatu</div>
 </dd>
 </dl>
-<h2 class="title" id="I:W">W</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-postactiontype#WAIT">WAIT</a> - Enum constant in enum class com.here.sdk.routing.<a href="sdk-for-android-explore-postactiontype" title="enum class in com.here.sdk.routing">PostActionType</a></dt>
 <dd>
@@ -22084,7 +22084,7 @@ the order they are declared.</div>
 <div class="block">Samoa</div>
 </dd>
 </dl>
-<h2 class="title" id="I:X">X</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-point2d#x">x</a> - Variable in class com.here.sdk.core.<a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a></dt>
 <dd>
@@ -22103,7 +22103,7 @@ the order they are declared.</div>
 <div class="block">IsiXhosa</div>
 </dd>
 </dl>
-<h2 class="title" id="I:Y">Y</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-point2d#y">y</a> - Variable in class com.here.sdk.core.<a href="sdk-for-android-explore-point2d" title="class in com.here.sdk.core">Point2D</a></dt>
 <dd>
@@ -22126,7 +22126,7 @@ the order they are declared.</div>
 <div class="block">Yoruba - Latin</div>
 </dd>
 </dl>
-<h2 class="title" id="I:Z">Z</h2>
+
 <dl class="index">
 <dt><a class="member-name-link" href="sdk-for-android-explore-point3d#z">z</a> - Variable in class com.here.sdk.core.<a href="sdk-for-android-explore-point3d" title="class in com.here.sdk.core">Point3D</a></dt>
 <dd>

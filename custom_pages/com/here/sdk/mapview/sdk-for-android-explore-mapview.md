@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapView (API Reference)"
 slug: "sdk-for-android-explore-mapview"
 ---
 
@@ -56,7 +56,7 @@ slug: "sdk-for-android-explore-mapview"
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
 <div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
-<h1 class="title" title="Class MapView">Class MapView</h1>
+
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance">android.view.View
@@ -88,11 +88,11 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
  <p>Gesture handling can be modified through the <a href="sdk-for-android-explore-gestures" title="class in com.here.sdk.gestures"><code>Gestures</code></a> object, which is
  accessible by calling <a href="#getGestures()"><code>getGestures()</code></a>.
 
- <h2>Permissions</h2>
+ 
  To use the MapView the following application permissions need to be present:
  android.permission.INTERNET and android.permission.ACCESS_NETWORK_STATE
 
- <h2>Rendering mode</h2>
+ 
 <code>MapView</code> can draw the map using either <code>SurfaceView</code> or <code>TextureView</code>.
 
  <p><code>SurfaceView</code> is the default method, offers best performance and works best for single
@@ -108,7 +108,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
  <p>Rendering mode can only be set when creating a <code>MapView</code>, by setting
  <a href="sdk-for-android-explore-mapviewoptions#renderMode"><code>MapViewOptions.renderMode</code></a> and passing the options to the constructor.
 
- <h2>Coordinate systems</h2>
+ 
 
  When dealing with view coordinates, physical pixels are used. MapView provides ways
  to translate between view and geographic coordinates using
@@ -117,13 +117,13 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
  to call them during lifecycle changes, they should be called from within
  <a href="sdk-for-android-explore-mapview-onreadylistener#onMapViewReady()"><code>MapView.OnReadyListener.onMapViewReady()</code></a>. See Lifecycle section below for more details.
 
- <h2>Map caching</h2>
+ 
 <p>Two caching mechanisms are supported. First is in-memory cache, which keeps some number
  of map tiles around in memory to avoid repeated network requests or storage reads.
  The second mechanism is persistent cache that stores downloaded map data on the device.
  Persistent cache requires storage permission to be granted.
 
- <h2>Lifecycle</h2>
+ 
 <p>For <code>MapView</code> to work correctly, it is required to call its lifecycle
  methods from the owner Activity: <a href="#onCreate(android.os.Bundle)"><code>onCreate(Bundle)</code></a>, <a href="#onResume()"><code>onResume()</code></a>,
  <a href="#onPause()"><code>onPause()</code></a>, <a href="#onDestroy()"><code>onDestroy()</code></a> and <a href="#onSaveInstanceState(android.os.Bundle)"><code>onSaveInstanceState(Bundle)</code></a>.
@@ -159,7 +159,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <!-- ======== NESTED CLASS SUMMARY ======== -->
 <li>
 <section class="nested-class-summary" id="nested-class-summary">
-<h2>Nested Class Summary</h2>
+
 <div class="caption"><span>Nested Classes</span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
@@ -184,23 +184,23 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 </div>
 </div>
 <div class="inherited-list">
-<h2 id="nested-classes-inherited-from-class-android.widget.FrameLayout">Nested classes/interfaces inherited from class android.widget.FrameLayout</h2>
+
 <code>android.widget.FrameLayout.LayoutParams</code></div>
 <div class="inherited-list">
-<h2 id="nested-classes-inherited-from-class-android.view.ViewGroup">Nested classes/interfaces inherited from class android.view.ViewGroup</h2>
+
 <code>android.view.ViewGroup.MarginLayoutParams, android.view.ViewGroup.OnHierarchyChangeListener</code></div>
 <div class="inherited-list">
-<h2 id="nested-classes-inherited-from-class-android.view.View">Nested classes/interfaces inherited from class android.view.View</h2>
+
 <code>android.view.View.AccessibilityDelegate, android.view.View.BaseSavedState, android.view.View.DragShadowBuilder, android.view.View.MeasureSpec, android.view.View.OnApplyWindowInsetsListener, android.view.View.OnAttachStateChangeListener, android.view.View.OnCapturedPointerListener, android.view.View.OnClickListener, android.view.View.OnContextClickListener, android.view.View.OnCreateContextMenuListener, android.view.View.OnDragListener, android.view.View.OnFocusChangeListener, android.view.View.OnGenericMotionListener, android.view.View.OnHoverListener, android.view.View.OnKeyListener, android.view.View.OnLayoutChangeListener, android.view.View.OnLongClickListener, android.view.View.OnScrollChangeListener, android.view.View.OnSystemUiVisibilityChangeListener, android.view.View.OnTouchListener, android.view.View.OnUnhandledKeyEventListener</code></div>
 <div class="inherited-list">
-<h2 id="nested-classes-inherited-from-class-com.here.sdk.mapview.MapViewBase">Nested classes/interfaces inherited from interface com.here.sdk.mapview.<a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></h2>
+
 <code><a href="sdk-for-android-explore-mapviewbase-mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a></code></div>
 </section>
 </li>
 <!-- =========== FIELD SUMMARY =========== -->
 <li>
 <section class="field-summary" id="field-summary">
-<h2>Field Summary</h2>
+
 <div class="inherited-list">
 <h3 id="fields-inherited-from-class-android.view.ViewGroup">Fields inherited from class android.view.ViewGroup</h3>
 <code>CLIP_TO_PADDING_MASK, FOCUS_AFTER_DESCENDANTS, FOCUS_BEFORE_DESCENDANTS, FOCUS_BLOCK_DESCENDANTS, LAYOUT_MODE_CLIP_BOUNDS, LAYOUT_MODE_OPTICAL_BOUNDS, PERSISTENT_ALL_CACHES, PERSISTENT_ANIMATION_CACHE, PERSISTENT_NO_CACHE, PERSISTENT_SCROLLING_CACHE</code></div>
@@ -212,7 +212,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <!-- ======== CONSTRUCTOR SUMMARY ======== -->
 <li>
 <section class="constructor-summary" id="constructor-summary">
-<h2>Constructor Summary</h2>
+
 <div class="caption"><span>Constructors</span></div>
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
@@ -258,7 +258,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <!-- ========== METHOD SUMMARY =========== -->
 <li>
 <section class="method-summary" id="method-summary">
-<h2>Method Summary</h2>
+
 <div id="method-summary-table">
 <div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab1" onclick="show('method-summary-table', 'method-summary-table-tab1', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Static Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
 <div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
@@ -491,7 +491,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <!-- ========= CONSTRUCTOR DETAIL ======== -->
 <li>
 <section class="constructor-details" id="constructor-detail">
-<h2>Constructor Details</h2>
+
 <ul class="member-list">
 <li>
 <section class="detail" id="&lt;init&gt;(android.content.Context,com.here.sdk.mapview.MapViewOptions)">
@@ -599,7 +599,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <!-- ============ METHOD DETAIL ========== -->
 <li>
 <section class="method-details" id="method-detail">
-<h2>Method Details</h2>
+
 <ul class="member-list">
 <li>
 <section class="detail" id="setVisibility(int)">

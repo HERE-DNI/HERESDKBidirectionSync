@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Deprecated List (API Reference)"
 slug: "sdk-for-android-explore-deprecated-list"
 ---
 
@@ -39,8 +39,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 <div class="flex-content">
 <main role="main">
 <div class="header">
-<h1 class="title" title="Deprecated API">Deprecated API</h1>
-<h2 title="Contents">Contents</h2>
+
+
 <ul>
 <li><a href="#class">Classes</a></li>
 <li><a href="#enum-class">Enum Classes</a></li>

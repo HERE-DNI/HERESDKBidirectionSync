@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "com.here.sdk.gestures Class Hierarchy (API Reference)"
 slug: "sdk-for-android-explore-package-tree"
 ---
 
@@ -39,14 +39,14 @@ slug: "sdk-for-android-explore-package-tree"
 <div class="flex-content">
 <main role="main">
 <div class="header">
-<h1 class="title">Hierarchy For Package com.here.sdk.gestures</h1>
+
 <span class="package-hierarchy-label">Package Hierarchies:</span>
 <ul class="horizontal">
 <li><a href="sdk-for-android-explore-overview-tree">All Packages</a></li>
 </ul>
 </div>
 <section class="hierarchy">
-<h2 title="Class Hierarchy">Class Hierarchy</h2>
+
 <ul>
 <li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
 <ul>
@@ -63,7 +63,7 @@ slug: "sdk-for-android-explore-package-tree"
 </ul>
 </section>
 <section class="hierarchy">
-<h2 title="Interface Hierarchy">Interface Hierarchy</h2>
+
 <ul>
 <li class="circle">com.here.sdk.gestures.<a class="type-name-link" href="sdk-for-android-explore-doubletaplistener" title="interface in com.here.sdk.gestures">DoubleTapListener</a></li>
 <li class="circle">com.here.sdk.gestures.<a class="type-name-link" href="sdk-for-android-explore-longpresslistener" title="interface in com.here.sdk.gestures">LongPressListener</a></li>
@@ -75,7 +75,7 @@ slug: "sdk-for-android-explore-package-tree"
 </ul>
 </section>
 <section class="hierarchy">
-<h2 title="Enum Class Hierarchy">Enum Class Hierarchy</h2>
+
 <ul>
 <li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
 <ul>

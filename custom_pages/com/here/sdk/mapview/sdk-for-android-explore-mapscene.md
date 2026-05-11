@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapScene (API Reference)"
 slug: "sdk-for-android-explore-mapscene"
 ---
 
@@ -56,7 +56,7 @@ slug: "sdk-for-android-explore-mapscene"
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
 <div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
-<h1 class="title" title="Class MapScene">Class MapScene</h1>
+
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
@@ -68,7 +68,7 @@ slug: "sdk-for-android-explore-mapscene"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapScene</span>
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Represents a map scene and exposes the functionality to manipulate its content.
- <h2> Map schemes</h2>
+ 
 <p>The content of the displayed map and how it looks is specified by a
  <a href="sdk-for-android-explore-mapscheme" title="enum class in com.here.sdk.mapview"><code>MapScheme</code></a> which is set when loading a scene with <a href="#loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"><code>loadScene(MapScheme, MapScene.LoadSceneCallback)</code></a>.
  It is also possible to load your own custom map scheme from a file bundled
@@ -83,7 +83,7 @@ slug: "sdk-for-android-explore-mapscene"
 </ul>
 </li>
 </ul>
-<h2> Map features</h2>
+
 <p>Different map schemes offer different sets of features, for example showing traffic or 3D buildings.
  Some features have multiple modes of operation, but most have only one.
  <a href="#getSupportedFeatures()"><code>getSupportedFeatures()</code></a> can be used to check what features and modes are supported
@@ -94,11 +94,11 @@ slug: "sdk-for-android-explore-mapscene"
  <p>Since version 4.15.0, map features cannot be controlled using <a href="#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"><code>setLayerVisibility(java.lang.String, com.here.sdk.mapview.VisibilityState)</code></a>, since <a href="#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"><code>setLayerVisibility(java.lang.String, com.here.sdk.mapview.VisibilityState)</code></a> controls
  only visibility of the layers which are corresponding to the features enabled either by <a href="#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>
  or enabled by default for the scene.
- <h2> Map layers</h2>
+ 
 <p>A map scheme is organized in layers, which can be controlled using <a href="#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"><code>setLayerVisibility(java.lang.String, com.here.sdk.mapview.VisibilityState)</code></a>.
  It's possible to change the visibility state of any map layer as long as the name is known.
  <p>Layer visibility settings persist between scene reloading.
- <h2> User content</h2>
+ 
 <p>User generated content can be visualised on the map using <a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview"><code>MapPolyline</code></a>, <a href="sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview"><code>MapPolygon</code></a>, <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>,
  <a href="sdk-for-android-explore-mapmarkercluster" title="class in com.here.sdk.mapview"><code>MapMarkerCluster</code></a>, <a href="sdk-for-android-explore-maparrow" title="class in com.here.sdk.mapview"><code>MapArrow</code></a>, <a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview"><code>MapMarker3D</code></a> and <a href="sdk-for-android-explore-mapimageoverlay" title="class in com.here.sdk.mapview"><code>MapImageOverlay</code></a>
  (collectively referred to as "map items"). Those can be added to and removed
@@ -119,7 +119,7 @@ slug: "sdk-for-android-explore-mapscene"
 <!-- ======== NESTED CLASS SUMMARY ======== -->
 <li>
 <section class="nested-class-summary" id="nested-class-summary">
-<h2>Nested Class Summary</h2>
+
 <div class="caption"><span>Nested Classes</span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
@@ -142,7 +142,7 @@ slug: "sdk-for-android-explore-mapscene"
 <!-- ========== METHOD SUMMARY =========== -->
 <li>
 <section class="method-summary" id="method-summary">
-<h2>Method Summary</h2>
+
 <div id="method-summary-table">
 <div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
 <div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
@@ -362,7 +362,7 @@ slug: "sdk-for-android-explore-mapscene"
 <!-- ============ METHOD DETAIL ========== -->
 <li>
 <section class="method-details" id="method-detail">
-<h2>Method Details</h2>
+
 <ul class="member-list">
 <li>
 <section class="detail" id="loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)">

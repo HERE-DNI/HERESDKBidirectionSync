@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PolygonTileSource (API Reference)"
 slug: "sdk-for-android-explore-polygontilesource"
 ---
 
@@ -56,7 +56,7 @@ slug: "sdk-for-android-explore-polygontilesource"
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
 <div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
-<h1 class="title" title="Interface PolygonTileSource">Interface PolygonTileSource</h1>
+
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
@@ -77,7 +77,7 @@ extends <a href="sdk-for-android-explore-tilesource" title="interface in com.her
 <!-- ======== NESTED CLASS SUMMARY ======== -->
 <li>
 <section class="nested-class-summary" id="nested-class-summary">
-<h2>Nested Class Summary</h2>
+
 <div class="caption"><span>Nested Classes</span></div>
 <div class="summary-table three-column-summary">
 <div class="table-header col-first">Modifier and Type</div>
@@ -90,14 +90,14 @@ extends <a href="sdk-for-android-explore-tilesource" title="interface in com.her
 </div>
 </div>
 <div class="inherited-list">
-<h2 id="nested-classes-inherited-from-class-com.here.sdk.mapview.datasource.TileSource">Nested classes/interfaces inherited from interface com.here.sdk.mapview.datasource.<a href="sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></h2>
+
 <code><a href="sdk-for-android-explore-tilesource-dataversion" title="class in com.here.sdk.mapview.datasource">TileSource.DataVersion</a>, <a href="sdk-for-android-explore-tilesource-listener" title="interface in com.here.sdk.mapview.datasource">TileSource.Listener</a>, <a href="sdk-for-android-explore-tilesource-loadtilerequesthandle" title="interface in com.here.sdk.mapview.datasource">TileSource.LoadTileRequestHandle</a>, <a href="sdk-for-android-explore-tilesource-tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a></code></div>
 </section>
 </li>
 <!-- ========== METHOD SUMMARY =========== -->
 <li>
 <section class="method-summary" id="method-summary">
-<h2>Method Summary</h2>
+
 <div id="method-summary-table">
 <div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab2" onclick="show('method-summary-table', 'method-summary-table-tab2', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Instance Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab3" onclick="show('method-summary-table', 'method-summary-table-tab3', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Abstract Methods</button></div>
 <div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
@@ -126,7 +126,7 @@ extends <a href="sdk-for-android-explore-tilesource" title="interface in com.her
 <!-- ============ METHOD DETAIL ========== -->
 <li>
 <section class="method-details" id="method-detail">
-<h2>Method Details</h2>
+
 <ul class="member-list">
 <li>
 <section class="detail" id="loadTile(com.here.sdk.mapview.datasource.TileKey,com.here.sdk.mapview.datasource.PolygonTileSource.LoadResultHandler)">

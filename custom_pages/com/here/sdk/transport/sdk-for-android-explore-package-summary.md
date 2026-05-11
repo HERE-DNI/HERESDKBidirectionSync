@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "com.here.sdk.transport (API Reference)"
 slug: "sdk-for-android-explore-package-summary"
 ---
 
@@ -47,7 +47,7 @@ slug: "sdk-for-android-explore-package-summary"
 <div class="flex-content">
 <main role="main">
 <div class="header">
-<h1 class="title" title="Package com.here.sdk.transport">Package com.here.sdk.transport</h1>
+
 </div>
 <hr/>
 <div class="package-signature">package <span class="element-name">com.here.sdk.transport</span></div>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "com.here.sdk.core.utilities Class Hierarchy (API Reference)"
 slug: "sdk-for-android-explore-package-tree"
 ---
 
@@ -39,7 +39,7 @@ slug: "sdk-for-android-explore-package-tree"
 <div class="flex-content">
 <main role="main">
 <div class="header">
-<h1 class="title">Hierarchy For Package com.here.sdk.core.utilities</h1>
+
 <span class="package-hierarchy-label">Package Hierarchies:</span>
 <ul class="horizontal">
 <li><a href="sdk-for-android-explore-overview-tree">All Packages</a></li>

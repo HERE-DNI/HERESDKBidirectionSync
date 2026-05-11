@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "VehicleRestrictionMaxWeightType (API Reference)"
 slug: "sdk-for-android-explore-vehiclerestrictionmaxweighttype"
 ---
 
@@ -56,7 +56,7 @@ slug: "sdk-for-android-explore-vehiclerestrictionmaxweighttype"
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
 <div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
-<h1 class="title" title="Enum Class VehicleRestrictionMaxWeightType">Enum Class VehicleRestrictionMaxWeightType</h1>
+
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
 <div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-vehiclerestrictionmaxweighttype" title="enum class in com.here.sdk.routing">VehicleRestrictionMaxWeightType</a>&gt;
@@ -82,16 +82,16 @@ slug: "sdk-for-android-explore-vehiclerestrictionmaxweighttype"
 <!-- ======== NESTED CLASS SUMMARY ======== -->
 <li>
 <section class="nested-class-summary" id="nested-class-summary">
-<h2>Nested Class Summary</h2>
+
 <div class="inherited-list">
-<h2 id="nested-classes-inherited-from-class-java.lang.Enum">Nested classes/interfaces inherited from class java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a></h2>
+
 <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" title="class or interface in java.lang">Enum.EnumDesc</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" title="class or interface in java.lang">E</a> extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.EnumDesc.html" title="class or interface in java.lang">E</a>&gt;&gt;</code></div>
 </section>
 </li>
 <!-- =========== ENUM CONSTANT SUMMARY =========== -->
 <li>
 <section class="constants-summary" id="enum-constant-summary">
-<h2>Enum Constant Summary</h2>
+
 <div class="caption"><span>Enum Constants</span></div>
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Enum Constant</div>
@@ -118,7 +118,7 @@ slug: "sdk-for-android-explore-vehiclerestrictionmaxweighttype"
 <!-- ========== METHOD SUMMARY =========== -->
 <li>
 <section class="method-summary" id="method-summary">
-<h2>Method Summary</h2>
+
 <div id="method-summary-table">
 <div aria-orientation="horizontal" class="table-tabs" role="tablist"><button aria-controls="method-summary-table.tabpanel" aria-selected="true" class="active-table-tab" id="method-summary-table-tab0" onclick="show('method-summary-table', 'method-summary-table', 3)" onkeydown="switchTab(event)" role="tab" tabindex="0">All Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab1" onclick="show('method-summary-table', 'method-summary-table-tab1', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Static Methods</button><button aria-controls="method-summary-table.tabpanel" aria-selected="false" class="table-tab" id="method-summary-table-tab4" onclick="show('method-summary-table', 'method-summary-table-tab4', 3)" onkeydown="switchTab(event)" role="tab" tabindex="-1">Concrete Methods</button></div>
 <div aria-labelledby="method-summary-table-tab0" id="method-summary-table.tabpanel" role="tabpanel">
@@ -155,7 +155,7 @@ the order they are declared.</div>
 <!-- ============ ENUM CONSTANT DETAIL =========== -->
 <li>
 <section class="constant-details" id="enum-constant-detail">
-<h2>Enum Constant Details</h2>
+
 <ul class="member-list">
 <li>
 <section class="detail" id="UNKNOWN">
@@ -191,7 +191,7 @@ the order they are declared.</div>
 <!-- ============ METHOD DETAIL ========== -->
 <li>
 <section class="method-details" id="method-detail">
-<h2>Method Details</h2>
+
 <ul class="member-list">
 <li>
 <section class="detail" id="values()">

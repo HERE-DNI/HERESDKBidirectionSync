@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "API Help (API Reference)"
 slug: "sdk-for-android-explore-help-doc"
 ---
 
@@ -45,7 +45,7 @@ slug: "sdk-for-android-explore-help-doc"
 </header>
 <div class="flex-content">
 <main role="main">
-<h1 class="title">JavaDoc Help</h1>
+
 <ul class="help-toc">
 <li><a href="#help-navigation">Navigation</a>: 
 <ul class="help-subtoc">
@@ -70,7 +70,7 @@ slug: "sdk-for-android-explore-help-doc"
 </ul>
 <hr/>
 <div class="sub-title">
-<h2 id="help-navigation">Navigation</h2>
+
 Starting from the <a href="sdk-for-android-explore-index">Overview</a> page, you can browse the documentation using the links in each page, and in the navigation bar at the top of each page. The <a href="sdk-for-android-explore-index-all">Index</a> and Search box allow you to navigate to specific declarations and summary pages, including: <a href="sdk-for-android-explore-allpackages-index">All Packages</a>, <a href="sdk-for-android-explore-allclasses-index">All Classes and Interfaces</a>
 <section class="help-section" id="help-search">
 <h3>Search</h3>
@@ -85,7 +85,7 @@ Starting from the <a href="sdk-for-android-explore-index">Overview</a> page, you
 </div>
 <hr/>
 <div class="sub-title">
-<h2 id="help-pages">Kinds of Pages</h2>
+
 The following sections describe the different kinds of pages in this collection.
 <section class="help-section" id="overview">
 <h3>Overview</h3>
