@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-roadshieldiconproperties"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-roadshieldiconproperties"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -88,7 +88,7 @@ slug: "sdk-for-android-explore-roadshieldiconproperties"
 <div class="col-last odd-row-color">
 <div class="block">A string that is used to additionally determine the road shield's visual representation.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-routetype" title="enum class in com.here.sdk.core">RouteType</a></code></div>
+<div class="col-first even-row-color"><code><a href="../core/RouteType.html" title="enum class in com.here.sdk.core">RouteType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#routeType">routeType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The type of route indicating the significance of the road in a range from 0 to 6.</div>
@@ -114,7 +114,7 @@ slug: "sdk-for-android-explore-roadshieldiconproperties"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.RouteType,java.lang.String,java.lang.String,java.lang.String,java.lang.String)">RoadShieldIconProperties</a><wbr/>(<a href="sdk-for-android-explore-routetype" title="enum class in com.here.sdk.core">RouteType</a> routeType,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.RouteType,java.lang.String,java.lang.String,java.lang.String,java.lang.String)">RoadShieldIconProperties</a><wbr/>(<a href="../core/RouteType.html" title="enum class in com.here.sdk.core">RouteType</a> routeType,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> countryCode,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> stateCode,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> routeNumberName,
@@ -147,7 +147,7 @@ slug: "sdk-for-android-explore-roadshieldiconproperties"
 <section class="detail" id="routeType">
 <h3>routeType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routetype" title="enum class in com.here.sdk.core">RouteType</a></span> <span class="element-name">routeType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/RouteType.html" title="enum class in com.here.sdk.core">RouteType</a></span> <span class="element-name">routeType</span></div>
 <div class="block"><p>The type of route indicating the significance of the road in a range from 0 to 6. A value of
  1 stands for the most major route and 6 the most minor, with 0 being of unknown type.</p></div>
 </section>
@@ -214,7 +214,7 @@ slug: "sdk-for-android-explore-roadshieldiconproperties"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.RouteType,java.lang.String,java.lang.String,java.lang.String,java.lang.String)">
 <h3>RoadShieldIconProperties</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RoadShieldIconProperties</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-routetype" title="enum class in com.here.sdk.core">RouteType</a> routeType,
+ <a href="../core/RouteType.html" title="enum class in com.here.sdk.core">RouteType</a> routeType,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> countryCode,
  @NonNull

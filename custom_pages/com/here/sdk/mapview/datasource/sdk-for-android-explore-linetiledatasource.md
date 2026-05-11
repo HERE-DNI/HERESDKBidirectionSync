@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-linetiledatasource"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../../index-all.html">Index</a></li>
+<li><a href="../../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,20 +55,20 @@ slug: "sdk-for-android-explore-linetiledatasource"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.mapview.datasource</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="../../../NativeBase.html" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.datasource.LineTileDataSource</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">LineTileDataSource</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="../../../NativeBase.html" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Line tile data source allows the rendering engine access to user managed data sets of
- geodetic lines and their attributes through a <a href="sdk-for-android-explore-linetilesource" title="interface in com.here.sdk.mapview.datasource"><code>LineTileSource</code></a>.
+ geodetic lines and their attributes through a <a href="LineTileSource.html" title="interface in com.here.sdk.mapview.datasource"><code>LineTileSource</code></a>.
  <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></p></div>
 </section>
@@ -85,12 +85,12 @@ slug: "sdk-for-android-explore-linetiledatasource"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-linetiledatasource" title="class in com.here.sdk.mapview.datasource">LineTileDataSource</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#create(com.here.sdk.mapview.MapContext,java.lang.String,com.here.sdk.mapview.datasource.LineTileSource)">create</a><wbr/>(<a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context,
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="LineTileDataSource.html" title="class in com.here.sdk.mapview.datasource">LineTileDataSource</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#create(com.here.sdk.mapview.MapContext,java.lang.String,com.here.sdk.mapview.datasource.LineTileSource)">create</a><wbr/>(<a href="../MapContext.html" title="class in com.here.sdk.mapview">MapContext</a> context,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
- <a href="sdk-for-android-explore-linetilesource" title="interface in com.here.sdk.mapview.datasource">LineTileSource</a> tileSource)</code></div>
+ <a href="LineTileSource.html" title="interface in com.here.sdk.mapview.datasource">LineTileSource</a> tileSource)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Creates a named <a href="sdk-for-android-explore-linetiledatasource" title="class in com.here.sdk.mapview.datasource"><code>LineTileDataSource</code></a> in the given context over a given <a href="sdk-for-android-explore-linetilesource" title="interface in com.here.sdk.mapview.datasource"><code>LineTileSource</code></a>.</div>
+<div class="block">Creates a named <a href="LineTileDataSource.html" title="class in com.here.sdk.mapview.datasource"><code>LineTileDataSource</code></a> in the given context over a given <a href="LineTileSource.html" title="interface in com.here.sdk.mapview.datasource"><code>LineTileSource</code></a>.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#destroy()">destroy</a>()</code></div>
@@ -118,13 +118,13 @@ slug: "sdk-for-android-explore-linetiledatasource"
 <section class="detail" id="create(com.here.sdk.mapview.MapContext,java.lang.String,com.here.sdk.mapview.datasource.LineTileSource)">
 <h3>create</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-linetiledatasource" title="class in com.here.sdk.mapview.datasource">LineTileDataSource</a></span> <span class="element-name">create</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a> context,
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="LineTileDataSource.html" title="class in com.here.sdk.mapview.datasource">LineTileDataSource</a></span> <span class="element-name">create</span><wbr/><span class="parameters">(@NonNull
+ <a href="../MapContext.html" title="class in com.here.sdk.mapview">MapContext</a> context,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  @NonNull
- <a href="sdk-for-android-explore-linetilesource" title="interface in com.here.sdk.mapview.datasource">LineTileSource</a> tileSource)</span></div>
-<div class="block"><p>Creates a named <a href="sdk-for-android-explore-linetiledatasource" title="class in com.here.sdk.mapview.datasource"><code>LineTileDataSource</code></a> in the given context over a given <a href="sdk-for-android-explore-linetilesource" title="interface in com.here.sdk.mapview.datasource"><code>LineTileSource</code></a>.</p></div>
+ <a href="LineTileSource.html" title="interface in com.here.sdk.mapview.datasource">LineTileSource</a> tileSource)</span></div>
+<div class="block"><p>Creates a named <a href="LineTileDataSource.html" title="class in com.here.sdk.mapview.datasource"><code>LineTileDataSource</code></a> in the given context over a given <a href="LineTileSource.html" title="interface in com.here.sdk.mapview.datasource"><code>LineTileSource</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>context</code> - <p>Map context to associate the data source with.</p></dd>

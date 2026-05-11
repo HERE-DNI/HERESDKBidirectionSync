@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-mapview-viewpin"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,13 +55,13 @@ slug: "sdk-for-android-explore-mapview-viewpin"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.mapview</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-mapview" title="class in com.here.sdk.mapview">MapView</a></dd>
+<dd><a href="MapView.html" title="class in com.here.sdk.mapview">MapView</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static interface </span><span class="element-name type-name-label">MapView.ViewPin</span></div>
@@ -85,23 +85,23 @@ slug: "sdk-for-android-explore-mapview-viewpin"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="../core/Anchor2D.html" title="class in com.here.sdk.core">Anchor2D</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#getAnchorPoint()">getAnchorPoint</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Gets anchor point for this instance.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#getGeoCoordinates()">getGeoCoordinates</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Returns the current GeoCoordinates on the map.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#setAnchorPoint(com.here.sdk.core.Anchor2D)">setAnchorPoint</a><wbr/>(<a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchorPoint)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#setAnchorPoint(com.here.sdk.core.Anchor2D)">setAnchorPoint</a><wbr/>(<a href="../core/Anchor2D.html" title="class in com.here.sdk.core">Anchor2D</a> anchorPoint)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets an anchor point for this instance.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#setGeoCoordinates(com.here.sdk.core.GeoCoordinates)">setGeoCoordinates</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#setGeoCoordinates(com.here.sdk.core.GeoCoordinates)">setGeoCoordinates</a><wbr/>(<a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Sets the GeoCoordinates on the map.</div>
 </div>
@@ -134,7 +134,7 @@ slug: "sdk-for-android-explore-mapview-viewpin"
 <li>
 <section class="detail" id="getGeoCoordinates()">
 <h3>getGeoCoordinates</h3>
-<div class="member-signature"><span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getGeoCoordinates</span>()</div>
+<div class="member-signature"><span class="return-type"><a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getGeoCoordinates</span>()</div>
 <div class="block">Returns the current GeoCoordinates on the map.</div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -146,7 +146,7 @@ slug: "sdk-for-android-explore-mapview-viewpin"
 <section class="detail" id="setGeoCoordinates(com.here.sdk.core.GeoCoordinates)">
 <h3>setGeoCoordinates</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">setGeoCoordinates</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span></div>
+ <a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span></div>
 <div class="block">Sets the GeoCoordinates on the map.
  <p>
  The altitude component of the coordinates, if set, is interpreted as above sea level.
@@ -161,7 +161,7 @@ slug: "sdk-for-android-explore-mapview-viewpin"
 <section class="detail" id="setAnchorPoint(com.here.sdk.core.Anchor2D)">
 <h3>setAnchorPoint</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">setAnchorPoint</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchorPoint)</span></div>
+ <a href="../core/Anchor2D.html" title="class in com.here.sdk.core">Anchor2D</a> anchorPoint)</span></div>
 <div class="block">Sets an anchor point for this instance.
  <p>
  The anchor value has valid range from 0 to 1. Zero (0) for x and y means the view pin's
@@ -178,7 +178,7 @@ slug: "sdk-for-android-explore-mapview-viewpin"
 <li>
 <section class="detail" id="getAnchorPoint()">
 <h3>getAnchorPoint</h3>
-<div class="member-signature"><span class="return-type"><a href="sdk-for-android-explore-anchor2d" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">getAnchorPoint</span>()</div>
+<div class="member-signature"><span class="return-type"><a href="../core/Anchor2D.html" title="class in com.here.sdk.core">Anchor2D</a></span> <span class="element-name">getAnchorPoint</span>()</div>
 <div class="block">Gets anchor point for this instance.</div>
 <dl class="notes">
 <dt>Returns:</dt>

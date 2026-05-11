@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-section"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,21 +55,21 @@ slug: "sdk-for-android-explore-section"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="../../NativeBase.html" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.routing.Section</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Section</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="../../NativeBase.html" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>A section is a part of the route between two stopovers.
  A stopover is a location on the route where a stop is made.
- <p><strong>Note:</strong> A section contains a list of <a href="sdk-for-android-explore-sectionnotice" title="class in com.here.sdk.routing"><code>SectionNotice</code></a> objects that describe
+ <p><strong>Note:</strong> A section contains a list of <a href="SectionNotice.html" title="class in com.here.sdk.routing"><code>SectionNotice</code></a> objects that describe
  <em>potential issues</em> after the route was calculated. If the list is non-empty, it
  is recommended to evaluate possible violations against the requested route options
  and reject the route if deemed necessary.</p></p></div>
@@ -87,17 +87,17 @@ slug: "sdk-for-android-explore-section"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-locationtime" title="class in com.here.sdk.core">LocationTime</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="../core/LocationTime.html" title="class in com.here.sdk.core">LocationTime</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getArrivalLocationTime()">getArrivalLocationTime</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the arrival location time of this section.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="RoutePlace.html" title="class in com.here.sdk.routing">RoutePlace</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getArrivalPlace()">getArrivalPlace</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the arrival place.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="../core/GeoBox.html" title="class in com.here.sdk.core">GeoBox</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getBoundingBox()">getBoundingBox</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the closest rectangular area where this section fits in.</div>
@@ -108,28 +108,28 @@ slug: "sdk-for-android-explore-section"
 <div class="block">Gets estimated net energy consumption (in kWh) if the transportation mode used for this route
  is an electric vehicle.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-locationtime" title="class in com.here.sdk.core">LocationTime</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="../core/LocationTime.html" title="class in com.here.sdk.core">LocationTime</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getDepartureLocationTime()">getDepartureLocationTime</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the departure location time of this section.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="RoutePlace.html" title="class in com.here.sdk.routing">RoutePlace</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getDeparturePlace()">getDeparturePlace</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the departure place.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getDuration()">getDuration</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the estimated time in seconds needed to travel along this section, including
  real-time traffic delays if available.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="../core/GeoPolyline.html" title="class in com.here.sdk.core">GeoPolyline</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getGeometry()">getGeometry</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this section.</div>
+<div class="block">Gets the <a href="../core/GeoPolyline.html" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this section.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-indoorsectiondetails" title="class in com.here.sdk.routing">IndoorSectionDetails</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="IndoorSectionDetails.html" title="class in com.here.sdk.routing">IndoorSectionDetails</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getIndoorSectionDetails()">getIndoorSectionDetails</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets indoor routing section details.</div>
@@ -139,62 +139,62 @@ slug: "sdk-for-android-explore-section"
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the length of this section in meters.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-maneuver" title="class in com.here.sdk.routing">Maneuver</a>&gt;</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="Maneuver.html" title="class in com.here.sdk.routing">Maneuver</a>&gt;</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getManeuvers()">getManeuvers</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the maneuvers for this section.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-violatedrestriction" title="class in com.here.sdk.routing">ViolatedRestriction</a>&gt;</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="ViolatedRestriction.html" title="class in com.here.sdk.routing">ViolatedRestriction</a>&gt;</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getNoThroughRestrictions()">getNoThroughRestrictions</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">list of no through restriction.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-passthroughwaypoint" title="class in com.here.sdk.routing">PassThroughWaypoint</a>&gt;</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="PassThroughWaypoint.html" title="class in com.here.sdk.routing">PassThroughWaypoint</a>&gt;</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getPassthroughWaypoints()">getPassthroughWaypoints</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the list of passthrough waypoints in this section.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-postaction" title="class in com.here.sdk.routing">PostAction</a>&gt;</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="PostAction.html" title="class in com.here.sdk.routing">PostAction</a>&gt;</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getPostActions()">getPostActions</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the post actions that must be done after the arrival at the end of the section.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-preaction" title="class in com.here.sdk.routing">PreAction</a>&gt;</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="PreAction.html" title="class in com.here.sdk.routing">PreAction</a>&gt;</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getPreActions()">getPreActions</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the preceding actions that must be done prior to departure at the beginning of the section.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-sectionnotice" title="class in com.here.sdk.routing">SectionNotice</a>&gt;</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="SectionNotice.html" title="class in com.here.sdk.routing">SectionNotice</a>&gt;</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getSectionNotices()">getSectionNotices</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the notices which explains the issues encountered during processing of this section.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="SectionTransportMode.html" title="enum class in com.here.sdk.routing">SectionTransportMode</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getSectionTransportMode()">getSectionTransportMode</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the transport mode of this section.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-span" title="class in com.here.sdk.routing">Span</a>&gt;</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="Span.html" title="class in com.here.sdk.routing">Span</a>&gt;</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getSpans()">getSpans</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Gets the <a href="sdk-for-android-explore-span" title="class in com.here.sdk.routing"><code>Span</code></a>'s that constitute this section.</div>
+<div class="block">Gets the <a href="Span.html" title="class in com.here.sdk.routing"><code>Span</code></a>'s that constitute this section.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-toll" title="class in com.here.sdk.routing">Toll</a>&gt;</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="Toll.html" title="class in com.here.sdk.routing">Toll</a>&gt;</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getTolls()">getTolls</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets all the tolls for this section.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getTrafficDelay()">getTrafficDelay</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the estimated extra time in seconds spent due to traffic delays along this section.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-trafficincidentonroute" title="class in com.here.sdk.routing">TrafficIncidentOnRoute</a>&gt;</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="TrafficIncidentOnRoute.html" title="class in com.here.sdk.routing">TrafficIncidentOnRoute</a>&gt;</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getTrafficIncidents()">getTrafficIncidents</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">the list of traffic incidents that are found on the section.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-transitsectiondetails" title="class in com.here.sdk.routing">TransitSectionDetails</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="TransitSectionDetails.html" title="class in com.here.sdk.routing">TransitSectionDetails</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getTransitDetails()">getTransitDetails</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the details of a transit section.</div>
@@ -220,11 +220,11 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getGeometry()">
 <h3>getGeometry</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core">GeoPolyline</a></span> <span class="element-name">getGeometry</span>()</div>
-<div class="block"><p>Gets the <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this section.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/GeoPolyline.html" title="class in com.here.sdk.core">GeoPolyline</a></span> <span class="element-name">getGeometry</span>()</div>
+<div class="block"><p>Gets the <a href="../core/GeoPolyline.html" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this section.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The <a href="sdk-for-android-explore-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this section.</p></dd>
+<dd><p>The <a href="../core/GeoPolyline.html" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> object representing the polyline of this section.</p></dd>
 </dl>
 </section>
 </li>
@@ -232,11 +232,11 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getSpans()">
 <h3>getSpans</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-span" title="class in com.here.sdk.routing">Span</a>&gt;</span> <span class="element-name">getSpans</span>()</div>
-<div class="block"><p>Gets the <a href="sdk-for-android-explore-span" title="class in com.here.sdk.routing"><code>Span</code></a>'s that constitute this section.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="Span.html" title="class in com.here.sdk.routing">Span</a>&gt;</span> <span class="element-name">getSpans</span>()</div>
+<div class="block"><p>Gets the <a href="Span.html" title="class in com.here.sdk.routing"><code>Span</code></a>'s that constitute this section.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The <a href="sdk-for-android-explore-span" title="class in com.here.sdk.routing"><code>Span</code></a>'s that constitute this section.</p></dd>
+<dd><p>The <a href="Span.html" title="class in com.here.sdk.routing"><code>Span</code></a>'s that constitute this section.</p></dd>
 </dl>
 </section>
 </li>
@@ -244,7 +244,7 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getManeuvers()">
 <h3>getManeuvers</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-maneuver" title="class in com.here.sdk.routing">Maneuver</a>&gt;</span> <span class="element-name">getManeuvers</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="Maneuver.html" title="class in com.here.sdk.routing">Maneuver</a>&gt;</span> <span class="element-name">getManeuvers</span>()</div>
 <div class="block"><p>Gets the maneuvers for this section.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -256,7 +256,7 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getBoundingBox()">
 <h3>getBoundingBox</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">getBoundingBox</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/GeoBox.html" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">getBoundingBox</span>()</div>
 <div class="block"><p>Gets the closest rectangular area where this section fits in.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -279,7 +279,7 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getSectionTransportMode()">
 <h3>getSectionTransportMode</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-sectiontransportmode" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">getSectionTransportMode</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="SectionTransportMode.html" title="enum class in com.here.sdk.routing">SectionTransportMode</a></span> <span class="element-name">getSectionTransportMode</span>()</div>
 <div class="block"><p>Gets the transport mode of this section.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -291,7 +291,7 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getDeparturePlace()">
 <h3>getDeparturePlace</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></span> <span class="element-name">getDeparturePlace</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="RoutePlace.html" title="class in com.here.sdk.routing">RoutePlace</a></span> <span class="element-name">getDeparturePlace</span>()</div>
 <div class="block"><p>Gets the departure place.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -303,7 +303,7 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getArrivalPlace()">
 <h3>getArrivalPlace</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></span> <span class="element-name">getArrivalPlace</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="RoutePlace.html" title="class in com.here.sdk.routing">RoutePlace</a></span> <span class="element-name">getArrivalPlace</span>()</div>
 <div class="block"><p>Gets the arrival place.
  <p>Describes the arrival place.</p></p></div>
 <dl class="notes">
@@ -316,7 +316,7 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getDepartureLocationTime()">
 <h3>getDepartureLocationTime</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-locationtime" title="class in com.here.sdk.core">LocationTime</a></span> <span class="element-name">getDepartureLocationTime</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/LocationTime.html" title="class in com.here.sdk.core">LocationTime</a></span> <span class="element-name">getDepartureLocationTime</span>()</div>
 <div class="block"><p>Gets the departure location time of this section.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -328,7 +328,7 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getArrivalLocationTime()">
 <h3>getArrivalLocationTime</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-locationtime" title="class in com.here.sdk.core">LocationTime</a></span> <span class="element-name">getArrivalLocationTime</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/LocationTime.html" title="class in com.here.sdk.core">LocationTime</a></span> <span class="element-name">getArrivalLocationTime</span>()</div>
 <div class="block"><p>Gets the arrival location time of this section.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -340,7 +340,7 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getPreActions()">
 <h3>getPreActions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-preaction" title="class in com.here.sdk.routing">PreAction</a>&gt;</span> <span class="element-name">getPreActions</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="PreAction.html" title="class in com.here.sdk.routing">PreAction</a>&gt;</span> <span class="element-name">getPreActions</span>()</div>
 <div class="block"><p>Gets the preceding actions that must be done prior to departure at the beginning of the section.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -352,7 +352,7 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getPostActions()">
 <h3>getPostActions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-postaction" title="class in com.here.sdk.routing">PostAction</a>&gt;</span> <span class="element-name">getPostActions</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="PostAction.html" title="class in com.here.sdk.routing">PostAction</a>&gt;</span> <span class="element-name">getPostActions</span>()</div>
 <div class="block"><p>Gets the post actions that must be done after the arrival at the end of the section.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -364,7 +364,7 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getSectionNotices()">
 <h3>getSectionNotices</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-sectionnotice" title="class in com.here.sdk.routing">SectionNotice</a>&gt;</span> <span class="element-name">getSectionNotices</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="SectionNotice.html" title="class in com.here.sdk.routing">SectionNotice</a>&gt;</span> <span class="element-name">getSectionNotices</span>()</div>
 <div class="block"><p>Gets the notices which explains the issues encountered during processing of this section.
  For example, while the scooter transport mode is selected, if no reasonable alternative route is
  possible except violating controlled-access to highway rule for the section, one notice is generated
@@ -382,7 +382,7 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getIndoorSectionDetails()">
 <h3>getIndoorSectionDetails</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-indoorsectiondetails" title="class in com.here.sdk.routing">IndoorSectionDetails</a></span> <span class="element-name">getIndoorSectionDetails</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="IndoorSectionDetails.html" title="class in com.here.sdk.routing">IndoorSectionDetails</a></span> <span class="element-name">getIndoorSectionDetails</span>()</div>
 <div class="block"><p>Gets indoor routing section details.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -408,7 +408,7 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getTransitDetails()">
 <h3>getTransitDetails</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-transitsectiondetails" title="class in com.here.sdk.routing">TransitSectionDetails</a></span> <span class="element-name">getTransitDetails</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="TransitSectionDetails.html" title="class in com.here.sdk.routing">TransitSectionDetails</a></span> <span class="element-name">getTransitDetails</span>()</div>
 <div class="block"><p>Gets the details of a transit section.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -420,7 +420,7 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getTolls()">
 <h3>getTolls</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-toll" title="class in com.here.sdk.routing">Toll</a>&gt;</span> <span class="element-name">getTolls</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="Toll.html" title="class in com.here.sdk.routing">Toll</a>&gt;</span> <span class="element-name">getTolls</span>()</div>
 <div class="block"><p>Gets all the tolls for this section. Note that tolls are found depending on the
  transport mode. For example, if pedestrian or bicycle transport mode specified, route sections have no tolls.
  Indoor route sections have no tolls, too.
@@ -443,7 +443,7 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getTrafficIncidents()">
 <h3>getTrafficIncidents</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-trafficincidentonroute" title="class in com.here.sdk.routing">TrafficIncidentOnRoute</a>&gt;</span> <span class="element-name">getTrafficIncidents</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="TrafficIncidentOnRoute.html" title="class in com.here.sdk.routing">TrafficIncidentOnRoute</a>&gt;</span> <span class="element-name">getTrafficIncidents</span>()</div>
 <div class="block"><p>the list of traffic incidents that are found on the section.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -455,7 +455,7 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getDuration()">
 <h3>getDuration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getDuration</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></span> <span class="element-name">getDuration</span>()</div>
 <div class="block"><p>Gets the estimated time in seconds needed to travel along this section, including
  real-time traffic delays if available.</p></div>
 <dl class="notes">
@@ -469,7 +469,7 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getTrafficDelay()">
 <h3>getTrafficDelay</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getTrafficDelay</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></span> <span class="element-name">getTrafficDelay</span>()</div>
 <div class="block"><p>Gets the estimated extra time in seconds spent due to traffic delays along this section.
  Negative values indicate that the route can be traversed faster than usual.</p></div>
 <dl class="notes">
@@ -483,7 +483,7 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getPassthroughWaypoints()">
 <h3>getPassthroughWaypoints</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-passthroughwaypoint" title="class in com.here.sdk.routing">PassThroughWaypoint</a>&gt;</span> <span class="element-name">getPassthroughWaypoints</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="PassThroughWaypoint.html" title="class in com.here.sdk.routing">PassThroughWaypoint</a>&gt;</span> <span class="element-name">getPassthroughWaypoints</span>()</div>
 <div class="block"><p>Gets the list of passthrough waypoints in this section.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -495,7 +495,7 @@ slug: "sdk-for-android-explore-section"
 <section class="detail" id="getNoThroughRestrictions()">
 <h3>getNoThroughRestrictions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-violatedrestriction" title="class in com.here.sdk.routing">ViolatedRestriction</a>&gt;</span> <span class="element-name">getNoThroughRestrictions</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="ViolatedRestriction.html" title="class in com.here.sdk.routing">ViolatedRestriction</a>&gt;</span> <span class="element-name">getNoThroughRestrictions</span>()</div>
 <div class="block"><p>list of no through restriction.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

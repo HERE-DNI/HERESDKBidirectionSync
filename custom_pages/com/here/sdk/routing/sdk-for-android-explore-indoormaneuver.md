@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-indoormaneuver"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,18 +55,18 @@ slug: "sdk-for-android-explore-indoormaneuver"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="../../NativeBase.html" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.routing.IndoorManeuver</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">IndoorManeuver</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="../../NativeBase.html" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Represents a maneuver within an indoor section.</p></div>
 </section>
 <section class="summary">
@@ -82,27 +82,27 @@ slug: "sdk-for-android-explore-indoormaneuver"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="IndoorManeuverActions.html" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getAction()">getAction</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the action type of this maneuver.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getCoordinate()">getCoordinate</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the geographic coordinates of this maneuver.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getDuration()">getDuration</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the duration to complete this maneuver.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-indoorlevelchangedata" title="class in com.here.sdk.routing">IndoorLevelChangeData</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="IndoorLevelChangeData.html" title="class in com.here.sdk.routing">IndoorLevelChangeData</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getIndoorLevelChangeData()">getIndoorLevelChangeData</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the level change data for this maneuver.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-indoorspacedata" title="class in com.here.sdk.routing">IndoorSpaceData</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="IndoorSpaceData.html" title="class in com.here.sdk.routing">IndoorSpaceData</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getIndoorSpaceData()">getIndoorSpaceData</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the indoor space data for this maneuver.</div>
@@ -148,7 +148,7 @@ slug: "sdk-for-android-explore-indoormaneuver"
 <section class="detail" id="getAction()">
 <h3>getAction</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-indoormaneuveractions" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">getAction</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="IndoorManeuverActions.html" title="enum class in com.here.sdk.routing">IndoorManeuverActions</a></span> <span class="element-name">getAction</span>()</div>
 <div class="block"><p>Gets the action type of this maneuver.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -160,7 +160,7 @@ slug: "sdk-for-android-explore-indoormaneuver"
 <section class="detail" id="getCoordinate()">
 <h3>getCoordinate</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCoordinate</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getCoordinate</span>()</div>
 <div class="block"><p>Gets the geographic coordinates of this maneuver.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -205,7 +205,7 @@ slug: "sdk-for-android-explore-indoormaneuver"
 <section class="detail" id="getDuration()">
 <h3>getDuration</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">getDuration</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></span> <span class="element-name">getDuration</span>()</div>
 <div class="block"><p>Gets the duration to complete this maneuver.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -228,7 +228,7 @@ slug: "sdk-for-android-explore-indoormaneuver"
 <section class="detail" id="getIndoorSpaceData()">
 <h3>getIndoorSpaceData</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-indoorspacedata" title="class in com.here.sdk.routing">IndoorSpaceData</a></span> <span class="element-name">getIndoorSpaceData</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="IndoorSpaceData.html" title="class in com.here.sdk.routing">IndoorSpaceData</a></span> <span class="element-name">getIndoorSpaceData</span>()</div>
 <div class="block"><p>Gets the indoor space data for this maneuver. This will be not null if the IndoorManeuverAction is ENTER_ACTION or LEAVE_ACTION.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -240,7 +240,7 @@ slug: "sdk-for-android-explore-indoormaneuver"
 <section class="detail" id="getIndoorLevelChangeData()">
 <h3>getIndoorLevelChangeData</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-indoorlevelchangedata" title="class in com.here.sdk.routing">IndoorLevelChangeData</a></span> <span class="element-name">getIndoorLevelChangeData</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="IndoorLevelChangeData.html" title="class in com.here.sdk.routing">IndoorLevelChangeData</a></span> <span class="element-name">getIndoorLevelChangeData</span>()</div>
 <div class="block"><p>Gets the level change data for this maneuver. This will be not null if the IndoorManeuverAction is LEVEL_CHANGE_ACTION.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

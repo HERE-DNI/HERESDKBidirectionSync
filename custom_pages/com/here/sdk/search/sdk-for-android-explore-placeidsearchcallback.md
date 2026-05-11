@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-placeidsearchcallback"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-placeidsearchcallback"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.search</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -82,8 +82,8 @@ slug: "sdk-for-android-explore-placeidsearchcallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#onPlaceIdSearchCompleted(com.here.sdk.search.SearchError,com.here.sdk.search.Place)">onPlaceIdSearchCompleted</a><wbr/>(<a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
- <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search">Place</a> place)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#onPlaceIdSearchCompleted(com.here.sdk.search.SearchError,com.here.sdk.search.Place)">onPlaceIdSearchCompleted</a><wbr/>(<a href="SearchError.html" title="enum class in com.here.sdk.search">SearchError</a> searchError,
+ <a href="Place.html" title="class in com.here.sdk.search">Place</a> place)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">The method will be called on the main thread when a search by id call has been completed.</div>
 </div>
@@ -105,9 +105,9 @@ slug: "sdk-for-android-explore-placeidsearchcallback"
 <section class="detail" id="onPlaceIdSearchCompleted(com.here.sdk.search.SearchError,com.here.sdk.search.Place)">
 <h3>onPlaceIdSearchCompleted</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onPlaceIdSearchCompleted</span><wbr/><span class="parameters">(@Nullable
- <a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
+ <a href="SearchError.html" title="enum class in com.here.sdk.search">SearchError</a> searchError,
  @Nullable
- <a href="sdk-for-android-explore-place" title="class in com.here.sdk.search">Place</a> place)</span></div>
+ <a href="Place.html" title="class in com.here.sdk.search">Place</a> place)</span></div>
 <div class="block"><p>The method will be called on the main thread when a search by id call has been completed.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

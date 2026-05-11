@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-searchoptions"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-searchoptions"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -88,7 +88,7 @@ slug: "sdk-for-android-explore-searchoptions"
 <div class="col-last odd-row-color">
 <div class="block">Allows enabling high density encoding of relevant parameters.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
+<div class="col-first even-row-color"><code><a href="../core/LanguageCode.html" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#languageCode">languageCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The preferred language of the result.</div>
@@ -154,7 +154,7 @@ slug: "sdk-for-android-explore-searchoptions"
 <section class="detail" id="languageCode">
 <h3>languageCode</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">languageCode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/LanguageCode.html" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">languageCode</span></div>
 <div class="block"><p>The preferred language of the result. When unset or unsupported language is chosen,
  results will be returned in their local language.</p></div>
 </section>
@@ -180,7 +180,7 @@ slug: "sdk-for-android-explore-searchoptions"
  unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.
  Only participants of the closed-alpha group can get access from HERE to use this feature,
- otherwise, a <a href="sdk-for-android-explore-searcherror#FORBIDDEN"><code>SearchError.FORBIDDEN</code></a> will be propagated in callbacks.</p></div>
+ otherwise, a <a href="SearchError.html#FORBIDDEN"><code>SearchError.FORBIDDEN</code></a> will be propagated in callbacks.</p></div>
 </section>
 </li>
 <li>
@@ -190,8 +190,8 @@ slug: "sdk-for-android-explore-searchoptions"
 <div class="block"><p>Indicates if search along the route should produce well-distributed results.
  It is only supported for:
  <ul>
-<li><code>searchByCategory</code> API with <a href="sdk-for-android-explore-categoryquery-area#corridorArea"><code>CategoryQuery.Area.corridorArea</code></a> set</li>
-<li><code>searchByText</code> API with <a href="sdk-for-android-explore-textquery-area#corridorArea"><code>TextQuery.Area.corridorArea</code></a> set
+<li><code>searchByCategory</code> API with <a href="CategoryQuery.Area.html#corridorArea"><code>CategoryQuery.Area.corridorArea</code></a> set</li>
+<li><code>searchByText</code> API with <a href="TextQuery.Area.html#corridorArea"><code>TextQuery.Area.corridorArea</code></a> set
  Otherwise, this value is ignored.</li>
 </ul></p></div>
 </section>

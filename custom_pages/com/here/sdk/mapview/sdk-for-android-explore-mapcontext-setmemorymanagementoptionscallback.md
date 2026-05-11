@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-mapcontext-setmemorymanagementoptionscallback"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,13 +55,13 @@ slug: "sdk-for-android-explore-mapcontext-setmemorymanagementoptionscallback"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.mapview</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></dd>
+<dd><a href="MapContext.html" title="class in com.here.sdk.mapview">MapContext</a></dd>
 </dl>
 <dl class="notes">
 <dt>Functional Interface:</dt>
@@ -88,7 +88,7 @@ slug: "sdk-for-android-explore-mapcontext-setmemorymanagementoptionscallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#onSetMemoryManagementOptions(com.here.sdk.mapview.MapContext.MemoryManagementResult)">onSetMemoryManagementOptions</a><wbr/>(<a href="sdk-for-android-explore-mapcontext-memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a> result)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#onSetMemoryManagementOptions(com.here.sdk.mapview.MapContext.MemoryManagementResult)">onSetMemoryManagementOptions</a><wbr/>(<a href="MapContext.MemoryManagementResult.html" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a> result)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Callback to handle the memory management result.</div>
 </div>
@@ -110,7 +110,7 @@ slug: "sdk-for-android-explore-mapcontext-setmemorymanagementoptionscallback"
 <section class="detail" id="onSetMemoryManagementOptions(com.here.sdk.mapview.MapContext.MemoryManagementResult)">
 <h3>onSetMemoryManagementOptions</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onSetMemoryManagementOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapcontext-memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a> result)</span></div>
+ <a href="MapContext.MemoryManagementResult.html" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a> result)</span></div>
 <div class="block"><p>Callback to handle the memory management result.
  <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></p></div>

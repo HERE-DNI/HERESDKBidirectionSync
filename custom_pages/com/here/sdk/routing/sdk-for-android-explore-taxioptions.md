@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-taxioptions"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-taxioptions"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -69,8 +69,8 @@ slug: "sdk-for-android-explore-taxioptions"
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div>
 </div>
-<div class="block"><p>All the options to specify how a taxi route should be calculated. See, <a href="sdk-for-android-explore-transportmode#TAXI"><code>TransportMode.TAXI</code></a>.
- <p><strong>Note:</strong> Specify the optional <a href="sdk-for-android-explore-waypoint#sideOfStreetHint"><code>Waypoint.sideOfStreetHint</code></a> to indicate at which side of
+<div class="block"><p>All the options to specify how a taxi route should be calculated. See, <a href="../transport/TransportMode.html#TAXI"><code>TransportMode.TAXI</code></a>.
+ <p><strong>Note:</strong> Specify the optional <a href="Waypoint.html#sideOfStreetHint"><code>Waypoint.sideOfStreetHint</code></a> to indicate at which side of
  the street a passenger wants to leave the taxi.</p></p></div>
 </section>
 <section class="summary">
@@ -90,13 +90,13 @@ slug: "sdk-for-android-explore-taxioptions"
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Specifies if a vehicle is allowed to drive through the taxi-only roads and lanes.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-avoidanceoptions" title="class in com.here.sdk.routing">AvoidanceOptions</a></code></div>
+<div class="col-first odd-row-color"><code><a href="AvoidanceOptions.html" title="class in com.here.sdk.routing">AvoidanceOptions</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#avoidanceOptions">avoidanceOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Options to specify restrictions for route calculations.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-carspecifications" title="class in com.here.sdk.transport">CarSpecifications</a></code></div>
+<div class="col-first even-row-color"><code><a href="../transport/CarSpecifications.html" title="class in com.here.sdk.transport">CarSpecifications</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#carSpecifications">carSpecifications</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
@@ -109,26 +109,26 @@ slug: "sdk-for-android-explore-taxioptions"
 <div class="block">Specifies the last character of a vehicle's license plate, typically used to
  evaluate traffic restrictions in certain environmental or low-emission zones.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-maxspeedonsegment" title="class in com.here.sdk.routing">MaxSpeedOnSegment</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="MaxSpeedOnSegment.html" title="class in com.here.sdk.routing">MaxSpeedOnSegment</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#maxSpeedOnSegments">maxSpeedOnSegments</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block">Segments with restriction on maximum <a href="sdk-for-android-explore-dynamicspeedinfo#baseSpeedInMetersPerSecond"><code>DynamicSpeedInfo.baseSpeedInMetersPerSecond</code></a>.</div>
+<div class="block">Segments with restriction on maximum <a href="DynamicSpeedInfo.html#baseSpeedInMetersPerSecond"><code>DynamicSpeedInfo.baseSpeedInMetersPerSecond</code></a>.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></code></div>
+<div class="col-first odd-row-color"><code><a href="RouteOptions.html" title="class in com.here.sdk.routing">RouteOptions</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#routeOptions">routeOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Specifies the common route calculation options.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></code></div>
+<div class="col-first even-row-color"><code><a href="RouteTextOptions.html" title="class in com.here.sdk.routing">RouteTextOptions</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#textOptions">textOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Customize textual content returned from the route calculation, such
  as localization, format, and unit system.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-tolloptions" title="class in com.here.sdk.routing">TollOptions</a></code></div>
+<div class="col-first odd-row-color"><code><a href="TollOptions.html" title="class in com.here.sdk.routing">TollOptions</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#tollOptions">tollOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
@@ -151,9 +151,9 @@ slug: "sdk-for-android-explore-taxioptions"
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.routing.RouteOptions,com.here.sdk.routing.RouteTextOptions,com.here.sdk.routing.AvoidanceOptions)">TaxiOptions</a><wbr/>(<a href="sdk-for-android-explore-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a> routeOptions,
- <a href="sdk-for-android-explore-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a> textOptions,
- <a href="sdk-for-android-explore-avoidanceoptions" title="class in com.here.sdk.routing">AvoidanceOptions</a> avoidanceOptions)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.routing.RouteOptions,com.here.sdk.routing.RouteTextOptions,com.here.sdk.routing.AvoidanceOptions)">TaxiOptions</a><wbr/>(<a href="RouteOptions.html" title="class in com.here.sdk.routing">RouteOptions</a> routeOptions,
+ <a href="RouteTextOptions.html" title="class in com.here.sdk.routing">RouteTextOptions</a> textOptions,
+ <a href="AvoidanceOptions.html" title="class in com.here.sdk.routing">AvoidanceOptions</a> avoidanceOptions)</code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Creates a new instance.</div>
@@ -203,7 +203,7 @@ slug: "sdk-for-android-explore-taxioptions"
 <section class="detail" id="routeOptions">
 <h3>routeOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></span> <span class="element-name">routeOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="RouteOptions.html" title="class in com.here.sdk.routing">RouteOptions</a></span> <span class="element-name">routeOptions</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Specifies the common route calculation options.</p></div>
 </section>
@@ -212,7 +212,7 @@ slug: "sdk-for-android-explore-taxioptions"
 <section class="detail" id="textOptions">
 <h3>textOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></span> <span class="element-name">textOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="RouteTextOptions.html" title="class in com.here.sdk.routing">RouteTextOptions</a></span> <span class="element-name">textOptions</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Customize textual content returned from the route calculation, such
  as localization, format, and unit system.</p></div>
@@ -222,7 +222,7 @@ slug: "sdk-for-android-explore-taxioptions"
 <section class="detail" id="avoidanceOptions">
 <h3>avoidanceOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-avoidanceoptions" title="class in com.here.sdk.routing">AvoidanceOptions</a></span> <span class="element-name">avoidanceOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="AvoidanceOptions.html" title="class in com.here.sdk.routing">AvoidanceOptions</a></span> <span class="element-name">avoidanceOptions</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Options to specify restrictions for route calculations. By default
  no restrictions are applied.</p></div>
@@ -232,7 +232,7 @@ slug: "sdk-for-android-explore-taxioptions"
 <section class="detail" id="tollOptions">
 <h3>tollOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-tolloptions" title="class in com.here.sdk.routing">TollOptions</a></span> <span class="element-name">tollOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="TollOptions.html" title="class in com.here.sdk.routing">TollOptions</a></span> <span class="element-name">tollOptions</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Options to specify how the tolls should be calculated,
  such as transponders, vehicle category, and emission type.</p></div>
@@ -259,9 +259,9 @@ slug: "sdk-for-android-explore-taxioptions"
 <section class="detail" id="maxSpeedOnSegments">
 <h3>maxSpeedOnSegments</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-maxspeedonsegment" title="class in com.here.sdk.routing">MaxSpeedOnSegment</a>&gt;</span> <span class="element-name">maxSpeedOnSegments</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="MaxSpeedOnSegment.html" title="class in com.here.sdk.routing">MaxSpeedOnSegment</a>&gt;</span> <span class="element-name">maxSpeedOnSegments</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block"><p>Segments with restriction on maximum <a href="sdk-for-android-explore-dynamicspeedinfo#baseSpeedInMetersPerSecond"><code>DynamicSpeedInfo.baseSpeedInMetersPerSecond</code></a>.</p></div>
+<div class="block"><p>Segments with restriction on maximum <a href="DynamicSpeedInfo.html#baseSpeedInMetersPerSecond"><code>DynamicSpeedInfo.baseSpeedInMetersPerSecond</code></a>.</p></div>
 </section>
 </li>
 <li>
@@ -278,7 +278,7 @@ slug: "sdk-for-android-explore-taxioptions"
 <section class="detail" id="carSpecifications">
 <h3>carSpecifications</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-carspecifications" title="class in com.here.sdk.transport">CarSpecifications</a></span> <span class="element-name">carSpecifications</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../transport/CarSpecifications.html" title="class in com.here.sdk.transport">CarSpecifications</a></span> <span class="element-name">carSpecifications</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Detailed car specifications such as dimensions and weight.</p></div>
 </section>
@@ -303,11 +303,11 @@ slug: "sdk-for-android-explore-taxioptions"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.RouteOptions,com.here.sdk.routing.RouteTextOptions,com.here.sdk.routing.AvoidanceOptions)">
 <h3>TaxiOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TaxiOptions</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a> routeOptions,
+ <a href="RouteOptions.html" title="class in com.here.sdk.routing">RouteOptions</a> routeOptions,
  @NonNull
- <a href="sdk-for-android-explore-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a> textOptions,
+ <a href="RouteTextOptions.html" title="class in com.here.sdk.routing">RouteTextOptions</a> textOptions,
  @NonNull
- <a href="sdk-for-android-explore-avoidanceoptions" title="class in com.here.sdk.routing">AvoidanceOptions</a> avoidanceOptions)</span></div>
+ <a href="AvoidanceOptions.html" title="class in com.here.sdk.routing">AvoidanceOptions</a> avoidanceOptions)</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">

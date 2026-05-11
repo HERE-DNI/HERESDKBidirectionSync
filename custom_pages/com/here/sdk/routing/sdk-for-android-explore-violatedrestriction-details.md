@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -64,7 +64,7 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-violatedrestriction" title="class in com.here.sdk.routing">ViolatedRestriction</a></dd>
+<dd><a href="ViolatedRestriction.html" title="class in com.here.sdk.routing">ViolatedRestriction</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">ViolatedRestriction.Details</span>
@@ -84,35 +84,35 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
+<div class="col-first even-row-color"><code><a href="../core/IntegerRange.html" title="class in com.here.sdk.core">IntegerRange</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#forbiddenAxleCount">forbiddenAxleCount</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The restriction to trucks with axles number within specified range during the trip.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="../transport/HazardousMaterial.html" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#forbiddenHazardousGoods">forbiddenHazardousGoods</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">There are two lists for our trip: Hazardous goods restrictions applied during the trip, and the list used
- for the route calculation provided using <a href="sdk-for-android-explore-vehiclespecification#hazardousMaterials"><code>VehicleSpecification.hazardousMaterials</code></a> from
- <a href="sdk-for-android-explore-transportspecification#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a> from <a href="sdk-for-android-explore-routingoptions#transportSpecification"><code>RoutingOptions.transportSpecification</code></a>.</div>
+ for the route calculation provided using <a href="../transport/VehicleSpecification.html#hazardousMaterials"><code>VehicleSpecification.hazardousMaterials</code></a> from
+ <a href="../transport/TransportSpecification.html#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a> from <a href="RoutingOptions.html#transportSpecification"><code>RoutingOptions.transportSpecification</code></a>.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-integerrange" title="class in com.here.sdk.core">IntegerRange</a></code></div>
+<div class="col-first even-row-color"><code><a href="../core/IntegerRange.html" title="class in com.here.sdk.core">IntegerRange</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#forbiddenTrailerCount">forbiddenTrailerCount</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Constrains the restriction to trucks with number of trailer within specified range during the trip.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-truckcategory" title="enum class in com.here.sdk.transport">TruckCategory</a></code></div>
+<div class="col-first odd-row-color"><code><a href="../transport/TruckCategory.html" title="enum class in com.here.sdk.transport">TruckCategory</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#forbiddenTruckCategory">forbiddenTruckCategory</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">This property will be set if a restriction applies to the value of <a href="sdk-for-android-explore-truckcategory" title="enum class in com.here.sdk.transport"><code>TruckCategory</code></a>
+<div class="block">This property will be set if a restriction applies to the value of <a href="../transport/TruckCategory.html" title="enum class in com.here.sdk.transport"><code>TruckCategory</code></a>
  parameter used for route calculation.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="../transport/TruckRoadType.html" title="enum class in com.here.sdk.transport">TruckRoadType</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#forbiddenTruckRoadTypes">forbiddenTruckRoadTypes</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Contains violated restrictions for truck road types.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-trucktype" title="enum class in com.here.sdk.transport">TruckType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="../transport/TruckType.html" title="enum class in com.here.sdk.transport">TruckType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#forbiddenTruckType">forbiddenTruckType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span>
@@ -144,17 +144,17 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <div class="col-last even-row-color">
 <div class="block">Max permitted payload capacity during the trip, in kilograms.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></code></div>
+<div class="col-first odd-row-color"><code><a href="../transport/TunnelCategory.html" title="enum class in com.here.sdk.transport">TunnelCategory</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#maxTunnelCategory">maxTunnelCategory</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Tunnel category to restrict transport of specific goods during the trip.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-vehiclerestrictionmaxweight" title="class in com.here.sdk.routing">VehicleRestrictionMaxWeight</a></code></div>
+<div class="col-first even-row-color"><code><a href="VehicleRestrictionMaxWeight.html" title="class in com.here.sdk.routing">VehicleRestrictionMaxWeight</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#maxWeight">maxWeight</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Max permitted weight during the trip, in kilograms, along with the specific type of maximum permitted weight restriction.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-maxaxlegroupweight" title="class in com.here.sdk.routing">MaxAxleGroupWeight</a></code></div>
+<div class="col-first odd-row-color"><code><a href="MaxAxleGroupWeight.html" title="class in com.here.sdk.routing">MaxAxleGroupWeight</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#maxWeightPerAxleGroupInKilograms">maxWeightPerAxleGroupInKilograms</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Max permitted weight per axle group during the trip, in kilograms.</div>
@@ -173,9 +173,9 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#routingZoneReference">routingZoneReference</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Contains the restricted routing zone reference
- This property will be set if the <a href="sdk-for-android-explore-avoidanceoptions#zoneCategories"><code>AvoidanceOptions.zoneCategories</code></a> is not empty</div>
+ This property will be set if the <a href="AvoidanceOptions.html#zoneCategories"><code>AvoidanceOptions.zoneCategories</code></a> is not empty</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-timerule" title="class in com.here.sdk.core">TimeRule</a></code></div>
+<div class="col-first odd-row-color"><code><a href="../core/TimeRule.html" title="class in com.here.sdk.core">TimeRule</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#timeRule">timeRule</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Time intervals during which restrictions are enforced.</div>
@@ -238,7 +238,7 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxWeightPerAxleInKilograms</span></div>
 <div class="block"><p>Max permitted weight per axle during the trip, in kilograms.
- This property will be set if the <a href="sdk-for-android-explore-vehiclespecification#weightPerAxleInKilograms"><code>VehicleSpecification.weightPerAxleInKilograms</code></a>
+ This property will be set if the <a href="../transport/VehicleSpecification.html#weightPerAxleInKilograms"><code>VehicleSpecification.weightPerAxleInKilograms</code></a>
  exceeds this value.</p></div>
 </section>
 </li>
@@ -246,9 +246,9 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <section class="detail" id="maxWeightPerAxleGroupInKilograms">
 <h3>maxWeightPerAxleGroupInKilograms</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-maxaxlegroupweight" title="class in com.here.sdk.routing">MaxAxleGroupWeight</a></span> <span class="element-name">maxWeightPerAxleGroupInKilograms</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="MaxAxleGroupWeight.html" title="class in com.here.sdk.routing">MaxAxleGroupWeight</a></span> <span class="element-name">maxWeightPerAxleGroupInKilograms</span></div>
 <div class="block"><p>Max permitted weight per axle group during the trip, in kilograms.
- This property will be set if the <a href="sdk-for-android-explore-vehiclespecification#weightPerAxleGroup"><code>VehicleSpecification.weightPerAxleGroup</code></a>
+ This property will be set if the <a href="../transport/VehicleSpecification.html#weightPerAxleGroup"><code>VehicleSpecification.weightPerAxleGroup</code></a>
  exceeds this value.</p></div>
 </section>
 </li>
@@ -258,7 +258,7 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxHeightInCentimeters</span></div>
 <div class="block"><p>Max permitted height during the trip, in centimeters.
- This property will be set if the <a href="sdk-for-android-explore-vehiclespecification#heightInCentimeters"><code>VehicleSpecification.heightInCentimeters</code></a>
+ This property will be set if the <a href="../transport/VehicleSpecification.html#heightInCentimeters"><code>VehicleSpecification.heightInCentimeters</code></a>
  exceeds this value.</p></div>
 </section>
 </li>
@@ -268,7 +268,7 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxWidthInCentimeters</span></div>
 <div class="block"><p>Max permitted width during the trip, in centimeters.
- This property will be set if the <a href="sdk-for-android-explore-vehiclespecification#widthInCentimeters"><code>VehicleSpecification.widthInCentimeters</code></a>
+ This property will be set if the <a href="../transport/VehicleSpecification.html#widthInCentimeters"><code>VehicleSpecification.widthInCentimeters</code></a>
  exceeds this value.</p></div>
 </section>
 </li>
@@ -278,7 +278,7 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxLengthInCentimeters</span></div>
 <div class="block"><p>Max permitted length during the trip, in centimeters.
- This property will be set if the <a href="sdk-for-android-explore-vehiclespecification#lengthInCentimeters"><code>VehicleSpecification.lengthInCentimeters</code></a>
+ This property will be set if the <a href="../transport/VehicleSpecification.html#lengthInCentimeters"><code>VehicleSpecification.lengthInCentimeters</code></a>
  exceeds this value.</p></div>
 </section>
 </li>
@@ -286,9 +286,9 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <section class="detail" id="forbiddenAxleCount">
 <h3>forbiddenAxleCount</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">forbiddenAxleCount</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/IntegerRange.html" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">forbiddenAxleCount</span></div>
 <div class="block"><p>The restriction to trucks with axles number within specified range during the trip.
- This property will be set if the <a href="sdk-for-android-explore-vehiclespecification#axleCount"><code>VehicleSpecification.axleCount</code></a>
+ This property will be set if the <a href="../transport/VehicleSpecification.html#axleCount"><code>VehicleSpecification.axleCount</code></a>
  is within this range.</p></div>
 </section>
 </li>
@@ -296,9 +296,9 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <section class="detail" id="forbiddenTrailerCount">
 <h3>forbiddenTrailerCount</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-integerrange" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">forbiddenTrailerCount</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/IntegerRange.html" title="class in com.here.sdk.core">IntegerRange</a></span> <span class="element-name">forbiddenTrailerCount</span></div>
 <div class="block"><p>Constrains the restriction to trucks with number of trailer within specified range during the trip.
- This property will be set if the <a href="sdk-for-android-explore-vehiclespecification#trailerCount"><code>VehicleSpecification.trailerCount</code></a>
+ This property will be set if the <a href="../transport/VehicleSpecification.html#trailerCount"><code>VehicleSpecification.trailerCount</code></a>
  is within this range.</p></div>
 </section>
 </li>
@@ -306,10 +306,10 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <section class="detail" id="forbiddenHazardousGoods">
 <h3>forbiddenHazardousGoods</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</span> <span class="element-name">forbiddenHazardousGoods</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="../transport/HazardousMaterial.html" title="enum class in com.here.sdk.transport">HazardousMaterial</a>&gt;</span> <span class="element-name">forbiddenHazardousGoods</span></div>
 <div class="block"><p>There are two lists for our trip: Hazardous goods restrictions applied during the trip, and the list used
- for the route calculation provided using <a href="sdk-for-android-explore-vehiclespecification#hazardousMaterials"><code>VehicleSpecification.hazardousMaterials</code></a> from
- <a href="sdk-for-android-explore-transportspecification#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a> from <a href="sdk-for-android-explore-routingoptions#transportSpecification"><code>RoutingOptions.transportSpecification</code></a>.
+ for the route calculation provided using <a href="../transport/VehicleSpecification.html#hazardousMaterials"><code>VehicleSpecification.hazardousMaterials</code></a> from
+ <a href="../transport/TransportSpecification.html#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a> from <a href="RoutingOptions.html#transportSpecification"><code>RoutingOptions.transportSpecification</code></a>.
  This property is the intersection of the two lists.
  <p><strong>Note</strong> <code>RoadSignWarning</code> events and <code>RouteViolations</code> are only given for violations that are
  indicated on a road sign. Additional legal restrictions might apply when transporting hazardous materials.</p></p></div>
@@ -319,10 +319,10 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <section class="detail" id="maxTunnelCategory">
 <h3>maxTunnelCategory</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></span> <span class="element-name">maxTunnelCategory</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../transport/TunnelCategory.html" title="enum class in com.here.sdk.transport">TunnelCategory</a></span> <span class="element-name">maxTunnelCategory</span></div>
 <div class="block"><p>Tunnel category to restrict transport of specific goods during the trip.
- This property will be set if the <a href="sdk-for-android-explore-vehiclespecification#tunnelCategory"><code>VehicleSpecification.tunnelCategory</code></a> from
- <a href="sdk-for-android-explore-transportspecification#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a> from <a href="sdk-for-android-explore-routingoptions#transportSpecification"><code>RoutingOptions.transportSpecification</code></a>
+ This property will be set if the <a href="../transport/VehicleSpecification.html#tunnelCategory"><code>VehicleSpecification.tunnelCategory</code></a> from
+ <a href="../transport/TransportSpecification.html#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a> from <a href="RoutingOptions.html#transportSpecification"><code>RoutingOptions.transportSpecification</code></a>
  exceeds this value.</p></div>
 </section>
 </li>
@@ -331,11 +331,11 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <h3>forbiddenTruckType</h3>
 <div class="member-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
 @Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-trucktype" title="enum class in com.here.sdk.transport">TruckType</a></span> <span class="element-name">forbiddenTruckType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../transport/TruckType.html" title="enum class in com.here.sdk.transport">TruckType</a></span> <span class="element-name">forbiddenTruckType</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment"><p>Will be removed in v4.27.0. Use <code>forbidden_truck_category</code> instead.</p></div>
 </div>
-<div class="block"><p>This property will be set if a restriction applies to the value of <a href="sdk-for-android-explore-trucktype" title="enum class in com.here.sdk.transport"><code>TruckType</code></a>
+<div class="block"><p>This property will be set if a restriction applies to the value of <a href="../transport/TruckType.html" title="enum class in com.here.sdk.transport"><code>TruckType</code></a>
  parameter used for route calculation.</p></div>
 </section>
 </li>
@@ -343,8 +343,8 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <section class="detail" id="forbiddenTruckCategory">
 <h3>forbiddenTruckCategory</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-truckcategory" title="enum class in com.here.sdk.transport">TruckCategory</a></span> <span class="element-name">forbiddenTruckCategory</span></div>
-<div class="block"><p>This property will be set if a restriction applies to the value of <a href="sdk-for-android-explore-truckcategory" title="enum class in com.here.sdk.transport"><code>TruckCategory</code></a>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../transport/TruckCategory.html" title="enum class in com.here.sdk.transport">TruckCategory</a></span> <span class="element-name">forbiddenTruckCategory</span></div>
+<div class="block"><p>This property will be set if a restriction applies to the value of <a href="../transport/TruckCategory.html" title="enum class in com.here.sdk.transport"><code>TruckCategory</code></a>
  parameter used for route calculation.</p></div>
 </section>
 </li>
@@ -352,7 +352,7 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <section class="detail" id="forbiddenTruckRoadTypes">
 <h3>forbiddenTruckRoadTypes</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a>&gt;</span> <span class="element-name">forbiddenTruckRoadTypes</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="../transport/TruckRoadType.html" title="enum class in com.here.sdk.transport">TruckRoadType</a>&gt;</span> <span class="element-name">forbiddenTruckRoadTypes</span></div>
 <div class="block"><p>Contains violated restrictions for truck road types.</p></div>
 </section>
 </li>
@@ -362,7 +362,7 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">routingZoneReference</span></div>
 <div class="block"><p>Contains the restricted routing zone reference
- This property will be set if the <a href="sdk-for-android-explore-avoidanceoptions#zoneCategories"><code>AvoidanceOptions.zoneCategories</code></a> is not empty</p></div>
+ This property will be set if the <a href="AvoidanceOptions.html#zoneCategories"><code>AvoidanceOptions.zoneCategories</code></a> is not empty</p></div>
 </section>
 </li>
 <li>
@@ -371,7 +371,7 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxPayloadCapacityInKilograms</span></div>
 <div class="block"><p>Max permitted payload capacity during the trip, in kilograms.
- This property will be set if the <a href="sdk-for-android-explore-vehiclespecification#payloadCapacityInKilograms"><code>VehicleSpecification.payloadCapacityInKilograms</code></a>
+ This property will be set if the <a href="../transport/VehicleSpecification.html#payloadCapacityInKilograms"><code>VehicleSpecification.payloadCapacityInKilograms</code></a>
  exceeds this value.</p></div>
 </section>
 </li>
@@ -379,7 +379,7 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <section class="detail" id="timeRule">
 <h3>timeRule</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-timerule" title="class in com.here.sdk.core">TimeRule</a></span> <span class="element-name">timeRule</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/TimeRule.html" title="class in com.here.sdk.core">TimeRule</a></span> <span class="element-name">timeRule</span></div>
 <div class="block"><p>Time intervals during which restrictions are enforced.</p></div>
 </section>
 </li>
@@ -387,9 +387,9 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <section class="detail" id="maxWeight">
 <h3>maxWeight</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-vehiclerestrictionmaxweight" title="class in com.here.sdk.routing">VehicleRestrictionMaxWeight</a></span> <span class="element-name">maxWeight</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="VehicleRestrictionMaxWeight.html" title="class in com.here.sdk.routing">VehicleRestrictionMaxWeight</a></span> <span class="element-name">maxWeight</span></div>
 <div class="block"><p>Max permitted weight during the trip, in kilograms, along with the specific type of maximum permitted weight restriction.
- This property will be set if the <a href="sdk-for-android-explore-vehiclespecification#grossWeightInKilograms"><code>VehicleSpecification.grossWeightInKilograms</code></a>
+ This property will be set if the <a href="../transport/VehicleSpecification.html#grossWeightInKilograms"><code>VehicleSpecification.grossWeightInKilograms</code></a>
  parameter used for route calculation exceeds this value.</p></div>
 </section>
 </li>
@@ -399,7 +399,7 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxNumberOfTires</span></div>
 <div class="block"><p>Contains the maximum permitted number of tires.
- This property will be set if the <a href="sdk-for-android-explore-vehiclespecification#tiresCount"><code>VehicleSpecification.tiresCount</code></a> exceeds the specified value.</p></div>
+ This property will be set if the <a href="../transport/VehicleSpecification.html#tiresCount"><code>VehicleSpecification.tiresCount</code></a> exceeds the specified value.</p></div>
 </section>
 </li>
 <li>
@@ -409,7 +409,7 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">maxKingpinToRearAxleDistanceInCentimeters</span></div>
 <div class="block"><p>Contains the maximum permitted distance from kingpin to the rear axle in centimeters.
  This property will be set if the
- <a href="sdk-for-android-explore-vehiclespecification#kingpinToRearAxleDistanceInCentimeters"><code>VehicleSpecification.kingpinToRearAxleDistanceInCentimeters</code></a>
+ <a href="../transport/VehicleSpecification.html#kingpinToRearAxleDistanceInCentimeters"><code>VehicleSpecification.kingpinToRearAxleDistanceInCentimeters</code></a>
  exceeds the specified value.</p></div>
 </section>
 </li>

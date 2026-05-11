@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-transittransport"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-transittransport"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -83,7 +83,7 @@ slug: "sdk-for-android-explore-transittransport"
 <div class="col-last even-row-color">
 <div class="block">Human readable transport category (such as Bus, Gondola, Tram, Train, ...)</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first odd-row-color"><code><a href="../core/Color.html" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#color">color</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Color of the transport polyline and background for the transport name.</div>
@@ -93,7 +93,7 @@ slug: "sdk-for-android-explore-transittransport"
 <div class="col-last even-row-color">
 <div class="block">Transit line headsign.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></code></div>
+<div class="col-first odd-row-color"><code><a href="TransitMode.html" title="enum class in com.here.sdk.routing">TransitMode</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#mode">mode</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Transit mode of transport in the route.</div>
@@ -103,7 +103,7 @@ slug: "sdk-for-android-explore-transittransport"
 <div class="col-last even-row-color">
 <div class="block">Transit line name.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></code></div>
+<div class="col-first odd-row-color"><code><a href="../core/Color.html" title="class in com.here.sdk.core">Color</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#textColor">textColor</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Color of the transport name.</div>
@@ -119,12 +119,12 @@ slug: "sdk-for-android-explore-transittransport"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.routing.TransitMode,java.lang.String,java.lang.String,java.lang.String,com.here.sdk.core.Color,com.here.sdk.core.Color)">TransitTransport</a><wbr/>(<a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a> mode,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.routing.TransitMode,java.lang.String,java.lang.String,java.lang.String,com.here.sdk.core.Color,com.here.sdk.core.Color)">TransitTransport</a><wbr/>(<a href="TransitMode.html" title="enum class in com.here.sdk.routing">TransitMode</a> mode,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> headsign,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> category,
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color,
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> textColor)</code></div>
+ <a href="../core/Color.html" title="class in com.here.sdk.core">Color</a> color,
+ <a href="../core/Color.html" title="class in com.here.sdk.core">Color</a> textColor)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -169,7 +169,7 @@ slug: "sdk-for-android-explore-transittransport"
 <section class="detail" id="mode">
 <h3>mode</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">mode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="TransitMode.html" title="enum class in com.here.sdk.routing">TransitMode</a></span> <span class="element-name">mode</span></div>
 <div class="block"><p>Transit mode of transport in the route.</p></div>
 </section>
 </li>
@@ -201,7 +201,7 @@ slug: "sdk-for-android-explore-transittransport"
 <section class="detail" id="color">
 <h3>color</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">color</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/Color.html" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">color</span></div>
 <div class="block"><p>Color of the transport polyline and background for the transport name.</p></div>
 </section>
 </li>
@@ -209,7 +209,7 @@ slug: "sdk-for-android-explore-transittransport"
 <section class="detail" id="textColor">
 <h3>textColor</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">textColor</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/Color.html" title="class in com.here.sdk.core">Color</a></span> <span class="element-name">textColor</span></div>
 <div class="block"><p>Color of the transport name.</p></div>
 </section>
 </li>
@@ -225,7 +225,7 @@ slug: "sdk-for-android-explore-transittransport"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.TransitMode,java.lang.String,java.lang.String,java.lang.String,com.here.sdk.core.Color,com.here.sdk.core.Color)">
 <h3>TransitTransport</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TransitTransport</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-transitmode" title="enum class in com.here.sdk.routing">TransitMode</a> mode,
+ <a href="TransitMode.html" title="enum class in com.here.sdk.routing">TransitMode</a> mode,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  @Nullable
@@ -233,9 +233,9 @@ slug: "sdk-for-android-explore-transittransport"
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> category,
  @Nullable
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> color,
+ <a href="../core/Color.html" title="class in com.here.sdk.core">Color</a> color,
  @Nullable
- <a href="sdk-for-android-explore-color" title="class in com.here.sdk.core">Color</a> textColor)</span></div>
+ <a href="../core/Color.html" title="class in com.here.sdk.core">Color</a> textColor)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

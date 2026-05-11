@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-placecategory"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,18 +55,18 @@ slug: "sdk-for-android-explore-placecategory"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="../../NativeBase.html" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.search.PlaceCategory</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">PlaceCategory</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="../../NativeBase.html" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Represents a category of place with different levels of granularity.
  This class also defines a set of most commonly used categories.</p></div>
 </section>
@@ -517,7 +517,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -532,7 +532,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK_RESTAURANT">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK_RESTAURANT">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -547,7 +547,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK_COFFEE_TEA">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.EAT_AND_DRINK_COFFEE_TEA">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -563,7 +563,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_ENTERTAINMENT">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.GOING_OUT_ENTERTAINMENT">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -578,7 +578,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_NIGHTLIFE">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.GOING_OUT_NIGHTLIFE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -593,7 +593,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_CINEMA">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.GOING_OUT_CINEMA">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -608,7 +608,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_THEATRE_MUSIC_CULTURE">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.GOING_OUT_THEATRE_MUSIC_CULTURE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -623,7 +623,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.GOING_OUT_GAMBLING_LOTTERY_BETTING">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.GOING_OUT_GAMBLING_LOTTERY_BETTING">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -639,7 +639,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_AND_MUSEUMS">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.SIGHTS_AND_MUSEUMS">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -654,7 +654,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_LANDMARK_ATTRACTION">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.SIGHTS_LANDMARK_ATTRACTION">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -669,7 +669,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_MUSEUM">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.SIGHTS_MUSEUM">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -684,7 +684,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SIGHTS_RELIGIOUS_PLACE">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.SIGHTS_RELIGIOUS_PLACE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -700,7 +700,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -715,7 +715,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_BODY_OF_WATER">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -730,7 +730,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_MOUNTAIN_OR_HILL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -745,7 +745,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_UNDERSEA_FEATURE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -760,7 +760,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_FOREST_HEALTH_OTHER_VEGETATION">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -775,7 +775,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_OTHER">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.NATURAL_AND_GEOGRAPHICAL_OTHER">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -791,7 +791,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.TRANSPORT">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -806,7 +806,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_AIRPORT">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.TRANSPORT_AIRPORT">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -821,7 +821,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_PUBLIC">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.TRANSPORT_PUBLIC">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -836,7 +836,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_CARGO">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.TRANSPORT_CARGO">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -851,7 +851,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.TRANSPORT_REST_AREA">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.TRANSPORT_REST_AREA">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -867,7 +867,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.ACCOMMODATION">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -882,7 +882,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION_HOTEL_MOTEL">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.ACCOMMODATION_HOTEL_MOTEL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -897,7 +897,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.ACCOMMODATION_LODGING">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.ACCOMMODATION_LODGING">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -913,7 +913,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_AND_OUTDOOR">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.LEISURE_AND_OUTDOOR">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -928,7 +928,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_OUTDOOR_RECREATION">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.LEISURE_OUTDOOR_RECREATION">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -943,7 +943,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.LEISURE_OTHER">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.LEISURE_OTHER">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -959,7 +959,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.SHOPPING">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -974,7 +974,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CONVENIENCE_STORE">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.SHOPPING_CONVENIENCE_STORE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -989,7 +989,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_MALL_COMPLEX">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.SHOPPING_MALL_COMPLEX">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1004,7 +1004,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_DEPARTMENT_STORE">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.SHOPPING_DEPARTMENT_STORE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1019,7 +1019,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_FOOD_AND_DRINK">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.SHOPPING_FOOD_AND_DRINK">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1034,7 +1034,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_DRUGSTORE_PHARMACY">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.SHOPPING_DRUGSTORE_PHARMACY">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1049,7 +1049,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_ELECTRONICS">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.SHOPPING_ELECTRONICS">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1064,7 +1064,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_HARDWARE_HOUSE_GARDEN">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.SHOPPING_HARDWARE_HOUSE_GARDEN">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1079,7 +1079,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_BOOKSTORE">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.SHOPPING_BOOKSTORE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1094,7 +1094,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CLOTHING_AND_ACCESORIES">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.SHOPPING_CLOTHING_AND_ACCESORIES">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1109,7 +1109,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_CONSUMER_GOODS">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.SHOPPING_CONSUMER_GOODS">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1125,7 +1125,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.SHOPPING_HAIR_AND_BEAUTY">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.SHOPPING_HAIR_AND_BEAUTY">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1141,7 +1141,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1156,7 +1156,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_BANKING">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_BANKING">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1171,7 +1171,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_ATM">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_ATM">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1186,7 +1186,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_MONEY_CASH">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_MONEY_CASH">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1201,7 +1201,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_COMMUNICATION_MEDIA">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1216,7 +1216,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_COMMERCIAL_SERVICES">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.BUSINESS_AND_COMMERCIAL_SERVICES">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1231,7 +1231,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_INDUSTRY">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_INDUSTRY">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1246,7 +1246,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_POLICE_FIRE_EMERGENCY">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1261,7 +1261,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_CONSUMER_SERVICES">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.BUSINESS_AND_CONSUMER_SERVICES">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1276,7 +1276,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_POST_OFFICE">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_POST_OFFICE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1292,7 +1292,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_TOURIST_INFORMATION">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_TOURIST_INFORMATION">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1307,7 +1307,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_FUELING_STATION">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_FUELING_STATION">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1322,7 +1322,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1337,7 +1337,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_EV_CHARGING_STATION">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_EV_CHARGING_STATION">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1352,7 +1352,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_DEALER_SALES">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_DEALER_SALES">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1367,7 +1367,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_REPAIR_SERVICES">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1382,7 +1382,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_RENTAL">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_CAR_RENTAL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1397,7 +1397,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.BUSINESS_AND_SERVICES_TRUCK_SEMI_DEALER">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1413,7 +1413,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.FACILITIES">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1428,7 +1428,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_HOSPITAL_HEALTHCARE">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.FACILITIES_HOSPITAL_HEALTHCARE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1443,7 +1443,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_GOVERNMENT_COMMUNITTY">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.FACILITIES_GOVERNMENT_COMMUNITTY">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1458,7 +1458,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_EDUCATION">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.FACILITIES_EDUCATION">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1473,7 +1473,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_SCHOOL">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.FACILITIES_SCHOOL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1488,7 +1488,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_LIBRARY">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.FACILITIES_LIBRARY">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1503,7 +1503,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_EVENT_SPACES">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.FACILITIES_EVENT_SPACES">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1518,7 +1518,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_PARKING">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.FACILITIES_PARKING">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1533,7 +1533,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_VENUE_SPORTS">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.FACILITIES_VENUE_SPORTS">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1548,7 +1548,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.FACILITIES_OTHER">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.FACILITIES_OTHER">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1564,7 +1564,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1579,7 +1579,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS_OUTDOOR_COMPLEX">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -1594,7 +1594,7 @@ slug: "sdk-for-android-explore-placecategory"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.search.PlaceCategory.AREAS_AND_BUILDINGS_RESIDENTAL_OFFICE">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>

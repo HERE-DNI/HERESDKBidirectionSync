@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-evchargingtariffelement"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-evchargingtariffelement"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -81,12 +81,12 @@ slug: "sdk-for-android-explore-evchargingtariffelement"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evchargingtariffpricecomponent" title="class in com.here.sdk.search">EVChargingTariffPriceComponent</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="EVChargingTariffPriceComponent.html" title="class in com.here.sdk.search">EVChargingTariffPriceComponent</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#components">components</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">List of price components that describe the tariff.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-evchargingtariffelementcondition" title="class in com.here.sdk.search">EVChargingTariffElementCondition</a></code></div>
+<div class="col-first odd-row-color"><code><a href="EVChargingTariffElementCondition.html" title="class in com.here.sdk.search">EVChargingTariffElementCondition</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#condition">condition</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Condition that the charging session needs to meet to apply the tariff element.</div>
@@ -147,22 +147,22 @@ slug: "sdk-for-android-explore-evchargingtariffelement"
 <section class="detail" id="components">
 <h3>components</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evchargingtariffpricecomponent" title="class in com.here.sdk.search">EVChargingTariffPriceComponent</a>&gt;</span> <span class="element-name">components</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="EVChargingTariffPriceComponent.html" title="class in com.here.sdk.search">EVChargingTariffPriceComponent</a>&gt;</span> <span class="element-name">components</span></div>
 <div class="block"><p>List of price components that describe the tariff.
- Each of the components should have a different <a href="sdk-for-android-explore-evchargingtariffdimension" title="enum class in com.here.sdk.search"><code>EVChargingTariffDimension</code></a>.</p></div>
+ Each of the components should have a different <a href="EVChargingTariffDimension.html" title="enum class in com.here.sdk.search"><code>EVChargingTariffDimension</code></a>.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="condition">
 <h3>condition</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-evchargingtariffelementcondition" title="class in com.here.sdk.search">EVChargingTariffElementCondition</a></span> <span class="element-name">condition</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="EVChargingTariffElementCondition.html" title="class in com.here.sdk.search">EVChargingTariffElementCondition</a></span> <span class="element-name">condition</span></div>
 <div class="block"><p>Condition that the charging session needs to meet to apply the tariff element. An element without any
  condition is typically present for charging sessions that do not meet any of the conditions.
  <p>For example, a tariff element with a lower price can be valid only during nighttime, while a generic
  tariff element without conditions applies for daytime charging sessions. The conditions are listed in
- priority order. I.e., when <a href="sdk-for-android-explore-evchargingtariffelementcondition#date"><code>EVChargingTariffElementCondition.date</code></a> is present, it should be matched first,
- followed by <a href="sdk-for-android-explore-evchargingtariffelementcondition#days"><code>EVChargingTariffElementCondition.days</code></a> and so on.</p></p></div>
+ priority order. I.e., when <a href="EVChargingTariffElementCondition.html#date"><code>EVChargingTariffElementCondition.date</code></a> is present, it should be matched first,
+ followed by <a href="EVChargingTariffElementCondition.html#days"><code>EVChargingTariffElementCondition.days</code></a> and so on.</p></p></div>
 </section>
 </li>
 </ul>

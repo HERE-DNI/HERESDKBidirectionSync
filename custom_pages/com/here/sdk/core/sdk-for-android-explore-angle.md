@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-angle"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,18 +55,18 @@ slug: "sdk-for-android-explore-angle"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.core</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="../../NativeBase.html" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.core.Angle</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Angle</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="../../NativeBase.html" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Represents an angle independent of the unit of measurement.</p></div>
 </section>
 <section class="summary">
@@ -82,12 +82,12 @@ slug: "sdk-for-android-explore-angle"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-angle" title="class in com.here.sdk.core">Angle</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="Angle.html" title="class in com.here.sdk.core">Angle</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#fromDegrees(double)">fromDegrees</a><wbr/>(double angle)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a new angle object based on the supplied angle value in degrees.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-angle" title="class in com.here.sdk.core">Angle</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="Angle.html" title="class in com.here.sdk.core">Angle</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#fromRadians(double)">fromRadians</a><wbr/>(double angle)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a new angle object based on the supplied angle value in radians.</div>
@@ -123,7 +123,7 @@ slug: "sdk-for-android-explore-angle"
 <section class="detail" id="fromDegrees(double)">
 <h3>fromDegrees</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-angle" title="class in com.here.sdk.core">Angle</a></span> <span class="element-name">fromDegrees</span><wbr/><span class="parameters">(double angle)</span></div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="Angle.html" title="class in com.here.sdk.core">Angle</a></span> <span class="element-name">fromDegrees</span><wbr/><span class="parameters">(double angle)</span></div>
 <div class="block"><p>Creates a new angle object based on the supplied angle value in degrees.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -137,7 +137,7 @@ slug: "sdk-for-android-explore-angle"
 <section class="detail" id="fromRadians(double)">
 <h3>fromRadians</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-angle" title="class in com.here.sdk.core">Angle</a></span> <span class="element-name">fromRadians</span><wbr/><span class="parameters">(double angle)</span></div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="Angle.html" title="class in com.here.sdk.core">Angle</a></span> <span class="element-name">fromRadians</span><wbr/><span class="parameters">(double angle)</span></div>
 <div class="block"><p>Creates a new angle object based on the supplied angle value in radians.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-networksettings"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../../index-all.html">Index</a></li>
+<li><a href="../../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-networksettings"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core.engine</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.core.engine</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -65,7 +65,7 @@ slug: "sdk-for-android-explore-networksettings"
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">NetworkSettings</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Network configuration to be used by <a href="sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> during the initialization.</p></div>
+<div class="block"><p>Network configuration to be used by <a href="SDKNativeEngine.html" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> during the initialization.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -78,7 +78,7 @@ slug: "sdk-for-android-explore-networksettings"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-certificatesettings" title="class in com.here.sdk.core.engine">CertificateSettings</a></code></div>
+<div class="col-first even-row-color"><code><a href="CertificateSettings.html" title="class in com.here.sdk.core.engine">CertificateSettings</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#certificates">certificates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Certificate settings
@@ -90,12 +90,12 @@ slug: "sdk-for-android-explore-networksettings"
 <div class="col-last odd-row-color">
 <div class="block">Absolute file path to be used for redirecting CURL verbose output.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-networkendpoint" title="class in com.here.sdk.core">NetworkEndpoint</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="../NetworkEndpoint.html" title="class in com.here.sdk.core">NetworkEndpoint</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#domainNameSystemServers">domainNameSystemServers</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Domain Name Server list.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a></code></div>
+<div class="col-first odd-row-color"><code><a href="ProxySettings.html" title="class in com.here.sdk.core.engine">ProxySettings</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#proxySettings">proxySettings</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Proxy settings.</div>
@@ -156,15 +156,15 @@ slug: "sdk-for-android-explore-networksettings"
 <section class="detail" id="proxySettings">
 <h3>proxySettings</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-proxysettings" title="class in com.here.sdk.core.engine">ProxySettings</a></span> <span class="element-name">proxySettings</span></div>
-<div class="block"><p>Proxy settings. It can be later accessed or changed with <a href="sdk-for-android-explore-sdknativeengine#getProxySettings()"><code>SDKNativeEngine.getProxySettings()</code></a>.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="ProxySettings.html" title="class in com.here.sdk.core.engine">ProxySettings</a></span> <span class="element-name">proxySettings</span></div>
+<div class="block"><p>Proxy settings. It can be later accessed or changed with <a href="SDKNativeEngine.html#getProxySettings()"><code>SDKNativeEngine.getProxySettings()</code></a>.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="domainNameSystemServers">
 <h3>domainNameSystemServers</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-networkendpoint" title="class in com.here.sdk.core">NetworkEndpoint</a>&gt;</span> <span class="element-name">domainNameSystemServers</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="../NetworkEndpoint.html" title="class in com.here.sdk.core">NetworkEndpoint</a>&gt;</span> <span class="element-name">domainNameSystemServers</span></div>
 <div class="block"><p>Domain Name Server list. This list fully replaces embedded mechanism to detect DNS.
  The order is important. To reduce response time make sure that most probably servers
  are at the beginning.
@@ -175,7 +175,7 @@ slug: "sdk-for-android-explore-networksettings"
 <section class="detail" id="certificates">
 <h3>certificates</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-certificatesettings" title="class in com.here.sdk.core.engine">CertificateSettings</a></span> <span class="element-name">certificates</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="CertificateSettings.html" title="class in com.here.sdk.core.engine">CertificateSettings</a></span> <span class="element-name">certificates</span></div>
 <div class="block"><p>Certificate settings
  Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases without a deprecation process.</p></div>

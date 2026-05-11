@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-chargingstop"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-chargingstop"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -67,7 +67,7 @@ slug: "sdk-for-android-explore-chargingstop"
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>The options to specify a user-planned charging stop.
  <strong>Note:</strong>
- In order to specify this <a href="sdk-for-android-explore-chargingstop" title="class in com.here.sdk.routing"><code>ChargingStop</code></a>, it is also required to set
+ In order to specify this <a href="ChargingStop.html" title="class in com.here.sdk.routing"><code>ChargingStop</code></a>, it is also required to set
  [sdk.routing.BatterySpecifications.total_capacity_in_kilowatt_hours], [sdk.routing.BatterySpecifications.initial_charge_in_kilowatt_hours],
  and [sdk.routing.BatterySpecifications.charging_curve].
  Without all of them, the route calculation will fail as an invalid parameter error.</p></div>
@@ -88,24 +88,24 @@ slug: "sdk-for-android-explore-chargingstop"
 <div class="col-last even-row-color">
 <div class="block">The value of rated current of the connector (in A).</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first odd-row-color"><code><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#maxDuration">maxDuration</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The maximum duration the user plans to charge at the station,
- including <a href="sdk-for-android-explore-batteryspecifications#chargingSetupDuration"><code>BatterySpecifications.chargingSetupDuration</code></a>.</div>
+ including <a href="BatterySpecifications.html#chargingSetupDuration"><code>BatterySpecifications.chargingSetupDuration</code></a>.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color"><code><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#minDuration">minDuration</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The minimum duration the user expects to charge at the station,
- including <a href="sdk-for-android-explore-batteryspecifications#chargingSetupDuration"><code>BatterySpecifications.chargingSetupDuration</code></a>.</div>
+ including <a href="BatterySpecifications.html#chargingSetupDuration"><code>BatterySpecifications.chargingSetupDuration</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code>double</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#powerInKilowatts">powerInKilowatts</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The value of rated power of the connector (in kW).</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a></code></div>
+<div class="col-first even-row-color"><code><a href="ChargingSupplyType.html" title="enum class in com.here.sdk.routing">ChargingSupplyType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#supplyType">supplyType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Supply type of the suggested connector.</div>
@@ -133,9 +133,9 @@ slug: "sdk-for-android-explore-chargingstop"
 <div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(double,double,double,com.here.sdk.routing.ChargingSupplyType,com.here.time.Duration,com.here.time.Duration)">ChargingStop</a><wbr/>(double powerInKilowatts,
  double currentInAmperes,
  double voltageInVolts,
- <a href="sdk-for-android-explore-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a> supplyType,
- <a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a> minDuration,
- <a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a> maxDuration)</code></div>
+ <a href="ChargingSupplyType.html" title="enum class in com.here.sdk.routing">ChargingSupplyType</a> supplyType,
+ <a href="../../time/Duration.html" title="class in com.here.time">Duration</a> minDuration,
+ <a href="../../time/Duration.html" title="class in com.here.time">Duration</a> maxDuration)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -201,7 +201,7 @@ slug: "sdk-for-android-explore-chargingstop"
 <section class="detail" id="supplyType">
 <h3>supplyType</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a></span> <span class="element-name">supplyType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="ChargingSupplyType.html" title="enum class in com.here.sdk.routing">ChargingSupplyType</a></span> <span class="element-name">supplyType</span></div>
 <div class="block"><p>Supply type of the suggested connector.</p></div>
 </section>
 </li>
@@ -209,9 +209,9 @@ slug: "sdk-for-android-explore-chargingstop"
 <section class="detail" id="minDuration">
 <h3>minDuration</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">minDuration</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></span> <span class="element-name">minDuration</span></div>
 <div class="block"><p>The minimum duration the user expects to charge at the station,
- including <a href="sdk-for-android-explore-batteryspecifications#chargingSetupDuration"><code>BatterySpecifications.chargingSetupDuration</code></a>.
+ including <a href="BatterySpecifications.html#chargingSetupDuration"><code>BatterySpecifications.chargingSetupDuration</code></a>.
  <strong>Note:</strong>
  At least one of <code>min_duration</code> and <code>max_duration</code> is required for a user-planned charging stop.
  For most use cases, providing at least <code>min_duration</code> is recommended.</p></div>
@@ -221,9 +221,9 @@ slug: "sdk-for-android-explore-chargingstop"
 <section class="detail" id="maxDuration">
 <h3>maxDuration</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">maxDuration</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></span> <span class="element-name">maxDuration</span></div>
 <div class="block"><p>The maximum duration the user plans to charge at the station,
- including <a href="sdk-for-android-explore-batteryspecifications#chargingSetupDuration"><code>BatterySpecifications.chargingSetupDuration</code></a>.
+ including <a href="BatterySpecifications.html#chargingSetupDuration"><code>BatterySpecifications.chargingSetupDuration</code></a>.
  <strong>Note:</strong>
  At least one of <code>min_duration</code> and <code>max_duration</code> is required for a user-planned charging stop.
  For most use cases, providing at least <code>min_duration</code> is recommended.</p></div>
@@ -251,11 +251,11 @@ slug: "sdk-for-android-explore-chargingstop"
  double currentInAmperes,
  double voltageInVolts,
  @Nullable
- <a href="sdk-for-android-explore-chargingsupplytype" title="enum class in com.here.sdk.routing">ChargingSupplyType</a> supplyType,
+ <a href="ChargingSupplyType.html" title="enum class in com.here.sdk.routing">ChargingSupplyType</a> supplyType,
  @Nullable
- <a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a> minDuration,
+ <a href="../../time/Duration.html" title="class in com.here.time">Duration</a> minDuration,
  @Nullable
- <a href="sdk-for-android-explore-duration" title="class in com.here.time">Duration</a> maxDuration)</span></div>
+ <a href="../../time/Duration.html" title="class in com.here.time">Duration</a> maxDuration)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -264,12 +264,12 @@ slug: "sdk-for-android-explore-chargingstop"
 <dd><code>voltageInVolts</code> - <p>The value of rated voltage of the connector (in V).</p></dd>
 <dd><code>supplyType</code> - <p>Supply type of the suggested connector.</p></dd>
 <dd><code>minDuration</code> - <p>The minimum duration the user expects to charge at the station,
- including <a href="sdk-for-android-explore-batteryspecifications#chargingSetupDuration"><code>BatterySpecifications.chargingSetupDuration</code></a>.
+ including <a href="BatterySpecifications.html#chargingSetupDuration"><code>BatterySpecifications.chargingSetupDuration</code></a>.
  <strong>Note:</strong>
  At least one of <code>min_duration</code> and <code>max_duration</code> is required for a user-planned charging stop.
  For most use cases, providing at least <code>min_duration</code> is recommended.</p></dd>
 <dd><code>maxDuration</code> - <p>The maximum duration the user plans to charge at the station,
- including <a href="sdk-for-android-explore-batteryspecifications#chargingSetupDuration"><code>BatterySpecifications.chargingSetupDuration</code></a>.
+ including <a href="BatterySpecifications.html#chargingSetupDuration"><code>BatterySpecifications.chargingSetupDuration</code></a>.
  <strong>Note:</strong>
  At least one of <code>min_duration</code> and <code>max_duration</code> is required for a user-planned charging stop.
  For most use cases, providing at least <code>min_duration</code> is recommended.</p></dd>

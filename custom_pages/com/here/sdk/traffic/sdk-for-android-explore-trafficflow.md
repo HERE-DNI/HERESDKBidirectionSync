@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-trafficflow"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,24 +55,24 @@ slug: "sdk-for-android-explore-trafficflow"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.traffic</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.traffic</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="../../NativeBase.html" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.traffic.TrafficFlow</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a href="sdk-for-android-explore-trafficflowbase" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></code></dd>
+<dd><code><a href="TrafficFlowBase.html" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">TrafficFlow</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a>
-implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></span></div>
-<div class="block"><p>This class provides details about traffic flow along a <a href="sdk-for-android-explore-geocorridor" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>, inside a <a href="sdk-for-android-explore-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a> or a <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>, that represents particular path of the road network.<br/>
+<span class="extends-implements">extends <a href="../../NativeBase.html" title="class in com.here">NativeBase</a>
+implements <a href="TrafficFlowBase.html" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></span></div>
+<div class="block"><p>This class provides details about traffic flow along a <a href="../core/GeoCorridor.html" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>, inside a <a href="../core/GeoCircle.html" title="class in com.here.sdk.core"><code>GeoCircle</code></a> or a <a href="../core/GeoBox.html" title="class in com.here.sdk.core"><code>GeoBox</code></a>, that represents particular path of the road network.<br/>
  Backends for TrafficEngine and traffic vector tiles are different however backends may share the same data.<br/>
  For additional information about fields, refer to <a href="https://www.here.com/docs/bundle/traffic-api-v7-api-reference/page/index.html#tag/Real-Time-Traffic">Traffic API v7 API Reference: Traffic API v7</a>.
  <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
@@ -111,12 +111,12 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the jam tendency field value which denotes whether the congestion is increasing, decreasing, or constant.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-junctionstraversability" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="JunctionsTraversability.html" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getJunctionsTraversability()">getJunctionsTraversability</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the traversability of junctions along the affected road.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-trafficlocation" title="class in com.here.sdk.traffic">TrafficLocation</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="TrafficLocation.html" title="class in com.here.sdk.traffic">TrafficLocation</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getLocation()">getLocation</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the location of the incident.</div>
@@ -131,7 +131,7 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the expected speed in meters per second along the roadway.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-traversability" title="enum class in com.here.sdk.traffic">Traversability</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="Traversability.html" title="enum class in com.here.sdk.traffic">Traversability</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getTraversability()">getTraversability</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the traversability of roadway.</div>
@@ -157,7 +157,7 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <section class="detail" id="getLocation()">
 <h3>getLocation</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-trafficlocation" title="class in com.here.sdk.traffic">TrafficLocation</a></span> <span class="element-name">getLocation</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="TrafficLocation.html" title="class in com.here.sdk.traffic">TrafficLocation</a></span> <span class="element-name">getLocation</span>()</div>
 <div class="block"><p>Gets the location of the incident.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -239,7 +239,7 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <section class="detail" id="getTraversability()">
 <h3>getTraversability</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-traversability" title="enum class in com.here.sdk.traffic">Traversability</a></span> <span class="element-name">getTraversability</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="Traversability.html" title="enum class in com.here.sdk.traffic">Traversability</a></span> <span class="element-name">getTraversability</span>()</div>
 <div class="block"><p>Gets the traversability of roadway.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -251,7 +251,7 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <section class="detail" id="getJunctionsTraversability()">
 <h3>getJunctionsTraversability</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-junctionstraversability" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a></span> <span class="element-name">getJunctionsTraversability</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="JunctionsTraversability.html" title="enum class in com.here.sdk.traffic">JunctionsTraversability</a></span> <span class="element-name">getJunctionsTraversability</span>()</div>
 <div class="block"><p>Gets the traversability of junctions along the affected road.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -266,7 +266,7 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <div class="block"><p>Gets the reference speed in meters per second along the roadway when no traffic is present.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-trafficflowbase#getFreeFlowSpeedInMetersPerSecond()">getFreeFlowSpeedInMetersPerSecond</a></code> in interface <code><a href="sdk-for-android-explore-trafficflowbase" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></code></dd>
+<dd><code><a href="TrafficFlowBase.html#getFreeFlowSpeedInMetersPerSecond()">getFreeFlowSpeedInMetersPerSecond</a></code> in interface <code><a href="TrafficFlowBase.html" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></code></dd>
 <dt>Returns:</dt>
 <dd><p>The reference speed in meters per second along the roadway when no traffic is present.</p></dd>
 </dl>
@@ -283,7 +283,7 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
  A value of 10.0 is reserved to represent a blocked roadway (closure).</p></p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-trafficflowbase#getJamFactor()">getJamFactor</a></code> in interface <code><a href="sdk-for-android-explore-trafficflowbase" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></code></dd>
+<dd><code><a href="TrafficFlowBase.html#getJamFactor()">getJamFactor</a></code> in interface <code><a href="TrafficFlowBase.html" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></code></dd>
 <dt>Returns:</dt>
 <dd><p>A value for the amount of traffic on the roadway.</p></dd>
 </dl>

@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-evseinfo"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-evseinfo"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -80,17 +80,17 @@ slug: "sdk-for-android-explore-evseinfo"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="../ev/EVSECapability.html" title="enum class in com.here.sdk.ev">EVSECapability</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#capabilities">capabilities</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Capabilities of the EVSE.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evchargingconnector" title="class in com.here.sdk.search">EVChargingConnector</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="EVChargingConnector.html" title="class in com.here.sdk.search">EVChargingConnector</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#connectors">connectors</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of available connectors on the EVSE.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first even-row-color"><code><a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#coordinates">coordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The geographic coordinates of the EVSE.</div>
@@ -115,7 +115,7 @@ slug: "sdk-for-android-explore-evseinfo"
 <div class="col-last even-row-color">
 <div class="block">Timestamp when the status of this EVSE was last updated.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evsepaymentsupport" title="enum class in com.here.sdk.ev">EVSEPaymentSupport</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="../ev/EVSEPaymentSupport.html" title="enum class in com.here.sdk.ev">EVSEPaymentSupport</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#paymentSupports">paymentSupports</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">List of payment support functionalities on EVSE for ad-hoc customers (without pre-registration).</div>
@@ -125,7 +125,7 @@ slug: "sdk-for-android-explore-evseinfo"
 <div class="col-last even-row-color">
 <div class="block">A number or string printed on the outside of the EVSE for visual identification.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a></code></div>
+<div class="col-first odd-row-color"><code><a href="../ev/EVSEState.html" title="enum class in com.here.sdk.ev">EVSEState</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#status">status</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Status of the EVSE.</div>
@@ -217,7 +217,7 @@ slug: "sdk-for-android-explore-evseinfo"
 <section class="detail" id="status">
 <h3>status</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-evsestate" title="enum class in com.here.sdk.ev">EVSEState</a></span> <span class="element-name">status</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../ev/EVSEState.html" title="enum class in com.here.sdk.ev">EVSEState</a></span> <span class="element-name">status</span></div>
 <div class="block"><p>Status of the EVSE.</p></div>
 </section>
 </li>
@@ -233,7 +233,7 @@ slug: "sdk-for-android-explore-evseinfo"
 <section class="detail" id="connectors">
 <h3>connectors</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evchargingconnector" title="class in com.here.sdk.search">EVChargingConnector</a>&gt;</span> <span class="element-name">connectors</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="EVChargingConnector.html" title="class in com.here.sdk.search">EVChargingConnector</a>&gt;</span> <span class="element-name">connectors</span></div>
 <div class="block"><p>List of available connectors on the EVSE. An operational EVSE should have at least one connector.</p></div>
 </section>
 </li>
@@ -241,7 +241,7 @@ slug: "sdk-for-android-explore-evseinfo"
 <section class="detail" id="capabilities">
 <h3>capabilities</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a>&gt;</span> <span class="element-name">capabilities</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="../ev/EVSECapability.html" title="enum class in com.here.sdk.ev">EVSECapability</a>&gt;</span> <span class="element-name">capabilities</span></div>
 <div class="block"><p>Capabilities of the EVSE.</p></div>
 </section>
 </li>
@@ -265,7 +265,7 @@ slug: "sdk-for-android-explore-evseinfo"
 <section class="detail" id="coordinates">
 <h3>coordinates</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span></div>
 <div class="block"><p>The geographic coordinates of the EVSE.</p></div>
 </section>
 </li>
@@ -273,7 +273,7 @@ slug: "sdk-for-android-explore-evseinfo"
 <section class="detail" id="paymentSupports">
 <h3>paymentSupports</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-evsepaymentsupport" title="enum class in com.here.sdk.ev">EVSEPaymentSupport</a>&gt;</span> <span class="element-name">paymentSupports</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="../ev/EVSEPaymentSupport.html" title="enum class in com.here.sdk.ev">EVSEPaymentSupport</a>&gt;</span> <span class="element-name">paymentSupports</span></div>
 <div class="block"><p>List of payment support functionalities on EVSE for ad-hoc customers (without pre-registration).</p></div>
 </section>
 </li>

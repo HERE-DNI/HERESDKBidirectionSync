@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-mapmarkeranimation"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,19 +55,19 @@ slug: "sdk-for-android-explore-mapmarkeranimation"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.animation</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.animation</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="../../NativeBase.html" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.animation.MapMarkerAnimation</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapMarkerAnimation</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>An animation that can be applied to the <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> object.</p></div>
+<span class="extends-implements">extends <a href="../../NativeBase.html" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>An animation that can be applied to the <a href="../mapview/MapMarker.html" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> object.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -81,14 +81,14 @@ slug: "sdk-for-android-explore-mapmarkeranimation"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mapmarkeranimation-instantiationerrorcode" title="enum class in com.here.sdk.animation">MapMarkerAnimation.InstantiationErrorCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="MapMarkerAnimation.InstantiationErrorCode.html" title="enum class in com.here.sdk.animation">MapMarkerAnimation.InstantiationErrorCode</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Describes a reason for failing to create a <a href="sdk-for-android-explore-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a>.</div>
+<div class="block">Describes a reason for failing to create a <a href="MapMarkerAnimation.html" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mapmarkeranimation-instantiationexception" title="class in com.here.sdk.animation">MapMarkerAnimation.InstantiationException</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="MapMarkerAnimation.InstantiationException.html" title="class in com.here.sdk.animation">MapMarkerAnimation.InstantiationException</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">Thrown when a problem occurs while trying to create a <a href="sdk-for-android-explore-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a>.</div>
+<div class="block">Thrown when a problem occurs while trying to create a <a href="MapMarkerAnimation.html" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a>.</div>
 </div>
 </div>
 </section>
@@ -101,9 +101,9 @@ slug: "sdk-for-android-explore-mapmarkeranimation"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.animation.MapItemKeyFrameTrack)">MapMarkerAnimation</a><wbr/>(<a href="sdk-for-android-explore-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a> track)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.animation.MapItemKeyFrameTrack)">MapMarkerAnimation</a><wbr/>(<a href="MapItemKeyFrameTrack.html" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a> track)</code></div>
 <div class="col-last even-row-color">
-<div class="block">Creates an animation of <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> based on provided keyframe track.</div>
+<div class="block">Creates an animation of <a href="../mapview/MapMarker.html" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> based on provided keyframe track.</div>
 </div>
 </div>
 </section>
@@ -130,16 +130,16 @@ slug: "sdk-for-android-explore-mapmarkeranimation"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.animation.MapItemKeyFrameTrack)">
 <h3>MapMarkerAnimation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapMarkerAnimation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a> track)</span>
-                   throws <span class="exceptions"><a href="sdk-for-android-explore-mapmarkeranimation-instantiationexception" title="class in com.here.sdk.animation">MapMarkerAnimation.InstantiationException</a></span></div>
-<div class="block"><p>Creates an animation of <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> based on provided keyframe track.
- <p>Supports tracks created with <a href="sdk-for-android-explore-mapitemkeyframetrack" title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack</code></a> 'moveTo*' methods.
- <p>For starting the animation see <a href="sdk-for-android-explore-mapmarker#startAnimation(com.here.sdk.animation.MapMarkerAnimation,com.here.sdk.animation.AnimationListener)"><code>MapMarker.startAnimation(com.here.sdk.animation.MapMarkerAnimation, com.here.sdk.animation.AnimationListener)</code></a>.</p></p></p></div>
+ <a href="MapItemKeyFrameTrack.html" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a> track)</span>
+                   throws <span class="exceptions"><a href="MapMarkerAnimation.InstantiationException.html" title="class in com.here.sdk.animation">MapMarkerAnimation.InstantiationException</a></span></div>
+<div class="block"><p>Creates an animation of <a href="../mapview/MapMarker.html" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> based on provided keyframe track.
+ <p>Supports tracks created with <a href="MapItemKeyFrameTrack.html" title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack</code></a> 'moveTo*' methods.
+ <p>For starting the animation see <a href="../mapview/MapMarker.html#startAnimation(com.here.sdk.animation.MapMarkerAnimation,com.here.sdk.animation.AnimationListener)"><code>MapMarker.startAnimation(com.here.sdk.animation.MapMarkerAnimation, com.here.sdk.animation.AnimationListener)</code></a>.</p></p></p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>track</code> - <p>The track holding the keyframes for the animation.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-mapmarkeranimation-instantiationexception" title="class in com.here.sdk.animation">MapMarkerAnimation.InstantiationException</a></code> - <p>If the specified keyframe track cannot be used to create animation of a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</p></dd>
+<dd><code><a href="MapMarkerAnimation.InstantiationException.html" title="class in com.here.sdk.animation">MapMarkerAnimation.InstantiationException</a></code> - <p>If the specified keyframe track cannot be used to create animation of a <a href="../mapview/MapMarker.html" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>.</p></dd>
 </dl>
 </section>
 </li>

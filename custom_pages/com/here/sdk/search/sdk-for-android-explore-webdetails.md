@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-webdetails"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-webdetails"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -78,17 +78,17 @@ slug: "sdk-for-android-explore-webdetails"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-webeditorial" title="class in com.here.sdk.search">WebEditorial</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="WebEditorial.html" title="class in com.here.sdk.search">WebEditorial</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#editorials">editorials</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of editorials associated with the place.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-webimage" title="class in com.here.sdk.search">WebImage</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="WebImage.html" title="class in com.here.sdk.search">WebImage</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#images">images</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The list of images associated with the place.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-webrating" title="class in com.here.sdk.search">WebRating</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="WebRating.html" title="class in com.here.sdk.search">WebRating</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#ratings">ratings</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of ratings associated with the place.</div>
@@ -149,7 +149,7 @@ slug: "sdk-for-android-explore-webdetails"
 <section class="detail" id="images">
 <h3>images</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-webimage" title="class in com.here.sdk.search">WebImage</a>&gt;</span> <span class="element-name">images</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="WebImage.html" title="class in com.here.sdk.search">WebImage</a>&gt;</span> <span class="element-name">images</span></div>
 <div class="block"><p>The list of images associated with the place.
  The images are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p></div>
@@ -159,7 +159,7 @@ slug: "sdk-for-android-explore-webdetails"
 <section class="detail" id="editorials">
 <h3>editorials</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-webeditorial" title="class in com.here.sdk.search">WebEditorial</a>&gt;</span> <span class="element-name">editorials</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="WebEditorial.html" title="class in com.here.sdk.search">WebEditorial</a>&gt;</span> <span class="element-name">editorials</span></div>
 <div class="block"><p>The list of editorials associated with the place.
  The editorials are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p></div>
@@ -169,7 +169,7 @@ slug: "sdk-for-android-explore-webdetails"
 <section class="detail" id="ratings">
 <h3>ratings</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-webrating" title="class in com.here.sdk.search">WebRating</a>&gt;</span> <span class="element-name">ratings</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="WebRating.html" title="class in com.here.sdk.search">WebRating</a>&gt;</span> <span class="element-name">ratings</span></div>
 <div class="block"><p>The list of ratings associated with the place.
  The ratings are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p></div>

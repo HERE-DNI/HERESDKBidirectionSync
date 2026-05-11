@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-sectionnotice"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-sectionnotice"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -65,7 +65,7 @@ slug: "sdk-for-android-explore-sectionnotice"
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">SectionNotice</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Explains an issue encountered in a <a href="sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a>.</p></div>
+<div class="block"><p>Explains an issue encountered in a <a href="Section.html" title="class in com.here.sdk.routing"><code>Section</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -78,17 +78,17 @@ slug: "sdk-for-android-explore-sectionnotice"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></code></div>
+<div class="col-first even-row-color"><code><a href="SectionNoticeCode.html" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#code">code</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The notice code.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-noticeseverity" title="enum class in com.here.sdk.routing">NoticeSeverity</a></code></div>
+<div class="col-first odd-row-color"><code><a href="NoticeSeverity.html" title="enum class in com.here.sdk.routing">NoticeSeverity</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#severity">severity</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The notice severity.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-violatedrestriction" title="class in com.here.sdk.routing">ViolatedRestriction</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="ViolatedRestriction.html" title="class in com.here.sdk.routing">ViolatedRestriction</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#violatedRestrictions">violatedRestrictions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The following property <code>violated_restrictions</code> contains the notice detail information.</div>
@@ -104,8 +104,8 @@ slug: "sdk-for-android-explore-sectionnotice"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.routing.SectionNoticeCode,com.here.sdk.routing.NoticeSeverity)">SectionNotice</a><wbr/>(<a href="sdk-for-android-explore-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a> code,
- <a href="sdk-for-android-explore-noticeseverity" title="enum class in com.here.sdk.routing">NoticeSeverity</a> severity)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.routing.SectionNoticeCode,com.here.sdk.routing.NoticeSeverity)">SectionNotice</a><wbr/>(<a href="SectionNoticeCode.html" title="enum class in com.here.sdk.routing">SectionNoticeCode</a> code,
+ <a href="NoticeSeverity.html" title="enum class in com.here.sdk.routing">NoticeSeverity</a> severity)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -150,7 +150,7 @@ slug: "sdk-for-android-explore-sectionnotice"
 <section class="detail" id="code">
 <h3>code</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">code</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="SectionNoticeCode.html" title="enum class in com.here.sdk.routing">SectionNoticeCode</a></span> <span class="element-name">code</span></div>
 <div class="block"><p>The notice code.</p></div>
 </section>
 </li>
@@ -158,7 +158,7 @@ slug: "sdk-for-android-explore-sectionnotice"
 <section class="detail" id="severity">
 <h3>severity</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-noticeseverity" title="enum class in com.here.sdk.routing">NoticeSeverity</a></span> <span class="element-name">severity</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="NoticeSeverity.html" title="enum class in com.here.sdk.routing">NoticeSeverity</a></span> <span class="element-name">severity</span></div>
 <div class="block"><p>The notice severity.</p></div>
 </section>
 </li>
@@ -166,12 +166,12 @@ slug: "sdk-for-android-explore-sectionnotice"
 <section class="detail" id="violatedRestrictions">
 <h3>violatedRestrictions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-violatedrestriction" title="class in com.here.sdk.routing">ViolatedRestriction</a>&gt;</span> <span class="element-name">violatedRestrictions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="ViolatedRestriction.html" title="class in com.here.sdk.routing">ViolatedRestriction</a>&gt;</span> <span class="element-name">violatedRestrictions</span></div>
 <div class="block"><p>The following property <code>violated_restrictions</code> contains the notice detail information.
  Only three types of restrictions can have notice details: time dependent restriction, vehicle restriction and transport mode restriction.
  There is no one-to-one match of the <code>SectionNotice.code</code> and these three restriction types. For example, if <code>SectionNotice.code</code> is
- <a href="sdk-for-android-explore-sectionnoticecode#VIOLATED_VEHICLE_RESTRICTION"><code>SectionNoticeCode.VIOLATED_VEHICLE_RESTRICTION</code></a>, then it can be either vehicle restriction or transport mode restriction. If <code>SectionNotice.code</code> is
- <a href="sdk-for-android-explore-sectionnoticecode#SEASONAL_CLOSURE"><code>SectionNoticeCode.SEASONAL_CLOSURE</code></a>, then it is time dependent restriction.
+ <a href="SectionNoticeCode.html#VIOLATED_VEHICLE_RESTRICTION"><code>SectionNoticeCode.VIOLATED_VEHICLE_RESTRICTION</code></a>, then it can be either vehicle restriction or transport mode restriction. If <code>SectionNotice.code</code> is
+ <a href="SectionNoticeCode.html#SEASONAL_CLOSURE"><code>SectionNoticeCode.SEASONAL_CLOSURE</code></a>, then it is time dependent restriction.
  If the section notice is none of the above-mentioned three types, then this will be an empty list.</p></div>
 </section>
 </li>
@@ -187,9 +187,9 @@ slug: "sdk-for-android-explore-sectionnotice"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.SectionNoticeCode,com.here.sdk.routing.NoticeSeverity)">
 <h3>SectionNotice</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">SectionNotice</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-sectionnoticecode" title="enum class in com.here.sdk.routing">SectionNoticeCode</a> code,
+ <a href="SectionNoticeCode.html" title="enum class in com.here.sdk.routing">SectionNoticeCode</a> code,
  @NonNull
- <a href="sdk-for-android-explore-noticeseverity" title="enum class in com.here.sdk.routing">NoticeSeverity</a> severity)</span></div>
+ <a href="NoticeSeverity.html" title="enum class in com.here.sdk.routing">NoticeSeverity</a> severity)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

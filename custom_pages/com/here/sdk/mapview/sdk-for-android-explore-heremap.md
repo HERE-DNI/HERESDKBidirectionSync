@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-heremap"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,18 +55,18 @@ slug: "sdk-for-android-explore-heremap"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="../../NativeBase.html" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.HereMap</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">HereMap</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="../../NativeBase.html" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>The representation of a dynamic and interactive geographic map.
  The map manages a collection of layers of objects and spaces, presents them in a stacked layout and offers the means to focus on a certain area.
  The layers, their relation to the objects and spaces, the layout and the representation style is described through a configuration.</p></div>
@@ -85,18 +85,18 @@ slug: "sdk-for-android-explore-heremap"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#addMapIdleListener(com.here.sdk.mapview.MapIdleListener)">addMapIdleListener</a><wbr/>(<a href="sdk-for-android-explore-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#addMapIdleListener(com.here.sdk.mapview.MapIdleListener)">addMapIdleListener</a><wbr/>(<a href="MapIdleListener.html" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a listener for receiving idle state
  notifications and notifies it of the current state.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview">Style</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="Style.html" title="class in com.here.sdk.mapview">Style</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getStyle()">getStyle</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the style that the map uses to customize the visual appearance of rendered features.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)">removeMapIdleListener</a><wbr/>(<a href="sdk-for-android-explore-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)">removeMapIdleListener</a><wbr/>(<a href="MapIdleListener.html" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes a listener from receiving idle state notifications.</div>
 </div>
@@ -121,7 +121,7 @@ slug: "sdk-for-android-explore-heremap"
 <section class="detail" id="addMapIdleListener(com.here.sdk.mapview.MapIdleListener)">
 <h3>addMapIdleListener</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapIdleListener</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</span></div>
+ <a href="MapIdleListener.html" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</span></div>
 <div class="block"><p>Adds a listener for receiving idle state
  notifications and notifies it of the current state.
  <p>The first notification received is always the state at the time of registration.
@@ -139,7 +139,7 @@ slug: "sdk-for-android-explore-heremap"
 <section class="detail" id="removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)">
 <h3>removeMapIdleListener</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeMapIdleListener</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</span></div>
+ <a href="MapIdleListener.html" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</span></div>
 <div class="block"><p>Removes a listener from receiving idle state notifications.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -151,11 +151,11 @@ slug: "sdk-for-android-explore-heremap"
 <section class="detail" id="getStyle()">
 <h3>getStyle</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview">Style</a></span> <span class="element-name">getStyle</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="Style.html" title="class in com.here.sdk.mapview">Style</a></span> <span class="element-name">getStyle</span>()</div>
 <div class="block"><p>Gets the style that the map uses to customize the visual appearance of rendered features.
- <p>Changes made to the map style using <a href="sdk-for-android-explore-style#update(com.here.sdk.mapview.Style)"><code>Style.update(com.here.sdk.mapview.Style)</code></a> are lost when new scene is loaded using
- <a href="sdk-for-android-explore-mapscene#loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"><code>MapScene.loadScene(MapScheme, MapScene.LoadSceneCallback)</code></a> and its variants as well as
- when map features are enabled or disabled using <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> and <a href="sdk-for-android-explore-mapscene#disableFeatures(java.util.List)"><code>MapScene.disableFeatures(java.util.List&lt;java.lang.String&gt;)</code></a>.
+ <p>Changes made to the map style using <a href="Style.html#update(com.here.sdk.mapview.Style)"><code>Style.update(com.here.sdk.mapview.Style)</code></a> are lost when new scene is loaded using
+ <a href="MapScene.html#loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"><code>MapScene.loadScene(MapScheme, MapScene.LoadSceneCallback)</code></a> and its variants as well as
+ when map features are enabled or disabled using <a href="MapScene.html#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> and <a href="MapScene.html#disableFeatures(java.util.List)"><code>MapScene.disableFeatures(java.util.List&lt;java.lang.String&gt;)</code></a>.
  <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></p></p></div>
 <dl class="notes">

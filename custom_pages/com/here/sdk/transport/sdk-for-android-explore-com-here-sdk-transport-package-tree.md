@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-package-tree"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li>Class</li>
 <li class="nav-bar-cell1-rev">Tree</li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#tree">Help</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#tree">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -42,7 +42,7 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-package-tree"
 
 <span class="package-hierarchy-label">Package Hierarchies:</span>
 <ul class="horizontal">
-<li><a href="sdk-for-android-explore-overview-tree">All Packages</a></li>
+<li><a href="../../../../overview-tree.html">All Packages</a></li>
 </ul>
 </div>
 <section class="hierarchy">
@@ -50,35 +50,35 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-package-tree"
 <ul>
 <li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
 <ul>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-busspecifications" title="class in com.here.sdk.transport">BusSpecifications</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-carspecifications" title="class in com.here.sdk.transport">CarSpecifications</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-generalvehiclespeedlimits" title="class in com.here.sdk.transport">GeneralVehicleSpeedLimits</a></li>
-<li class="circle">com.here.<a class="type-name-link" href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="BusSpecifications.html" title="class in com.here.sdk.transport">BusSpecifications</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="CarSpecifications.html" title="class in com.here.sdk.transport">CarSpecifications</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="GeneralVehicleSpeedLimits.html" title="class in com.here.sdk.transport">GeneralVehicleSpeedLimits</a></li>
+<li class="circle">com.here.<a class="type-name-link" href="../../NativeBase.html" title="class in com.here">NativeBase</a>
 <ul>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification-bicyclebuilder" title="class in com.here.sdk.transport">TransportSpecification.BicycleBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification-busbuilder" title="class in com.here.sdk.transport">TransportSpecification.BusBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification-carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification-pedestrianbuilder" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification-privatebusbuilder" title="class in com.here.sdk.transport">TransportSpecification.PrivateBusBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification-scooterbuilder" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification-taxibuilder" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification-truckbuilder" title="class in com.here.sdk.transport">TransportSpecification.TruckBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification-busbuilder" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification-carbuilder" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification-privatebusbuilder" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification-scooterbuilder" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification-taxibuilder" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification-truckbuilder" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="TransportSpecification.BicycleBuilder.html" title="class in com.here.sdk.transport">TransportSpecification.BicycleBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="TransportSpecification.BusBuilder.html" title="class in com.here.sdk.transport">TransportSpecification.BusBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="TransportSpecification.CarBuilder.html" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="TransportSpecification.PedestrianBuilder.html" title="class in com.here.sdk.transport">TransportSpecification.PedestrianBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="TransportSpecification.PrivateBusBuilder.html" title="class in com.here.sdk.transport">TransportSpecification.PrivateBusBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="TransportSpecification.ScooterBuilder.html" title="class in com.here.sdk.transport">TransportSpecification.ScooterBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="TransportSpecification.TaxiBuilder.html" title="class in com.here.sdk.transport">TransportSpecification.TaxiBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="TransportSpecification.TruckBuilder.html" title="class in com.here.sdk.transport">TransportSpecification.TruckBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="VehicleSpecification.BusBuilder.html" title="class in com.here.sdk.transport">VehicleSpecification.BusBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="VehicleSpecification.CarBuilder.html" title="class in com.here.sdk.transport">VehicleSpecification.CarBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="VehicleSpecification.PrivateBusBuilder.html" title="class in com.here.sdk.transport">VehicleSpecification.PrivateBusBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="VehicleSpecification.ScooterBuilder.html" title="class in com.here.sdk.transport">VehicleSpecification.ScooterBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="VehicleSpecification.TaxiBuilder.html" title="class in com.here.sdk.transport">VehicleSpecification.TaxiBuilder</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="VehicleSpecification.TruckBuilder.html" title="class in com.here.sdk.transport">VehicleSpecification.TruckBuilder</a></li>
 </ul>
 </li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-pedestrianspecification" title="class in com.here.sdk.transport">PedestrianSpecification</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-scooterspecification" title="class in com.here.sdk.transport">ScooterSpecification</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-taxispecification" title="class in com.here.sdk.transport">TaxiSpecification</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-truckspecifications" title="class in com.here.sdk.transport">TruckSpecifications</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehicleprofile" title="class in com.here.sdk.transport">VehicleProfile</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-weightperaxlegroup" title="class in com.here.sdk.transport">WeightPerAxleGroup</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="PedestrianSpecification.html" title="class in com.here.sdk.transport">PedestrianSpecification</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="ScooterSpecification.html" title="class in com.here.sdk.transport">ScooterSpecification</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="TaxiSpecification.html" title="class in com.here.sdk.transport">TaxiSpecification</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="TransportSpecification.html" title="class in com.here.sdk.transport">TransportSpecification</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="TruckSpecifications.html" title="class in com.here.sdk.transport">TruckSpecifications</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="VehicleProfile.html" title="class in com.here.sdk.transport">VehicleProfile</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="VehicleSpecification.html" title="class in com.here.sdk.transport">VehicleSpecification</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="WeightPerAxleGroup.html" title="class in com.here.sdk.transport">WeightPerAxleGroup</a></li>
 </ul>
 </li>
 </ul>
@@ -90,17 +90,17 @@ slug: "sdk-for-android-explore-com-here-sdk-transport-package-tree"
 <ul>
 <li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;E&gt; (implements java.lang.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;T&gt;, java.lang.constant.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a>, java.io.<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a>)
 <ul>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-fueladditivetype" title="enum class in com.here.sdk.transport">FuelAdditiveType</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-hazardousmaterial" title="enum class in com.here.sdk.transport">HazardousMaterial</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-transportmode" title="enum class in com.here.sdk.transport">TransportMode</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-truckcategory" title="enum class in com.here.sdk.transport">TruckCategory</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-truckclass" title="enum class in com.here.sdk.transport">TruckClass</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-truckfueltype" title="enum class in com.here.sdk.transport">TruckFuelType</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-truckroadtype" title="enum class in com.here.sdk.transport">TruckRoadType</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-trucktype" title="enum class in com.here.sdk.transport">TruckType</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a></li>
-<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="sdk-for-android-explore-vehicletype" title="enum class in com.here.sdk.transport">VehicleType</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="FuelAdditiveType.html" title="enum class in com.here.sdk.transport">FuelAdditiveType</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="HazardousMaterial.html" title="enum class in com.here.sdk.transport">HazardousMaterial</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="TransportMode.html" title="enum class in com.here.sdk.transport">TransportMode</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="TruckCategory.html" title="enum class in com.here.sdk.transport">TruckCategory</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="TruckClass.html" title="enum class in com.here.sdk.transport">TruckClass</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="TruckFuelType.html" title="enum class in com.here.sdk.transport">TruckFuelType</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="TruckRoadType.html" title="enum class in com.here.sdk.transport">TruckRoadType</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="TruckType.html" title="enum class in com.here.sdk.transport">TruckType</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="TunnelCategory.html" title="enum class in com.here.sdk.transport">TunnelCategory</a></li>
+<li class="circle">com.here.sdk.transport.<a class="type-name-link" href="VehicleType.html" title="enum class in com.here.sdk.transport">VehicleType</a></li>
 </ul>
 </li>
 </ul>

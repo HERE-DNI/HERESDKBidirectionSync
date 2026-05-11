@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-transportspecification-carbuilder"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,23 +55,23 @@ slug: "sdk-for-android-explore-transportspecification-carbuilder"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.transport</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.transport</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="../../NativeBase.html" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.transport.TransportSpecification.CarBuilder</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></dd>
+<dd><a href="TransportSpecification.html" title="class in com.here.sdk.transport">TransportSpecification</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">TransportSpecification.CarBuilder</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>This class constructs a <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a car.</p></div>
+<span class="extends-implements">extends <a href="../../NativeBase.html" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>This class constructs a <a href="TransportSpecification.html" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> for a car.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -101,14 +101,14 @@ slug: "sdk-for-android-explore-transportspecification-carbuilder"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="TransportSpecification.html" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#build()">build</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Builds the <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a car with the specifications taken
- from the <a href="sdk-for-android-explore-transportspecification-carbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.CarBuilder</code></a> object.</div>
+<div class="block">Builds the <a href="TransportSpecification.html" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a car with the specifications taken
+ from the <a href="TransportSpecification.CarBuilder.html" title="class in com.here.sdk.transport"><code>TransportSpecification.CarBuilder</code></a> object.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-transportspecification-carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification</a><wbr/>(<a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a> vehicleSpecification)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="TransportSpecification.CarBuilder.html" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">withVehicleSpecification</a><wbr/>(<a href="VehicleSpecification.html" title="class in com.here.sdk.transport">VehicleSpecification</a> vehicleSpecification)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the vehicle specification.</div>
 </div>
@@ -148,14 +148,14 @@ slug: "sdk-for-android-explore-transportspecification-carbuilder"
 <section class="detail" id="withVehicleSpecification(com.here.sdk.transport.VehicleSpecification)">
 <h3>withVehicleSpecification</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-transportspecification-carbuilder" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></span> <span class="element-name">withVehicleSpecification</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-vehiclespecification" title="class in com.here.sdk.transport">VehicleSpecification</a> vehicleSpecification)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="TransportSpecification.CarBuilder.html" title="class in com.here.sdk.transport">TransportSpecification.CarBuilder</a></span> <span class="element-name">withVehicleSpecification</span><wbr/><span class="parameters">(@NonNull
+ <a href="VehicleSpecification.html" title="class in com.here.sdk.transport">VehicleSpecification</a> vehicleSpecification)</span></div>
 <div class="block"><p>Sets the vehicle specification.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>vehicleSpecification</code> - <p>The vehicle specification.</p></dd>
 <dt>Returns:</dt>
-<dd><p>The <a href="sdk-for-android-explore-transportspecification-carbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.CarBuilder</code></a> object with the vehicle specification set to the new value.</p></dd>
+<dd><p>The <a href="TransportSpecification.CarBuilder.html" title="class in com.here.sdk.transport"><code>TransportSpecification.CarBuilder</code></a> object with the vehicle specification set to the new value.</p></dd>
 </dl>
 </section>
 </li>
@@ -163,12 +163,12 @@ slug: "sdk-for-android-explore-transportspecification-carbuilder"
 <section class="detail" id="build()">
 <h3>build</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">build</span>()</div>
-<div class="block"><p>Builds the <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a car with the specifications taken
- from the <a href="sdk-for-android-explore-transportspecification-carbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.CarBuilder</code></a> object.</p></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="TransportSpecification.html" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">build</span>()</div>
+<div class="block"><p>Builds the <a href="TransportSpecification.html" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object for a car with the specifications taken
+ from the <a href="TransportSpecification.CarBuilder.html" title="class in com.here.sdk.transport"><code>TransportSpecification.CarBuilder</code></a> object.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p>The <a href="sdk-for-android-explore-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object created from the <a href="sdk-for-android-explore-transportspecification-carbuilder" title="class in com.here.sdk.transport"><code>TransportSpecification.CarBuilder</code></a> object.</p></dd>
+<dd><p>The <a href="TransportSpecification.html" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object created from the <a href="TransportSpecification.CarBuilder.html" title="class in com.here.sdk.transport"><code>TransportSpecification.CarBuilder</code></a> object.</p></dd>
 </dl>
 </section>
 </li>

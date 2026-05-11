@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-physicalconsumptionmodel"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-physicalconsumptionmodel"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -195,7 +195,7 @@ slug: "sdk-for-android-explore-physicalconsumptionmodel"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">frontalAreaInSquareMeters</span></div>
 <div class="block"><p>Frontal area represents the total cross section area of the vehicle as viewed from the front, specified in square meters.
  Physical consumption model is using this value in combination with <code>airDragCoefficient</code> to calculate the consumption caused by air resistance.
- As fallback <a href="sdk-for-android-explore-vehiclespecification#widthInCentimeters"><code>VehicleSpecification.widthInCentimeters</code></a> and <a href="sdk-for-android-explore-vehiclespecification#heightInCentimeters"><code>VehicleSpecification.heightInCentimeters</code></a> are used.
+ As fallback <a href="../transport/VehicleSpecification.html#widthInCentimeters"><code>VehicleSpecification.widthInCentimeters</code></a> and <a href="../transport/VehicleSpecification.html#heightInCentimeters"><code>VehicleSpecification.heightInCentimeters</code></a> are used.
  <p>This parameter is used to provide a more accurate consumption prediction for electric vehicles.
  <p>In the range from 0.5 to 50</p></p></p></div>
 </section>
