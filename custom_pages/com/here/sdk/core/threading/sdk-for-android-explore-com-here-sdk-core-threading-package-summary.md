@@ -1,6 +1,6 @@
 ---
 title: "com.here.sdk.core.threading (API Reference)"
-slug: "sdk-for-android-explore-com-here-sdk-core-threading"
+slug: "sdk-for-android-explore-com-here-sdk-core-threading-package-summary"
 ---
 
 <HTMLBlock>{

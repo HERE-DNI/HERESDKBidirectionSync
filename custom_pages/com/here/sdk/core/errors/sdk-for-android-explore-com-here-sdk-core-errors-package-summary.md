@@ -1,6 +1,6 @@
 ---
 title: "com.here.sdk.core.errors (API Reference)"
-slug: "sdk-for-android-explore-com-here-sdk-core-errors"
+slug: "sdk-for-android-explore-com-here-sdk-core-errors-package-summary"
 ---
 
 <HTMLBlock>{

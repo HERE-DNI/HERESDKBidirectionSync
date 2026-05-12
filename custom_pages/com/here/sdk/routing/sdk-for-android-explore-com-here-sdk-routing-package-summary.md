@@ -1,6 +1,6 @@
 ---
 title: "com.here.sdk.routing (API Reference)"
-slug: "sdk-for-android-explore-com-here-sdk-routing"
+slug: "sdk-for-android-explore-com-here-sdk-routing-package-summary"
 ---
 
 <HTMLBlock>{

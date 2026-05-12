@@ -1,6 +1,6 @@
 ---
 title: "com.here.sdk.animation (API Reference)"
-slug: "sdk-for-android-explore-com-here-sdk-animation"
+slug: "sdk-for-android-explore-com-here-sdk-animation-package-summary"
 ---
 
 <HTMLBlock>{

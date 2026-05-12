@@ -1,6 +1,6 @@
 ---
 title: "com.here.sdk.mapview (API Reference)"
-slug: "sdk-for-android-explore-com-here-sdk-mapview"
+slug: "sdk-for-android-explore-com-here-sdk-mapview-package-summary"
 ---
 
 <HTMLBlock>{

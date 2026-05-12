@@ -1,6 +1,6 @@
 ---
 title: "com.here.sdk.search (API Reference)"
-slug: "sdk-for-android-explore-com-here-sdk-search"
+slug: "sdk-for-android-explore-com-here-sdk-search-package-summary"
 ---
 
 <HTMLBlock>{

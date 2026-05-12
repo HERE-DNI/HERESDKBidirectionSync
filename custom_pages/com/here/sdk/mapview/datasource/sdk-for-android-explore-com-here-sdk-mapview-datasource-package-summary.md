@@ -1,6 +1,6 @@
 ---
 title: "com.here.sdk.mapview.datasource (API Reference)"
-slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource"
+slug: "sdk-for-android-explore-com-here-sdk-mapview-datasource-package-summary"
 ---
 
 <HTMLBlock>{

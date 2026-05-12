@@ -1,6 +1,6 @@
 ---
 title: "com.here.sdk.core (API Reference)"
-slug: "sdk-for-android-explore-com-here-sdk-core"
+slug: "sdk-for-android-explore-com-here-sdk-core-package-summary"
 ---
 
 <HTMLBlock>{

@@ -1,6 +1,6 @@
 ---
 title: "com.here.sdk.traffic (API Reference)"
-slug: "sdk-for-android-explore-com-here-sdk-traffic"
+slug: "sdk-for-android-explore-com-here-sdk-traffic-package-summary"
 ---
 
 <HTMLBlock>{

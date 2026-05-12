@@ -1,6 +1,6 @@
 ---
 title: "com.here.sdk.gestures (API Reference)"
-slug: "sdk-for-android-explore-com-here-sdk-gestures"
+slug: "sdk-for-android-explore-com-here-sdk-gestures-package-summary"
 ---
 
 <HTMLBlock>{

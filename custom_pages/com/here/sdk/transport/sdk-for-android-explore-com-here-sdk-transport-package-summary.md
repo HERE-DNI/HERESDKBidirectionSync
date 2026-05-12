@@ -1,6 +1,6 @@
 ---
 title: "com.here.sdk.transport (API Reference)"
-slug: "sdk-for-android-explore-com-here-sdk-transport"
+slug: "sdk-for-android-explore-com-here-sdk-transport-package-summary"
 ---
 
 <HTMLBlock>{

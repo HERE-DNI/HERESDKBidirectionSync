@@ -1,6 +1,6 @@
 ---
 title: "com.here.sdk.engine (API Reference)"
-slug: "sdk-for-android-explore-com-here-sdk-engine"
+slug: "sdk-for-android-explore-com-here-sdk-engine-package-summary"
 ---
 
 <HTMLBlock>{

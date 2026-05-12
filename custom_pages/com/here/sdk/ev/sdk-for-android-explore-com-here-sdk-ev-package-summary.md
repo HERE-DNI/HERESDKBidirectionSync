@@ -1,6 +1,6 @@
 ---
 title: "com.here.sdk.ev (API Reference)"
-slug: "sdk-for-android-explore-com-here-sdk-ev"
+slug: "sdk-for-android-explore-com-here-sdk-ev-package-summary"
 ---
 
 <HTMLBlock>{

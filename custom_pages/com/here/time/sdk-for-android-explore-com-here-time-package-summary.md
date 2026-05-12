@@ -1,6 +1,6 @@
 ---
 title: "com.here.time (API Reference)"
-slug: "sdk-for-android-explore-com-here-time"
+slug: "sdk-for-android-explore-com-here-time-package-summary"
 ---
 
 <HTMLBlock>{
