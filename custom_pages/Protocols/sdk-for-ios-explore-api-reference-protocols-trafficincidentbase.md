@@ -1,0 +1,190 @@
+---
+title: "TrafficIncidentBase Protocol Reference"
+slug: "sdk-for-ios-explore-api-reference-protocols-trafficincidentbase"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-ios">
+<!-- TrafficIncidentBase.html -->
+<!DOCTYPE html>
+
+
+
+
+<a class="dashAnchor" name="//apple_ref/swift/Protocol/TrafficIncidentBase"></a>
+<a title="TrafficIncidentBase Protocol Reference"></a>
+<header>
+<div class="content-wrapper">
+<p><a href="../index.html">heresdk Docs</a> (99% documented)</p>
+<div class="header-right">
+
+</div>
+</div>
+</header>
+<div class="content-wrapper">
+<p id="breadcrumbs">
+<a href="../index.html">heresdk</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+<a href="../Traffic.html">Traffic</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+        TrafficIncidentBase Protocol Reference
+      </p>
+</div>
+<div class="content-wrapper">
+
+<article class="main-content">
+<section>
+<section class="section">
+
+<div class="declaration">
+<div class="language">
+<pre><code>public protocol TrafficIncidentBase : AnyObject</code></pre>
+</div>
+</div>
+<p>TrafficIncident provides details about a traffic incident.</p>
+</section>
+<section class="section task-group-section">
+<div class="task-group">
+<ul>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk19TrafficIncidentBaseP6impactAA0bC6ImpactOvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/impact"></a>
+<a class="token" href="#/s:7heresdk19TrafficIncidentBaseP6impactAA0bC6ImpactOvp">impact</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The impact of the incident.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>var impact: TrafficIncidentImpact { get }</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk19TrafficIncidentBaseP4typeAA0bC4TypeOvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/type"></a>
+<a class="token" href="#/s:7heresdk19TrafficIncidentBaseP4typeAA0bC4TypeOvp">type</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The category of the incident.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>var type: TrafficIncidentType { get }</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk19TrafficIncidentBaseP11descriptionAA13LocalizedTextVvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/description"></a>
+<a class="token" href="#/s:7heresdk19TrafficIncidentBaseP11descriptionAA13LocalizedTextVvp">description</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The human readable description of the incident, possibly with location information.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>var description: LocalizedText { get }</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk19TrafficIncidentBaseP9startTime10Foundation4DateVSgvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/startTime"></a>
+<a class="token" href="#/s:7heresdk19TrafficIncidentBaseP9startTime10Foundation4DateVSgvp">startTime</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The time from which the incident is valid, before this time the incident should not be considered.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>var startTime: Date? { get }</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk19TrafficIncidentBaseP7endTime10Foundation4DateVSgvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/endTime"></a>
+<a class="token" href="#/s:7heresdk19TrafficIncidentBaseP7endTime10Foundation4DateVSgvp">endTime</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The time until which the incident is valid, after this time the incident should not be considered.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>var endTime: Date? { get }</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</section>
+<section id="footer">
+<p>© 2026 <a class="link" href="" rel="external noopener" target="_blank"></a>. All rights reserved. (Last updated: 2026-04-14)</p>
+<p>Generated by <a class="link" href="https://github.com/realm/jazzy" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a class="link" href="https://realm.io" rel="external noopener" target="_blank">Realm</a> project.</p>
+</section>
+</article>
+</div>
+
+
+
+</div>
+`
+}</HTMLBlock>

@@ -1,0 +1,400 @@
+---
+title: "AvoidanceOptions Structure Reference"
+slug: "sdk-for-ios-explore-api-reference-structs-avoidanceoptions"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-ios">
+<!-- AvoidanceOptions.html -->
+<!DOCTYPE html>
+
+
+
+
+<a class="dashAnchor" name="//apple_ref/swift/Struct/AvoidanceOptions"></a>
+<a title="AvoidanceOptions Structure Reference"></a>
+<header>
+<div class="content-wrapper">
+<p><a href="../index.html">heresdk Docs</a> (99% documented)</p>
+<div class="header-right">
+
+</div>
+</div>
+</header>
+<div class="content-wrapper">
+<p id="breadcrumbs">
+<a href="../index.html">heresdk</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+<a href="../Routing.html">Routing</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+        AvoidanceOptions Structure Reference
+      </p>
+</div>
+<div class="content-wrapper">
+
+<article class="main-content">
+<section>
+<section class="section">
+
+<div class="declaration">
+<div class="language">
+<pre><code>public struct AvoidanceOptions : Hashable</code></pre>
+</div>
+</div>
+<p>The options to specify restrictions for route calculations.</p>
+</section>
+<section class="section task-group-section">
+<div class="task-group">
+<ul>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16AvoidanceOptionsV12roadFeaturesSayAA04RoadE0OGvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/roadFeatures"></a>
+<a class="token" href="#/s:7heresdk16AvoidanceOptionsV12roadFeaturesSayAA04RoadE0OGvp">roadFeatures</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Features which routes should avoid. Best effort only (not enforced).</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var roadFeatures: [RoadFeatures]</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16AvoidanceOptionsV9countriesSayAA11CountryCodeOGvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/countries"></a>
+<a class="token" href="#/s:7heresdk16AvoidanceOptionsV9countriesSayAA11CountryCodeOGvp">countries</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Countries that the route must avoid. Strictly enforced.
+Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7heresdk17SectionNoticeCodeO19violatedBlockedRoadyA2CmF">SectionNoticeCode.violatedBlockedRoad</a></code>.
+<strong>Note:</strong> This avoidance option is not supported in <code><a href="../Structs/IsolineOptions.html">IsolineOptions</a></code> for isoline calculation.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var countries: [CountryCode]</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16AvoidanceOptionsV021avoidBoundingBoxAreasC0SayAA05Avoidef4AreaC0VGvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/avoidBoundingBoxAreasOptions"></a>
+<a class="token" href="#/s:7heresdk16AvoidanceOptionsV021avoidBoundingBoxAreasC0SayAA05Avoidef4AreaC0VGvp">avoidBoundingBoxAreasOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>List of rectangular shapes which routes must not cross and additional options for this area.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var avoidBoundingBoxAreasOptions: [AvoidBoundingBoxAreaOptions]</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16AvoidanceOptionsV017avoidPolygonAreasC0SayAA05Avoide4AreaC0VGvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/avoidPolygonAreasOptions"></a>
+<a class="token" href="#/s:7heresdk16AvoidanceOptionsV017avoidPolygonAreasC0SayAA05Avoide4AreaC0VGvp">avoidPolygonAreasOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>List of polygon shapes which routes must not cross and additional options for this area.
+<strong>Note:</strong> Currently, the maximum count of polygons is limited to 20.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var avoidPolygonAreasOptions: [AvoidPolygonAreaOptions]</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16AvoidanceOptionsV018avoidCorridorAreasC0SayAA05Avoide4AreaC0VGvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/avoidCorridorAreasOptions"></a>
+<a class="token" href="#/s:7heresdk16AvoidanceOptionsV018avoidCorridorAreasC0SayAA05Avoide4AreaC0VGvp">avoidCorridorAreasOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>List of corridor shapes which routes must not cross and additional options for this area.
+<strong>Note:</strong> Currently, the maximum count of corridors is limited to 20.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var avoidCorridorAreasOptions: [AvoidCorridorAreaOptions]</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16AvoidanceOptionsV14zoneCategoriesSayAA12ZoneCategoryOGvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/zoneCategories"></a>
+<a class="token" href="#/s:7heresdk16AvoidanceOptionsV14zoneCategoriesSayAA12ZoneCategoryOGvp">zoneCategories</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Zone categories which routes must not cross. Strictly enforced.
+Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7heresdk17SectionNoticeCodeO23violatedZoneRestrictionyA2CmF">SectionNoticeCode.violatedZoneRestriction</a></code>.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var zoneCategories: [ZoneCategory]</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16AvoidanceOptionsV8segmentsSayAA16SegmentReferenceVGvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/segments"></a>
+<a class="token" href="#/s:7heresdk16AvoidanceOptionsV8segmentsSayAA16SegmentReferenceVGvp">segments</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Segments that routes will avoid going through.
+Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7heresdk17SectionNoticeCodeO19violatedBlockedRoadyA2CmF">SectionNoticeCode.violatedBlockedRoad</a></code>.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>This avoidance option is not supported in <code><a href="../Structs/IsolineOptions.html">IsolineOptions</a></code> for isoline calculation.</li>
+<li>The engine does not support an unlimited number of segments to avoid.
+The limit is defined by the HERE backend services and may change. For now,
+the maximum number of segments to avoid should be below 250. This value may change
+on the backend and it is therefore not guaranteed to be stable.</li>
+</ul>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var segments: [SegmentReference]</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16AvoidanceOptionsV13exceptZoneIdsSaySSGvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/exceptZoneIds"></a>
+<a class="token" href="#/s:7heresdk16AvoidanceOptionsV13exceptZoneIdsSaySSGvp">exceptZoneIds</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Exception to <code>AvoidanceOptions.zone_categories</code>, which can be specified by list of zone identifiers.
+e.g. the format of ID is like <code>here:cm:envzone:2</code>.
+Information about the various routing zones originates from the respective catalogs of platform.here.com.
+For example, more information on zone IDs for Environmental Zones is available under “<a href="https://platform.here.com/data/hrn:here:data::olp-here:rib-2/environmental-zones/overview">https://platform.here.com/data/hrn:here:data::olp-here:rib-2/environmental-zones/overview</a>”.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var exceptZoneIds: [String]</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16AvoidanceOptionsV7zoneIdsSaySSGvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/zoneIds"></a>
+<a class="token" href="#/s:7heresdk16AvoidanceOptionsV7zoneIdsSaySSGvp">zoneIds</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>List containing identifiers of zones that routes should avoid going through.
+e.g. the format of ID is like <code>here:cm:envzone:2</code>.
+Information about the various routing zones originates from the respective catalogs of platform.here.com.
+For example, more information on zone IDs for Environmental Zones is available under “<a href="https://platform.here.com/data/hrn:here:data::olp-here:rib-2/environmental-zones/overview">https://platform.here.com/data/hrn:here:data::olp-here:rib-2/environmental-zones/overview</a>”.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var zoneIds: [String]</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16AvoidanceOptionsV21avoidedTruckRoadTypesSayAA0eF4TypeOGvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/avoidedTruckRoadTypes"></a>
+<a class="token" href="#/s:7heresdk16AvoidanceOptionsV21avoidedTruckRoadTypesSayAA0eF4TypeOGvp">avoidedTruckRoadTypes</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Specifies a list of avoided truck road types for vehicle.
+Refer to <code><a href="../Enums/TruckRoadType.html">TruckRoadType</a></code> for the available options.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var avoidedTruckRoadTypes: [TruckRoadType]</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16AvoidanceOptionsV12roadFeatures9countries021avoidBoundingBoxAreasC00g7PolygonjC00g8CorridorjC014zoneCategories8segments13exceptZoneIds0mR021avoidedTruckRoadTypesACSayAA0uE0OG_SayAA11CountryCodeOGSayAA05Avoidhi4AreaC0VGSayAA0ykzC0VGSayAA0ylzC0VGSayAA0Q8CategoryOGSayAA16SegmentReferenceVGSaySSGA7_SayAA0tU4TypeOGtcfc"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Method/init(roadFeatures:countries:avoidBoundingBoxAreasOptions:avoidPolygonAreasOptions:avoidCorridorAreasOptions:zoneCategories:segments:exceptZoneIds:zoneIds:avoidedTruckRoadTypes:)"></a>
+<a class="token" href="#/s:7heresdk16AvoidanceOptionsV12roadFeatures9countries021avoidBoundingBoxAreasC00g7PolygonjC00g8CorridorjC014zoneCategories8segments13exceptZoneIds0mR021avoidedTruckRoadTypesACSayAA0uE0OG_SayAA11CountryCodeOGSayAA05Avoidhi4AreaC0VGSayAA0ykzC0VGSayAA0ylzC0VGSayAA0Q8CategoryOGSayAA16SegmentReferenceVGSaySSGA7_SayAA0tU4TypeOGtcfc">init(roadFeatures:<wbr/>countries:<wbr/>avoidBoundingBoxAreasOptions:<wbr/>avoidPolygonAreasOptions:<wbr/>avoidCorridorAreasOptions:<wbr/>zoneCategories:<wbr/>segments:<wbr/>exceptZoneIds:<wbr/>zoneIds:<wbr/>avoidedTruckRoadTypes:<wbr/>)</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Creates a new instance.</p>
+<ul>
+<li><p>Parameters</p>
+<ul>
+<li>roadFeatures: Features which routes should avoid. Best effort only (not enforced).</li>
+<li>countries: Countries that the route must avoid. Strictly enforced.
+Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7heresdk17SectionNoticeCodeO19violatedBlockedRoadyA2CmF">SectionNoticeCode.violatedBlockedRoad</a></code>.
+<strong>Note:</strong> This avoidance option is not supported in <code><a href="../Structs/IsolineOptions.html">IsolineOptions</a></code> for isoline calculation.</li>
+<li>avoidBoundingBoxAreasOptions: List of rectangular shapes which routes must not cross and additional options for this area.</li>
+<li>avoidPolygonAreasOptions: List of polygon shapes which routes must not cross and additional options for this area.
+<strong>Note:</strong> Currently, the maximum count of polygons is limited to 20.</li>
+<li>avoidCorridorAreasOptions: List of corridor shapes which routes must not cross and additional options for this area.
+<strong>Note:</strong> Currently, the maximum count of corridors is limited to 20.</li>
+<li>zoneCategories: Zone categories which routes must not cross. Strictly enforced.
+Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7heresdk17SectionNoticeCodeO23violatedZoneRestrictionyA2CmF">SectionNoticeCode.violatedZoneRestriction</a></code>.</li>
+<li>segments: Segments that routes will avoid going through.
+Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7heresdk17SectionNoticeCodeO19violatedBlockedRoadyA2CmF">SectionNoticeCode.violatedBlockedRoad</a></code>.</li>
+</ul>
+<p><strong>Notes:</strong></p>
+<ul>
+<li>This avoidance option is not supported in <code><a href="../Structs/IsolineOptions.html">IsolineOptions</a></code> for isoline calculation.</li>
+<li>The engine does not support an unlimited number of segments to avoid.
+  The limit is defined by the HERE backend services and may change. For now,
+  the maximum number of segments to avoid should be below 250. This value may change
+  on the backend and it is therefore not guaranteed to be stable.
+
+<ul>
+<li>exceptZoneIds: Exception to <code>AvoidanceOptions.zone_categories</code>, which can be specified by list of zone identifiers.
+e.g. the format of ID is like <code>here:cm:envzone:2</code>.
+Information about the various routing zones originates from the respective catalogs of platform.here.com.
+For example, more information on zone IDs for Environmental Zones is available under “<a href="https://platform.here.com/data/hrn:here:data::olp-here:rib-2/environmental-zones/overview">https://platform.here.com/data/hrn:here:data::olp-here:rib-2/environmental-zones/overview</a>”.</li>
+<li>zoneIds: List containing identifiers of zones that routes should avoid going through.
+e.g. the format of ID is like <code>here:cm:envzone:2</code>.
+Information about the various routing zones originates from the respective catalogs of platform.here.com.
+For example, more information on zone IDs for Environmental Zones is available under “<a href="https://platform.here.com/data/hrn:here:data::olp-here:rib-2/environmental-zones/overview">https://platform.here.com/data/hrn:here:data::olp-here:rib-2/environmental-zones/overview</a>”.</li>
+<li>avoidedTruckRoadTypes: Specifies a list of avoided truck road types for vehicle.
+Refer to <code><a href="../Enums/TruckRoadType.html">TruckRoadType</a></code> for the available options.</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public init(roadFeatures: [RoadFeatures] = [], countries: [CountryCode] = [], avoidBoundingBoxAreasOptions: [AvoidBoundingBoxAreaOptions] = [], avoidPolygonAreasOptions: [AvoidPolygonAreaOptions] = [], avoidCorridorAreasOptions: [AvoidCorridorAreaOptions] = [], zoneCategories: [ZoneCategory] = [], segments: [SegmentReference] = [], exceptZoneIds: [String] = [], zoneIds: [String] = [], avoidedTruckRoadTypes: [TruckRoadType] = [])</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</section>
+<section id="footer">
+<p>© 2026 <a class="link" href="" rel="external noopener" target="_blank"></a>. All rights reserved. (Last updated: 2026-04-14)</p>
+<p>Generated by <a class="link" href="https://github.com/realm/jazzy" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a class="link" href="https://realm.io" rel="external noopener" target="_blank">Realm</a> project.</p>
+</section>
+</article>
+</div>
+
+
+
+</div>
+`
+}</HTMLBlock>

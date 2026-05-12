@@ -1,0 +1,168 @@
+---
+title: "RouteTextOptions Structure Reference"
+slug: "sdk-for-ios-explore-api-reference-structs-routetextoptions"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-ios">
+<!-- RouteTextOptions.html -->
+<!DOCTYPE html>
+
+
+
+
+<a class="dashAnchor" name="//apple_ref/swift/Struct/RouteTextOptions"></a>
+<a title="RouteTextOptions Structure Reference"></a>
+<header>
+<div class="content-wrapper">
+<p><a href="../index.html">heresdk Docs</a> (99% documented)</p>
+<div class="header-right">
+
+</div>
+</div>
+</header>
+<div class="content-wrapper">
+<p id="breadcrumbs">
+<a href="../index.html">heresdk</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+<a href="../Routing.html">Routing</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+        RouteTextOptions Structure Reference
+      </p>
+</div>
+<div class="content-wrapper">
+
+<article class="main-content">
+<section>
+<section class="section">
+
+<div class="declaration">
+<div class="language">
+<pre><code>public struct RouteTextOptions : Hashable</code></pre>
+</div>
+</div>
+<p>Specify how textual output should be provided.</p>
+</section>
+<section class="section task-group-section">
+<div class="task-group">
+<ul>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16RouteTextOptionsV8languageAA12LanguageCodeOvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/language"></a>
+<a class="token" href="#/s:7heresdk16RouteTextOptionsV8languageAA12LanguageCodeOvp">language</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The language for all textual information. When the specified language is not supported,
+the default language is used, which is English (United States).</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var language: LanguageCode</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16RouteTextOptionsV10unitSystemAA04UnitF0Ovp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/unitSystem"></a>
+<a class="token" href="#/s:7heresdk16RouteTextOptionsV10unitSystemAA04UnitF0Ovp">unitSystem</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Defines the measurement system used in instruction text. When imperial is selected,
+units used are based on the language specified in the request. Defaults to metric.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var unitSystem: UnitSystem</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16RouteTextOptionsV09textUsageD0AA0cfD0Vvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/textUsageOptions"></a>
+<a class="token" href="#/s:7heresdk16RouteTextOptionsV09textUsageD0AA0cfD0Vvp">textUsageOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>An option whether street name, road number and sign post direction should be used when generating notification.
+Defaults to each attribute as <code><a href="../Enums/LocalizedTextPreference.html#/s:7heresdk23LocalizedTextPreferenceO9useAlwaysyA2CmF">LocalizedTextPreference.useAlways</a></code>.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var textUsageOptions: TextUsageOptions</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16RouteTextOptionsV8language10unitSystem09textUsageD0AcA12LanguageCodeO_AA04UnitG0OAA0ciD0Vtcfc"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Method/init(language:unitSystem:textUsageOptions:)"></a>
+<a class="token" href="#/s:7heresdk16RouteTextOptionsV8language10unitSystem09textUsageD0AcA12LanguageCodeO_AA04UnitG0OAA0ciD0Vtcfc">init(language:<wbr/>unitSystem:<wbr/>textUsageOptions:<wbr/>)</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Creates a new instance.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public init(language: LanguageCode = LanguageCode.enUs, unitSystem: UnitSystem = UnitSystem.metric, textUsageOptions: TextUsageOptions = TextUsageOptions())</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</section>
+<section id="footer">
+<p>© 2026 <a class="link" href="" rel="external noopener" target="_blank"></a>. All rights reserved. (Last updated: 2026-04-14)</p>
+<p>Generated by <a class="link" href="https://github.com/realm/jazzy" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a class="link" href="https://realm.io" rel="external noopener" target="_blank">Realm</a> project.</p>
+</section>
+</article>
+</div>
+
+
+
+</div>
+`
+}</HTMLBlock>

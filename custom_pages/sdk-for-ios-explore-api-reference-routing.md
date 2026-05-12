@@ -1,0 +1,3777 @@
+---
+title: "Routing  Reference"
+slug: "sdk-for-ios-explore-api-reference-routing"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-ios">
+<!-- Routing.html -->
+<!DOCTYPE html>
+
+
+
+
+<a class="dashAnchor" name="//apple_ref/swift/Section/Routing"></a>
+<a title="Routing  Reference"></a>
+<header>
+<div class="content-wrapper">
+<p><a href="index.html">heresdk Docs</a> (99% documented)</p>
+<div class="header-right">
+
+</div>
+</div>
+</header>
+<div class="content-wrapper">
+<p id="breadcrumbs">
+<a href="index.html">heresdk</a>
+<img alt="" id="carat" src="img/carat.png"/>
+        Routing  Reference
+      </p>
+</div>
+<div class="content-wrapper">
+
+<article class="main-content">
+<section>
+<section class="section">
+
+</section>
+<section class="section task-group-section">
+<div class="task-group">
+<ul>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16AccessAttributesO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/AccessAttributes"></a>
+<a class="token" href="#/s:7heresdk16AccessAttributesO">AccessAttributes</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Types of access attributes.</p>
+<a class="slightly-smaller" href="Enums/AccessAttributes.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum AccessAttributes : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk6AgencyV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/Agency"></a>
+<a class="token" href="#/s:7heresdk6AgencyV">Agency</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Holds all the agency information.</p>
+<a class="slightly-smaller" href="Structs/Agency.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct Agency : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk12AllowOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/AllowOptions"></a>
+<a class="token" href="#/s:7heresdk12AllowOptionsV">AllowOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The options explicitly allowed by user for route calculations.</p>
+<a class="slightly-smaller" href="Structs/AllowOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct AllowOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk11AttributionV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/Attribution"></a>
+<a class="token" href="#/s:7heresdk11AttributionV">Attribution</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Holds all the data on a URL address to an external resource.</p>
+<a class="slightly-smaller" href="Structs/Attribution.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct Attribution : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk15AttributionTypeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/AttributionType"></a>
+<a class="token" href="#/s:7heresdk15AttributionTypeO">AttributionType</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Attribution link type.</p>
+<a class="slightly-smaller" href="Enums/AttributionType.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum AttributionType : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16AvoidanceOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/AvoidanceOptions"></a>
+<a class="token" href="#/s:7heresdk16AvoidanceOptionsV">AvoidanceOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The options to specify restrictions for route calculations.</p>
+<a class="slightly-smaller" href="Structs/AvoidanceOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct AvoidanceOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk27AvoidBoundingBoxAreaOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/AvoidBoundingBoxAreaOptions"></a>
+<a class="token" href="#/s:7heresdk27AvoidBoundingBoxAreaOptionsV">AvoidBoundingBoxAreaOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The options to specify rectangular shape which routes must not cross.</p>
+<a class="slightly-smaller" href="Structs/AvoidBoundingBoxAreaOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct AvoidBoundingBoxAreaOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk24AvoidCorridorAreaOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/AvoidCorridorAreaOptions"></a>
+<a class="token" href="#/s:7heresdk24AvoidCorridorAreaOptionsV">AvoidCorridorAreaOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Area of corridor shape which routes must not cross and exceptions for this area.</p>
+<a class="slightly-smaller" href="Structs/AvoidCorridorAreaOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct AvoidCorridorAreaOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk23AvoidPolygonAreaOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/AvoidPolygonAreaOptions"></a>
+<a class="token" href="#/s:7heresdk23AvoidPolygonAreaOptionsV">AvoidPolygonAreaOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The options to specify polygon shape which routes must not cross.</p>
+<a class="slightly-smaller" href="Structs/AvoidPolygonAreaOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct AvoidPolygonAreaOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21BatterySpecificationsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/BatterySpecifications"></a>
+<a class="token" href="#/s:7heresdk21BatterySpecificationsV">BatterySpecifications</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Parameters related to the electric vehicle’s battery.</p>
+<a class="slightly-smaller" href="Structs/BatterySpecifications.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct BatterySpecifications : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14BicycleOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/BicycleOptions"></a>
+<a class="token" href="#/s:7heresdk14BicycleOptionsV">BicycleOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>All the options to specify how a bicycle route should be calculated.</p>
+<a class="slightly-smaller" href="Structs/BicycleOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+public struct BicycleOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk10BusOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/BusOptions"></a>
+<a class="token" href="#/s:7heresdk10BusOptionsV">BusOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>All the options to specify how a bus route should be calculated.</p>
+<a class="slightly-smaller" href="Structs/BusOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+public struct BusOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk10CarOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/CarOptions"></a>
+<a class="token" href="#/s:7heresdk10CarOptionsV">CarOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>All the options to specify how a car route should be calculated.</p>
+<a class="slightly-smaller" href="Structs/CarOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+public struct CarOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk33CalculateIsolineCompletionHandlera"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Alias/CalculateIsolineCompletionHandler"></a>
+<a class="token" href="#/s:7heresdk33CalculateIsolineCompletionHandlera">CalculateIsolineCompletionHandler</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A function which is called by the RoutingEngine after isoline calculation has completed.
+It is always called on the main thread.
+The first argument is the error in case of a failure. It is <code>nil</code> for an operation that succeeds.
+The second argument holds a list of calculated isolines. The list is <code>nil</code> in case of an error.
+The size of the list matches the size of the provided sdk.routing.IsolineOptions.range_values:
+For each range limit, one isoline is calculated.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public typealias CalculateIsolineCompletionHandler = (_ routingError: RoutingError?, _ isolines: [Isoline]?) -&gt; Void</code></pre>
+</div>
+</div>
+<div>
+<h4>Parameters</h4>
+<table class="graybox">
+<tbody>
+<tr>
+<td>
+<code>
+<em>routingError</em>
+</code>
+</td>
+<td>
+<div>
+<p>The error in case of a failure. It is <code>nil</code> for an operation that succeeds.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<code>
+<em>isolines</em>
+</code>
+</td>
+<td>
+<div>
+<p>Holds a list of calculated isolines. The list is <code>nil</code> in case of an error.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk31CalculateRouteCompletionHandlera"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Alias/CalculateRouteCompletionHandler"></a>
+<a class="token" href="#/s:7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A function which is called by the RoutingEngine after route calculation has completed.
+It is always called on the main thread.
+The first argument is the error in case of a failure. It is <code>nil</code> for an operation that succeeds.
+The second argument is the calculated routes. It is <code>nil</code> in case of an error.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public typealias CalculateRouteCompletionHandler = (_ routingError: RoutingError?, _ routeList: [Route]?) -&gt; Void</code></pre>
+</div>
+</div>
+<div>
+<h4>Parameters</h4>
+<table class="graybox">
+<tbody>
+<tr>
+<td>
+<code>
+<em>routingError</em>
+</code>
+</td>
+<td>
+<div>
+<p>The error in case of a failure. It is <code>nil</code> for an operation that succeeds.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<code>
+<em>routeList</em>
+</code>
+</td>
+<td>
+<div>
+<p>The calculated routes. It is <code>nil</code> in case of an error.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk40CalculateTrafficOnRouteCompletionHandlera"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Alias/CalculateTrafficOnRouteCompletionHandler"></a>
+<a class="token" href="#/s:7heresdk40CalculateTrafficOnRouteCompletionHandlera">CalculateTrafficOnRouteCompletionHandler</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A function which is called by the RoutingEngine after route traffic calculation has completed.
+It is always called on the main thread.
+The first argument is the error in case of a failure. It is <code>nil</code> for an operation that succeeds.
+The second argument is the calculated route traffic. It is <code>nil</code> in case of an error.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public typealias CalculateTrafficOnRouteCompletionHandler = (_ routingError: RoutingError?, _ trafficOnRoute: TrafficOnRoute?) -&gt; Void</code></pre>
+</div>
+</div>
+<div>
+<h4>Parameters</h4>
+<table class="graybox">
+<tbody>
+<tr>
+<td>
+<code>
+<em>routingError</em>
+</code>
+</td>
+<td>
+<div>
+<p>The error in case of a failure. It is <code>nil</code> for an operation that succeeds.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<code>
+<em>trafficOnRoute</em>
+</code>
+</td>
+<td>
+<div>
+<p>The calculated route traffic. It is <code>nil</code> in case of an error.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21ChargingActionDetailsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/ChargingActionDetails"></a>
+<a class="token" href="#/s:7heresdk21ChargingActionDetailsV">ChargingActionDetails</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Parameters related to the electric vehicle’s charging action.</p>
+<a class="slightly-smaller" href="Structs/ChargingActionDetails.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct ChargingActionDetails : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk27ChargingConnectorAttributesV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/ChargingConnectorAttributes"></a>
+<a class="token" href="#/s:7heresdk27ChargingConnectorAttributesV">ChargingConnectorAttributes</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Details of the connector that is suggested to be used in the section’s
+<code><a href="Structs/PostAction.html">PostAction</a></code>‘s for charging.</p>
+<a class="slightly-smaller" href="Structs/ChargingConnectorAttributes.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct ChargingConnectorAttributes : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21ChargingConnectorTypeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/ChargingConnectorType"></a>
+<a class="token" href="#/s:7heresdk21ChargingConnectorTypeO">ChargingConnectorType</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Available charging connector types.</p>
+<a class="slightly-smaller" href="Enums/ChargingConnectorType.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum ChargingConnectorType : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk15ChargingStationV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/ChargingStation"></a>
+<a class="token" href="#/s:7heresdk15ChargingStationV">ChargingStation</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Data for an electric vehicle charging station.</p>
+<a class="slightly-smaller" href="Structs/ChargingStation.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct ChargingStation : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk12ChargingStopV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/ChargingStop"></a>
+<a class="token" href="#/s:7heresdk12ChargingStopV">ChargingStop</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The options to specify a user-planned charging stop.
+<strong>Note:</strong>
+In order to specify this <code>ChargingStop</code>, it is also required to set
+[sdk.routing.BatterySpecifications.total_capacity_in_kilowatt_hours], [sdk.routing.BatterySpecifications.initial_charge_in_kilowatt_hours],
+and [sdk.routing.BatterySpecifications.charging_curve].
+Without all of them, the route calculation will fail as an invalid parameter error.</p>
+<a class="slightly-smaller" href="Structs/ChargingStop.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct ChargingStop : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk18ChargingSupplyTypeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/ChargingSupplyType"></a>
+<a class="token" href="#/s:7heresdk18ChargingSupplyTypeO">ChargingSupplyType</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Available charging supply types.</p>
+<a class="slightly-smaller" href="Enums/ChargingSupplyType.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum ChargingSupplyType : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16DynamicSpeedInfoV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/DynamicSpeedInfo"></a>
+<a class="token" href="#/s:7heresdk16DynamicSpeedInfoV">DynamicSpeedInfo</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Provides estimated speed information.</p>
+<a class="slightly-smaller" href="Structs/DynamicSpeedInfo.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct DynamicSpeedInfo : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk22ElectricVehicleOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/ElectricVehicleOptions"></a>
+<a class="token" href="#/s:7heresdk22ElectricVehicleOptionsV">ElectricVehicleOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>These options define the parameters of the electric vehicle.
+<strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+Related APIs may change for new releases without a deprecation process.</p>
+<a class="slightly-smaller" href="Structs/ElectricVehicleOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct ElectricVehicleOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk25EmpiricalConsumptionModelV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/EmpiricalConsumptionModel"></a>
+<a class="token" href="#/s:7heresdk25EmpiricalConsumptionModelV">EmpiricalConsumptionModel</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>This model defines a data-driven energy consumption model for electric vehicles.</p>
+<p>It estimates the electrical energy required to traverse a route by combining empirically derived vehicle
+parameters with route characteristics such as distance, elevation changes, and driving speed. Rather than
+relying on a full physical simulation, this model uses observed consumption behavior to produce realistic
+and efficient energy estimates suitable for routing, range prediction, and navigation use cases.</p>
+<p>Parameters specific to the electric vehicle are used to calculate energy consumption on a given route.
+At minimum, you must provide <code><a href="Structs/EmpiricalConsumptionModel.html#/s:7heresdk25EmpiricalConsumptionModelV06ascentC19InWattHoursPerMeterSdvp">EmpiricalConsumptionModel.ascentConsumptionInWattHoursPerMeter</a></code>,
+<code><a href="Structs/EmpiricalConsumptionModel.html#/s:7heresdk25EmpiricalConsumptionModelV34descentRecoveryInWattHoursPerMeterSdvp">EmpiricalConsumptionModel.descentRecoveryInWattHoursPerMeter</a></code> and a
+<code><a href="Structs/EmpiricalConsumptionModel.html#/s:7heresdk25EmpiricalConsumptionModelV18freeFlowSpeedTableSDys5Int32VSdGvp">EmpiricalConsumptionModel.freeFlowSpeedTable</a></code>.
+<strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+Related APIs may change for new releases without a deprecation process.</p>
+<a class="slightly-smaller" href="Structs/EmpiricalConsumptionModel.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct EmpiricalConsumptionModel : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk12EVCarOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/EVCarOptions"></a>
+<a class="token" href="#/s:7heresdk12EVCarOptionsV">EVCarOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>All the options to specify how a route for an electric car should be calculated.
+At minimum, a valid <code><a href="Structs/EVConsumptionModel.html">EVConsumptionModel</a></code> must be set or the route calculation will fail.
+<br/>
+Note: <code><a href="Structs/EVCarOptions.html#/s:7heresdk12EVCarOptionsV18ensureReachabilitySbvp">EVCarOptions.ensureReachability</a></code> must be <code>true</code> to make sure that all stopovers are reachable. For this,
+charging stations may be added to the route. If <code><a href="Structs/EVCarOptions.html#/s:7heresdk12EVCarOptionsV18ensureReachabilitySbvp">EVCarOptions.ensureReachability</a></code> is true, you need to
+specify the required route options and battery specifications that include the current charge level
+of the battery (<code><a href="Structs/BatterySpecifications.html#/s:7heresdk21BatterySpecificationsV28initialChargeInKilowattHoursSdvp">BatterySpecifications.initialChargeInKilowattHours</a></code>).
+See the parameter description below for more details.</p>
+<a class="slightly-smaller" href="Structs/EVCarOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+public struct EVCarOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14EVChargingPoolV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/EVChargingPool"></a>
+<a class="token" href="#/s:7heresdk14EVChargingPoolV">EVChargingPool</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A charging pool for electric vehicles is an area equipped with one or more charging stations.</p>
+<p>Use <code><a href="Classes/PlaceCategory.html#/s:7heresdk13PlaceCategoryC36businessAndServicesEvChargingStationSSvpZ">PlaceCategory.businessAndServicesEvChargingStation</a></code> to find stations.
+In the <code><a href="Structs/Details.html">Details</a></code> of a <code><a href="Classes/Place.html">Place</a></code> result you can find the list of found pools containing stations,
+if any.</p>
+<p>For offline EV rich attributes, also enable <code><a href="Structs/LayerConfiguration/Feature.html#/s:7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">LayerConfiguration.Feature.ev</a></code>
+in <code><a href="Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">SDKOptions.layerConfiguration</a></code>.</p>
+<a class="slightly-smaller" href="Structs/EVChargingPool.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct EVChargingPool : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk17EVChargingStationV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/EVChargingStation"></a>
+<a class="token" href="#/s:7heresdk17EVChargingStationV">EVChargingStation</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Group of connectors for electric vehicles (EVs), defined by a common charging connector type and
+maximum power level.</p>
+<p>Use <code><a href="Classes/PlaceCategory.html#/s:7heresdk13PlaceCategoryC36businessAndServicesEvChargingStationSSvpZ">PlaceCategory.businessAndServicesEvChargingStation</a></code> to find stations.
+In the <code><a href="Structs/Details.html">Details</a></code> of a <code><a href="Classes/Place.html">Place</a></code> result you can find the list of found pools containing stations,
+if any.</p>
+<p>For offline EV rich attributes, enable <code><a href="Structs/LayerConfiguration/Feature.html#/s:7heresdk18LayerConfigurationV7FeatureO2evyA2EmF">LayerConfiguration.Feature.ev</a></code>
+in <code><a href="Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV18layerConfigurationAA05LayerD0Vvp">SDKOptions.layerConfiguration</a></code>.</p>
+<a class="slightly-smaller" href="Structs/EVChargingStation.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct EVChargingStation : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk18EVConsumptionModelV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/EVConsumptionModel"></a>
+<a class="token" href="#/s:7heresdk18EVConsumptionModelV">EVConsumptionModel</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Parameters specific for the electric vehicle, which are then used to calculate
+energy consumption on a given route.
+At minimum, you must provide <code><a href="Structs/EVConsumptionModel.html#/s:7heresdk18EVConsumptionModelV36ascentConsumptionInWattHoursPerMeterSdvp">EVConsumptionModel.ascentConsumptionInWattHoursPerMeter</a></code>,
+<code><a href="Structs/EVConsumptionModel.html#/s:7heresdk18EVConsumptionModelV34descentRecoveryInWattHoursPerMeterSdvp">EVConsumptionModel.descentRecoveryInWattHoursPerMeter</a></code> and a
+<code><a href="Structs/EVConsumptionModel.html#/s:7heresdk18EVConsumptionModelV18freeFlowSpeedTableSDys5Int32VSdGvp">EVConsumptionModel.freeFlowSpeedTable</a></code>.</p>
+<a class="slightly-smaller" href="Structs/EVConsumptionModel.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct EVConsumptionModel : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk36EVMobilityServiceProviderPreferencesV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/EVMobilityServiceProviderPreferences"></a>
+<a class="token" href="#/s:7heresdk36EVMobilityServiceProviderPreferencesV">EVMobilityServiceProviderPreferences</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Defines preference level per known E-Mobility Service Provider.
+The E-Mobility Service Provider ID partner id as received from
+<a href="https://www.here.com/docs/bundle/ev-charge-points-api-developer-guide/page/topics/resource-roamings.html">https://www.here.com/docs/bundle/ev-charge-points-api-developer-guide/page/topics/resource-roamings.html</a>
+An alternative way to get <code>partnerId</code> is the <code>eMobilityServiceProviders.partnerId</code> as part of <code>HERE SDK Search</code>.
+Maximum number of E-Mobility Service Providers is limited to 10 across all preference.
+Defaults to using all available providers with no prioritization.</p>
+<a class="slightly-smaller" href="Structs/EVMobilityServiceProviderPreferences.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct EVMobilityServiceProviderPreferences : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14EVTruckOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/EVTruckOptions"></a>
+<a class="token" href="#/s:7heresdk14EVTruckOptionsV">EVTruckOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>All the options to specify how a route for an electric truck should be calculated.</p>
+<a class="slightly-smaller" href="Structs/EVTruckOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+public struct EVTruckOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk4FareV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/Fare"></a>
+<a class="token" href="#/s:7heresdk4FareV">Fare</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Holds all the fare data.</p>
+<a class="slightly-smaller" href="Structs/Fare.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct Fare : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk22FarePassValidityPeriodV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/FarePassValidityPeriod"></a>
+<a class="token" href="#/s:7heresdk22FarePassValidityPeriodV">FarePassValidityPeriod</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Specifies a temporal validity period for a pass</p>
+<a class="slightly-smaller" href="Structs/FarePassValidityPeriod.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct FarePassValidityPeriod : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk26FarePassValidityPeriodTypeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/FarePassValidityPeriodType"></a>
+<a class="token" href="#/s:7heresdk26FarePassValidityPeriodTypeO">FarePassValidityPeriodType</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Specifies validity periods.</p>
+<a class="slightly-smaller" href="Enums/FarePassValidityPeriodType.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum FarePassValidityPeriodType : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk9FarePriceV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/FarePrice"></a>
+<a class="token" href="#/s:7heresdk9FarePriceV">FarePrice</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Price of a fare.</p>
+<a class="slightly-smaller" href="Structs/FarePrice.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct FarePrice : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk13FarePriceTypeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/FarePriceType"></a>
+<a class="token" href="#/s:7heresdk13FarePriceTypeO">FarePriceType</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Type of price represented by a <code><a href="Structs/FarePrice.html">FarePrice</a></code> object.</p>
+<a class="slightly-smaller" href="Enums/FarePriceType.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum FarePriceType : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk10FareReasonO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/FareReason"></a>
+<a class="token" href="#/s:7heresdk10FareReasonO">FareReason</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Reason for the cost.</p>
+<a class="slightly-smaller" href="Enums/FareReason.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum FareReason : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk19FunctionalRoadClassO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/FunctionalRoadClass"></a>
+<a class="token" href="#/s:7heresdk19FunctionalRoadClassO">FunctionalRoadClass</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Types of function road class.</p>
+<a class="slightly-smaller" href="Enums/FunctionalRoadClass.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum FunctionalRoadClass : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk17HazardousMaterialO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/HazardousMaterial"></a>
+<a class="token" href="#/s:7heresdk17HazardousMaterialO">HazardousMaterial</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Identifiers for different types of hazardous materials which
+can be shipped by the truck.</p>
+<a class="slightly-smaller" href="Enums/HazardousMaterial.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum HazardousMaterial : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14IndoorManeuverC"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Class/IndoorManeuver"></a>
+<a class="token" href="#/s:7heresdk14IndoorManeuverC">IndoorManeuver</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Represents a maneuver within an indoor section.</p>
+<a class="slightly-smaller" href="Classes/IndoorManeuver.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public class IndoorManeuver</code></pre>
+<pre><code>extension IndoorManeuver: NativeBase</code></pre>
+<pre><code>extension IndoorManeuver: Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk7IsolineC"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Class/Isoline"></a>
+<a class="token" href="#/s:7heresdk7IsolineC">Isoline</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Represents an isoline polygon around a center point. Any possible route between
+the center and any point on the edges of the polygon can be travelled within the
+given range restriction. The edges of the polygon are not guaranteed to be on the road as
+all reachable road endpoints are smoothened to fit into one polygon shape. This
+process can be influenced by setting <code><a href="Structs/IsolineOptions/Calculation.html#/s:7heresdk14IsolineOptionsV11CalculationV9maxPointss5Int32VSgvp">IsolineOptions.Calculation.maxPoints</a></code>.</p>
+<a class="slightly-smaller" href="Classes/Isoline.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public class Isoline</code></pre>
+<pre><code>extension Isoline: NativeBase</code></pre>
+<pre><code>extension Isoline: Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk22IsolineCalculationModeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/IsolineCalculationMode"></a>
+<a class="token" href="#/s:7heresdk22IsolineCalculationModeO">IsolineCalculationMode</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Specifies how isoline calculation is optimized.</p>
+<a class="slightly-smaller" href="Enums/IsolineCalculationMode.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum IsolineCalculationMode : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14IsolineOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/IsolineOptions"></a>
+<a class="token" href="#/s:7heresdk14IsolineOptionsV">IsolineOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Specifies options for isolines calculation.</p>
+<a class="slightly-smaller" href="Structs/IsolineOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct IsolineOptions</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16IsolineRangeTypeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/IsolineRangeType"></a>
+<a class="token" href="#/s:7heresdk16IsolineRangeTypeO">IsolineRangeType</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Specifies the type of one or more range values to be included in the isoline.
+This value defines the restriction that is used to calculate the reachable area.</p>
+<a class="slightly-smaller" href="Enums/IsolineRangeType.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum IsolineRangeType : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk20IsolineRoutingEngineC"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Class/IsolineRoutingEngine"></a>
+<a class="token" href="#/s:7heresdk20IsolineRoutingEngineC">IsolineRoutingEngine</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Use the IsolineRoutingEngine to calculate a reachable area from a center point.
+The calculation is done asynchronously and requires an
+online connection.</p>
+<a class="slightly-smaller" href="Classes/IsolineRoutingEngine.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public class IsolineRoutingEngine</code></pre>
+<pre><code>extension IsolineRoutingEngine: NativeBase</code></pre>
+<pre><code>extension IsolineRoutingEngine: Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk23LocalizedTextPreferenceO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/LocalizedTextPreference"></a>
+<a class="token" href="#/s:7heresdk23LocalizedTextPreferenceO">LocalizedTextPreference</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Indicates the option of localized text usage.</p>
+<a class="slightly-smaller" href="Enums/LocalizedTextPreference.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum LocalizedTextPreference : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk8ManeuverC"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Class/Maneuver"></a>
+<a class="token" href="#/s:7heresdk8ManeuverC">Maneuver</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>This class provides all the information for a maneuver. The directional information (e.g. road names, road
+numbers and signpost direction) is stored in <code><a href="Classes/Maneuver.html#/s:7heresdk8ManeuverC9roadTextsAA04RoadD0Vvp">Maneuver.roadTexts</a></code> and <code><a href="Classes/Maneuver.html#/s:7heresdk8ManeuverC13nextRoadTextsAA0dE0Vvp">Maneuver.nextRoadTexts</a></code> attributes.
+As for the motorway exit information, it can be obtained from <code><a href="Classes/Maneuver.html#/s:7heresdk8ManeuverC13exitSignTextsAA09LocalizedE0Vvp">Maneuver.exitSignTexts</a></code> attribute.</p>
+<a class="slightly-smaller" href="Classes/Maneuver.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public class Maneuver</code></pre>
+<pre><code>extension Maneuver: NativeBase</code></pre>
+<pre><code>extension Maneuver: Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14ManeuverActionO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/ManeuverAction"></a>
+<a class="token" href="#/s:7heresdk14ManeuverActionO">ManeuverAction</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Maneuver action type.</p>
+<a class="slightly-smaller" href="Enums/ManeuverAction.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum ManeuverAction : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21MapMatchedCoordinatesV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/MapMatchedCoordinates"></a>
+<a class="token" href="#/s:7heresdk21MapMatchedCoordinatesV">MapMatchedCoordinates</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Information about the user defined coordinates and where they match to the map.</p>
+<a class="slightly-smaller" href="Structs/MapMatchedCoordinates.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct MapMatchedCoordinates : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk17MatchSideOfStreetO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/MatchSideOfStreet"></a>
+<a class="token" href="#/s:7heresdk17MatchSideOfStreetO">MatchSideOfStreet</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Specifies how the location set by <code><a href="Structs/Waypoint.html#/s:7heresdk8WaypointV16sideOfStreetHintAA14GeoCoordinatesVSgvp">Waypoint.sideOfStreetHint</a></code> should be handled. This setting might affect the geometry of the resulting route.</p>
+<a class="slightly-smaller" href="Enums/MatchSideOfStreet.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum MatchSideOfStreet : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk18MaxAxleGroupWeightV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/MaxAxleGroupWeight"></a>
+<a class="token" href="#/s:7heresdk18MaxAxleGroupWeightV">MaxAxleGroupWeight</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p><code>MaxAxleGroupWeight</code> contains all the restriction details violated by an axle group weight.</p>
+<a class="slightly-smaller" href="Structs/MaxAxleGroupWeight.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct MaxAxleGroupWeight : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk17MaxSpeedOnSegmentV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/MaxSpeedOnSegment"></a>
+<a class="token" href="#/s:7heresdk17MaxSpeedOnSegmentV">MaxSpeedOnSegment</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>New base speed for a segment. Affects route calculation and the ETA. Cannot increase base speed on segment.</p>
+<p><strong>Note:</strong> This option can only be used with the <code><a href="Classes/RoutingEngine.html">RoutingEngine</a></code>. The <code>OfflineRoutingEngine</code> is not supported and the option will be ignored. Note that the <code>OfflineRoutingEngine</code> is only available for the Navigate license.</p>
+<a class="slightly-smaller" href="Structs/MaxSpeedOnSegment.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct MaxSpeedOnSegment : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14NoticeSeverityO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/NoticeSeverity"></a>
+<a class="token" href="#/s:7heresdk14NoticeSeverityO">NoticeSeverity</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Describes the impact a notice has on the resource to which the notice is attached.</p>
+<a class="slightly-smaller" href="Enums/NoticeSeverity.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum NoticeSeverity : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16OptimizationModeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/OptimizationMode"></a>
+<a class="token" href="#/s:7heresdk16OptimizationModeO">OptimizationMode</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Identifiers for different optimizations that can be used during the
+route calculation while trying to keep the quality of the route being calculated high.
+The route is considered to be of low quality if it gives the traveler an unpleasant experience,
+such as having difficult turns or having a lot of turns in general.
+For example, if there are two possible routes from A to B, one with a length of 1000m
+and 10 turns, and another with a length of 1050m and only one turn, the second one
+will be returned as the shortest, although it is 50m longer. Yet, it contains only one turn
+and it is therefore considered to provide a better traveler experience.</p>
+<a class="slightly-smaller" href="Enums/OptimizationMode.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum OptimizationMode : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk19PassThroughWaypointV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/PassThroughWaypoint"></a>
+<a class="token" href="#/s:7heresdk19PassThroughWaypointV">PassThroughWaypoint</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>This structure provides all the information for a passthrough waypoint. The location information and offset of the waypoint are stored in
+<code><a href="Structs/PassThroughWaypoint.html#/s:7heresdk19PassThroughWaypointV5placeAA10RoutePlaceVvp">PassThroughWaypoint.place</a></code> and <code><a href="Structs/PassThroughWaypoint.html#/s:7heresdk19PassThroughWaypointV6offsets5Int32VSgvp">PassThroughWaypoint.offset</a></code> respectively.</p>
+<a class="slightly-smaller" href="Structs/PassThroughWaypoint.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct PassThroughWaypoint : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk13PaymentMethodO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/PaymentMethod"></a>
+<a class="token" href="#/s:7heresdk13PaymentMethodO">PaymentMethod</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Available payment methods.</p>
+<a class="slightly-smaller" href="Enums/PaymentMethod.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum PaymentMethod : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk17PedestrianOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/PedestrianOptions"></a>
+<a class="token" href="#/s:7heresdk17PedestrianOptionsV">PedestrianOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>All the options to specify how a pedestrian route should be calculated.</p>
+<a class="slightly-smaller" href="Structs/PedestrianOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+public struct PedestrianOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk24PhysicalConsumptionModelV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/PhysicalConsumptionModel"></a>
+<a class="token" href="#/s:7heresdk24PhysicalConsumptionModelV">PhysicalConsumptionModel</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Defines the physical consumption model for electric vehicles,
+using vehicle-specific parameters to calculate energy consumption along a route.
+<strong>Note:</strong> [sdk.transport.VehicleSpecification.current_weight_in_kilograms] must be set.
+<strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+Related APIs may change for new releases without a deprecation process.</p>
+<a class="slightly-smaller" href="Structs/PhysicalConsumptionModel.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct PhysicalConsumptionModel : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk10PostActionV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/PostAction"></a>
+<a class="token" href="#/s:7heresdk10PostActionV">PostAction</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>An action that must be done after arrival, i.e. completing a section in the route.</p>
+<a class="slightly-smaller" href="Structs/PostAction.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct PostAction : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14PostActionTypeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/PostActionType"></a>
+<a class="token" href="#/s:7heresdk14PostActionTypeO">PostActionType</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Identifies the action type.</p>
+<a class="slightly-smaller" href="Enums/PostActionType.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum PostActionType : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk9PreActionV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/PreAction"></a>
+<a class="token" href="#/s:7heresdk9PreActionV">PreAction</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>An action that must be done prior to the section, i.e. boarding a ferry.</p>
+<a class="slightly-smaller" href="Structs/PreAction.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct PreAction : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk13PreActionTypeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/PreActionType"></a>
+<a class="token" href="#/s:7heresdk13PreActionTypeO">PreActionType</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Identifies the action type.</p>
+<a class="slightly-smaller" href="Enums/PreActionType.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum PreActionType : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk17PrivateBusOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/PrivateBusOptions"></a>
+<a class="token" href="#/s:7heresdk17PrivateBusOptionsV">PrivateBusOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>All the options to specify how a private bus route should be calculated.</p>
+<a class="slightly-smaller" href="Structs/PrivateBusOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+public struct PrivateBusOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk19RefreshRouteOptionsC"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Class/RefreshRouteOptions"></a>
+<a class="token" href="#/s:7heresdk19RefreshRouteOptionsC">RefreshRouteOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The options to specify how to refresh an already calculated route identified by a <code><a href="Structs/RouteHandle.html">RouteHandle</a></code>. All the
+options that may result in a new route shape are ignored as no new route is calculated. Instead, only the data that
+accompanies a route, such as traffic information, can be refreshed. Therefore, the following route options are ignored:
+<code><a href="Structs/RouteOptions.html#/s:7heresdk12RouteOptionsV12alternativess5Int32Vvp">RouteOptions.alternatives</a></code>, <code><a href="Structs/RouteOptions.html#/s:7heresdk12RouteOptionsV11arrivalTime10Foundation4DateVSgvp">RouteOptions.arrivalTime</a></code>, and <code><a href="Structs/RouteOptions.html#/s:7heresdk12RouteOptionsV16optimizationModeAA012OptimizationE0Ovp">RouteOptions.optimizationMode</a></code>.
+If new <code><a href="Structs/AvoidanceOptions.html">AvoidanceOptions</a></code> are specified, they are ignored as well and instead new <code><a href="Structs/SectionNotice.html">SectionNotice</a></code>‘s
+are generated that indicate where the requested <code><a href="Structs/AvoidanceOptions.html">AvoidanceOptions</a></code> are violated. Note that when
+<code><a href="Structs/EVCarOptions.html#/s:7heresdk12EVCarOptionsV18ensureReachabilitySbvp">EVCarOptions.ensureReachability</a></code> is set to true, the route refresh request will fail as this option
+is incompatible with a fixed route shape.
+If any of the ignored options are important, consider calculating a new route instead.</p>
+<p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+Related APIs may change for new releases without a deprecation process.</p>
+<a class="slightly-smaller" href="Classes/RefreshRouteOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the `RoutingOptions` class instead.")
+public class RefreshRouteOptions</code></pre>
+<pre><code>extension RefreshRouteOptions: NativeBase</code></pre>
+<pre><code>extension RefreshRouteOptions: Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk12RoadFeaturesO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/RoadFeatures"></a>
+<a class="token" href="#/s:7heresdk12RoadFeaturesO">RoadFeatures</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Road features or states.</p>
+<a class="slightly-smaller" href="Enums/RoadFeatures.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum RoadFeatures : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk9RoadTextsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/RoadTexts"></a>
+<a class="token" href="#/s:7heresdk9RoadTextsV">RoadTexts</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Textual attributes of road.</p>
+<a class="slightly-smaller" href="Structs/RoadTexts.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct RoadTexts : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk5RouteC"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Class/Route"></a>
+<a class="token" href="#/s:7heresdk5RouteC">Route</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A route is a path through a road network over which someone travels.</p>
+<p><strong>Note:</strong> Each <code><a href="Classes/Section.html">Section</a></code> of a route contains a list of <code><a href="Structs/SectionNotice.html">SectionNotice</a></code> objects
+that describe <em>potential issues</em> after the route was calculated. If the list is non-empty,
+it is recommended to evaluate possible violations against the requested route options and
+reject the route if deemed necessary.</p>
+<a class="slightly-smaller" href="Classes/Route.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public class Route</code></pre>
+<pre><code>extension Route: NativeBase</code></pre>
+<pre><code>extension Route: Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk11RouteHandleV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/RouteHandle"></a>
+<a class="token" href="#/s:7heresdk11RouteHandleV">RouteHandle</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Provides an opaque handle to the calculated <code><a href="Classes/Route.html">Route</a></code>.
+A handle encodes the calculated route. The route can be decoded from a handle at a
+later point in time as long as the service uses the same map data which was used during encoding.
+Note that the <code><a href="Classes/Route.html#/s:7heresdk5RouteC11routeHandleAA0bD0VSgvp">Route.routeHandle</a></code> is provided only
+if <code><a href="Structs/RouteOptions.html#/s:7heresdk12RouteOptionsV06enableB6HandleSbvp">RouteOptions.enableRouteHandle</a></code> is set before route calculation.
+A <code>RouteHandle</code> generated by the online <code><a href="Classes/RoutingEngine.html">RoutingEngine</a></code> is not compatible with the <code>OfflineRoutingEngine</code>.
+Similarly, a <code>RouteHandle</code> from the <code>OfflineRoutingEngine</code> cannot be used with the online <code><a href="Classes/RoutingEngine.html">RoutingEngine</a></code>.
+Using an incompatible <code>RouteHandle</code> results in a <code><a href="Enums/RoutingError.html">RoutingError</a></code>.</p>
+<a class="slightly-smaller" href="Structs/RouteHandle.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct RouteHandle : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk10RouteLabelV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/RouteLabel"></a>
+<a class="token" href="#/s:7heresdk10RouteLabelV">RouteLabel</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The main street name or road number for a route. A route can contain more than one such street name or route number.
+To include route labels in the route response, enable it using <code><a href="Structs/RouteOptions.html#/s:7heresdk12RouteOptionsV06enableB6LabelsSbvp">RouteOptions.enableRouteLabels</a></code>.</p>
+<a class="slightly-smaller" href="Structs/RouteLabel.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct RouteLabel : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14RouteLabelTypeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/RouteLabelType"></a>
+<a class="token" href="#/s:7heresdk14RouteLabelTypeO">RouteLabelType</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Identifies the type of the route label.</p>
+<a class="slightly-smaller" href="Enums/RouteLabelType.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum RouteLabelType : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk11RouteOffsetV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/RouteOffset"></a>
+<a class="token" href="#/s:7heresdk11RouteOffsetV">RouteOffset</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Represents a specific location along the route.
+A <code>RouteOffset</code> is a location on the route defined by the section index and the distance in meters from the start of that section to the specified location on the route.
+An offset in meters indicates the distance that needs to be traveled to reach a specific location along the route, such as a railway crossing.
+For the latter case, the location of a railway crossing can be retrieved from <code><a href="Structs/RouteRailwayCrossing.html#/s:7heresdk20RouteRailwayCrossingV11coordinatesAA14GeoCoordinatesVvp">RouteRailwayCrossing.coordinates</a></code>.</p>
+<a class="slightly-smaller" href="Structs/RouteOffset.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct RouteOffset</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk12RouteOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/RouteOptions"></a>
+<a class="token" href="#/s:7heresdk12RouteOptionsV">RouteOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The options to specify how the route will be calculated.</p>
+<a class="slightly-smaller" href="Structs/RouteOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct RouteOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk10RoutePlaceV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/RoutePlace"></a>
+<a class="token" href="#/s:7heresdk10RoutePlaceV">RoutePlace</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The location information.</p>
+<a class="slightly-smaller" href="Structs/RoutePlace.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct RoutePlace : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk19RoutePlaceDirectionO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/RoutePlaceDirection"></a>
+<a class="token" href="#/s:7heresdk19RoutePlaceDirectionO">RoutePlaceDirection</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Specifies the direction to make distinction between departure and arrival cases.</p>
+<a class="slightly-smaller" href="Enums/RoutePlaceDirection.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum RoutePlaceDirection : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14RoutePlaceTypeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/RoutePlaceType"></a>
+<a class="token" href="#/s:7heresdk14RoutePlaceTypeO">RoutePlaceType</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Identifies the route place type.</p>
+<a class="slightly-smaller" href="Enums/RoutePlaceType.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum RoutePlaceType : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk20RouteRailwayCrossingV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/RouteRailwayCrossing"></a>
+<a class="token" href="#/s:7heresdk20RouteRailwayCrossingV">RouteRailwayCrossing</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Contains information about railway crossing.</p>
+<a class="slightly-smaller" href="Structs/RouteRailwayCrossing.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct RouteRailwayCrossing</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk24RouteRailwayCrossingTypeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/RouteRailwayCrossingType"></a>
+<a class="token" href="#/s:7heresdk24RouteRailwayCrossingTypeO">RouteRailwayCrossingType</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Identify possible type of route railway crossing.</p>
+<a class="slightly-smaller" href="Enums/RouteRailwayCrossingType.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum RouteRailwayCrossingType : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk9RouteStopV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/RouteStop"></a>
+<a class="token" href="#/s:7heresdk9RouteStopV">RouteStop</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Route stop that should be used together with import route functionality.
+It specifies location index within provided route locations track.
+Route stop can have additional stop delay, which will be included in
+expected time to arrival. During navigation the stop will be treated as
+stopover and will be reported as milestone when passing-by. Only
+available for the Navigate licence.</p>
+<a class="slightly-smaller" href="Structs/RouteStop.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct RouteStop</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16RouteTextOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/RouteTextOptions"></a>
+<a class="token" href="#/s:7heresdk16RouteTextOptionsV">RouteTextOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Specify how textual output should be provided.</p>
+<a class="slightly-smaller" href="Structs/RouteTextOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct RouteTextOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk25RoutingConnectionSettingsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/RoutingConnectionSettings"></a>
+<a class="token" href="#/s:7heresdk25RoutingConnectionSettingsV">RoutingConnectionSettings</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Defines the settings for the retry logic when connecting to the HERE routing backend.</p>
+<p>When a timeout is triggered,
+the next connection attempt starts with a increased timeout.
+new_timeout = initial_timeout + increment * retry_count</p>
+<a class="slightly-smaller" href="Structs/RoutingConnectionSettings.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct RoutingConnectionSettings : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk13RoutingEngineC"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Class/RoutingEngine"></a>
+<a class="token" href="#/s:7heresdk13RoutingEngineC">RoutingEngine</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Use the RoutingEngine to calculate a route from A to B with
+a number of waypoints in between.</p>
+<p>Route calculation is done asynchronously and requires an
+online connection. The resulting route contains various
+information such as the polyline, route length in meters,
+estimated time to traverse along the route and maneuver data.</p>
+<p><strong>Note:</strong> The engine does not support an unlimited number of waypoints.
+The limit is defined by the HERE backend services and may change. For now,
+the maximum number of waypoints should be below 200. This value may change
+and it is not guaranteed to be stable. If you need to support very large lists
+of waypoints, consider to import a route (see <code>importRoute()</code> method) or use
+the <code>OfflineRoutingEngine</code> which supports an unlimited number of waypoints.
+The <code>OfflineRoutingEngine</code> is only available for Navigate licence.</p>
+<a class="slightly-smaller" href="Classes/RoutingEngine.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public class RoutingEngine : RoutingProtocol</code></pre>
+<pre><code>extension RoutingEngine: NativeBase</code></pre>
+<pre><code>extension RoutingEngine: Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk12RoutingErrorO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/RoutingError"></a>
+<a class="token" href="#/s:7heresdk12RoutingErrorO">RoutingError</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Specifies possible errors that may result from the calculation of a route.</p>
+<a class="slightly-smaller" href="Enums/RoutingError.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum RoutingError : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14RoutingOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/RoutingOptions"></a>
+<a class="token" href="#/s:7heresdk14RoutingOptionsV">RoutingOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The options defines how a route should be calculated.</p>
+<p>The options are used for all transport modes and engines.</p>
+<p>** Electric vehicle specific requirements **
+Electric vehicle consumption are estimated when at least one consumption model is defined.
+Currently two models are supported:</p>
+<ul>
+<li>PhysicalConsumptionModel
+Aside from the values in PhysicalConsumptionModel additionally these values needs to be defined:
+
+<ul>
+<li><code><a href="Structs/VehicleSpecification.html#/s:7heresdk20VehicleSpecificationV24currentWeightInKilogramss5Int32VSgvp">VehicleSpecification.currentWeightInKilograms</a></code> from <code><a href="Structs/TransportSpecification.html#/s:7heresdk22TransportSpecificationV07vehicleC0AA07VehicleC0VSgvp">TransportSpecification.vehicleSpecification</a></code>
+from <code><a href="Structs/RoutingOptions.html#/s:7heresdk14RoutingOptionsV22transportSpecificationAA09TransportE0Vvp">RoutingOptions.transportSpecification</a></code></li>
+<li>Additionally <code><a href="Structs/Waypoint.html#/s:7heresdk8WaypointV30currentWeightChangeInKilogramss5Int32VSgvp">Waypoint.currentWeightChangeInKilograms</a></code> can be defined.</li>
+</ul></li>
+<li>EmpiricalConsumptionModel</li>
+</ul>
+<p>By setting <code><a href="Structs/ElectricVehicleOptions.html#/s:7heresdk22ElectricVehicleOptionsV18ensureReachabilitySbvp">ElectricVehicleOptions.ensureReachability</a></code> the <code><a href="Classes/RoutingEngine.html">RoutingEngine</a></code> inserts additional charging stations
+to reach the waypoints.
+This feature requires setting the <code><a href="Structs/BatterySpecifications.html">BatterySpecifications</a></code>.
+By default a vehicle might not reach the waypoint, when the initial charge is not enough to reach all waypoints.
+See the parameter description below for more details.</p>
+<a class="slightly-smaller" href="Structs/RoutingOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct RoutingOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk15RoutingProtocolP"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Protocol/RoutingProtocol"></a>
+<a class="token" href="#/s:7heresdk15RoutingProtocolP">RoutingProtocol</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Provides the protocol for the online and offline
+routing engines.</p>
+<a class="slightly-smaller" href="Protocols/RoutingProtocol.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public protocol RoutingProtocol : AnyObject</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14ScooterOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/ScooterOptions"></a>
+<a class="token" href="#/s:7heresdk14ScooterOptionsV">ScooterOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>All the options to specify how a scooter route should be calculated.</p>
+<a class="slightly-smaller" href="Structs/ScooterOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+public struct ScooterOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk7SectionC"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Class/Section"></a>
+<a class="token" href="#/s:7heresdk7SectionC">Section</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A section is a part of the route between two stopovers.
+A stopover is a location on the route where a stop is made.</p>
+<p><strong>Note:</strong> A section contains a list of <code><a href="Structs/SectionNotice.html">SectionNotice</a></code> objects that describe
+<em>potential issues</em> after the route was calculated. If the list is non-empty, it
+is recommended to evaluate possible violations against the requested route options
+and reject the route if deemed necessary.</p>
+<a class="slightly-smaller" href="Classes/Section.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public class Section</code></pre>
+<pre><code>extension Section: NativeBase</code></pre>
+<pre><code>extension Section: Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk13SectionNoticeV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/SectionNotice"></a>
+<a class="token" href="#/s:7heresdk13SectionNoticeV">SectionNotice</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Explains an issue encountered in a <code><a href="Classes/Section.html">Section</a></code>.</p>
+<a class="slightly-smaller" href="Structs/SectionNotice.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct SectionNotice : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk17SectionNoticeCodeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/SectionNoticeCode"></a>
+<a class="token" href="#/s:7heresdk17SectionNoticeCodeO">SectionNoticeCode</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Notice codes which point the issues encountered during processing of a <code><a href="Classes/Section.html">Section</a></code>.</p>
+<p><strong>Note:</strong> The section notice codes are going to be extended for new error situations.</p>
+<a class="slightly-smaller" href="Enums/SectionNoticeCode.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum SectionNoticeCode : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk20SectionTransportModeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/SectionTransportMode"></a>
+<a class="token" href="#/s:7heresdk20SectionTransportModeO">SectionTransportMode</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Specifies the <code><a href="Classes/Section.html">Section</a></code> mode of transport. A <code><a href="Classes/Section.html">Section</a></code> may have a different
+transport mode than the one specified for route calculation. For example, a car route may have a
+section having ferry transport mode.</p>
+<a class="slightly-smaller" href="Enums/SectionTransportMode.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum SectionTransportMode : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16SegmentReferenceV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/SegmentReference"></a>
+<a class="token" href="#/s:7heresdk16SegmentReferenceV">SegmentReference</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Reference to a segment id with a travel direction.</p>
+<p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+Related APIs may change for new releases without a deprecation process.</p>
+<a class="slightly-smaller" href="Structs/SegmentReference.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct SegmentReference : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk17SideOfDestinationO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/SideOfDestination"></a>
+<a class="token" href="#/s:7heresdk17SideOfDestinationO">SideOfDestination</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Specifies the side of street on which the destination is located.</p>
+<a class="slightly-smaller" href="Enums/SideOfDestination.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum SideOfDestination : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk8SignpostV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/Signpost"></a>
+<a class="token" href="#/s:7heresdk8SignpostV">Signpost</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Signpost information.</p>
+<a class="slightly-smaller" href="Structs/Signpost.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct Signpost : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk13SignpostLabelV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/SignpostLabel"></a>
+<a class="token" href="#/s:7heresdk13SignpostLabelV">SignpostLabel</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Details of a signpost representing a particular direction or destination.</p>
+<a class="slightly-smaller" href="Structs/SignpostLabel.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct SignpostLabel : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16StreetAttributesO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/StreetAttributes"></a>
+<a class="token" href="#/s:7heresdk16StreetAttributesO">StreetAttributes</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Types of street attributes.</p>
+<a class="slightly-smaller" href="Enums/StreetAttributes.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum StreetAttributes : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk4SpanC"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Class/Span"></a>
+<a class="token" href="#/s:7heresdk4SpanC">Span</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A span is a part of the <code><a href="Classes/Section.html">Section</a></code> which is traversable or navigable. Each span
+usually has some geometry associated with it.</p>
+<a class="slightly-smaller" href="Classes/Span.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public class Span</code></pre>
+<pre><code>extension Span: NativeBase</code></pre>
+<pre><code>extension Span: Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk11TaxiOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/TaxiOptions"></a>
+<a class="token" href="#/s:7heresdk11TaxiOptionsV">TaxiOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>All the options to specify how a taxi route should be calculated. See, <code><a href="Enums/TransportMode.html#/s:7heresdk13TransportModeO4taxiyA2CmF">TransportMode.taxi</a></code>.</p>
+<p><strong>Note:</strong> Specify the optional <code><a href="Structs/Waypoint.html#/s:7heresdk8WaypointV16sideOfStreetHintAA14GeoCoordinatesVSgvp">Waypoint.sideOfStreetHint</a></code> to indicate at which side of
+the street a passenger wants to leave the taxi.</p>
+<a class="slightly-smaller" href="Structs/TaxiOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+public struct TaxiOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16TextUsageOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/TextUsageOptions"></a>
+<a class="token" href="#/s:7heresdk16TextUsageOptionsV">TextUsageOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Specify whether the text should be used when generating notification.</p>
+<a class="slightly-smaller" href="Structs/TextUsageOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct TextUsageOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk4TollV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/Toll"></a>
+<a class="token" href="#/s:7heresdk4TollV">Toll</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>This struct presents all the data for a toll.</p>
+<p><strong>Note</strong>: If you’re using the <code>OfflineRoutingEngine</code>, be aware that this feature is
+currently in <strong>beta</strong>. As a result, there may be some bugs or unexpected behaviors.
+Additionally, this feature and related APIs may be updated in future releases
+without going through the deprecation process. Note that the <code>OfflineRoutingEngine</code>
+is only available for the Navigate license. If you’re using the
+<code><a href="Classes/RoutingEngine.html">RoutingEngine</a></code>, this feature is considered to be stable.</p>
+<a class="slightly-smaller" href="Structs/Toll.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct Toll : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk8TollFareV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/TollFare"></a>
+<a class="token" href="#/s:7heresdk8TollFareV">TollFare</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>This struct presents all the fare data for a toll.</p>
+<p><strong>Note</strong>: If you’re using the <code>OfflineRoutingEngine</code>, be aware that this feature is
+currently in <strong>beta</strong>. As a result, there may be some bugs or unexpected behaviors.
+Additionally, this feature and related APIs may be updated in future releases
+without going through the deprecation process. Note that the <code>OfflineRoutingEngine</code>
+is only available for the Navigate license. If you’re using the
+<code><a href="Classes/RoutingEngine.html">RoutingEngine</a></code>, this feature is considered to be stable.</p>
+<a class="slightly-smaller" href="Structs/TollFare.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct TollFare : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk12TollFarePassV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/TollFarePass"></a>
+<a class="token" href="#/s:7heresdk12TollFarePassV">TollFarePass</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p><code><a href="Structs/TollFare.html">TollFare</a></code> multi-travel pass characteristics.</p>
+<a class="slightly-smaller" href="Structs/TollFarePass.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct TollFarePass : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk11TollOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/TollOptions"></a>
+<a class="token" href="#/s:7heresdk11TollOptionsV">TollOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>The option to specify how the tolls should be calculated.
+<strong>Note</strong>
+Not used for offline calculations.</p>
+<a class="slightly-smaller" href="Structs/TollOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct TollOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14TrafficOnRouteV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/TrafficOnRoute"></a>
+<a class="token" href="#/s:7heresdk14TrafficOnRouteV">TrafficOnRoute</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Traffic information on a route. Information for the already traveled portion of the route is
+omitted.</p>
+<a class="slightly-smaller" href="Structs/TrafficOnRoute.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct TrafficOnRoute : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk13TrafficOnSpanV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/TrafficOnSpan"></a>
+<a class="token" href="#/s:7heresdk13TrafficOnSpanV">TrafficOnSpan</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Traffic information of a span along a route.</p>
+<a class="slightly-smaller" href="Structs/TrafficOnSpan.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct TrafficOnSpan : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16TrafficOnSectionV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/TrafficOnSection"></a>
+<a class="token" href="#/s:7heresdk16TrafficOnSectionV">TrafficOnSection</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Traffic information on a section.</p>
+<a class="slightly-smaller" href="Structs/TrafficOnSection.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct TrafficOnSection : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16TransitDepartureV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/TransitDeparture"></a>
+<a class="token" href="#/s:7heresdk16TransitDepartureV">TransitDeparture</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>This struct holds the transit departure or arrival information.</p>
+<a class="slightly-smaller" href="Structs/TransitDeparture.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct TransitDeparture : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk22TransitDepartureStatusO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/TransitDepartureStatus"></a>
+<a class="token" href="#/s:7heresdk22TransitDepartureStatusO">TransitDepartureStatus</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Status of a departure.</p>
+<a class="slightly-smaller" href="Enums/TransitDepartureStatus.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum TransitDepartureStatus : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk15TransitIncidentV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/TransitIncident"></a>
+<a class="token" href="#/s:7heresdk15TransitIncidentV">TransitIncident</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A transit incident describes disruptions on the transit network.
+Disruptions scale from delays to service cancellations.</p>
+<a class="slightly-smaller" href="Structs/TransitIncident.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct TransitIncident : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21TransitIncidentEffectO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/TransitIncidentEffect"></a>
+<a class="token" href="#/s:7heresdk21TransitIncidentEffectO">TransitIncidentEffect</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Transit incident effect.</p>
+<a class="slightly-smaller" href="Enums/TransitIncidentEffect.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum TransitIncidentEffect : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk19TransitIncidentTypeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/TransitIncidentType"></a>
+<a class="token" href="#/s:7heresdk19TransitIncidentTypeO">TransitIncidentType</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Transit incident type.</p>
+<a class="slightly-smaller" href="Enums/TransitIncidentType.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum TransitIncidentType : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk11TransitModeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/TransitMode"></a>
+<a class="token" href="#/s:7heresdk11TransitModeO">TransitMode</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Public transit mode</p>
+<a class="slightly-smaller" href="Enums/TransitMode.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum TransitMode : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk17TransitModeFilterO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/TransitModeFilter"></a>
+<a class="token" href="#/s:7heresdk17TransitModeFilterO">TransitModeFilter</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Filtering mode for public transit.</p>
+<a class="slightly-smaller" href="Enums/TransitModeFilter.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum TransitModeFilter : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk23TrafficOptimizationModeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/TrafficOptimizationMode"></a>
+<a class="token" href="#/s:7heresdk23TrafficOptimizationModeO">TrafficOptimizationMode</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Traffic optimization mode that defines whether and what kind of traffic information should be considered during route calculation.</p>
+<a class="slightly-smaller" href="Enums/TrafficOptimizationMode.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum TrafficOptimizationMode : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk19TransitRouteOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/TransitRouteOptions"></a>
+<a class="token" href="#/s:7heresdk19TransitRouteOptionsV">TransitRouteOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>All the options to specify how a public transit route should be calculated.</p>
+<a class="slightly-smaller" href="Structs/TransitRouteOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct TransitRouteOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk20TransitRoutingEngineC"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Class/TransitRoutingEngine"></a>
+<a class="token" href="#/s:7heresdk20TransitRoutingEngineC">TransitRoutingEngine</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Use the TransitRoutingEngine to calculate a public transit route from A to B with
+a number of waypoints in between.
+Route calculation is done asynchronously and requires an
+online connection. The resulting route contains various
+information such as the polyline, route length in meters,
+estimated time to traverse along the route and maneuver data.</p>
+<a class="slightly-smaller" href="Classes/TransitRoutingEngine.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public class TransitRoutingEngine</code></pre>
+<pre><code>extension TransitRoutingEngine: NativeBase</code></pre>
+<pre><code>extension TransitRoutingEngine: Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21TransitSectionDetailsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/TransitSectionDetails"></a>
+<a class="token" href="#/s:7heresdk21TransitSectionDetailsV">TransitSectionDetails</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Gives the details of a transit section.</p>
+<a class="slightly-smaller" href="Structs/TransitSectionDetails.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct TransitSectionDetails : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk11TransitStopV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/TransitStop"></a>
+<a class="token" href="#/s:7heresdk11TransitStopV">TransitStop</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A transit stop between the departure and destination of a transit section.</p>
+<a class="slightly-smaller" href="Structs/TransitStop.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct TransitStop : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk16TransitTransportV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/TransitTransport"></a>
+<a class="token" href="#/s:7heresdk16TransitTransportV">TransitTransport</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Holds all the transit transport information.</p>
+<a class="slightly-smaller" href="Structs/TransitTransport.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct TransitTransport : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk15TransitWaypointV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/TransitWaypoint"></a>
+<a class="token" href="#/s:7heresdk15TransitWaypointV">TransitWaypoint</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Represents a transit waypoint, used as input for transit route calculation.</p>
+<a class="slightly-smaller" href="Structs/TransitWaypoint.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct TransitWaypoint : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk15TravelDirectionO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/TravelDirection"></a>
+<a class="token" href="#/s:7heresdk15TravelDirectionO">TravelDirection</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Travel direction.</p>
+<a class="slightly-smaller" href="Enums/TravelDirection.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum TravelDirection : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk12TruckOptionsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/TruckOptions"></a>
+<a class="token" href="#/s:7heresdk12TruckOptionsV">TruckOptions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>All the options to specify how a truck route should be calculated.</p>
+<a class="slightly-smaller" href="Structs/TruckOptions.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use `RoutingOptions` class instead.")
+public struct TruckOptions : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk19TruckSpecificationsV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/TruckSpecifications"></a>
+<a class="token" href="#/s:7heresdk19TruckSpecificationsV">TruckSpecifications</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Truck specifications contain vehicle related attributes. Examples: Dimensions, weight, axle count.
+Only the fields that are set are considered for restriction handling.</p>
+<a class="slightly-smaller" href="Structs/TruckSpecifications.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use `TransportSpecification` instead.")
+public struct TruckSpecifications : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk9TruckTypeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/TruckType"></a>
+<a class="token" href="#/s:7heresdk9TruckTypeO">TruckType</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Specifies the type of truck.</p>
+<a class="slightly-smaller" href="Enums/TruckType.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>@available(*, deprecated, message: "Will be removed in v4.27.0. Use `TruckCategory` instead.")
+public enum TruckType : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14TunnelCategoryO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/TunnelCategory"></a>
+<a class="token" href="#/s:7heresdk14TunnelCategoryO">TunnelCategory</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Specifies the tunnel categories.</p>
+<p>Tunnels are categorized from B (low risk, few restrictions) to E (high risk)
+based on their safety features and the potential danger posed by the goods
+transported through them.</p>
+<a class="slightly-smaller" href="Enums/TunnelCategory.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum TunnelCategory : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk27VehicleRestrictionMaxWeightV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/VehicleRestrictionMaxWeight"></a>
+<a class="token" href="#/s:7heresdk27VehicleRestrictionMaxWeightV">VehicleRestrictionMaxWeight</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p><code>VehicleRestrictionMaxWeight</code> contains max permitted weight during the trip, in kilograms,
+along with the specific type of maximum permitted weight restriction.</p>
+<a class="slightly-smaller" href="Structs/VehicleRestrictionMaxWeight.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct VehicleRestrictionMaxWeight : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk31VehicleRestrictionMaxWeightTypeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/VehicleRestrictionMaxWeightType"></a>
+<a class="token" href="#/s:7heresdk31VehicleRestrictionMaxWeightTypeO">VehicleRestrictionMaxWeightType</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>This enum represents the specific type of the maximum permitted weight restriction.
+<strong>NOTES:</strong>
+A restriction of type <code><a href="Enums/VehicleRestrictionMaxWeightType.html#/s:7heresdk31VehicleRestrictionMaxWeightTypeO7unknownyA2CmF">VehicleRestrictionMaxWeightType.unknown</a></code> may change to <code><a href="Enums/VehicleRestrictionMaxWeightType.html#/s:7heresdk31VehicleRestrictionMaxWeightTypeO5grossyA2CmF">VehicleRestrictionMaxWeightType.gross</a></code>, <code><a href="Enums/VehicleRestrictionMaxWeightType.html#/s:7heresdk31VehicleRestrictionMaxWeightTypeO7currentyA2CmF">VehicleRestrictionMaxWeightType.current</a></code> or <code><a href="Enums/VehicleRestrictionMaxWeightType.html#/s:7heresdk31VehicleRestrictionMaxWeightTypeO5emptyyA2CmF">VehicleRestrictionMaxWeightType.empty</a></code> when
+data becomes available in future.
+A restriction of type <code><a href="Enums/VehicleRestrictionMaxWeightType.html#/s:7heresdk31VehicleRestrictionMaxWeightTypeO5grossyA2CmF">VehicleRestrictionMaxWeightType.gross</a></code>, <code><a href="Enums/VehicleRestrictionMaxWeightType.html#/s:7heresdk31VehicleRestrictionMaxWeightTypeO7currentyA2CmF">VehicleRestrictionMaxWeightType.current</a></code> or <code><a href="Enums/VehicleRestrictionMaxWeightType.html#/s:7heresdk31VehicleRestrictionMaxWeightTypeO5emptyyA2CmF">VehicleRestrictionMaxWeightType.empty</a></code> may also change to a different type if actual regulation changes.</p>
+<a class="slightly-smaller" href="Enums/VehicleRestrictionMaxWeightType.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum VehicleRestrictionMaxWeightType : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk20VehicleSpecificationV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/VehicleSpecification"></a>
+<a class="token" href="#/s:7heresdk20VehicleSpecificationV">VehicleSpecification</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Contains vehicle related attributes. Examples: Dimensions, weight, axle count.
+Only the fields that are set are considered for restriction handling.</p>
+<a class="slightly-smaller" href="Structs/VehicleSpecification.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct VehicleSpecification : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk19ViolatedRestrictionV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/ViolatedRestriction"></a>
+<a class="token" href="#/s:7heresdk19ViolatedRestrictionV">ViolatedRestriction</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p><code>ViolatedRestriction</code> contains all the violated restriction details for the planned trip.</p>
+<a class="slightly-smaller" href="Structs/ViolatedRestriction.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct ViolatedRestriction : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk14WalkAttributesO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/WalkAttributes"></a>
+<a class="token" href="#/s:7heresdk14WalkAttributesO">WalkAttributes</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Types of walk attributes.</p>
+<a class="slightly-smaller" href="Enums/WalkAttributes.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum WalkAttributes : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk8WaypointV"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/Waypoint"></a>
+<a class="token" href="#/s:7heresdk8WaypointV">Waypoint</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Represents a waypoint, used as input for route calculation.</p>
+<a class="slightly-smaller" href="Structs/Waypoint.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public struct Waypoint : Hashable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk12WaypointTypeO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/WaypointType"></a>
+<a class="token" href="#/s:7heresdk12WaypointTypeO">WaypointType</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Defines if the waypoint is a stop over, or a hint for a desired polyline of a
+route.</p>
+<a class="slightly-smaller" href="Enums/WaypointType.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum WaypointType : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk12ZoneCategoryO"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Enum/ZoneCategory"></a>
+<a class="token" href="#/s:7heresdk12ZoneCategoryO">ZoneCategory</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Identifies categories of zones which routes avoid going through when used in
+<code><a href="Structs/AvoidanceOptions.html">AvoidanceOptions</a></code>.</p>
+<a class="slightly-smaller" href="Enums/ZoneCategory.html">See more</a>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public enum ZoneCategory : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</section>
+<section id="footer">
+<p>© 2026 <a class="link" href="" rel="external noopener" target="_blank"></a>. All rights reserved. (Last updated: 2026-04-14)</p>
+<p>Generated by <a class="link" href="https://github.com/realm/jazzy" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a class="link" href="https://realm.io" rel="external noopener" target="_blank">Realm</a> project.</p>
+</section>
+</article>
+</div>
+
+
+
+</div>
+`
+}</HTMLBlock>

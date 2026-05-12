@@ -1,0 +1,190 @@
+---
+title: "FunctionalRoadClass Enumeration Reference"
+slug: "sdk-for-ios-explore-api-reference-enums-functionalroadclass"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-ios">
+<!-- FunctionalRoadClass.html -->
+<!DOCTYPE html>
+
+
+
+
+<a class="dashAnchor" name="//apple_ref/swift/Enum/FunctionalRoadClass"></a>
+<a title="FunctionalRoadClass Enumeration Reference"></a>
+<header>
+<div class="content-wrapper">
+<p><a href="../index.html">heresdk Docs</a> (99% documented)</p>
+<div class="header-right">
+
+</div>
+</div>
+</header>
+<div class="content-wrapper">
+<p id="breadcrumbs">
+<a href="../index.html">heresdk</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+<a href="../Routing.html">Routing</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+        FunctionalRoadClass Enumeration Reference
+      </p>
+</div>
+<div class="content-wrapper">
+
+<article class="main-content">
+<section>
+<section class="section">
+
+<div class="declaration">
+<div class="language">
+<pre><code>public enum FunctionalRoadClass : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+<p>Types of function road class.</p>
+</section>
+<section class="section task-group-section">
+<div class="task-group">
+<ul>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk19FunctionalRoadClassO010functionalC6Class1yA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/functionalRoadClass1"></a>
+<a class="token" href="#/s:7heresdk19FunctionalRoadClassO010functionalC6Class1yA2CmF">functionalRoadClass1</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A road with high volume and maximum speed traffic.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>case functionalRoadClass1</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk19FunctionalRoadClassO010functionalC6Class2yA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/functionalRoadClass2"></a>
+<a class="token" href="#/s:7heresdk19FunctionalRoadClassO010functionalC6Class2yA2CmF">functionalRoadClass2</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A road with high volume and high speed traffic.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>case functionalRoadClass2</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk19FunctionalRoadClassO010functionalC6Class3yA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/functionalRoadClass3"></a>
+<a class="token" href="#/s:7heresdk19FunctionalRoadClassO010functionalC6Class3yA2CmF">functionalRoadClass3</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A road with high volume traffic.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>case functionalRoadClass3</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk19FunctionalRoadClassO010functionalC6Class4yA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/functionalRoadClass4"></a>
+<a class="token" href="#/s:7heresdk19FunctionalRoadClassO010functionalC6Class4yA2CmF">functionalRoadClass4</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A road with high volume traffic at moderate speeds between neighborhoods.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>case functionalRoadClass4</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk19FunctionalRoadClassO010functionalC6Class5yA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/functionalRoadClass5"></a>
+<a class="token" href="#/s:7heresdk19FunctionalRoadClassO010functionalC6Class5yA2CmF">functionalRoadClass5</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A road whose volume and traffic flow are below the level of any other functional class.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>case functionalRoadClass5</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</section>
+<section id="footer">
+<p>© 2026 <a class="link" href="" rel="external noopener" target="_blank"></a>. All rights reserved. (Last updated: 2026-04-14)</p>
+<p>Generated by <a class="link" href="https://github.com/realm/jazzy" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a class="link" href="https://realm.io" rel="external noopener" target="_blank">Realm</a> project.</p>
+</section>
+</article>
+</div>
+
+
+
+</div>
+`
+}</HTMLBlock>
