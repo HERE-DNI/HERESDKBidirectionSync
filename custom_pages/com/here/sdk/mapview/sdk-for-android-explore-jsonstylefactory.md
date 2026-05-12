@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-jsonstylefactory"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,19 +55,19 @@ slug: "sdk-for-android-explore-jsonstylefactory"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="../../NativeBase.html" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.JsonStyleFactory</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">JsonStyleFactory</span>
-<span class="extends-implements">extends <a href="../../NativeBase.html" title="class in com.here">NativeBase</a></span></div>
-<div class="block"><p>A factory of <a href="Style.html" title="class in com.here.sdk.mapview"><code>Style</code></a> objects from styles defined in JSON format.
+<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<div class="block"><p>A factory of <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview"><code>Style</code></a> objects from styles defined in JSON format.
  For more details see Custom Layer Style Reference in the documentation.
  <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
  behavior. Related APIs may change for new releases without a deprecation process.</p></p></div>
@@ -84,19 +84,19 @@ slug: "sdk-for-android-explore-jsonstylefactory"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="JsonStyleFactory.InstantiationErrorCode.html" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-jsonstylefactory.instantiationerrorcode" title="enum class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorCode</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Describes reasons for failing to create a <a href="Style.html" title="class in com.here.sdk.mapview"><code>Style</code></a> from a JSON source.</div>
+<div class="block">Describes reasons for failing to create a <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview"><code>Style</code></a> from a JSON source.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="JsonStyleFactory.InstantiationErrorDetails.html" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorDetails</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-jsonstylefactory.instantiationerrordetails" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationErrorDetails</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block">Describes the reason for failing to create a <a href="Style.html" title="class in com.here.sdk.mapview"><code>Style</code></a> from a JSON source.</div>
+<div class="block">Describes the reason for failing to create a <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview"><code>Style</code></a> from a JSON source.</div>
 </div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="JsonStyleFactory.InstantiationException.html" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationException</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-jsonstylefactory.instantiationexception" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationException</a></code></div>
 <div class="col-last even-row-color">
-<div class="block">Thrown when failing to create a <a href="Style.html" title="class in com.here.sdk.mapview"><code>Style</code></a> from a JSON source.</div>
+<div class="block">Thrown when failing to create a <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview"><code>Style</code></a> from a JSON source.</div>
 </div>
 </div>
 </section>
@@ -112,7 +112,7 @@ slug: "sdk-for-android-explore-jsonstylefactory"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="Style.html" title="class in com.here.sdk.mapview">Style</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview">Style</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#createFromString(java.lang.String)">createFromString</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> styleString)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates an instance of Style from a JSON string.</div>
@@ -138,9 +138,9 @@ slug: "sdk-for-android-explore-jsonstylefactory"
 <section class="detail" id="createFromString(java.lang.String)">
 <h3>createFromString</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="Style.html" title="class in com.here.sdk.mapview">Style</a></span> <span class="element-name">createFromString</span><wbr/><span class="parameters">(@NonNull
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview">Style</a></span> <span class="element-name">createFromString</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> styleString)</span>
-                              throws <span class="exceptions"><a href="JsonStyleFactory.InstantiationException.html" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationException</a></span></div>
+                              throws <span class="exceptions"><a href="sdk-for-android-explore-jsonstylefactory.instantiationexception" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationException</a></span></div>
 <div class="block"><p>Creates an instance of Style from a JSON string.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -148,7 +148,7 @@ slug: "sdk-for-android-explore-jsonstylefactory"
 <dt>Returns:</dt>
 <dd><p>Style instance.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="JsonStyleFactory.InstantiationException.html" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationException</a></code> - <p>Indicates failure to create <a href="Style.html" title="class in com.here.sdk.mapview"><code>Style</code></a> from JSON string.</p></dd>
+<dd><code><a href="sdk-for-android-explore-jsonstylefactory.instantiationexception" title="class in com.here.sdk.mapview">JsonStyleFactory.InstantiationException</a></code> - <p>Indicates failure to create <a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview"><code>Style</code></a> from JSON string.</p></dd>
 </dl>
 </section>
 </li>

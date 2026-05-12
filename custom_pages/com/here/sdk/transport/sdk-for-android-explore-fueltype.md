@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-fueltype"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,22 +55,22 @@ slug: "sdk-for-android-explore-fueltype"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.transport</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.transport</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a>&gt;
 <div class="inheritance">com.here.sdk.transport.FuelType</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">FuelType</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a>&gt;</span></div>
 <div class="block"><p>Defines possible fuel types provided by a fuel station.
  <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
  unexpected behaviors. Related APIs may change for new releases without a deprecation process.</p></p></div>
@@ -228,12 +228,12 @@ slug: "sdk-for-android-explore-fueltype"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a>[]</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a>[]</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
@@ -262,210 +262,210 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="DIESEL">
 <h3>DIESEL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">DIESEL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">DIESEL</span></div>
 <div class="block"><p>Diesel fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LPG">
 <h3>LPG</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">LPG</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">LPG</span></div>
 <div class="block"><p>Liquified petroleum gas fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="BIO_DIESEL">
 <h3>BIO_DIESEL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">BIO_DIESEL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">BIO_DIESEL</span></div>
 <div class="block"><p>Bio-Diesel fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CNG">
 <h3>CNG</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">CNG</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">CNG</span></div>
 <div class="block"><p>Compressed natural gas fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="DIESEL_WITH_ADDITIVES">
 <h3>DIESEL_WITH_ADDITIVES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">DIESEL_WITH_ADDITIVES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">DIESEL_WITH_ADDITIVES</span></div>
 <div class="block"><p>Diesel with additives fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="E10">
 <h3>E10</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">E10</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">E10</span></div>
 <div class="block"><p>10% Ethanol and 90% Gasoline fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="E20">
 <h3>E20</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">E20</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">E20</span></div>
 <div class="block"><p>20% Ethanol and 80% Gasoline fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="E85">
 <h3>E85</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">E85</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">E85</span></div>
 <div class="block"><p>85% Ethanol and 15% Gasoline fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ETHANOL">
 <h3>ETHANOL</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">ETHANOL</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">ETHANOL</span></div>
 <div class="block"><p>Ethanol fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="ETHANOL_WITH_ADDITIVES">
 <h3>ETHANOL_WITH_ADDITIVES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">ETHANOL_WITH_ADDITIVES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">ETHANOL_WITH_ADDITIVES</span></div>
 <div class="block"><p>Ethanol with additives fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="GASOLINE">
 <h3>GASOLINE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">GASOLINE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">GASOLINE</span></div>
 <div class="block"><p>Gasoline fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="GASOHOL_91">
 <h3>GASOHOL_91</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">GASOHOL_91</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">GASOHOL_91</span></div>
 <div class="block"><p>Gasohol 91 fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="GASOHOL_95">
 <h3>GASOHOL_95</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">GASOHOL_95</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">GASOHOL_95</span></div>
 <div class="block"><p>Gasohol 95 fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HVO">
 <h3>HVO</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">HVO</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">HVO</span></div>
 <div class="block"><p>Hydrotreated vegetable oil fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="HYDROGEN">
 <h3>HYDROGEN</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">HYDROGEN</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">HYDROGEN</span></div>
 <div class="block"><p>Hydrogen fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LNG">
 <h3>LNG</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">LNG</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">LNG</span></div>
 <div class="block"><p>Liquefied natural gas fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="MIDGRADE">
 <h3>MIDGRADE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">MIDGRADE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">MIDGRADE</span></div>
 <div class="block"><p>Midgrade fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PREMIUM">
 <h3>PREMIUM</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">PREMIUM</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">PREMIUM</span></div>
 <div class="block"><p>Premium fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="PREMIUM_WITH_ADDITIVES">
 <h3>PREMIUM_WITH_ADDITIVES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">PREMIUM_WITH_ADDITIVES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">PREMIUM_WITH_ADDITIVES</span></div>
 <div class="block"><p>Premium with additives fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="REGULAR">
 <h3>REGULAR</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">REGULAR</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">REGULAR</span></div>
 <div class="block"><p>Regular fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="REGULAR_WITH_ADDITIVES">
 <h3>REGULAR_WITH_ADDITIVES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">REGULAR_WITH_ADDITIVES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">REGULAR_WITH_ADDITIVES</span></div>
 <div class="block"><p>Regular with additives fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="OCTANE_87">
 <h3>OCTANE_87</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_87</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_87</span></div>
 <div class="block"><p>Octane 87 fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="OCTANE_89">
 <h3>OCTANE_89</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_89</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_89</span></div>
 <div class="block"><p>Octane 89 fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="OCTANE_90">
 <h3>OCTANE_90</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_90</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_90</span></div>
 <div class="block"><p>Octane 90 fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="OCTANE_91">
 <h3>OCTANE_91</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_91</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_91</span></div>
 <div class="block"><p>Octane 91 fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="OCTANE_92">
 <h3>OCTANE_92</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_92</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_92</span></div>
 <div class="block"><p>Octane 92 fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="OCTANE_93">
 <h3>OCTANE_93</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_93</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_93</span></div>
 <div class="block"><p>Octane 93 fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="OCTANE_95">
 <h3>OCTANE_95</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_95</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_95</span></div>
 <div class="block"><p>Octane 95 fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="OCTANE_98">
 <h3>OCTANE_98</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_98</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_98</span></div>
 <div class="block"><p>Octane 98 fuel type.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="OCTANE_100">
 <h3>OCTANE_100</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_100</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">OCTANE_100</span></div>
 <div class="block"><p>Octane 100 fuel type.</p></div>
 </section>
 </li>
@@ -480,7 +480,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -492,7 +492,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="FuelType.html" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

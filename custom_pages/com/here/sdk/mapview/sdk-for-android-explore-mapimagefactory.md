@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-mapimagefactory"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-mapimagefactory"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -80,19 +80,19 @@ slug: "sdk-for-android-explore-mapimagefactory"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="MapImage.html" title="class in com.here.sdk.mapview">MapImage</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#fromBitmap(android.graphics.Bitmap)">fromBitmap</a><wbr/>(android.graphics.Bitmap bitmap)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a map image from a supplied Bitmap.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="MapImage.html" title="class in com.here.sdk.mapview">MapImage</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#fromFile(java.lang.String,int,int)">fromFile</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> filePath,
  int width,
  int height)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a map image from a specified SVG Tiny or PNG file path.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="MapImage.html" title="class in com.here.sdk.mapview">MapImage</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#fromResource(android.content.res.Resources,int)">fromResource</a><wbr/>(android.content.res.Resources resources,
  int resourceID)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
@@ -118,7 +118,7 @@ slug: "sdk-for-android-explore-mapimagefactory"
 <li>
 <section class="detail" id="fromResource(android.content.res.Resources,int)">
 <h3>fromResource</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="MapImage.html" title="class in com.here.sdk.mapview">MapImage</a></span> <span class="element-name">fromResource</span><wbr/><span class="parameters">(android.content.res.Resources resources,
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a></span> <span class="element-name">fromResource</span><wbr/><span class="parameters">(android.content.res.Resources resources,
  int resourceID)</span></div>
 <div class="block">Loads a map image from a specified bitmap resource ID. As usual on Android,
  the PNG format is preferred. Vector drawables are not supported.</div>
@@ -134,11 +134,11 @@ slug: "sdk-for-android-explore-mapimagefactory"
 <li>
 <section class="detail" id="fromFile(java.lang.String,int,int)">
 <h3>fromFile</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="MapImage.html" title="class in com.here.sdk.mapview">MapImage</a></span> <span class="element-name">fromFile</span><wbr/><span class="parameters">(@NonNull
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a></span> <span class="element-name">fromFile</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> filePath,
  int width,
  int height)</span>
-                         throws <span class="exceptions"><a href="../core/errors/InstantiationErrorException.html" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+                         throws <span class="exceptions"><a href="sdk-for-android-explore-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block">Creates a map image from a specified SVG Tiny or PNG file path. Trying to load data not
  compliant to SVG Tiny or PNG might result in undefined behavior. This method needs read
  storage permission to be granted.</div>
@@ -150,14 +150,14 @@ slug: "sdk-for-android-explore-mapimagefactory"
 <dt>Returns:</dt>
 <dd>map image representing specified image resource</dd>
 <dt>Throws:</dt>
-<dd><code><a href="../core/errors/InstantiationErrorException.html" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - if dimension are invalid or path is empty.</dd>
+<dd><code><a href="sdk-for-android-explore-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - if dimension are invalid or path is empty.</dd>
 </dl>
 </section>
 </li>
 <li>
 <section class="detail" id="fromBitmap(android.graphics.Bitmap)">
 <h3>fromBitmap</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="MapImage.html" title="class in com.here.sdk.mapview">MapImage</a></span> <span class="element-name">fromBitmap</span><wbr/><span class="parameters">(@NonNull
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a></span> <span class="element-name">fromBitmap</span><wbr/><span class="parameters">(@NonNull
  android.graphics.Bitmap bitmap)</span></div>
 <div class="block">Creates a map image from a supplied Bitmap.</div>
 <dl class="notes">

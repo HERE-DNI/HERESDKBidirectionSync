@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-scooteroptions"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-scooteroptions"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -88,7 +88,7 @@ slug: "sdk-for-android-explore-scooteroptions"
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Specifies whether scooter is allowed on highway or not.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="AvoidanceOptions.html" title="class in com.here.sdk.routing">AvoidanceOptions</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-avoidanceoptions" title="class in com.here.sdk.routing">AvoidanceOptions</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#avoidanceOptions">avoidanceOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
@@ -107,11 +107,11 @@ slug: "sdk-for-android-explore-scooteroptions"
 <div class="block">Specifies the last character of a vehicle's license plate, typically used to
  evaluate traffic restrictions in certain environmental or low-emission zones.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="MaxSpeedOnSegment.html" title="class in com.here.sdk.routing">MaxSpeedOnSegment</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-maxspeedonsegment" title="class in com.here.sdk.routing">MaxSpeedOnSegment</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#maxSpeedOnSegments">maxSpeedOnSegments</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block">Segments with restriction on maximum <a href="DynamicSpeedInfo.html#baseSpeedInMetersPerSecond"><code>DynamicSpeedInfo.baseSpeedInMetersPerSecond</code></a>.</div>
+<div class="block">Segments with restriction on maximum <a href="sdk-for-android-explore-dynamicspeedinfo#baseSpeedInMetersPerSecond"><code>DynamicSpeedInfo.baseSpeedInMetersPerSecond</code></a>.</div>
 </div>
 <div class="col-first odd-row-color"><code>int</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#occupantsNumber">occupantsNumber</a></code></div>
@@ -119,20 +119,20 @@ slug: "sdk-for-android-explore-scooteroptions"
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Specifies the number of occupants in the vehicle, including driver.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="RouteOptions.html" title="class in com.here.sdk.routing">RouteOptions</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#routeOptions">routeOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Specifies the common route calculation options.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="RouteTextOptions.html" title="class in com.here.sdk.routing">RouteTextOptions</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#textOptions">textOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Customize textual content returned from the route calculation, such
  as localization, format, and unit system.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="TollOptions.html" title="class in com.here.sdk.routing">TollOptions</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-tolloptions" title="class in com.here.sdk.routing">TollOptions</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#tollOptions">tollOptions</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
@@ -200,7 +200,7 @@ slug: "sdk-for-android-explore-scooteroptions"
 <section class="detail" id="routeOptions">
 <h3>routeOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="RouteOptions.html" title="class in com.here.sdk.routing">RouteOptions</a></span> <span class="element-name">routeOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routeoptions" title="class in com.here.sdk.routing">RouteOptions</a></span> <span class="element-name">routeOptions</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Specifies the common route calculation options.</p></div>
 </section>
@@ -209,7 +209,7 @@ slug: "sdk-for-android-explore-scooteroptions"
 <section class="detail" id="textOptions">
 <h3>textOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="RouteTextOptions.html" title="class in com.here.sdk.routing">RouteTextOptions</a></span> <span class="element-name">textOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routetextoptions" title="class in com.here.sdk.routing">RouteTextOptions</a></span> <span class="element-name">textOptions</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Customize textual content returned from the route calculation, such
  as localization, format, and unit system.</p></div>
@@ -219,7 +219,7 @@ slug: "sdk-for-android-explore-scooteroptions"
 <section class="detail" id="avoidanceOptions">
 <h3>avoidanceOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="AvoidanceOptions.html" title="class in com.here.sdk.routing">AvoidanceOptions</a></span> <span class="element-name">avoidanceOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-avoidanceoptions" title="class in com.here.sdk.routing">AvoidanceOptions</a></span> <span class="element-name">avoidanceOptions</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Options to specify restrictions for route calculations. By default
  no restrictions are applied.</p></div>
@@ -229,7 +229,7 @@ slug: "sdk-for-android-explore-scooteroptions"
 <section class="detail" id="tollOptions">
 <h3>tollOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="TollOptions.html" title="class in com.here.sdk.routing">TollOptions</a></span> <span class="element-name">tollOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-tolloptions" title="class in com.here.sdk.routing">TollOptions</a></span> <span class="element-name">tollOptions</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Options to specify how the tolls should be calculated,
  such as transponders, vehicle category, and emission type.</p></div>
@@ -266,9 +266,9 @@ slug: "sdk-for-android-explore-scooteroptions"
 <section class="detail" id="maxSpeedOnSegments">
 <h3>maxSpeedOnSegments</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="MaxSpeedOnSegment.html" title="class in com.here.sdk.routing">MaxSpeedOnSegment</a>&gt;</span> <span class="element-name">maxSpeedOnSegments</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-maxspeedonsegment" title="class in com.here.sdk.routing">MaxSpeedOnSegment</a>&gt;</span> <span class="element-name">maxSpeedOnSegments</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block"><p>Segments with restriction on maximum <a href="DynamicSpeedInfo.html#baseSpeedInMetersPerSecond"><code>DynamicSpeedInfo.baseSpeedInMetersPerSecond</code></a>.</p></div>
+<div class="block"><p>Segments with restriction on maximum <a href="sdk-for-android-explore-dynamicspeedinfo#baseSpeedInMetersPerSecond"><code>DynamicSpeedInfo.baseSpeedInMetersPerSecond</code></a>.</p></div>
 </section>
 </li>
 <li>
@@ -278,12 +278,12 @@ slug: "sdk-for-android-explore-scooteroptions"
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Specifies whether scooter is allowed on highway or not. <code>True</code> means scooter is
  allowed to use highways and <code>false</code> means otherwise. By default it is set to <code>false</code>.
- Note that there is a similar parameter in <a href="AvoidanceOptions.html" title="class in com.here.sdk.routing"><code>AvoidanceOptions</code></a>, to
- disallow highway usage, see <a href="RoadFeatures.html#CONTROLLED_ACCESS_HIGHWAY"><code>RoadFeatures.CONTROLLED_ACCESS_HIGHWAY</code></a>.
+ Note that there is a similar parameter in <a href="sdk-for-android-explore-avoidanceoptions" title="class in com.here.sdk.routing"><code>AvoidanceOptions</code></a>, to
+ disallow highway usage, see <a href="sdk-for-android-explore-roadfeatures#CONTROLLED_ACCESS_HIGHWAY"><code>RoadFeatures.CONTROLLED_ACCESS_HIGHWAY</code></a>.
  As the avoidance options takes precedence, if this parameter is also used, then
  scooters are not allowed to use highways even if <code>allowHighway</code> is set to <code>true</code>.
  However, if no alternative route is possible, the calculated route may use highways.
- In such a case, a <a href="SectionNotice.html" title="class in com.here.sdk.routing"><code>SectionNotice</code></a> will be provided in the related <a href="Section.html" title="class in com.here.sdk.routing"><code>Section</code></a>
+ In such a case, a <a href="sdk-for-android-explore-sectionnotice" title="class in com.here.sdk.routing"><code>SectionNotice</code></a> will be provided in the related <a href="sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a>
  to indicate that the highway usage restriction is violated on this route.
  A few examples:
  <p>1 - If no avoidance option is set, and <code>allowHighway = false</code>, when no route is found without

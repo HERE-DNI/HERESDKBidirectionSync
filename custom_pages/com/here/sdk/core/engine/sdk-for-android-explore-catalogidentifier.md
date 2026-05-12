@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-catalogidentifier"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../../index-all.html">Index</a></li>
-<li><a href="../../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-catalogidentifier"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.core.engine</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core.engine</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -167,7 +167,7 @@ slug: "sdk-for-android-explore-catalogidentifier"
  catalog to your project. For information about catalog creation process refer to
  <a href="https://www.here.com/docs/bundle/data-api-developer-guide/page/rest/creating-a-catalog.html">the Data API</a>
  By default, this field points to a default catalog on HERE platform, which contains data for the whole world excluding the region of Japan.
- Use <a href="CatalogConfiguration.html#getDefault(com.here.sdk.core.engine.CatalogType)"><code>CatalogConfiguration.getDefault(com.here.sdk.core.engine.CatalogType)</code></a> to get the default HRN value for use with the HERE platform.</p></div>
+ Use <a href="sdk-for-android-explore-catalogconfiguration#getDefault(com.here.sdk.core.engine.CatalogType)"><code>CatalogConfiguration.getDefault(com.here.sdk.core.engine.CatalogType)</code></a> to get the default HRN value for use with the HERE platform.</p></div>
 </section>
 </li>
 <li>
@@ -180,11 +180,11 @@ slug: "sdk-for-android-explore-catalogidentifier"
  The field defaults to <code>null</code>.
  Since the data inside a catalog can be updated, each published modification needs to correlate
  to a specific version number.
- Note: when <code>CatalogIdentifier</code> created with <a href="DesiredCatalog.html" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a> then:
+ Note: when <code>CatalogIdentifier</code> created with <a href="sdk-for-android-explore-desiredcatalog" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a> then:
  <ul>
-<li>numerical <code>-1</code> corresponds to <a href="CatalogVersionHint.html#latest(boolean)"><code>CatalogVersionHint.latest(boolean)</code></a> with <code>ignoreCachedData</code> set to <code>true</code>;</li>
-<li><code>null</code> corresponds to <a href="CatalogVersionHint.html#latest(boolean)"><code>CatalogVersionHint.latest(boolean)</code></a> with <code>ignoreCachedData</code> set to <code>false</code>;</li>
-<li>other numerical values correspond to <code>version</code> passed to <a href="CatalogVersionHint.html#specific(long)"><code>CatalogVersionHint.specific(long)</code></a>.</li>
+<li>numerical <code>-1</code> corresponds to <a href="sdk-for-android-explore-catalogversionhint#latest(boolean)"><code>CatalogVersionHint.latest(boolean)</code></a> with <code>ignoreCachedData</code> set to <code>true</code>;</li>
+<li><code>null</code> corresponds to <a href="sdk-for-android-explore-catalogversionhint#latest(boolean)"><code>CatalogVersionHint.latest(boolean)</code></a> with <code>ignoreCachedData</code> set to <code>false</code>;</li>
+<li>other numerical values correspond to <code>version</code> passed to <a href="sdk-for-android-explore-catalogversionhint#specific(long)"><code>CatalogVersionHint.specific(long)</code></a>.</li>
 </ul></p></div>
 </section>
 </li>

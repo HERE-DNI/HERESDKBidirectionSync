@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-routeplace"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-routeplace"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -83,12 +83,12 @@ slug: "sdk-for-android-explore-routeplace"
 <div class="col-last even-row-color">
 <div class="block">Estimated battery charge in kWh for electric vehicles when leaving this place.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="ChargingStation.html" title="class in com.here.sdk.routing">ChargingStation</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-chargingstation" title="class in com.here.sdk.routing">ChargingStation</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#chargingStation">chargingStation</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Charging station data for electric vehicles.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#displayCoordinates">displayCoordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Location of the Points of Interest (PoI) to be displayed in the visualization.</div>
@@ -98,7 +98,7 @@ slug: "sdk-for-android-explore-routeplace"
 <div class="col-last odd-row-color">
 <div class="block">Identifier of a public transit place if available.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#mapMatchedCoordinates">mapMatchedCoordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Map-matched geographic coordinates.</div>
@@ -108,7 +108,7 @@ slug: "sdk-for-android-explore-routeplace"
 <div class="col-last odd-row-color">
 <div class="block">Name of a public transit place if available.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#originalCoordinates">originalCoordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">User-defined geographic coordinates.</div>
@@ -118,12 +118,12 @@ slug: "sdk-for-android-explore-routeplace"
 <div class="col-last odd-row-color">
 <div class="block">Platform name or number of a public transit place if available.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="SideOfDestination.html" title="enum class in com.here.sdk.routing">SideOfDestination</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-sideofdestination" title="enum class in com.here.sdk.routing">SideOfDestination</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#sideOfDestination">sideOfDestination</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Side of destination: left, right or undefined.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="RoutePlaceType.html" title="enum class in com.here.sdk.routing">RoutePlaceType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The type of the route place.</div>
@@ -145,8 +145,8 @@ slug: "sdk-for-android-explore-routeplace"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.routing.RoutePlaceType,com.here.sdk.core.GeoCoordinates)">RoutePlace</a><wbr/>(<a href="RoutePlaceType.html" title="enum class in com.here.sdk.routing">RoutePlaceType</a> type,
- <a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> mapMatchedCoordinates)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.routing.RoutePlaceType,com.here.sdk.core.GeoCoordinates)">RoutePlace</a><wbr/>(<a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a> type,
+ <a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> mapMatchedCoordinates)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -173,7 +173,7 @@ slug: "sdk-for-android-explore-routeplace"
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#isOffRoad()">isOffRoad</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Checks whether the <a href="RoutePlace.html" title="class in com.here.sdk.routing"><code>RoutePlace</code></a> is off-road or not.</div>
+<div class="block">Checks whether the <a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing"><code>RoutePlace</code></a> is off-road or not.</div>
 </div>
 </div>
 </div>
@@ -196,7 +196,7 @@ slug: "sdk-for-android-explore-routeplace"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="RoutePlaceType.html" title="enum class in com.here.sdk.routing">RoutePlaceType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>The type of the route place.</p></div>
 </section>
 </li>
@@ -214,7 +214,7 @@ slug: "sdk-for-android-explore-routeplace"
 <section class="detail" id="originalCoordinates">
 <h3>originalCoordinates</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">originalCoordinates</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">originalCoordinates</span></div>
 <div class="block"><p>User-defined geographic coordinates. If not available, it means this place
  was added during route calculation.</p></div>
 </section>
@@ -223,7 +223,7 @@ slug: "sdk-for-android-explore-routeplace"
 <section class="detail" id="mapMatchedCoordinates">
 <h3>mapMatchedCoordinates</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">mapMatchedCoordinates</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">mapMatchedCoordinates</span></div>
 <div class="block"><p>Map-matched geographic coordinates.</p></div>
 </section>
 </li>
@@ -231,7 +231,7 @@ slug: "sdk-for-android-explore-routeplace"
 <section class="detail" id="displayCoordinates">
 <h3>displayCoordinates</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">displayCoordinates</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">displayCoordinates</span></div>
 <div class="block"><p>Location of the Points of Interest (PoI) to be displayed in the visualization.
  In the map data, PoI have a set of display coordinates as well as a set of access/routing coordinates.
  While the access/routing coordinates specify the nearest accessible road network location
@@ -245,14 +245,14 @@ slug: "sdk-for-android-explore-routeplace"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">chargeInKilowattHours</span></div>
 <div class="block"><p>Estimated battery charge in kWh for electric vehicles when leaving this place.
- Available only if the route was calculated with <a href="ElectricVehicleOptions.html#ensureReachability"><code>ElectricVehicleOptions.ensureReachability</code></a> = <code>true</code>.</p></div>
+ Available only if the route was calculated with <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachability"><code>ElectricVehicleOptions.ensureReachability</code></a> = <code>true</code>.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="chargingStation">
 <h3>chargingStation</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="ChargingStation.html" title="class in com.here.sdk.routing">ChargingStation</a></span> <span class="element-name">chargingStation</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-chargingstation" title="class in com.here.sdk.routing">ChargingStation</a></span> <span class="element-name">chargingStation</span></div>
 <div class="block"><p>Charging station data for electric vehicles.</p></div>
 </section>
 </li>
@@ -284,7 +284,7 @@ slug: "sdk-for-android-explore-routeplace"
 <section class="detail" id="sideOfDestination">
 <h3>sideOfDestination</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="SideOfDestination.html" title="enum class in com.here.sdk.routing">SideOfDestination</a></span> <span class="element-name">sideOfDestination</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-sideofdestination" title="enum class in com.here.sdk.routing">SideOfDestination</a></span> <span class="element-name">sideOfDestination</span></div>
 <div class="block"><p>Side of destination: left, right or undefined.
  <code>null</code> for transit sections and for origin points.
  <code>UNDEFINED</code> if <code>originalCoordinates</code> are not identified or too close to the road.</p></div>
@@ -302,9 +302,9 @@ slug: "sdk-for-android-explore-routeplace"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.routing.RoutePlaceType,com.here.sdk.core.GeoCoordinates)">
 <h3>RoutePlace</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RoutePlace</span><wbr/><span class="parameters">(@NonNull
- <a href="RoutePlaceType.html" title="enum class in com.here.sdk.routing">RoutePlaceType</a> type,
+ <a href="sdk-for-android-explore-routeplacetype" title="enum class in com.here.sdk.routing">RoutePlaceType</a> type,
  @NonNull
- <a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> mapMatchedCoordinates)</span></div>
+ <a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> mapMatchedCoordinates)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -345,10 +345,10 @@ slug: "sdk-for-android-explore-routeplace"
 <section class="detail" id="isOffRoad()">
 <h3>isOffRoad</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isOffRoad</span>()</div>
-<div class="block"><p>Checks whether the <a href="RoutePlace.html" title="class in com.here.sdk.routing"><code>RoutePlace</code></a> is off-road or not.</p></div>
+<div class="block"><p>Checks whether the <a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing"><code>RoutePlace</code></a> is off-road or not.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
-<dd><p><code>true</code> if the <a href="RoutePlace.html" title="class in com.here.sdk.routing"><code>RoutePlace</code></a> is off-road, <code>false</code> otherwise.</p></dd>
+<dd><p><code>true</code> if the <a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing"><code>RoutePlace</code></a> is off-road, <code>false</code> otherwise.</p></dd>
 </dl>
 </section>
 </li>

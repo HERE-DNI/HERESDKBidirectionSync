@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-geopolygon"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-geopolygon"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.core</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -80,12 +80,12 @@ slug: "sdk-for-android-explore-geopolygon"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code>final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;&gt;</code></div>
+<div class="col-first even-row-color"><code>final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#innerBoundaries">innerBoundaries</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The list of polygon inner boundaries (holes), each defined as a list of geographic coordinates.</div>
 </div>
-<div class="col-first odd-row-color"><code>final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code>final <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#vertices">vertices</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The list of geographic coordinates representing the outer boundary vertices of polygon.</div>
@@ -101,20 +101,20 @@ slug: "sdk-for-android-explore-geopolygon"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.GeoBox)">GeoPolygon</a><wbr/>(<a href="GeoBox.html" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.GeoBox)">GeoPolygon</a><wbr/>(<a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</code></div>
 <div class="col-last even-row-color">
-<div class="block">Constructs an instance of this class from <a href="GeoBox.html" title="class in com.here.sdk.core"><code>GeoBox</code></a>.</div>
+<div class="block">Constructs an instance of this class from <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.GeoCircle)">GeoPolygon</a><wbr/>(<a href="GeoCircle.html" title="class in com.here.sdk.core">GeoCircle</a> geoCircle)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.GeoCircle)">GeoPolygon</a><wbr/>(<a href="sdk-for-android-explore-geocircle" title="class in com.here.sdk.core">GeoCircle</a> geoCircle)</code></div>
 <div class="col-last odd-row-color">
-<div class="block">Constructs an instance of this class from <a href="GeoCircle.html" title="class in com.here.sdk.core"><code>GeoCircle</code></a>.</div>
+<div class="block">Constructs an instance of this class from <a href="sdk-for-android-explore-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a>.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(java.util.List)">GeoPolygon</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; vertices)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(java.util.List)">GeoPolygon</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; vertices)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs an instance of this class from the provided vertices.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(java.util.List,java.util.List)">GeoPolygon</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; vertices,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;&gt; innerBoundaries)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(java.util.List,java.util.List)">GeoPolygon</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; vertices,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;&gt; innerBoundaries)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Constructs an instance of this class from the provided vertices and inner boundaries (holes).</div>
 </div>
@@ -159,7 +159,7 @@ slug: "sdk-for-android-explore-geopolygon"
 <section class="detail" id="vertices">
 <h3>vertices</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</span> <span class="element-name">vertices</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</span> <span class="element-name">vertices</span></div>
 <div class="block"><p>The list of geographic coordinates representing the outer boundary vertices of polygon.</p></div>
 </section>
 </li>
@@ -167,7 +167,7 @@ slug: "sdk-for-android-explore-geopolygon"
 <section class="detail" id="innerBoundaries">
 <h3>innerBoundaries</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;&gt;</span> <span class="element-name">innerBoundaries</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;&gt;</span> <span class="element-name">innerBoundaries</span></div>
 <div class="block"><p>The list of polygon inner boundaries (holes), each defined as a list of geographic coordinates.</p></div>
 </section>
 </li>
@@ -183,15 +183,15 @@ slug: "sdk-for-android-explore-geopolygon"
 <section class="detail" id="&lt;init&gt;(java.util.List)">
 <h3>GeoPolygon</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">GeoPolygon</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; vertices)</span>
-           throws <span class="exceptions"><a href="errors/InstantiationErrorException.html" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; vertices)</span>
+           throws <span class="exceptions"><a href="sdk-for-android-explore-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Constructs an instance of this class from the provided vertices.
  Throws InstantiationError if the number of vertices is less than three.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>vertices</code> - <p>List of vertices representing the polygon outer boundary in clockwise order.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="errors/InstantiationErrorException.html" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Instantiation error.</p></dd>
+<dd><code><a href="sdk-for-android-explore-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Instantiation error.</p></dd>
 </dl>
 </section>
 </li>
@@ -199,10 +199,10 @@ slug: "sdk-for-android-explore-geopolygon"
 <section class="detail" id="&lt;init&gt;(java.util.List,java.util.List)">
 <h3>GeoPolygon</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">GeoPolygon</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; vertices,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; vertices,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;&gt; innerBoundaries)</span>
-           throws <span class="exceptions"><a href="errors/InstantiationErrorException.html" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;&gt; innerBoundaries)</span>
+           throws <span class="exceptions"><a href="sdk-for-android-explore-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Constructs an instance of this class from the provided vertices and inner boundaries (holes).
  Throws InstantiationError if the number of vertices is less than three.</p></div>
 <dl class="notes">
@@ -210,7 +210,7 @@ slug: "sdk-for-android-explore-geopolygon"
 <dd><code>vertices</code> - <p>List of vertices representing the polygon outer boundary in clockwise order.</p></dd>
 <dd><code>innerBoundaries</code> - <p>List of polygon inner boundaries (holes), each in counterclockwise order.</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="errors/InstantiationErrorException.html" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Instantiation error.</p></dd>
+<dd><code><a href="sdk-for-android-explore-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Instantiation error.</p></dd>
 </dl>
 </section>
 </li>
@@ -218,11 +218,11 @@ slug: "sdk-for-android-explore-geopolygon"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCircle)">
 <h3>GeoPolygon</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">GeoPolygon</span><wbr/><span class="parameters">(@NonNull
- <a href="GeoCircle.html" title="class in com.here.sdk.core">GeoCircle</a> geoCircle)</span></div>
-<div class="block"><p>Constructs an instance of this class from <a href="GeoCircle.html" title="class in com.here.sdk.core"><code>GeoCircle</code></a>.</p></div>
+ <a href="sdk-for-android-explore-geocircle" title="class in com.here.sdk.core">GeoCircle</a> geoCircle)</span></div>
+<div class="block"><p>Constructs an instance of this class from <a href="sdk-for-android-explore-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>geoCircle</code> - <p>A <a href="GeoCircle.html" title="class in com.here.sdk.core"><code>GeoCircle</code></a> to be converted into <a href="GeoPolygon.html" title="class in com.here.sdk.core"><code>GeoPolygon</code></a>.</p></dd>
+<dd><code>geoCircle</code> - <p>A <a href="sdk-for-android-explore-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a> to be converted into <a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core"><code>GeoPolygon</code></a>.</p></dd>
 </dl>
 </section>
 </li>
@@ -230,12 +230,12 @@ slug: "sdk-for-android-explore-geopolygon"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoBox)">
 <h3>GeoPolygon</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">GeoPolygon</span><wbr/><span class="parameters">(@NonNull
- <a href="GeoBox.html" title="class in com.here.sdk.core">GeoBox</a> geoBox)</span></div>
-<div class="block"><p>Constructs an instance of this class from <a href="GeoBox.html" title="class in com.here.sdk.core"><code>GeoBox</code></a>.</p></div>
+ <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core">GeoBox</a> geoBox)</span></div>
+<div class="block"><p>Constructs an instance of this class from <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
-<dd><code>geoBox</code> - <p>A rectangle defined by the <a href="GeoBox.html" title="class in com.here.sdk.core"><code>GeoBox</code></a> to be converted into <a href="GeoPolygon.html" title="class in com.here.sdk.core"><code>GeoPolygon</code></a>.
-     The corner coordinates defined by the <a href="GeoBox.html" title="class in com.here.sdk.core"><code>GeoBox</code></a> will define the outer boundary verticies of the <a href="GeoPolygon.html" title="class in com.here.sdk.core"><code>GeoPolygon</code></a>.</p></dd>
+<dd><code>geoBox</code> - <p>A rectangle defined by the <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> to be converted into <a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core"><code>GeoPolygon</code></a>.
+     The corner coordinates defined by the <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> will define the outer boundary verticies of the <a href="sdk-for-android-explore-geopolygon" title="class in com.here.sdk.core"><code>GeoPolygon</code></a>.</p></dd>
 </dl>
 </section>
 </li>

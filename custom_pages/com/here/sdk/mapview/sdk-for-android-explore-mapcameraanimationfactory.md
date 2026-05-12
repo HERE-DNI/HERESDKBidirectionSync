@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-mapcameraanimationfactory"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,18 +55,18 @@ slug: "sdk-for-android-explore-mapcameraanimationfactory"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="../../NativeBase.html" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapCameraAnimationFactory</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapCameraAnimationFactory</span>
-<span class="extends-implements">extends <a href="../../NativeBase.html" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Factory for creating MapCameraAnimation objects to change map's camera over time.</p></div>
 </section>
 <section class="summary">
@@ -82,53 +82,53 @@ slug: "sdk-for-android-explore-mapcameraanimationfactory"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#createAnimation(com.here.sdk.mapview.MapCameraKeyframeTrack)">createAnimation</a><wbr/>(<a href="MapCameraKeyframeTrack.html" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a> track)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#createAnimation(com.here.sdk.mapview.MapCameraKeyframeTrack)">createAnimation</a><wbr/>(<a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a> track)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a MapCameraAnimation for a movement defined by the supplied <code>track</code>.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#createAnimation(com.here.sdk.mapview.MapCameraUpdate,com.here.time.Duration,com.here.sdk.animation.Easing)">createAnimation</a><wbr/>(<a href="MapCameraUpdate.html" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate,
- <a href="../../time/Duration.html" title="class in com.here.time">Duration</a> duration,
- <a href="../animation/Easing.html" title="class in com.here.sdk.animation">Easing</a> easing)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#createAnimation(com.here.sdk.mapview.MapCameraUpdate,com.here.time.Duration,com.here.sdk.animation.Easing)">createAnimation</a><wbr/>(<a href="sdk-for-android-explore-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate,
+ <a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a> duration,
+ <a href="sdk-for-android-explore-animation-easing" title="class in com.here.sdk.animation">Easing</a> easing)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
-<div class="block">Creates a <a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview"><code>MapCameraAnimation</code></a> to gradually update the camera properties within a specified
+<div class="block">Creates a <a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview"><code>MapCameraAnimation</code></a> to gradually update the camera properties within a specified
  duration from its current values to the ones defined in the <code>cameraUpdate</code>.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#createAnimation(java.util.List)">createAnimation</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="MapCameraKeyframeTrack.html" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a>&gt; tracks)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#createAnimation(java.util.List)">createAnimation</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a>&gt; tracks)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a MapCameraAnimation for a movement defined by the supplied list of <code>tracks</code>.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#flyTo(com.here.sdk.core.GeoCoordinatesUpdate,double,com.here.time.Duration)">flyTo</a><wbr/>(<a href="../core/GeoCoordinatesUpdate.html" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a> target,
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#flyTo(com.here.sdk.core.GeoCoordinatesUpdate,double,com.here.time.Duration)">flyTo</a><wbr/>(<a href="sdk-for-android-explore-core-geocoordinatesupdate" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a> target,
  double bowFactor,
- <a href="../../time/Duration.html" title="class in com.here.time">Duration</a> duration)</code></div>
+ <a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a> duration)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a MapCameraAnimation to move the current map camera look-at coordinates to the new position along an adaptive ballistic curve.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,double,com.here.time.Duration)">flyTo</a><wbr/>(<a href="../core/GeoCoordinatesUpdate.html" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a> target,
- <a href="../core/GeoOrientationUpdate.html" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation,
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,double,com.here.time.Duration)">flyTo</a><wbr/>(<a href="sdk-for-android-explore-core-geocoordinatesupdate" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a> target,
+ <a href="sdk-for-android-explore-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation,
  double bowFactor,
- <a href="../../time/Duration.html" title="class in com.here.time">Duration</a> duration)</code></div>
+ <a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a> duration)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a MapCameraAnimation to move the current map camera look-at coordinates to the new position and orientation along an adaptive ballistic curve.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure,double,com.here.time.Duration)">flyTo</a><wbr/>(<a href="../core/GeoCoordinatesUpdate.html" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a> target,
- <a href="../core/GeoOrientationUpdate.html" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation,
- <a href="MapMeasure.html" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure,double,com.here.time.Duration)">flyTo</a><wbr/>(<a href="sdk-for-android-explore-core-geocoordinatesupdate" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a> target,
+ <a href="sdk-for-android-explore-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation,
+ <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
  double bowFactor,
- <a href="../../time/Duration.html" title="class in com.here.time">Duration</a> duration)</code></div>
+ <a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a> duration)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a MapCameraAnimation to move the current map camera look-at coordinates to the new position and orientation along an adaptive ballistic curve.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.mapview.MapMeasure,double,com.here.time.Duration)">flyTo</a><wbr/>(<a href="../core/GeoCoordinatesUpdate.html" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a> target,
- <a href="MapMeasure.html" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.mapview.MapMeasure,double,com.here.time.Duration)">flyTo</a><wbr/>(<a href="sdk-for-android-explore-core-geocoordinatesupdate" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a> target,
+ <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
  double bowFactor,
- <a href="../../time/Duration.html" title="class in com.here.time">Duration</a> duration)</code></div>
+ <a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a> duration)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Creates a MapCameraAnimation to move the current map camera look-at coordinates to the new position along an adaptive ballistic curve.</div>
 </div>
@@ -153,16 +153,16 @@ slug: "sdk-for-android-explore-mapcameraanimationfactory"
 <section class="detail" id="createAnimation(com.here.sdk.mapview.MapCameraUpdate,com.here.time.Duration,com.here.sdk.animation.Easing)">
 <h3>createAnimation</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a></span> <span class="element-name">createAnimation</span><wbr/><span class="parameters">(@NonNull
- <a href="MapCameraUpdate.html" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate,
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a></span> <span class="element-name">createAnimation</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate,
  @NonNull
- <a href="../../time/Duration.html" title="class in com.here.time">Duration</a> duration,
+ <a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a> duration,
  @NonNull
- <a href="../animation/Easing.html" title="class in com.here.sdk.animation">Easing</a> easing)</span></div>
-<div class="block"><p>Creates a <a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview"><code>MapCameraAnimation</code></a> to gradually update the camera properties within a specified
+ <a href="sdk-for-android-explore-animation-easing" title="class in com.here.sdk.animation">Easing</a> easing)</span></div>
+<div class="block"><p>Creates a <a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview"><code>MapCameraAnimation</code></a> to gradually update the camera properties within a specified
  duration from its current values to the ones defined in the <code>cameraUpdate</code>. <code>MapCameraAnimation</code>
- instances created from <a href="MapCameraUpdateFactory.html#compositeUpdate(java.util.List)"><code>MapCameraUpdateFactory.compositeUpdate(java.util.List&lt;com.here.sdk.mapview.MapCameraUpdate&gt;)</code></a> instances are not supported. An
- <a href="../animation/AnimationListener.html" title="interface in com.here.sdk.animation"><code>AnimationListener</code></a> will receive an <a href="../animation/AnimationState.html#CANCELLED"><code>AnimationState.CANCELLED</code></a> signal
+ instances created from <a href="sdk-for-android-explore-mapcameraupdatefactory#compositeUpdate(java.util.List)"><code>MapCameraUpdateFactory.compositeUpdate(java.util.List&lt;com.here.sdk.mapview.MapCameraUpdate&gt;)</code></a> instances are not supported. An
+ <a href="sdk-for-android-explore-animation-animationlistener" title="interface in com.here.sdk.animation"><code>AnimationListener</code></a> will receive an <a href="sdk-for-android-explore-animation-animationstate#CANCELLED"><code>AnimationState.CANCELLED</code></a> signal
  when trying to apply such animations.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -178,8 +178,8 @@ slug: "sdk-for-android-explore-mapcameraanimationfactory"
 <section class="detail" id="createAnimation(com.here.sdk.mapview.MapCameraKeyframeTrack)">
 <h3>createAnimation</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a></span> <span class="element-name">createAnimation</span><wbr/><span class="parameters">(@NonNull
- <a href="MapCameraKeyframeTrack.html" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a> track)</span></div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a></span> <span class="element-name">createAnimation</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a> track)</span></div>
 <div class="block"><p>Creates a MapCameraAnimation for a movement defined by the supplied <code>track</code>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -193,9 +193,9 @@ slug: "sdk-for-android-explore-mapcameraanimationfactory"
 <section class="detail" id="createAnimation(java.util.List)">
 <h3>createAnimation</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a></span> <span class="element-name">createAnimation</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="MapCameraKeyframeTrack.html" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a>&gt; tracks)</span>
-                                          throws <span class="exceptions"><a href="MapCameraAnimation.InstantiationException.html" title="class in com.here.sdk.mapview">MapCameraAnimation.InstantiationException</a></span></div>
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a></span> <span class="element-name">createAnimation</span><wbr/><span class="parameters">(@NonNull
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapcamerakeyframetrack" title="class in com.here.sdk.mapview">MapCameraKeyframeTrack</a>&gt; tracks)</span>
+                                          throws <span class="exceptions"><a href="sdk-for-android-explore-mapcameraanimation.instantiationexception" title="class in com.here.sdk.mapview">MapCameraAnimation.InstantiationException</a></span></div>
 <div class="block"><p>Creates a MapCameraAnimation for a movement defined by the supplied list of <code>tracks</code>.
  Keyframe tracks specify how the map camera properties change during the animation.
  For the animation to be possible, no two different tracks can
@@ -219,7 +219,7 @@ slug: "sdk-for-android-explore-mapcameraanimationfactory"
 <dt>Returns:</dt>
 <dd><p>MapCameraAnimation instance</p></dd>
 <dt>Throws:</dt>
-<dd><code><a href="MapCameraAnimation.InstantiationException.html" title="class in com.here.sdk.mapview">MapCameraAnimation.InstantiationException</a></code> - <p>Indicates an instantiation issue.</p></dd>
+<dd><code><a href="sdk-for-android-explore-mapcameraanimation.instantiationexception" title="class in com.here.sdk.mapview">MapCameraAnimation.InstantiationException</a></code> - <p>Indicates an instantiation issue.</p></dd>
 </dl>
 </section>
 </li>
@@ -227,11 +227,11 @@ slug: "sdk-for-android-explore-mapcameraanimationfactory"
 <section class="detail" id="flyTo(com.here.sdk.core.GeoCoordinatesUpdate,double,com.here.time.Duration)">
 <h3>flyTo</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a></span> <span class="element-name">flyTo</span><wbr/><span class="parameters">(@NonNull
- <a href="../core/GeoCoordinatesUpdate.html" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a> target,
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a></span> <span class="element-name">flyTo</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-core-geocoordinatesupdate" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a> target,
  double bowFactor,
  @NonNull
- <a href="../../time/Duration.html" title="class in com.here.time">Duration</a> duration)</span></div>
+ <a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a> duration)</span></div>
 <div class="block"><p>Creates a MapCameraAnimation to move the current map camera look-at coordinates to the new position along an adaptive ballistic curve.
  <p>The beginning and end of the animation will use the current zoom.
  <p>Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
@@ -262,13 +262,13 @@ slug: "sdk-for-android-explore-mapcameraanimationfactory"
 <section class="detail" id="flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,double,com.here.time.Duration)">
 <h3>flyTo</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a></span> <span class="element-name">flyTo</span><wbr/><span class="parameters">(@NonNull
- <a href="../core/GeoCoordinatesUpdate.html" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a> target,
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a></span> <span class="element-name">flyTo</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-core-geocoordinatesupdate" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a> target,
  @NonNull
- <a href="../core/GeoOrientationUpdate.html" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation,
+ <a href="sdk-for-android-explore-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation,
  double bowFactor,
  @NonNull
- <a href="../../time/Duration.html" title="class in com.here.time">Duration</a> duration)</span></div>
+ <a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a> duration)</span></div>
 <div class="block"><p>Creates a MapCameraAnimation to move the current map camera look-at coordinates to the new position and orientation along an adaptive ballistic curve.
  <p>The beginning and end of the animation will use the current zoom.
  <p>Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
@@ -300,13 +300,13 @@ slug: "sdk-for-android-explore-mapcameraanimationfactory"
 <section class="detail" id="flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.mapview.MapMeasure,double,com.here.time.Duration)">
 <h3>flyTo</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a></span> <span class="element-name">flyTo</span><wbr/><span class="parameters">(@NonNull
- <a href="../core/GeoCoordinatesUpdate.html" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a> target,
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a></span> <span class="element-name">flyTo</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-core-geocoordinatesupdate" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a> target,
  @NonNull
- <a href="MapMeasure.html" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
+ <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
  double bowFactor,
  @NonNull
- <a href="../../time/Duration.html" title="class in com.here.time">Duration</a> duration)</span></div>
+ <a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a> duration)</span></div>
 <div class="block"><p>Creates a MapCameraAnimation to move the current map camera look-at coordinates to the new position along an adaptive ballistic curve.
  <p>The beginning of the animation will use the current zoom and the end of the animation will use the provided zoom.
  <p>Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
@@ -338,15 +338,15 @@ slug: "sdk-for-android-explore-mapcameraanimationfactory"
 <section class="detail" id="flyTo(com.here.sdk.core.GeoCoordinatesUpdate,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure,double,com.here.time.Duration)">
 <h3>flyTo</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a></span> <span class="element-name">flyTo</span><wbr/><span class="parameters">(@NonNull
- <a href="../core/GeoCoordinatesUpdate.html" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a> target,
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a></span> <span class="element-name">flyTo</span><wbr/><span class="parameters">(@NonNull
+ <a href="sdk-for-android-explore-core-geocoordinatesupdate" title="class in com.here.sdk.core">GeoCoordinatesUpdate</a> target,
  @NonNull
- <a href="../core/GeoOrientationUpdate.html" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation,
+ <a href="sdk-for-android-explore-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation,
  @NonNull
- <a href="MapMeasure.html" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
+ <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom,
  double bowFactor,
  @NonNull
- <a href="../../time/Duration.html" title="class in com.here.time">Duration</a> duration)</span></div>
+ <a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a> duration)</span></div>
 <div class="block"><p>Creates a MapCameraAnimation to move the current map camera look-at coordinates to the new position and orientation along an adaptive ballistic curve.
  <p>The beginning of the animation will use the current zoom and the end of the animation will use the provided zoom.
  <p>Note: The altitude of the target point is ignored. Any subsequent camera updates and animations

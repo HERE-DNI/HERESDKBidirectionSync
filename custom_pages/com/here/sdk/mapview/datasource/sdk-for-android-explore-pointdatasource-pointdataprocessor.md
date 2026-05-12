@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-pointdatasource-pointdataprocessor"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../../index-all.html">Index</a></li>
-<li><a href="../../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,13 +55,13 @@ slug: "sdk-for-android-explore-pointdatasource-pointdataprocessor"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.mapview.datasource</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="PointDataSource.html" title="class in com.here.sdk.mapview.datasource">PointDataSource</a></dd>
+<dd><a href="sdk-for-android-explore-pointdatasource" title="class in com.here.sdk.mapview.datasource">PointDataSource</a></dd>
 </dl>
 <dl class="notes">
 <dt>Functional Interface:</dt>
@@ -86,7 +86,7 @@ slug: "sdk-for-android-explore-pointdatasource-pointdataprocessor"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>boolean</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#process(com.here.sdk.mapview.datasource.PointDataAccessor)">process</a><wbr/>(<a href="PointDataAccessor.html" title="class in com.here.sdk.mapview.datasource">PointDataAccessor</a> pointAccessor)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#process(com.here.sdk.mapview.datasource.PointDataAccessor)">process</a><wbr/>(<a href="sdk-for-android-explore-pointdataaccessor" title="class in com.here.sdk.mapview.datasource">PointDataAccessor</a> pointAccessor)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called for each point, allowing inspection, removal or update of coordinates and attributes.</div>
 </div>
@@ -108,7 +108,7 @@ slug: "sdk-for-android-explore-pointdatasource-pointdataprocessor"
 <section class="detail" id="process(com.here.sdk.mapview.datasource.PointDataAccessor)">
 <h3>process</h3>
 <div class="member-signature"><span class="return-type">boolean</span> <span class="element-name">process</span><wbr/><span class="parameters">(@NonNull
- <a href="PointDataAccessor.html" title="class in com.here.sdk.mapview.datasource">PointDataAccessor</a> pointAccessor)</span></div>
+ <a href="sdk-for-android-explore-pointdataaccessor" title="class in com.here.sdk.mapview.datasource">PointDataAccessor</a> pointAccessor)</span></div>
 <div class="block"><p>Called for each point, allowing inspection, removal or update of coordinates and attributes.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

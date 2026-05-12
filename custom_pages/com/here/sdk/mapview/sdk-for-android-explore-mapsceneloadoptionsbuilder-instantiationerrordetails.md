@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrordeta
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrordeta
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -64,12 +64,12 @@ slug: "sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrordeta
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="MapSceneLoadOptionsBuilder.html" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder</a></dd>
+<dd><a href="sdk-for-android-explore-mapsceneloadoptionsbuilder" title="class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapSceneLoadOptionsBuilder.InstantiationErrorDetails</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Describes the reason for failing to build a <a href="MapSceneLoadOptions.html" title="class in com.here.sdk.mapview"><code>MapSceneLoadOptions</code></a>.</p></div>
+<div class="block"><p>Describes the reason for failing to build a <a href="sdk-for-android-explore-mapsceneloadoptions" title="class in com.here.sdk.mapview"><code>MapSceneLoadOptions</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -82,7 +82,7 @@ slug: "sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrordeta
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="MapSceneLoadOptionsBuilder.InstantiationErrorCode.html" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#errorCode">errorCode</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The error code.</div>
@@ -103,7 +103,7 @@ slug: "sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrordeta
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.mapview.MapSceneLoadOptionsBuilder.InstantiationErrorCode,java.lang.String)">InstantiationErrorDetails</a><wbr/>(<a href="MapSceneLoadOptionsBuilder.InstantiationErrorCode.html" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a> errorCode,
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.mapview.MapSceneLoadOptionsBuilder.InstantiationErrorCode,java.lang.String)">InstantiationErrorDetails</a><wbr/>(<a href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a> errorCode,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> errorDescription)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
@@ -133,7 +133,7 @@ slug: "sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrordeta
 <section class="detail" id="errorCode">
 <h3>errorCode</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="MapSceneLoadOptionsBuilder.InstantiationErrorCode.html" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a></span> <span class="element-name">errorCode</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a></span> <span class="element-name">errorCode</span></div>
 <div class="block"><p>The error code.</p></div>
 </section>
 </li>
@@ -157,7 +157,7 @@ slug: "sdk-for-android-explore-mapsceneloadoptionsbuilder-instantiationerrordeta
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.MapSceneLoadOptionsBuilder.InstantiationErrorCode,java.lang.String)">
 <h3>InstantiationErrorDetails</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">InstantiationErrorDetails</span><wbr/><span class="parameters">(@NonNull
- <a href="MapSceneLoadOptionsBuilder.InstantiationErrorCode.html" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a> errorCode,
+ <a href="sdk-for-android-explore-mapsceneloadoptionsbuilder.instantiationerrorcode" title="enum class in com.here.sdk.mapview">MapSceneLoadOptionsBuilder.InstantiationErrorCode</a> errorCode,
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> errorDescription)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>

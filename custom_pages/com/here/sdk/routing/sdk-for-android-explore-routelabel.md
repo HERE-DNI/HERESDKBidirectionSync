@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-routelabel"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-routelabel"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -66,7 +66,7 @@ slug: "sdk-for-android-explore-routelabel"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">RouteLabel</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>The main street name or road number for a route. A route can contain more than one such street name or route number.
- To include route labels in the route response, enable it using <a href="RouteOptions.html#enableRouteLabels"><code>RouteOptions.enableRouteLabels</code></a>.</p></div>
+ To include route labels in the route response, enable it using <a href="sdk-for-android-explore-routeoptions#enableRouteLabels"><code>RouteOptions.enableRouteLabels</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -79,12 +79,12 @@ slug: "sdk-for-android-explore-routelabel"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="../core/LocalizedText.html" title="class in com.here.sdk.core">LocalizedText</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#name">name</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The street name or route number for the route label.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="RouteLabelType.html" title="enum class in com.here.sdk.routing">RouteLabelType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-routelabeltype" title="enum class in com.here.sdk.routing">RouteLabelType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#type">type</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The type of the route label, describing if the route label contains a street name or a route number.</div>
@@ -100,7 +100,7 @@ slug: "sdk-for-android-explore-routelabel"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.LocalizedText)">RouteLabel</a><wbr/>(<a href="../core/LocalizedText.html" title="class in com.here.sdk.core">LocalizedText</a> name)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.LocalizedText)">RouteLabel</a><wbr/>(<a href="sdk-for-android-explore-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a> name)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -145,7 +145,7 @@ slug: "sdk-for-android-explore-routelabel"
 <section class="detail" id="name">
 <h3>name</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/LocalizedText.html" title="class in com.here.sdk.core">LocalizedText</a></span> <span class="element-name">name</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a></span> <span class="element-name">name</span></div>
 <div class="block"><p>The street name or route number for the route label.</p></div>
 </section>
 </li>
@@ -153,7 +153,7 @@ slug: "sdk-for-android-explore-routelabel"
 <section class="detail" id="type">
 <h3>type</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="RouteLabelType.html" title="enum class in com.here.sdk.routing">RouteLabelType</a></span> <span class="element-name">type</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routelabeltype" title="enum class in com.here.sdk.routing">RouteLabelType</a></span> <span class="element-name">type</span></div>
 <div class="block"><p>The type of the route label, describing if the route label contains a street name or a route number.</p></div>
 </section>
 </li>
@@ -169,7 +169,7 @@ slug: "sdk-for-android-explore-routelabel"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.LocalizedText)">
 <h3>RouteLabel</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RouteLabel</span><wbr/><span class="parameters">(@NonNull
- <a href="../core/LocalizedText.html" title="class in com.here.sdk.core">LocalizedText</a> name)</span></div>
+ <a href="sdk-for-android-explore-core-localizedtext" title="class in com.here.sdk.core">LocalizedText</a> name)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

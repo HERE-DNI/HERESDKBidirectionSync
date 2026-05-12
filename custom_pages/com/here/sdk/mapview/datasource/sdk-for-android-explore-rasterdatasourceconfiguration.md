@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-rasterdatasourceconfiguration"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../../index-all.html">Index</a></li>
-<li><a href="../../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-rasterdatasourceconfiguration"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.mapview.datasource</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -80,12 +80,12 @@ slug: "sdk-for-android-explore-rasterdatasourceconfiguration"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="RasterDataSourceConfiguration.Cache.html" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Configuration of a local data cache.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="RasterDataSourceConfiguration.Provider.html" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Configuration of a data provider.</div>
 </div>
@@ -101,7 +101,7 @@ slug: "sdk-for-android-explore-rasterdatasourceconfiguration"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="RasterDataSourceConfiguration.Cache.html" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#cache">cache</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Local cache configuration.</div>
@@ -116,7 +116,7 @@ slug: "sdk-for-android-explore-rasterdatasourceconfiguration"
 <div class="col-last even-row-color">
 <div class="block">The unique name of the data source.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="RasterDataSourceConfiguration.Provider.html" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#provider">provider</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Data provider configuration.</div>
@@ -133,14 +133,14 @@ slug: "sdk-for-android-explore-rasterdatasourceconfiguration"
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(java.lang.String,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Provider,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache)">RasterDataSourceConfiguration</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
- <a href="RasterDataSourceConfiguration.Provider.html" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a> provider,
- <a href="RasterDataSourceConfiguration.Cache.html" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a> cache)</code></div>
+ <a href="sdk-for-android-explore-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a> provider,
+ <a href="sdk-for-android-explore-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a> cache)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
 <div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(java.lang.String,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Provider,com.here.sdk.mapview.datasource.RasterDataSourceConfiguration.Cache,boolean)">RasterDataSourceConfiguration</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
- <a href="RasterDataSourceConfiguration.Provider.html" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a> provider,
- <a href="RasterDataSourceConfiguration.Cache.html" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a> cache,
+ <a href="sdk-for-android-explore-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a> provider,
+ <a href="sdk-for-android-explore-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a> cache,
  boolean ignoreExpiredData)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
@@ -178,7 +178,7 @@ slug: "sdk-for-android-explore-rasterdatasourceconfiguration"
 <section class="detail" id="provider">
 <h3>provider</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="RasterDataSourceConfiguration.Provider.html" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></span> <span class="element-name">provider</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a></span> <span class="element-name">provider</span></div>
 <div class="block"><p>Data provider configuration.</p></div>
 </section>
 </li>
@@ -186,7 +186,7 @@ slug: "sdk-for-android-explore-rasterdatasourceconfiguration"
 <section class="detail" id="cache">
 <h3>cache</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="RasterDataSourceConfiguration.Cache.html" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></span> <span class="element-name">cache</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a></span> <span class="element-name">cache</span></div>
 <div class="block"><p>Local cache configuration.</p></div>
 </section>
 </li>
@@ -211,9 +211,9 @@ slug: "sdk-for-android-explore-rasterdatasourceconfiguration"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RasterDataSourceConfiguration</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  @NonNull
- <a href="RasterDataSourceConfiguration.Provider.html" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a> provider,
+ <a href="sdk-for-android-explore-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a> provider,
  @NonNull
- <a href="RasterDataSourceConfiguration.Cache.html" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a> cache)</span></div>
+ <a href="sdk-for-android-explore-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a> cache)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -229,9 +229,9 @@ slug: "sdk-for-android-explore-rasterdatasourceconfiguration"
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">RasterDataSourceConfiguration</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name,
  @NonNull
- <a href="RasterDataSourceConfiguration.Provider.html" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a> provider,
+ <a href="sdk-for-android-explore-rasterdatasourceconfiguration.provider" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Provider</a> provider,
  @NonNull
- <a href="RasterDataSourceConfiguration.Cache.html" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a> cache,
+ <a href="sdk-for-android-explore-rasterdatasourceconfiguration.cache" title="class in com.here.sdk.mapview.datasource">RasterDataSourceConfiguration.Cache</a> cache,
  boolean ignoreExpiredData)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">

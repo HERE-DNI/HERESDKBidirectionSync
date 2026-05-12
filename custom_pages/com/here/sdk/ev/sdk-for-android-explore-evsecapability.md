@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-evsecapability"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,22 +55,22 @@ slug: "sdk-for-android-explore-evsecapability"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.ev</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.ev</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="EVSECapability.html" title="enum class in com.here.sdk.ev">EVSECapability</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a>&gt;
 <div class="inheritance">com.here.sdk.ev.EVSECapability</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="EVSECapability.html" title="enum class in com.here.sdk.ev">EVSECapability</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">EVSECapability</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="EVSECapability.html" title="enum class in com.here.sdk.ev">EVSECapability</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a>&gt;</span></div>
 <div class="block"><p>Represents the administrative functionality that an EVSE is capable of.
  <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
@@ -132,12 +132,12 @@ slug: "sdk-for-android-explore-evsecapability"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="EVSECapability.html" title="enum class in com.here.sdk.ev">EVSECapability</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="EVSECapability.html" title="enum class in com.here.sdk.ev">EVSECapability</a>[]</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a>[]</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
@@ -166,35 +166,35 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="CHARGING_PROFILE">
 <h3>CHARGING_PROFILE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="EVSECapability.html" title="enum class in com.here.sdk.ev">EVSECapability</a></span> <span class="element-name">CHARGING_PROFILE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a></span> <span class="element-name">CHARGING_PROFILE</span></div>
 <div class="block"><p>The EVSE supports charging profiles.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CHARGING_PREFERENCES">
 <h3>CHARGING_PREFERENCES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="EVSECapability.html" title="enum class in com.here.sdk.ev">EVSECapability</a></span> <span class="element-name">CHARGING_PREFERENCES</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a></span> <span class="element-name">CHARGING_PREFERENCES</span></div>
 <div class="block"><p>The EVSE supports charging preferences.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="REMOTE_START_STOP">
 <h3>REMOTE_START_STOP</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="EVSECapability.html" title="enum class in com.here.sdk.ev">EVSECapability</a></span> <span class="element-name">REMOTE_START_STOP</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a></span> <span class="element-name">REMOTE_START_STOP</span></div>
 <div class="block"><p>The EVSE can remotely be started/stopped.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="RESERVABLE">
 <h3>RESERVABLE</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="EVSECapability.html" title="enum class in com.here.sdk.ev">EVSECapability</a></span> <span class="element-name">RESERVABLE</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a></span> <span class="element-name">RESERVABLE</span></div>
 <div class="block"><p>The EVSE can be reserved.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TOKEN_GROUP">
 <h3>TOKEN_GROUP</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="EVSECapability.html" title="enum class in com.here.sdk.ev">EVSECapability</a></span> <span class="element-name">TOKEN_GROUP</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a></span> <span class="element-name">TOKEN_GROUP</span></div>
 <div class="block"><p>This EVSE supports token groups, two or more tokens work as one, so that a session can be started with one token and stopped with another.
  This is handy when a card and key-fob are given to the EV-driver.</p></div>
 </section>
@@ -202,7 +202,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="UNLOCK">
 <h3>UNLOCK</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="EVSECapability.html" title="enum class in com.here.sdk.ev">EVSECapability</a></span> <span class="element-name">UNLOCK</span></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a></span> <span class="element-name">UNLOCK</span></div>
 <div class="block"><p>Connectors have mechanical lock that can be requested by the eMSP to be unlocked.</p></div>
 </section>
 </li>
@@ -217,7 +217,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="EVSECapability.html" title="enum class in com.here.sdk.ev">EVSECapability</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -229,7 +229,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="EVSECapability.html" title="enum class in com.here.sdk.ev">EVSECapability</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-evsecapability" title="enum class in com.here.sdk.ev">EVSECapability</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

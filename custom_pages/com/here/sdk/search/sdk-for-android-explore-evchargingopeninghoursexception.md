@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-evchargingopeninghoursexception"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-evchargingopeninghoursexception"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -92,7 +92,7 @@ slug: "sdk-for-android-explore-evchargingopeninghoursexception"
 <div class="col-last odd-row-color">
 <div class="block">Date of special opening hours.</div>
 </div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="TimeOfDayRange.html" title="class in com.here.sdk.search">TimeOfDayRange</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#periods">periods</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">A list of time periods when the charging location is open on the specified date.</div>
@@ -161,11 +161,11 @@ slug: "sdk-for-android-explore-evchargingopeninghoursexception"
 <section class="detail" id="periods">
 <h3>periods</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="TimeOfDayRange.html" title="class in com.here.sdk.search">TimeOfDayRange</a>&gt;</span> <span class="element-name">periods</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a>&gt;</span> <span class="element-name">periods</span></div>
 <div class="block"><p>A list of time periods when the charging location is open on the specified date.
  The time periods are in the local time zone of the charging location, and
- are represented as a list of objects with <a href="TimeOfDayRange.html#from"><code>TimeOfDayRange.from</code></a>
- and <a href="TimeOfDayRange.html#to"><code>TimeOfDayRange.to</code></a> properties.</p></div>
+ are represented as a list of objects with <a href="sdk-for-android-explore-timeofdayrange#from"><code>TimeOfDayRange.from</code></a>
+ and <a href="sdk-for-android-explore-timeofdayrange#to"><code>TimeOfDayRange.to</code></a> properties.</p></div>
 </section>
 </li>
 <li>

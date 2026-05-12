@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-anglerange"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-anglerange"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.core</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -136,7 +136,7 @@ slug: "sdk-for-android-explore-anglerange"
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>boolean</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#equals(java.lang.Object)">equals</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a> obj)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"> </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="AngleRange.html" title="class in com.here.sdk.core">AngleRange</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-anglerange" title="class in com.here.sdk.core">AngleRange</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#fromDirectionDegreesClockwise(double,double)">fromDirectionDegreesClockwise</a><wbr/>(double center,
  double extent)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
@@ -144,7 +144,7 @@ slug: "sdk-for-android-explore-anglerange"
  direction and an angular width to extent the range by 50% clockwise and
  50% counter-clockwise from its center angle.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="AngleRange.html" title="class in com.here.sdk.core">AngleRange</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-anglerange" title="class in com.here.sdk.core">AngleRange</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#fromMinMaxDegreesClockwise(double,double)">fromMinMaxDegreesClockwise</a><wbr/>(double min,
  double max)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
@@ -260,7 +260,7 @@ slug: "sdk-for-android-explore-anglerange"
 <section class="detail" id="fromMinMaxDegreesClockwise(double,double)">
 <h3>fromMinMaxDegreesClockwise</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="AngleRange.html" title="class in com.here.sdk.core">AngleRange</a></span> <span class="element-name">fromMinMaxDegreesClockwise</span><wbr/><span class="parameters">(double min,
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-anglerange" title="class in com.here.sdk.core">AngleRange</a></span> <span class="element-name">fromMinMaxDegreesClockwise</span><wbr/><span class="parameters">(double min,
  double max)</span></div>
 <div class="block"><p>Constructs an AngleRange from the provided minimum and maximum angles.
  Corrects values if they exceed the ranges. The angles are always
@@ -282,7 +282,7 @@ slug: "sdk-for-android-explore-anglerange"
 <section class="detail" id="fromDirectionDegreesClockwise(double,double)">
 <h3>fromDirectionDegreesClockwise</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public static</span> <span class="return-type"><a href="AngleRange.html" title="class in com.here.sdk.core">AngleRange</a></span> <span class="element-name">fromDirectionDegreesClockwise</span><wbr/><span class="parameters">(double center,
+</span><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-anglerange" title="class in com.here.sdk.core">AngleRange</a></span> <span class="element-name">fromDirectionDegreesClockwise</span><wbr/><span class="parameters">(double center,
  double extent)</span></div>
 <div class="block"><p>Constructs an AngleRange from the provided center angle defining the
  direction and an angular width to extent the range by 50% clockwise and

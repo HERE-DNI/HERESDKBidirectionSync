@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-truckspecifications"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-truckspecifications"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.transport</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.transport</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -139,13 +139,13 @@ slug: "sdk-for-android-explore-truckspecifications"
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Defines number of trailers attached to the vehicle.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="TruckType.html" title="enum class in com.here.sdk.transport">TruckType</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-trucktype" title="enum class in com.here.sdk.transport">TruckType</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#truckType">truckType</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block">Defines the type of truck.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="WeightPerAxleGroup.html" title="class in com.here.sdk.transport">WeightPerAxleGroup</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-weightperaxlegroup" title="class in com.here.sdk.transport">WeightPerAxleGroup</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#weightPerAxleGroup">weightPerAxleGroup</a></code></div>
 <div class="col-last even-row-color">
 <div class="block"><span class="deprecated-label">Deprecated.</span></div>
@@ -261,7 +261,7 @@ slug: "sdk-for-android-explore-truckspecifications"
 <section class="detail" id="weightPerAxleGroup">
 <h3>weightPerAxleGroup</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="WeightPerAxleGroup.html" title="class in com.here.sdk.transport">WeightPerAxleGroup</a></span> <span class="element-name">weightPerAxleGroup</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-weightperaxlegroup" title="class in com.here.sdk.transport">WeightPerAxleGroup</a></span> <span class="element-name">weightPerAxleGroup</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>Allows specification of axle weights in a more fine-grained way than <code>weight_per_axle_in_kilograms</code>.
  This is relevant in countries with signs and regulations that specify different limits for different axle groups, like the USA and Sweden.
@@ -331,9 +331,9 @@ slug: "sdk-for-android-explore-truckspecifications"
 <section class="detail" id="truckType">
 <h3>truckType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="TruckType.html" title="enum class in com.here.sdk.transport">TruckType</a></span> <span class="element-name">truckType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-trucktype" title="enum class in com.here.sdk.transport">TruckType</a></span> <span class="element-name">truckType</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
-<div class="block"><p>Defines the type of truck. By default, it is <a href="TruckType.html#STRAIGHT"><code>TruckType.STRAIGHT</code></a>.
+<div class="block"><p>Defines the type of truck. By default, it is <a href="sdk-for-android-explore-trucktype#STRAIGHT"><code>TruckType.STRAIGHT</code></a>.
  Rendering <code>sdk.mapview.TruckProfile</code>: <a href="#truckType"><code>truckType</code></a> is ignored and has no effect.</p></div>
 </section>
 </li>

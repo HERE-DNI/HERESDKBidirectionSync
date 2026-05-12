@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-evsearchinterface"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,13 +55,13 @@ slug: "sdk-for-android-explore-evsearchinterface"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Known Implementing Classes:</dt>
-<dd><code><a href="EVSearchEngine.html" title="class in com.here.sdk.search">EVSearchEngine</a></code></dd>
+<dd><code><a href="sdk-for-android-explore-evsearchengine" title="class in com.here.sdk.search">EVSearchEngine</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">EVSearchInterface</span></div>
@@ -82,11 +82,11 @@ slug: "sdk-for-android-explore-evsearchinterface"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="../core/threading/TaskHandle.html" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a href="sdk-for-android-explore-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#search(java.util.List,com.here.sdk.search.EVSearchCallback)">search</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; ids,
- <a href="EVSearchCallback.html" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</code></div>
+ <a href="sdk-for-android-explore-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
-<div class="block">Performs an asynchronous request for <a href="EVChargingLocation.html" title="class in com.here.sdk.search"><code>EVChargingLocation</code></a> instances with given Place IDs.</div>
+<div class="block">Performs an asynchronous request for <a href="sdk-for-android-explore-evcharginglocation" title="class in com.here.sdk.search"><code>EVChargingLocation</code></a> instances with given Place IDs.</div>
 </div>
 </div>
 </div>
@@ -106,11 +106,11 @@ slug: "sdk-for-android-explore-evsearchinterface"
 <section class="detail" id="search(java.util.List,com.here.sdk.search.EVSearchCallback)">
 <h3>search</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="return-type"><a href="../core/threading/TaskHandle.html" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr/><span class="parameters">(@NonNull
+</span><span class="return-type"><a href="sdk-for-android-explore-core-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">search</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt; ids,
  @NonNull
- <a href="EVSearchCallback.html" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</span></div>
-<div class="block"><p>Performs an asynchronous request for <a href="EVChargingLocation.html" title="class in com.here.sdk.search"><code>EVChargingLocation</code></a> instances with given Place IDs.</p></div>
+ <a href="sdk-for-android-explore-evsearchcallback" title="interface in com.here.sdk.search">EVSearchCallback</a> callback)</span></div>
+<div class="block"><p>Performs an asynchronous request for <a href="sdk-for-android-explore-evcharginglocation" title="class in com.here.sdk.search"><code>EVChargingLocation</code></a> instances with given Place IDs.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>ids</code> - <p>List of charging location identifiers.</p></dd>

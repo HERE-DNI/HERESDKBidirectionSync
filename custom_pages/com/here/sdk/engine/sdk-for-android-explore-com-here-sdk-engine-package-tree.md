@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-com-here-sdk-engine-package-tree"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li>Class</li>
 <li class="nav-bar-cell1-rev">Tree</li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#tree">Help</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#tree">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -42,7 +42,7 @@ slug: "sdk-for-android-explore-com-here-sdk-engine-package-tree"
 
 <span class="package-hierarchy-label">Package Hierarchies:</span>
 <ul class="horizontal">
-<li><a href="../../../../overview-tree.html">All Packages</a></li>
+<li><a href="sdk-for-android-explore-overview-tree">All Packages</a></li>
 </ul>
 </div>
 <section class="hierarchy">
@@ -50,7 +50,7 @@ slug: "sdk-for-android-explore-com-here-sdk-engine-package-tree"
 <ul>
 <li class="circle">java.lang.<a class="type-name-link external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
 <ul>
-<li class="circle">com.here.sdk.engine.<a class="type-name-link" href="InitProvider.html" title="class in com.here.sdk.engine">InitProvider</a></li>
+<li class="circle">com.here.sdk.engine.<a class="type-name-link" href="sdk-for-android-explore-initprovider" title="class in com.here.sdk.engine">InitProvider</a></li>
 </ul>
 </li>
 </ul>

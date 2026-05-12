@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-calculateisolinecallback"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-calculateisolinecallback"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -87,8 +87,8 @@ slug: "sdk-for-android-explore-calculateisolinecallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#onIsolineCalculated(com.here.sdk.routing.RoutingError,java.util.List)">onIsolineCalculated</a><wbr/>(<a href="RoutingError.html" title="enum class in com.here.sdk.routing">RoutingError</a> routingError,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="Isoline.html" title="class in com.here.sdk.routing">Isoline</a>&gt; isolines)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#onIsolineCalculated(com.here.sdk.routing.RoutingError,java.util.List)">onIsolineCalculated</a><wbr/>(<a href="sdk-for-android-explore-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a> routingError,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-isoline" title="class in com.here.sdk.routing">Isoline</a>&gt; isolines)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">A function which is called by the RoutingEngine after isoline calculation has completed.</div>
 </div>
@@ -110,9 +110,9 @@ slug: "sdk-for-android-explore-calculateisolinecallback"
 <section class="detail" id="onIsolineCalculated(com.here.sdk.routing.RoutingError,java.util.List)">
 <h3>onIsolineCalculated</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onIsolineCalculated</span><wbr/><span class="parameters">(@Nullable
- <a href="RoutingError.html" title="enum class in com.here.sdk.routing">RoutingError</a> routingError,
+ <a href="sdk-for-android-explore-routingerror" title="enum class in com.here.sdk.routing">RoutingError</a> routingError,
  @Nullable
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="Isoline.html" title="class in com.here.sdk.routing">Isoline</a>&gt; isolines)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-isoline" title="class in com.here.sdk.routing">Isoline</a>&gt; isolines)</span></div>
 <div class="block"><p>A function which is called by the RoutingEngine after isoline calculation has completed.
  It is always called on the main thread.
  The first argument is the error in case of a failure. It is <code>null</code> for an operation that succeeds.

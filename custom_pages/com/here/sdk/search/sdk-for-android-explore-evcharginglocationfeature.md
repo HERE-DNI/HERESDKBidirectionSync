@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-evcharginglocationfeature"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,22 +55,22 @@ slug: "sdk-for-android-explore-evcharginglocationfeature"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="EVChargingLocationFeature.html" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a>&gt;
+<div class="inheritance"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">java.lang.Enum</a>&lt;<a href="sdk-for-android-explore-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a>&gt;
 <div class="inheritance">com.here.sdk.search.EVChargingLocationFeature</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="EVChargingLocationFeature.html" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
+<dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/Serializable.html" title="class or interface in java.io">Serializable</a></code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Comparable.html" title="class or interface in java.lang">Comparable</a>&lt;<a href="sdk-for-android-explore-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a>&gt;</code>, <code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/constant/Constable.html" title="class or interface in java.lang.constant">Constable</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">EVChargingLocationFeature</span>
-<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="EVChargingLocationFeature.html" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a>&gt;</span></div>
+<span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a>&gt;</span></div>
 <div class="block"><p>Optional features that can be requested for EV charging locations.
  <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></div>
@@ -96,33 +96,33 @@ slug: "sdk-for-android-explore-evcharginglocationfeature"
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code><a class="member-name-link" href="#CONNECTOR_GROUPS">CONNECTOR_GROUPS</a></code></div>
 <div class="col-last even-row-color">
-<div class="block"><a href="EVChargingLocation.html#getConnectorGroups()"><code>EVChargingLocation.getConnectorGroups()</code></a> will be returned.</div>
+<div class="block"><a href="sdk-for-android-explore-evcharginglocation#getConnectorGroups()"><code>EVChargingLocation.getConnectorGroups()</code></a> will be returned.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="member-name-link" href="#EMSPS">EMSPS</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block"><a href="EVChargingLocation.html#getEMobilityServiceProviders()"><code>EVChargingLocation.getEMobilityServiceProviders()</code></a> will be returned.</div>
+<div class="block"><a href="sdk-for-android-explore-evcharginglocation#getEMobilityServiceProviders()"><code>EVChargingLocation.getEMobilityServiceProviders()</code></a> will be returned.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="member-name-link" href="#EVSES">EVSES</a></code></div>
 <div class="col-last even-row-color">
-<div class="block"><a href="EVChargingLocation.html#getEvses()"><code>EVChargingLocation.getEvses()</code></a> will be returned.</div>
+<div class="block"><a href="sdk-for-android-explore-evcharginglocation#getEvses()"><code>EVChargingLocation.getEvses()</code></a> will be returned.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="member-name-link" href="#LOCATION_INFO">LOCATION_INFO</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block"><a href="EVChargingLocation.html#getCpoID()"><code>EVChargingLocation.getCpoID()</code></a>, <a href="EVChargingLocation.html#getFacilityTypes()"><code>EVChargingLocation.getFacilityTypes()</code></a>,
- <a href="EVChargingLocation.html#getParkingType()"><code>EVChargingLocation.getParkingType()</code></a>, <a href="EVChargingLocation.html#getEnergyMix()"><code>EVChargingLocation.getEnergyMix()</code></a>,
- and <a href="EVChargingLocation.html#getOpeningHours()"><code>EVChargingLocation.getOpeningHours()</code></a> will be returned.</div>
+<div class="block"><a href="sdk-for-android-explore-evcharginglocation#getCpoID()"><code>EVChargingLocation.getCpoID()</code></a>, <a href="sdk-for-android-explore-evcharginglocation#getFacilityTypes()"><code>EVChargingLocation.getFacilityTypes()</code></a>,
+ <a href="sdk-for-android-explore-evcharginglocation#getParkingType()"><code>EVChargingLocation.getParkingType()</code></a>, <a href="sdk-for-android-explore-evcharginglocation#getEnergyMix()"><code>EVChargingLocation.getEnergyMix()</code></a>,
+ and <a href="sdk-for-android-explore-evcharginglocation#getOpeningHours()"><code>EVChargingLocation.getOpeningHours()</code></a> will be returned.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="member-name-link" href="#NEARBY">NEARBY</a></code></div>
 <div class="col-last even-row-color">
-<div class="block"><a href="EVChargingLocation.html#getFacilityTypes()"><code>EVChargingLocation.getFacilityTypes()</code></a> will be returned.</div>
+<div class="block"><a href="sdk-for-android-explore-evcharginglocation#getFacilityTypes()"><code>EVChargingLocation.getFacilityTypes()</code></a> will be returned.</div>
 </div>
 <div class="col-first odd-row-color"><code><a class="member-name-link" href="#TARIFFS">TARIFFS</a></code></div>
 <div class="col-last odd-row-color">
-<div class="block"><a href="EVChargingConnectorGroup.html#tariffIndexes"><code>EVChargingConnectorGroup.tariffIndexes</code></a> will be returned.</div>
+<div class="block"><a href="sdk-for-android-explore-evchargingconnectorgroup#tariffIndexes"><code>EVChargingConnectorGroup.tariffIndexes</code></a> will be returned.</div>
 </div>
 <div class="col-first even-row-color"><code><a class="member-name-link" href="#TRUCK_RESTRICTIONS">TRUCK_RESTRICTIONS</a></code></div>
 <div class="col-last even-row-color">
-<div class="block"><a href="EVChargingLocation.html#getTruckRestrictions()"><code>EVChargingLocation.getTruckRestrictions()</code></a> will be returned.</div>
+<div class="block"><a href="sdk-for-android-explore-evcharginglocation#getTruckRestrictions()"><code>EVChargingLocation.getTruckRestrictions()</code></a> will be returned.</div>
 </div>
 </div>
 </section>
@@ -138,12 +138,12 @@ slug: "sdk-for-android-explore-evcharginglocationfeature"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="EVChargingLocationFeature.html" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#valueOf(java.lang.String)">valueOf</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns the enum constant of this class with the specified name.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="EVChargingLocationFeature.html" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a>[]</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a>[]</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#values()">values</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Returns an array containing the constants of this enum class, in
@@ -172,51 +172,51 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="EVSES">
 <h3>EVSES</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="EVChargingLocationFeature.html" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">EVSES</span></div>
-<div class="block"><p><a href="EVChargingLocation.html#getEvses()"><code>EVChargingLocation.getEvses()</code></a> will be returned.
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">EVSES</span></div>
+<div class="block"><p><a href="sdk-for-android-explore-evcharginglocation#getEvses()"><code>EVChargingLocation.getEvses()</code></a> will be returned.
  If <a href="#CONNECTOR_GROUPS"><code>CONNECTOR_GROUPS</code></a> is also included, then
- <a href="EVChargingConnectorGroup.html#connectors"><code>EVChargingConnectorGroup.connectors</code></a> will also be returned.</p></div>
+ <a href="sdk-for-android-explore-evchargingconnectorgroup#connectors"><code>EVChargingConnectorGroup.connectors</code></a> will also be returned.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TRUCK_RESTRICTIONS">
 <h3>TRUCK_RESTRICTIONS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="EVChargingLocationFeature.html" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">TRUCK_RESTRICTIONS</span></div>
-<div class="block"><p><a href="EVChargingLocation.html#getTruckRestrictions()"><code>EVChargingLocation.getTruckRestrictions()</code></a> will be returned.</p></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">TRUCK_RESTRICTIONS</span></div>
+<div class="block"><p><a href="sdk-for-android-explore-evcharginglocation#getTruckRestrictions()"><code>EVChargingLocation.getTruckRestrictions()</code></a> will be returned.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="LOCATION_INFO">
 <h3>LOCATION_INFO</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="EVChargingLocationFeature.html" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">LOCATION_INFO</span></div>
-<div class="block"><p><a href="EVChargingLocation.html#getCpoID()"><code>EVChargingLocation.getCpoID()</code></a>, <a href="EVChargingLocation.html#getFacilityTypes()"><code>EVChargingLocation.getFacilityTypes()</code></a>,
- <a href="EVChargingLocation.html#getParkingType()"><code>EVChargingLocation.getParkingType()</code></a>, <a href="EVChargingLocation.html#getEnergyMix()"><code>EVChargingLocation.getEnergyMix()</code></a>,
- and <a href="EVChargingLocation.html#getOpeningHours()"><code>EVChargingLocation.getOpeningHours()</code></a> will be returned.</p></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">LOCATION_INFO</span></div>
+<div class="block"><p><a href="sdk-for-android-explore-evcharginglocation#getCpoID()"><code>EVChargingLocation.getCpoID()</code></a>, <a href="sdk-for-android-explore-evcharginglocation#getFacilityTypes()"><code>EVChargingLocation.getFacilityTypes()</code></a>,
+ <a href="sdk-for-android-explore-evcharginglocation#getParkingType()"><code>EVChargingLocation.getParkingType()</code></a>, <a href="sdk-for-android-explore-evcharginglocation#getEnergyMix()"><code>EVChargingLocation.getEnergyMix()</code></a>,
+ and <a href="sdk-for-android-explore-evcharginglocation#getOpeningHours()"><code>EVChargingLocation.getOpeningHours()</code></a> will be returned.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="EMSPS">
 <h3>EMSPS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="EVChargingLocationFeature.html" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">EMSPS</span></div>
-<div class="block"><p><a href="EVChargingLocation.html#getEMobilityServiceProviders()"><code>EVChargingLocation.getEMobilityServiceProviders()</code></a> will be returned.</p></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">EMSPS</span></div>
+<div class="block"><p><a href="sdk-for-android-explore-evcharginglocation#getEMobilityServiceProviders()"><code>EVChargingLocation.getEMobilityServiceProviders()</code></a> will be returned.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="CONNECTOR_GROUPS">
 <h3>CONNECTOR_GROUPS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="EVChargingLocationFeature.html" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">CONNECTOR_GROUPS</span></div>
-<div class="block"><p><a href="EVChargingLocation.html#getConnectorGroups()"><code>EVChargingLocation.getConnectorGroups()</code></a> will be returned.
- To ensure <a href="EVChargingConnectorGroup.html#connectors"><code>EVChargingConnectorGroup.connectors</code></a> is available, also include
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">CONNECTOR_GROUPS</span></div>
+<div class="block"><p><a href="sdk-for-android-explore-evcharginglocation#getConnectorGroups()"><code>EVChargingLocation.getConnectorGroups()</code></a> will be returned.
+ To ensure <a href="sdk-for-android-explore-evchargingconnectorgroup#connectors"><code>EVChargingConnectorGroup.connectors</code></a> is available, also include
  <a href="#EVSES"><code>EVSES</code></a>.
- To ensure <a href="EVChargingConnectorGroup.html#tariffIndexes"><code>EVChargingConnectorGroup.tariffIndexes</code></a> is available, also include
+ To ensure <a href="sdk-for-android-explore-evchargingconnectorgroup#tariffIndexes"><code>EVChargingConnectorGroup.tariffIndexes</code></a> is available, also include
  <a href="#TARIFFS"><code>TARIFFS</code></a>.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="TARIFFS">
 <h3>TARIFFS</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="EVChargingLocationFeature.html" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">TARIFFS</span></div>
-<div class="block"><p><a href="EVChargingConnectorGroup.html#tariffIndexes"><code>EVChargingConnectorGroup.tariffIndexes</code></a> will be returned.
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">TARIFFS</span></div>
+<div class="block"><p><a href="sdk-for-android-explore-evchargingconnectorgroup#tariffIndexes"><code>EVChargingConnectorGroup.tariffIndexes</code></a> will be returned.
  Ignored if neither <a href="#EVSES"><code>EVSES</code></a> nor
  <a href="#CONNECTOR_GROUPS"><code>CONNECTOR_GROUPS</code></a> are included.</p></div>
 </section>
@@ -224,8 +224,8 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="NEARBY">
 <h3>NEARBY</h3>
-<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="EVChargingLocationFeature.html" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">NEARBY</span></div>
-<div class="block"><p><a href="EVChargingLocation.html#getFacilityTypes()"><code>EVChargingLocation.getFacilityTypes()</code></a> will be returned.</p></div>
+<div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">NEARBY</span></div>
+<div class="block"><p><a href="sdk-for-android-explore-evcharginglocation#getFacilityTypes()"><code>EVChargingLocation.getFacilityTypes()</code></a> will be returned.</p></div>
 </section>
 </li>
 </ul>
@@ -239,7 +239,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="values()">
 <h3>values</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="EVChargingLocationFeature.html" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a>[]</span> <span class="element-name">values</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a>[]</span> <span class="element-name">values</span>()</div>
 <div class="block">Returns an array containing the constants of this enum class, in
 the order they are declared.</div>
 <dl class="notes">
@@ -251,7 +251,7 @@ the order they are declared.</div>
 <li>
 <section class="detail" id="valueOf(java.lang.String)">
 <h3>valueOf</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="EVChargingLocationFeature.html" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-evcharginglocationfeature" title="enum class in com.here.sdk.search">EVChargingLocationFeature</a></span> <span class="element-name">valueOf</span><wbr/><span class="parameters">(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> name)</span></div>
 <div class="block">Returns the enum constant of this class with the specified name.
 The string must match <i>exactly</i> an identifier used to declare an
 enum constant in this class.  (Extraneous whitespace characters are 

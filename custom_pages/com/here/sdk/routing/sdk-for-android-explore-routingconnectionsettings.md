@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-routingconnectionsettings"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-routingconnectionsettings"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -81,17 +81,17 @@ slug: "sdk-for-android-explore-routingconnectionsettings"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#connectionTimeoutRetryIncrease">connectionTimeoutRetryIncrease</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines the increase of the timeout for the transfer of data.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#initialConnectionTimeout">initialConnectionTimeout</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Defines the initial time out for connection to the backend.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#initialTransferTimeout">initialTransferTimeout</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines the initial time out for data transfer from the backend.</div>
@@ -101,7 +101,7 @@ slug: "sdk-for-android-explore-routingconnectionsettings"
 <div class="col-last odd-row-color">
 <div class="block">Defines the max amount of retries before the route request failes with connection related error codes.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#transferTimeoutRetryIncrease">transferTimeoutRetryIncrease</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines the increase of the timeout for the connection.</div>
@@ -162,7 +162,7 @@ slug: "sdk-for-android-explore-routingconnectionsettings"
 <section class="detail" id="initialConnectionTimeout">
 <h3>initialConnectionTimeout</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></span> <span class="element-name">initialConnectionTimeout</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">initialConnectionTimeout</span></div>
 <div class="block"><p>Defines the initial time out for connection to the backend.
  By default, the initial connection timeout is 5 seconds.</p></div>
 </section>
@@ -171,7 +171,7 @@ slug: "sdk-for-android-explore-routingconnectionsettings"
 <section class="detail" id="connectionTimeoutRetryIncrease">
 <h3>connectionTimeoutRetryIncrease</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></span> <span class="element-name">connectionTimeoutRetryIncrease</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">connectionTimeoutRetryIncrease</span></div>
 <div class="block"><p>Defines the increase of the timeout for the transfer of data.
  By default, the initial connection increment per timeout 10 seconds.</p></div>
 </section>
@@ -180,7 +180,7 @@ slug: "sdk-for-android-explore-routingconnectionsettings"
 <section class="detail" id="initialTransferTimeout">
 <h3>initialTransferTimeout</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></span> <span class="element-name">initialTransferTimeout</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">initialTransferTimeout</span></div>
 <div class="block"><p>Defines the initial time out for data transfer from the backend.
  By default, the initial transfer timeout is 10 seconds.</p></div>
 </section>
@@ -189,7 +189,7 @@ slug: "sdk-for-android-explore-routingconnectionsettings"
 <section class="detail" id="transferTimeoutRetryIncrease">
 <h3>transferTimeoutRetryIncrease</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></span> <span class="element-name">transferTimeoutRetryIncrease</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">transferTimeoutRetryIncrease</span></div>
 <div class="block"><p>Defines the increase of the timeout for the connection.
  By default, the initial transfer increment per timeout is 2 seconds.</p></div>
 </section>

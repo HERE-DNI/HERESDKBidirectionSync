@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-evchargingtariffpricecomponent"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-evchargingtariffpricecomponent"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -80,7 +80,7 @@ slug: "sdk-for-android-explore-evchargingtariffpricecomponent"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="EVChargingTariffDimension.html" title="enum class in com.here.sdk.search">EVChargingTariffDimension</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-evchargingtariffdimension" title="enum class in com.here.sdk.search">EVChargingTariffDimension</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#dimension">dimension</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The dimension or type of the price component.</div>
@@ -156,7 +156,7 @@ slug: "sdk-for-android-explore-evchargingtariffpricecomponent"
 <section class="detail" id="dimension">
 <h3>dimension</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="EVChargingTariffDimension.html" title="enum class in com.here.sdk.search">EVChargingTariffDimension</a></span> <span class="element-name">dimension</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-evchargingtariffdimension" title="enum class in com.here.sdk.search">EVChargingTariffDimension</a></span> <span class="element-name">dimension</span></div>
 <div class="block"><p>The dimension or type of the price component.</p></div>
 </section>
 </li>
@@ -181,9 +181,9 @@ slug: "sdk-for-android-explore-evchargingtariffpricecomponent"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">step</span></div>
 <div class="block"><p>Dimension quantity used as a unit of billing. Present for all other dimensions except
- <a href="EVChargingTariffDimension.html#FLAT"><code>EVChargingTariffDimension.FLAT</code></a>. The customer is charged price for each full or partial
- step of the dimension consumed. For <a href="EVChargingTariffDimension.html#ENERGY"><code>EVChargingTariffDimension.ENERGY</code></a>, the step size unit
- is 1 Wh, for <a href="EVChargingTariffDimension.html#TIME"><code>EVChargingTariffDimension.TIME</code></a> and <a href="EVChargingTariffDimension.html#PARKING_TIME"><code>EVChargingTariffDimension.PARKING_TIME</code></a>
+ <a href="sdk-for-android-explore-evchargingtariffdimension#FLAT"><code>EVChargingTariffDimension.FLAT</code></a>. The customer is charged price for each full or partial
+ step of the dimension consumed. For <a href="sdk-for-android-explore-evchargingtariffdimension#ENERGY"><code>EVChargingTariffDimension.ENERGY</code></a>, the step size unit
+ is 1 Wh, for <a href="sdk-for-android-explore-evchargingtariffdimension#TIME"><code>EVChargingTariffDimension.TIME</code></a> and <a href="sdk-for-android-explore-evchargingtariffdimension#PARKING_TIME"><code>EVChargingTariffDimension.PARKING_TIME</code></a>
  it is 1 second. For example, if step is 300 for time, then time is billed in 5 minute steps, rounded upwards.
  Similarly, if step is 100 for energy, then energy is billed in 100 Wh = 0.1 kWh steps.</p></div>
 </section>

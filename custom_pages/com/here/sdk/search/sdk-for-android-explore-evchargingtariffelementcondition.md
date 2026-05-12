@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-evchargingtariffelementcondition"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-evchargingtariffelementcondition"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -88,17 +88,17 @@ slug: "sdk-for-android-explore-evchargingtariffelementcondition"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="DateRange.html" title="class in com.here.sdk.search">DateRange</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-daterange" title="class in com.here.sdk.search">DateRange</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#date">date</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Date range when the tariff element is valid.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="DayOfWeek.html" title="enum class in com.here.sdk.search">DayOfWeek</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-dayofweek" title="enum class in com.here.sdk.search">DayOfWeek</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#days">days</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Day(s) of the week when the tariff element is valid.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="EVChargingDurationRange.html" title="class in com.here.sdk.search">EVChargingDurationRange</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-evchargingdurationrange" title="class in com.here.sdk.search">EVChargingDurationRange</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#duration">duration</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Duration of the charging session when the tariff element is valid, in seconds.</div>
@@ -108,7 +108,7 @@ slug: "sdk-for-android-explore-evchargingtariffelementcondition"
 <div class="col-last odd-row-color">
 <div class="block">Minimum battery level when the tariff element is valid, in percentages.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="TimeOfDayRange.html" title="class in com.here.sdk.search">TimeOfDayRange</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#time">time</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Time period when the tariff element is valid, in local time.</div>
@@ -169,7 +169,7 @@ slug: "sdk-for-android-explore-evchargingtariffelementcondition"
 <section class="detail" id="date">
 <h3>date</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="DateRange.html" title="class in com.here.sdk.search">DateRange</a></span> <span class="element-name">date</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-daterange" title="class in com.here.sdk.search">DateRange</a></span> <span class="element-name">date</span></div>
 <div class="block"><p>Date range when the tariff element is valid. This is typically used to indicate seasonal
  tariffs or to announce an update to the tariff in advance. It may also be used to indicate
  spot prices, together with time period.</p></div>
@@ -179,7 +179,7 @@ slug: "sdk-for-android-explore-evchargingtariffelementcondition"
 <section class="detail" id="days">
 <h3>days</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="DayOfWeek.html" title="enum class in com.here.sdk.search">DayOfWeek</a>&gt;</span> <span class="element-name">days</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-dayofweek" title="enum class in com.here.sdk.search">DayOfWeek</a>&gt;</span> <span class="element-name">days</span></div>
 <div class="block"><p>Day(s) of the week when the tariff element is valid.
  An example would be to specify lower prices for weekends</p></div>
 </section>
@@ -188,17 +188,17 @@ slug: "sdk-for-android-explore-evchargingtariffelementcondition"
 <section class="detail" id="time">
 <h3>time</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="TimeOfDayRange.html" title="class in com.here.sdk.search">TimeOfDayRange</a></span> <span class="element-name">time</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-timeofdayrange" title="class in com.here.sdk.search">TimeOfDayRange</a></span> <span class="element-name">time</span></div>
 <div class="block"><p>Time period when the tariff element is valid, in local time. The time period wraps around to
- the next day, when end time of the period <a href="TimeOfDayRange.html#to"><code>TimeOfDayRange.to</code></a>
- is smaller than the beginning <a href="TimeOfDayRange.html#from"><code>TimeOfDayRange.from</code></a>.</p></div>
+ the next day, when end time of the period <a href="sdk-for-android-explore-timeofdayrange#to"><code>TimeOfDayRange.to</code></a>
+ is smaller than the beginning <a href="sdk-for-android-explore-timeofdayrange#from"><code>TimeOfDayRange.from</code></a>.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="duration">
 <h3>duration</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="EVChargingDurationRange.html" title="class in com.here.sdk.search">EVChargingDurationRange</a></span> <span class="element-name">duration</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-evchargingdurationrange" title="class in com.here.sdk.search">EVChargingDurationRange</a></span> <span class="element-name">duration</span></div>
 <div class="block"><p>Duration of the charging session when the tariff element is valid, in seconds.
  <p>Often only either one of the values is present, indicating the minimum or maximum duration.</p></p></div>
 </section>

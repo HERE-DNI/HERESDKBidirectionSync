@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-usagestats"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../../index-all.html">Index</a></li>
-<li><a href="../../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-usagestats"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.core.engine</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core.engine</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -81,12 +81,12 @@ slug: "sdk-for-android-explore-usagestats"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="UsageStats.Feature.html" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Represents the feature enum associated with the gathered usage stats.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="UsageStats.NetworkStats.html" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-usagestats.networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Provides network statistics in bytes per method.</div>
 </div>
@@ -102,12 +102,12 @@ slug: "sdk-for-android-explore-usagestats"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="UsageStats.Feature.html" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></code></div>
+<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#feature">feature</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Represents the HERE SDK feature associated with the gathered usage statistics.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="UsageStats.NetworkStats.html" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-usagestats.networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#networkStats">networkStats</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Provides network statistics.</div>
@@ -123,8 +123,8 @@ slug: "sdk-for-android-explore-usagestats"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(java.util.List,com.here.sdk.core.engine.UsageStats.Feature)">UsageStats</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="UsageStats.NetworkStats.html" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a>&gt; networkStats,
- <a href="UsageStats.Feature.html" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a> feature)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(java.util.List,com.here.sdk.core.engine.UsageStats.Feature)">UsageStats</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-usagestats.networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a>&gt; networkStats,
+ <a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a> feature)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -153,7 +153,7 @@ slug: "sdk-for-android-explore-usagestats"
 <section class="detail" id="networkStats">
 <h3>networkStats</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="UsageStats.NetworkStats.html" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a>&gt;</span> <span class="element-name">networkStats</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-usagestats.networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a>&gt;</span> <span class="element-name">networkStats</span></div>
 <div class="block"><p>Provides network statistics.</p></div>
 </section>
 </li>
@@ -161,7 +161,7 @@ slug: "sdk-for-android-explore-usagestats"
 <section class="detail" id="feature">
 <h3>feature</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="UsageStats.Feature.html" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">feature</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a></span> <span class="element-name">feature</span></div>
 <div class="block"><p>Represents the HERE SDK feature associated with the gathered usage statistics.</p></div>
 </section>
 </li>
@@ -177,9 +177,9 @@ slug: "sdk-for-android-explore-usagestats"
 <section class="detail" id="&lt;init&gt;(java.util.List,com.here.sdk.core.engine.UsageStats.Feature)">
 <h3>UsageStats</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">UsageStats</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="UsageStats.NetworkStats.html" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a>&gt; networkStats,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-usagestats.networkstats" title="class in com.here.sdk.core.engine">UsageStats.NetworkStats</a>&gt; networkStats,
  @NonNull
- <a href="UsageStats.Feature.html" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a> feature)</span></div>
+ <a href="sdk-for-android-explore-usagestats.feature" title="enum class in com.here.sdk.core.engine">UsageStats.Feature</a> feature)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-chargingactiondetails"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="../../../../index.html">Overview</a></li>
-<li><a href="package-summary.html">Package</a></li>
+<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="package-tree.html">Tree</a></li>
-<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
-<li><a href="../../../../index-all.html">Index</a></li>
-<li><a href="../../../../help-doc.html#class">Help</a></li>
+<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
+<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
+<li><a href="sdk-for-android-explore-index-all">Index</a></li>
+<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-chargingactiondetails"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -150,7 +150,7 @@ slug: "sdk-for-android-explore-chargingactiondetails"
 <h3>consumablePowerInKilowatts</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">consumablePowerInKilowatts</span></div>
 <div class="block"><p>Maximum charging power (in kW) available to the vehicle, based on the properties of the charging station and the vehicle.
- A valid <a href="ChargingActionDetails.html" title="class in com.here.sdk.routing"><code>ChargingActionDetails</code></a> object will have positive <a href="#consumablePowerInKilowatts"><code>consumablePowerInKilowatts</code></a>.
+ A valid <a href="sdk-for-android-explore-chargingactiondetails" title="class in com.here.sdk.routing"><code>ChargingActionDetails</code></a> object will have positive <a href="#consumablePowerInKilowatts"><code>consumablePowerInKilowatts</code></a>.
  Defaults to 0.</p></div>
 </section>
 </li>
@@ -159,7 +159,7 @@ slug: "sdk-for-android-explore-chargingactiondetails"
 <h3>arrivalChargeInKilowattHours</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">arrivalChargeInKilowattHours</span></div>
 <div class="block"><p>Estimated vehicle battery charge before this action (in kWh).
- A valid <a href="ChargingActionDetails.html" title="class in com.here.sdk.routing"><code>ChargingActionDetails</code></a> object will have positive <a href="#arrivalChargeInKilowattHours"><code>arrivalChargeInKilowattHours</code></a>.
+ A valid <a href="sdk-for-android-explore-chargingactiondetails" title="class in com.here.sdk.routing"><code>ChargingActionDetails</code></a> object will have positive <a href="#arrivalChargeInKilowattHours"><code>arrivalChargeInKilowattHours</code></a>.
  Defaults to 0.</p></div>
 </section>
 </li>
@@ -168,7 +168,7 @@ slug: "sdk-for-android-explore-chargingactiondetails"
 <h3>targetChargeInKilowattHours</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">targetChargeInKilowattHours</span></div>
 <div class="block"><p>Level to which vehicle battery should be charged by this action (in kWh).
- A valid <a href="ChargingActionDetails.html" title="class in com.here.sdk.routing"><code>ChargingActionDetails</code></a> object will have positive <a href="#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>.
+ A valid <a href="sdk-for-android-explore-chargingactiondetails" title="class in com.here.sdk.routing"><code>ChargingActionDetails</code></a> object will have positive <a href="#targetChargeInKilowattHours"><code>targetChargeInKilowattHours</code></a>.
  Defaults to 0.</p></div>
 </section>
 </li>
