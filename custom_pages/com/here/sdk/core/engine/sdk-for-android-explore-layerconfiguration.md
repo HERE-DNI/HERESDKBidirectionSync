@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-layerconfiguration"
 <!-- LayerConfiguration.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -68,13 +68,13 @@ slug: "sdk-for-android-explore-layerconfiguration"
 <div class="block"><p>A class to configure which layers should be enabled or disabled in the OCM map data.
  Disabling a layer allows to reduce the amount of data that will be
  downloaded or prefetched from the internet, for example, when panning the map view online or when downloading maps for offline use.
- <p><code>LayerConfiguration</code> changes made via <a href="sdk-for-android-explore-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a> require <code>sdk.maploader.MapUpdater</code> to align previously downloaded content.
+ </p><p><code>LayerConfiguration</code> changes made via <a href="sdk-for-android-explore-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a> require <code>sdk.maploader.MapUpdater</code> to align previously downloaded content.
  To ensure that the changes in <a href="sdk-for-android-explore-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a> affect the map data,
  it is recommended to trigger a map update. Without calling <code>mapUpdater.updateCatalog(...)</code>,
  the adjustments will apply only to future map downloads and will not impact the currently installed map data, either in the cache or in the persisted storage.
  Note that calling <code>updateCatalog(...)</code> will
  update the version, only when a map update is available in the catalog.
- <p><strong>Notes</strong>
+ </p><p><strong>Notes</strong>
 <ul>
 <li>
 <p>The <code>LayerConfiguration</code> is only available for the Navigate licenses that contains the offline maps
@@ -94,12 +94,12 @@ slug: "sdk-for-android-explore-layerconfiguration"
  disable only one feature, then all other features need to be present, or they will be also disabled.
  </p></li>
 </ul>
-<p>The <code>LayerConfiguration</code> controls which content will be subject of
+</p><p>The <code>LayerConfiguration</code> controls which content will be subject of
  <ul>
 <li>map download for features in <code>enabledFeatures()</code>,</li>
 <li>explicit prefetching using <code>sdk.prefetcher.RoutePrefetcher</code>, <code>sdk.prefetcher.PolygonPrefetcher</code> and
  implicit prefetching, such as when displaying a map view, for features in <code>implicitlyPrefetchedFeatures()</code>.</li>
-</ul></p></p></p></p></div>
+</ul></p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -216,18 +216,18 @@ slug: "sdk-for-android-explore-layerconfiguration"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt;</span> <span class="element-name">implicitlyPrefetchedFeatures</span></div>
 <div class="block"><p>Specifies the list of features enabled for implicit and explicit map prefetch.
  Implicit map prefetch will download map content for implicit prefetch features when showing a map in the MapView.
- <p>Allows to specify an empty list, effectively disabling implicit prefetching. In this case,
+ </p><p>Allows to specify an empty list, effectively disabling implicit prefetching. In this case,
  the system will prioritize minimal network usage, at the cost of reduced offline map availability.
  When disabling certain implicitly prefetched features, less data will be prefetched when the map is rendered. Map
  data that was already cached will not be removed until the least recently used strategy (LRU)
  applies. That means you cannot remove any content from the map cache by updating the
  <code>LayerConfiguration</code>. However, for new map data, it will be applied.
- <p>By default the list contains:
+ </p><p>By default the list contains:
  <ul>
 <li><a href="sdk-for-android-explore-layerconfiguration.feature#NAVIGATION"><code>LayerConfiguration.Feature.NAVIGATION</code></a></li>
 </ul>
-<p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></p></p></div>
+</p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 </li>
 </ul>
@@ -271,18 +271,18 @@ slug: "sdk-for-android-explore-layerconfiguration"
  Empty list disables map download, as no map content specified for download in this case.</p></dd>
 <dd><code>implicitlyPrefetchedFeatures</code> - <p>Specifies the list of features enabled for implicit and explicit map prefetch.
  Implicit map prefetch will download map content for implicit prefetch features when showing a map in the MapView.
- <p>Allows to specify an empty list, effectively disabling implicit prefetching. In this case,
+ </p><p>Allows to specify an empty list, effectively disabling implicit prefetching. In this case,
  the system will prioritize minimal network usage, at the cost of reduced offline map availability.
  When disabling certain implicitly prefetched features, less data will be prefetched when the map is rendered. Map
  data that was already cached will not be removed until the least recently used strategy (LRU)
  applies. That means you cannot remove any content from the map cache by updating the
  <code>LayerConfiguration</code>. However, for new map data, it will be applied.
- <p>By default the list contains:
+ </p><p>By default the list contains:
  <ul>
 <li><a href="sdk-for-android-explore-layerconfiguration.feature#NAVIGATION"><code>LayerConfiguration.Feature.NAVIGATION</code></a></li>
 </ul>
-<p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></p></p></dd>
+</p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></dd>
 </dl>
 </section>
 </li>
@@ -323,8 +323,8 @@ slug: "sdk-for-android-explore-layerconfiguration"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

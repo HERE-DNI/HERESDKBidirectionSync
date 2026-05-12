@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-sectiontransportmode"
 <!-- SectionTransportMode.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -313,8 +313,8 @@ not permitted.)</div>
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

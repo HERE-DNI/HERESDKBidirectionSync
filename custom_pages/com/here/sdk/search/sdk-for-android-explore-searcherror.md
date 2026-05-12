@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-searcherror"
 <!-- SearchError.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -416,8 +416,8 @@ the order they are declared.</div>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">MAP_NOT_READY</span></div>
 <div class="block"><p>Offline map data is incomplete for the requested operation.
  Regions are not downloaded or are in the <code>Pending</code> state.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 </li>
 <li>
@@ -426,8 +426,8 @@ the order they are declared.</div>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a></span> <span class="element-name">LAYERS_NOT_DOWNLOADED</span></div>
 <div class="block"><p>Downloaded regions missing <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#OFFLINE_SEARCH_GLOBAL"><code>LayerConfiguration.Feature.OFFLINE_SEARCH_GLOBAL</code></a>
  feature. Update or redownload regions with enabled feature.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 </li>
 </ul>
@@ -478,8 +478,8 @@ not permitted.)</div>
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

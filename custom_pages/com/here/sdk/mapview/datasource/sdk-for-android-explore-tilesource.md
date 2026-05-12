@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-tilesource"
 <!-- TileSource.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -67,8 +67,8 @@ slug: "sdk-for-android-explore-tilesource"
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">TileSource</span></div>
 <div class="block"><p>A source of tiles.
  The implementations must be thread-safe.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -211,7 +211,7 @@ slug: "sdk-for-android-explore-tilesource"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a>&gt;</span> <span class="element-name">getStorageLevels</span>()</div>
 <div class="block"><p>Gets the storage levels available for this data source. Supported range [0, 31].
- <p>At least one level must be available for this to be used as a source of data.</p></p></div>
+ </p><p>At least one level must be available for this to be used as a source of data.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The storage levels available for this data source. Supported range [0, 31].</p></dd>
@@ -227,8 +227,8 @@ slug: "sdk-for-android-explore-tilesource"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

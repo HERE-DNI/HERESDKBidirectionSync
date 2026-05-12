@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-categoryquery-area"
 <!-- CategoryQuery.Area.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -200,7 +200,7 @@ slug: "sdk-for-android-explore-categoryquery-area"
 </span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a></span> <span class="element-name">corridorArea</span></div>
 <div class="block"><p>Geographic corridor area in which to provide the most relevant places.
  The contained polyline and half-width define the area that will be used in a search query.
- <p>When used with <code>SearchEngine</code>, the polyline is compressed and sent.
+ </p><p>When used with <code>SearchEngine</code>, the polyline is compressed and sent.
  More complex polylines with large amounts of coordinates and with smaller
  half-width may have the less relevant part removed, such as the one far away from the
  search center. This usually makes no difference, because there will be enough POIs near
@@ -209,9 +209,9 @@ slug: "sdk-for-android-explore-categoryquery-area"
  For example: Route between New York and Chicago with half-width 800 will be added to request
  without removing the far away part, but route of the same length (around 360km) between
  Milan (Italy) and Konstanz (Germany) will have the far away part removed due to its complexity.
- <p>When <a href="#corridorArea"><code>corridorArea</code></a> is provided,
+ </p><p>When <a href="#corridorArea"><code>corridorArea</code></a> is provided,
  <a href="#areaCenter"><code>areaCenter</code></a> has to be within it, otherwise
- <a href="#areaCenter"><code>areaCenter</code></a> is ignored when searching.</p></p></p></div>
+ <a href="#areaCenter"><code>areaCenter</code></a> is ignored when searching.</p></div>
 </section>
 </li>
 </ul>
@@ -273,7 +273,7 @@ slug: "sdk-for-android-explore-categoryquery-area"
  <a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</span></div>
 <div class="block"><p>Constructs a new instance of this class from provided parameters.
  The given corridor and center define the area that will be used in the search query.
- <p>When used with <code>SearchEngine</code>, the polyline is compressed and sent.
+ </p><p>When used with <code>SearchEngine</code>, the polyline is compressed and sent.
  More complex polylines with large amounts of coordinates and with smaller
  half-width may have the less relevant part removed, such as the one far away from the
  search center. This usually makes no difference, because there will be enough POIs near
@@ -282,7 +282,7 @@ slug: "sdk-for-android-explore-categoryquery-area"
  For example: Route between New York and Chicago with half-width 800 will be added to request
  without removing the far away part, but route of the same length (around 360km) between
  Milan (Italy) and Konstanz (Germany) will have the far away part removed due to its complexity.
- <p>The area center has to be within the corridor, otherwise it is ignored.</p></p></p></div>
+ </p><p>The area center has to be within the corridor, otherwise it is ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>corridorArea</code> - <p>Geographic corridor area in which to provide the most relevant places.</p></dd>
@@ -327,8 +327,8 @@ slug: "sdk-for-android-explore-categoryquery-area"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

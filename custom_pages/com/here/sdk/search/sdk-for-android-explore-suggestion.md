@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-suggestion"
 <!-- Suggestion.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -72,8 +72,8 @@ slug: "sdk-for-android-explore-suggestion"
  Suggestions (please check <a href="sdk-for-android-explore-suggestiontype" title="enum class in com.here.sdk.search"><code>SuggestionType</code></a>) are either:
  Place: <a href="sdk-for-android-explore-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a>
  Query: <a href="sdk-for-android-explore-suggestiontype#CHAIN"><code>SuggestionType.CHAIN</code></a> or <a href="sdk-for-android-explore-suggestiontype#CATEGORY"><code>SuggestionType.CATEGORY</code></a>
-<p>With "Place" you get data for a concrete place in the world.
- With "Query" something to follow-up, a way to perform more focused search.</p></p></div>
+</p><p>With "Place" you get data for a concrete place in the world.
+ With "Query" something to follow-up, a way to perform more focused search.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -177,7 +177,7 @@ slug: "sdk-for-android-explore-suggestion"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-place" title="class in com.here.sdk.search">Place</a></span> <span class="element-name">getPlace</span>()</div>
 <div class="block"><p>Gets the suggested place item.
- <p>Available only for <a href="sdk-for-android-explore-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a>.</p></p></div>
+ </p><p>Available only for <a href="sdk-for-android-explore-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The suggested place.</p></dd>
@@ -190,13 +190,13 @@ slug: "sdk-for-android-explore-suggestion"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getId</span>()</div>
 <div class="block"><p>Gets the suggested item id.
- <p>For online search, suggestion of type <a href="sdk-for-android-explore-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a>
+ </p><p>For online search, suggestion of type <a href="sdk-for-android-explore-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a>
  will have Suggestion.id same as Place.id.
  For offline search, only suggestion of type <a href="sdk-for-android-explore-suggestiontype#CHAIN"><code>SuggestionType.CHAIN</code></a>,
  will have this property filled with identifier number of an associated chain.
  For example, the chain ID "8778" corresponds to the chain name "ABC Shop".
  For other types, <a href="sdk-for-android-explore-suggestiontype#PLACE"><code>SuggestionType.PLACE</code></a> and <a href="sdk-for-android-explore-suggestiontype#CATEGORY"><code>SuggestionType.CATEGORY</code></a>
- this property will be null.</p></p></div>
+ this property will be null.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The unique id of suggested item. It can be used to query further information.</p></dd>
@@ -209,8 +209,8 @@ slug: "sdk-for-android-explore-suggestion"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getHref</span>()</div>
 <div class="block"><p>Gets the direct link for Discover query.
- <p>Available only for <a href="sdk-for-android-explore-suggestiontype#CHAIN"><code>SuggestionType.CHAIN</code></a> and <a href="sdk-for-android-explore-suggestiontype#CATEGORY"><code>SuggestionType.CATEGORY</code></a>.
- This is not supported in offline search.</p></p></div>
+ </p><p>Available only for <a href="sdk-for-android-explore-suggestiontype#CHAIN"><code>SuggestionType.CHAIN</code></a> and <a href="sdk-for-android-explore-suggestiontype#CATEGORY"><code>SuggestionType.CATEGORY</code></a>.
+ This is not supported in offline search.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Direct URL for precise query.</p></dd>
@@ -226,8 +226,8 @@ slug: "sdk-for-android-explore-suggestion"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

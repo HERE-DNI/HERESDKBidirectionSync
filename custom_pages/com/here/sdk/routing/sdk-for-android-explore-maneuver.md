@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-maneuver"
 <!-- Maneuver.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -234,8 +234,8 @@ slug: "sdk-for-android-explore-maneuver"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span class="element-name">getExitSignTexts</span>()</div>
 <div class="block"><p>Gets the textual attributes of the exit sign. These might contain exit number(s) and/or name(s).
- <p>These attributes are only available for the Navigate license.
- Otherwise, the attributes are always empty.</p></p></div>
+ </p><p>These attributes are only available for the Navigate license.
+ Otherwise, the attributes are always empty.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The textual attributes of the exit sign. These might contain exit number(s) and/or name(s).</p></dd>
@@ -259,8 +259,8 @@ slug: "sdk-for-android-explore-maneuver"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a></span> <span class="element-name">getRoadTexts</span>()</div>
 <div class="block"><p>Gets the textual attributes of the current road containing road names, road numbers and signpost direction (towards) information.
- <p><strong>Note:</strong> These attributes are only available for the Navigate license.
- Otherwise, the attributes are always empty.</p></p></div>
+ </p><p><strong>Note:</strong> These attributes are only available for the Navigate license.
+ Otherwise, the attributes are always empty.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The textual attributes of the current road containing road names, road numbers and signpost direction (towards) information.</p></dd>
@@ -273,8 +273,8 @@ slug: "sdk-for-android-explore-maneuver"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-roadtexts" title="class in com.here.sdk.routing">RoadTexts</a></span> <span class="element-name">getNextRoadTexts</span>()</div>
 <div class="block"><p>Gets the textual attributes of the next road containing the corresponding road name(s) and road number(s) after the maneuver point.
- <p>These attributes are only available for the Navigate license.
- Otherwise, the attributes are always empty.</p></p></div>
+ </p><p>These attributes are only available for the Navigate license.
+ Otherwise, the attributes are always empty.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The textual attributes of the next road containing the corresponding road name(s) and road number(s) after the maneuver point.</p></dd>
@@ -299,9 +299,9 @@ slug: "sdk-for-android-explore-maneuver"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-localizedtexts" title="class in com.here.sdk.core">LocalizedTexts</a></span> <span class="element-name">getIntersectionNames</span>()</div>
 <div class="block"><p>Gets the textual attributes of the intersection.
- <p>These attributes are only available for the Navigate license.
+ </p><p>These attributes are only available for the Navigate license.
  Otherwise, the attributes are always empty.
- <strong>Note:</strong> Routes calculated with OfflineRoutingEngine are not supported.</p></p></div>
+ <strong>Note:</strong> Routes calculated with OfflineRoutingEngine are not supported.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The textual attributes of the intersection.</p></dd>
@@ -315,8 +315,8 @@ slug: "sdk-for-android-explore-maneuver"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getText</span>()</div>
 <div class="block"><p>Gets the maneuver instruction. The text is formatted and localized as specified via
  <a href="sdk-for-android-explore-routetextoptions" title="class in com.here.sdk.routing"><code>RouteTextOptions</code></a>.
- <p><strong>Note for users of the Navigate license:</strong> This text is meant to be displayed in a preview context, whereas real-time <code>EventTextListener</code> texts are meant to be used
- for spoken voice announcements during a trip.</p></p></div>
+ </p><p><strong>Note for users of the Navigate license:</strong> This text is meant to be displayed in a preview context, whereas real-time <code>EventTextListener</code> texts are meant to be used
+ for spoken voice announcements during a trip.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The maneuver instruction. The text is formatted and localized as specified via
@@ -340,9 +340,9 @@ slug: "sdk-for-android-explore-maneuver"
 <h3>getSpanIndex</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">int</span> <span class="element-name">getSpanIndex</span>()</div>
 <div class="block"><p>Gets the index over <a href="sdk-for-android-explore-section#getSpans()"><code>Section.getSpans()</code></a> indicating the first span after the maneuver point.
- <p><strong>Note:</strong> The span index for the last maneuvers (those maneuvers with maneuver action set to
+ </p><p><strong>Note:</strong> The span index for the last maneuvers (those maneuvers with maneuver action set to
  <a href="sdk-for-android-explore-maneuveraction#ARRIVE"><code>ManeuverAction.ARRIVE</code></a>) cannot be used, since these maneuvers are placed after the last span of the route and
- the span index for them would be greater than the span list size.</p></p></div>
+ the span index for them would be greater than the span list size.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Index over <a href="sdk-for-android-explore-section#getSpans()"><code>Section.getSpans()</code></a> indicating the first span after the maneuver point.</p></dd>
@@ -367,11 +367,11 @@ slug: "sdk-for-android-explore-maneuver"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">getTurnAngleInDegrees</span>()</div>
 <div class="block"><p>Gets the angle of the turn component of the maneuver. The value is in degrees and from -180 to 180.
- <p>The angle increases clockwise and small values are used for going straight, i.e. a positive number
+ </p><p>The angle increases clockwise and small values are used for going straight, i.e. a positive number
  means there is a right turn and a negative number is a left turn.
  Some maneuvers like Depart, Arrive and Roundabout pass doesn't have a well defined angle, so the value
  is omitted.
- <strong>Note:</strong> These attributes are only available for the Navigate license.</p></p></div>
+ <strong>Note:</strong> These attributes are only available for the Navigate license.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The angle of the turn component of the maneuver.</p></dd>
@@ -384,7 +384,7 @@ slug: "sdk-for-android-explore-maneuver"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">getRoundaboutAngleInDegrees</span>()</div>
 <div class="block"><p>The angle is estimated between the incoming and outgoing route parts before entering the actual roundabout.
- <p>This is done to provide a better orientation for drivers. For better results, the incoming and outcoming route
+ </p><p>This is done to provide a better orientation for drivers. For better results, the incoming and outcoming route
  parts can be around 50 meters in length. In addition, these parts lie usually around 30 meters away from
  the actual roundabout. Therefore, the resulting arc does not necessarily represent the exact curved path a
  vehicle has to follow within a roundabout from the point of entry to the point of exit. Instead, it reflects
@@ -394,7 +394,7 @@ slug: "sdk-for-android-explore-maneuver"
  actions. Both maneuvers have the same value. When the incoming or outgoing route parts are curvy or when the
  roundabout itself is not representing a perfect circle, then the accuracy of the angle may be
  compromised.
- <strong>Note:</strong> These attributes are only available for the Navigate license.</p></p></div>
+ <strong>Note:</strong> These attributes are only available for the Navigate license.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The angle is estimated between the incoming and outgoing route parts before entering the actual roundabout.</p></dd>
@@ -410,8 +410,8 @@ slug: "sdk-for-android-explore-maneuver"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

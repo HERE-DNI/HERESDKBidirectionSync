@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-section"
 <!-- Section.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -69,10 +69,10 @@ slug: "sdk-for-android-explore-section"
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>A section is a part of the route between two stopovers.
  A stopover is a location on the route where a stop is made.
- <p><strong>Note:</strong> A section contains a list of <a href="sdk-for-android-explore-sectionnotice" title="class in com.here.sdk.routing"><code>SectionNotice</code></a> objects that describe
+ </p><p><strong>Note:</strong> A section contains a list of <a href="sdk-for-android-explore-sectionnotice" title="class in com.here.sdk.routing"><code>SectionNotice</code></a> objects that describe
  <em>potential issues</em> after the route was calculated. If the list is non-empty, it
  is recommended to evaluate possible violations against the requested route options
- and reject the route if deemed necessary.</p></p></div>
+ and reject the route if deemed necessary.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -305,7 +305,7 @@ slug: "sdk-for-android-explore-section"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-routeplace" title="class in com.here.sdk.routing">RoutePlace</a></span> <span class="element-name">getArrivalPlace</span>()</div>
 <div class="block"><p>Gets the arrival place.
- <p>Describes the arrival place.</p></p></div>
+ </p><p>Describes the arrival place.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The arrival place.</p></dd>
@@ -424,7 +424,7 @@ slug: "sdk-for-android-explore-section"
 <div class="block"><p>Gets all the tolls for this section. Note that tolls are found depending on the
  transport mode. For example, if pedestrian or bicycle transport mode specified, route sections have no tolls.
  Indoor route sections have no tolls, too.
- <p>Note that tolls are found depending on the transport mode.
+ </p><p>Note that tolls are found depending on the transport mode.
  For example, if pedestrian or bicycle transport mode specified, route sections have no tolls. Indoor
  route sections have no tolls, too.
  <strong>Note</strong>: If you're using the <code>OfflineRoutingEngine</code>, be aware that this feature is
@@ -432,7 +432,7 @@ slug: "sdk-for-android-explore-section"
  Additionally, this feature and related APIs may be updated in future releases
  without going through the deprecation process. Note that the <code>OfflineRoutingEngine</code>
  is only available with the Navigate license. If you're using the
- <code>RoutingEngine</code>, this feature is considered to be stable.</p></p></div>
+ <code>RoutingEngine</code>, this feature is considered to be stable.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>All the tolls for this section.</p></dd>
@@ -515,8 +515,8 @@ slug: "sdk-for-android-explore-section"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

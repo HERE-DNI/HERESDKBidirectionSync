@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mapscenelights-category"
 <!-- MapSceneLights.Category.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -78,9 +78,9 @@ slug: "sdk-for-android-explore-mapscenelights-category"
 <div class="block"><p>The scene uses three categories of lighting which are:
  Main light, Back light and Rim light.
  These lights are directional lights.
- <p>The properties of all lights have an impact on the shading of 3D objects, for instance, extruded buildings within the scene.
+ </p><p>The properties of all lights have an impact on the shading of 3D objects, for instance, extruded buildings within the scene.
  However, shadow casting is only affected by the direction of the main light.
- <p>Category primarily serves as an identifier type for managing the lights.</p></p></p></div>
+ </p><p>Category primarily serves as an identifier type for managing the lights.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -227,8 +227,8 @@ not permitted.)</div>
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

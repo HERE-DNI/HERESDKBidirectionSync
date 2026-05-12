@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-certificatesettings"
 <!-- CertificateSettings.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -256,8 +256,8 @@ slug: "sdk-for-android-explore-certificatesettings"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

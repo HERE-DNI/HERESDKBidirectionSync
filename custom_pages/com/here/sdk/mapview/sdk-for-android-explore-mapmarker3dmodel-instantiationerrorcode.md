@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mapmarker3dmodel-instantiationerrorcode"
 <!-- MapMarker3DModel.InstantiationErrorCode.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -200,8 +200,8 @@ not permitted.)</div>
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

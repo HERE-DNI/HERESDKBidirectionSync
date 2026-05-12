@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-waypoint"
 <!-- Waypoint.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -341,8 +341,8 @@ slug: "sdk-for-android-explore-waypoint"
  Waypoint coordinates need to be on the segment, otherwise waypoint will be matched ignoring the segment hint.
  This parameter can be used when the waypoint is too close to more than one segment to force matching to a specific one.
  Only topology segment id and travel direction are used to define the segment hint
- <p><strong>Note:</strong>
- The feature is not supported by the <code>OfflineRoutingEngine</code>.</p></p></div>
+ </p><p><strong>Note:</strong>
+ The feature is not supported by the <code>OfflineRoutingEngine</code>.</p></div>
 </section>
 </li>
 <li>
@@ -384,8 +384,8 @@ slug: "sdk-for-android-explore-waypoint"
 <li>This feature is supported in transport modes of <a href="sdk-for-android-explore-transport-transportmode#CAR"><code>TransportMode.CAR</code></a>, <a href="sdk-for-android-explore-transport-transportmode#TAXI"><code>TransportMode.TAXI</code></a>, or
  <a href="sdk-for-android-explore-transport-transportmode#TRUCK"><code>TransportMode.TRUCK</code></a>.</li>
 </ul>
-<p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></div>
+</p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 </li>
 </ul>
@@ -555,8 +555,8 @@ slug: "sdk-for-android-explore-waypoint"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

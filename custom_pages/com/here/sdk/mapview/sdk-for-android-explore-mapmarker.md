@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mapmarker"
 <!-- MapMarker.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -70,15 +70,15 @@ slug: "sdk-for-android-explore-mapmarker"
 <div class="block"><p><code>MapMarker</code> is used to draw images on the map, for example to mark a specific location.
  By default, the marker is centered on the given geographic coordinates.
  Markers keep their size regardless of the current zoom level of the map view.
- <p>The image to be displayed is represented by <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview"><code>MapImage</code></a> object. For performance reasons,
+ </p><p>The image to be displayed is represented by <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview"><code>MapImage</code></a> object. For performance reasons,
  it is highly recommended to reuse a single instance of the image when creating multiple
  identical markers.
- <p>To display the map marker, it needs to be added to the scene using <a href="sdk-for-android-explore-mapscene#addMapMarker(com.here.sdk.mapview.MapMarker)"><code>MapScene.addMapMarker(com.here.sdk.mapview.MapMarker)</code></a>.
+ </p><p>To display the map marker, it needs to be added to the scene using <a href="sdk-for-android-explore-mapscene#addMapMarker(com.here.sdk.mapview.MapMarker)"><code>MapScene.addMapMarker(com.here.sdk.mapview.MapMarker)</code></a>.
  To stop displaying it, remove it from the scene using <a href="sdk-for-android-explore-mapscene#removeMapMarker(com.here.sdk.mapview.MapMarker)"><code>MapScene.removeMapMarker(com.here.sdk.mapview.MapMarker)</code></a>.
- <p>The display of a map marker is only guaranteed in case its origin is within the viewport.
+ </p><p>The display of a map marker is only guaranteed in case its origin is within the viewport.
  At the moment, this is a known limitation that mostly affects map markers which are visually
  large and cover a sizeable part of the viewport.
- <p><strong>Note:</strong>
+ </p><p><strong>Note:</strong>
  Due to technical limitations using the MapMarkers API to add a very large number of markers
  (several thousands, especially 10000+) is not recommended. Adding this many markers will have a
  negative impact on the performance leading to stuttering of the app and lower frame rates.
@@ -87,7 +87,7 @@ slug: "sdk-for-android-explore-mapmarker"
  camera viewport using <a href="sdk-for-android-explore-mapcamera#getBoundingBox()"><code>MapCamera.getBoundingBox()</code></a> (it may be extended)
  and then use the method <a href="sdk-for-android-explore-core-geobox#contains(com.here.sdk.core.GeoCoordinates)"><code>GeoBox.contains(GeoCoordinates)</code></a> in combination with
  <a href="sdk-for-android-explore-mapcamera.state#distanceToTargetInMeters"><code>MapCamera.State.distanceToTargetInMeters</code></a> to determine which MapMarkers are actually visible
- to the user in the current camera viewport and thus need to be added to the map.</p></p></p></p></p></div>
+ to the user in the current camera viewport and thus need to be added to the map.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -305,7 +305,7 @@ slug: "sdk-for-android-explore-mapmarker"
  @NonNull
  <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a> image)</span></div>
 <div class="block"><p>Creates an instance of a marker at given coordinates, represented by specified image.
- <p>The altitude component of the coordinates is ignored.</p></p></div>
+ </p><p>The altitude component of the coordinates is ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>coordinates</code> - <p>The marker's geographical coordinates.</p></dd>
@@ -323,7 +323,7 @@ slug: "sdk-for-android-explore-mapmarker"
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> text)</span></div>
 <div class="block"><p>Creates a <code>MapMarker</code> instance at given coordinates with specified image and text and a default text style.
- <p>The altitude component of the coordinates is ignored.</p></p></div>
+ </p><p>The altitude component of the coordinates is ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>coordinates</code> - <p>The marker's geographical coordinates.</p></dd>
@@ -343,13 +343,13 @@ slug: "sdk-for-android-explore-mapmarker"
  <a href="sdk-for-android-explore-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor)</span></div>
 <div class="block"><p>Creates an instance of a marker at given coordinates, represented by specified image,
  with anchor point specifying how the image is positioned relative to the marker's coordinates.
- <p>The anchor is a way of specifying position offset relative to image's dimensions on the screen.
+ </p><p>The anchor is a way of specifying position offset relative to image's dimensions on the screen.
  For example, (0, 0) places the top-left corner of the image at the marker's coordinates.
  (1, 1) would place the bottom-right corner of the image at the marker's coordinates.
  (0.5, 0.5) which is the default value would center the image at the marker's coordinates.
  Values outside the 0..1 range are also allowed, for example (0.5, 2) would display the image
  centered horizontally with its bottom edge above the marker's coordinates at the distance
- in pixels that is equal to the height of the image.</p></p></div>
+ in pixels that is equal to the height of the image.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>coordinates</code> - <p>The marker's geographical coordinates.</p></dd>
@@ -375,9 +375,9 @@ slug: "sdk-for-android-explore-mapmarker"
  @Nullable
  <a href="sdk-for-android-explore-animation-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a> animationListener)</span></div>
 <div class="block"><p>Starts animation of this map marker according to provided <a href="sdk-for-android-explore-animation-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a>.
- <p>The <code>MapMarkerAnimation</code> may be shared between multiple instances of <code>MapMarker</code>.
- <p>Starting animation on one map marker does not influence any ongoing animations on other map markers.
- Any ongoing animation of this marker instance will get cancelled.</p></p></p></div>
+ </p><p>The <code>MapMarkerAnimation</code> may be shared between multiple instances of <code>MapMarker</code>.
+ </p><p>Starting animation on one map marker does not influence any ongoing animations on other map markers.
+ Any ongoing animation of this marker instance will get cancelled.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>animation</code> - <p>The animation to start, may be used for multiple different map markers.</p></dd>
@@ -391,8 +391,8 @@ slug: "sdk-for-android-explore-mapmarker"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">cancelAnimation</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-animation-mapmarkeranimation" title="class in com.here.sdk.animation">MapMarkerAnimation</a> animation)</span></div>
 <div class="block"><p>Cancels single ongoing animation.
- <p>Does nothing if animation was not started for this map marker.
- <p>Does not cancel other animations if the same <a href="sdk-for-android-explore-animation-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a> object was applied to multiple <code>MapMarker</code>s.</p></p></p></div>
+ </p><p>Does nothing if animation was not started for this map marker.
+ </p><p>Does not cancel other animations if the same <a href="sdk-for-android-explore-animation-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a> object was applied to multiple <code>MapMarker</code>s.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>animation</code> - <p>The animation to cancel.</p></dd>
@@ -466,10 +466,10 @@ slug: "sdk-for-android-explore-mapmarker"
 <h3>setOverlapAllowed</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOverlapAllowed</span><wbr/><span class="parameters">(boolean value)</span></div>
 <div class="block"><p>Sets whether the marker is allowed to overlap with other markers.
- <p>If <code>false</code>, it will disappear the moment it overlaps another marker that has
+ </p><p>If <code>false</code>, it will disappear the moment it overlaps another marker that has
  a higher visibility priority. A marker that allows overlap will always be drawn.
  Among markers that don't allow overlap, the one with the highest draw order has
- priority. Marker that is hidden due to overlapping with other markers is not pickable.</p></p></div>
+ priority. Marker that is hidden due to overlapping with other markers is not pickable.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>Determines whether or not the marker can overlap other markers.</p></dd>
@@ -493,10 +493,10 @@ slug: "sdk-for-android-explore-mapmarker"
 <h3>setTextOptional</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setTextOptional</span><wbr/><span class="parameters">(boolean value)</span></div>
 <div class="block"><p>Sets whether the marker is allowed to appear without text.
- <p>Controls whenever <code>MapMarker</code> can be shown as icon only when <a href="#isOverlapAllowed()"><code>isOverlapAllowed()</code></a>
+ </p><p>Controls whenever <code>MapMarker</code> can be shown as icon only when <a href="#isOverlapAllowed()"><code>isOverlapAllowed()</code></a>
  is <code>false</code>, has no effect otherwise. If <code>false</code> then the <code>MapMarker</code> will not appear
  when icon or text are blocked by other labels.
- If <code>true</code>, icon will appear even if the text part is blocked by other labels.</p></p></div>
+ If <code>true</code>, icon will appear even if the text part is blocked by other labels.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>Determines if the marker can be displayed with icon and without text.</p></dd>
@@ -519,10 +519,10 @@ slug: "sdk-for-android-explore-mapmarker"
 <h3>setDrawOrder</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setDrawOrder</span><wbr/><span class="parameters">(int value)</span></div>
 <div class="block"><p>Sets draw order of this marker relative to other markers.
- <p>Markers with higher draw order value are drawn on top of markers with lower draw order.
+ </p><p>Markers with higher draw order value are drawn on top of markers with lower draw order.
  In case multiple markers have the same draw order value
  then the order in which they were added to the scene matters. Last added marker is drawn on top.
- <p>Allowed range is [0, 1023]. Values outside this range will be clamped. The default value is 0.</p></p></p></div>
+ </p><p>Allowed range is [0, 1023]. Values outside this range will be clamped. The default value is 0.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The draw order of this marker relative to other markers.</p></dd>
@@ -573,12 +573,12 @@ slug: "sdk-for-android-explore-mapmarker"
  <a href="sdk-for-android-explore-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> value)</span></div>
 <div class="block"><p>Sets anchor point of the marker image which specifies the position offset relative
  to the marker's coordinates.
- <p>For example, (0, 0) places the top-left corner of the image at the marker's coordinates.
+ </p><p>For example, (0, 0) places the top-left corner of the image at the marker's coordinates.
  (1, 1) would place the bottom-right corner of the image at the marker's coordinates.
  (0.5, 0.5) which is the default value would center the image at the marker's coordinates.
  Values outside the 0..1 range are also allowed, for example (0.5, 2) would display the image
  centered horizontally with its bottom edge above the marker's coordinates at the distance
- in pixels that is equal to the height of the image.</p></p></div>
+ in pixels that is equal to the height of the image.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The anchor point for the marker image which specifies the position offset relative
@@ -603,9 +603,9 @@ slug: "sdk-for-android-explore-mapmarker"
 <h3>setOpacity</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOpacity</span><wbr/><span class="parameters">(double value)</span></div>
 <div class="block"><p>Sets the opacity of the marker image.
- <p>Provided value is clamped to the range of [0.0, 1.0]. Default value is 1.0,
+ </p><p>Provided value is clamped to the range of [0.0, 1.0]. Default value is 1.0,
  which means marker is displayed with the default opacity of the image.
- <p>Markers with opacity value set to 0.0 are still on the map and are considered for picking.</p></p></p></div>
+ </p><p>Markers with opacity value set to 0.0 are still on the map and are considered for picking.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>Opacity, the factor applied to the alpha channel of the marker image.</p></dd>
@@ -630,12 +630,12 @@ slug: "sdk-for-android-explore-mapmarker"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setFadeDuration</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a> value)</span></div>
 <div class="block"><p>Sets duration of a fade-in effect on marker addition to a scene or a fade-out effect on marker removal from a scene.
- <p>Provided value is clamped in range [0.0, 10.0] seconds. Default value is 0 seconds which means the effect is disabled
+ </p><p>Provided value is clamped in range [0.0, 10.0] seconds. Default value is 0 seconds which means the effect is disabled
  and marker is added/removed immediately without any animation.
  Fade-in effect is also applied when marker leaves and then re-enters screen area.
- <p>Change to this property is made asynchronously and is not guaranteed
+ </p><p>Change to this property is made asynchronously and is not guaranteed
  to take effect on the next rendered frame. In particular, changing fade duration and removing
- the marker immediately after may result in the new value being ignored for this removal.</p></p></p></div>
+ the marker immediately after may result in the new value being ignored for this removal.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>Duration of a fade-in effect on marker addition to a scene or a fade-out effect on marker removal from a scene.</p></dd>
@@ -709,11 +709,11 @@ slug: "sdk-for-android-explore-mapmarker"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt; value)</span></div>
 <div class="block"><p>Sets visibility ranges for this map marker.
- <p>A range is half open - [minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range.
+ </p><p>A range is half open - [minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range.
  The map marker is visible only inside these map measure ranges.
- <p>When empty (the default), the map marker is visible without map measure restrictions.
+ </p><p>When empty (the default), the map marker is visible without map measure restrictions.
  Only <code>MapMeasureRange</code>(s) of <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> type are supported.
- <code>MapMeasureRange</code>(s) of other unsupported types will be ignored.</p></p></p></div>
+ <code>MapMeasureRange</code>(s) of other unsupported types will be ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The list of visibility ranges. The map marker is visible only inside these map measure ranges.</p></dd>
@@ -729,8 +729,8 @@ slug: "sdk-for-android-explore-mapmarker"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

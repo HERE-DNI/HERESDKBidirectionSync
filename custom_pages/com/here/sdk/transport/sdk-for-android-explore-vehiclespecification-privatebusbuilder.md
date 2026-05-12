@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-vehiclespecification-privatebusbuilder"
 <!-- VehicleSpecification.PrivateBusBuilder.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -487,8 +487,8 @@ slug: "sdk-for-android-explore-vehiclespecification-privatebusbuilder"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

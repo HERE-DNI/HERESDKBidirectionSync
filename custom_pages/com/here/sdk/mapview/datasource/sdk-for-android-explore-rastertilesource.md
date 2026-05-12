@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-rastertilesource"
 <!-- RasterTileSource.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -155,8 +155,8 @@ extends <a href="sdk-for-android-explore-tilesource" title="interface in com.her
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-evsestate"
 <!-- EVSEState.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -76,8 +76,8 @@ slug: "sdk-for-android-explore-evsestate"
  A single EVSE can only be used by a single car, so same statuses apply to other connectors as well.
  So, if one connector is in use, the whole EVSE has status charging, and other connectors cannot be used at the same time, hence they should be considered in-use as well.
  If an EVSE can allow multiple connectors to be used at the same time, it is basically multiple EVSEs merged into a single physical box or device.
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -279,8 +279,8 @@ not permitted.)</div>
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

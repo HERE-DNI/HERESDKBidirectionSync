@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-dataattributesbase"
 <!-- DataAttributesBase.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -66,8 +66,8 @@ slug: "sdk-for-android-explore-dataattributesbase"
 <hr/>
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">DataAttributesBase</span></div>
 <div class="block"><p>Interface for a collection of data attributes.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -282,8 +282,8 @@ slug: "sdk-for-android-explore-dataattributesbase"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-usagestats"
 <!-- UsageStats.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -66,8 +66,8 @@ slug: "sdk-for-android-explore-usagestats"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">UsageStats</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>A class that gathers statistics of the HERE SDK network usage for uploaded and downloaded data.
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -197,8 +197,8 @@ slug: "sdk-for-android-explore-usagestats"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

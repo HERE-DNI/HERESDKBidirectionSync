@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-taskhandle"
 <!-- TaskHandle.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -124,8 +124,8 @@ slug: "sdk-for-android-explore-taskhandle"
 <h3>isFinished</h3>
 <div class="member-signature"><span class="return-type">boolean</span> <span class="element-name">isFinished</span>()</div>
 <div class="block"><p>Gets a boolean indicating if this task is completed.
- <p>True, if this task is completed. Completion may be due to normal termination,
- an exception, or cancellation - in all of these cases, result will return <code>true</code>.</p></p></div>
+ </p><p>True, if this task is completed. Completion may be due to normal termination,
+ an exception, or cancellation - in all of these cases, result will return <code>true</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Completion indication.</p></dd>
@@ -137,7 +137,7 @@ slug: "sdk-for-android-explore-taskhandle"
 <h3>isCancelled</h3>
 <div class="member-signature"><span class="return-type">boolean</span> <span class="element-name">isCancelled</span>()</div>
 <div class="block"><p>Gets a boolean indicating if this task is cancelled.
- <p>True, if this task was canceled before it completed normally.</p></p></div>
+ </p><p>True, if this task was canceled before it completed normally.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Completion indication.</p></dd>
@@ -153,8 +153,8 @@ slug: "sdk-for-android-explore-taskhandle"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

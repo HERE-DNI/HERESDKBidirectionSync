@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-point2d"
 <!-- Point2D.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -225,8 +225,8 @@ slug: "sdk-for-android-explore-point2d"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

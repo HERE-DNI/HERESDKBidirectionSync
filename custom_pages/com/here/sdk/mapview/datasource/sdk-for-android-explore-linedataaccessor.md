@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-linedataaccessor"
 <!-- LineDataAccessor.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -68,8 +68,8 @@ slug: "sdk-for-android-explore-linedataaccessor"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">LineDataAccessor</span>
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Line data accessor used for manipulating polylines that are part of a LineDataSource.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -179,8 +179,8 @@ slug: "sdk-for-android-explore-linedataaccessor"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

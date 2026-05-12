@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-trafficdataprovider"
 <!-- TrafficDataProvider.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -70,9 +70,9 @@ slug: "sdk-for-android-explore-trafficdataprovider"
 <div class="block"><p>This interface provides traffic information from
  radio signals to other HERE SDK modules.
  For now, only the <code>OfflineRoutingEngine</code> is supported.
- <p>For more information, take a look at the <code>TrafficBroadcast</code> class, if available for your license.
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
- behaviors. Related APIs may change for new releases without a deprecation process.</p></p></p></div>
+ </p><p>For more information, take a look at the <code>TrafficBroadcast</code> class, if available for your license.
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected
+ behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -91,8 +91,8 @@ slug: "sdk-for-android-explore-trafficdataprovider"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

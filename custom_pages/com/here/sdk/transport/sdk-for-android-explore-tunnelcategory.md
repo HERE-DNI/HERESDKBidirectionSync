@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-tunnelcategory"
 <!-- TunnelCategory.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -72,9 +72,9 @@ slug: "sdk-for-android-explore-tunnelcategory"
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">TunnelCategory</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-tunnelcategory" title="enum class in com.here.sdk.transport">TunnelCategory</a>&gt;</span></div>
 <div class="block"><p>Specifies the tunnel categories.
- <p>Tunnels are categorized from B (low risk, few restrictions) to E (high risk)
+ </p><p>Tunnels are categorized from B (low risk, few restrictions) to E (high risk)
  based on their safety features and the potential danger posed by the goods
- transported through them.</p></p></div>
+ transported through them.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -237,8 +237,8 @@ not permitted.)</div>
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

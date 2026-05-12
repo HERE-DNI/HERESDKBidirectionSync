@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-transportspecification-taxibuilder"
 <!-- TransportSpecification.TaxiBuilder.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -201,8 +201,8 @@ slug: "sdk-for-android-explore-transportspecification-taxibuilder"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

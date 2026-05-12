@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mapscene"
 <!-- MapScene.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -69,7 +69,7 @@ slug: "sdk-for-android-explore-mapscene"
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Represents a map scene and exposes the functionality to manipulate its content.
  
-<p>The content of the displayed map and how it looks is specified by a
+</p><p>The content of the displayed map and how it looks is specified by a
  <a href="sdk-for-android-explore-mapscheme" title="enum class in com.here.sdk.mapview"><code>MapScheme</code></a> which is set when loading a scene with <a href="#loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"><code>loadScene(MapScheme, MapScene.LoadSceneCallback)</code></a>.
  It is also possible to load your own custom map scheme from a file bundled
  with your application. Supported file formats are:
@@ -84,35 +84,35 @@ slug: "sdk-for-android-explore-mapscene"
 </li>
 </ul>
 
-<p>Different map schemes offer different sets of features, for example showing traffic or 3D buildings.
+</p><p>Different map schemes offer different sets of features, for example showing traffic or 3D buildings.
  Some features have multiple modes of operation, but most have only one.
  <a href="#getSupportedFeatures()"><code>getSupportedFeatures()</code></a> can be used to check what features and modes are supported
  for the current scene. Features can be enabled using <a href="#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> and disabled
  with <a href="#disableFeatures(java.util.List)"><code>disableFeatures(java.util.List&lt;java.lang.String&gt;)</code></a>. Checking which features are currently enabled can be done using
  <a href="#getActiveFeatures()"><code>getActiveFeatures()</code></a>. For convenience, <a href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> and <a href="sdk-for-android-explore-mapfeaturemodes" title="class in com.here.sdk.mapview"><code>MapFeatureModes</code></a> hold
  constants for feature and mode names.
- <p>Since version 4.15.0, map features cannot be controlled using <a href="#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"><code>setLayerVisibility(java.lang.String, com.here.sdk.mapview.VisibilityState)</code></a>, since <a href="#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"><code>setLayerVisibility(java.lang.String, com.here.sdk.mapview.VisibilityState)</code></a> controls
+ </p><p>Since version 4.15.0, map features cannot be controlled using <a href="#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"><code>setLayerVisibility(java.lang.String, com.here.sdk.mapview.VisibilityState)</code></a>, since <a href="#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"><code>setLayerVisibility(java.lang.String, com.here.sdk.mapview.VisibilityState)</code></a> controls
  only visibility of the layers which are corresponding to the features enabled either by <a href="#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>
  or enabled by default for the scene.
  
-<p>A map scheme is organized in layers, which can be controlled using <a href="#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"><code>setLayerVisibility(java.lang.String, com.here.sdk.mapview.VisibilityState)</code></a>.
+</p><p>A map scheme is organized in layers, which can be controlled using <a href="#setLayerVisibility(java.lang.String,com.here.sdk.mapview.VisibilityState)"><code>setLayerVisibility(java.lang.String, com.here.sdk.mapview.VisibilityState)</code></a>.
  It's possible to change the visibility state of any map layer as long as the name is known.
- <p>Layer visibility settings persist between scene reloading.
+ </p><p>Layer visibility settings persist between scene reloading.
  
-<p>User generated content can be visualised on the map using <a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview"><code>MapPolyline</code></a>, <a href="sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview"><code>MapPolygon</code></a>, <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>,
+</p><p>User generated content can be visualised on the map using <a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview"><code>MapPolyline</code></a>, <a href="sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview"><code>MapPolygon</code></a>, <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>,
  <a href="sdk-for-android-explore-mapmarkercluster" title="class in com.here.sdk.mapview"><code>MapMarkerCluster</code></a>, <a href="sdk-for-android-explore-maparrow" title="class in com.here.sdk.mapview"><code>MapArrow</code></a>, <a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview"><code>MapMarker3D</code></a> and <a href="sdk-for-android-explore-mapimageoverlay" title="class in com.here.sdk.mapview"><code>MapImageOverlay</code></a>
  (collectively referred to as "map items"). Those can be added to and removed
  from the scene by respective add and remove methods. The render order of the map items
  is according to the list above. The order of objects within the same type can be controlled using
  the <code>setDrawOrder()</code> method of each object.
- <p>Be careful when adding a very large number of map items as this can have a negative impact on
+ </p><p>Be careful when adding a very large number of map items as this can have a negative impact on
  the performance of the app.
  To work around this limitation the following approach can be used:
  Register to map camera updates using <a href="sdk-for-android-explore-mapcamera#addListener(com.here.sdk.mapview.MapCameraListener)"><code>MapCamera.addListener(com.here.sdk.mapview.MapCameraListener)</code></a>. Query the bounding box of the
  camera viewport using <a href="sdk-for-android-explore-mapcamera#getBoundingBox()"><code>MapCamera.getBoundingBox()</code></a> (it may be extended) and then use the method
  <a href="sdk-for-android-explore-core-geobox#contains(com.here.sdk.core.GeoCoordinates)"><code>GeoBox.contains(GeoCoordinates)</code></a> in combination with <a href="sdk-for-android-explore-mapcamera.state#distanceToTargetInMeters"><code>MapCamera.State.distanceToTargetInMeters</code></a> to
  determine which map items are actually visible to the user in the current camera viewport and
- thus need to be added to the map.</p></p></p></p></p></p></p></p></div>
+ thus need to be added to the map.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -375,13 +375,13 @@ slug: "sdk-for-android-explore-mapscene"
  Any previous map scene config will be replaced. The loaded scene is cached and so any changes
  made to the scene files on disk might not get reflected on a successive call to this function.
  Instead the reloadScene API can handle such use-cases to force-update the scene.
- <p>Map features enabled or disabled using <a href="#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>
+ </p><p>Map features enabled or disabled using <a href="#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>
  and <a href="#disableFeatures(java.util.List)"><code>disableFeatures(java.util.List&lt;java.lang.String&gt;)</code></a> will be reset to defaults for the new
  scene configuration.
- <p>The callback is called on the main thread.
+ </p><p>The callback is called on the main thread.
  When recreating an activity following a device rotation, it is not necessary to call this
  method a second time. The map scheme that was loaded when the map view was initially
- created will continue to be used.</p></p></p></div>
+ created will continue to be used.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>mapScheme</code> - <p>Map scheme.</p></dd>
@@ -398,14 +398,14 @@ slug: "sdk-for-android-explore-mapscene"
  <a href="sdk-for-android-explore-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously loads a map scene described by a specified file in one of the supported formats.
  Any previous map scene config will be replaced.
- <p>When loading the same file again, consider to call <code>reloadScene()</code> instead.
- <p>Map features enabled or disabled using <a href="#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>
+ </p><p>When loading the same file again, consider to call <code>reloadScene()</code> instead.
+ </p><p>Map features enabled or disabled using <a href="#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>
  and <a href="#disableFeatures(java.util.List)"><code>disableFeatures(java.util.List&lt;java.lang.String&gt;)</code></a> will be reset to defaults for the new
  scene configuration.
- <p>The callback is called on the main thread.
+ </p><p>The callback is called on the main thread.
  When recreating an activity following a device rotation, it is not necessary to call this
  method a second time. The map scheme that was loaded when the map view was initially
- created will continue to be used.</p></p></p></p></div>
+ created will continue to be used.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>configurationFile</code> - <p>Map scheme configuration file. It must contain the whole scene configuration.
@@ -427,14 +427,14 @@ slug: "sdk-for-android-explore-mapscene"
 <div class="block"><p>Asynchronously loads a map scene described by a specified file in one of the supported formats.
  The style of the HERE watermark matching the map scheme is specified. Any previous map scene
  config will be replaced.
- <p>When loading the same file again, consider to call <code>reloadScene()</code> instead.
- <p>Map features enabled or disabled using <a href="#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>
+ </p><p>When loading the same file again, consider to call <code>reloadScene()</code> instead.
+ </p><p>Map features enabled or disabled using <a href="#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>
  and <a href="#disableFeatures(java.util.List)"><code>disableFeatures(java.util.List&lt;java.lang.String&gt;)</code></a> will be reset to defaults for the new
  scene configuration.
- <p>The callback is called on the main thread.
+ </p><p>The callback is called on the main thread.
  When recreating an activity following a device rotation, it is not necessary to call this
  method a second time. The map scheme that was loaded when the map view was initially
- created will continue to be used.</p></p></p></p></div>
+ created will continue to be used.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>configurationFile</code> - <p>Map scheme configuration file. It must contain the whole scene configuration.
@@ -453,24 +453,24 @@ slug: "sdk-for-android-explore-mapscene"
  @Nullable
  <a href="sdk-for-android-explore-mapscene.loadscenecallback" title="interface in com.here.sdk.mapview">MapScene.LoadSceneCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously loads a map scene using MapSceneLoadOptions.
- <p>This is an unified API that supports loading from either a map scheme or configuration file,
+ </p><p>This is an unified API that supports loading from either a map scheme or configuration file,
  with optional feature and watermark configuration. It's more efficient to load the scene with
  this function by specifying the list of enabled features and disabled features, compared to
  loading the scene first and enabling or disabling map features in the scene loading callback
  function.
- <p>Configuration defaults are used for features that are not part of the enabled features or
+ </p><p>Configuration defaults are used for features that are not part of the enabled features or
  disabled features parameters. When a feature is in both the enabled and disabled lists,
  the feature is considered as requested to be enabled. If the same feature is present multiple
  times in the enabled list with different modes, then the feature is considered as requested
  to be enabled, but with an unspecified mode (any of the many specified in the enabled list).
- <p>Any previous map scene config will be replaced. The callback is called on the main thread.
- <p>When recreating an activity following a device rotation, it is not necessary
+ </p><p>Any previous map scene config will be replaced. The callback is called on the main thread.
+ </p><p>When recreating an activity following a device rotation, it is not necessary
  to call this
  method a second time. The map scheme that was loaded when the map view was
  initially
  created will continue to be used.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></p></p></p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>options</code> - <p>Scene configuration options created using MapSceneLoadOptionsBuilder.</p></dd>
@@ -496,13 +496,13 @@ slug: "sdk-for-android-explore-mapscene"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolylines</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mappolyline" title="class in com.here.sdk.mapview">MapPolyline</a>&gt; mapPolylines)</span></div>
 <div class="block"><p>Adds map polylines to this map scene.
- <p><strong>Note:</strong>
+ </p><p><strong>Note:</strong>
  Due to technical limitations using the MapPolyline API to add a very large number of
  polylines (especially 1000+ also depending on their complexity) is not recommended.
  Adding this many polylines has a negative impact on the performance leading to
  stuttering of the app and lower frame rates.
  To work around this limitation add only map items which are in the current camera viewport.
- A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></p></div>
+ A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>mapPolylines</code> - <p>The map polylines to be added to this map scene.</p></dd>
@@ -546,13 +546,13 @@ slug: "sdk-for-android-explore-mapscene"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapArrow</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-maparrow" title="class in com.here.sdk.mapview">MapArrow</a> mapArrow)</span></div>
 <div class="block"><p>Adds a map arrow to this map scene.
- <p><strong>Note:</strong>
+ </p><p><strong>Note:</strong>
  Due to technical limitations using the MapArrow API to add a very large number of arrows
  (especially 1000+ also depending on their complexity) is not recommended.
  Adding this many arrows has a negative impact on the performance leading to stuttering of the
  app and lower frame rates.
  To work around this limitation add only map items which are in the current camera viewport.
- A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></p></div>
+ A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>mapArrow</code> - <p>The map arrow to be added to this map scene.</p></dd>
@@ -591,12 +591,12 @@ slug: "sdk-for-android-explore-mapscene"
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview">MapMarker</a>&gt; markers)</span></div>
 <div class="block"><p>Adds multiple map markers to this map scene. Adding the same marker instances multiple times
  has no effect. Adding markers that are already part of a map marker cluster has no effect.
- <p><strong>Note:</strong>
+ </p><p><strong>Note:</strong>
  Due to technical limitations using the MapMarkers API to add a very large number of markers
  (several thousands, especially 10000+) is not recommended. Adding this many markers will have
  a negative impact on the performance leading to stuttering of the app and lower frame rates.
  To work around this limitation add only map items which are in the current camera viewport.
- A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></p></div>
+ A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>markers</code> - <p>The list of markers to be added to this map scene.</p></dd>
@@ -670,13 +670,13 @@ slug: "sdk-for-android-explore-mapscene"
  <a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a> marker)</span></div>
 <div class="block"><p>Adds a 3D map marker to this map scene.
  Does nothing if the marker instance was already added to the scene.
- <p><strong>Note:</strong>
+ </p><p><strong>Note:</strong>
  Due to technical limitations using the MapMarker3D API to add a very large number of 3D
  markers (especially 500+ also depending on the complexity of the 3D object) is not
  recommended. Adding this many 3D markers has a negative impact on the performance leading to
  stuttering of the app and lower frame rates.
  To work around this limitation add only map items which are in the current camera viewport.
- A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></p></div>
+ A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>marker</code> - <p>The marker to be added to this map scene.</p></dd>
@@ -690,12 +690,12 @@ slug: "sdk-for-android-explore-mapscene"
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview">MapMarker3D</a>&gt; markers)</span></div>
 <div class="block"><p>Adds multiple 3D map markers to this map scene. Adding the same 3D marker instances multiple
  times has no effect.
- <p><strong>Note:</strong>
+ </p><p><strong>Note:</strong>
  Due to technical limitations, using the MapMarkers3D API to add a very large number of 3D
  markers (especially 500+) is not recommended. Adding this many markers will have a
  negative impact on the performance leading to stuttering of the app and lower frame rates.
  To work around this limitation add only map items which are in the current camera viewport.
- A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></p></div>
+ A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>markers</code> - <p>The list of 3D markers to be added to this map scene.</p></dd>
@@ -741,13 +741,13 @@ slug: "sdk-for-android-explore-mapscene"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolygon</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a> mapPolygon)</span></div>
 <div class="block"><p>Adds a map polygon to this map scene.
- <p><strong>Note:</strong>
+ </p><p><strong>Note:</strong>
  Due to technical limitations using the MapPolygon API to add a very large number of polygons
  (especially 1000+ also depending on their complexity) is not recommended.
  Adding this many polygons has a negative impact on the performance leading to stuttering of
  the app and lower frame rates.
  To work around this limitation add only map items which are in the current camera viewport.
- A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></p></div>
+ A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>mapPolygon</code> - <p>The map polygon to be added to this map scene.</p></dd>
@@ -760,13 +760,13 @@ slug: "sdk-for-android-explore-mapscene"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addMapPolygons</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mappolygon" title="class in com.here.sdk.mapview">MapPolygon</a>&gt; mapPolygons)</span></div>
 <div class="block"><p>Adds multiple map polygons to this map scene.
- <p><strong>Note:</strong>
+ </p><p><strong>Note:</strong>
  Due to technical limitations using the MapPolygon API to add a very large number of polygons
  (especially 1000+ also depending on their complexity) is not recommended.
  Adding this many polygons has a negative impact on the performance leading to stuttering of
  the app and lower frame rates.
  To work around this limitation add only map items which are in the current camera viewport.
- A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></p></div>
+ A guide on how to achieve this can be found towards the end of the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> class doc.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>mapPolygons</code> - <p>The map polygons to be added to this map scene.</p></dd>
@@ -861,9 +861,9 @@ slug: "sdk-for-android-explore-mapscene"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt;</span> <span class="element-name">getActiveFeatures</span>()</div>
 <div class="block"><p>Gets map features that are currently active. Active features are features that are either
  enabled via a call to <a href="#enableFeatures(java.util.Map)"><code>enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> or that are enabled by default in the scene.
- <p>The key to the resulting map is the name of the feature
+ </p><p>The key to the resulting map is the name of the feature
  and the value is the active mode.
- <p>Result is empty if scene has not been loaded.</p></p></p></div>
+ </p><p>Result is empty if scene has not been loaded.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The map of active features.</p></dd>
@@ -877,9 +877,9 @@ slug: "sdk-for-android-explore-mapscene"
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt;&gt;</span> <span class="element-name">getSupportedFeatures</span>()</div>
 <div class="block"><p>Gets features and all of their modes supported by the currently
  loaded scene configuration.
- <p>The key to the resulting map is the name of the feature
+ </p><p>The key to the resulting map is the name of the feature
  and the value is a list of modes for that feature.
- <p>Result is empty if scene has not been loaded.</p></p></p></div>
+ </p><p>Result is empty if scene has not been loaded.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The map of supported features and all their modes.</p></dd>
@@ -894,11 +894,11 @@ slug: "sdk-for-android-explore-mapscene"
 <div class="block"><p>Enables specified map features. Those will become active
  after next map redraw, meaning that <a href="#getActiveFeatures()"><code>getActiveFeatures()</code></a> will
  return updated list of active features only after the redraw happens.
- <p>Does not affect features that were not specified.
+ </p><p>Does not affect features that were not specified.
  Unsupported features are ignored.
- <p>May cause the current map configuration to be reloaded.
- <p>See <a href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> for feature names and <a href="sdk-for-android-explore-mapfeaturemodes" title="class in com.here.sdk.mapview"><code>MapFeatureModes</code></a> for
- feature mode names.</p></p></p></p></div>
+ </p><p>May cause the current map configuration to be reloaded.
+ </p><p>See <a href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> for feature names and <a href="sdk-for-android-explore-mapfeaturemodes" title="class in com.here.sdk.mapview"><code>MapFeatureModes</code></a> for
+ feature mode names.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>features</code> - <p>The list of features to enable, key is the name of the feature
@@ -914,10 +914,10 @@ slug: "sdk-for-android-explore-mapscene"
 <div class="block"><p>Disables specified map features. Those will become inactive
  after next map redraw, meaning that <a href="#getActiveFeatures()"><code>getActiveFeatures()</code></a> will
  return updated list of active features only after the redraw happens.
- <p>Does not affect features that were not specified.
+ </p><p>Does not affect features that were not specified.
  Unsupported features are ignored.
- <p>May cause the current map configuration to be reloaded.
- <p>See <a href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> for feature names.</p></p></p></p></div>
+ </p><p>May cause the current map configuration to be reloaded.
+ </p><p>See <a href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> for feature names.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>features</code> - <p>The names of features to disable (see <a href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a>).</p></dd>
@@ -930,9 +930,9 @@ slug: "sdk-for-android-explore-mapscene"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">reloadScene</span>()</div>
 <div class="block"><p>Asynchronously reloads the current map scene from file. This skips any cached data used internally and reloads the
  scene including any changes made to the (custom) map styles in JSON.
- <p><code>MapFeature</code> settings will be preserved.
- <p>Internal optimization checks will be skipped to ensure all custom style changes are loaded. Therefore,
- calling this method may take slightly longer than calling one of the <code>loadScene(..)</code> overloads.</p></p></p></div>
+ </p><p><code>MapFeature</code> settings will be preserved.
+ </p><p>Internal optimization checks will be skipped to ensure all custom style changes are loaded. Therefore,
+ calling this method may take slightly longer than calling one of the <code>loadScene(..)</code> overloads.</p></div>
 </section>
 </li>
 <li>
@@ -941,27 +941,27 @@ slug: "sdk-for-android-explore-mapscene"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapscenelights" title="class in com.here.sdk.mapview">MapSceneLights</a></span> <span class="element-name">getLights</span>()</div>
 <div class="block"><p>Gets a MapSceneLights instance that controls lights present in the scene.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.
- <p>Provides access to a MapSceneLights instance that controls the lights in the scene.
- <p>The behavior of the returned MapSceneLights instance depends on the state of the scene:
+ </p><p>Provides access to a MapSceneLights instance that controls the lights in the scene.
+ </p><p>The behavior of the returned MapSceneLights instance depends on the state of the scene:
  <ul>
 <li>If the scene is not loaded, the returned MapSceneLights instance will not contain any light settings, as lights are not loaded without a scene.</li>
 <li>If the scene is loaded, the returned MapSceneLights instance reflects the current light settings of the loaded scene.</li>
 </ul>
-<p>Scene Change Behavior:
+</p><p>Scene Change Behavior:
  <ul>
 <li>If the scene changes, the MapSceneLights instance will be updated to reflect the light settings of the new scene.</li>
 <li>Any user-defined settings to MapSceneLights will be overridden by the new scene's light settings when the scene changes.</li>
 </ul>
-<p>Error Handling:
+</p><p>Error Handling:
  <ul>
 <li>If the scene is loaded and the loaded scene does not utilize or specify light settings:
  <ul>
 <li>If the lights are not present, the error callback may return a NO_LIGHTS state.</li>
 </ul>
 </li>
-</ul></p></p></p></p></p></p></div>
+</ul></p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Controls lights present in the scene.</p></dd>
@@ -977,8 +977,8 @@ slug: "sdk-for-android-explore-mapscene"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

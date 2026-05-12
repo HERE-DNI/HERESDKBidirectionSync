@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-constant-values"
 <!-- constant-values.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="constants-summary-page">
+
+
 
 
 <div class="flex-box">
@@ -634,8 +634,8 @@ slug: "sdk-for-android-explore-constant-values"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

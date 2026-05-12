@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-pointdatasource"
 <!-- PointDataSource.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -69,8 +69,8 @@ slug: "sdk-for-android-explore-pointdatasource"
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Point data source allows the rendering engine access to the user provided
  geographical locations and their attributes.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -191,8 +191,8 @@ slug: "sdk-for-android-explore-pointdatasource"
  <a href="sdk-for-android-explore-pointdatasource.pointdataprocessor" title="interface in com.here.sdk.mapview.datasource">PointDataSource.PointDataProcessor</a> processor)</span></div>
 <div class="block"><p>Iterates through all the points from the data source and passes them to the
  given processor, one by one. The processor can update the point data.
- <p>The iteration stops after all points have been processed or the processor returns false
- from the process call.</p></p></div>
+ </p><p>The iteration stops after all points have been processed or the processor returns false
+ from the process call.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>processor</code> - <p>Point data processor.</p></dd>
@@ -230,8 +230,8 @@ slug: "sdk-for-android-explore-pointdatasource"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

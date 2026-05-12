@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-refreshrouteoptions"
 <!-- RefreshRouteOptions.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -80,8 +80,8 @@ slug: "sdk-for-android-explore-refreshrouteoptions"
  <a href="sdk-for-android-explore-evcaroptions#ensureReachability"><code>EVCarOptions.ensureReachability</code></a> is set to true, the route refresh request will fail as this option
  is incompatible with a fixed route shape.
  If any of the ignored options are important, consider calculating a new route instead.
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -341,8 +341,8 @@ slug: "sdk-for-android-explore-refreshrouteoptions"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

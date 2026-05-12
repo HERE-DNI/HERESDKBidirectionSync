@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mapitemkeyframetrack"
 <!-- MapItemKeyFrameTrack.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -69,8 +69,8 @@ slug: "sdk-for-android-explore-mapitemkeyframetrack"
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Stores keyframes for interpolation of a map item property using a specific
  easing function and interpolation mode.
- <p>The keyframe track object is used to create animations,
- see <a href="sdk-for-android-explore-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a> and <a href="sdk-for-android-explore-mappolylineanimation" title="class in com.here.sdk.animation"><code>MapPolylineAnimation</code></a>.</p></p></div>
+ </p><p>The keyframe track object is used to create animations,
+ see <a href="sdk-for-android-explore-mapmarkeranimation" title="class in com.here.sdk.animation"><code>MapMarkerAnimation</code></a> and <a href="sdk-for-android-explore-mappolylineanimation" title="class in com.here.sdk.animation"><code>MapPolylineAnimation</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -175,8 +175,8 @@ slug: "sdk-for-android-explore-mapitemkeyframetrack"
  <a href="sdk-for-android-explore-keyframeinterpolationmode" title="enum class in com.here.sdk.animation">KeyframeInterpolationMode</a> interpolationMode)</span>
                                              throws <span class="exceptions"><a href="sdk-for-android-explore-mapitemkeyframetrack.instantiationexception" title="class in com.here.sdk.animation">MapItemKeyFrameTrack.InstantiationException</a></span></div>
 <div class="block"><p>Creates a keyframe track used to animate the progress of a polyline.
- <p>Each scalar keyframe specifies the progress property
- (as passed to <a href="sdk-for-android-explore-mapview-mappolyline#setProgress(double)"><code>MapPolyline.setProgress(double)</code></a>) at key points of the animation.</p></p></div>
+ </p><p>Each scalar keyframe specifies the progress property
+ (as passed to <a href="sdk-for-android-explore-mapview-mappolyline#setProgress(double)"><code>MapPolyline.setProgress(double)</code></a>) at key points of the animation.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>keyframes</code> - <p>The list of keyframes that specify how the polyline progress changes
@@ -199,8 +199,8 @@ slug: "sdk-for-android-explore-mapitemkeyframetrack"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

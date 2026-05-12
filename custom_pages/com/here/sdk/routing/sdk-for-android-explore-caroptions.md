@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-caroptions"
 <!-- CarOptions.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -254,7 +254,7 @@ slug: "sdk-for-android-explore-caroptions"
 <div class="block"><p>Specifies the number of occupants in the vehicle, including driver,
  can affect the vehicle's ability to use HOV/carpool restricted lanes.
  Shouldn't be less than 1 or greater than 255. Defaults to 1.
- <p><strong>Note:</strong> This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="#allowOptions"><code>allowOptions</code></a> and such lanes are available in the selected country.</p></p></div>
+ </p><p><strong>Note:</strong> This parameter has no effect unless HOV and/or HOT lane usage is enabled via <a href="#allowOptions"><code>allowOptions</code></a> and such lanes are available in the selected country.</p></div>
 </section>
 </li>
 <li>
@@ -270,8 +270,8 @@ slug: "sdk-for-android-explore-caroptions"
  When this value is provided, the HERE SDK considers it during route calculation to
  avoid roads or areas where your vehicle may be restricted based on local regulations.
  Example usage: "7", when the license plate of a vehicle looks like "B-ET-182487".
- <p>If this value is not set, such license plate-based restrictions are ignored, and
- routing is performed without considering them.</p></p></div>
+ </p><p>If this value is not set, such license plate-based restrictions are ignored, and
+ routing is performed without considering them.</p></div>
 </section>
 </li>
 <li>
@@ -347,8 +347,8 @@ slug: "sdk-for-android-explore-caroptions"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-fueltype"
 <!-- FuelType.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -72,8 +72,8 @@ slug: "sdk-for-android-explore-fueltype"
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">FuelType</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-fueltype" title="enum class in com.here.sdk.transport">FuelType</a>&gt;</span></div>
 <div class="block"><p>Defines possible fuel types provided by a fuel station.
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
- unexpected behaviors. Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
+ unexpected behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -517,8 +517,8 @@ not permitted.)</div>
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

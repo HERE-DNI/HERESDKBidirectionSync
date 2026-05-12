@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-placefilter-ev"
 <!-- PlaceFilter.Ev.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -167,7 +167,7 @@ slug: "sdk-for-android-explore-placefilter-ev"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt;</span> <span class="element-name">supplierNames</span></div>
 <div class="block"><p>Sets a constraint on the charge point operator name of the EV station.
- <p>Not supported in <code>OfflineSearchEngine</code> (only available for the Navigate license).</p></p></div>
+ </p><p>Not supported in <code>OfflineSearchEngine</code> (only available for the Navigate license).</p></div>
 </section>
 </li>
 <li>
@@ -178,7 +178,7 @@ slug: "sdk-for-android-explore-placefilter-ev"
 <div class="block"><p>Filter to retrieve EV charging stations with at least one of the connector type IDs.
  For more information on the current connector types, see
  https://www.here.com/docs/bundle/ev-charge-points-api-developer-guide/page/topics/resource-type-connector.html
- <p>Not supported in <code>OfflineSearchEngine</code> (only available for the Navigate license).</p></p></div>
+ </p><p>Not supported in <code>OfflineSearchEngine</code> (only available for the Navigate license).</p></div>
 </section>
 </li>
 <li>
@@ -197,7 +197,7 @@ slug: "sdk-for-android-explore-placefilter-ev"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a>&gt;</span> <span class="element-name">eMobilityServiceProviderPartnerIDs</span></div>
 <div class="block"><p>Filter to retrieve EV charging stations with at least one matching e-Mobility Service Provider Partner ID.
- <p>Not supported in <code>OfflineSearchEngine</code> (only available for the Navigate license).</p></p></div>
+ </p><p>Not supported in <code>OfflineSearchEngine</code> (only available for the Navigate license).</p></div>
 </section>
 </li>
 <li>
@@ -262,8 +262,8 @@ slug: "sdk-for-android-explore-placefilter-ev"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

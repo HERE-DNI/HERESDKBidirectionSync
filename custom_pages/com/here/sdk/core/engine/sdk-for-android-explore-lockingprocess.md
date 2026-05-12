@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-lockingprocess"
 <!-- LockingProcess.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -147,12 +147,12 @@ slug: "sdk-for-android-explore-lockingprocess"
  Note that the PID might belong to the current app process, so it is recommended to check this
  before a process is killed as otherwise you will kill your own app process.
  Alternatively, call the convenient function <a href="#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"><code>destroyLockingProcess(android.content.Context, SDKOptions, long)</code></a>.
- <p>If a PID is available it means that there is a lock on either the cache or the persistant map storage
+ </p><p>If a PID is available it means that there is a lock on either the cache or the persistant map storage
  and that the HERE SDK will be non-functional until the locking process is killed. In such a case, consider
  to kill the locking process.
- <p><strong>Note:</strong>
+ </p><p><strong>Note:</strong>
  The Operation is not atomic and may return a PID for a process which is already destroyed or the file might
- be locked by another thread or process after this function returned <code>null</code>.</p></p></p></div>
+ be locked by another thread or process after this function returned <code>null</code>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>options</code> - <p>The options which are supposed to be used for new instance of the engine.</p></dd>
@@ -177,12 +177,12 @@ slug: "sdk-for-android-explore-lockingprocess"
  Note that the PID might belong to the current app process, so it is recommended to check this
  before a process is killed as otherwise you will kill your own app process.
  Alternatively, call the convenient function <a href="#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"><code>destroyLockingProcess(android.content.Context, SDKOptions, long)</code></a>.
- <p>If a PID is available it means that there is a lock on either the cache or the persistant map storage
+ </p><p>If a PID is available it means that there is a lock on either the cache or the persistant map storage
  and that the HERE SDK will be non-functional until the locking process is killed. In such a case, consider
  to kill the locking process.
- <p><strong>Note:</strong>
+ </p><p><strong>Note:</strong>
  The Operation is not atomic and may return a PID for a process which is already destroyed or the file might
- be locked by another thread or process after this function returned <code>null</code>.</p></p></p></div>
+ be locked by another thread or process after this function returned <code>null</code>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>context</code> - <p>The Android context</p></dd>
@@ -266,8 +266,8 @@ slug: "sdk-for-android-explore-lockingprocess"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 <!-- ViolatedRestriction.Details.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -311,8 +311,8 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
  for the route calculation provided using <a href="sdk-for-android-explore-transport-vehiclespecification#hazardousMaterials"><code>VehicleSpecification.hazardousMaterials</code></a> from
  <a href="sdk-for-android-explore-transport-transportspecification#vehicleSpecification"><code>TransportSpecification.vehicleSpecification</code></a> from <a href="sdk-for-android-explore-routingoptions#transportSpecification"><code>RoutingOptions.transportSpecification</code></a>.
  This property is the intersection of the two lists.
- <p><strong>Note</strong> <code>RoadSignWarning</code> events and <code>RouteViolations</code> are only given for violations that are
- indicated on a road sign. Additional legal restrictions might apply when transporting hazardous materials.</p></p></div>
+ </p><p><strong>Note</strong> <code>RoadSignWarning</code> events and <code>RouteViolations</code> are only given for violations that are
+ indicated on a road sign. Additional legal restrictions might apply when transporting hazardous materials.</p></div>
 </section>
 </li>
 <li>
@@ -465,8 +465,8 @@ slug: "sdk-for-android-explore-violatedrestriction-details"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

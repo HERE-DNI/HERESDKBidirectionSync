@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-overview-tree"
 <!-- overview-tree.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="tree-page">
+
+
 
 
 <div class="flex-box">
@@ -756,8 +756,8 @@ slug: "sdk-for-android-explore-overview-tree"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

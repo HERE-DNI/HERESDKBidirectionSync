@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-searchinterface"
 <!-- SearchInterface.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -306,9 +306,9 @@ slug: "sdk-for-android-explore-searchinterface"
  <a href="sdk-for-android-explore-suggestcallback" title="interface in com.here.sdk.search">SuggestCallback</a> callback)</span></div>
 <div class="block"><p>Performs an asynchronous request to suggest places for text queries and
  returns suggestions sorted by relevance.
- <p>Note that while <code>OfflineSearchEngine</code> includes as many details as are available,
+ </p><p>Note that while <code>OfflineSearchEngine</code> includes as many details as are available,
  <code>SearchEngine</code> includes only the information that is relevant for autosuggest use cases.
- Complete details can be obtained by searching with <a href="sdk-for-android-explore-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></p></div>
+ Complete details can be obtained by searching with <a href="sdk-for-android-explore-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>query</code> - <p>Desired text query to search.</p></dd>
@@ -328,8 +328,8 @@ slug: "sdk-for-android-explore-searchinterface"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

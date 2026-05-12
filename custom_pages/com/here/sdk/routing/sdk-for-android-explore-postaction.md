@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-postaction"
 <!-- PostAction.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -223,8 +223,8 @@ slug: "sdk-for-android-explore-postaction"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

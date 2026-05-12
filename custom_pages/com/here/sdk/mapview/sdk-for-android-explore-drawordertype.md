@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-drawordertype"
 <!-- DrawOrderType.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -72,11 +72,11 @@ slug: "sdk-for-android-explore-drawordertype"
 <div class="type-signature"><span class="modifiers">public enum </span><span class="element-name type-name-label">DrawOrderType</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a>&gt;</span></div>
 <div class="block"><p>Specifies the type of map item draw order. Map item rendering behavior is chosen based on the draw order type.
- <p>Regardless of a draw order type map items with a higher draw order are drawn on top of map items with a lower draw order.
- <p>When having map items in a scene with the same draw order, but with different draw order types
+ </p><p>Regardless of a draw order type map items with a higher draw order are drawn on top of map items with a lower draw order.
+ </p><p>When having map items in a scene with the same draw order, but with different draw order types
  <a href="#MAP_SCENE_ADDITION_ORDER_DEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_DEPENDENT</code></a> and <a href="#MAP_SCENE_ADDITION_ORDER_INDEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_INDEPENDENT</code></a>,
  <a href="#MAP_SCENE_ADDITION_ORDER_DEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_DEPENDENT</code></a> items will be rendered on top of <a href="#MAP_SCENE_ADDITION_ORDER_INDEPENDENT"><code>MAP_SCENE_ADDITION_ORDER_INDEPENDENT</code></a>
- ones.</p></p></p></div>
+ ones.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -155,8 +155,8 @@ the order they are declared.</div>
 <h3>MAP_SCENE_ADDITION_ORDER_DEPENDENT</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a></span> <span class="element-name">MAP_SCENE_ADDITION_ORDER_DEPENDENT</span></div>
 <div class="block"><p>Draw order depends on the order of map item addition to a map scene.
- <p>Multiple map items of the same type with the same draw order are drawn in the order of addition to a map scene.
- With this behavior map items are rendered one by one.</p></p></div>
+ </p><p>Multiple map items of the same type with the same draw order are drawn in the order of addition to a map scene.
+ With this behavior map items are rendered one by one.</p></div>
 </section>
 </li>
 <li>
@@ -164,10 +164,10 @@ the order they are declared.</div>
 <h3>MAP_SCENE_ADDITION_ORDER_INDEPENDENT</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-drawordertype" title="enum class in com.here.sdk.mapview">DrawOrderType</a></span> <span class="element-name">MAP_SCENE_ADDITION_ORDER_INDEPENDENT</span></div>
 <div class="block"><p>Draw order does not depend on the order of map item addition to a map scene.
- <p>Multiple map items of the same type with the same draw order are drawn in an arbitrary order and map items with similar
+ </p><p>Multiple map items of the same type with the same draw order are drawn in an arbitrary order and map items with similar
  attributes (e.g. color) are grouped and drawn together all at once for performance reasons. This way
  map items added/re-added to a map scene lastly may appear below already existing map items with the
- same draw order.</p></p></div>
+ same draw order.</p></div>
 </section>
 </li>
 </ul>
@@ -218,8 +218,8 @@ not permitted.)</div>
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

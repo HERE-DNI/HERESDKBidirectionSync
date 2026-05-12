@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-translucentmaplayergroup"
 <!-- TranslucentMapLayerGroup.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -75,7 +75,7 @@ slug: "sdk-for-android-explore-translucentmaplayergroup"
  instance destruction and any layer (categories) still in the group are not rendered anymore,
  therefore it is recommended to keep a group alive as long as layers using the group are alive and
  in use.
- <p>Conceptual example to place line layers into a translucent group:
+ </p><p>Conceptual example to place line layers into a translucent group:
  <pre><code>// Create a translucent group with a unique name and a render priority
   MapLayerPriority groupPriority = new MapLayerPriorityBuilder().renderedLast().build();
   TranslucentMapLayerGroup group = new TranslucentMapLayerGroup("TranslucentGroupName", map, groupPriority)
@@ -112,8 +112,8 @@ slug: "sdk-for-android-explore-translucentmaplayergroup"
       .withStyle(secondTranslucentLineStyle) // E.g. "technique": "line" ... "color": "#FFFFFF80"
       .build();
   </code></pre>
-<p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior.
- Related APIs may change for new releases without a deprecation process.</p></p></p></div>
+</p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -243,7 +243,7 @@ slug: "sdk-for-android-explore-translucentmaplayergroup"
      <a href="sdk-for-android-explore-maplayerprioritybuilder#withCategory(java.lang.String)"><code>MapLayerPriorityBuilder.withCategory(java.lang.String)</code></a> should not be used when building the
      <a href="sdk-for-android-explore-maplayerpriority" title="class in com.here.sdk.mapview"><code>MapLayerPriority</code></a>.
      Example:
-     <p><code>new MapLayerPriorityBuilder().renderedAfterLayer(&amp;quot;water&amp;quot;).build()</code></p></p></dd>
+     </p><p><code>new MapLayerPriorityBuilder().renderedAfterLayer(&amp;quot;water&amp;quot;).build()</code></p></dd>
 <dt>Throws:</dt>
 <dd><code><a href="sdk-for-android-explore-translucentmaplayergroup.instantiationexception" title="class in com.here.sdk.mapview">TranslucentMapLayerGroup.InstantiationException</a></code> - <p>In case of invalid input parameters.</p></dd>
 </dl>
@@ -271,7 +271,7 @@ slug: "sdk-for-android-explore-translucentmaplayergroup"
      <a href="sdk-for-android-explore-maplayerprioritybuilder#withCategory(java.lang.String)"><code>MapLayerPriorityBuilder.withCategory(java.lang.String)</code></a> should not be used when building the
      <a href="sdk-for-android-explore-maplayerpriority" title="class in com.here.sdk.mapview"><code>MapLayerPriority</code></a>.
      Example:
-     <p><code>new MapLayerPriorityBuilder().renderedAfterLayer(&amp;quot;water&amp;quot;).build()</code></p></p></dd>
+     </p><p><code>new MapLayerPriorityBuilder().renderedAfterLayer(&amp;quot;water&amp;quot;).build()</code></p></dd>
 </dl>
 </section>
 </li>
@@ -292,8 +292,8 @@ slug: "sdk-for-android-explore-translucentmaplayergroup"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

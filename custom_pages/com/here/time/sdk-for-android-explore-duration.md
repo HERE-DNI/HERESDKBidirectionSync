@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-duration"
 <!-- Duration.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -74,10 +74,10 @@ implements <a class="external-link" href="https://docs.oracle.com/en/java/javase
  <p>
      The duration is represented as number of seconds (see <a href="#getSeconds()"><code>getSeconds()</code></a>)
      and number of nanonseconds in a second (see <a href="#getNano()"><code>getNano()</code></a>).
- <p>
+ </p><p>
      Duration can be created from various units of time by calling on of
      <code>of*</code> methods. The <code>to*</code> family of methods convert duration
-     to a value expressed in desired unit of time.</p></p></div>
+     to a value expressed in desired unit of time.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -538,8 +538,8 @@ implements <a class="external-link" href="https://docs.oracle.com/en/java/javase
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-webeditorial"
 <!-- WebEditorial.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -245,8 +245,8 @@ slug: "sdk-for-android-explore-webeditorial"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-searchengine"
 <!-- SearchEngine.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -77,13 +77,13 @@ implements <a href="sdk-for-android-explore-searchinterface" title="interface in
  applications. It enables to search for HERE points of interests, forward and reverse
  geocode addresses and geographic coordinates from the HERE map and search for suggested addresses
  or place candidates based on incomplete or misspelled queries.
- <p>It also allows to search along a given <a href="sdk-for-android-explore-core-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> set inside a <a href="sdk-for-android-explore-core-geocorridor" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>
+ </p><p>It also allows to search along a given <a href="sdk-for-android-explore-core-geopolyline" title="class in com.here.sdk.core"><code>GeoPolyline</code></a> set inside a <a href="sdk-for-android-explore-core-geocorridor" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>
  as part of a <a href="sdk-for-android-explore-textquery" title="class in com.here.sdk.search"><code>TextQuery</code></a>.
- <p>The SearchEngine API requires an online connection to execute the requests.
- <p><strong>Note:</strong> All methods are provided in two flavors. One uses a <a href="sdk-for-android-explore-searchcallback" title="interface in com.here.sdk.search"><code>SearchCallback</code></a> and the
+ </p><p>The SearchEngine API requires an online connection to execute the requests.
+ </p><p><strong>Note:</strong> All methods are provided in two flavors. One uses a <a href="sdk-for-android-explore-searchcallback" title="interface in com.here.sdk.search"><code>SearchCallback</code></a> and the
  other uses a <a href="sdk-for-android-explore-searchcallbackextended" title="interface in com.here.sdk.search"><code>SearchCallbackExtended</code></a>: The later adds a <code>ResponseDetails</code> result type
  that provides the <code>requestId</code> of a search request and a <code>correlationId</code> to identify multiple,
- related queries. This may be useful for debug purposes.</p></p></p></p></div>
+ related queries. This may be useful for debug purposes.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -783,9 +783,9 @@ implements <a href="sdk-for-android-explore-searchinterface" title="interface in
  <a href="sdk-for-android-explore-suggestcallback" title="interface in com.here.sdk.search">SuggestCallback</a> callback)</span></div>
 <div class="block"><p>Performs an asynchronous request to suggest places for text queries and
  returns suggestions sorted by relevance.
- <p>Note that while <code>OfflineSearchEngine</code> includes as many details as are available,
+ </p><p>Note that while <code>OfflineSearchEngine</code> includes as many details as are available,
  <code>SearchEngine</code> includes only the information that is relevant for autosuggest use cases.
- Complete details can be obtained by searching with <a href="sdk-for-android-explore-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></p></div>
+ Complete details can be obtained by searching with <a href="sdk-for-android-explore-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-explore-searchinterface#suggestByText(com.here.sdk.search.TextQuery,com.here.sdk.search.SearchOptions,com.here.sdk.search.SuggestCallback)">suggestByText</a></code> in interface <code><a href="sdk-for-android-explore-searchinterface" title="interface in com.here.sdk.search">SearchInterface</a></code></dd>
@@ -807,8 +807,8 @@ implements <a href="sdk-for-android-explore-searchinterface" title="interface in
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

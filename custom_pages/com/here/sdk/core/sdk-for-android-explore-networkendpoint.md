@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-networkendpoint"
 <!-- NetworkEndpoint.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -233,8 +233,8 @@ slug: "sdk-for-android-explore-networkendpoint"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

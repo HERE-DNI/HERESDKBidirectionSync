@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-evchargingtariffdimension"
 <!-- EVChargingTariffDimension.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -78,8 +78,8 @@ slug: "sdk-for-android-explore-evchargingtariffdimension"
 <li>flat: One-time fee charged per session.</li>
 <li>parking time: Price per unit of time not charging but parked at the charger.</li>
 </ul>
-<p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></div>
+</p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -237,8 +237,8 @@ not permitted.)</div>
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

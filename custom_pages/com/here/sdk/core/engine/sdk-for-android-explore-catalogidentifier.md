@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-catalogidentifier"
 <!-- CatalogIdentifier.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -66,7 +66,7 @@ slug: "sdk-for-android-explore-catalogidentifier"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">CatalogIdentifier</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>This class is used to identify any catalog in the HERE platform.
- <p>A catalog is a storage-representation to store map data on the HERE platform.
+ </p><p>A catalog is a storage-representation to store map data on the HERE platform.
  The data inside a catalog is divided into layers, where each layer consists
  of datasets with similar functional attributes in the physical world.
  For example, there can be a layer for road-topology, a layer for
@@ -83,7 +83,7 @@ slug: "sdk-for-android-explore-catalogidentifier"
  For additional information about catalogs, and related concepts of data representation
  on the HERE platform, refer to
  <a href="https://www.here.com/docs/bundle/data-api-developer-guide/page/rest/catalogs.html">the Data API</a>
- and <a href="https://www.here.com/docs/bundle/introduction-to-mapping-concepts-user-guide/page/topics/maps-layers-tiles.html">Introduction to Mapping Concepts</a></p></p></div>
+ and <a href="https://www.here.com/docs/bundle/introduction-to-mapping-concepts-user-guide/page/topics/maps-layers-tiles.html">Introduction to Mapping Concepts</a></p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -240,8 +240,8 @@ slug: "sdk-for-android-explore-catalogidentifier"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-textusageoptions"
 <!-- TextUsageOptions.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -224,8 +224,8 @@ slug: "sdk-for-android-explore-textusageoptions"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

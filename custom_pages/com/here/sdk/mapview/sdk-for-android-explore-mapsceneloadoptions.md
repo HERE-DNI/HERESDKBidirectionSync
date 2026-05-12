@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mapsceneloadoptions"
 <!-- MapSceneLoadOptions.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -70,9 +70,9 @@ slug: "sdk-for-android-explore-mapsceneloadoptions"
 <div class="block"><p>Represents the configuration options for loading a map scene.
  This class combines both the scene source (MapScheme or configuration file) and
  optional settings like features, watermark style and overriding map style.
- <p>It is left empty intentionally. Use <a href="sdk-for-android-explore-mapsceneloadoptionsbuilder" title="class in com.here.sdk.mapview"><code>MapSceneLoadOptionsBuilder</code></a> to create instances of this class.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></p></div>
+ </p><p>It is left empty intentionally. Use <a href="sdk-for-android-explore-mapsceneloadoptionsbuilder" title="class in com.here.sdk.mapview"><code>MapSceneLoadOptionsBuilder</code></a> to create instances of this class.
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -91,8 +91,8 @@ slug: "sdk-for-android-explore-mapsceneloadoptions"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

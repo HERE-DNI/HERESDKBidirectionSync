@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-allowoptions"
 <!-- AllowOptions.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -145,10 +145,10 @@ slug: "sdk-for-android-explore-allowoptions"
 <h3>allowHov</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">allowHov</span></div>
 <div class="block"><p>A flag that specifies whether HOV lanes can be used in the route calculation.
- <p>A HOV (High occupancy Vehicle) lane or carpool lane is reserved for carpool usage. Carpool lane requires
+ </p><p>A HOV (High occupancy Vehicle) lane or carpool lane is reserved for carpool usage. Carpool lane requires
  a minimum number of passengers in order for the car to use the carpool lane.
- <p><strong>Note:</strong> Can be used with <code>RoutingOptions.transport_specification.vehicle_specification.occupancy</code> to specify the number of occupants
- in the vehicle.</p></p></p></div>
+ </p><p><strong>Note:</strong> Can be used with <code>RoutingOptions.transport_specification.vehicle_specification.occupancy</code> to specify the number of occupants
+ in the vehicle.</p></div>
 </section>
 </li>
 <li>
@@ -156,9 +156,9 @@ slug: "sdk-for-android-explore-allowoptions"
 <h3>allowHot</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">allowHot</span></div>
 <div class="block"><p>A flag that specifies whether HOT lanes can be used in the calculation.
- <p>HOT (high-occupancy toll) lanes are HOV lanes where vehicles that do not qualify as high-occupancy are allowed to pass by paying a toll.
- <p><strong>Note:</strong> Can be used with <code>RoutingOptions.transport_specification.vehicle_specification.occupancy</code> to specify the number of occupants
- in the vehicle.</p></p></p></div>
+ </p><p>HOT (high-occupancy toll) lanes are HOV lanes where vehicles that do not qualify as high-occupancy are allowed to pass by paying a toll.
+ </p><p><strong>Note:</strong> Can be used with <code>RoutingOptions.transport_specification.vehicle_specification.occupancy</code> to specify the number of occupants
+ in the vehicle.</p></div>
 </section>
 </li>
 </ul>
@@ -213,8 +213,8 @@ slug: "sdk-for-android-explore-allowoptions"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-rasterdatasourceconfiguration-provider"
 <!-- RasterDataSourceConfiguration.Provider.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -274,8 +274,8 @@ slug: "sdk-for-android-explore-rasterdatasourceconfiguration-provider"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

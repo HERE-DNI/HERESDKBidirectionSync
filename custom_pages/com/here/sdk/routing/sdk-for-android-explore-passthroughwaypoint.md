@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-passthroughwaypoint"
 <!-- PassThroughWaypoint.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -214,8 +214,8 @@ slug: "sdk-for-android-explore-passthroughwaypoint"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

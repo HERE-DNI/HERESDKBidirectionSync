@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-maxspeedonsegment"
 <!-- MaxSpeedOnSegment.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -66,7 +66,7 @@ slug: "sdk-for-android-explore-maxspeedonsegment"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MaxSpeedOnSegment</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>New base speed for a segment. Affects route calculation and the ETA. Cannot increase base speed on segment.
- <p><strong>Note:</strong> This option can only be used with the <code>RoutingEngine</code>. The <code>OfflineRoutingEngine</code> is not supported and the option will be ignored. Note that the <code>OfflineRoutingEngine</code> is only available for the Navigate license.</p></p></div>
+ </p><p><strong>Note:</strong> This option can only be used with the <code>RoutingEngine</code>. The <code>OfflineRoutingEngine</code> is not supported and the option will be ignored. Note that the <code>OfflineRoutingEngine</code> is only available for the Navigate license.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -149,11 +149,11 @@ slug: "sdk-for-android-explore-maxspeedonsegment"
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-segmentreference" title="class in com.here.sdk.routing">SegmentReference</a></span> <span class="element-name">segment</span></div>
 <div class="block"><p>A segment for which the new base speed is specified. Only the <code>segmendId</code> and <code>travelDirection</code>
  parameters are used, other parameters are ignored. Setting a <code>segmendId</code> is mandatory.
- <p><strong>Note:</strong> The <code>SegmentReference</code> is not directly accessible from the map via the HERE SDK.
+ </p><p><strong>Note:</strong> The <code>SegmentReference</code> is not directly accessible from the map via the HERE SDK.
  Although, after route calculation you can retrieve the related segments for each <a href="sdk-for-android-explore-span" title="class in com.here.sdk.routing"><code>Span</code></a>.
  The segment IDs are the same that are also used by, for example, the <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/use-cases/avoid-segments.html">Routing REST API</a>.
  These IDs are mostly stable and only change when the underlying map data changes
- due to a new road or similar changes in the real world.</p></p></div>
+ due to a new road or similar changes in the real world.</p></div>
 </section>
 </li>
 <li>
@@ -183,11 +183,11 @@ slug: "sdk-for-android-explore-maxspeedonsegment"
 <dt>Parameters:</dt>
 <dd><code>segment</code> - <p>A segment for which the new base speed is specified. Only the <code>segmendId</code> and <code>travelDirection</code>
  parameters are used, other parameters are ignored. Setting a <code>segmendId</code> is mandatory.
- <p><strong>Note:</strong> The <code>SegmentReference</code> is not directly accessible from the map via the HERE SDK.
+ </p><p><strong>Note:</strong> The <code>SegmentReference</code> is not directly accessible from the map via the HERE SDK.
  Although, after route calculation you can retrieve the related segments for each <a href="sdk-for-android-explore-span" title="class in com.here.sdk.routing"><code>Span</code></a>.
  The segment IDs are the same that are also used by, for example, the <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/use-cases/avoid-segments.html">Routing REST API</a>.
  These IDs are mostly stable and only change when the underlying map data changes
- due to a new road or similar changes in the real world.</p></p></dd>
+ due to a new road or similar changes in the real world.</p></dd>
 <dd><code>baseSpeedInMetersPerSecond</code> - <p>New maximum value in m/s of baseSpeed on segment.  The provided value must be in the range [1.0, 70.0].
  Cannot increase base speed on segment. If the value is greater than the default base speed, then such penalty will have no effect.</p></dd>
 </dl>
@@ -230,8 +230,8 @@ slug: "sdk-for-android-explore-maxspeedonsegment"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

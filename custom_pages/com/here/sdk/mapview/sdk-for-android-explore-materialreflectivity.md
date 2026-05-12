@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-materialreflectivity"
 <!-- MaterialReflectivity.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -68,20 +68,20 @@ slug: "sdk-for-android-explore-materialreflectivity"
 <div class="block"><p>Material reflectivity properties are used to enable per‑pixel lighting for supported map objects
  (e.g. <code>LocationIndicator</code> markers and their halo).
  
-<p>By default (when no MaterialReflectivity is assigned) objects are rendered "unlit" (emissive):
+</p><p>By default (when no MaterialReflectivity is assigned) objects are rendered "unlit" (emissive):
  their texture / color appears at a constant brightness, unaffected by scene lights. Assigning a
  <code>MaterialReflectivity</code> instance to an object that supports it (e.g. <code>LocationIndicator.materialReflectivity</code>)
  automatically enables lighting for this object and all its internal components. Clearing (setting the property to
  <code>null</code>) disables lighting again and restores the unlit appearance.
  
-<p>Both factors are expected to be within [0.0, 1.0]. Values outside this range are allowed but may
+</p><p>Both factors are expected to be within [0.0, 1.0]. Values outside this range are allowed but may
  produce exaggerated results or be clamped by future implementations. Typical useful ranges:
  <ul>
 <li>ambientFactor: 0.0 – 0.4 (higher values flatten the shading and reduce directional contrast)</li>
 <li>diffuseFactor: 0.5 – 1.0 (lower values dim the object under directional light)</li>
 </ul>
-<p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></p></p></div>
+</p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -226,8 +226,8 @@ slug: "sdk-for-android-explore-materialreflectivity"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

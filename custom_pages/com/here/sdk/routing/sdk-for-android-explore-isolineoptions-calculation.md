@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-isolineoptions-calculation"
 <!-- IsolineOptions.Calculation.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -297,8 +297,8 @@ slug: "sdk-for-android-explore-isolineoptions-calculation"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

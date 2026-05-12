@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mapscenelights-attributesettingcallback"
 <!-- MapSceneLights.AttributeSettingCallback.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -113,9 +113,9 @@ slug: "sdk-for-android-explore-mapscenelights-attributesettingcallback"
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>setLightError</code> - <p>The cause for the failure when setting the light attributes, or <code>null</code> if no error occurred.
-     <p>Note: The error code <code>NO_LIGHTS</code> may be returned when attempting to set light attributes in map schemes
+     </p><p>Note: The error code <code>NO_LIGHTS</code> may be returned when attempting to set light attributes in map schemes
      that do not support lights, for instance <code>road.network</code> map scheme.
-     <p>Please refer to the error code documentation for further details on error handling.</p></p></p></dd>
+     </p><p>Please refer to the error code documentation for further details on error handling.</p></dd>
 </dl>
 </section>
 </li>
@@ -128,8 +128,8 @@ slug: "sdk-for-android-explore-mapscenelights-attributesettingcallback"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

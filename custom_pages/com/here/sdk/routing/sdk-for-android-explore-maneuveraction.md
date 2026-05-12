@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-maneuveraction"
 <!-- ManeuverAction.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -460,8 +460,8 @@ the order they are declared.</div>
 <h3>ENTER_HIGHWAY_FROM_LEFT</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-maneuveraction" title="enum class in com.here.sdk.routing">ManeuverAction</a></span> <span class="element-name">ENTER_HIGHWAY_FROM_LEFT</span></div>
 <div class="block"><p>Merge onto a highway from the left side. Such a maneuver occurs only in countries that drive on the left side of the road (left-hand traffic).
- <p><strong>Note:</strong> This action is only generated when using the Navigate license. On top, until release of HERE SDK 4.16.0,
- it needs to be enabled via <code>RouteOptions</code>.</p></p></div>
+ </p><p><strong>Note:</strong> This action is only generated when using the Navigate license. On top, until release of HERE SDK 4.16.0,
+ it needs to be enabled via <code>RouteOptions</code>.</p></div>
 </section>
 </li>
 <li>
@@ -469,8 +469,8 @@ the order they are declared.</div>
 <h3>ENTER_HIGHWAY_FROM_RIGHT</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-maneuveraction" title="enum class in com.here.sdk.routing">ManeuverAction</a></span> <span class="element-name">ENTER_HIGHWAY_FROM_RIGHT</span></div>
 <div class="block"><p>Merge onto a highway from the right side. Such a maneuver occurs only in countries that drive on the right side of the road (right-hand traffic).
- <p><strong>Note:</strong> This action is only generated when using the Navigate license. On top, until release of HERE SDK 4.16.0,
- it needs to be enabled via <code>RouteOptions</code>.</p></p></div>
+ </p><p><strong>Note:</strong> This action is only generated when using the Navigate license. On top, until release of HERE SDK 4.16.0,
+ it needs to be enabled via <code>RouteOptions</code>.</p></div>
 </section>
 </li>
 <li>
@@ -717,8 +717,8 @@ not permitted.)</div>
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

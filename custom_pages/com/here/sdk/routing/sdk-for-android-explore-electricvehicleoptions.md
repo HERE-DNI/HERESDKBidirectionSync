@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-electricvehicleoptions"
 <!-- ElectricVehicleOptions.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -172,13 +172,13 @@ slug: "sdk-for-android-explore-electricvehicleoptions"
  not run out of energy along the way.
  It is especially useful for longer routes, because after all, charging stations are much
  less common than petrol stations.
- <p><strong>Note</strong> An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> is generated when
+ </p><p><strong>Note</strong> An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> is generated when
  this option is set to <code>true</code> in case <code>sdk.routing.RoutingEngine.import_route</code> is called.
  Defaults to <code>false</code>.
- <p><strong>Note</strong>
+ </p><p><strong>Note</strong>
  Not supported for offline routing.
- <p><strong>Note</strong>
- Only supported for car routing.</p></p></p></p></div>
+ </p><p><strong>Note</strong>
+ Only supported for car routing.</p></div>
 </section>
 </li>
 <li>
@@ -278,8 +278,8 @@ slug: "sdk-for-android-explore-electricvehicleoptions"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

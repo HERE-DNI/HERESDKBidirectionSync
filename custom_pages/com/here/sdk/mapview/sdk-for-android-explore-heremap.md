@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-heremap"
 <!-- HereMap.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -124,11 +124,11 @@ slug: "sdk-for-android-explore-heremap"
  <a href="sdk-for-android-explore-mapidlelistener" title="interface in com.here.sdk.mapview">MapIdleListener</a> listener)</span></div>
 <div class="block"><p>Adds a listener for receiving idle state
  notifications and notifies it of the current state.
- <p>The first notification received is always the state at the time of registration.
- <p>The new listener is appended to the set
+ </p><p>The first notification received is always the state at the time of registration.
+ </p><p>The new listener is appended to the set
  of <code>HereMap</code> idle listeners as a strong reference.
  The caller is responsible for releasing the strong reference by calling
- <a href="#removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)"><code>removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)</code></a>.</p></p></p></div>
+ <a href="#removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)"><code>removeMapIdleListener(com.here.sdk.mapview.MapIdleListener)</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>listener</code> - <p>The listener</p></dd>
@@ -153,11 +153,11 @@ slug: "sdk-for-android-explore-heremap"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-style" title="class in com.here.sdk.mapview">Style</a></span> <span class="element-name">getStyle</span>()</div>
 <div class="block"><p>Gets the style that the map uses to customize the visual appearance of rendered features.
- <p>Changes made to the map style using <a href="sdk-for-android-explore-style#update(com.here.sdk.mapview.Style)"><code>Style.update(com.here.sdk.mapview.Style)</code></a> are lost when new scene is loaded using
+ </p><p>Changes made to the map style using <a href="sdk-for-android-explore-style#update(com.here.sdk.mapview.Style)"><code>Style.update(com.here.sdk.mapview.Style)</code></a> are lost when new scene is loaded using
  <a href="sdk-for-android-explore-mapscene#loadScene(com.here.sdk.mapview.MapScheme,com.here.sdk.mapview.MapScene.LoadSceneCallback)"><code>MapScene.loadScene(MapScheme, MapScene.LoadSceneCallback)</code></a> and its variants as well as
  when map features are enabled or disabled using <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a> and <a href="sdk-for-android-explore-mapscene#disableFeatures(java.util.List)"><code>MapScene.disableFeatures(java.util.List&lt;java.lang.String&gt;)</code></a>.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.</p></p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The style that the map uses to customize the visual appearance of rendered features.</p></dd>
@@ -173,8 +173,8 @@ slug: "sdk-for-android-explore-heremap"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

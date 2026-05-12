@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-scalehandler"
 <!-- ScaleHandler.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -130,8 +130,8 @@ slug: "sdk-for-android-explore-scalehandler"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

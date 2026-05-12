@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mapmeasuredependentrendersize"
 <!-- MapMeasureDependentRenderSize.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -196,8 +196,8 @@ slug: "sdk-for-android-explore-mapmeasuredependentrendersize"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public final</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt;</span> <span class="element-name">sizes</span></div>
 <div class="block"><p>The dictionary describing the size (value) per map measure (key).
- <p>Units of keys and values are defined in <a href="#measureKind"><code>measureKind</code></a> and <a href="#sizeUnit"><code>sizeUnit</code></a>.
- <p><code>sizes</code> with a single entry indicates using a fixed size value across all map measures.</p></p></p></div>
+ </p><p>Units of keys and values are defined in <a href="#measureKind"><code>measureKind</code></a> and <a href="#sizeUnit"><code>sizeUnit</code></a>.
+ </p><p><code>sizes</code> with a single entry indicates using a fixed size value across all map measures.</p></div>
 </section>
 </li>
 </ul>
@@ -219,7 +219,7 @@ slug: "sdk-for-android-explore-mapmeasuredependentrendersize"
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt; sizes)</span>
                               throws <span class="exceptions"><a href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a></span></div>
 <div class="block"><p>Constructs a <code>MapMeasureDependentRenderSize</code> from given parameters.
- <p>Supplying <code>sizes</code> map with a single entry indicates using a fixed size value across all map measures.</p></p></div>
+ </p><p>Supplying <code>sizes</code> map with a single entry indicates using a fixed size value across all map measures.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>measureKind</code> - <p>The unit used for the key in <code>sizes</code>.</p></dd>
@@ -238,7 +238,7 @@ slug: "sdk-for-android-explore-mapmeasuredependentrendersize"
  double size)</span>
                               throws <span class="exceptions"><a href="sdk-for-android-explore-mapmeasuredependentrendersize.instantiationexception" title="class in com.here.sdk.mapview">MapMeasureDependentRenderSize.InstantiationException</a></span></div>
 <div class="block"><p>Constructs a <code>MapMeasureDependentRenderSize</code> from single size value which is constant across all map measures.
- <p>The given <code>size</code> value is stored in <a href="#sizes"><code>sizes</code></a> map at key 0 and <a href="#measureKind"><code>measureKind</code></a> is set to <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a>.</p></p></div>
+ </p><p>The given <code>size</code> value is stored in <a href="#sizes"><code>sizes</code></a> map at key 0 and <a href="#measureKind"><code>measureKind</code></a> is set to <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>sizeUnit</code> - <p>The unit used for the value in <code>size</code>.</p></dd>
@@ -285,8 +285,8 @@ slug: "sdk-for-android-explore-mapmeasuredependentrendersize"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

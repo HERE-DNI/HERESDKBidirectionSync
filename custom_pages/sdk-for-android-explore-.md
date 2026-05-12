@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-"
 <!-- index.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="package-index-page">
+
+
 
 
 <div class="flex-box">
@@ -45,9 +45,9 @@ slug: "sdk-for-android-explore-"
 <p>For the terms and conditions covering this documentation, see the <a href="https://legal.here.com/en-gb/terms/documentation-license">HERE Documentation License</a>.
 
 
-<p>Be sure to check out our <i>User Guide</i> including a <i>Get Started</i> tutorial that shows how to integrate the HERE SDK into your own apps with a few simple steps.</p>
 
-<p>We love feedback. Please <a href="https://www.here.com/contact">contact us</a> for any questions, suggestions or improvements. Thank you for using the HERE SDK.</p></p></div>
+
+</p><p>We love feedback. Please <a href="https://www.here.com/contact">contact us</a> for any questions, suggestions or improvements. Thank you for using the HERE SDK.</p><p>Be sure to check out our <i>User Guide</i> including a <i>Get Started</i> tutorial that shows how to integrate the HERE SDK into your own apps with a few simple steps.</p></div>
 <div id="all-packages-table">
 <div class="caption"><span>Packages</span></div>
 <div class="summary-table two-column-summary">
@@ -92,8 +92,8 @@ slug: "sdk-for-android-explore-"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

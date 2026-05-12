@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-bicycleoptions"
 <!-- BicycleOptions.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -242,8 +242,8 @@ slug: "sdk-for-android-explore-bicycleoptions"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

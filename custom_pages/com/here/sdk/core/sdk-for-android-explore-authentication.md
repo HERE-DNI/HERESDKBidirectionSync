@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-authentication"
 <!-- Authentication.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -157,8 +157,8 @@ slug: "sdk-for-android-explore-authentication"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

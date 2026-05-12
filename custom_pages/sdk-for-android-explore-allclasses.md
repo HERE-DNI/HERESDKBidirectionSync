@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-allclasses"
 <!-- allclasses-index.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="all-classes-index-page">
+
+
 
 
 <div class="flex-box">
@@ -2659,8 +2659,8 @@ slug: "sdk-for-android-explore-allclasses"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-truckspecifications"
 <!-- TruckSpecifications.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -344,20 +344,20 @@ slug: "sdk-for-android-explore-truckspecifications"
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span></div>
 <div class="block"><p>A flag indicating whether the truck is light enough to be classified more as a car than a truck in Japan.
  The flag should not be set to <code>true</code> in other countries than Japan. The flag defaults to <code>false</code>.
- <p>A light truck exempts from many legal restrictions for normal trucks in Japan, for example, which streets
+ </p><p>A light truck exempts from many legal restrictions for normal trucks in Japan, for example, which streets
  the vehicle can access, which access restrictions apply, and which speed limits are applicable.
  Restrictions related to the dimensions of the truck, or its cargo may still apply and setting this flag will
  not always overwrite these settings: Make sure to not exceed the specifications that classify a truck as light.
- <p>In Japan, for light trucks the same restrictions apply as for cars. Therefore, when the flag is set to true,
+ </p><p>In Japan, for light trucks the same restrictions apply as for cars. Therefore, when the flag is set to true,
  you will get, for example, the same speed limits as for cars. Make sure to set the flag only to true, when
  a vehicle matches the classification for light trucks according to the vehicle regulations in Japan.
- <p>When <code>TruckSpecifications</code> are set as part of <code>MapContentSettings</code>, then this flag will be ignored and
+ </p><p>When <code>TruckSpecifications</code> are set as part of <code>MapContentSettings</code>, then this flag will be ignored and
  has no effect.
- <p><strong>Note:</strong>
+ </p><p><strong>Note:</strong>
  This flag and the concept of light trucks are supported only in Japan as beta and are considered to be
  experimental in other regions. Therefore, for now, it is recommended to use this flag only in Japan.
  Note that this is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases with a deprecation process.</p></p></p></p></p></div>
+ Related APIs may change for new releases with a deprecation process.</p></div>
 </section>
 </li>
 <li>
@@ -438,8 +438,8 @@ slug: "sdk-for-android-explore-truckspecifications"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

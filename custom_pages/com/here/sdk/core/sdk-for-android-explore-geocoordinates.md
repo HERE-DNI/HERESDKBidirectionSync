@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-geocoordinates"
 <!-- GeoCoordinates.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -296,11 +296,11 @@ slug: "sdk-for-android-explore-geocoordinates"
  double factor)</span></div>
 <div class="block"><p>Computes the coordinates of the interpolated location along the great circle between
  the two coordinates.
- <p>The interpolation factor is clamped to the range <code>[0.0, 1.0]</code> where <code>0.0</code> identifies this
+ </p><p>The interpolation factor is clamped to the range <code>[0.0, 1.0]</code> where <code>0.0</code> identifies this
  <code>GeoCoordinates</code> and <code>1.0</code> indicates the other coordinates.
- <p>The ratio between the distance to the interpolated coordinates and the distance to the other
+ </p><p>The ratio between the distance to the interpolated coordinates and the distance to the other
  coordinates is approximately equal to the interpolation factor. When both coordinates have
- the altitude, then the altitude is interpolated as well; <code>null</code> otherwise.</p></p></p></div>
+ the altitude, then the altitude is interpolated as well; <code>null</code> otherwise.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>towardCoords</code> - <p>Coordinates of the point to which the interpolation is directed.</p></dd>
@@ -343,8 +343,8 @@ slug: "sdk-for-android-explore-geocoordinates"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

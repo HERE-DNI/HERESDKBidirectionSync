@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-vehicleprofile"
 <!-- VehicleProfile.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -70,14 +70,14 @@ slug: "sdk-for-android-explore-vehicleprofile"
 <div class="deprecation-comment"><p>Will be removed in v4.28.0. Use <code>sdk.transport.TransportSpecification</code> instead.</p></div>
 </div>
 <div class="block"><p>A vehicle profile describes the vehicle being used with the HSDK.
- <p>The profile is planned to be used as single source of information describing the vehicle.
- <p>Current modules that use this profile:
+ </p><p>The profile is planned to be used as single source of information describing the vehicle.
+ </p><p>Current modules that use this profile:
  <ul>
 <li>Navigation: Tracking mode for truck related vehicle restrictions.</li>
 </ul>
-<p><strong>Note:</strong> This is a beta release of this vehicle profile, so there could be a few bugs and unexpected
+</p><p><strong>Note:</strong> This is a beta release of this vehicle profile, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases or even become unsupported, without a
- deprecation process.</p></p></p></p></div>
+ deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -386,8 +386,8 @@ slug: "sdk-for-android-explore-vehicleprofile"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

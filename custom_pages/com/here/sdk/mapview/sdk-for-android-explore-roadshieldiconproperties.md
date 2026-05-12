@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-roadshieldiconproperties"
 <!-- RoadShieldIconProperties.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -184,13 +184,13 @@ slug: "sdk-for-android-explore-roadshieldiconproperties"
  is parsed with a RegEx pattern and the results will be used along with other properties
  such as <code>routeType</code>, <code>countryCode</code> and <code>stateCode</code> to identify the visual representation
  of a road shield icon.
- <p>Note that the actual text which will be displayed on the road shield icon is set with
+ </p><p>Note that the actual text which will be displayed on the road shield icon is set with
  <a href="#shieldText"><code>shieldText</code></a>. In order to determine the visuals of the icon, <code>countryCode</code>, <code>routeType</code>
  and eventually the <code>stateCode</code> is in most cases sufficient to determine the type of road
  shield. In this case an empty string should be passed.
- <p><strong>Note:</strong> Texts that contain a <code>CardinalDirection</code> are currently not supported and may lead
+ </p><p><strong>Note:</strong> Texts that contain a <code>CardinalDirection</code> are currently not supported and may lead
  to unexpected results. See <code>LocalizedRoadNumber</code> for more details, it provides texts with
- and without a cardinal direction.</p></p></p></div>
+ and without a cardinal direction.</p></div>
 </section>
 </li>
 <li>
@@ -241,13 +241,13 @@ slug: "sdk-for-android-explore-roadshieldiconproperties"
  is parsed with a RegEx pattern and the results will be used along with other properties
  such as <code>routeType</code>, <code>countryCode</code> and <code>stateCode</code> to identify the visual representation
  of a road shield icon.
- <p>Note that the actual text which will be displayed on the road shield icon is set with
+ </p><p>Note that the actual text which will be displayed on the road shield icon is set with
  <a href="#shieldText"><code>shieldText</code></a>. In order to determine the visuals of the icon, <code>countryCode</code>, <code>routeType</code>
  and eventually the <code>stateCode</code> is in most cases sufficient to determine the type of road
  shield. In this case an empty string should be passed.
- <p><strong>Note:</strong> Texts that contain a <code>CardinalDirection</code> are currently not supported and may lead
+ </p><p><strong>Note:</strong> Texts that contain a <code>CardinalDirection</code> are currently not supported and may lead
  to unexpected results. See <code>LocalizedRoadNumber</code> for more details, it provides texts with
- and without a cardinal direction.</p></p></p></dd>
+ and without a cardinal direction.</p></dd>
 <dd><code>shieldText</code> - <p>The text of the road-shield. This is the text which is displayed on the road-shield
  in reality. It will be in the output road-shield icon.</p></dd>
 </dl>
@@ -262,8 +262,8 @@ slug: "sdk-for-android-explore-roadshieldiconproperties"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-routingoptions"
 <!-- RoutingOptions.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -66,8 +66,8 @@ slug: "sdk-for-android-explore-routingoptions"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">RoutingOptions</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>The options defines how a route should be calculated.
- <p>The options are used for all transport modes and engines.
- <p>** Electric vehicle specific requirements **
+ </p><p>The options are used for all transport modes and engines.
+ </p><p>** Electric vehicle specific requirements **
  Electric vehicle consumption are estimated when at least one consumption model is defined.
  Currently two models are supported:
  <ul>
@@ -81,11 +81,11 @@ slug: "sdk-for-android-explore-routingoptions"
 </li>
 <li>EmpiricalConsumptionModel</li>
 </ul>
-<p>By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachability"><code>ElectricVehicleOptions.ensureReachability</code></a> the <code>RoutingEngine</code> inserts additional charging stations
+</p><p>By setting <a href="sdk-for-android-explore-electricvehicleoptions#ensureReachability"><code>ElectricVehicleOptions.ensureReachability</code></a> the <code>RoutingEngine</code> inserts additional charging stations
  to reach the waypoints.
  This feature requires setting the <a href="sdk-for-android-explore-batteryspecifications" title="class in com.here.sdk.routing"><code>BatterySpecifications</code></a>.
  By default a vehicle might not reach the waypoint, when the initial charge is not enough to reach all waypoints.
- See the parameter description below for more details.</p></p></p></p></div>
+ See the parameter description below for more details.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -357,8 +357,8 @@ slug: "sdk-for-android-explore-routingoptions"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

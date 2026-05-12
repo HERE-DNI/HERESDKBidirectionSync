@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-maparrow"
 <!-- MapArrow.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -69,8 +69,8 @@ slug: "sdk-for-android-explore-maparrow"
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>A visual representation of an arrow on the map. It consists of a tail - a polyline with an arbitrary
  number of points - and a head at its end.
- <p>The map arrows are only visible on zoom levels &gt;= 13.
- <p>Altitude component of <code>GeoPolyline</code>'s vertices is ignored.</p></p></p></div>
+ </p><p>The map arrows are only visible on zoom levels &gt;= 13.
+ </p><p>Altitude component of <code>GeoPolyline</code>'s vertices is ignored.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -148,7 +148,7 @@ slug: "sdk-for-android-explore-maparrow"
  @NonNull
  <a href="sdk-for-android-explore-core-color" title="class in com.here.sdk.core">Color</a> color)</span></div>
 <div class="block"><p>Creates a new <code>MapArrow</code> instance.
- <p>Altitude component of <code>GeoPolyline</code>'s vertices is ignored.</p></p></div>
+ </p><p>Altitude component of <code>GeoPolyline</code>'s vertices is ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>geometry</code> - <p>The geometry of the arrow tail. The last coordinate in the list defines the position where the
@@ -173,11 +173,11 @@ slug: "sdk-for-android-explore-maparrow"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt;</span> <span class="element-name">getMeasureDependentTailWidth</span>()</div>
 <div class="block"><p>Gets the <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a> dependent arrow tail width in pixels.
- <p>If tail width was configured without <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a> dependency, then <code>measureDependentTailWidth</code>
+ </p><p>If tail width was configured without <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a> dependency, then <code>measureDependentTailWidth</code>
  contains single entry with measure 0 of type <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> and width value
  equal to <code>widthInPixels</code>.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.</p></p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The width of the arrow tail in pixels, where the key is a <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a> and the value is
@@ -191,17 +191,17 @@ slug: "sdk-for-android-explore-maparrow"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setMeasureDependentTailWidth</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a>,<wbr/><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>&gt; value)</span></div>
 <div class="block"><p>Sets the <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a> dependent arrow tail width in pixels.
- <p>The width values are linearly interpolated between nearest map entries.
+ </p><p>The width values are linearly interpolated between nearest map entries.
  Width values for <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a> outside the map entries are kept constant, using the
  value of the largest/smallest key.
- <p>Only <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a> of <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> type is supported.
+ </p><p>Only <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a> of <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> type is supported.
  Other <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a> types are unsupported and hence, will be ignored.
- <p>Map with a single entry is equivalent to use of the <code>widthInPixels</code> value
+ </p><p>Map with a single entry is equivalent to use of the <code>widthInPixels</code> value
  in the constructor, so a constant width setting, independent of camera.
- <p>Empty input is ignored and existing width is maintained.
- <p>The width values should be positive. Map entries with width values less than or equal to 0 are ignored.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.</p></p></p></p></p></p></p></div>
+ </p><p>Empty input is ignored and existing width is maintained.
+ </p><p>The width values should be positive. Map entries with width values less than or equal to 0 are ignored.
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The width of the arrow tail in pixels, where the key is a <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview"><code>MapMeasure</code></a> and the value is
@@ -215,11 +215,11 @@ slug: "sdk-for-android-explore-maparrow"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt;</span> <span class="element-name">getVisibilityRanges</span>()</div>
 <div class="block"><p>Gets the list of visibility ranges.
- <p>A range is half-open - [minimumZoomLevel, maximumZoomLevel), the given maximum value
+ </p><p>A range is half-open - [minimumZoomLevel, maximumZoomLevel), the given maximum value
  is not contained in the range.
- <p>When empty (the default), the map arrows are visible without map measure restrictions.
+ </p><p>When empty (the default), the map arrows are visible without map measure restrictions.
  Only <code>MapMeasureRange</code>(s) of <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> type are supported.
- <code>MapMeasureRange</code>(s) of other unsupported types will be ignored.}</p></p></p></div>
+ <code>MapMeasureRange</code>(s) of other unsupported types will be ignored.}</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The list of visibility ranges, in which the map arrow is visible.</p></dd>
@@ -232,11 +232,11 @@ slug: "sdk-for-android-explore-maparrow"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setVisibilityRanges</span><wbr/><span class="parameters">(@NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-mapmeasurerange" title="class in com.here.sdk.mapview">MapMeasureRange</a>&gt; value)</span></div>
 <div class="block"><p>Sets visibility ranges for this map arrow.
- <p>A range is half-open - [minimumZoomLevel, maximumZoomLevel), the given maximum value
+ </p><p>A range is half-open - [minimumZoomLevel, maximumZoomLevel), the given maximum value
  is not contained in the range.
- <p>When empty (the default), the map arrows are visible without map measure restrictions.
+ </p><p>When empty (the default), the map arrows are visible without map measure restrictions.
  Only <code>MapMeasureRange</code>(s) of <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> type are supported.
- <code>MapMeasureRange</code>(s) of other unsupported types will be ignored.}</p></p></p></div>
+ <code>MapMeasureRange</code>(s) of other unsupported types will be ignored.}</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The list of visibility ranges, in which the map arrow is visible.</p></dd>
@@ -252,8 +252,8 @@ slug: "sdk-for-android-explore-maparrow"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

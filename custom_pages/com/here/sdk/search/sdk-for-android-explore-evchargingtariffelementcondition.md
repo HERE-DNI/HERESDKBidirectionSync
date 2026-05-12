@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-evchargingtariffelementcondition"
 <!-- EVChargingTariffElementCondition.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -74,8 +74,8 @@ slug: "sdk-for-android-explore-evchargingtariffelementcondition"
 <li>Charging session duration</li>
 <li>Battery level thresholds (e.g., overstay fees)</li>
 </ul>
-<p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></div>
+</p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -200,7 +200,7 @@ slug: "sdk-for-android-explore-evchargingtariffelementcondition"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-evchargingdurationrange" title="class in com.here.sdk.search">EVChargingDurationRange</a></span> <span class="element-name">duration</span></div>
 <div class="block"><p>Duration of the charging session when the tariff element is valid, in seconds.
- <p>Often only either one of the values is present, indicating the minimum or maximum duration.</p></p></div>
+ </p><p>Often only either one of the values is present, indicating the minimum or maximum duration.</p></div>
 </section>
 </li>
 <li>
@@ -264,8 +264,8 @@ slug: "sdk-for-android-explore-evchargingtariffelementcondition"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

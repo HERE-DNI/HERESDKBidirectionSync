@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-trafficincident-vehiclerestriction"
 <!-- TrafficIncident.VehicleRestriction.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -546,8 +546,8 @@ slug: "sdk-for-android-explore-trafficincident-vehiclerestriction"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

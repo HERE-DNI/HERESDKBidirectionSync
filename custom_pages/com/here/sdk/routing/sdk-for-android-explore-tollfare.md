@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-tollfare"
 <!-- TollFare.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -66,12 +66,12 @@ slug: "sdk-for-android-explore-tollfare"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">TollFare</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>This struct presents all the fare data for a toll.
- <p><strong>Note</strong>: If you're using the <code>OfflineRoutingEngine</code>, be aware that this feature is
+ </p><p><strong>Note</strong>: If you're using the <code>OfflineRoutingEngine</code>, be aware that this feature is
  currently in <strong>beta</strong>. As a result, there may be some bugs or unexpected behaviors.
  Additionally, this feature and related APIs may be updated in future releases
  without going through the deprecation process. Note that the <code>OfflineRoutingEngine</code>
  is only available for the Navigate license. If you're using the
- <code>RoutingEngine</code>, this feature is considered to be stable.</p></p></div>
+ <code>RoutingEngine</code>, this feature is considered to be stable.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -382,8 +382,8 @@ slug: "sdk-for-android-explore-tollfare"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

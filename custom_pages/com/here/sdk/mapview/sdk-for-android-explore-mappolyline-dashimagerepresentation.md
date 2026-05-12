@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mappolyline-dashimagerepresentation"
 <!-- MapPolyline.DashImageRepresentation.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -77,17 +77,17 @@ slug: "sdk-for-android-explore-mappolyline-dashimagerepresentation"
 <span class="extends-implements">extends <a href="sdk-for-android-explore-mappolyline.representation" title="class in com.here.sdk.mapview">MapPolyline.Representation</a></span></div>
 <div class="block"><p>Represents a dash pattern for the map polyline consisting of images rendered with certain gaps
  from each other.
- <p>This dash pattern representation consists only of images rendered at certain
+ </p><p>This dash pattern representation consists only of images rendered at certain
  points along the polyline. For rendering them without any distortions, polyline gets sliced into
  series of straight segments that are multiple of sum of dash and gap lengths. For this
  reason, the new polyline geometry might not align fully with original geometry.
- <p>The <a href="#getDashImage()"><code>getDashImage()</code></a> is stretched according to <a href="#getDashLength()"><code>getDashLength()</code></a>
+ </p><p>The <a href="#getDashImage()"><code>getDashImage()</code></a> is stretched according to <a href="#getDashLength()"><code>getDashLength()</code></a>
  and <a href="#getDashWidth()"><code>getDashWidth()</code></a>, with image's width matched to <code>dashLength</code> and
  image's height matched to <code>dashWidth</code>. The image is oriented so that its bottom is on the
  left-hand side between vertices <code>n</code> and <code>n+1</code>.
- <p>The spacing between images is specified by <a href="#getGapLength()"><code>getGapLength()</code></a>.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behaviors. Related APIs may change for new releases without a deprecation process.</p></p></p></p></p></div>
+ </p><p>The spacing between images is specified by <a href="#getGapLength()"><code>getGapLength()</code></a>.
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -185,14 +185,14 @@ slug: "sdk-for-android-explore-mappolyline-dashimagerepresentation"
                         throws <span class="exceptions"><a href="sdk-for-android-explore-mappolyline.representation.instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></span></div>
 <div class="block"><p>Creates a uniform dash pattern in which the length of a gap is the same as the length of
  a dash. Dashes are rendered as image.
- <p>This allows for patterns like <code>' — — — —'</code> or <code>' —— —— ——'</code>.
- <p>For <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a> supplied for <code>dashLength</code> and <code>dashWidth</code>,
+ </p><p>This allows for patterns like <code>' — — — —'</code> or <code>' —— —— ——'</code>.
+ </p><p>For <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a> supplied for <code>dashLength</code> and <code>dashWidth</code>,
  only <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported for <a href="sdk-for-android-explore-mapmeasuredependentrendersize#measureKind"><code>MapMeasureDependentRenderSize.measureKind</code></a>
  and only <a href="sdk-for-android-explore-rendersize.unit#METERS"><code>RenderSize.Unit.METERS</code></a> is supported for <a href="sdk-for-android-explore-mapmeasuredependentrendersize#sizeUnit"><code>MapMeasureDependentRenderSize.sizeUnit</code></a>.
- <p>Only map measure values in range [3-19] are supported.
- <p>The value of the keys in <a href="sdk-for-android-explore-mapmeasuredependentrendersize#sizes"><code>MapMeasureDependentRenderSize.sizes</code></a> is truncated to integer values,
+ </p><p>Only map measure values in range [3-19] are supported.
+ </p><p>The value of the keys in <a href="sdk-for-android-explore-mapmeasuredependentrendersize#sizes"><code>MapMeasureDependentRenderSize.sizes</code></a> is truncated to integer values,
  hence only a single value can be provided per zoom level.
- <p>The values are interpolated linearly between zoom levels.</p></p></p></p></p></p></div>
+ </p><p>The values are interpolated linearly between zoom levels.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>dashLength</code> - <p>The map measure dependent length of a dash, to which image width is stretched.</p></dd>
@@ -217,14 +217,14 @@ slug: "sdk-for-android-explore-mappolyline-dashimagerepresentation"
                         throws <span class="exceptions"><a href="sdk-for-android-explore-mappolyline.representation.instantiationexception" title="class in com.here.sdk.mapview">MapPolyline.Representation.InstantiationException</a></span></div>
 <div class="block"><p>Creates a simple dash pattern in which the lengths of a dash and gap can be different.
  Dashes are rendered as image.
- <p>This allows for patterns like <code>' — — — —'</code> or <code>' ——— ——— ———'</code>.
- <p>For <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a> supplied for <code>dashLength</code>, <code>gapLength</code> and <code>dashWidth</code>,
+ </p><p>This allows for patterns like <code>' — — — —'</code> or <code>' ——— ——— ———'</code>.
+ </p><p>For <a href="sdk-for-android-explore-mapmeasuredependentrendersize" title="class in com.here.sdk.mapview"><code>MapMeasureDependentRenderSize</code></a> supplied for <code>dashLength</code>, <code>gapLength</code> and <code>dashWidth</code>,
  only <a href="sdk-for-android-explore-mapmeasure.kind#ZOOM_LEVEL"><code>MapMeasure.Kind.ZOOM_LEVEL</code></a> is supported for <a href="sdk-for-android-explore-mapmeasuredependentrendersize#measureKind"><code>MapMeasureDependentRenderSize.measureKind</code></a>
  and only <a href="sdk-for-android-explore-rendersize.unit#METERS"><code>RenderSize.Unit.METERS</code></a> is supported for <a href="sdk-for-android-explore-mapmeasuredependentrendersize#sizeUnit"><code>MapMeasureDependentRenderSize.sizeUnit</code></a>.
- <p>Only map measure values in range [3-19] are supported.
- <p>The value of the keys in <a href="sdk-for-android-explore-mapmeasuredependentrendersize#sizes"><code>MapMeasureDependentRenderSize.sizes</code></a> is truncated to integer values,
+ </p><p>Only map measure values in range [3-19] are supported.
+ </p><p>The value of the keys in <a href="sdk-for-android-explore-mapmeasuredependentrendersize#sizes"><code>MapMeasureDependentRenderSize.sizes</code></a> is truncated to integer values,
  hence only a single value can be provided per zoom level.
- <p>The values are interpolated linearly between zoom levels.</p></p></p></p></p></p></div>
+ </p><p>The values are interpolated linearly between zoom levels.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>dashLength</code> - <p>The map measure dependent length of a dash, to which image width is stretched.</p></dd>
@@ -250,7 +250,7 @@ slug: "sdk-for-android-explore-mappolyline-dashimagerepresentation"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview">MapImage</a></span> <span class="element-name">getDashImage</span>()</div>
 <div class="block"><p>Gets the image that is rendered in place of dash space.
- <p>It is stretched to fill whole polyline width and length of each dash.</p></p></div>
+ </p><p>It is stretched to fill whole polyline width and length of each dash.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Image to be rendered in place of dash space.</p></dd>
@@ -302,8 +302,8 @@ slug: "sdk-for-android-explore-mappolyline-dashimagerepresentation"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

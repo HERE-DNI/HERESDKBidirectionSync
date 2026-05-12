@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mapsceneloadoptionsbuilder"
 <!-- MapSceneLoadOptionsBuilder.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -69,8 +69,8 @@ slug: "sdk-for-android-explore-mapsceneloadoptionsbuilder"
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Builder for creating <a href="sdk-for-android-explore-mapsceneloadoptions" title="class in com.here.sdk.mapview"><code>MapSceneLoadOptions</code></a> instances.
  This builder ensures that either a MapScheme or a configuration file is set, but not both.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -310,8 +310,8 @@ slug: "sdk-for-android-explore-mapsceneloadoptionsbuilder"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

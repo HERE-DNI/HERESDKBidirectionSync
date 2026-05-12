@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-evchargingtariff"
 <!-- EVChargingTariff.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -217,8 +217,8 @@ slug: "sdk-for-android-explore-evchargingtariff"
 <div class="block"><p>Elements composing the tariff. Each element can have multiple components. When multiple elements
  are present, the associated condition helps the client to select the element that matches the
  charging session. If no condition matches, the element without any condition applies.
- <p>Please note that tariff elements or conditions requiring access to vehicle APIs are not present in this API.
- The provided elements can only be used to derive a price estimate, which in most cases is reasonably close to the final price.</p></p></div>
+ </p><p>Please note that tariff elements or conditions requiring access to vehicle APIs are not present in this API.
+ The provided elements can only be used to derive a price estimate, which in most cases is reasonably close to the final price.</p></div>
 </section>
 </li>
 </ul>
@@ -273,8 +273,8 @@ slug: "sdk-for-android-explore-evchargingtariff"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-carspecifications"
 <!-- CarSpecifications.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -315,8 +315,8 @@ slug: "sdk-for-android-explore-carspecifications"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

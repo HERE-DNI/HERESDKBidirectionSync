@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-dataattributesaccessor"
 <!-- DataAttributesAccessor.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -73,8 +73,8 @@ slug: "sdk-for-android-explore-dataattributesaccessor"
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a>
 implements <a href="sdk-for-android-explore-dataattributesbase" title="interface in com.here.sdk.mapview.datasource">DataAttributesBase</a></span></div>
 <div class="block"><p>Accessor used for manipulating data attributes.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -482,8 +482,8 @@ implements <a href="sdk-for-android-explore-dataattributesbase" title="interface
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

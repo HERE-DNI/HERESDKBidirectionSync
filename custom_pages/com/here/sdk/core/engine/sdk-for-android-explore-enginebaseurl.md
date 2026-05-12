@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-enginebaseurl"
 <!-- EngineBaseURL.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -240,12 +240,12 @@ the order they are declared.</div>
 <div class="block"><p>Indicates a <code>Traffic Vector Tile API</code> endpoint.
  Note that the provided string value will replace the base URL.
  This is only relevant for traffic presented in the map view. For the TrafficEngine, please use <a href="#TRAFFIC_DATA"><code>TRAFFIC_DATA</code></a>.
- <p>The service needs to comply with https://www.here.com/docs/bundle/traffic-vector-tile-api-v2-api-reference/page/index.html
+ </p><p>The service needs to comply with https://www.here.com/docs/bundle/traffic-vector-tile-api-v2-api-reference/page/index.html
  The endpoint name for this engine is "v2/traffictiles". A valid base string value
  could look like "www.my-company.com". The resulting URL looks like this:
  "https://www.my-company.com/v2/traffictiles/{layer}/mc/{z}/{x}/{y}/omv", with concrete tile
  IDs in {x}, {y}, {z} and {layers} in (flow, incidents).
- You need to ensure that the provided base URL supports all required endpoints.</p></p></div>
+ You need to ensure that the provided base URL supports all required endpoints.</p></div>
 </section>
 </li>
 <li>
@@ -318,8 +318,8 @@ not permitted.)</div>
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mappolylineanimation"
 <!-- MapPolylineAnimation.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -152,8 +152,8 @@ slug: "sdk-for-android-explore-mappolylineanimation"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

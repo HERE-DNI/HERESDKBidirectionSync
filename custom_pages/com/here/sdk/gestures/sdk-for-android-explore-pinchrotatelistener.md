@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-pinchrotatelistener"
 <!-- PinchRotateListener.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -135,8 +135,8 @@ slug: "sdk-for-android-explore-pinchrotatelistener"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

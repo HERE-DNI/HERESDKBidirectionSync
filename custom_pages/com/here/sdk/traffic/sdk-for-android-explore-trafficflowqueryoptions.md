@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-trafficflowqueryoptions"
 <!-- TrafficFlowQueryOptions.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -175,8 +175,8 @@ slug: "sdk-for-android-explore-trafficflowqueryoptions"
 <h3>TrafficFlowQueryOptions</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">TrafficFlowQueryOptions</span>()</div>
 <div class="block"><p>Creates a new instance.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 </li>
 </ul>
@@ -216,8 +216,8 @@ slug: "sdk-for-android-explore-trafficflowqueryoptions"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

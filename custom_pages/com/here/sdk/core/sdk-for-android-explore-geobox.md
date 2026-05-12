@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-geobox"
 <!-- GeoBox.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -338,8 +338,8 @@ slug: "sdk-for-android-explore-geobox"
 <div class="block"><p>Computes the intersection with the passed <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>.
  The altitude values are ignored.
  Limitation: Geo boxes are considered as non-intersecting if they overlap only on a single point, horizontal line or vertical line.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>geoBox</code> - <p>Another geo box to check intersection with.</p></dd>
@@ -358,8 +358,8 @@ slug: "sdk-for-android-explore-geobox"
 <div class="block"><p>Computes intersection of list of <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> instances.
  The altitude values are ignored.
  Limitation: Geo boxes are considered as non-intersecting if they overlap only on a single point, horizontal line or vertical line.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>geoBoxes</code> - <p>List of <a href="sdk-for-android-explore-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a> instances.</p></dd>
@@ -433,8 +433,8 @@ slug: "sdk-for-android-explore-geobox"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

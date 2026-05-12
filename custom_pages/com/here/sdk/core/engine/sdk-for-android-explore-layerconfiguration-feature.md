@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-layerconfiguration-feature"
 <!-- LayerConfiguration.Feature.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -77,7 +77,7 @@ slug: "sdk-for-android-explore-layerconfiguration-feature"
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Enum.html" title="class or interface in java.lang">Enum</a>&lt;<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt;</span></div>
 <div class="block"><p>Defines a list of possible map data features that can be enabled / disabled.
  See <a href="sdk-for-android-explore-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>
-<p>Following features are enabled by default:
+</p><p>Following features are enabled by default:
  <ul>
 <li><a href="#DETAIL_RENDERING"><code>DETAIL_RENDERING</code></a></li>
 <li><a href="#LANDMARKS_3D"><code>LANDMARKS_3D</code></a></li>
@@ -86,22 +86,22 @@ slug: "sdk-for-android-explore-layerconfiguration-feature"
 <li><a href="#OFFLINE_ROUTING"><code>OFFLINE_ROUTING</code></a></li>
 <li><a href="#RENDERING"><code>RENDERING</code></a></li>
 </ul>
-<p>All other features are disabled, by default.
- <p>Each feature enables a set of OCM layer groups to be downloaded by <code>sdk.maploader.MapDownloader</code>.
+</p><p>All other features are disabled, by default.
+ </p><p>Each feature enables a set of OCM layer groups to be downloaded by <code>sdk.maploader.MapDownloader</code>.
  Detailed description of each layer group available in the
  <a href="https://www.here.com/docs/bundle/optimized-client-map-developer-guide/page/README.html">HERE Optimized Client Map Developer Guide</a>
-<p>Following features are enabled by default for implicit prefetch:
+</p><p>Following features are enabled by default for implicit prefetch:
  <ul>
 <li><a href="#NAVIGATION"><code>NAVIGATION</code></a></li>
 </ul>
-<p>Implicit prefetch downloads map content for implicit prefetch features within a view port currently showed by MapView.
+</p><p>Implicit prefetch downloads map content for implicit prefetch features within a view port currently showed by MapView.
  Explicit prefetching is done using <code>sdk.prefetcher.RoutePrefetcher</code> and <code>sdk.prefetcher.PolygonPrefetcher</code>.
- <p>Feature might have more than one layer group predefined to enable full experience. For example,
+ </p><p>Feature might have more than one layer group predefined to enable full experience. For example,
  <a href="#NAVIGATION"><code>NAVIGATION</code></a> requires routing attributes, visual-friendly
  street names, maneuvers data and ability to interconnect those data sets.
- <p>The same map data is useful for different features, for example <a href="#RENDERING"><code>RENDERING</code></a>
+ </p><p>The same map data is useful for different features, for example <a href="#RENDERING"><code>RENDERING</code></a>
  uses Places data to present it on the MapView, while <a href="#OFFLINE_SEARCH"><code>OFFLINE_SEARCH</code></a> uses
- the same data to enable discoverability by name or category. Hence, features might have overlapping sets of enabled layer groups.</p></p></p></p></p></p></p></p></div>
+ the same data to enable discoverability by name or category. Hence, features might have overlapping sets of enabled layer groups.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -273,10 +273,10 @@ the order they are declared.</div>
  When not set, the data will be excluded when downloading offline regions or prefetching areas
  that contain such data. However, during online usage such data may still be downloaded into the
  cache and shown. Increase of 11-16% is to be expected for map size, in case of enabling this feature.
- <p>Feature enables following OCM layer groups:
+ </p><p>Feature enables following OCM layer groups:
  <ul>
 <li>"detailed_rendering"</li>
-</ul></p></p></div>
+</ul></p></div>
 </section>
 </li>
 <li>
@@ -287,13 +287,13 @@ the order they are declared.</div>
  navigation may not work properly when being used offline.
  Increase of 5-7% is to be expected for map size, but pay attention, that this feature is depended on
  other layer groups (e.g. routing), so, in total is takes about 21-29 % of map size.
- <p>Feature enables following OCM layer groups:
+ </p><p>Feature enables following OCM layer groups:
  <ul>
 <li>"interop"</li>
 <li>"rendering"</li>
 <li>"navigation"</li>
 <li>"routing"</li>
-</ul></p></p></div>
+</ul></p></div>
 </section>
 </li>
 <li>
@@ -302,12 +302,12 @@ the order they are declared.</div>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">OFFLINE_SEARCH</span></div>
 <div class="block"><p>Map data that is used to search. When not set, the OfflineSearchEngine may not
  work properly when being used offline.
- <p>Feature enables following OCM layer groups:
+ </p><p>Feature enables following OCM layer groups:
  <ul>
 <li>"rendering"</li>
 <li>"routing"</li>
 <li>"search"</li>
-</ul></p></p></div>
+</ul></p></div>
 </section>
 </li>
 <li>
@@ -318,40 +318,40 @@ the order they are declared.</div>
  across broader geographic areas and improves both performance and accuracy
  by leveraging global search indices.
  By default this feature is disabled.
- <p>Enables the HERE SDK to use the enhanced offline search algorithm for downloaded map regions when:
+ </p><p>Enables the HERE SDK to use the enhanced offline search algorithm for downloaded map regions when:
  <ul>
 <li><code>OFFLINE_SEARCH_GLOBAL</code> is included in <a href="sdk-for-android-explore-layerconfiguration#enabledFeatures"><code>LayerConfiguration.enabledFeatures</code></a> and</li>
 <li>downloaded map regions contain the required OCM layer groups listed below.</li>
 </ul>
-<p>Also enables the enhanced offline search algorithm for implicitly prefetched map content when:
+</p><p>Also enables the enhanced offline search algorithm for implicitly prefetched map content when:
  <ul>
 <li><code>OFFLINE_SEARCH_GLOBAL</code> is included in <a href="sdk-for-android-explore-layerconfiguration#implicitlyPrefetchedFeatures"><code>LayerConfiguration.implicitlyPrefetchedFeatures</code></a> and</li>
 <li>downloaded map regions (if present) contain the required OCM layer groups.</li>
 </ul>
-<p>Both options can be enabled together. However, if enabling the feature for
+</p><p>Both options can be enabled together. However, if enabling the feature for
  implicitly prefetched content, it is recommended to also enable it for
  downloaded map regions to ensure consistent search behavior.
- <p><strong>Important</strong>: After enabling this feature, make sure to update the cached offline maps.
+ </p><p><strong>Important</strong>: After enabling this feature, make sure to update the cached offline maps.
  If the cached maps are not updated, the algorithm will either:
  <ol>
 <li>Fall back to the stable offline search if <code>OFFLINE_SEARCH</code> is still included in <a href="sdk-for-android-explore-layerconfiguration#enabledFeatures"><code>LayerConfiguration.enabledFeatures</code></a>, or</li>
 <li>Produce a <code>LAYERS_NOT_DOWNLOADED</code> error if the necessary layers are missing.</li>
 </ol>
-<p>To prevent excessive map size growth, it is recommended to enable only one of
+</p><p>To prevent excessive map size growth, it is recommended to enable only one of
  <code>OFFLINE_SEARCH_GLOBAL</code> or <code>OFFLINE_SEARCH</code> at a time.
- <p>Enabling this feature increases storage requirements:
+ </p><p>Enabling this feature increases storage requirements:
  <ul>
 <li>Downloaded map region size by ~11–16% when enabled via <a href="sdk-for-android-explore-layerconfiguration#enabledFeatures"><code>LayerConfiguration.enabledFeatures</code></a>.</li>
 <li>Map cache size by ~40–140% when enabled via <a href="sdk-for-android-explore-layerconfiguration#implicitlyPrefetchedFeatures"><code>LayerConfiguration.implicitlyPrefetchedFeatures</code></a>
  (upper bound occurs for long routes, e.g., Paris → Rome).</li>
 </ul>
-<p>Feature enables following OCM layer groups:
+</p><p>Feature enables following OCM layer groups:
  <ul>
 <li>"search_global"</li>
 <li>"search_data"</li>
 </ul>
-<p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></p></p></p></p></p></p></p></div>
+</p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 </li>
 <li>
@@ -361,14 +361,14 @@ the order they are declared.</div>
 <div class="block"><p>Map data that is used to calculate routes. When not set, the OfflineRoutingEngine
  may not work properly when being used offline.  Increase of 12-16.5% is to be expected for map size, but pay attention,
  that this feature is depended on other layer groups (e.g. navigation), so, in total is takes about 33-45 % of map size.
- <p>Feature enables following OCM layer groups:
+ </p><p>Feature enables following OCM layer groups:
  <ul>
 <li>"rendering"</li>
 <li>"navigation"</li>
 <li>"routing"</li>
 <li>"interop"</li>
 <li>"car_offline_routing"</li>
-</ul></p></p></div>
+</ul></p></div>
 </section>
 </li>
 <li>
@@ -377,10 +377,10 @@ the order they are declared.</div>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">RENDERING</span></div>
 <div class="block"><p>A basic set of rendering features such as carto POIs. Increase of 16-22% is to be expected for map size, but pay attention,
  that this feature is depended on other layer groups (e.g. navigation), so, in total is takes about 21-29 % of map size.
- <p>Feature enables following OCM layer groups:
+ </p><p>Feature enables following OCM layer groups:
  <ul>
 <li>"rendering"</li>
-</ul></p></p></div>
+</ul></p></div>
 </section>
 </li>
 <li>
@@ -395,12 +395,12 @@ the order they are declared.</div>
  Online truck navigation will still work when the device has an online connection.
  Increase of 0.7-1.1% is to be expected for map size, in case of enabling this feature.
  By default this feature is disabled.
- <p>Feature enables following OCM layer groups:
+ </p><p>Feature enables following OCM layer groups:
  <ul>
 <li>"truck"</li>
 <li>"long_truck_offline_routing"</li>
 <li>"truck_offline_routing"</li>
-</ul></p></p></div>
+</ul></p></div>
 </section>
 </li>
 <li>
@@ -411,13 +411,13 @@ the order they are declared.</div>
  will be excluded when downloading offline regions or prefetching areas that contain such data.
  When the <code>landmarks</code> <code>MapFeature</code> is set to be visible for a <code>MapScene</code>, 3D landmarks will still be loaded and
  visible during online usage. Increase of 2-3% is to be expected for map size, in case of enabling this feature.
- <p>3D landmark rendering is enabled by default in grayscale on normal,
+ </p><p>3D landmark rendering is enabled by default in grayscale on normal,
  logistics and topo schemes, and in textureless mode on lite schemes. However, when this map data feature is disabled,
  the 3D landmark rendering for the above schemes will not work in offline mode with the downloaded map packages.
  Feature enables following OCM layer groups:
  <ul>
 <li>"landmarks"</li>
-</ul></p></p></div>
+</ul></p></div>
 </section>
 </li>
 <li>
@@ -425,11 +425,11 @@ the order they are declared.</div>
 <h3>EV</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">EV</span></div>
 <div class="block"><p>Offline map data for <code>EVChargingStation</code>.
- <p>Feature enables following OCM layer groups:
+ </p><p>Feature enables following OCM layer groups:
  <ul>
 <li>"ev_charging_station_rendering_premium"</li>
 <li>"ev_charging_station_search_premium"</li>
-</ul></p></p></div>
+</ul></p></div>
 </section>
 </li>
 <li>
@@ -448,10 +448,10 @@ the order they are declared.</div>
 <h3>FUEL_STATION_ATTRIBUTES</h3>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">FUEL_STATION_ATTRIBUTES</span></div>
 <div class="block"><p>Enables fuel attributes to be returned by Offline Search engine.
- <p>Feature enables following OCM layer groups:
+ </p><p>Feature enables following OCM layer groups:
  <ul>
 <li>"fueling_station_premium"</li>
-</ul></p></p></div>
+</ul></p></div>
 </section>
 </li>
 <li>
@@ -460,10 +460,10 @@ the order they are declared.</div>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">OFFLINE_BUS_ROUTING</span></div>
 <div class="block"><p>Map data that is used to calculate bus routes.
  When not set, the <code>OfflineRoutingEngine</code> may not be able to calculate routes with <code>BusOptions</code>.
- <p>Feature enables following OCM layer groups:
+ </p><p>Feature enables following OCM layer groups:
  <ul>
 <li>"bus_offline_routing"</li>
-</ul></p></p></div>
+</ul></p></div>
 </section>
 </li>
 <li>
@@ -473,12 +473,12 @@ the order they are declared.</div>
 <div class="block"><p>Map data that provides junction view images and assets with aspect ratio 3x4.
  This will also provide common assets that do not depend on specific aspect ratio.
  By default this feature is disabled.
- <p>Feature enables following OCM layer groups:
+ </p><p>Feature enables following OCM layer groups:
  <ul>
 <li>"junction_view_file_3x4"</li>
 <li>"junction_view_asset_3x4"</li>
 <li>"junction_view_asset_common"</li>
-</ul></p></p></div>
+</ul></p></div>
 </section>
 </li>
 <li>
@@ -488,12 +488,12 @@ the order they are declared.</div>
 <div class="block"><p>Map data that provides junction view images and assets with aspect ratio 16x9.
  This will also provide common assets that do not depend on specific aspect ratio.
  By default this feature is disabled.
- <p>Feature enables following OCM layer groups:
+ </p><p>Feature enables following OCM layer groups:
  <ul>
 <li>"junction_view_file_16x9"</li>
 <li>"junction_view_asset_16x9"</li>
 <li>"junction_view_asset_common"</li>
-</ul></p></p></div>
+</ul></p></div>
 </section>
 </li>
 <li>
@@ -502,10 +502,10 @@ the order they are declared.</div>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_3X4</span></div>
 <div class="block"><p>Map data that provides junction sign images with aspect ratio 3x4.
  By default this feature is disabled.
- <p>Feature enables following OCM layer groups:
+ </p><p>Feature enables following OCM layer groups:
  <ul>
 <li>"junction_sign_file_3x4"</li>
-</ul></p></p></div>
+</ul></p></div>
 </section>
 </li>
 <li>
@@ -514,10 +514,10 @@ the order they are declared.</div>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_3X5</span></div>
 <div class="block"><p>Map data that provides junction sign images with aspect ratio 3x5.
  By default this feature is disabled.
- <p>Feature enables following OCM layer groups:
+ </p><p>Feature enables following OCM layer groups:
  <ul>
 <li>"junction_sign_file_3x5"</li>
-</ul></p></p></div>
+</ul></p></div>
 </section>
 </li>
 <li>
@@ -526,10 +526,10 @@ the order they are declared.</div>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_4X3</span></div>
 <div class="block"><p>Map data that provides junction sign images with aspect ratio 4x3.
  By default this feature is disabled.
- <p>Feature enables following OCM layer groups:
+ </p><p>Feature enables following OCM layer groups:
  <ul>
 <li>"junction_sign_file_4x3"</li>
-</ul></p></p></div>
+</ul></p></div>
 </section>
 </li>
 <li>
@@ -550,10 +550,10 @@ the order they are declared.</div>
 <div class="member-signature"><span class="modifiers">public static final</span> <span class="return-type"><a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></span> <span class="element-name">JUNCTION_SIGN_16X9</span></div>
 <div class="block"><p>Map data that provides junction sign images with aspect ratio 16x9.
  By default this feature is disabled.
- <p>Feature enables following OCM layer groups:
+ </p><p>Feature enables following OCM layer groups:
  <ul>
 <li>"junction_sign_file_16x9"</li>
-</ul></p></p></div>
+</ul></p></div>
 </section>
 </li>
 <li>
@@ -564,7 +564,7 @@ the order they are declared.</div>
  The related map feature  with mode
  is enabled by default on topo map schemes.
  It is disabled by default on all other schemes.
- <p>Note that this change has performance implications, with additional data consumption and
+ </p><p>Note that this change has performance implications, with additional data consumption and
  impact on rendering frame rate.
  If performance is a concern, this feature can be disabled from the application side when
  loading the map scene.
@@ -573,7 +573,7 @@ the order they are declared.</div>
  Feature enables following OCM layer groups:
  <ul>
 <li>"terrain"</li>
-</ul></p></p></div>
+</ul></p></div>
 </section>
 </li>
 <li>
@@ -675,8 +675,8 @@ not permitted.)</div>
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

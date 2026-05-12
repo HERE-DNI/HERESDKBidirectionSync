@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-locationindicator"
 <!-- LocationIndicator.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -68,18 +68,18 @@ slug: "sdk-for-android-explore-locationindicator"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">LocationIndicator</span>
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Graphical object to represent the location of the user on the map.
- <p>It is either a green dot for pedestrian style or a triangular arrow for vehicle navigation style.
+ </p><p>It is either a green dot for pedestrian style or a triangular arrow for vehicle navigation style.
  This style can be changed by <a href="#setLocationIndicatorStyle(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)"><code>setLocationIndicatorStyle(com.here.sdk.mapview.LocationIndicator.IndicatorStyle)</code></a>
-<p>The location is made available to an instance of this class by calling <a href="#updateLocation(com.here.sdk.core.Location)"><code>updateLocation(Location)</code></a> or
+</p><p>The location is made available to an instance of this class by calling <a href="#updateLocation(com.here.sdk.core.Location)"><code>updateLocation(Location)</code></a> or
  <a href="#updateLocation(com.here.sdk.core.Location,com.here.sdk.mapview.MapCameraUpdate)"><code>updateLocation(Location, MapCameraUpdate)</code></a>.
- <p>Use <a href="#enable(com.here.sdk.mapview.MapViewBase)"><code>enable(com.here.sdk.mapview.MapViewBase)</code></a> to add this object to the map and <a href="#disable()"><code>disable()</code></a> to remove it.
- <p>Take care that the
+ </p><p>Use <a href="#enable(com.here.sdk.mapview.MapViewBase)"><code>enable(com.here.sdk.mapview.MapViewBase)</code></a> to add this object to the map and <a href="#disable()"><code>disable()</code></a> to remove it.
+ </p><p>Take care that the
  location indicator is not accidentally added to the map view multiple times for example when the
  android activity is recreated after an orientation change.
- <p>Note: The LocationIndicator is always rendered at a fixed altitude near 0. Changing the MapCamera
+ </p><p>Note: The LocationIndicator is always rendered at a fixed altitude near 0. Changing the MapCamera
  to look at geographic coordinates with an altitude that is higher can cause the following behavior: If the
  MapCamera angle is tilted and altitude is too high, the LocationIndicator can unexpectedly
- disappear from the viewport due to the new perspective.</p></p></p></p></p></p></div>
+ disappear from the viewport due to the new perspective.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -310,7 +310,7 @@ slug: "sdk-for-android-explore-locationindicator"
 <div class="block"><p>Updates the indicator to a new location.
  If accuracy visualized is set to <code>true</code> the field <a href="sdk-for-android-explore-core-location#horizontalAccuracyInMeters"><code>Location.horizontalAccuracyInMeters</code></a>
  determines the size of the accuracy indicator halo.
- <p>The altitude of the location is ignored.</p></p></div>
+ </p><p>The altitude of the location is ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>location</code> - <p>The updated location of the user.</p></dd>
@@ -325,10 +325,10 @@ slug: "sdk-for-android-explore-locationindicator"
  @NonNull
  <a href="sdk-for-android-explore-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate)</span></div>
 <div class="block"><p>Updates the indicator to a new location and applies a camera update at the same time.
- <p>Does nothing if the indicator instance is not enabled.
+ </p><p>Does nothing if the indicator instance is not enabled.
  If accuracy visualized is set to <code>true</code> the field <a href="sdk-for-android-explore-core-location#horizontalAccuracyInMeters"><code>Location.horizontalAccuracyInMeters</code></a>
  determines the size of the accuracy indicator halo.
- <p>The altitude of the location is ignored.</p></p></p></div>
+ </p><p>The altitude of the location is ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>location</code> - <p>The updated location of the user.</p></dd>
@@ -392,18 +392,18 @@ slug: "sdk-for-android-explore-locationindicator"
 <dd><code>renderSizeUnit</code> - <p>The <a href="sdk-for-android-explore-rendersize.unit" title="enum class in com.here.sdk.mapview"><code>RenderSize.Unit</code></a> specifying how the vertex coordinates of the
      3D model are being interpreted. It specifies whether the 3D model is placed in world or
      screen coordinate space.
-     <p><a href="sdk-for-android-explore-rendersize.unit#METERS"><code>RenderSize.Unit.METERS</code></a> will make the 3D model use world
+     </p><p><a href="sdk-for-android-explore-rendersize.unit#METERS"><code>RenderSize.Unit.METERS</code></a> will make the 3D model use world
      coordinate space, meaning that it will change size together with the map
      when it is zoomed in and out. A simple 10 by 10 by 10 (in model space) cube
      will have a size of 10 by 10 by 10 meters in world space.
-     <p><a href="sdk-for-android-explore-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> makes the 3D model use screen coordinate space,
+     </p><p><a href="sdk-for-android-explore-rendersize.unit#PIXELS"><code>RenderSize.Unit.PIXELS</code></a> makes the 3D model use screen coordinate space,
      meaning that it will have constant size on the screen regardless
      of how the map zoom changes. A simple 10 by 10 (in model space) rectangle
      will have a size of 10 by 10 pixels on the screen.
-     <p><a href="sdk-for-android-explore-rendersize.unit#DENSITY_INDEPENDENT_PIXELS"><code>RenderSize.Unit.DENSITY_INDEPENDENT_PIXELS</code></a> is similar to pixels,
+     </p><p><a href="sdk-for-android-explore-rendersize.unit#DENSITY_INDEPENDENT_PIXELS"><code>RenderSize.Unit.DENSITY_INDEPENDENT_PIXELS</code></a> is similar to pixels,
      but the resulting size will take into account the pixel density of the
      display, meaning that physical size on the screen will be approximately
-     the same regardless of the size or resolution of the display.</p></p></p></p></dd>
+     the same regardless of the size or resolution of the display.</p></dd>
 </dl>
 </section>
 </li>
@@ -460,13 +460,13 @@ slug: "sdk-for-android-explore-locationindicator"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setAccuracyVisualized</span><wbr/><span class="parameters">(boolean value)</span></div>
 <div class="block"><p>Sets whether <a href="sdk-for-android-explore-core-location#horizontalAccuracyInMeters"><code>Location.horizontalAccuracyInMeters</code></a> is used to scale the accuracy indicator halo.
  Default is <code>false</code>, in which case the halo has a fixed and zoom level independent size.
- <p>When set to <code>true</code>, the radius of the halo corresponds to the value of
+ </p><p>When set to <code>true</code>, the radius of the halo corresponds to the value of
  <a href="sdk-for-android-explore-core-location#horizontalAccuracyInMeters"><code>Location.horizontalAccuracyInMeters</code></a> passed to <a href="#updateLocation(com.here.sdk.core.Location)"><code>updateLocation(Location)</code></a>
  and scales in world coordinates.
- <p>For values smaller than 20 meters the halo is hidden.
+ </p><p>For values smaller than 20 meters the halo is hidden.
  The radius of the halo is limited to 500 meters and values higher than that or <code>null</code>
  will keep the halo at that size.
- <p>If the location indicator is set to inactive (which can be checked via <a href="#isActive()"><code>isActive()</code></a> flag),
+ </p><p>If the location indicator is set to inactive (which can be checked via <a href="#isActive()"><code>isActive()</code></a> flag),
  then the halo is always hidden. The value of this property remains unchanged regardless of the flag's value.
  If the location indicator is set to active:
  <ul>
@@ -485,7 +485,7 @@ slug: "sdk-for-android-explore-locationindicator"
 <li>If the accuracy visualization is set to <code>false</code>, no halo is shown since it might not fit together with the custom 3d model.</li>
 </ul>
 </li>
-</ul></p></p></p></p></div>
+</ul></p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>Whether the horizontal accuracy is visualized by scaling the accuracy indicator halo.</p></dd>
@@ -498,7 +498,7 @@ slug: "sdk-for-android-explore-locationindicator"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a></span> <span class="element-name">getLocationIndicatorStyle</span>()</div>
 <div class="block"><p>Returns visual style of location indicator.
- <p>By default, it is set to <a href="sdk-for-android-explore-locationindicator.indicatorstyle#NAVIGATION"><code>LocationIndicator.IndicatorStyle.NAVIGATION</code></a>.</p></p></div>
+ </p><p>By default, it is set to <a href="sdk-for-android-explore-locationindicator.indicatorstyle#NAVIGATION"><code>LocationIndicator.IndicatorStyle.NAVIGATION</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The visual style of location indicator.</p></dd>
@@ -511,7 +511,7 @@ slug: "sdk-for-android-explore-locationindicator"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setLocationIndicatorStyle</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-locationindicator.indicatorstyle" title="enum class in com.here.sdk.mapview">LocationIndicator.IndicatorStyle</a> value)</span></div>
 <div class="block"><p>Sets the visual style of location indicator.
- <p>By default, it is set to <a href="sdk-for-android-explore-locationindicator.indicatorstyle#NAVIGATION"><code>LocationIndicator.IndicatorStyle.NAVIGATION</code></a>.</p></p></div>
+ </p><p>By default, it is set to <a href="sdk-for-android-explore-locationindicator.indicatorstyle#NAVIGATION"><code>LocationIndicator.IndicatorStyle.NAVIGATION</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The visual style of location indicator.</p></dd>
@@ -548,8 +548,8 @@ slug: "sdk-for-android-explore-locationindicator"
 <h3>getOpacity</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">getOpacity</span>()</div>
 <div class="block"><p>Gets the current opacity of the location indicator.
- <p>Default value is 1.0 which means location
- indicator is displayed with the default alpha channel of the texture.</p></p></div>
+ </p><p>Default value is 1.0 which means location
+ indicator is displayed with the default alpha channel of the texture.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The factor applied to the alpha channel of both the location indicator's texture and the accuracy indicator's halo color.</p></dd>
@@ -562,8 +562,8 @@ slug: "sdk-for-android-explore-locationindicator"
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOpacity</span><wbr/><span class="parameters">(double value)</span></div>
 <div class="block"><p>Sets the opacity of the location indicator.
  Provided value is clamped in range [0.0, 1.0].
- <p>Default value is 1.0 which means location
- indicator is displayed with the default alpha channel of the texture.</p></p></div>
+ </p><p>Default value is 1.0 which means location
+ indicator is displayed with the default alpha channel of the texture.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The factor applied to the alpha channel of both the location indicator's texture and the accuracy indicator's halo color.</p></dd>
@@ -576,13 +576,13 @@ slug: "sdk-for-android-explore-locationindicator"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-materialreflectivity" title="class in com.here.sdk.mapview">MaterialReflectivity</a></span> <span class="element-name">getMaterialReflectivity</span>()</div>
 <div class="block"><p>Retrieves the material reflectivity applied to all markers of location indicator.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.
- <p>Enables per‑pixel lighting for all internal markers (navigation, pedestrian,
+ </p><p>Enables per‑pixel lighting for all internal markers (navigation, pedestrian,
  inactive variants) and the halo when assigned. While <code>materialReflectivity</code> is non‑null the
  markers are shaded by scene lights using the provided ambient / diffuse factors. When set
  back to <code>null</code>, lighting is disabled and markers revert to unlit (emissive) rendering.
- <p>Default value is <code>null</code>.</p></p></p></p></div>
+ </p><p>Default value is <code>null</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The material reflectivity properties of the location indicator.</p></dd>
@@ -596,11 +596,11 @@ slug: "sdk-for-android-explore-locationindicator"
  <a href="sdk-for-android-explore-materialreflectivity" title="class in com.here.sdk.mapview">MaterialReflectivity</a> value)</span></div>
 <div class="block"><p>Sets the material reflectivity properties for all markers of location indicator including its halo.
  This value affects also any custom markers set with <code>setMarker3dModel</code>.
- <p>Enables per‑pixel lighting for all internal markers (navigation, pedestrian,
+ </p><p>Enables per‑pixel lighting for all internal markers (navigation, pedestrian,
  inactive variants) and the halo when assigned. While <code>materialReflectivity</code> is non‑null the
  markers are shaded by scene lights using the provided ambient / diffuse factors. When set
  back to <code>null</code>, lighting is disabled and markers revert to unlit (emissive) rendering.
- <p>Default value is <code>null</code>.</p></p></p></div>
+ </p><p>Default value is <code>null</code>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>value</code> - <p>The material reflectivity properties of the location indicator.</p></dd>
@@ -616,8 +616,8 @@ slug: "sdk-for-android-explore-locationindicator"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

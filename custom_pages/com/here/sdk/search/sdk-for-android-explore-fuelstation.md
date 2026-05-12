@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-fuelstation"
 <!-- FuelStation.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -66,11 +66,11 @@ slug: "sdk-for-android-explore-fuelstation"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">FuelStation</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Contains information about a specific fuel station.
- <p>Use <a href="sdk-for-android-explore-placecategory#BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION"><code>PlaceCategory.BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION</code></a> to find fuel stations.
+ </p><p>Use <a href="sdk-for-android-explore-placecategory#BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION"><code>PlaceCategory.BUSINESS_AND_SERVICES_PETROL_GASOLINE_STATION</code></a> to find fuel stations.
  In the <code>Details</code> of a <code>Place</code> result you can find the associated fuel station information,
  if any.
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
- unexpected behaviors. Related APIs may change for new releases without a deprecation process.</p></p></p></div>
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
+ unexpected behaviors. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -241,8 +241,8 @@ slug: "sdk-for-android-explore-fuelstation"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

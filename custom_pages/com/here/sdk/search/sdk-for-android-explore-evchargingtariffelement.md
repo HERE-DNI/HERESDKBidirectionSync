@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-evchargingtariffelement"
 <!-- EVChargingTariffElement.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -159,10 +159,10 @@ slug: "sdk-for-android-explore-evchargingtariffelement"
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-evchargingtariffelementcondition" title="class in com.here.sdk.search">EVChargingTariffElementCondition</a></span> <span class="element-name">condition</span></div>
 <div class="block"><p>Condition that the charging session needs to meet to apply the tariff element. An element without any
  condition is typically present for charging sessions that do not meet any of the conditions.
- <p>For example, a tariff element with a lower price can be valid only during nighttime, while a generic
+ </p><p>For example, a tariff element with a lower price can be valid only during nighttime, while a generic
  tariff element without conditions applies for daytime charging sessions. The conditions are listed in
  priority order. I.e., when <a href="sdk-for-android-explore-evchargingtariffelementcondition#date"><code>EVChargingTariffElementCondition.date</code></a> is present, it should be matched first,
- followed by <a href="sdk-for-android-explore-evchargingtariffelementcondition#days"><code>EVChargingTariffElementCondition.days</code></a> and so on.</p></p></div>
+ followed by <a href="sdk-for-android-explore-evchargingtariffelementcondition#days"><code>EVChargingTariffElementCondition.days</code></a> and so on.</p></div>
 </section>
 </li>
 </ul>
@@ -217,8 +217,8 @@ slug: "sdk-for-android-explore-evchargingtariffelement"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

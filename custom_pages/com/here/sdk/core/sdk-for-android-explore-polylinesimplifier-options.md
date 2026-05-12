@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-polylinesimplifier-options"
 <!-- PolylineSimplifier.Options.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -184,13 +184,13 @@ slug: "sdk-for-android-explore-polylinesimplifier-options"
 <li>higher tolerance results in more simplification (fewer points);</li>
 <li>lower tolerance keeps the line closer to its original shape.</li>
 </ul>
-<p>If removing a point produces polyline, which deviates from the
+</p><p>If removing a point produces polyline, which deviates from the
  original one more than <code>simplificationToleranceInMeters</code>, then
  this point is left in the collection.
- <p>If specified tolerance will not allow to create a polyline
+ </p><p>If specified tolerance will not allow to create a polyline
  conforming to <a href="#maxPoints"><code>maxPoints</code></a>, then <code>simplificationToleranceInMeters</code>
  is ignored.
- <p>Default value is equal to <a href="#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"><code>SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</code></a>.</p></p></p></p></div>
+ </p><p>Default value is equal to <a href="#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"><code>SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</code></a>.</p></div>
 </section>
 </li>
 </ul>
@@ -231,13 +231,13 @@ slug: "sdk-for-android-explore-polylinesimplifier-options"
 <li>higher tolerance results in more simplification (fewer points);</li>
 <li>lower tolerance keeps the line closer to its original shape.</li>
 </ul>
-<p>If removing a point produces polyline, which deviates from the
+</p><p>If removing a point produces polyline, which deviates from the
  original one more than <code>simplificationToleranceInMeters</code>, then
  this point is left in the collection.
- <p>If specified tolerance will not allow to create a polyline
+ </p><p>If specified tolerance will not allow to create a polyline
  conforming to <a href="#maxPoints"><code>maxPoints</code></a>, then <code>simplificationToleranceInMeters</code>
  is ignored.
- <p>Default value is equal to <a href="#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"><code>SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</code></a>.</p></p></p></p></dd>
+ </p><p>Default value is equal to <a href="#SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL"><code>SIMPLIFICATION_IN_METERS_14_ZOOM_LEVEL</code></a>.</p></dd>
 </dl>
 </section>
 </li>
@@ -250,8 +250,8 @@ slug: "sdk-for-android-explore-polylinesimplifier-options"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

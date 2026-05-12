@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-place"
 <!-- Place.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -228,8 +228,8 @@ slug: "sdk-for-android-explore-place"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getId</span>()</div>
 <div class="block"><p>Gets the unique id of this resource. It can be used to query further information.
- <p>When returned from <code>OfflineSearchEngine</code>, <code>id</code> is valid only for <code>Place</code> objects whose
- <code>place_type</code> is <code>POI</code>. Otherwise, it is empty.</p></p></div>
+ </p><p>When returned from <code>OfflineSearchEngine</code>, <code>id</code> is valid only for <code>Place</code> objects whose
+ <code>place_type</code> is <code>POI</code>. Otherwise, it is empty.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The unique id of this resource. It can be used to query further information.</p></dd>
@@ -266,15 +266,15 @@ slug: "sdk-for-android-explore-place"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-address" title="class in com.here.sdk.search">Address</a></span> <span class="element-name">getAddress</span>()</div>
 <div class="block"><p>Gets the address of the place.
- <p>Note that while <code>OfflineSearchEngine.suggest</code> and <code>OfflineSearchEngine.suggestByText</code> set all available details,
+ </p><p>Note that while <code>OfflineSearchEngine.suggest</code> and <code>OfflineSearchEngine.suggestByText</code> set all available details,
  <code>SearchEngine.suggest</code> and <code>SearchEngine.suggestByText</code> set only <a href="sdk-for-android-explore-address#addressText"><code>Address.addressText</code></a>.
- Complete address details can be obtained by searching with <a href="sdk-for-android-explore-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></p></div>
+ Complete address details can be obtained by searching with <a href="sdk-for-android-explore-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The address of the place.
-     <p>Note that while <code>OfflineSearchEngine.suggest</code> and <code>OfflineSearchEngine.suggestByText</code> set all available details,
+     </p><p>Note that while <code>OfflineSearchEngine.suggest</code> and <code>OfflineSearchEngine.suggestByText</code> set all available details,
      <code>SearchEngine.suggest</code> and <code>SearchEngine.suggestByText</code> set only <a href="sdk-for-android-explore-address#addressText"><code>Address.addressText</code></a>.
-     Complete address details can be obtained by searching with <a href="sdk-for-android-explore-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></p></dd>
+     Complete address details can be obtained by searching with <a href="sdk-for-android-explore-placeidquery" title="class in com.here.sdk.search"><code>PlaceIdQuery</code></a>.</p></dd>
 </dl>
 </section>
 </li>
@@ -296,7 +296,7 @@ slug: "sdk-for-android-explore-place"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">getGeoCoordinates</span>()</div>
 <div class="block"><p>Gets the geographic coordinates of the place.
- <p>Can be <code>null</code> when retrieved from a suggestion's place property.</p></p></div>
+ </p><p>Can be <code>null</code> when retrieved from a suggestion's place property.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The geographic coordinates of the place.</p></dd>
@@ -308,9 +308,9 @@ slug: "sdk-for-android-explore-place"
 <h3>isCoordinatesInterpolated</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">boolean</span> <span class="element-name">isCoordinatesInterpolated</span>()</div>
 <div class="block"><p>Gets the flag saying whether the coordinates of the house number were interpolated or not.
- <p>This property is valid only for house number results retrieved using online search.
+ </p><p>This property is valid only for house number results retrieved using online search.
  When false, it means <a href="#getGeoCoordinates()"><code>getGeoCoordinates()</code></a> point to an accurate position of the house. Otherwise
- coordinates are slightly less accurate, but are based on a highly optimized interpolation algorithm.</p></p></div>
+ coordinates are slightly less accurate, but are based on a highly optimized interpolation algorithm.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>A property that says whether the coordinates of the house number were interpolated or not.</p></dd>
@@ -323,7 +323,7 @@ slug: "sdk-for-android-explore-place"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</span> <span class="element-name">getAccessPoints</span>()</div>
 <div class="block"><p>Gets the access points to the place, such as the points on a road or in a parking lot.
- <p>A place can have multiple access points. For example, a large warehouse can have
+ </p><p>A place can have multiple access points. For example, a large warehouse can have
  multiple entrances, while the center of the warehouse may not be directly reachable.
  Note that access points are meant to be reachable by vehicles.
  For routes it is recommended to navigate to one of the available access points (if any),
@@ -334,7 +334,7 @@ slug: "sdk-for-android-explore-place"
  Note that access points are meant to be reachable by vehicles.
  For routes it is recommended to navigate to one of the available access points (if any),
  whereas the <code>sideOfStreetHint</code> should be set to the geographic coordinates of the place.
- The list is empty when no access points are known or when the place is directly reachable.</p></p></div>
+ The list is empty when no access points are known or when the place is directly reachable.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The access points to the place, such as the points on a road or in a parking lot.</p></dd>
@@ -371,10 +371,10 @@ slug: "sdk-for-android-explore-place"
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">getPoliticalView</span>()</div>
 <div class="block"><p>Gets the geopolitical view, defined as a three letter country code, each disputed territory has international and alternative views.
- <p>Populated when the geopolitical view parameter is set in the <a href="sdk-for-android-explore-core-engine-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a>
+ </p><p>Populated when the geopolitical view parameter is set in the <a href="sdk-for-android-explore-core-engine-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a>
  and passed to <a href="sdk-for-android-explore-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> on instantiation,
  but only if it is an alternative view.
- For more details refer to <a href="sdk-for-android-explore-core-engine-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a>.</p></p></div>
+ For more details refer to <a href="sdk-for-android-explore-core-engine-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The geopolitical view, defined as a three letter country code, each disputed territory has international and alternative views.</p></dd>
@@ -390,8 +390,8 @@ slug: "sdk-for-android-explore-place"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

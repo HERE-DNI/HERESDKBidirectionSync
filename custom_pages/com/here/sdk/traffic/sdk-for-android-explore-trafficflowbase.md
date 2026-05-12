@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-trafficflowbase"
 <!-- TrafficFlowBase.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -67,8 +67,8 @@ slug: "sdk-for-android-explore-trafficflowbase"
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">TrafficFlowBase</span></div>
 <div class="block"><p>This interface provides details about a traffic flow.<br/>
  For additional information about fields, refer to <a href="https://www.here.com/docs/bundle/traffic-api-v7-api-reference/page/index.html#tag/Real-Time-Traffic">Traffic API v7 API Reference: Traffic API v7</a>.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -123,10 +123,10 @@ slug: "sdk-for-android-explore-trafficflowbase"
 <h3>getJamFactor</h3>
 <div class="member-signature"><span class="return-type">double</span> <span class="element-name">getJamFactor</span>()</div>
 <div class="block"><p>Gets a value for the amount of traffic on the roadway.
- <p>The value, between 0.0 and 10.0, indicate the expected quality of travel.
+ </p><p>The value, between 0.0 and 10.0, indicate the expected quality of travel.
  A value of 0.0 indicates that there is no congestion on the roadway.
  As the value approaches 10.0, it indicates increasing congestion.
- A value of 10.0 is reserved to represent a blocked roadway (closure).</p></p></div>
+ A value of 10.0 is reserved to represent a blocked roadway (closure).</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>A value for the amount of traffic on the roadway.</p></dd>
@@ -142,8 +142,8 @@ slug: "sdk-for-android-explore-trafficflowbase"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

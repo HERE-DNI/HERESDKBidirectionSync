@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-transportspecification-busbuilder"
 <!-- TransportSpecification.BusBuilder.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -181,8 +181,8 @@ slug: "sdk-for-android-explore-transportspecification-busbuilder"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mapcamera-state"
 <!-- MapCamera.State.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -147,8 +147,8 @@ slug: "sdk-for-android-explore-mapcamera-state"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">targetCoordinates</span></div>
 <div class="block"><p>Camera's 'LookAt' target position in geodetic space.
- <p>Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
- will consider the target point as being located on the ground.</p></p></div>
+ </p><p>Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
+ will consider the target point as being located on the ground.</p></div>
 </section>
 </li>
 <li>
@@ -194,8 +194,8 @@ slug: "sdk-for-android-explore-mapcamera-state"
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>targetCoordinates</code> - <p>Camera's 'LookAt' target position in geodetic space.
- <p>Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
- will consider the target point as being located on the ground.</p></p></dd>
+ </p><p>Note: The altitude of the target point is ignored. Any subsequent camera updates and animations
+ will consider the target point as being located on the ground.</p></dd>
 <dd><code>orientationAtTarget</code> - <p>Camera's orientation at target point.</p></dd>
 <dd><code>distanceToTargetInMeters</code> - <p>Distance from the camera to the target point in meters.</p></dd>
 <dd><code>zoomLevel</code> - <p>Zoom level corresponding to the current distance to target.</p></dd>
@@ -211,8 +211,8 @@ slug: "sdk-for-android-explore-mapcamera-state"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

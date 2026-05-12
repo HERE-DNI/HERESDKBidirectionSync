@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-routingengine"
 <!-- RoutingEngine.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -74,17 +74,17 @@ slug: "sdk-for-android-explore-routingengine"
 implements <a href="sdk-for-android-explore-routinginterface" title="interface in com.here.sdk.routing">RoutingInterface</a></span></div>
 <div class="block"><p>Use the RoutingEngine to calculate a route from A to B with
  a number of waypoints in between.
- <p>Route calculation is done asynchronously and requires an
+ </p><p>Route calculation is done asynchronously and requires an
  online connection. The resulting route contains various
  information such as the polyline, route length in meters,
  estimated time to traverse along the route and maneuver data.
- <p><strong>Note:</strong> The engine does not support an unlimited number of waypoints.
+ </p><p><strong>Note:</strong> The engine does not support an unlimited number of waypoints.
  The limit is defined by the HERE backend services and may change. For now,
  the maximum number of waypoints should be below 200. This value may change
  and it is not guaranteed to be stable. If you need to support very large lists
  of waypoints, consider to import a route (see <code>importRoute()</code> method) or use
  the <code>OfflineRoutingEngine</code> which supports an unlimited number of waypoints.
- The <code>OfflineRoutingEngine</code> is only available for Navigate licence.</p></p></p></div>
+ The <code>OfflineRoutingEngine</code> is only available for Navigate licence.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -645,8 +645,8 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  starting point to the destination remains unchanged, and only metadata such as arrival time and traffic
  delays are updated. If you only want to refresh the contained traffic information or retrieve updated ETA duration,
  consider using <a href="#calculateTrafficOnRoute(com.here.sdk.routing.Route,int,int,double,com.here.sdk.routing.CalculateTrafficOnRouteCallback)"><code>calculateTrafficOnRoute(Route, int, int, double, CalculateTrafficOnRouteCallback)</code></a> instead.
- <p>Calling this method will trigger a new "HERE Routing" transaction, for example,
- if you are using the <a href="https://www.here.com/get-started/pricing">Base Plan</a>.</p></p></div>
+ </p><p>Calling this method will trigger a new "HERE Routing" transaction, for example,
+ if you are using the <a href="https://www.here.com/get-started/pricing">Base Plan</a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>routeHandle</code> - <p>The route handle holding the route to be refreshed.</p></dd>
@@ -692,8 +692,8 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  starting point to the destination remains unchanged, and only metadata such as arrival time and traffic
  delays are updated. If you only want to refresh the contained traffic information, consider to use
  <a href="#calculateTrafficOnRoute(com.here.sdk.routing.Route,int,int,double,com.here.sdk.routing.CalculateTrafficOnRouteCallback)"><code>calculateTrafficOnRoute(Route, int, int, double, CalculateTrafficOnRouteCallback)</code></a> instead.
- <p>Calling this method will trigger a new "HERE Routing" transaction, for example,
- if you are using the <a href="https://www.here.com/get-started/pricing">Base Plan</a>.</p></p></div>
+ </p><p>Calling this method will trigger a new "HERE Routing" transaction, for example,
+ if you are using the <a href="https://www.here.com/get-started/pricing">Base Plan</a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>routeHandle</code> - <p>The route handle holding the route to be refreshed.</p></dd>
@@ -741,8 +741,8 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  starting point to the destination remains unchanged, and only metadata such as arrival time and traffic
  delays are updated. If you only want to refresh the contained traffic information, consider to use
  <a href="#calculateTrafficOnRoute(com.here.sdk.routing.Route,int,int,double,com.here.sdk.routing.CalculateTrafficOnRouteCallback)"><code>calculateTrafficOnRoute(Route, int, int, double, CalculateTrafficOnRouteCallback)</code></a> instead.
- <p>Calling this method will trigger a new "HERE Routing" transaction, for example,
- if you are using the <a href="https://www.here.com/get-started/pricing">Base Plan</a>.</p></p></div>
+ </p><p>Calling this method will trigger a new "HERE Routing" transaction, for example,
+ if you are using the <a href="https://www.here.com/get-started/pricing">Base Plan</a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>routeHandle</code> - <p>The route handle holding the route to be refreshed.</p></dd>
@@ -786,8 +786,8 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  starting point to the destination remains unchanged, and only metadata such as arrival time and traffic
  delays are updated. If you only want to refresh the contained traffic information, consider to use
  <a href="#calculateTrafficOnRoute(com.here.sdk.routing.Route,int,int,double,com.here.sdk.routing.CalculateTrafficOnRouteCallback)"><code>calculateTrafficOnRoute(Route, int, int, double, CalculateTrafficOnRouteCallback)</code></a> instead.
- <p>Calling this method will trigger a new "HERE Routing" transaction, for example,
- if you are using the <a href="https://www.here.com/get-started/pricing">Base Plan</a>.</p></p></div>
+ </p><p>Calling this method will trigger a new "HERE Routing" transaction, for example,
+ if you are using the <a href="https://www.here.com/get-started/pricing">Base Plan</a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>routeHandle</code> - <p>The route handle holding the route to be refreshed.</p></dd>
@@ -849,9 +849,9 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
 </div>
 <div class="block"><p>Asynchronously recreates a route from the <a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a> provided, i.e. refreshes a previously
  calculated route, with the specified <a href="sdk-for-android-explore-refreshrouteoptions" title="class in com.here.sdk.routing"><code>RefreshRouteOptions</code></a>.
- <p>A route handle can be invalid when the map data changes that is used by the HERE backend to recreate the route. This happens regularly.
+ </p><p>A route handle can be invalid when the map data changes that is used by the HERE backend to recreate the route. This happens regularly.
  Therefore, the route handle is not meant to be persisted for a longer time. Instead, a possible use case can be to plan a route with another HERE service.
- For example, a HERE REST API that allows to calculate a route on a desktop. Then this route can be transferred via the handle to a mobile device for further use with the HERE SDK.</p></p></div>
+ For example, a HERE REST API that allows to calculate a route on a desktop. Then this route can be transferred via the handle to a mobile device for further use with the HERE SDK.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>routeHandle</code> - <p>The route handle holding the route to be refreshed.</p></dd>
@@ -882,13 +882,13 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>carOptions</code> - <p>Options specific for car route calculation, along with
      common route options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
@@ -918,16 +918,16 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>routeStops</code> - <p>The list of RouteStop's which contains index of location from locations list used for route stop and duration in seconds spent on stop.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
-     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
+     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></dd>
 <dd><code>pedestrianOptions</code> - <p>Options specific for pedestrian route calculation, along with
      common route options. Note that <a href="sdk-for-android-explore-optimizationmode#SHORTEST"><code>OptimizationMode.SHORTEST</code></a>
      is not supported for pedestrians and converted to
@@ -959,16 +959,16 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>routeStops</code> - <p>The list of RouteStop's which contains index of location from locations list used for route stop and duration in seconds spent on stop.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
-     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
+     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></dd>
 <dd><code>bicycleOptions</code> - <p>Options specific for bicycle route calculation, along with
      common route options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
@@ -998,16 +998,16 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>routeStops</code> - <p>The list of RouteStop's which contains index of location from locations list used for route stop and duration in seconds spent on stop.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
-     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
+     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></dd>
 <dd><code>scooterOptions</code> - <p>Options specific for scooter route calculation, along with
      common route options. Note that <a href="sdk-for-android-explore-optimizationmode#SHORTEST"><code>OptimizationMode.SHORTEST</code></a>
      is not supported for scooters and converted to
@@ -1037,13 +1037,13 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>pedestrianOptions</code> - <p>Options specific for pedestrian route calculation, along with
      common route options. Note that <a href="sdk-for-android-explore-optimizationmode#SHORTEST"><code>OptimizationMode.SHORTEST</code></a>
      is not supported for pedestrians and converted to
@@ -1073,13 +1073,13 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>bicycleOptions</code> - <p>Options specific for bicycle route calculation, along with
      common route options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
@@ -1107,13 +1107,13 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>scooterOptions</code> - <p>Options specific for scooter route calculation, along with
      common route options. Note that <a href="sdk-for-android-explore-optimizationmode#SHORTEST"><code>OptimizationMode.SHORTEST</code></a>
      is not supported for scooters and converted to
@@ -1143,13 +1143,13 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>truckOptions</code> - <p>Options specific for truck route calculation, along with
      common route options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
@@ -1177,13 +1177,13 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>taxiOptions</code> - <p>Options specific for taxi route calculation, along with
      common route options. Note that <a href="sdk-for-android-explore-optimizationmode#SHORTEST"><code>OptimizationMode.SHORTEST</code></a>
      is not supported for taxis and converted to
@@ -1213,13 +1213,13 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>busOptions</code> - <p>Options specific for bus route calculation, along with
      common route options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
@@ -1247,13 +1247,13 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or anyway geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>privateBusOptions</code> - <p>Options specific for private bus route calculation, along with
      common route options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
@@ -1281,13 +1281,13 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>evCarOptions</code> - <p>Options specific for an electric car route calculation, along with
      common route options.
      <strong>Note</strong> An [sdk.routing.RoutingError.INVALID_PARAMETER] is generated when the [sdk.routing.EVCarOptions.ensure_reachability] option is set to <code>true</code>.</p></dd>
@@ -1316,13 +1316,13 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>evTruckOptions</code> - <p>Options specific for an electric truck route calculation, along with
      common route options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
@@ -1352,16 +1352,16 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>routeStops</code> - <p>The list of RouteStop's which contains index of location from locations list used for route stop and duration in seconds spent on stop.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
-     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
+     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></dd>
 <dd><code>carOptions</code> - <p>Options specific for car route calculation, along with
      common route options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
@@ -1391,16 +1391,16 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>routeStops</code> - <p>The list of RouteStop's which contains index of location from locations list used for route stop and duration in seconds spent on stop.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
-     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
+     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></dd>
 <dd><code>truckOptions</code> - <p>Options specific for truck route calculation, along with
      common route options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
@@ -1430,16 +1430,16 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>routeStops</code> - <p>The list of RouteStop's which contains index of location from locations list used for route stop and duration in seconds spent on stop.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
-     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
+     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></dd>
 <dd><code>taxiOptions</code> - <p>Options specific for taxi route calculation, along with
      common route options. Note that <a href="sdk-for-android-explore-optimizationmode#SHORTEST"><code>OptimizationMode.SHORTEST</code></a>
      is not supported for taxis and converted to
@@ -1471,16 +1471,16 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>routeStops</code> - <p>The list of RouteStop's which contains index of location from locations list used for route stop and duration in seconds spent on stop.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
-     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
+     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></dd>
 <dd><code>busOptions</code> - <p>Options specific for bus route calculation, along with
      common route options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
@@ -1510,16 +1510,16 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or anyway geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>routeStops</code> - <p>The list of RouteStop's which contains index of location from locations list used for route stop and duration in seconds spent on stop.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
-     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
+     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></dd>
 <dd><code>privateBusOptions</code> - <p>Options specific for private bus route calculation, along with
      common route options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
@@ -1549,16 +1549,16 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>routeStops</code> - <p>The list of RouteStop's which contains index of location from locations list used for route stop and duration in seconds spent on stop.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
-     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
+     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></dd>
 <dd><code>evCarOptions</code> - <p>Options specific for an electric car route calculation, along with
      common route options.
      <strong>Note</strong> An [sdk.routing.RoutingError.INVALID_PARAMETER] is generated when the [sdk.routing.EVCarOptions.ensure_reachability] option is set to <code>true</code>.</p></dd>
@@ -1589,16 +1589,16 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>routeStops</code> - <p>The list of RouteStop's which contains index of location from locations list used for route stop and duration in seconds spent on stop.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
-     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
+     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></dd>
 <dd><code>evTruckOptions</code> - <p>Options specific for an electric truck route calculation, along with
      common route options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
@@ -1622,13 +1622,13 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a>.</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>options</code> - <p>The options define the vehicle and route options to calculate the route.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
      It is always invoked on the main thread.</p></dd>
@@ -1653,16 +1653,16 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  be kept as close as possible to the one provided. For best results please use 1Hz GPS data,
  or geographic coordinates that have a spacing of a few meters one from the other. For example, such a list of geographic coordinates can
  be extracted from a GPX trace or a route object from a 3rd party library. Very sparse data may be rejected by the service with an error.
- <p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
- discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></p></div>
+ </p><p><strong>Note:</strong> Any restrictions applied to a transport type or provided options will be
+ discarded and reported as violations in <a href="sdk-for-android-explore-section#getSectionNotices()"><code>Section.getSectionNotices()</code></a> .</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>locations</code> - <p>The list of locations used to calculate the route. Note that only the <a href="sdk-for-android-explore-core-location#coordinates"><code>Location.coordinates</code></a> of a location are used to import the route.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
-     size is not in the range [2,50000].</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the location list
+     size is not in the range [2,50000].</p></dd>
 <dd><code>routeStops</code> - <p>The list of RouteStop's which contains index of location from locations list used for route stop and duration in seconds spent on stop.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
-     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></p></dd>
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the route stops list
+     size is not in the range [1,locations.size()-2], any of location_index is &lt; 1 or location_indexes are not unique.</p></dd>
 <dd><code>options</code> - <p>The options define the vehicle and route options to calculate the route.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
      It is always invoked on the main thread.</p></dd>
@@ -1683,8 +1683,8 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  <a href="sdk-for-android-explore-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously recreates a route from the <a href="sdk-for-android-explore-routehandle" title="class in com.here.sdk.routing"><code>RouteHandle</code></a> provided, i.e. refreshes a previously
  calculated route, with the specified <a href="sdk-for-android-explore-routingoptions" title="class in com.here.sdk.routing"><code>RoutingOptions</code></a>.
- <p>A route handle can be invalid when the map data changes that is used by the HERE sdk to recreate the route. This happens regularly.
- Therefore, the route handle is not meant to be persisted for a longer time.</p></p></div>
+ </p><p>A route handle can be invalid when the map data changes that is used by the HERE sdk to recreate the route. This happens regularly.
+ Therefore, the route handle is not meant to be persisted for a longer time.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>routeHandle</code> - <p>The route handle holding the route to be refreshed.</p></dd>
@@ -1710,8 +1710,8 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  traveled route section and an offset (in meters) from the last visited position on the
  section. Call this when only the contained traffic information or the latest ETA duration
  is needed. This can be called periodically to retrieve updated ETA values during navigation.
- <p><strong>Note:</strong> Calling this method will trigger a new "HERE Traffic" transaction, for example,
- if you are using the <a href="https://www.here.com/get-started/pricing">Base Plan</a>.</p></p></div>
+ </p><p><strong>Note:</strong> Calling this method will trigger a new "HERE Traffic" transaction, for example,
+ if you are using the <a href="https://www.here.com/get-started/pricing">Base Plan</a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>route</code> - <p>A <a href="sdk-for-android-explore-route" title="class in com.here.sdk.routing"><code>Route</code></a> calculated using the online routing engine. Its
@@ -1813,9 +1813,9 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
-     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></p></dd>
+     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>options</code> - <p>Options describing routing options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
      It is always invoked on the main thread.</p></dd>
@@ -1847,9 +1847,9 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
-     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></p></dd>
+     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>carOptions</code> - <p>Options specific for car route calculation, along with
      common route options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
@@ -1882,9 +1882,9 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
-     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></p></dd>
+     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>pedestrianOptions</code> - <p>Options specific for pedestrian route calculation, along with
      common route options. Note that <a href="sdk-for-android-explore-optimizationmode#SHORTEST"><code>OptimizationMode.SHORTEST</code></a> is
      is not supported for pedestrians and converted to
@@ -1919,9 +1919,9 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
-     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></p></dd>
+     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>truckOptions</code> - <p>Options specific for truck route calculation, along with
      common route options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
@@ -1954,9 +1954,9 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
-     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></p></dd>
+     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>scooterOptions</code> - <p>Options specific for scooter route calculation, along with
      common route options. Note that <a href="sdk-for-android-explore-optimizationmode#SHORTEST"><code>OptimizationMode.SHORTEST</code></a> is
      is not supported for scooters and converted to
@@ -1991,9 +1991,9 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
-     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></p></dd>
+     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>bicycleOptions</code> - <p>Options specific for bicycle route calculation, along with
      common route options. Note that <a href="sdk-for-android-explore-optimizationmode#SHORTEST"><code>OptimizationMode.SHORTEST</code></a> is
      is not supported for bicycles and converted to
@@ -2028,9 +2028,9 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
-     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></p></dd>
+     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>taxiOptions</code> - <p>Options specific for taxi route calculation, along with
      common route options. Note that <a href="sdk-for-android-explore-optimizationmode#SHORTEST"><code>OptimizationMode.SHORTEST</code></a> is
      is not supported for taxis and converted to
@@ -2065,9 +2065,9 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
-     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></p></dd>
+     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>evCarOptions</code> - <p>Options specific for an electric car route calculation, along with
      common route options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
@@ -2100,9 +2100,9 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
-     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></p></dd>
+     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>evTruckOptions</code> - <p>Options specific for an electric truck route calculation, along with
      common route options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
@@ -2135,9 +2135,9 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
-     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></p></dd>
+     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>busOptions</code> - <p>Options specific for a bus route calculation, along with
      common route options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
@@ -2170,9 +2170,9 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
 <dd><code>waypoints</code> - <p>The list of waypoints used to calculate the route.
      The first element marks the starting position, the last marks the destination.
      Waypoints in between are interpreted as intermediate.
-     <p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
+     </p><p>An <a href="sdk-for-android-explore-routingerror#INVALID_PARAMETER"><code>RoutingError.INVALID_PARAMETER</code></a> error is generated when the waypoint list
      contains less than two elements or when the first and the last waypoints are not of type
-     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></p></dd>
+     <a href="sdk-for-android-explore-waypointtype#STOPOVER"><code>WaypointType.STOPOVER</code></a>.</p></dd>
 <dd><code>privateBusOptions</code> - <p>Options specific for a private bus route calculation, along with
      common route options.</p></dd>
 <dd><code>callback</code> - <p>Callback object that will be invoked after route calculation.
@@ -2196,22 +2196,22 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
  <a href="sdk-for-android-explore-calculateroutecallback" title="interface in com.here.sdk.routing">CalculateRouteCallback</a> callback)</span></div>
 <div class="block"><p>Asynchronously calculates a new route that leads back to the original route. The part of
  the original route which was already traveled by the user is ignored.
- <p><strong>Note:</strong> Stopover waypoints are guaranteed to be visited. Pass-through waypoints will
+ </p><p><strong>Note:</strong> Stopover waypoints are guaranteed to be visited. Pass-through waypoints will
  be ignored.
  Additionally, the following route options are ignored:
  <a href="sdk-for-android-explore-routeoptions#alternatives"><code>RouteOptions.alternatives</code></a>, <a href="sdk-for-android-explore-routeoptions#arrivalTime"><code>RouteOptions.arrivalTime</code></a>, and
  <a href="sdk-for-android-explore-routeoptions#optimizationMode"><code>RouteOptions.optimizationMode</code></a>.
  Most route options are only applied to the newly calculated part back to the route.
- <p>An application may use this method to submit a new
+ </p><p>An application may use this method to submit a new
  starting point for a previously calculated route. This method tries to avoid a costly
  route re-calculation as much as possible. In case returning to the route without
  re-calculation is not possible, a new route is calculated, while trying to salvage
  the previous route as much as possible. However, a completely new route
  containing no part of the previous route is possible, too.
- <p>Note that this function uses only a limited amount of map data around the new origin.
+ </p><p>Note that this function uses only a limited amount of map data around the new origin.
  Therefore, it may also work fine with temporarily cached map data. It may also copy some of the
  original route data into the new route.
- <p>A typical use case is to await at least 3 <code>RouteDeviation</code> events before calling this method.
+ </p><p>A typical use case is to await at least 3 <code>RouteDeviation</code> events before calling this method.
  <ul>
 <li>Or alternatively, wait at least 10 seconds after getting the first deviation event.</li>
 <li>On top, the user experience can be improved by checking if the vehicle has moved at least
@@ -2219,9 +2219,9 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
 <li>Optionally, it may make sense to verify if the vehicle was ever following the route by checking if
  <code>RouteDeviation.lastLocationOnRoute</code> is set.</li>
 </ul>
-<p>Note that deviation events are sent each time a deviation is detected, i.e. for each new location
+</p><p>Note that deviation events are sent each time a deviation is detected, i.e. for each new location
  update, regardless if the location has changed or not.
- More information can be found in the Developer Guide in the "Handle route deviations" section.</p></p></p></p></p></p></div>
+ More information can be found in the Developer Guide in the "Handle route deviations" section.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-explore-routinginterface#returnToRoute(com.here.sdk.routing.Route,com.here.sdk.routing.Waypoint,int,int,com.here.sdk.routing.CalculateRouteCallback)">returnToRoute</a></code> in interface <code><a href="sdk-for-android-explore-routinginterface" title="interface in com.here.sdk.routing">RoutingInterface</a></code></dd>
@@ -2262,8 +2262,8 @@ implements <a href="sdk-for-android-explore-routinginterface" title="interface i
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-routeplace"
 <!-- RoutePlace.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -361,8 +361,8 @@ slug: "sdk-for-android-explore-routeplace"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

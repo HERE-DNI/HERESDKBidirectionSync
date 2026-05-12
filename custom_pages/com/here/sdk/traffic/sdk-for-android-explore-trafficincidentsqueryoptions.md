@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-trafficincidentsqueryoptions"
 <!-- TrafficIncidentsQueryOptions.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -252,8 +252,8 @@ slug: "sdk-for-android-explore-trafficincidentsqueryoptions"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

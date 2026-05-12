@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-deprecated-list"
 <!-- deprecated-list.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="deprecated-list-page">
+
+
 
 
 <div class="flex-box">
@@ -435,8 +435,8 @@ slug: "sdk-for-android-explore-deprecated-list"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

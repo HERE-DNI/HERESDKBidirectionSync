@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-details"
 <!-- Details.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -294,7 +294,7 @@ slug: "sdk-for-android-explore-details"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-contact" title="class in com.here.sdk.search">Contact</a>&gt;</span> <span class="element-name">contacts</span></div>
 <div class="block"><p>The list of contact information of the place.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></div>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></div>
 </section>
 </li>
 <li>
@@ -303,7 +303,7 @@ slug: "sdk-for-android-explore-details"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-openinghours" title="class in com.here.sdk.search">OpeningHours</a>&gt;</span> <span class="element-name">openingHours</span></div>
 <div class="block"><p>The list of opening hours information of the place.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></div>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></div>
 </section>
 </li>
 <li>
@@ -322,7 +322,7 @@ slug: "sdk-for-android-explore-details"
 <div class="block"><p>The list of images associated with the place.
  The images are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></div>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></div>
 </section>
 </li>
 <li>
@@ -333,7 +333,7 @@ slug: "sdk-for-android-explore-details"
 <div class="block"><p>The list of editorials associated with the place.
  The editorials are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></div>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></div>
 </section>
 </li>
 <li>
@@ -344,7 +344,7 @@ slug: "sdk-for-android-explore-details"
 <div class="block"><p>The list of ratings associated with the place.
  The ratings are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></div>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></div>
 </section>
 </li>
 <li>
@@ -366,14 +366,14 @@ slug: "sdk-for-android-explore-details"
  for electric vehicles.
  It is fully supported for offline search, provided that <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>
  is enabled in <a href="sdk-for-android-explore-core-engine-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.
- <p>For online search, this feature is only available if it is explicitly enabled.
+ </p><p>For online search, this feature is only available if it is explicitly enabled.
  To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
  name: "lookup.show" or "discover.show" or "browse.show"
  value: "ev"
  To enable this feature for all queries, call <code>SearchEngine.set_custom_option()</code> for all:
  "lookup.show", "discover.show" and "browse.show".
  To enable fuel station details or truck amenities, the custom option value can be combined
- as "ev,truck", "ev,truck,fuel" etc.</p></p></div>
+ as "ev,truck", "ev,truck,fuel" etc.</p></div>
 </section>
 </li>
 <li>
@@ -384,21 +384,21 @@ slug: "sdk-for-android-explore-details"
 <div class="block"><p>Additional information that is available only for places that contain truck amenities.
  It is fully supported for offline search, provided that <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#TRUCK_SERVICE_ATTRIBUTES"><code>LayerConfiguration.Feature.TRUCK_SERVICE_ATTRIBUTES</code></a>
  is enabled in <a href="sdk-for-android-explore-core-engine-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.
- <p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
+ </p><p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
  only for selected customers. The field is always null for everyone that is not part of
  the closed-alpha group.
  Participants of the closed-alpha group can get access from HERE to use this feature.
  If the credentials are not enabled, a <a href="sdk-for-android-explore-searcherror#FORBIDDEN"><code>SearchError.FORBIDDEN</code></a> will be propagated.
- <p>For online search, this feature is only available if it is explicitly enabled.
+ </p><p>For online search, this feature is only available if it is explicitly enabled.
  To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
  name: "lookup.show" or "discover.show" or "autosuggest.show" or "browse.show"
  value: "truck"
  To enable this feature for all queries, call <code>SearchEngine.set_custom_option()</code> for all:
  "lookup.show", "discover.show", "autosuggest.show" and "browse.show".
  To enable both <code>truck_amenities</code> and <code>fuel_station</code> features, set the value to "fuel,truck".
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
  unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></p></p></div>
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 </li>
 <li>
@@ -409,21 +409,21 @@ slug: "sdk-for-android-explore-details"
 <div class="block"><p>Fuel station details. It is available only if a place is a fuel station and contain fuel data.
  It is fully supported for offline search, provided that <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#FUEL_STATION_ATTRIBUTES"><code>LayerConfiguration.Feature.FUEL_STATION_ATTRIBUTES</code></a>
  is enabled in <a href="sdk-for-android-explore-core-engine-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.
- <p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
+ </p><p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
  only for selected customers. The field is always null for everyone that is not part of
  the closed-alpha group.
  Participants of the closed-alpha group can get access from HERE to use this feature.
  If the credentials are not enabled, a <a href="sdk-for-android-explore-searcherror#FORBIDDEN"><code>SearchError.FORBIDDEN</code></a> will be propagated.
- <p>For online search, this feature is only available if it is explicitly enabled.
+ </p><p>For online search, this feature is only available if it is explicitly enabled.
  To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
  name: "lookup.show" or "discover.show" or "autosuggest.show" or "browse.show"
  value: "fuel"
  To enable this feature for all queries, call <code>SearchEngine.set_custom_option()</code> for all:
  "lookup.show", "discover.show", "autosuggest.show" and "browse.show".
  To enable both <code>truck_amenities</code> and <code>fuel_station</code> features, set the value to "fuel,truck".
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
  unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></p></p></div>
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 </li>
 <li>
@@ -443,9 +443,9 @@ slug: "sdk-for-android-explore-details"
 <div class="block"><p>Details about the payment options at the POI.
  Set to <code>null</code> if the place is not a POI or if payment details are not available.
  Not supported in <code>OfflineSearchEngine</code> (only available for the Navigate license).
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
  unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></div>
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 </li>
 <li>
@@ -487,22 +487,22 @@ slug: "sdk-for-android-explore-details"
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>contacts</code> - <p>The list of contact information of the place.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>openingHours</code> - <p>The list of opening hours information of the place.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>categories</code> - <p>The list of categories assigned to this place.</p></dd>
 <dd><code>images</code> - <p>The list of images associated with the place.
  The images are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>editorials</code> - <p>The list of editorials associated with the place.
  The editorials are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>ratings</code> - <p>The list of ratings associated with the place.
  The ratings are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>references</code> - <p>The list of supplier references to this place.
  The references are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p></dd>
@@ -532,22 +532,22 @@ slug: "sdk-for-android-explore-details"
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>contacts</code> - <p>The list of contact information of the place.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>openingHours</code> - <p>The list of opening hours information of the place.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>categories</code> - <p>The list of categories assigned to this place.</p></dd>
 <dd><code>images</code> - <p>The list of images associated with the place.
  The images are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>editorials</code> - <p>The list of editorials associated with the place.
  The editorials are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>ratings</code> - <p>The list of ratings associated with the place.
  The ratings are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>references</code> - <p>The list of supplier references to this place.
  The references are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p></dd>
@@ -555,14 +555,14 @@ slug: "sdk-for-android-explore-details"
  for electric vehicles.
  It is fully supported for offline search, provided that <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>
  is enabled in <a href="sdk-for-android-explore-core-engine-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.
- <p>For online search, this feature is only available if it is explicitly enabled.
+ </p><p>For online search, this feature is only available if it is explicitly enabled.
  To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
  name: "lookup.show" or "discover.show" or "browse.show"
  value: "ev"
  To enable this feature for all queries, call <code>SearchEngine.set_custom_option()</code> for all:
  "lookup.show", "discover.show" and "browse.show".
  To enable fuel station details or truck amenities, the custom option value can be combined
- as "ev,truck", "ev,truck,fuel" etc.</p></p></dd>
+ as "ev,truck", "ev,truck,fuel" etc.</p></dd>
 </dl>
 </section>
 </li>
@@ -591,22 +591,22 @@ slug: "sdk-for-android-explore-details"
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>contacts</code> - <p>The list of contact information of the place.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>openingHours</code> - <p>The list of opening hours information of the place.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>categories</code> - <p>The list of categories assigned to this place.</p></dd>
 <dd><code>images</code> - <p>The list of images associated with the place.
  The images are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>editorials</code> - <p>The list of editorials associated with the place.
  The editorials are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>ratings</code> - <p>The list of ratings associated with the place.
  The ratings are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>references</code> - <p>The list of supplier references to this place.
  The references are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p></dd>
@@ -614,32 +614,32 @@ slug: "sdk-for-android-explore-details"
  for electric vehicles.
  It is fully supported for offline search, provided that <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>
  is enabled in <a href="sdk-for-android-explore-core-engine-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.
- <p>For online search, this feature is only available if it is explicitly enabled.
+ </p><p>For online search, this feature is only available if it is explicitly enabled.
  To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
  name: "lookup.show" or "discover.show" or "browse.show"
  value: "ev"
  To enable this feature for all queries, call <code>SearchEngine.set_custom_option()</code> for all:
  "lookup.show", "discover.show" and "browse.show".
  To enable fuel station details or truck amenities, the custom option value can be combined
- as "ev,truck", "ev,truck,fuel" etc.</p></p></dd>
+ as "ev,truck", "ev,truck,fuel" etc.</p></dd>
 <dd><code>truckAmenities</code> - <p>Additional information that is available only for places that contain truck amenities.
  It is fully supported for offline search, provided that <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#TRUCK_SERVICE_ATTRIBUTES"><code>LayerConfiguration.Feature.TRUCK_SERVICE_ATTRIBUTES</code></a>
  is enabled in <a href="sdk-for-android-explore-core-engine-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.
- <p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
+ </p><p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
  only for selected customers. The field is always null for everyone that is not part of
  the closed-alpha group.
  Participants of the closed-alpha group can get access from HERE to use this feature.
  If the credentials are not enabled, a <a href="sdk-for-android-explore-searcherror#FORBIDDEN"><code>SearchError.FORBIDDEN</code></a> will be propagated.
- <p>For online search, this feature is only available if it is explicitly enabled.
+ </p><p>For online search, this feature is only available if it is explicitly enabled.
  To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
  name: "lookup.show" or "discover.show" or "autosuggest.show" or "browse.show"
  value: "truck"
  To enable this feature for all queries, call <code>SearchEngine.set_custom_option()</code> for all:
  "lookup.show", "discover.show", "autosuggest.show" and "browse.show".
  To enable both <code>truck_amenities</code> and <code>fuel_station</code> features, set the value to "fuel,truck".
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
  unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></p></p></dd>
+ Related APIs may change for new releases without a deprecation process.</p></dd>
 </dl>
 </section>
 </li>
@@ -670,22 +670,22 @@ slug: "sdk-for-android-explore-details"
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>contacts</code> - <p>The list of contact information of the place.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>openingHours</code> - <p>The list of opening hours information of the place.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>categories</code> - <p>The list of categories assigned to this place.</p></dd>
 <dd><code>images</code> - <p>The list of images associated with the place.
  The images are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>editorials</code> - <p>The list of editorials associated with the place.
  The editorials are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>ratings</code> - <p>The list of ratings associated with the place.
  The ratings are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>references</code> - <p>The list of supplier references to this place.
  The references are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p></dd>
@@ -693,50 +693,50 @@ slug: "sdk-for-android-explore-details"
  for electric vehicles.
  It is fully supported for offline search, provided that <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>
  is enabled in <a href="sdk-for-android-explore-core-engine-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.
- <p>For online search, this feature is only available if it is explicitly enabled.
+ </p><p>For online search, this feature is only available if it is explicitly enabled.
  To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
  name: "lookup.show" or "discover.show" or "browse.show"
  value: "ev"
  To enable this feature for all queries, call <code>SearchEngine.set_custom_option()</code> for all:
  "lookup.show", "discover.show" and "browse.show".
  To enable fuel station details or truck amenities, the custom option value can be combined
- as "ev,truck", "ev,truck,fuel" etc.</p></p></dd>
+ as "ev,truck", "ev,truck,fuel" etc.</p></dd>
 <dd><code>truckAmenities</code> - <p>Additional information that is available only for places that contain truck amenities.
  It is fully supported for offline search, provided that <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#TRUCK_SERVICE_ATTRIBUTES"><code>LayerConfiguration.Feature.TRUCK_SERVICE_ATTRIBUTES</code></a>
  is enabled in <a href="sdk-for-android-explore-core-engine-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.
- <p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
+ </p><p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
  only for selected customers. The field is always null for everyone that is not part of
  the closed-alpha group.
  Participants of the closed-alpha group can get access from HERE to use this feature.
  If the credentials are not enabled, a <a href="sdk-for-android-explore-searcherror#FORBIDDEN"><code>SearchError.FORBIDDEN</code></a> will be propagated.
- <p>For online search, this feature is only available if it is explicitly enabled.
+ </p><p>For online search, this feature is only available if it is explicitly enabled.
  To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
  name: "lookup.show" or "discover.show" or "autosuggest.show" or "browse.show"
  value: "truck"
  To enable this feature for all queries, call <code>SearchEngine.set_custom_option()</code> for all:
  "lookup.show", "discover.show", "autosuggest.show" and "browse.show".
  To enable both <code>truck_amenities</code> and <code>fuel_station</code> features, set the value to "fuel,truck".
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
  unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></p></p></dd>
+ Related APIs may change for new releases without a deprecation process.</p></dd>
 <dd><code>fuelStation</code> - <p>Fuel station details. It is available only if a place is a fuel station and contain fuel data.
  It is fully supported for offline search, provided that <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#FUEL_STATION_ATTRIBUTES"><code>LayerConfiguration.Feature.FUEL_STATION_ATTRIBUTES</code></a>
  is enabled in <a href="sdk-for-android-explore-core-engine-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.
- <p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
+ </p><p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
  only for selected customers. The field is always null for everyone that is not part of
  the closed-alpha group.
  Participants of the closed-alpha group can get access from HERE to use this feature.
  If the credentials are not enabled, a <a href="sdk-for-android-explore-searcherror#FORBIDDEN"><code>SearchError.FORBIDDEN</code></a> will be propagated.
- <p>For online search, this feature is only available if it is explicitly enabled.
+ </p><p>For online search, this feature is only available if it is explicitly enabled.
  To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
  name: "lookup.show" or "discover.show" or "autosuggest.show" or "browse.show"
  value: "fuel"
  To enable this feature for all queries, call <code>SearchEngine.set_custom_option()</code> for all:
  "lookup.show", "discover.show", "autosuggest.show" and "browse.show".
  To enable both <code>truck_amenities</code> and <code>fuel_station</code> features, set the value to "fuel,truck".
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
  unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></p></p></dd>
+ Related APIs may change for new releases without a deprecation process.</p></dd>
 </dl>
 </section>
 </li>
@@ -769,22 +769,22 @@ slug: "sdk-for-android-explore-details"
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>contacts</code> - <p>The list of contact information of the place.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>openingHours</code> - <p>The list of opening hours information of the place.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>categories</code> - <p>The list of categories assigned to this place.</p></dd>
 <dd><code>images</code> - <p>The list of images associated with the place.
  The images are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>editorials</code> - <p>The list of editorials associated with the place.
  The editorials are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>ratings</code> - <p>The list of ratings associated with the place.
  The ratings are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>references</code> - <p>The list of supplier references to this place.
  The references are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p></dd>
@@ -792,50 +792,50 @@ slug: "sdk-for-android-explore-details"
  for electric vehicles.
  It is fully supported for offline search, provided that <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>
  is enabled in <a href="sdk-for-android-explore-core-engine-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.
- <p>For online search, this feature is only available if it is explicitly enabled.
+ </p><p>For online search, this feature is only available if it is explicitly enabled.
  To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
  name: "lookup.show" or "discover.show" or "browse.show"
  value: "ev"
  To enable this feature for all queries, call <code>SearchEngine.set_custom_option()</code> for all:
  "lookup.show", "discover.show" and "browse.show".
  To enable fuel station details or truck amenities, the custom option value can be combined
- as "ev,truck", "ev,truck,fuel" etc.</p></p></dd>
+ as "ev,truck", "ev,truck,fuel" etc.</p></dd>
 <dd><code>truckAmenities</code> - <p>Additional information that is available only for places that contain truck amenities.
  It is fully supported for offline search, provided that <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#TRUCK_SERVICE_ATTRIBUTES"><code>LayerConfiguration.Feature.TRUCK_SERVICE_ATTRIBUTES</code></a>
  is enabled in <a href="sdk-for-android-explore-core-engine-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.
- <p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
+ </p><p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
  only for selected customers. The field is always null for everyone that is not part of
  the closed-alpha group.
  Participants of the closed-alpha group can get access from HERE to use this feature.
  If the credentials are not enabled, a <a href="sdk-for-android-explore-searcherror#FORBIDDEN"><code>SearchError.FORBIDDEN</code></a> will be propagated.
- <p>For online search, this feature is only available if it is explicitly enabled.
+ </p><p>For online search, this feature is only available if it is explicitly enabled.
  To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
  name: "lookup.show" or "discover.show" or "autosuggest.show" or "browse.show"
  value: "truck"
  To enable this feature for all queries, call <code>SearchEngine.set_custom_option()</code> for all:
  "lookup.show", "discover.show", "autosuggest.show" and "browse.show".
  To enable both <code>truck_amenities</code> and <code>fuel_station</code> features, set the value to "fuel,truck".
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
  unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></p></p></dd>
+ Related APIs may change for new releases without a deprecation process.</p></dd>
 <dd><code>fuelStation</code> - <p>Fuel station details. It is available only if a place is a fuel station and contain fuel data.
  It is fully supported for offline search, provided that <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#FUEL_STATION_ATTRIBUTES"><code>LayerConfiguration.Feature.FUEL_STATION_ATTRIBUTES</code></a>
  is enabled in <a href="sdk-for-android-explore-core-engine-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.
- <p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
+ </p><p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
  only for selected customers. The field is always null for everyone that is not part of
  the closed-alpha group.
  Participants of the closed-alpha group can get access from HERE to use this feature.
  If the credentials are not enabled, a <a href="sdk-for-android-explore-searcherror#FORBIDDEN"><code>SearchError.FORBIDDEN</code></a> will be propagated.
- <p>For online search, this feature is only available if it is explicitly enabled.
+ </p><p>For online search, this feature is only available if it is explicitly enabled.
  To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
  name: "lookup.show" or "discover.show" or "autosuggest.show" or "browse.show"
  value: "fuel"
  To enable this feature for all queries, call <code>SearchEngine.set_custom_option()</code> for all:
  "lookup.show", "discover.show", "autosuggest.show" and "browse.show".
  To enable both <code>truck_amenities</code> and <code>fuel_station</code> features, set the value to "fuel,truck".
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
  unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></p></p></dd>
+ Related APIs may change for new releases without a deprecation process.</p></dd>
 <dd><code>foodTypes</code> - <p>The list of food types assigned to this place.
  Not supported in <code>OfflineSearchEngine</code> (only available for the Navigate license).</p></dd>
 </dl>
@@ -872,22 +872,22 @@ slug: "sdk-for-android-explore-details"
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>contacts</code> - <p>The list of contact information of the place.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>openingHours</code> - <p>The list of opening hours information of the place.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>categories</code> - <p>The list of categories assigned to this place.</p></dd>
 <dd><code>images</code> - <p>The list of images associated with the place.
  The images are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>editorials</code> - <p>The list of editorials associated with the place.
  The editorials are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>ratings</code> - <p>The list of ratings associated with the place.
  The ratings are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>references</code> - <p>The list of supplier references to this place.
  The references are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p></dd>
@@ -895,58 +895,58 @@ slug: "sdk-for-android-explore-details"
  for electric vehicles.
  It is fully supported for offline search, provided that <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>
  is enabled in <a href="sdk-for-android-explore-core-engine-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.
- <p>For online search, this feature is only available if it is explicitly enabled.
+ </p><p>For online search, this feature is only available if it is explicitly enabled.
  To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
  name: "lookup.show" or "discover.show" or "browse.show"
  value: "ev"
  To enable this feature for all queries, call <code>SearchEngine.set_custom_option()</code> for all:
  "lookup.show", "discover.show" and "browse.show".
  To enable fuel station details or truck amenities, the custom option value can be combined
- as "ev,truck", "ev,truck,fuel" etc.</p></p></dd>
+ as "ev,truck", "ev,truck,fuel" etc.</p></dd>
 <dd><code>truckAmenities</code> - <p>Additional information that is available only for places that contain truck amenities.
  It is fully supported for offline search, provided that <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#TRUCK_SERVICE_ATTRIBUTES"><code>LayerConfiguration.Feature.TRUCK_SERVICE_ATTRIBUTES</code></a>
  is enabled in <a href="sdk-for-android-explore-core-engine-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.
- <p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
+ </p><p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
  only for selected customers. The field is always null for everyone that is not part of
  the closed-alpha group.
  Participants of the closed-alpha group can get access from HERE to use this feature.
  If the credentials are not enabled, a <a href="sdk-for-android-explore-searcherror#FORBIDDEN"><code>SearchError.FORBIDDEN</code></a> will be propagated.
- <p>For online search, this feature is only available if it is explicitly enabled.
+ </p><p>For online search, this feature is only available if it is explicitly enabled.
  To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
  name: "lookup.show" or "discover.show" or "autosuggest.show" or "browse.show"
  value: "truck"
  To enable this feature for all queries, call <code>SearchEngine.set_custom_option()</code> for all:
  "lookup.show", "discover.show", "autosuggest.show" and "browse.show".
  To enable both <code>truck_amenities</code> and <code>fuel_station</code> features, set the value to "fuel,truck".
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
  unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></p></p></dd>
+ Related APIs may change for new releases without a deprecation process.</p></dd>
 <dd><code>fuelStation</code> - <p>Fuel station details. It is available only if a place is a fuel station and contain fuel data.
  It is fully supported for offline search, provided that <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#FUEL_STATION_ATTRIBUTES"><code>LayerConfiguration.Feature.FUEL_STATION_ATTRIBUTES</code></a>
  is enabled in <a href="sdk-for-android-explore-core-engine-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.
- <p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
+ </p><p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
  only for selected customers. The field is always null for everyone that is not part of
  the closed-alpha group.
  Participants of the closed-alpha group can get access from HERE to use this feature.
  If the credentials are not enabled, a <a href="sdk-for-android-explore-searcherror#FORBIDDEN"><code>SearchError.FORBIDDEN</code></a> will be propagated.
- <p>For online search, this feature is only available if it is explicitly enabled.
+ </p><p>For online search, this feature is only available if it is explicitly enabled.
  To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
  name: "lookup.show" or "discover.show" or "autosuggest.show" or "browse.show"
  value: "fuel"
  To enable this feature for all queries, call <code>SearchEngine.set_custom_option()</code> for all:
  "lookup.show", "discover.show", "autosuggest.show" and "browse.show".
  To enable both <code>truck_amenities</code> and <code>fuel_station</code> features, set the value to "fuel,truck".
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
  unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></p></p></dd>
+ Related APIs may change for new releases without a deprecation process.</p></dd>
 <dd><code>foodTypes</code> - <p>The list of food types assigned to this place.
  Not supported in <code>OfflineSearchEngine</code> (only available for the Navigate license).</p></dd>
 <dd><code>payment</code> - <p>Details about the payment options at the POI.
  Set to <code>null</code> if the place is not a POI or if payment details are not available.
  Not supported in <code>OfflineSearchEngine</code> (only available for the Navigate license).
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
  unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></dd>
+ Related APIs may change for new releases without a deprecation process.</p></dd>
 </dl>
 </section>
 </li>
@@ -983,22 +983,22 @@ slug: "sdk-for-android-explore-details"
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>contacts</code> - <p>The list of contact information of the place.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>openingHours</code> - <p>The list of opening hours information of the place.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>categories</code> - <p>The list of categories assigned to this place.</p></dd>
 <dd><code>images</code> - <p>The list of images associated with the place.
  The images are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>editorials</code> - <p>The list of editorials associated with the place.
  The editorials are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>ratings</code> - <p>The list of ratings associated with the place.
  The ratings are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.
- <p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></p></dd>
+ </p><p><strong>Note:</strong> Not available as part of <a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search"><code>Suggestion</code></a> results.</p></dd>
 <dd><code>references</code> - <p>The list of supplier references to this place.
  The references are provided by external suppliers and are only available to users with
  valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p></dd>
@@ -1006,58 +1006,58 @@ slug: "sdk-for-android-explore-details"
  for electric vehicles.
  It is fully supported for offline search, provided that <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#EV"><code>LayerConfiguration.Feature.EV</code></a>
  is enabled in <a href="sdk-for-android-explore-core-engine-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.
- <p>For online search, this feature is only available if it is explicitly enabled.
+ </p><p>For online search, this feature is only available if it is explicitly enabled.
  To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
  name: "lookup.show" or "discover.show" or "browse.show"
  value: "ev"
  To enable this feature for all queries, call <code>SearchEngine.set_custom_option()</code> for all:
  "lookup.show", "discover.show" and "browse.show".
  To enable fuel station details or truck amenities, the custom option value can be combined
- as "ev,truck", "ev,truck,fuel" etc.</p></p></dd>
+ as "ev,truck", "ev,truck,fuel" etc.</p></dd>
 <dd><code>truckAmenities</code> - <p>Additional information that is available only for places that contain truck amenities.
  It is fully supported for offline search, provided that <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#TRUCK_SERVICE_ATTRIBUTES"><code>LayerConfiguration.Feature.TRUCK_SERVICE_ATTRIBUTES</code></a>
  is enabled in <a href="sdk-for-android-explore-core-engine-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.
- <p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
+ </p><p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
  only for selected customers. The field is always null for everyone that is not part of
  the closed-alpha group.
  Participants of the closed-alpha group can get access from HERE to use this feature.
  If the credentials are not enabled, a <a href="sdk-for-android-explore-searcherror#FORBIDDEN"><code>SearchError.FORBIDDEN</code></a> will be propagated.
- <p>For online search, this feature is only available if it is explicitly enabled.
+ </p><p>For online search, this feature is only available if it is explicitly enabled.
  To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
  name: "lookup.show" or "discover.show" or "autosuggest.show" or "browse.show"
  value: "truck"
  To enable this feature for all queries, call <code>SearchEngine.set_custom_option()</code> for all:
  "lookup.show", "discover.show", "autosuggest.show" and "browse.show".
  To enable both <code>truck_amenities</code> and <code>fuel_station</code> features, set the value to "fuel,truck".
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
  unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></p></p></dd>
+ Related APIs may change for new releases without a deprecation process.</p></dd>
 <dd><code>fuelStation</code> - <p>Fuel station details. It is available only if a place is a fuel station and contain fuel data.
  It is fully supported for offline search, provided that <a href="sdk-for-android-explore-core-engine-layerconfiguration.feature#FUEL_STATION_ATTRIBUTES"><code>LayerConfiguration.Feature.FUEL_STATION_ATTRIBUTES</code></a>
  is enabled in <a href="sdk-for-android-explore-core-engine-sdkoptions#layerConfiguration"><code>SDKOptions.layerConfiguration</code></a>.
- <p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
+ </p><p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
  only for selected customers. The field is always null for everyone that is not part of
  the closed-alpha group.
  Participants of the closed-alpha group can get access from HERE to use this feature.
  If the credentials are not enabled, a <a href="sdk-for-android-explore-searcherror#FORBIDDEN"><code>SearchError.FORBIDDEN</code></a> will be propagated.
- <p>For online search, this feature is only available if it is explicitly enabled.
+ </p><p>For online search, this feature is only available if it is explicitly enabled.
  To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
  name: "lookup.show" or "discover.show" or "autosuggest.show" or "browse.show"
  value: "fuel"
  To enable this feature for all queries, call <code>SearchEngine.set_custom_option()</code> for all:
  "lookup.show", "discover.show", "autosuggest.show" and "browse.show".
  To enable both <code>truck_amenities</code> and <code>fuel_station</code> features, set the value to "fuel,truck".
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
  unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></p></p></dd>
+ Related APIs may change for new releases without a deprecation process.</p></dd>
 <dd><code>foodTypes</code> - <p>The list of food types assigned to this place.
  Not supported in <code>OfflineSearchEngine</code> (only available for the Navigate license).</p></dd>
 <dd><code>payment</code> - <p>Details about the payment options at the POI.
  Set to <code>null</code> if the place is not a POI or if payment details are not available.
  Not supported in <code>OfflineSearchEngine</code> (only available for the Navigate license).
- <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
+ </p><p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
  unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></dd>
+ Related APIs may change for new releases without a deprecation process.</p></dd>
 <dd><code>evChargingLocation</code> - <p>Details about the EV charging station, if this place belongs to the EV charging station category.
  <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></dd>
@@ -1113,8 +1113,8 @@ slug: "sdk-for-android-explore-details"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

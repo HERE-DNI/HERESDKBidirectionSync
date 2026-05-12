@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-trafficflowquerycallback"
 <!-- TrafficFlowQueryCallback.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -129,8 +129,8 @@ slug: "sdk-for-android-explore-trafficflowquerycallback"
 <dt>Parameters:</dt>
 <dd><code>queryError</code> - <p>The error in the case of the failure. It is <code>null</code> for an operation that succeeds.</p></dd>
 <dd><code>result</code> - <p>The list of incidents in the case of the success. It is <code>null</code> in case of an error.
-     <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
-     Related APIs may change for new releases without a deprecation process.</p></p></dd>
+     </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+     Related APIs may change for new releases without a deprecation process.</p></dd>
 </dl>
 </section>
 </li>
@@ -143,8 +143,8 @@ slug: "sdk-for-android-explore-trafficflowquerycallback"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

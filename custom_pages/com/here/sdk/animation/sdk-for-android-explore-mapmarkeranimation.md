@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mapmarkeranimation"
 <!-- MapMarkerAnimation.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -133,8 +133,8 @@ slug: "sdk-for-android-explore-mapmarkeranimation"
  <a href="sdk-for-android-explore-mapitemkeyframetrack" title="class in com.here.sdk.animation">MapItemKeyFrameTrack</a> track)</span>
                    throws <span class="exceptions"><a href="sdk-for-android-explore-mapmarkeranimation.instantiationexception" title="class in com.here.sdk.animation">MapMarkerAnimation.InstantiationException</a></span></div>
 <div class="block"><p>Creates an animation of <a href="sdk-for-android-explore-mapview-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a> based on provided keyframe track.
- <p>Supports tracks created with <a href="sdk-for-android-explore-mapitemkeyframetrack" title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack</code></a> 'moveTo*' methods.
- <p>For starting the animation see <a href="sdk-for-android-explore-mapview-mapmarker#startAnimation(com.here.sdk.animation.MapMarkerAnimation,com.here.sdk.animation.AnimationListener)"><code>MapMarker.startAnimation(com.here.sdk.animation.MapMarkerAnimation, com.here.sdk.animation.AnimationListener)</code></a>.</p></p></p></div>
+ </p><p>Supports tracks created with <a href="sdk-for-android-explore-mapitemkeyframetrack" title="class in com.here.sdk.animation"><code>MapItemKeyFrameTrack</code></a> 'moveTo*' methods.
+ </p><p>For starting the animation see <a href="sdk-for-android-explore-mapview-mapmarker#startAnimation(com.here.sdk.animation.MapMarkerAnimation,com.here.sdk.animation.AnimationListener)"><code>MapMarker.startAnimation(com.here.sdk.animation.MapMarkerAnimation, com.here.sdk.animation.AnimationListener)</code></a>.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>track</code> - <p>The track holding the keyframes for the animation.</p></dd>
@@ -152,8 +152,8 @@ slug: "sdk-for-android-explore-mapmarkeranimation"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

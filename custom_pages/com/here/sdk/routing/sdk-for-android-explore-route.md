@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-route"
 <!-- Route.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -68,10 +68,10 @@ slug: "sdk-for-android-explore-route"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Route</span>
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>A route is a path through a road network over which someone travels.
- <p><strong>Note:</strong> Each <a href="sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a> of a route contains a list of <a href="sdk-for-android-explore-sectionnotice" title="class in com.here.sdk.routing"><code>SectionNotice</code></a> objects
+ </p><p><strong>Note:</strong> Each <a href="sdk-for-android-explore-section" title="class in com.here.sdk.routing"><code>Section</code></a> of a route contains a list of <a href="sdk-for-android-explore-sectionnotice" title="class in com.here.sdk.routing"><code>SectionNotice</code></a> objects
  that describe <em>potential issues</em> after the route was calculated. If the list is non-empty,
  it is recommended to evaluate possible violations against the requested route options and
- reject the route if deemed necessary.</p></p></div>
+ reject the route if deemed necessary.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -378,7 +378,7 @@ slug: "sdk-for-android-explore-route"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-routerailwaycrossing" title="class in com.here.sdk.routing">RouteRailwayCrossing</a>&gt;</span> <span class="element-name">getRailwayCrossings</span>()</div>
 <div class="block"><p>Gets railway crossings.
- <p>Railway crossing information is only available for routes created with the online <code>RoutingEngine</code>.</p></p></div>
+ </p><p>Railway crossing information is only available for routes created with the online <code>RoutingEngine</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>Collection of railway crossings along the route.</p></dd>
@@ -391,9 +391,9 @@ slug: "sdk-for-android-explore-route"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-routelabel" title="class in com.here.sdk.routing">RouteLabel</a>&gt;</span> <span class="element-name">getRouteLabels</span>()</div>
 <div class="block"><p>Gets route labels.
- <p>The main street names or route numbers through which the route is going to pass that differentiate it from other alternatives routes.
+ </p><p>The main street names or route numbers through which the route is going to pass that differentiate it from other alternatives routes.
  The labels are ordered by importance based on how much time the route spends on each road segment, not by traversal sequence. This helps users quickly identify and distinguish between different route alternatives
- when alternative routes have been quested via <code>RouteOptions</code>.</p></p></div>
+ when alternative routes have been quested via <code>RouteOptions</code>.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>A collection containing a maximum of 2 <code>RouteLabel</code> instances for the route. It will return an empty list if no labels are available.</p></dd>
@@ -409,8 +409,8 @@ slug: "sdk-for-android-explore-route"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

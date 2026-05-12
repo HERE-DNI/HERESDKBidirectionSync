@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mapmarkercluster-imagestyle"
 <!-- MapMarkerCluster.ImageStyle.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -167,10 +167,10 @@ slug: "sdk-for-android-explore-mapmarkercluster-imagestyle"
  @NonNull
  <a href="sdk-for-android-explore-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor)</span></div>
 <div class="block"><p>Creates a cluster marker image style using a map image with anchor.
- <p>The anchor is a way of specifying position offset relative to image's dimensions on the
+ </p><p>The anchor is a way of specifying position offset relative to image's dimensions on the
  screen. For example, (0, 0) places the top-left corner of the image at the cluster's
  position. (1, 1) would place the bottom-right corner of the image at the cluster's
- position.</p></p></div>
+ position.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>image</code> - <p>The map image for the cluster marker.</p></dd>
@@ -200,8 +200,8 @@ slug: "sdk-for-android-explore-mapmarkercluster-imagestyle"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

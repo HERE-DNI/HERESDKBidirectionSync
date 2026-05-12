@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mapcamera-farplaneconfiguration"
 <!-- MapCamera.FarPlaneConfiguration.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -70,11 +70,11 @@ slug: "sdk-for-android-explore-mapcamera-farplaneconfiguration"
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">MapCamera.FarPlaneConfiguration</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Far plane distance configuration for a zoom level.
- <p>Effective far plane is computed from both parameters as:
+ </p><p>Effective far plane is computed from both parameters as:
  farPlaneInMeters = max(
  minDistanceInMeters,
  distanceToTargetInMeters * distanceFactor
- )</p></p></div>
+ )</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -222,8 +222,8 @@ slug: "sdk-for-android-explore-mapcamera-farplaneconfiguration"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

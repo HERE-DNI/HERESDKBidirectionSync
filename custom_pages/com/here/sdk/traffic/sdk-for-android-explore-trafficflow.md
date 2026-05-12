@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-trafficflow"
 <!-- TrafficFlow.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -75,8 +75,8 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <div class="block"><p>This class provides details about traffic flow along a <a href="sdk-for-android-explore-core-geocorridor" title="class in com.here.sdk.core"><code>GeoCorridor</code></a>, inside a <a href="sdk-for-android-explore-core-geocircle" title="class in com.here.sdk.core"><code>GeoCircle</code></a> or a <a href="sdk-for-android-explore-core-geobox" title="class in com.here.sdk.core"><code>GeoBox</code></a>, that represents particular path of the road network.<br/>
  Backends for TrafficEngine and traffic vector tiles are different however backends may share the same data.<br/>
  For additional information about fields, refer to <a href="https://www.here.com/docs/bundle/traffic-api-v7-api-reference/page/index.html#tag/Real-Time-Traffic">Traffic API v7 API Reference: Traffic API v7</a>.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -183,8 +183,8 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">getSpeedUncappedInMetersPerSecond</span>()</div>
 <div class="block"><p>Gets the expected speed in meters per second along the roadway.
- <p>It is based on probe data (GPS coordinates sent by vehicles or mobile devices driving along that roadway).
- The calculated 'expected speed' may be over the legal speed limit for that roadway because people are driving over the speed limit.</p></p></div>
+ </p><p>It is based on probe data (GPS coordinates sent by vehicles or mobile devices driving along that roadway).
+ The calculated 'expected speed' may be over the legal speed limit for that roadway because people are driving over the speed limit.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The expected speed in meters per second that a car can drive along a roadway right now; may exceed the legal speed limit.</p></dd>
@@ -197,7 +197,7 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Short.html" title="class or interface in java.lang">Short</a></span> <span class="element-name">getJamTendency</span>()</div>
 <div class="block"><p>Gets the jam tendency field value which denotes whether the congestion is increasing, decreasing, or constant.
- <p>The congestion tendency may take the following values:
+ </p><p>The congestion tendency may take the following values:
  <ul>
 <li>+2 - rapidly increasing congestion</li>
 <li>+1 - increasing congestion</li>
@@ -205,7 +205,7 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <li>-1 - decreasing congestion</li>
 <li>-2 - rapidly decreasing congestion
  Default value of 0 can be assumed when this attribute is not present.</li>
-</ul></p></p></div>
+</ul></p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The jamTendency field denotes whether the congestion is increasing, decreasing, or constant.</p></dd>
@@ -218,17 +218,17 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <div class="member-signature"><span class="annotations">@Nullable
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a></span> <span class="element-name">getConfidence</span>()</div>
 <div class="block"><p>Gets the confidence field value which is normalized value between 0.0 and 1.0.
- <p>It is a normalized value between 0.0 and 1.0 with the following meaning:
+ </p><p>It is a normalized value between 0.0 and 1.0 with the following meaning:
  <ul>
 <li>0.7 &lt; confidence &lt;= 1.0 indicates real time speeds</li>
 <li>0.5 &lt; confidence &lt;= 0.7 indicates historical speeds</li>
 <li>0.0 &lt; confidence &lt;= 0.5 indicates speed limit</li>
 </ul>
-<p>This field can be used to identify whether the data for a location is derived from
+</p><p>This field can be used to identify whether the data for a location is derived from
  real-time probe sources or historical information only.
  All confidence data 0.71 and above is based on real-time information,
  where a confidence value of 0.75 or greater indicates high confidence real-time information.
- A confidence value equal to 0.70 or lower means that the data is derived from historical data only.</p></p></p></div>
+ A confidence value equal to 0.70 or lower means that the data is derived from historical data only.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The confidence field indicates the proportion of real-time data included in the speed calculation.</p></dd>
@@ -277,10 +277,10 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 <h3>getJamFactor</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">double</span> <span class="element-name">getJamFactor</span>()</div>
 <div class="block"><p>Gets a value for the amount of traffic on the roadway.
- <p>The value, between 0.0 and 10.0, indicate the expected quality of travel.
+ </p><p>The value, between 0.0 and 10.0, indicate the expected quality of travel.
  A value of 0.0 indicates that there is no congestion on the roadway.
  As the value approaches 10.0, it indicates increasing congestion.
- A value of 10.0 is reserved to represent a blocked roadway (closure).</p></p></div>
+ A value of 10.0 is reserved to represent a blocked roadway (closure).</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
 <dd><code><a href="sdk-for-android-explore-trafficflowbase#getJamFactor()">getJamFactor</a></code> in interface <code><a href="sdk-for-android-explore-trafficflowbase" title="interface in com.here.sdk.traffic">TrafficFlowBase</a></code></dd>
@@ -298,8 +298,8 @@ implements <a href="sdk-for-android-explore-trafficflowbase" title="interface in
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

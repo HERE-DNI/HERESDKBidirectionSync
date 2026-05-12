@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-tilesource-loadtilerequesthandle"
 <!-- TileSource.LoadTileRequestHandle.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -116,8 +116,8 @@ slug: "sdk-for-android-explore-tilesource-loadtilerequesthandle"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

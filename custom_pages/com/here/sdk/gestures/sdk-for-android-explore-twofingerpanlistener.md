@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-twofingerpanlistener"
 <!-- TwoFingerPanListener.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -129,8 +129,8 @@ slug: "sdk-for-android-explore-twofingerpanlistener"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

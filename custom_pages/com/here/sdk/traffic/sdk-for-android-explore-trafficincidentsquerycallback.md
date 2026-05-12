@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-trafficincidentsquerycallback"
 <!-- TrafficIncidentsQueryCallback.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -131,8 +131,8 @@ slug: "sdk-for-android-explore-trafficincidentsquerycallback"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

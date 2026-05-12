@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-transitroutingengine"
 <!-- TransitRoutingEngine.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -73,8 +73,8 @@ slug: "sdk-for-android-explore-transitroutingengine"
  online connection. The resulting route contains various
  information such as the polyline, route length in meters,
  estimated time to traverse along the route and maneuver data.
- <p><strong>Note</strong>: Clients need to explicitly call <a href="#dispose()"><code>dispose()</code></a> in order to prevent a possible, though
- unlikely, deadlock on destruction.</p></p></div>
+ </p><p><strong>Note</strong>: Clients need to explicitly call <a href="#dispose()"><code>dispose()</code></a> in order to prevent a possible, though
+ unlikely, deadlock on destruction.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -215,8 +215,8 @@ slug: "sdk-for-android-explore-transitroutingengine"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

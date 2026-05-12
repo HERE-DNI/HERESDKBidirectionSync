@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-allpackages"
 <!-- allpackages-index.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="all-packages-index-page">
+
+
 
 
 <div class="flex-box">
@@ -83,8 +83,8 @@ slug: "sdk-for-android-explore-allpackages"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

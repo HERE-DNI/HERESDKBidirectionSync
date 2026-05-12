@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-nativebase"
 <!-- NativeBase.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -73,18 +73,18 @@ slug: "sdk-for-android-explore-nativebase"
  While the class is public for technical reasons, but should be considered <b>internal</b> and not
  part of the public API and thus not used directly.
 
- <p>Java classes which wrap C++ objects inherit from NativeBase to
+ </p><p>Java classes which wrap C++ objects inherit from NativeBase to
  <ol>
 <li>reference the C++ object</li>
 <li>manage the lifecycle of C++ object</li>
 </ol>
-<p>Cleanup of C++ objects is done automatically as long as there are new subclasses of NativeBase
+</p><p>Cleanup of C++ objects is done automatically as long as there are new subclasses of NativeBase
  created. Currently there is no explicit way to destroy the underlying C++ object of a Java
  wrapper. This is intentional because normally no manual cleanup is necessary. Additionally the
  client of the Java wrapper would need additional knowledge of the underlying implementation to
  be able to decide whether or not cleanup is necessary. It is not clear for the client which
  object needs cleanup and which doesn't if all objects have auto-generated cleanup functions.
- So instead API designers should manually define methods if resource cleanup is necessary.</p></p></p></div>
+ So instead API designers should manually define methods if resource cleanup is necessary.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -103,8 +103,8 @@ slug: "sdk-for-android-explore-nativebase"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

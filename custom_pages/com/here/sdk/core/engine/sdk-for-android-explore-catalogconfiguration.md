@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-catalogconfiguration"
 <!-- CatalogConfiguration.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -67,12 +67,12 @@ slug: "sdk-for-android-explore-catalogconfiguration"
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>Using this class you can configure in the <a href="sdk-for-android-explore-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a>,
  how the <a href="sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> should access, use and store the data for the desired catalog.
- <p>Using this class, you can access default catalogs on the HERE platform and also custom catalogs
+ </p><p>Using this class, you can access default catalogs on the HERE platform and also custom catalogs
  such as for self-hosted or BYOD (bring your own data) use cases.
- <p>For information on how the user can identify a catalog on the HERE platform, see <a href="sdk-for-android-explore-desiredcatalog" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a>
+ </p><p>For information on how the user can identify a catalog on the HERE platform, see <a href="sdk-for-android-explore-desiredcatalog" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a>
  For further information about catalogs and related concepts see <a href="sdk-for-android-explore-catalogidentifier" title="class in com.here.sdk.core.engine"><code>CatalogIdentifier</code></a>.
- <p><strong>Note:</strong>
- This API is only applicable for the Navigate license.</p></p></p></p></div>
+ </p><p><strong>Note:</strong>
+ This API is only applicable for the Navigate license.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -280,8 +280,8 @@ slug: "sdk-for-android-explore-catalogconfiguration"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

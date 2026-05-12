@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-instantiationerrorexception"
 <!-- InstantiationErrorException.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -103,8 +103,8 @@ slug: "sdk-for-android-explore-instantiationerrorexception"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

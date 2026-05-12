@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-localizedroadnumber"
 <!-- LocalizedRoadNumber.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -254,8 +254,8 @@ slug: "sdk-for-android-explore-localizedroadnumber"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

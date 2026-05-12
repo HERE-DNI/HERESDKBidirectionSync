@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-scooterspecification"
 <!-- ScooterSpecification.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -150,14 +150,14 @@ slug: "sdk-for-android-explore-scooterspecification"
  In such a case, a <code>SectionNotice</code> will be provided in the related <code>Section</code> to indicate that
  the highway usage restriction is violated on this route.
  A few examples:
- <p>1 - If no avoidance option is set, and <code>allowHighway = false</code>, when no route is found without
+ </p><p>1 - If no avoidance option is set, and <code>allowHighway = false</code>, when no route is found without
  highway usage, a notice is received.
- <p>2 - If no avoidance option is set, and <code>allowHighway = true</code>, when no route is found without
+ </p><p>2 - If no avoidance option is set, and <code>allowHighway = true</code>, when no route is found without
  highway usage, no notice is received.
- <p>3 - If only <code>avoid[features] = controlledAccessHighway</code> is set, when no route is found without
+ </p><p>3 - If only <code>avoid[features] = controlledAccessHighway</code> is set, when no route is found without
  highway usage, a notice is received.
- <p>4 - If both <code>avoid[features] = controlledAccessHighway</code> and <code>allowHighway = true</code> are set,
- when no route is found without highway usage, a notice is received.</p></p></p></p></p></div>
+ </p><p>4 - If both <code>avoid[features] = controlledAccessHighway</code> and <code>allowHighway = true</code> are set,
+ when no route is found without highway usage, a notice is received.</p></div>
 </section>
 </li>
 </ul>
@@ -212,8 +212,8 @@ slug: "sdk-for-android-explore-scooterspecification"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

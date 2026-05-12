@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-transitsectiondetails"
 <!-- TransitSectionDetails.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -198,7 +198,7 @@ slug: "sdk-for-android-explore-transitsectiondetails"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-fare" title="class in com.here.sdk.routing">Fare</a>&gt;</span> <span class="element-name">fares</span></div>
 <div class="block"><p>List of tickets to pay for this section of the route.
- <p><strong>Note:</strong> Currently, fare information is not supported and the list will be always empty.</p></p></div>
+ </p><p><strong>Note:</strong> Currently, fare information is not supported and the list will be always empty.</p></div>
 </section>
 </li>
 <li>
@@ -266,8 +266,8 @@ slug: "sdk-for-android-explore-transitsectiondetails"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

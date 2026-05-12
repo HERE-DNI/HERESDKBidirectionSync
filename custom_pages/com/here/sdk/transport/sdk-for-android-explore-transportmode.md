@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-transportmode"
 <!-- TransportMode.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -229,9 +229,9 @@ the order they are declared.</div>
 <div class="block"><p>The taxi transport mode takes into account tax restricted streets as well as streets reserved for
  exclusive taxi access. Note that roads that are restricted or reserved for taxis are avoided, unless
  a waypoint is set on such a road - as this may indicate to pick-up or to drop-off a passenger.
- <p><strong>Note:</strong> This is a beta release of this transport mode, so there could be a few bugs and unexpected
+ </p><p><strong>Note:</strong> This is a beta release of this transport mode, so there could be a few bugs and unexpected
  behaviors. Related APIs may change for new releases or even become unsupported, without a
- deprecation process.</p></p></div>
+ deprecation process.</p></div>
 </section>
 </li>
 <li>
@@ -300,8 +300,8 @@ not permitted.)</div>
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

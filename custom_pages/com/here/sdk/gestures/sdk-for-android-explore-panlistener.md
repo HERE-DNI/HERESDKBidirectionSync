@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-panlistener"
 <!-- PanListener.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -128,8 +128,8 @@ slug: "sdk-for-android-explore-panlistener"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

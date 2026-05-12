@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-assetsmanager"
 <!-- AssetsManager.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -68,8 +68,8 @@ slug: "sdk-for-android-explore-assetsmanager"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">AssetsManager</span>
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Assets manager interface. Can be used to make assets available to the SDK.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -162,12 +162,12 @@ slug: "sdk-for-android-explore-assetsmanager"
 <li>the SVG <code>text</code> tag as <code>font-family</code> attribute parameter when creating a <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview"><code>MapImage</code></a> with <code>ImageFormat.SVG</code>.</li>
 <li><a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a></li>
 </ul>
-<p>Repeated registration with the same font name is ignored.</p></p></div>
+</p><p>Repeated registration with the same font name is ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>fontName</code> - <p>A font name.</p></dd>
 <dd><code>fontPath</code> - <p>A font file path. TTF, OTF and WOFF formats are supported.
-     <p>Can be an asset file path or an absolute file path.</p></p></dd>
+     </p><p>Can be an asset file path or an absolute file path.</p></dd>
 </dl>
 </section>
 </li>
@@ -186,12 +186,12 @@ slug: "sdk-for-android-explore-assetsmanager"
 <li>the SVG <code>text</code> tag as <code>font-family</code> attribute parameter when creating a <a href="sdk-for-android-explore-mapimage" title="class in com.here.sdk.mapview"><code>MapImage</code></a> with <code>ImageFormat.SVG</code>.</li>
 <li><a href="sdk-for-android-explore-mapmarker.textstyle" title="class in com.here.sdk.mapview"><code>MapMarker.TextStyle</code></a></li>
 </ul>
-<p>Repeated registration with the same font name is ignored.</p></p></div>
+</p><p>Repeated registration with the same font name is ignored.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>fontName</code> - <p>A font name.</p></dd>
 <dd><code>fontPath</code> - <p>A font file path. TTF, OTF and WOFF formats are supported.
-     <p>Can be an asset file path or an absolute file path.</p></p></dd>
+     </p><p>Can be an asset file path or an absolute file path.</p></dd>
 <dd><code>fallbackFontFilePaths</code> - <p>Additional font files are intended to be used if main font
      does not contain required character symbol and shall be sorted starting from most useful.</p></dd>
 </dl>
@@ -206,8 +206,8 @@ slug: "sdk-for-android-explore-assetsmanager"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

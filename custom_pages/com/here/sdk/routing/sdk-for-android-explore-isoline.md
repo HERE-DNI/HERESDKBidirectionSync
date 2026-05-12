@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-isoline"
 <!-- Isoline.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -199,8 +199,8 @@ slug: "sdk-for-android-explore-isoline"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapmatchedcoordinates" title="class in com.here.sdk.routing">MapMatchedCoordinates</a></span> <span class="element-name">getCenter</span>()</div>
 <div class="block"><p>Gets the center point that was used to calculate this isoline.
- <p>Specifies the center point that was used to calculate this isoline.
- This includes the original center that was passed to the RoutingEngine.</p></p></div>
+ </p><p>Specifies the center point that was used to calculate this isoline.
+ This includes the original center that was passed to the RoutingEngine.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
 <dd><p>The center point that was used to calculate this isoline.</p></dd>
@@ -234,8 +234,8 @@ slug: "sdk-for-android-explore-isoline"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

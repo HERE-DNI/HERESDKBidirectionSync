@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-pointtilesource"
 <!-- PointTileSource.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -68,8 +68,8 @@ slug: "sdk-for-android-explore-pointtilesource"
 extends <a href="sdk-for-android-explore-tilesource" title="interface in com.here.sdk.mapview.datasource">TileSource</a></span></div>
 <div class="block"><p>A source of geodetic point tiles.
  The implementations must be thread-safe.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -155,8 +155,8 @@ extends <a href="sdk-for-android-explore-tilesource" title="interface in com.her
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

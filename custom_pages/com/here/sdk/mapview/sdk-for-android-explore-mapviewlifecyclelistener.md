@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mapviewlifecyclelistener"
 <!-- MapViewLifecycleListener.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -63,7 +63,7 @@ slug: "sdk-for-android-explore-mapviewlifecyclelistener"
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">MapViewLifecycleListener</span></div>
 <div class="block"><p>Provides a mechanism for observing a lifecycle of a map view and/or implementing components
  whose lifecycle needs to be linked with that of a map view.
- <p>A configuration change that results in <code>Activity</code> being recreated does not trigger
+ </p><p>A configuration change that results in <code>Activity</code> being recreated does not trigger
  an <a href="#onDestroy()"><code>onDestroy()</code></a> call. The listener will be preserved throughout the
  destruction and recreation of the MapView. It is safe to hold and use the <code>MapViewBase</code>
  object passed in <a href="#onAttach(com.here.sdk.mapview.MapViewBase)"><code>onAttach(com.here.sdk.mapview.MapViewBase)</code></a> until <code>onDetach()</code> or <code>onDestroy()</code>
@@ -71,8 +71,8 @@ slug: "sdk-for-android-explore-mapviewlifecyclelistener"
  to an <code>Activity</code>, directly or indirectly (for example by holding a reference to a
  <a href="sdk-for-android-explore-mapview" title="class in com.here.sdk.mapview"><code>MapView</code></a>. A component implementing this interface should interact with the map view
  only through the <code>MapViewBase</code> object passed in <a href="#onAttach(com.here.sdk.mapview.MapViewBase)"><code>onAttach(com.here.sdk.mapview.MapViewBase)</code></a>.
- <p>A <code>MapView</code> is using a <a href="https://developer.android.com/reference/android/view/SurfaceView">SurfaceView</a>
-<p>to render its content.</p></p></p></p></div>
+ </p><p>A <code>MapView</code> is using a <a href="https://developer.android.com/reference/android/view/SurfaceView">SurfaceView</a>
+</p><p>to render its content.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -137,8 +137,8 @@ slug: "sdk-for-android-explore-mapviewlifecyclelistener"
  have render target attached at the time of adding the listener, then this method will
  be called later, after render target is attached. This means that the map view it
  receives is always fully initialized.
- <p>Can be used to implement
- the logic to create and add visual components to the map view.</p></p></div>
+ </p><p>Can be used to implement
+ the logic to create and add visual components to the map view.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>mapView</code> - <p>The map view to attach to.</p></dd>
@@ -196,8 +196,8 @@ slug: "sdk-for-android-explore-mapviewlifecyclelistener"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

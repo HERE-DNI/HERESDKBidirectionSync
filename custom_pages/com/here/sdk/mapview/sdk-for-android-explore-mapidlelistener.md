@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mapidlelistener"
 <!-- MapIdleListener.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -62,10 +62,10 @@ slug: "sdk-for-android-explore-mapidlelistener"
 <hr/>
 <div class="type-signature"><span class="modifiers">public interface </span><span class="element-name type-name-label">MapIdleListener</span></div>
 <div class="block"><p>Used to detect when the map becomes idle or busy.
- <p>Map is considered busy when its state changes (for example as a result of camera manipulation)
+ </p><p>Map is considered busy when its state changes (for example as a result of camera manipulation)
  and/or when it requires a redraw (for example, as a result of map data being downloaded).
- <p>Map is considered idle when current state is fully rendered and no further
- redraws are necessary.</p></p></p></div>
+ </p><p>Map is considered idle when current state is fully rendered and no further
+ redraws are necessary.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -129,8 +129,8 @@ slug: "sdk-for-android-explore-mapidlelistener"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

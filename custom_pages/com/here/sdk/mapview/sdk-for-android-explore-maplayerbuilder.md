@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-maplayerbuilder"
 <!-- MapLayerBuilder.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -69,7 +69,7 @@ slug: "sdk-for-android-explore-maplayerbuilder"
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>MapLayerBuilder is used to add layers to a map to visualise a dataset in a
  programmatic way without defining it upfront in the configuration files.
- <p>For example, after loading a scene configuration file, the renderer is setup to draw layers in the
+ </p><p>For example, after loading a scene configuration file, the renderer is setup to draw layers in the
  following order:
  <ul>
 <li>background</li>
@@ -78,17 +78,17 @@ slug: "sdk-for-android-explore-maplayerbuilder"
 <li>roads</li>
 <li>labels</li>
 </ul>
-<p>Rendering order of elements in
+</p><p>Rendering order of elements in
  a single map layer can be controlled with categories. Layer names are unique, and category names have
  to be unique within a layer. The layer's default, main category is unnamed.
- <p>The concept of 'category' is tightly linked to styling. The idea behind category is that
+ </p><p>The concept of 'category' is tightly linked to styling. The idea behind category is that
  one should be able to style separately elements in a map layer. Take, for instance, roads.
  If one wants to style separately the bridges it will create a category 'bridges' and style
  it accordingly in the style file. If the user does not intend to or cannot style elements of
  the layer differently then it should opt for a layer with only the default category (e.g.
  for a raster layer, only the default category makes sense, since the layer has no other
  stylable elements apart from the raster image).
- <p>A new layer called 'zone' and its category 'background' can be added dynamically so that the
+ </p><p>A new layer called 'zone' and its category 'background' can be added dynamically so that the
  rendering order gets modified in the following way:
  <ul>
 <li>background</li>
@@ -99,7 +99,7 @@ slug: "sdk-for-android-explore-maplayerbuilder"
 <li>roads</li>
 <li>labels</li>
 </ul>
-<p>This could be achieved with the help of the MapLayerPriorityBuilder and the MapLayerBuilder as in the
+</p><p>This could be achieved with the help of the MapLayerPriorityBuilder and the MapLayerBuilder as in the
  following example:
    <pre><code> MapLayerPriority layerPriority = new MapLayerPriorityBuilder()
         .renderedAfterLayer("water") // places main category after 'water'
@@ -114,10 +114,10 @@ slug: "sdk-for-android-explore-maplayerbuilder"
         .withName("zone")
         .withPriority(layerPriority)
         .build();</code></pre>
-<p>In case no layer priority or an empty one is provided, or if a reference layer-category pair is not
+</p><p>In case no layer priority or an empty one is provided, or if a reference layer-category pair is not
  present in the rendering order, the layer is going to be rendered last with respect to the rendering
  order at the time of its creation.
- <p>Due to current limitations, the MapLayerPriority assignment is not implemented for point map layers.
+ </p><p>Due to current limitations, the MapLayerPriority assignment is not implemented for point map layers.
  All labels will be rendered within the "labels" layer, defined in the scene configuration file.
  By default, all labels rendered by a point map layer are rendered last and no overlapping is allowed.
  The following categories can be used to have a different behaviour:
@@ -132,7 +132,7 @@ slug: "sdk-for-android-explore-maplayerbuilder"
  scene configurations.
  Category assignment to features can be done in the style based on data attributes. The category
  assignment can be done for all types of content: point, line, polygon.</li>
-</ul></p></p></p></p></p></p></p></p></div>
+</ul></p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -438,8 +438,8 @@ slug: "sdk-for-android-explore-maplayerbuilder"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

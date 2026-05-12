@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-point3d"
 <!-- Point3D.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -239,8 +239,8 @@ slug: "sdk-for-android-explore-point3d"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

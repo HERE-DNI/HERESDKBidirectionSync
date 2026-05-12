@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mesh"
 <!-- Mesh.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -68,8 +68,8 @@ slug: "sdk-for-android-explore-mesh"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">Mesh</span>
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Represents a mesh in 3D space. Such meshes are built using <a href="sdk-for-android-explore-meshbuilder" title="class in com.here.sdk.mapview"><code>MeshBuilder</code></a>.
- <p>The class is not offering any methods, as its data is only meant to be consumed internally
- when being passed to <a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a> constructor.</p></p></div>
+ </p><p>The class is not offering any methods, as its data is only meant to be consumed internally
+ when being passed to <a href="sdk-for-android-explore-mapmarker3dmodel" title="class in com.here.sdk.mapview"><code>MapMarker3DModel</code></a> constructor.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -88,8 +88,8 @@ slug: "sdk-for-android-explore-mesh"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

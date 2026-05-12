@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-polylinesimplifier"
 <!-- PolylineSimplifier.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -71,7 +71,7 @@ slug: "sdk-for-android-explore-polylinesimplifier"
  in the polyline by removing redundant elements using
  Douglas–Peucker algorithm, so that result stays
  within <a href="sdk-for-android-explore-polylinesimplifier.options" title="class in com.here.sdk.core"><code>PolylineSimplifier.Options</code></a>.
- <p>Typical use case is to perform input preparation step
+ </p><p>Typical use case is to perform input preparation step
  before invoking computationally heavy API. Such API
  have an upper limit on the input collection size
  and is subject to reduced performance when collection
@@ -79,7 +79,7 @@ slug: "sdk-for-android-explore-polylinesimplifier"
  <ul>
 <li><code>TrafficEngine</code> methods which accept a <code>GeoCorridor</code>;</li>
 <li><code>RoutePrefetcher.prefetchGeoCorridor</code>.</li>
-</ul></p></p></div>
+</ul></p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -206,8 +206,8 @@ slug: "sdk-for-android-explore-polylinesimplifier"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

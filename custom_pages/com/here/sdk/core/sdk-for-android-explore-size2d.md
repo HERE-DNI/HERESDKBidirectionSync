@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-size2d"
 <!-- Size2D.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -224,8 +224,8 @@ slug: "sdk-for-android-explore-size2d"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

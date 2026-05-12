@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-package-tree"
 <!-- package-tree.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="package-tree-page">
+
+
 
 
 <div class="flex-box">
@@ -121,8 +121,8 @@ slug: "sdk-for-android-explore-com-here-sdk-core-engine-package-tree"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

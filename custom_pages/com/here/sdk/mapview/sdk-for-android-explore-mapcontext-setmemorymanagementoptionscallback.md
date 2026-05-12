@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mapcontext-setmemorymanagementoptionscallback"
 <!-- MapContext.SetMemoryManagementOptionsCallback.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -71,8 +71,8 @@ slug: "sdk-for-android-explore-mapcontext-setmemorymanagementoptionscallback"
 <div class="type-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public static interface </span><span class="element-name type-name-label">MapContext.SetMemoryManagementOptionsCallback</span></div>
 <div class="block"><p>Callback to handle the memory management result.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -112,8 +112,8 @@ slug: "sdk-for-android-explore-mapcontext-setmemorymanagementoptionscallback"
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onSetMemoryManagementOptions</span><wbr/><span class="parameters">(@NonNull
  <a href="sdk-for-android-explore-mapcontext.memorymanagementresult" title="class in com.here.sdk.mapview">MapContext.MemoryManagementResult</a> result)</span></div>
 <div class="block"><p>Callback to handle the memory management result.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>result</code> - <p>The memory management result.</p></dd>
@@ -129,8 +129,8 @@ slug: "sdk-for-android-explore-mapcontext-setmemorymanagementoptionscallback"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

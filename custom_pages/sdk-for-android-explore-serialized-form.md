@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-serialized-form"
 <!-- serialized-form.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="serialized-form-page">
+
+
 
 
 <div class="flex-box">
@@ -468,8 +468,8 @@ slug: "sdk-for-android-explore-serialized-form"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

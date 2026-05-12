@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-polygontilesource"
 <!-- PolygonTileSource.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -69,8 +69,8 @@ extends <a href="sdk-for-android-explore-tilesource" title="interface in com.her
 <div class="block"><p>A source of geodetic polygon tiles.
  Polygons provided by an implementation must be clipped to the boundaries of the requested tile.
  The implementations must be thread-safe.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -156,8 +156,8 @@ extends <a href="sdk-for-android-explore-tilesource" title="interface in com.her
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

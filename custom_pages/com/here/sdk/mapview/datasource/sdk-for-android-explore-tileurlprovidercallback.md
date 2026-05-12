@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-tileurlprovidercallback"
 <!-- TileUrlProviderCallback.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -67,8 +67,8 @@ slug: "sdk-for-android-explore-tileurlprovidercallback"
 <div class="type-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/FunctionalInterface.html" title="class or interface in java.lang">@FunctionalInterface</a>
 </span><span class="modifiers">public interface </span><span class="element-name type-name-label">TileUrlProviderCallback</span></div>
 <div class="block"><p>Provides the URL as String for the given tile coordinates and storage level.
- <p>The first and second parameters correspond to the X and Y coordinates of the tile, respectively, and have values ranging from 0 to 2^level − 1.
- The third parameter indicates the level of the tile.</p></p></div>
+ </p><p>The first and second parameters correspond to the X and Y coordinates of the tile, respectively, and have values ranging from 0 to 2^level − 1.
+ The third parameter indicates the level of the tile.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -112,8 +112,8 @@ slug: "sdk-for-android-explore-tileurlprovidercallback"
  int y,
  int level)</span></div>
 <div class="block"><p>Provides the URL as String for the given tile coordinates and storage level.
- <p>The first and second parameters correspond to the X and Y coordinates of the tile, respectively, and have values ranging from 0 to 2^level − 1.
- The third parameter indicates the level of the tile.</p></p></div>
+ </p><p>The first and second parameters correspond to the X and Y coordinates of the tile, respectively, and have values ranging from 0 to 2^level − 1.
+ The third parameter indicates the level of the tile.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>x</code> - <p>X coordinate of the tile. This ranges from 0 to 2^level − 1.</p></dd>
@@ -133,8 +133,8 @@ slug: "sdk-for-android-explore-tileurlprovidercallback"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

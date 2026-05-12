@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-catalogversionhint"
 <!-- CatalogVersionHint.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -69,13 +69,13 @@ slug: "sdk-for-android-explore-catalogversionhint"
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>This is a class for capturing user's intent for the
  desired catalog version to use in <a href="sdk-for-android-explore-desiredcatalog" title="class in com.here.sdk.core.engine"><code>DesiredCatalog</code></a> class.
- <p>You can request a specific or latest version of a catalog by calling the
+ </p><p>You can request a specific or latest version of a catalog by calling the
  static functions <a href="#specific(long)"><code>specific(long)</code></a> and
  <a href="#latest(boolean)"><code>latest(boolean)</code></a> respectively. The HERE platform will make the
  best effort to provide an appropriate version for the catalog based on this
  version hint.
  Please take note that for the API <a href="#specific(long)"><code>specific(long)</code></a> to function properly,
- it is essential that the mutable and persistent storage should be cleaned.</p></p></div>
+ it is essential that the mutable and persistent storage should be cleaned.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -150,11 +150,11 @@ slug: "sdk-for-android-explore-catalogversionhint"
  start, if possible. Use this only when you have no installed <code>Regions</code>. Since this affects
  only the map data cache, calling this at initialization time has no or only a very limited
  effect on the start-up time.
- <p>In order to auto-update cached OCM-based map data, such as for the HERE SDK (Navigate), use the
+ </p><p>In order to auto-update cached OCM-based map data, such as for the HERE SDK (Navigate), use the
  default HRN value: "hrn:here:data::olp-here:ocm" in your <code>DesiredCatalog</code>. Note that the
  HERE SDK (Explore) cannot be used with such settings and the
  initialization of the HERE SDK may fail - since it is based on a different map
- format.</p></p></div>
+ format.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>ignoreCachedData</code> - <p>A flag to specify handling of any cached data present on a device when
@@ -182,8 +182,8 @@ slug: "sdk-for-android-explore-catalogversionhint"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

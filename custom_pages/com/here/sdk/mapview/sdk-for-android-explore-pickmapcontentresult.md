@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-pickmapcontentresult"
 <!-- PickMapContentResult.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -159,8 +159,8 @@ slug: "sdk-for-android-explore-pickmapcontentresult"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

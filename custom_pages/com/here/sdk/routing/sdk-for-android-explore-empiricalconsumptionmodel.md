@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-empiricalconsumptionmodel"
 <!-- EmpiricalConsumptionModel.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -66,16 +66,16 @@ slug: "sdk-for-android-explore-empiricalconsumptionmodel"
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">EmpiricalConsumptionModel</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
 <div class="block"><p>This model defines a data-driven energy consumption model for electric vehicles.
- <p>It estimates the electrical energy required to traverse a route by combining empirically derived vehicle
+ </p><p>It estimates the electrical energy required to traverse a route by combining empirically derived vehicle
  parameters with route characteristics such as distance, elevation changes, and driving speed. Rather than
  relying on a full physical simulation, this model uses observed consumption behavior to produce realistic
  and efficient energy estimates suitable for routing, range prediction, and navigation use cases.
- <p>Parameters specific to the electric vehicle are used to calculate energy consumption on a given route.
+ </p><p>Parameters specific to the electric vehicle are used to calculate energy consumption on a given route.
  At minimum, you must provide <a href="#ascentConsumptionInWattHoursPerMeter"><code>ascentConsumptionInWattHoursPerMeter</code></a>,
  <a href="#descentRecoveryInWattHoursPerMeter"><code>descentRecoveryInWattHoursPerMeter</code></a> and a
  <a href="#freeFlowSpeedTable"><code>freeFlowSpeedTable</code></a>.
  <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
- Related APIs may change for new releases without a deprecation process.</p></p></p></div>
+ Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -281,8 +281,8 @@ slug: "sdk-for-android-explore-empiricalconsumptionmodel"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mapview-onreadylistener"
 <!-- MapView.OnReadyListener.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -74,12 +74,12 @@ slug: "sdk-for-android-explore-mapview-onreadylistener"
  operations, which means that map scene is loaded and drawing surface is ready to render
  a map.
 
- <p>Whenever there is a need to call any map view related functions directly after
+ </p><p>Whenever there is a need to call any map view related functions directly after
  the <code>Activity</code> resumes, <a href="#onMapViewReady()"><code>onMapViewReady()</code></a> should be used for this purpose,
  as it guarantees that those operations will work. It is not recommended to call
  map view functionality directly from <code>Activity</code>'s <code>onResume()</code>.
 
- <p>There are few typical moments in the lifecycle where it's useful to execute map view
+ </p><p>There are few typical moments in the lifecycle where it's useful to execute map view
  related operations:
      <ul>
 <li>After map is shown for the very first time
@@ -91,7 +91,7 @@ slug: "sdk-for-android-explore-mapview-onreadylistener"
 <li>Every time the Activity is resumed, including after the map scene is first loaded
              - this combines previous two cases. Use <code>OnReadyListener</code> that is
              registered right after MapView is created, but before map scene is loaded.</li>
-</ul></p></p></p></div>
+</ul></p></div>
 <dl class="notes">
 <dt>See Also:</dt>
 <dd>
@@ -151,8 +151,8 @@ slug: "sdk-for-android-explore-mapview-onreadylistener"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

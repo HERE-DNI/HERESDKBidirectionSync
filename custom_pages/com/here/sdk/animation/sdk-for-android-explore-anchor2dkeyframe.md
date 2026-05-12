@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-anchor2dkeyframe"
 <!-- Anchor2DKeyframe.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -219,8 +219,8 @@ slug: "sdk-for-android-explore-anchor2dkeyframe"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

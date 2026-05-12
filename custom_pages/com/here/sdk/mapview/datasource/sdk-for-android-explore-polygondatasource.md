@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-polygondatasource"
 <!-- PolygonDataSource.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -69,9 +69,9 @@ slug: "sdk-for-android-explore-polygondatasource"
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Polygon data source allows the rendering engine access to the user provided
  polygons geometry and their attributes.
- <p>Polygon segments are rendered following the shortest path between their end points.
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.</p></p></p></div>
+ </p><p>Polygon segments are rendered following the shortest path between their end points.
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -190,8 +190,8 @@ slug: "sdk-for-android-explore-polygondatasource"
  <a href="sdk-for-android-explore-polygondatasource.polygondataprocessor" title="interface in com.here.sdk.mapview.datasource">PolygonDataSource.PolygonDataProcessor</a> processor)</span></div>
 <div class="block"><p>Iterates through all the polygons from the data source and passes them to the
  given processor, one by one. The processor can update the polygon data.
- <p>The iteration stops after all polygons have been processed or the processor returns false
- from the process call.</p></p></div>
+ </p><p>The iteration stops after all polygons have been processed or the processor returns false
+ from the process call.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>processor</code> - <p>Polygon processor.</p></dd>
@@ -229,8 +229,8 @@ slug: "sdk-for-android-explore-polygondatasource"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

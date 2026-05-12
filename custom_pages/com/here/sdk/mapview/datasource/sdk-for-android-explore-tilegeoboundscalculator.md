@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-tilegeoboundscalculator"
 <!-- TileGeoBoundsCalculator.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -69,8 +69,8 @@ slug: "sdk-for-android-explore-tilegeoboundscalculator"
 <span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>A calculator of geodetic bounds for tiles identified by keys generated
  in a particular tiling scheme (<a href="sdk-for-android-explore-tilingscheme" title="enum class in com.here.sdk.mapview.datasource"><code>TilingScheme</code></a>).
- <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
- behavior. Related APIs may change for new releases without a deprecation process.</p></p></div>
+ </p><p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
+ behavior. Related APIs may change for new releases without a deprecation process.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -168,8 +168,8 @@ slug: "sdk-for-android-explore-tilegeoboundscalculator"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `

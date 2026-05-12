@@ -9,9 +9,9 @@ slug: "sdk-for-android-explore-mapimage"
 <!-- MapImage.html -->
 <!DOCTYPE HTML>
 
-<html lang="en">
 
-<body class="class-declaration-page">
+
+
 
 
 <div class="flex-box">
@@ -70,8 +70,8 @@ slug: "sdk-for-android-explore-mapimage"
 <div class="block"><p>Represents a drawable resource that can be used by a <a href="sdk-for-android-explore-mapmarker" title="class in com.here.sdk.mapview"><code>MapMarker</code></a>, <a href="sdk-for-android-explore-mapmarker3d" title="class in com.here.sdk.mapview"><code>MapMarker3D</code></a> or <a href="sdk-for-android-explore-mapimageoverlay" title="class in com.here.sdk.mapview"><code>MapImageOverlay</code></a> to be shown on the map.
  Supported formats are listed in <a href="sdk-for-android-explore-imageformat" title="enum class in com.here.sdk.mapview"><code>ImageFormat</code></a>.
  SVG format allows custom fonts in text using font-family attribute by prior registration via <code>AssetsManager.registerFont</code>.
- <p>It is recommended to associate a resource with a single <code>MapImage</code> instance in order to enable
- resource sharing and reduce the amount of needed memory.</p></p></div>
+ </p><p>It is recommended to associate a resource with a single <code>MapImage</code> instance in order to enable
+ resource sharing and reduce the amount of needed memory.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -169,16 +169,16 @@ slug: "sdk-for-android-explore-mapimage"
  long height)</span>
          throws <span class="exceptions"><a href="sdk-for-android-explore-core-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
 <div class="block"><p>Creates a new map image from the provided path to the SVG Tiny or PNG image.
- <p>Will throw an error if either the height or width equals zero or the path is empty.
- <p>Trying to load a file that is not compliant with SVG Tiny or PNG results
+ </p><p>Will throw an error if either the height or width equals zero or the path is empty.
+ </p><p>Trying to load a file that is not compliant with SVG Tiny or PNG results
  in an undefined behavior. In particular, loading SVG that exceeds Tiny SVG
  specification may result in an image that exhibits unexpected artifacts.
- <p>The caller must ensure that the file remains accessible for the entire duration of its usage by the
+ </p><p>The caller must ensure that the file remains accessible for the entire duration of its usage by the
  SDK. If that cannot be ensured, then it is recommended to either copy the file to a location that
  remains accessible for the entire duration of its usage by the SDK or load and pass the file content
  to one of the <code>MapImage</code> constructors that creates instances out of image data
  (<a href="#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat)"><code>MapImage(byte[], ImageFormat)</code></a>, <a href="#%3Cinit%3E(byte%5B%5D,com.here.sdk.mapview.ImageFormat,long,long)"><code>MapImage(byte[], ImageFormat, long, long)</code></a>).}
- <p>This constructor needs read storage permission to be granted.</p></p></p></p></p></div>
+ </p><p>This constructor needs read storage permission to be granted.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
 <dd><code>filePath</code> - <p>The path to image file.</p></dd>
@@ -198,8 +198,8 @@ slug: "sdk-for-android-explore-mapimage"
 </main>
 </div>
 </div>
-</body>
-</html>
+
+
 
 </div>
 `
