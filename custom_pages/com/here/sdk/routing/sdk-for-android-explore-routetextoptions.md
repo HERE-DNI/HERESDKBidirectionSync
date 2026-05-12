@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-routetextoptions"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-routetextoptions"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.routing</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.routing</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -78,17 +78,17 @@ slug: "sdk-for-android-explore-routetextoptions"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
+<div class="col-first even-row-color"><code><a href="../core/LanguageCode.html" title="enum class in com.here.sdk.core">LanguageCode</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#language">language</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The language for all textual information.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a></code></div>
+<div class="col-first odd-row-color"><code><a href="TextUsageOptions.html" title="class in com.here.sdk.routing">TextUsageOptions</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#textUsageOptions">textUsageOptions</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">An option whether street name, road number and sign post direction should be used when generating notification.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-core-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a></code></div>
+<div class="col-first even-row-color"><code><a href="../core/UnitSystem.html" title="enum class in com.here.sdk.core">UnitSystem</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#unitSystem">unitSystem</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines the measurement system used in instruction text.</div>
@@ -149,7 +149,7 @@ slug: "sdk-for-android-explore-routetextoptions"
 <section class="detail" id="language">
 <h3>language</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-languagecode" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">language</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/LanguageCode.html" title="enum class in com.here.sdk.core">LanguageCode</a></span> <span class="element-name">language</span></div>
 <div class="block"><p>The language for all textual information. When the specified language is not supported,
  the default language is used, which is English (United States).</p></div>
 </section>
@@ -158,7 +158,7 @@ slug: "sdk-for-android-explore-routetextoptions"
 <section class="detail" id="unitSystem">
 <h3>unitSystem</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-unitsystem" title="enum class in com.here.sdk.core">UnitSystem</a></span> <span class="element-name">unitSystem</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/UnitSystem.html" title="enum class in com.here.sdk.core">UnitSystem</a></span> <span class="element-name">unitSystem</span></div>
 <div class="block"><p>Defines the measurement system used in instruction text. When imperial is selected,
  units used are based on the language specified in the request. Defaults to metric.</p></div>
 </section>
@@ -167,9 +167,9 @@ slug: "sdk-for-android-explore-routetextoptions"
 <section class="detail" id="textUsageOptions">
 <h3>textUsageOptions</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-textusageoptions" title="class in com.here.sdk.routing">TextUsageOptions</a></span> <span class="element-name">textUsageOptions</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="TextUsageOptions.html" title="class in com.here.sdk.routing">TextUsageOptions</a></span> <span class="element-name">textUsageOptions</span></div>
 <div class="block"><p>An option whether street name, road number and sign post direction should be used when generating notification.
- Defaults to each attribute as <a href="sdk-for-android-explore-localizedtextpreference#USE_ALWAYS"><code>LocalizedTextPreference.USE_ALWAYS</code></a>.</p></div>
+ Defaults to each attribute as <a href="LocalizedTextPreference.html#USE_ALWAYS"><code>LocalizedTextPreference.USE_ALWAYS</code></a>.</p></div>
 </section>
 </li>
 </ul>

@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-sdklogger"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../../index-all.html">Index</a></li>
+<li><a href="../../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,20 +55,20 @@ slug: "sdk-for-android-explore-sdklogger"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core.engine</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.core.engine</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="../../../NativeBase.html" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.core.engine.SDKLogger</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">SDKLogger</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="../../../NativeBase.html" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Logging interface for Android/iOS platforms.
- These logs are under management of <a href="sdk-for-android-explore-logcontrol" title="class in com.here.sdk.core.engine"><code>LogControl</code></a> and should be used instead of platform-specific logging functions.</p></div>
+ These logs are under management of <a href="LogControl.html" title="class in com.here.sdk.core.engine"><code>LogControl</code></a> and should be used instead of platform-specific logging functions.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -102,7 +102,7 @@ slug: "sdk-for-android-explore-sdklogger"
 <div class="block">convenient function to print a message with log level INFO and tag.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#log(com.here.sdk.core.engine.LogLevel,java.lang.String,java.lang.String)">log</a><wbr/>(<a href="sdk-for-android-explore-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#log(com.here.sdk.core.engine.LogLevel,java.lang.String,java.lang.String)">log</a><wbr/>(<a href="LogLevel.html" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> tag,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> message)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"> </div>
@@ -133,7 +133,7 @@ slug: "sdk-for-android-explore-sdklogger"
 <section class="detail" id="log(com.here.sdk.core.engine.LogLevel,java.lang.String,java.lang.String)">
 <h3>log</h3>
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">log</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-loglevel" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
+ <a href="LogLevel.html" title="enum class in com.here.sdk.core.engine">LogLevel</a> level,
  @NonNull
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> tag,
  @NonNull

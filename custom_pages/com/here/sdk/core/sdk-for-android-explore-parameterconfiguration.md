@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-parameterconfiguration"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-parameterconfiguration"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.core</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -79,7 +79,7 @@ slug: "sdk-for-android-explore-parameterconfiguration"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
+<div class="col-first even-row-color"><code><a href="../transport/TransportSpecification.html" title="class in com.here.sdk.transport">TransportSpecification</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#transportSpecification">transportSpecification</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Stores default values related to pedestrian, vehicle, scooter and taxi specifications.</div>
@@ -97,7 +97,7 @@ slug: "sdk-for-android-explore-parameterconfiguration"
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E()">ParameterConfiguration</a>()</code></div>
 <div class="col-last even-row-color">
-<div class="block">Creates a new instance of <a href="sdk-for-android-explore-parameterconfiguration" title="class in com.here.sdk.core"><code>ParameterConfiguration</code></a> with the default values set.</div>
+<div class="block">Creates a new instance of <a href="ParameterConfiguration.html" title="class in com.here.sdk.core"><code>ParameterConfiguration</code></a> with the default values set.</div>
 </div>
 </div>
 </section>
@@ -140,7 +140,7 @@ slug: "sdk-for-android-explore-parameterconfiguration"
 <section class="detail" id="transportSpecification">
 <h3>transportSpecification</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-transport-transportspecification" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">transportSpecification</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../transport/TransportSpecification.html" title="class in com.here.sdk.transport">TransportSpecification</a></span> <span class="element-name">transportSpecification</span></div>
 <div class="block"><p>Stores default values related to pedestrian, vehicle, scooter and taxi specifications.</p></div>
 </section>
 </li>
@@ -156,10 +156,10 @@ slug: "sdk-for-android-explore-parameterconfiguration"
 <section class="detail" id="&lt;init&gt;()">
 <h3>ParameterConfiguration</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">ParameterConfiguration</span>()</div>
-<div class="block"><p>Creates a new instance of <a href="sdk-for-android-explore-parameterconfiguration" title="class in com.here.sdk.core"><code>ParameterConfiguration</code></a> with the default values set.
+<div class="block"><p>Creates a new instance of <a href="ParameterConfiguration.html" title="class in com.here.sdk.core"><code>ParameterConfiguration</code></a> with the default values set.
  <strong>Note</strong> By default, the [ParameterConfiguration.transport_specification] will return a
- valid <a href="sdk-for-android-explore-transport-transportspecification" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object with the [sdk.transport.TransportSpecification.transport_mode] set
- to <a href="sdk-for-android-explore-transport-transportmode#CAR"><code>TransportMode.CAR</code></a>.</p></div>
+ valid <a href="../transport/TransportSpecification.html" title="class in com.here.sdk.transport"><code>TransportSpecification</code></a> object with the [sdk.transport.TransportSpecification.transport_mode] set
+ to <a href="../transport/TransportMode.html#CAR"><code>TransportMode.CAR</code></a>.</p></div>
 </section>
 </li>
 </ul>

@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-mapcamera"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,18 +55,18 @@ slug: "sdk-for-android-explore-mapcamera"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="../../NativeBase.html" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.mapview.MapCamera</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapCamera</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="../../NativeBase.html" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>Represents the camera looking onto the map view.
  <p>Each map instance has exactly one camera that is used to manipulate
  the way the map is displayed.
@@ -90,7 +90,7 @@ slug: "sdk-for-android-explore-mapcamera"
 <p><i>Getting the current camera state</i>
 <p>The current camera state can be obtained by the <a href="#getState()"><code>getState()</code></a> call. It contains information about the camera look-at target (geo-coordinates and orientation) in geodetic space.
  The values are returned for the current <code>principal point</code>. This can lead to surprising or unexpected values in cases where the camera position/orientation was specified for another screen point,
- e.g. when using <a href="sdk-for-android-explore-mapcameraupdatefactory#lookAt(com.here.sdk.core.GeoBox)"><code>MapCameraUpdateFactory.lookAt(GeoBox)</code></a> with a view rectangle, whose center does not coincide with the <code>principal point</code>.  In this case, the geo-coordinates of the
+ e.g. when using <a href="MapCameraUpdateFactory.html#lookAt(com.here.sdk.core.GeoBox)"><code>MapCameraUpdateFactory.lookAt(GeoBox)</code></a> with a view rectangle, whose center does not coincide with the <code>principal point</code>.  In this case, the geo-coordinates of the
  look-at target will differ from the center of the geo-box used in the <code>lookAt</code> call.
  <p><i>Geo coordinates</i>
 <p>Geo-coordinates are given in degrees and follow the common nomenclature of positive northern latitudes and positive eastern longitudes.
@@ -145,12 +145,12 @@ slug: "sdk-for-android-explore-mapcamera"
 <li><code>tilt</code>: the angle in degrees from the vertical that the camera is looking down at the Earth; 0° = straight down.</li>
 </ul>
 <p><i>Changing the Camera</i>
-<p>All changes to the camera are encapsulated in camera updates that are created using the methods in the <a href="sdk-for-android-explore-mapcameraupdatefactory" title="class in com.here.sdk.mapview"><code>MapCameraUpdateFactory</code></a> class.
- <p>These updates can then be applied to the <a href="sdk-for-android-explore-heremap" title="class in com.here.sdk.mapview"><code>HereMap</code></a> using <a href="#applyUpdate(com.here.sdk.mapview.MapCameraUpdate)"><code>applyUpdate(com.here.sdk.mapview.MapCameraUpdate)</code></a>.
+<p>All changes to the camera are encapsulated in camera updates that are created using the methods in the <a href="MapCameraUpdateFactory.html" title="class in com.here.sdk.mapview"><code>MapCameraUpdateFactory</code></a> class.
+ <p>These updates can then be applied to the <a href="HereMap.html" title="class in com.here.sdk.mapview"><code>HereMap</code></a> using <a href="#applyUpdate(com.here.sdk.mapview.MapCameraUpdate)"><code>applyUpdate(com.here.sdk.mapview.MapCameraUpdate)</code></a>.
  <p>Camera updates are queued and executed when the next frame is rendered. They are executed in the order in which they were applied.
  <p><i>Animating the Camera</i>
-<p>Camera updates can be animated by first creating a camera animation using the methods in the <a href="sdk-for-android-explore-mapcameraanimationfactory" title="class in com.here.sdk.mapview"><code>MapCameraAnimationFactory</code></a> class and then applying this
- animation to the <a href="sdk-for-android-explore-heremap" title="class in com.here.sdk.mapview"><code>HereMap</code></a> using <a href="#startAnimation(com.here.sdk.mapview.MapCameraAnimation,com.here.sdk.animation.AnimationListener)"><code>startAnimation(MapCameraAnimation, AnimationListener)</code></a>.
+<p>Camera updates can be animated by first creating a camera animation using the methods in the <a href="MapCameraAnimationFactory.html" title="class in com.here.sdk.mapview"><code>MapCameraAnimationFactory</code></a> class and then applying this
+ animation to the <a href="HereMap.html" title="class in com.here.sdk.mapview"><code>HereMap</code></a> using <a href="#startAnimation(com.here.sdk.mapview.MapCameraAnimation,com.here.sdk.animation.AnimationListener)"><code>startAnimation(MapCameraAnimation, AnimationListener)</code></a>.
  <p>Only one camera animation for one camera component at a time is supported. Applying a new animation will cancel the active animation before the new one is started.
  The start position in this case is where ever the active animation happened to be at the time. Different components are camera state (<code>target pose</code> and <code>distance/zoom level/scale</code>)
  and camera projection (<code>field of view</code>, <code>focal length</code> and <code>principal point</code>).
@@ -168,17 +168,17 @@ slug: "sdk-for-android-explore-mapcamera"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static interface </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mapcamera.drycameraupdatecallback" title="interface in com.here.sdk.mapview">MapCamera.DryCameraUpdateCallback</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="MapCamera.DryCameraUpdateCallback.html" title="interface in com.here.sdk.mapview">MapCamera.DryCameraUpdateCallback</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Used to report back results of dry update application to camera.</div>
 </div>
 <div class="col-first odd-row-color"><code>static final class </code></div>
-<div class="col-second odd-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mapcamera.farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a></code></div>
+<div class="col-second odd-row-color"><code><a class="type-name-link" href="MapCamera.FarPlaneConfiguration.html" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Far plane distance configuration for a zoom level.</div>
 </div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="MapCamera.State.html" title="class in com.here.sdk.mapview">MapCamera.State</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Encapsulates state of the camera.</div>
 </div>
@@ -197,18 +197,18 @@ slug: "sdk-for-android-explore-mapcamera"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#addListener(com.here.sdk.mapview.MapCameraListener)">addListener</a><wbr/>(<a href="sdk-for-android-explore-mapcameralistener" title="interface in com.here.sdk.mapview">MapCameraListener</a> listener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#addListener(com.here.sdk.mapview.MapCameraListener)">addListener</a><wbr/>(<a href="MapCameraListener.html" title="interface in com.here.sdk.mapview">MapCameraListener</a> listener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Adds a listener to this camera that will be notified on the main thread
  every time the map is redrawn with new camera parameters.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#applyUpdate(com.here.sdk.mapview.MapCameraUpdate)">applyUpdate</a><wbr/>(<a href="sdk-for-android-explore-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#applyUpdate(com.here.sdk.mapview.MapCameraUpdate)">applyUpdate</a><wbr/>(<a href="MapCameraUpdate.html" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Applies camera update to the map camera.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)">cancelAnimation</a><wbr/>(<a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)">cancelAnimation</a><wbr/>(<a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Cancels an ongoing camera animation.</div>
 </div>
@@ -218,73 +218,73 @@ slug: "sdk-for-android-explore-mapcamera"
 <div class="block">Cancels any ongoing camera animation.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#dryApplyUpdate(com.here.sdk.mapview.MapCameraUpdate,com.here.sdk.mapview.MapCamera.DryCameraUpdateCallback)">dryApplyUpdate</a><wbr/>(<a href="sdk-for-android-explore-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate,
- <a href="sdk-for-android-explore-mapcamera.drycameraupdatecallback" title="interface in com.here.sdk.mapview">MapCamera.DryCameraUpdateCallback</a> callback)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#dryApplyUpdate(com.here.sdk.mapview.MapCameraUpdate,com.here.sdk.mapview.MapCamera.DryCameraUpdateCallback)">dryApplyUpdate</a><wbr/>(<a href="MapCameraUpdate.html" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate,
+ <a href="MapCamera.DryCameraUpdateCallback.html" title="interface in com.here.sdk.mapview">MapCamera.DryCameraUpdateCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Computes result of applying camera update without changing state of the map camera.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-core-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="../core/GeoBox.html" title="class in com.here.sdk.core">GeoBox</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getBoundingBox()">getBoundingBox</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the current visible map area encompassed in a GeoBox.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-mapcameralimits" title="class in com.here.sdk.mapview">MapCameraLimits</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="MapCameraLimits.html" title="class in com.here.sdk.mapview">MapCameraLimits</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getLimits()">getLimits</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets a MapCameraLimits instance that controls limits for the camera settings.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-core-point2d" title="class in com.here.sdk.core">Point2D</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="../core/Point2D.html" title="class in com.here.sdk.core">Point2D</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getPrincipalPoint()">getPrincipalPoint</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the pixel point that determines where the target is placed within the map view.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="MapCamera.State.html" title="class in com.here.sdk.mapview">MapCamera.State</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getState()">getState</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets state of the camera that reflects what is currently drawn inside the map view.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate)">lookAt</a><wbr/>(<a href="sdk-for-android-explore-core-geobox" title="class in com.here.sdk.core">GeoBox</a> target,
- <a href="sdk-for-android-explore-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate)">lookAt</a><wbr/>(<a href="../core/GeoBox.html" title="class in com.here.sdk.core">GeoBox</a> target,
+ <a href="../core/GeoOrientationUpdate.html" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Makes the camera look at the specified geodetic area.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Rectangle2D)">lookAt</a><wbr/>(<a href="sdk-for-android-explore-core-geobox" title="class in com.here.sdk.core">GeoBox</a> target,
- <a href="sdk-for-android-explore-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation,
- <a href="sdk-for-android-explore-core-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewRectangle)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Rectangle2D)">lookAt</a><wbr/>(<a href="../core/GeoBox.html" title="class in com.here.sdk.core">GeoBox</a> target,
+ <a href="../core/GeoOrientationUpdate.html" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation,
+ <a href="../core/Rectangle2D.html" title="class in com.here.sdk.core">Rectangle2D</a> viewRectangle)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Makes the camera look at the specified geodetic area and pass a rectangle which specifies
  where the area should appear inside of the map view.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#lookAt(com.here.sdk.core.GeoCoordinates)">lookAt</a><wbr/>(<a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> target)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#lookAt(com.here.sdk.core.GeoCoordinates)">lookAt</a><wbr/>(<a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> target)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Makes the camera look at a new geodetic target, while
  preserving the current orientation and distance to the target.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)">lookAt</a><wbr/>(<a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> target,
- <a href="sdk-for-android-explore-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation,
- <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)">lookAt</a><wbr/>(<a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> target,
+ <a href="../core/GeoOrientationUpdate.html" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation,
+ <a href="MapMeasure.html" title="class in com.here.sdk.mapview">MapMeasure</a> zoom)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Makes the camera look at the geodetic target with the given zoom and orientation.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMeasure)">lookAt</a><wbr/>(<a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> target,
- <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMeasure)">lookAt</a><wbr/>(<a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> target,
+ <a href="MapMeasure.html" title="class in com.here.sdk.mapview">MapMeasure</a> zoom)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Makes the camera look at the geodetic target with the given zoom.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#orbitBy(com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Point2D)">orbitBy</a><wbr/>(<a href="sdk-for-android-explore-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> delta,
- <a href="sdk-for-android-explore-core-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#orbitBy(com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Point2D)">orbitBy</a><wbr/>(<a href="../core/GeoOrientationUpdate.html" title="class in com.here.sdk.core">GeoOrientationUpdate</a> delta,
+ <a href="../core/Point2D.html" title="class in com.here.sdk.core">Point2D</a> origin)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Orbits the camera around a specified view point by increasing tilt and bearing by specified
  delta values.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#removeListener(com.here.sdk.mapview.MapCameraListener)">removeListener</a><wbr/>(<a href="sdk-for-android-explore-mapcameralistener" title="interface in com.here.sdk.mapview">MapCameraListener</a> observer)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#removeListener(com.here.sdk.mapview.MapCameraListener)">removeListener</a><wbr/>(<a href="MapCameraListener.html" title="interface in com.here.sdk.mapview">MapCameraListener</a> observer)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Removes the listener from the camera.</div>
 </div>
@@ -299,34 +299,34 @@ slug: "sdk-for-android-explore-mapcamera"
 <div class="block">Makes the camera look at current target from certain distance</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#setFarPlaneConfiguration(java.util.Map)">setFarPlaneConfiguration</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a href="sdk-for-android-explore-mapcamera.farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a>&gt; configs)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#setFarPlaneConfiguration(java.util.Map)">setFarPlaneConfiguration</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a href="MapCamera.FarPlaneConfiguration.html" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a>&gt; configs)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets far plane distance configs per zoom level.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#setOrientationAtTarget(com.here.sdk.core.GeoOrientationUpdate)">setOrientationAtTarget</a><wbr/>(<a href="sdk-for-android-explore-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#setOrientationAtTarget(com.here.sdk.core.GeoOrientationUpdate)">setOrientationAtTarget</a><wbr/>(<a href="../core/GeoOrientationUpdate.html" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Changes camera orientation in relation to target location.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#setPrincipalPoint(com.here.sdk.core.Point2D)">setPrincipalPoint</a><wbr/>(<a href="sdk-for-android-explore-core-point2d" title="class in com.here.sdk.core">Point2D</a> value)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#setPrincipalPoint(com.here.sdk.core.Point2D)">setPrincipalPoint</a><wbr/>(<a href="../core/Point2D.html" title="class in com.here.sdk.core">Point2D</a> value)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the pixel point that determines where the target appears within the map view.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#startAnimation(com.here.sdk.mapview.MapCameraAnimation)">startAnimation</a><wbr/>(<a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#startAnimation(com.here.sdk.mapview.MapCameraAnimation)">startAnimation</a><wbr/>(<a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Starts a given camera animation.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#startAnimation(com.here.sdk.mapview.MapCameraAnimation,com.here.sdk.animation.AnimationListener)">startAnimation</a><wbr/>(<a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation,
- <a href="sdk-for-android-explore-animation-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a> animationListener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#startAnimation(com.here.sdk.mapview.MapCameraAnimation,com.here.sdk.animation.AnimationListener)">startAnimation</a><wbr/>(<a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation,
+ <a href="../animation/AnimationListener.html" title="interface in com.here.sdk.animation">AnimationListener</a> animationListener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Starts a given camera animation.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#zoomBy(double,com.here.sdk.core.Point2D)">zoomBy</a><wbr/>(double factor,
- <a href="sdk-for-android-explore-core-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</code></div>
+ <a href="../core/Point2D.html" title="class in com.here.sdk.core">Point2D</a> origin)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Zooms in or out by a specified factor.</div>
 </div>
@@ -356,7 +356,7 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="setFarPlaneConfiguration(java.util.Map)">
 <h3>setFarPlaneConfiguration</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setFarPlaneConfiguration</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a href="sdk-for-android-explore-mapcamera.farplaneconfiguration" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a>&gt; configs)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Map.html" title="class or interface in java.util">Map</a>&lt;<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Double.html" title="class or interface in java.lang">Double</a>,<wbr/><a href="MapCamera.FarPlaneConfiguration.html" title="class in com.here.sdk.mapview">MapCamera.FarPlaneConfiguration</a>&gt; configs)</span></div>
 <div class="block"><p>Sets far plane distance configs per zoom level.
  <p>Values are linearly interpolated between provided zoom levels.
  For z between z0 and z1:
@@ -386,7 +386,7 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="addListener(com.here.sdk.mapview.MapCameraListener)">
 <h3>addListener</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addListener</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapcameralistener" title="interface in com.here.sdk.mapview">MapCameraListener</a> listener)</span></div>
+ <a href="MapCameraListener.html" title="interface in com.here.sdk.mapview">MapCameraListener</a> listener)</span></div>
 <div class="block"><p>Adds a listener to this camera that will be notified on the main thread
  every time the map is redrawn with new camera parameters.
  <p>Adding the same listener multiple times has no effect.</p></p></div>
@@ -400,7 +400,7 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="removeListener(com.here.sdk.mapview.MapCameraListener)">
 <h3>removeListener</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeListener</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapcameralistener" title="interface in com.here.sdk.mapview">MapCameraListener</a> observer)</span></div>
+ <a href="MapCameraListener.html" title="interface in com.here.sdk.mapview">MapCameraListener</a> observer)</span></div>
 <div class="block"><p>Removes the listener from the camera.
  <p>Trying to remove a listener that is not
  currently registered has no effect.</p></p></div>
@@ -421,7 +421,7 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="applyUpdate(com.here.sdk.mapview.MapCameraUpdate)">
 <h3>applyUpdate</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">applyUpdate</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate)</span></div>
+ <a href="MapCameraUpdate.html" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate)</span></div>
 <div class="block"><p>Applies camera update to the map camera.
  <p>Any ongoing camera animations will be cancelled and the corresponding camera animation listener will be notified.</p></p></div>
 <dl class="notes">
@@ -434,9 +434,9 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="dryApplyUpdate(com.here.sdk.mapview.MapCameraUpdate,com.here.sdk.mapview.MapCamera.DryCameraUpdateCallback)">
 <h3>dryApplyUpdate</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">dryApplyUpdate</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapcameraupdate" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate,
+ <a href="MapCameraUpdate.html" title="class in com.here.sdk.mapview">MapCameraUpdate</a> cameraUpdate,
  @NonNull
- <a href="sdk-for-android-explore-mapcamera.drycameraupdatecallback" title="interface in com.here.sdk.mapview">MapCamera.DryCameraUpdateCallback</a> callback)</span></div>
+ <a href="MapCamera.DryCameraUpdateCallback.html" title="interface in com.here.sdk.mapview">MapCamera.DryCameraUpdateCallback</a> callback)</span></div>
 <div class="block"><p>Computes result of applying camera update without changing state of the map camera.
  <p>Note that this is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></p></div>
@@ -452,7 +452,7 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="startAnimation(com.here.sdk.mapview.MapCameraAnimation)">
 <h3>startAnimation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">startAnimation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation)</span></div>
+ <a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation)</span></div>
 <div class="block"><p>Starts a given camera animation.
  <p>Starting an animation can cause the cancelling of an ongoing animation when they both affect the same category of camera properties,
  like for example any of the look-at properties (target, orientation, map measure) or any of the projection properties (field of view, principal point, focal length).
@@ -467,9 +467,9 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="startAnimation(com.here.sdk.mapview.MapCameraAnimation,com.here.sdk.animation.AnimationListener)">
 <h3>startAnimation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">startAnimation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation,
+ <a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation,
  @NonNull
- <a href="sdk-for-android-explore-animation-animationlistener" title="interface in com.here.sdk.animation">AnimationListener</a> animationListener)</span></div>
+ <a href="../animation/AnimationListener.html" title="interface in com.here.sdk.animation">AnimationListener</a> animationListener)</span></div>
 <div class="block"><p>Starts a given camera animation. The state of the animation can be tracked with the provided listener.
  <p>Starting an animation can cause the cancelling of an ongoing animation when they both affect the same category of camera properties,
  like for example any of the look-at properties (target, orientation, map measure) or any of the projection properties (field of view, principal point, focal length).
@@ -485,7 +485,7 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="cancelAnimation(com.here.sdk.mapview.MapCameraAnimation)">
 <h3>cancelAnimation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">cancelAnimation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapcameraanimation" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation)</span></div>
+ <a href="MapCameraAnimation.html" title="class in com.here.sdk.mapview">MapCameraAnimation</a> cameraAnimation)</span></div>
 <div class="block"><p>Cancels an ongoing camera animation.
  <p>Upon cancellation, the corresponding listener will be notified.</p></p></div>
 <dl class="notes">
@@ -506,9 +506,9 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="orbitBy(com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Point2D)">
 <h3>orbitBy</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">orbitBy</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> delta,
+ <a href="../core/GeoOrientationUpdate.html" title="class in com.here.sdk.core">GeoOrientationUpdate</a> delta,
  @NonNull
- <a href="sdk-for-android-explore-core-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</span></div>
+ <a href="../core/Point2D.html" title="class in com.here.sdk.core">Point2D</a> origin)</span></div>
 <div class="block"><p>Orbits the camera around a specified view point by increasing tilt and bearing by specified
  delta values.</p></div>
 <dl class="notes">
@@ -523,12 +523,12 @@ slug: "sdk-for-android-explore-mapcamera"
 <h3>zoomBy</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">zoomBy</span><wbr/><span class="parameters">(double factor,
  @NonNull
- <a href="sdk-for-android-explore-core-point2d" title="class in com.here.sdk.core">Point2D</a> origin)</span></div>
+ <a href="../core/Point2D.html" title="class in com.here.sdk.core">Point2D</a> origin)</span></div>
 <div class="block"><p>Zooms in or out by a specified factor.
- <p>This effectively changes the distance from the camera to the <a href="sdk-for-android-explore-mapcamera.state#targetCoordinates"><code>MapCamera.State.targetCoordinates</code></a>
- by the specified factor, which changes <a href="sdk-for-android-explore-mapcamera.state#zoomLevel"><code>MapCamera.State.zoomLevel</code></a> as well.
+ <p>This effectively changes the distance from the camera to the <a href="MapCamera.State.html#targetCoordinates"><code>MapCamera.State.targetCoordinates</code></a>
+ by the specified factor, which changes <a href="MapCamera.State.html#zoomLevel"><code>MapCamera.State.zoomLevel</code></a> as well.
  <p>Values above 1.0 will zoom in and values below will zoom out.
- <p>The relation with <a href="sdk-for-android-explore-mapcamera.state#distanceToTargetInMeters"><code>MapCamera.State.distanceToTargetInMeters</code></a> is inversely linear,
+ <p>The relation with <a href="MapCamera.State.html#distanceToTargetInMeters"><code>MapCamera.State.distanceToTargetInMeters</code></a> is inversely linear,
  meaning that zooming by 4 will decrease distance to target by 4 while zooming by 0.5
  will increase distance to target by 2.
  <p>The relation with zoom level is logarithmic. Meaning that zooming by a factor of 4 will
@@ -560,7 +560,7 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="lookAt(com.here.sdk.core.GeoCoordinates)">
 <h3>lookAt</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">lookAt</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> target)</span></div>
+ <a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> target)</span></div>
 <div class="block"><p>Makes the camera look at a new geodetic target, while
  preserving the current orientation and distance to the target.
  <p>The altitude of the target point is ignored. Any subsequent camera updates and animations
@@ -575,9 +575,9 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.mapview.MapMeasure)">
 <h3>lookAt</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">lookAt</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> target,
+ <a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> target,
  @NonNull
- <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom)</span></div>
+ <a href="MapMeasure.html" title="class in com.here.sdk.mapview">MapMeasure</a> zoom)</span></div>
 <div class="block"><p>Makes the camera look at the geodetic target with the given zoom.
  <p>The altitude of the target point is ignored. Any subsequent camera updates and animations
  will consider the target point as being located on the ground.</p></p></div>
@@ -593,11 +593,11 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="lookAt(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.mapview.MapMeasure)">
 <h3>lookAt</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">lookAt</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> target,
+ <a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> target,
  @NonNull
- <a href="sdk-for-android-explore-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation,
+ <a href="../core/GeoOrientationUpdate.html" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation,
  @NonNull
- <a href="sdk-for-android-explore-mapmeasure" title="class in com.here.sdk.mapview">MapMeasure</a> zoom)</span></div>
+ <a href="MapMeasure.html" title="class in com.here.sdk.mapview">MapMeasure</a> zoom)</span></div>
 <div class="block"><p>Makes the camera look at the geodetic target with the given zoom and orientation.
  <p>The supplied orientation is the orientation of the camera looking
  at the target, so the resulting camera state will have the
@@ -617,9 +617,9 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate)">
 <h3>lookAt</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">lookAt</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-core-geobox" title="class in com.here.sdk.core">GeoBox</a> target,
+ <a href="../core/GeoBox.html" title="class in com.here.sdk.core">GeoBox</a> target,
  @NonNull
- <a href="sdk-for-android-explore-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation)</span></div>
+ <a href="../core/GeoOrientationUpdate.html" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation)</span></div>
 <div class="block"><p>Makes the camera look at the specified geodetic area.
  <p>The supplied orientation is the orientation of the camera looking
  at the target, so the resulting camera state will have the
@@ -636,11 +636,11 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="lookAt(com.here.sdk.core.GeoBox,com.here.sdk.core.GeoOrientationUpdate,com.here.sdk.core.Rectangle2D)">
 <h3>lookAt</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">lookAt</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-core-geobox" title="class in com.here.sdk.core">GeoBox</a> target,
+ <a href="../core/GeoBox.html" title="class in com.here.sdk.core">GeoBox</a> target,
  @NonNull
- <a href="sdk-for-android-explore-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation,
+ <a href="../core/GeoOrientationUpdate.html" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation,
  @NonNull
- <a href="sdk-for-android-explore-core-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewRectangle)</span></div>
+ <a href="../core/Rectangle2D.html" title="class in com.here.sdk.core">Rectangle2D</a> viewRectangle)</span></div>
 <div class="block"><p>Makes the camera look at the specified geodetic area and pass a rectangle which specifies
  where the area should appear inside of the map view.
  <p>The supplied orientation is the orientation of the camera looking
@@ -676,7 +676,7 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="setOrientationAtTarget(com.here.sdk.core.GeoOrientationUpdate)">
 <h3>setOrientationAtTarget</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOrientationAtTarget</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-core-geoorientationupdate" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation)</span></div>
+ <a href="../core/GeoOrientationUpdate.html" title="class in com.here.sdk.core">GeoOrientationUpdate</a> orientation)</span></div>
 <div class="block"><p>Changes camera orientation in relation to target location.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -688,7 +688,7 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="getState()">
 <h3>getState</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapcamera.state" title="class in com.here.sdk.mapview">MapCamera.State</a></span> <span class="element-name">getState</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="MapCamera.State.html" title="class in com.here.sdk.mapview">MapCamera.State</a></span> <span class="element-name">getState</span>()</div>
 <div class="block"><p>Gets state of the camera that reflects what is currently drawn inside the map view.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>
@@ -700,7 +700,7 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="getPrincipalPoint()">
 <h3>getPrincipalPoint</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-point2d" title="class in com.here.sdk.core">Point2D</a></span> <span class="element-name">getPrincipalPoint</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/Point2D.html" title="class in com.here.sdk.core">Point2D</a></span> <span class="element-name">getPrincipalPoint</span>()</div>
 <div class="block"><p>Gets the pixel point that determines where the target is placed within the map view.
  By default, the principal point is located at the center of the map view.
  <p>The value of the principal point is adjusted when the dimensions of the
@@ -720,7 +720,7 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="setPrincipalPoint(com.here.sdk.core.Point2D)">
 <h3>setPrincipalPoint</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setPrincipalPoint</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-core-point2d" title="class in com.here.sdk.core">Point2D</a> value)</span></div>
+ <a href="../core/Point2D.html" title="class in com.here.sdk.core">Point2D</a> value)</span></div>
 <div class="block"><p>Sets the pixel point that determines where the target appears within the map view.
  This instantly moves the map to render the current target coordinates
  at the new principal point.
@@ -748,7 +748,7 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="getBoundingBox()">
 <h3>getBoundingBox</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">getBoundingBox</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/GeoBox.html" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">getBoundingBox</span>()</div>
 <div class="block"><p>Gets the current visible map area encompassed in a GeoBox.
  <p>Note that this bounding box is always rectangular, and its sides are always
  parallel to the latitude and longitude. If the camera is rotated, the returned
@@ -770,7 +770,7 @@ slug: "sdk-for-android-explore-mapcamera"
 <section class="detail" id="getLimits()">
 <h3>getLimits</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapcameralimits" title="class in com.here.sdk.mapview">MapCameraLimits</a></span> <span class="element-name">getLimits</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="MapCameraLimits.html" title="class in com.here.sdk.mapview">MapCameraLimits</a></span> <span class="element-name">getLimits</span>()</div>
 <div class="block"><p>Gets a MapCameraLimits instance that controls limits for the camera settings.</p></div>
 <dl class="notes">
 <dt>Returns:</dt>

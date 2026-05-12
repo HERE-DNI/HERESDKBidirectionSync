@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-polylinesimplifier"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,22 +55,22 @@ slug: "sdk-for-android-explore-polylinesimplifier"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.core</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="../../NativeBase.html" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.core.PolylineSimplifier</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">PolylineSimplifier</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="../../NativeBase.html" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>PolylineSimplifier helps to reduce the number of points
  in the polyline by removing redundant elements using
  Douglas–Peucker algorithm, so that result stays
- within <a href="sdk-for-android-explore-polylinesimplifier.options" title="class in com.here.sdk.core"><code>PolylineSimplifier.Options</code></a>.
+ within <a href="PolylineSimplifier.Options.html" title="class in com.here.sdk.core"><code>PolylineSimplifier.Options</code></a>.
  <p>Typical use case is to perform input preparation step
  before invoking computationally heavy API. Such API
  have an upper limit on the input collection size
@@ -93,7 +93,7 @@ slug: "sdk-for-android-explore-polylinesimplifier"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static final class </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="PolylineSimplifier.Options.html" title="class in com.here.sdk.core">PolylineSimplifier.Options</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Controls the strategy of <a href="#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)"><code>simplify(java.util.List&lt;com.here.sdk.core.GeoCoordinates&gt;, com.here.sdk.core.PolylineSimplifier.Options, com.here.sdk.core.PolylineSimplificationCallback)</code></a>
  when reducing a size of polyline.</div>
@@ -111,7 +111,7 @@ slug: "sdk-for-android-explore-polylinesimplifier"
 <div class="table-header col-last">Description</div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E()">PolylineSimplifier</a>()</code></div>
 <div class="col-last even-row-color">
-<div class="block">Creates a new instance of <a href="sdk-for-android-explore-polylinesimplifier" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.</div>
+<div class="block">Creates a new instance of <a href="PolylineSimplifier.html" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.</div>
 </div>
 </div>
 </section>
@@ -127,10 +127,10 @@ slug: "sdk-for-android-explore-polylinesimplifier"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)">simplify</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline,
- <a href="sdk-for-android-explore-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a> simplificationParameters,
- <a href="sdk-for-android-explore-polylinesimplificationcallback" title="interface in com.here.sdk.core">PolylineSimplificationCallback</a> callback)</code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="threading/TaskHandle.html" title="interface in com.here.sdk.core.threading">TaskHandle</a></code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)">simplify</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline,
+ <a href="PolylineSimplifier.Options.html" title="class in com.here.sdk.core">PolylineSimplifier.Options</a> simplificationParameters,
+ <a href="PolylineSimplificationCallback.html" title="interface in com.here.sdk.core">PolylineSimplificationCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Reduces the number of points in the input polyline.</div>
 </div>
@@ -155,11 +155,11 @@ slug: "sdk-for-android-explore-polylinesimplifier"
 <section class="detail" id="&lt;init&gt;()">
 <h3>PolylineSimplifier</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">PolylineSimplifier</span>()
-                   throws <span class="exceptions"><a href="sdk-for-android-explore-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
-<div class="block"><p>Creates a new instance of <a href="sdk-for-android-explore-polylinesimplifier" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.</p></div>
+                   throws <span class="exceptions"><a href="errors/InstantiationErrorException.html" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></span></div>
+<div class="block"><p>Creates a new instance of <a href="PolylineSimplifier.html" title="class in com.here.sdk.core"><code>PolylineSimplifier</code></a>.</p></div>
 <dl class="notes">
 <dt>Throws:</dt>
-<dd><code><a href="sdk-for-android-explore-errors-instantiationerrorexception" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
+<dd><code><a href="errors/InstantiationErrorException.html" title="class in com.here.sdk.core.errors">InstantiationErrorException</a></code> - <p>Indicates what went wrong when the instantiation was attempted.</p></dd>
 </dl>
 </section>
 </li>
@@ -175,15 +175,15 @@ slug: "sdk-for-android-explore-polylinesimplifier"
 <section class="detail" id="simplify(java.util.List,com.here.sdk.core.PolylineSimplifier.Options,com.here.sdk.core.PolylineSimplificationCallback)">
 <h3>simplify</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-threading-taskhandle" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">simplify</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline,
+</span><span class="modifiers">public</span> <span class="return-type"><a href="threading/TaskHandle.html" title="interface in com.here.sdk.core.threading">TaskHandle</a></span> <span class="element-name">simplify</span><wbr/><span class="parameters">(@NonNull
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a>&gt; polyline,
  @NonNull
- <a href="sdk-for-android-explore-polylinesimplifier.options" title="class in com.here.sdk.core">PolylineSimplifier.Options</a> simplificationParameters,
+ <a href="PolylineSimplifier.Options.html" title="class in com.here.sdk.core">PolylineSimplifier.Options</a> simplificationParameters,
  @NonNull
- <a href="sdk-for-android-explore-polylinesimplificationcallback" title="interface in com.here.sdk.core">PolylineSimplificationCallback</a> callback)</span></div>
+ <a href="PolylineSimplificationCallback.html" title="interface in com.here.sdk.core">PolylineSimplificationCallback</a> callback)</span></div>
 <div class="block"><p>Reduces the number of points in the input polyline.
  Does this by removing points which are not significant
- according to the passed <a href="sdk-for-android-explore-polylinesimplifier.options" title="class in com.here.sdk.core"><code>PolylineSimplifier.Options</code></a>.
+ according to the passed <a href="PolylineSimplifier.Options.html" title="class in com.here.sdk.core"><code>PolylineSimplifier.Options</code></a>.
  Simplification process is performed on the device without
  connecting to the network and is computationally intensive.</p></div>
 <dl class="notes">

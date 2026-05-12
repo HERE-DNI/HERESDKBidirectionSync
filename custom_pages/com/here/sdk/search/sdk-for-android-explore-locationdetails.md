@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-locationdetails"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-locationdetails"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -78,17 +78,17 @@ slug: "sdk-for-android-explore-locationdetails"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#accessPoints">accessPoints</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The access points to the place, such as the points on a road or in a parking lot.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-core-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
+<div class="col-first odd-row-color"><code><a href="../core/GeoBox.html" title="class in com.here.sdk.core">GeoBox</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#boundingBox">boundingBox</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The geographic coordinates of the map bounding box containing the place.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first even-row-color"><code><a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#coordinates">coordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The geographic coordinates of the place.</div>
@@ -109,7 +109,7 @@ slug: "sdk-for-android-explore-locationdetails"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">LocationDetails</a><wbr/>(<a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">LocationDetails</a><wbr/>(<a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -154,7 +154,7 @@ slug: "sdk-for-android-explore-locationdetails"
 <section class="detail" id="coordinates">
 <h3>coordinates</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span></div>
 <div class="block"><p>The geographic coordinates of the place.</p></div>
 </section>
 </li>
@@ -169,7 +169,7 @@ slug: "sdk-for-android-explore-locationdetails"
 <section class="detail" id="accessPoints">
 <h3>accessPoints</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</span> <span class="element-name">accessPoints</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a>&gt;</span> <span class="element-name">accessPoints</span></div>
 <div class="block"><p>The access points to the place, such as the points on a road or in a parking lot.</p></div>
 </section>
 </li>
@@ -177,7 +177,7 @@ slug: "sdk-for-android-explore-locationdetails"
 <section class="detail" id="boundingBox">
 <h3>boundingBox</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">boundingBox</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/GeoBox.html" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">boundingBox</span></div>
 <div class="block"><p>The geographic coordinates of the map bounding box containing the place.</p></div>
 </section>
 </li>
@@ -193,7 +193,7 @@ slug: "sdk-for-android-explore-locationdetails"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates)">
 <h3>LocationDetails</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">LocationDetails</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</span></div>
+ <a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

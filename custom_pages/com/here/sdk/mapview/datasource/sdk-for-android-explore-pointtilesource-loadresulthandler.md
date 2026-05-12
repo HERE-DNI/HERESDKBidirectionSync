@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-pointtilesource-loadresulthandler"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../../index-all.html">Index</a></li>
+<li><a href="../../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,13 +55,13 @@ slug: "sdk-for-android-explore-pointtilesource-loadresulthandler"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview.datasource</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.mapview.datasource</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing interface:</dt>
-<dd><a href="sdk-for-android-explore-pointtilesource" title="interface in com.here.sdk.mapview.datasource">PointTileSource</a></dd>
+<dd><a href="PointTileSource.html" title="interface in com.here.sdk.mapview.datasource">PointTileSource</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static interface </span><span class="element-name type-name-label">PointTileSource.LoadResultHandler</span></div>
@@ -81,14 +81,14 @@ slug: "sdk-for-android-explore-pointtilesource-loadresulthandler"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#failed(com.here.sdk.mapview.datasource.TileKey)">failed</a><wbr/>(<a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#failed(com.here.sdk.mapview.datasource.TileKey)">failed</a><wbr/>(<a href="TileKey.html" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called upon failed load tile request.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#loaded(com.here.sdk.mapview.datasource.TileKey,java.util.List,com.here.sdk.mapview.datasource.TileSource.TileMetadata)">loaded</a><wbr/>(<a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a>&gt; data,
- <a href="sdk-for-android-explore-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a> metadata)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#loaded(com.here.sdk.mapview.datasource.TileKey,java.util.List,com.here.sdk.mapview.datasource.TileSource.TileMetadata)">loaded</a><wbr/>(<a href="TileKey.html" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="PointData.html" title="class in com.here.sdk.mapview.datasource">PointData</a>&gt; data,
+ <a href="TileSource.TileMetadata.html" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a> metadata)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called upon successful load tile request.</div>
 </div>
@@ -110,11 +110,11 @@ slug: "sdk-for-android-explore-pointtilesource-loadresulthandler"
 <section class="detail" id="loaded(com.here.sdk.mapview.datasource.TileKey,java.util.List,com.here.sdk.mapview.datasource.TileSource.TileMetadata)">
 <h3>loaded</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">loaded</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
+ <a href="TileKey.html" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-pointdata" title="class in com.here.sdk.mapview.datasource">PointData</a>&gt; data,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="PointData.html" title="class in com.here.sdk.mapview.datasource">PointData</a>&gt; data,
  @NonNull
- <a href="sdk-for-android-explore-tilesource.tilemetadata" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a> metadata)</span></div>
+ <a href="TileSource.TileMetadata.html" title="class in com.here.sdk.mapview.datasource">TileSource.TileMetadata</a> metadata)</span></div>
 <div class="block"><p>Called upon successful load tile request.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -128,7 +128,7 @@ slug: "sdk-for-android-explore-pointtilesource-loadresulthandler"
 <section class="detail" id="failed(com.here.sdk.mapview.datasource.TileKey)">
 <h3>failed</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">failed</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-tilekey" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</span></div>
+ <a href="TileKey.html" title="class in com.here.sdk.mapview.datasource">TileKey</a> tileKey)</span></div>
 <div class="block"><p>Called upon failed load tile request.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>

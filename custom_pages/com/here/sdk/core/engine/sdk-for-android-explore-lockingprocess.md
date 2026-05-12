@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-lockingprocess"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../../index-all.html">Index</a></li>
+<li><a href="../../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,21 +55,21 @@ slug: "sdk-for-android-explore-lockingprocess"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core.engine</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.core.engine</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
-<div class="inheritance"><a href="sdk-for-android-explore-nativebase" title="class in com.here">com.here.NativeBase</a>
+<div class="inheritance"><a href="../../../NativeBase.html" title="class in com.here">com.here.NativeBase</a>
 <div class="inheritance">com.here.sdk.core.engine.LockingProcess</div>
 </div>
 </div>
 <section class="class-description" id="class-description">
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">LockingProcess</span>
-<span class="extends-implements">extends <a href="sdk-for-android-explore-nativebase" title="class in com.here">NativeBase</a></span></div>
+<span class="extends-implements">extends <a href="../../../NativeBase.html" title="class in com.here">NativeBase</a></span></div>
 <div class="block"><p>LockingProcess helps to detect situations when cache is locked with another process and
- attempt to create instance of <a href="sdk-for-android-explore-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> fails with error
- <a href="sdk-for-android-explore-errors-instantiationerrorcode#FAILED_TO_LOCK_CACHE_FOLDER"><code>InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER</code></a>.</p></div>
+ attempt to create instance of <a href="SDKNativeEngine.html" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> fails with error
+ <a href="../errors/InstantiationErrorCode.html#FAILED_TO_LOCK_CACHE_FOLDER"><code>InstantiationErrorCode.FAILED_TO_LOCK_CACHE_FOLDER</code></a>.</p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -86,13 +86,13 @@ slug: "sdk-for-android-explore-lockingprocess"
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)">destroyLockingProcess</a><wbr/>(android.content.Context context,
- <a href="sdk-for-android-explore-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions,
+ <a href="SDKOptions.html" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions,
  long maxTimeoutInMilliseconds)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Checks if cache folder is locked.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6"><code>static void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="#destroyLockingProcess(com.here.sdk.core.engine.SDKOptions,long)">destroyLockingProcess</a><wbr/>(<a href="sdk-for-android-explore-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions,
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="#destroyLockingProcess(com.here.sdk.core.engine.SDKOptions,long)">destroyLockingProcess</a><wbr/>(<a href="SDKOptions.html" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions,
  long maxTimeoutInMilliseconds)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
 <div class="block"><span class="deprecated-label">Deprecated.</span>
@@ -101,12 +101,12 @@ slug: "sdk-for-android-explore-lockingprocess"
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#getLockingProcessId(android.content.Context,com.here.sdk.core.engine.SDKOptions)">getLockingProcessId</a><wbr/>(android.content.Context context,
- <a href="sdk-for-android-explore-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</code></div>
+ <a href="SDKOptions.html" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Gets the process ID (PID) that currently locks the map cache or the persistent map storage.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6"><code>static <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="#getLockingProcessId(com.here.sdk.core.engine.SDKOptions)">getLockingProcessId</a><wbr/>(<a href="sdk-for-android-explore-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6"><code><a class="member-name-link" href="#getLockingProcessId(com.here.sdk.core.engine.SDKOptions)">getLockingProcessId</a><wbr/>(<a href="SDKOptions.html" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4 method-summary-table-tab6">
 <div class="block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment">Will be removed in v4.27.0, use <a href="#getLockingProcessId(android.content.Context,com.here.sdk.core.engine.SDKOptions)"><code>getLockingProcessId(android.content.Context, SDKOptions)</code></a> instead.</div>
@@ -135,7 +135,7 @@ slug: "sdk-for-android-explore-lockingprocess"
 <div class="member-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
 @Nullable
 </span><span class="modifiers">public static</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">getLockingProcessId</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span></div>
+ <a href="SDKOptions.html" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment"><p>Will be removed in v4.27.0, use <a href="#getLockingProcessId(android.content.Context,com.here.sdk.core.engine.SDKOptions)"><code>getLockingProcessId(android.content.Context, SDKOptions)</code></a> instead.</p></div>
 </div>
@@ -168,7 +168,7 @@ slug: "sdk-for-android-explore-lockingprocess"
 </span><span class="modifiers">public static</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html" title="class or interface in java.lang">Integer</a></span> <span class="element-name">getLockingProcessId</span><wbr/><span class="parameters">(@NonNull
  android.content.Context context,
  @NonNull
- <a href="sdk-for-android-explore-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span></div>
+ <a href="SDKOptions.html" title="class in com.here.sdk.core.engine">SDKOptions</a> options)</span></div>
 <div class="block"><p>Gets the process ID (PID) that currently locks the map cache or the persistent map storage.
  Returns <code>null</code>, when no lock is active. Usually, a lock is not happening on the current process.
  The PID of the current process can be checked with <code>android.os.Process#myPid()</code>.
@@ -197,7 +197,7 @@ slug: "sdk-for-android-explore-lockingprocess"
 <h3>destroyLockingProcess</h3>
 <div class="member-signature"><span class="annotations"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Deprecated.html" title="class or interface in java.lang">@Deprecated</a>
 </span><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">destroyLockingProcess</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions,
+ <a href="SDKOptions.html" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions,
  long maxTimeoutInMilliseconds)</span></div>
 <div class="deprecation-block"><span class="deprecated-label">Deprecated.</span>
 <div class="deprecation-comment"><p>Will be removed in v4.27.0, use <a href="#destroyLockingProcess(android.content.Context,com.here.sdk.core.engine.SDKOptions,long)"><code>destroyLockingProcess(android.content.Context, SDKOptions, long)</code></a> instead.</p></div>
@@ -206,7 +206,7 @@ slug: "sdk-for-android-explore-lockingprocess"
  current process. If cache is locked by a different process then the HERE SDK
  makes a few attempts to kill the locking application during the specified timeout.
  If it fails to kill the application, it attempts to remove the cache at
- <a href="sdk-for-android-explore-sdkoptions#cachePath"><code>SDKOptions.cachePath</code></a>. This function can be used before creating a SDKNativeEngine,
+ <a href="SDKOptions.html#cachePath"><code>SDKOptions.cachePath</code></a>. This function can be used before creating a SDKNativeEngine,
  i.e.
  <pre>
  <code>
@@ -231,13 +231,13 @@ slug: "sdk-for-android-explore-lockingprocess"
 <div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">destroyLockingProcess</span><wbr/><span class="parameters">(@NonNull
  android.content.Context context,
  @NonNull
- <a href="sdk-for-android-explore-sdkoptions" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions,
+ <a href="SDKOptions.html" title="class in com.here.sdk.core.engine">SDKOptions</a> sdkOptions,
  long maxTimeoutInMilliseconds)</span></div>
 <div class="block"><p>Checks if cache folder is locked. Does nothing if cache is not locked or locked by
  current process. If cache is locked by a different process then the HERE SDK
  makes a few attempts to kill the locking application during the specified timeout.
  If it fails to kill the application, it attempts to remove the cache at
- <a href="sdk-for-android-explore-sdkoptions#cachePath"><code>SDKOptions.cachePath</code></a>. This function can be used before creating a SDKNativeEngine,
+ <a href="SDKOptions.html#cachePath"><code>SDKOptions.cachePath</code></a>. This function can be used before creating a SDKNativeEngine,
  i.e.
  <pre>
  <code>

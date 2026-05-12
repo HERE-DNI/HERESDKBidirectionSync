@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-location"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-location"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.core</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -88,12 +88,12 @@ slug: "sdk-for-android-explore-location"
 <div class="col-last odd-row-color">
 <div class="block">Bearing (also known as course) is the device's horizontal direction of travel.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first even-row-color"><code><a href="GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#coordinates">coordinates</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">The geographic coordinates of the location.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first odd-row-color"><code><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#gnssTime">gnssTime</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional gnss time at which the location was determined.</div>
@@ -103,7 +103,7 @@ slug: "sdk-for-android-explore-location"
 <div class="col-last even-row-color">
 <div class="block">The estimated horizontal accuracy.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-locationtechnology" title="enum class in com.here.sdk.core">LocationTechnology</a></code></div>
+<div class="col-first odd-row-color"><code><a href="LocationTechnology.html" title="enum class in com.here.sdk.core">LocationTechnology</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#locationTechnology">locationTechnology</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional technology or provider of this location.</div>
@@ -113,7 +113,7 @@ slug: "sdk-for-android-explore-location"
 <div class="col-last even-row-color">
 <div class="block">Pitch of this location, in degrees.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-locationsource" title="enum class in com.here.sdk.core">LocationSource</a></code></div>
+<div class="col-first odd-row-color"><code><a href="LocationSource.html" title="enum class in com.here.sdk.core">LocationSource</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#source">source</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Optional source of this location.</div>
@@ -133,7 +133,7 @@ slug: "sdk-for-android-explore-location"
 <div class="col-last even-row-color">
 <div class="block">The time at which the location was determined.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a></code></div>
+<div class="col-first odd-row-color"><code><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#timestampSinceBoot">timestampSinceBoot</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">The time at which the location was determined, relative to device
@@ -155,7 +155,7 @@ slug: "sdk-for-android-explore-location"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">Location</a><wbr/>(<a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">Location</a><wbr/>(<a href="GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new Location instance from the provided GeoCoordinates value.</div>
 </div>
@@ -200,7 +200,7 @@ slug: "sdk-for-android-explore-location"
 <section class="detail" id="coordinates">
 <h3>coordinates</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">coordinates</span></div>
 <div class="block"><p>The geographic coordinates of the location.</p></div>
 </section>
 </li>
@@ -276,7 +276,7 @@ slug: "sdk-for-android-explore-location"
 <section class="detail" id="timestampSinceBoot">
 <h3>timestampSinceBoot</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">timestampSinceBoot</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></span> <span class="element-name">timestampSinceBoot</span></div>
 <div class="block"><p>The time at which the location was determined, relative to device
  boot time. This time is monotonic and not affected by leap time or other system
  time adjustments, so this is the recommended basis for general purpose interval timing
@@ -288,7 +288,7 @@ slug: "sdk-for-android-explore-location"
 <section class="detail" id="locationTechnology">
 <h3>locationTechnology</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-locationtechnology" title="enum class in com.here.sdk.core">LocationTechnology</a></span> <span class="element-name">locationTechnology</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="LocationTechnology.html" title="enum class in com.here.sdk.core">LocationTechnology</a></span> <span class="element-name">locationTechnology</span></div>
 <div class="block"><p>Optional technology or provider of this location.
  If it cannot be determined, the value is <code>null</code>.</p></div>
 </section>
@@ -297,7 +297,7 @@ slug: "sdk-for-android-explore-location"
 <section class="detail" id="source">
 <h3>source</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-locationsource" title="enum class in com.here.sdk.core">LocationSource</a></span> <span class="element-name">source</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="LocationSource.html" title="enum class in com.here.sdk.core">LocationSource</a></span> <span class="element-name">source</span></div>
 <div class="block"><p>Optional source of this location.
  If it cannot be determined, the value is <code>null</code>.</p></div>
 </section>
@@ -306,7 +306,7 @@ slug: "sdk-for-android-explore-location"
 <section class="detail" id="gnssTime">
 <h3>gnssTime</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-time-duration" title="class in com.here.time">Duration</a></span> <span class="element-name">gnssTime</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../../time/Duration.html" title="class in com.here.time">Duration</a></span> <span class="element-name">gnssTime</span></div>
 <div class="block"><p>Optional gnss time at which the location was determined.
  It is a time interval from the Unix time epoch in milliseconds.
  If it cannot be determined, the value is <code>null</code>.</p></div>
@@ -333,7 +333,7 @@ slug: "sdk-for-android-explore-location"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates)">
 <h3>Location</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Location</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</span></div>
+ <a href="GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> coordinates)</span></div>
 <div class="block"><p>Creates a new Location instance from the provided GeoCoordinates value.
  timestamp is initialized with <code>January 1, 1970, 00:00:00 GMT</code> value.
  The rest of the fields will be initialized to null.</p></div>

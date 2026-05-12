@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-mapsurface"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-mapsurface"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -64,15 +64,15 @@ slug: "sdk-for-android-explore-mapsurface"
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>All Implemented Interfaces:</dt>
-<dd><code><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public class </span><span class="element-name type-name-label">MapSurface</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a>
-implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></span></div>
+implements <a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></span></div>
 <div class="block">Provides the ability to render a map into a provided rendering surface. This enables the
  possibility to render a map into external displays like Android Auto. If you want to use the
- map for a regular use case please use the <a href="sdk-for-android-explore-mapview" title="class in com.here.sdk.mapview"><code>MapView</code></a> instead.</div>
+ map for a regular use case please use the <a href="MapView.html" title="class in com.here.sdk.mapview"><code>MapView</code></a> instead.</div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -86,14 +86,14 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static interface </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-mapsurface.renderlistener" title="interface in com.here.sdk.mapview">MapSurface.RenderListener</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="MapSurface.RenderListener.html" title="interface in com.here.sdk.mapview">MapSurface.RenderListener</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Listener of MapSurface render events.</div>
 </div>
 </div>
 <div class="inherited-list">
 
-<code><a href="sdk-for-android-explore-mapviewbase.mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a></code></div>
+<code><a href="MapViewBase.MapPickCallback.html" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a></code></div>
 </section>
 </li>
 <!-- ======== CONSTRUCTOR SUMMARY ======== -->
@@ -113,11 +113,11 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <div class="block">Creates a new instance.</div>
 </div>
 <div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(android.content.Context,com.here.sdk.mapview.MapViewOptions)">MapSurface</a><wbr/>(android.content.Context context,
- <a href="sdk-for-android-explore-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a> options)</code></div>
+ <a href="MapViewOptions.html" title="class in com.here.sdk.mapview">MapViewOptions</a> options)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.mapview.MapViewOptions)">MapSurface</a><wbr/>(<a href="sdk-for-android-explore-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a> options)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.mapview.MapViewOptions)">MapSurface</a><wbr/>(<a href="MapViewOptions.html" title="class in com.here.sdk.mapview">MapViewOptions</a> options)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -136,9 +136,9 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">addLifecycleListener</a><wbr/>(<a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">addLifecycleListener</a><wbr/>(<a href="MapViewLifecycleListener.html" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Adds a <a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> to this map view.</div>
+<div class="block">Adds a <a href="MapViewLifecycleListener.html" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> to this map view.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#attachSurface(android.content.Context,android.view.Surface,int,int)">attachSurface</a><wbr/>(android.content.Context context,
@@ -153,7 +153,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
  android.view.Surface surface,
  int width,
  int height,
- <a href="sdk-for-android-explore-mapsurface.renderlistener" title="interface in com.here.sdk.mapview">MapSurface.RenderListener</a> renderListener)</code></div>
+ <a href="MapSurface.RenderListener.html" title="interface in com.here.sdk.mapview">MapSurface.RenderListener</a> renderListener)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the surface on which the map will be rendered.</div>
 </div>
@@ -167,12 +167,12 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Destroys the rendering surface.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-core-point2d" title="class in com.here.sdk.core">Point2D</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)">geoToViewCoordinates</a><wbr/>(<a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="../core/Point2D.html" title="class in com.here.sdk.core">Point2D</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)">geoToViewCoordinates</a><wbr/>(<a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Converts geographical coordinates to view coordinates (in pixels).</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-mapcamera" title="class in com.here.sdk.mapview">MapCamera</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="MapCamera.html" title="class in com.here.sdk.mapview">MapCamera</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getCamera()">getCamera</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the camera control object for the map</div>
@@ -182,22 +182,22 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets maximum render frame rate in frames per second.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-gestures-gestures" title="class in com.here.sdk.gestures">Gestures</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="../gestures/Gestures.html" title="class in com.here.sdk.gestures">Gestures</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getGestures()">getGestures</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the gestures control object.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-heremap" title="class in com.here.sdk.mapview">HereMap</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="HereMap.html" title="class in com.here.sdk.mapview">HereMap</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getHereMap()">getHereMap</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the HereMap associated with this map view.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="MapContext.html" title="class in com.here.sdk.mapview">MapContext</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getMapContext()">getMapContext</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the map context associated with this map view.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview">MapScene</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="MapScene.html" title="class in com.here.sdk.mapview">MapScene</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getMapScene()">getMapScene</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the map scene associated with this map view.</div>
@@ -207,17 +207,17 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Gets the pixel scale factor used by this MapView.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="sdk-for-android-explore-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static <a href="ShadowQuality.html" title="enum class in com.here.sdk.mapview">ShadowQuality</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#getShadowQuality()">getShadowQuality</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Gets the currently set shadow quality.</div>
 </div>
-<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-core-size2d" title="class in com.here.sdk.core">Size2D</a></code></div>
+<div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="../core/Size2D.html" title="class in com.here.sdk.core">Size2D</a></code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getViewportSize()">getViewportSize</a>()</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the viewport size of this MapView in physical pixels.</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-core-size2d" title="class in com.here.sdk.core">Size2D</a></code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="../core/Size2D.html" title="class in com.here.sdk.core">Size2D</a></code></div>
 <div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#getWatermarkSize()">getWatermarkSize</a>()</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns the watermark size in physical pixels.</div>
@@ -238,9 +238,9 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <div class="block">Call this method in the onResume() method of the lifecycle owner.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)">pick</a><wbr/>(<a href="sdk-for-android-explore-mapscene.mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a> filter,
- <a href="sdk-for-android-explore-core-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewArea,
- <a href="sdk-for-android-explore-mapviewbase.mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a> callback)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)">pick</a><wbr/>(<a href="MapScene.MapPickFilter.html" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a> filter,
+ <a href="../core/Rectangle2D.html" title="class in com.here.sdk.core">Rectangle2D</a> viewArea,
+ <a href="MapViewBase.MapPickCallback.html" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a> callback)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Returns all map content located inside the specified pick area.</div>
 </div>
@@ -250,9 +250,9 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <div class="block">Redraws the map and reports back on completion.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">removeLifecycleListener</a><wbr/>(<a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">removeLifecycleListener</a><wbr/>(<a href="MapViewLifecycleListener.html" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
-<div class="block">Removes a <a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> from this map view.</div>
+<div class="block">Removes a <a href="MapViewLifecycleListener.html" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> from this map view.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#setFrameRate(int)">setFrameRate</a><wbr/>(int value)</code></div>
@@ -260,29 +260,29 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <div class="block">Sets maximum render frame rate in frames per second.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#setOnReadyListener(com.here.sdk.mapview.MapView.OnReadyListener)">setOnReadyListener</a><wbr/>(<a href="sdk-for-android-explore-mapview.onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a> readyListener)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#setOnReadyListener(com.here.sdk.mapview.MapView.OnReadyListener)">setOnReadyListener</a><wbr/>(<a href="MapView.OnReadyListener.html" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a> readyListener)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the OnReadyListener, which will be notified once MapView initialization has
  been finished.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code>static void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#setShadowQuality(com.here.sdk.mapview.ShadowQuality)">setShadowQuality</a><wbr/>(<a href="sdk-for-android-explore-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a> shadowQuality)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4"><code><a class="member-name-link" href="#setShadowQuality(com.here.sdk.mapview.ShadowQuality)">setShadowQuality</a><wbr/>(<a href="ShadowQuality.html" title="enum class in com.here.sdk.mapview">ShadowQuality</a> shadowQuality)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab1 method-summary-table-tab4">
 <div class="block">Set desired shadow quality for all instances of MapSurface/MapView.</div>
 </div>
 <div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)">setWatermarkLocation</a><wbr/>(<a href="sdk-for-android-explore-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor,
- <a href="sdk-for-android-explore-core-point2d" title="class in com.here.sdk.core">Point2D</a> offset)</code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)">setWatermarkLocation</a><wbr/>(<a href="../core/Anchor2D.html" title="class in com.here.sdk.core">Anchor2D</a> anchor,
+ <a href="../core/Point2D.html" title="class in com.here.sdk.core">Point2D</a> offset)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Sets the position of the HERE logo watermark within the map view.</div>
 </div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#takeScreenshot(com.here.sdk.mapview.MapView.TakeScreenshotCallback)">takeScreenshot</a><wbr/>(<a href="sdk-for-android-explore-mapview.takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a> callback)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#takeScreenshot(com.here.sdk.mapview.MapView.TakeScreenshotCallback)">takeScreenshot</a><wbr/>(<a href="MapView.TakeScreenshotCallback.html" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a> callback)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Asynchronously retrieves screenshot of current map view</div>
 </div>
-<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
-<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#viewToGeoCoordinates(com.here.sdk.core.Point2D)">viewToGeoCoordinates</a><wbr/>(<a href="sdk-for-android-explore-core-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates)</code></div>
+<div class="col-first odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-second odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4"><code><a class="member-name-link" href="#viewToGeoCoordinates(com.here.sdk.core.Point2D)">viewToGeoCoordinates</a><wbr/>(<a href="../core/Point2D.html" title="class in com.here.sdk.core">Point2D</a> viewCoordinates)</code></div>
 <div class="col-last odd-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab4">
 <div class="block">Converts view coordinates to geographical coordinates.</div>
 </div>
@@ -313,7 +313,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <li>
 <section class="detail" id="&lt;init&gt;(com.here.sdk.mapview.MapViewOptions)">
 <h3>MapSurface</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapSurface</span><wbr/><span class="parameters">(<a href="sdk-for-android-explore-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a> options)</span></div>
+<div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapSurface</span><wbr/><span class="parameters">(<a href="MapViewOptions.html" title="class in com.here.sdk.mapview">MapViewOptions</a> options)</span></div>
 <div class="block">Creates a new instance.</div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -336,7 +336,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <section class="detail" id="&lt;init&gt;(android.content.Context,com.here.sdk.mapview.MapViewOptions)">
 <h3>MapSurface</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">MapSurface</span><wbr/><span class="parameters">(android.content.Context context,
- <a href="sdk-for-android-explore-mapviewoptions" title="class in com.here.sdk.mapview">MapViewOptions</a> options)</span></div>
+ <a href="MapViewOptions.html" title="class in com.here.sdk.mapview">MapViewOptions</a> options)</span></div>
 <div class="block">Creates a new instance.</div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -360,10 +360,10 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <div class="block">Returns whether this <code>MapSurface</code> is valid. An invalid <code>MapSurface</code> is
  non-functional. A <code>MapSurface</code> is considered valid only after <a href="#attachSurface(android.content.Context,android.view.Surface,int,int)"><code>attachSurface(Context, Surface, int, int)</code></a> and before <a href="#destroy()"><code>destroy()</code></a> is called.
  <code>MapSurface</code> is also invalidated when the
- <a href="sdk-for-android-explore-core-engine-sdknativeengine" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> it is using is destroyed.</div>
+ <a href="../core/engine/SDKNativeEngine.html" title="class in com.here.sdk.core.engine"><code>SDKNativeEngine</code></a> it is using is destroyed.</div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-mapviewbase#isValid()">isValid</a></code> in interface <code><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="MapViewBase.html#isValid()">isValid</a></code> in interface <code><a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
 <dd><code>true</code> if this <code>MapSurface</code> is valid, <code>false</code> otherwise.</dd>
 </dl>
@@ -383,10 +383,10 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <li>
 <section class="detail" id="setOnReadyListener(com.here.sdk.mapview.MapView.OnReadyListener)">
 <h3>setOnReadyListener</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOnReadyListener</span><wbr/><span class="parameters">(<a href="sdk-for-android-explore-mapview.onreadylistener" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a> readyListener)</span></div>
+<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setOnReadyListener</span><wbr/><span class="parameters">(<a href="MapView.OnReadyListener.html" title="interface in com.here.sdk.mapview">MapView.OnReadyListener</a> readyListener)</span></div>
 <div class="block">Sets the OnReadyListener, which will be notified once MapView initialization has
  been finished. It is highly recommended to put code that accesses map view related
- functionality inside <a href="sdk-for-android-explore-mapview.onreadylistener#onMapViewReady()"><code>MapView.OnReadyListener.onMapViewReady()</code></a> instead of directly in
+ functionality inside <a href="MapView.OnReadyListener.html#onMapViewReady()"><code>MapView.OnReadyListener.onMapViewReady()</code></a> instead of directly in
  <code>Activity</code>'s <code>onResume()</code>.</div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -423,7 +423,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
  int width,
  int height,
  @NonNull
- <a href="sdk-for-android-explore-mapsurface.renderlistener" title="interface in com.here.sdk.mapview">MapSurface.RenderListener</a> renderListener)</span></div>
+ <a href="MapSurface.RenderListener.html" title="interface in com.here.sdk.mapview">MapSurface.RenderListener</a> renderListener)</span></div>
 <div class="block">Sets the surface on which the map will be rendered. Throws exception if the surface
  cannot be used by HERESDK.
 
@@ -464,11 +464,11 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <section class="detail" id="pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)">
 <h3>pick</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">pick</span><wbr/><span class="parameters">(@Nullable
- <a href="sdk-for-android-explore-mapscene.mappickfilter" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a> filter,
+ <a href="MapScene.MapPickFilter.html" title="class in com.here.sdk.mapview">MapScene.MapPickFilter</a> filter,
  @NonNull
- <a href="sdk-for-android-explore-core-rectangle2d" title="class in com.here.sdk.core">Rectangle2D</a> viewArea,
+ <a href="../core/Rectangle2D.html" title="class in com.here.sdk.core">Rectangle2D</a> viewArea,
  @NonNull
- <a href="sdk-for-android-explore-mapviewbase.mappickcallback" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a> callback)</span></div>
+ <a href="MapViewBase.MapPickCallback.html" title="interface in com.here.sdk.mapview">MapViewBase.MapPickCallback</a> callback)</span></div>
 <div class="block"><p>Returns all map content located inside the specified pick area. Content to be picked is
  specified by a pick content filter.
  The pick area is defined by a rectangle in map view coordinates
@@ -476,7 +476,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
  of the map view.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-mapviewbase#pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)">pick</a></code> in interface <code><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="MapViewBase.html#pick(com.here.sdk.mapview.MapScene.MapPickFilter,com.here.sdk.core.Rectangle2D,com.here.sdk.mapview.MapViewBase.MapPickCallback)">pick</a></code> in interface <code><a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>filter</code> - <p>Filter for the map content to be picked. When a filter is not set all of the
               pickable content will be picked.</p></dd>
@@ -494,8 +494,8 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <section class="detail" id="geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)">
 <h3>geoToViewCoordinates</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-point2d" title="class in com.here.sdk.core">Point2D</a></span> <span class="element-name">geoToViewCoordinates</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/Point2D.html" title="class in com.here.sdk.core">Point2D</a></span> <span class="element-name">geoToViewCoordinates</span><wbr/><span class="parameters">(@NonNull
+ <a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> geoCoordinates)</span></div>
 <div class="block">Converts geographical coordinates to view coordinates (in pixels).
  <p>
  If specified, altitude of the input coordinates is interpreted as altitude above sea level.
@@ -507,7 +507,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
  not attached, it will return <code>null</code>.</p></p></p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-mapviewbase#geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)">geoToViewCoordinates</a></code> in interface <code><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="MapViewBase.html#geoToViewCoordinates(com.here.sdk.core.GeoCoordinates)">geoToViewCoordinates</a></code> in interface <code><a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>geoCoordinates</code> - <p>Geographical coordinates to convert.</p></dd>
 <dt>Returns:</dt>
@@ -518,7 +518,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-mapview.onreadylistener" title="interface in com.here.sdk.mapview"><code>MapView.OnReadyListener</code></a></li>
+<li><a href="MapView.OnReadyListener.html" title="interface in com.here.sdk.mapview"><code>MapView.OnReadyListener</code></a></li>
 </ul>
 </dd>
 </dl>
@@ -528,12 +528,12 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <section class="detail" id="addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">
 <h3>addLifecycleListener</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">addLifecycleListener</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</span></div>
-<div class="block"><p>Adds a <a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> to this map view.
+ <a href="MapViewLifecycleListener.html" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</span></div>
+<div class="block"><p>Adds a <a href="MapViewLifecycleListener.html" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> to this map view.
  Adding the same object multiple times has no effect.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-mapviewbase#addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">addLifecycleListener</a></code> in interface <code><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="MapViewBase.html#addLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">addLifecycleListener</a></code> in interface <code><a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>lifecycleListener</code> - <p>An object to be notified of lifecycle events.</p></dd>
 <dt>Throws:</dt>
@@ -545,13 +545,13 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <section class="detail" id="removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">
 <h3>removeLifecycleListener</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">removeLifecycleListener</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</span></div>
-<div class="block"><p>Removes a <a href="sdk-for-android-explore-mapviewlifecyclelistener" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> from this map view.
+ <a href="MapViewLifecycleListener.html" title="interface in com.here.sdk.mapview">MapViewLifecycleListener</a> lifecycleListener)</span></div>
+<div class="block"><p>Removes a <a href="MapViewLifecycleListener.html" title="interface in com.here.sdk.mapview"><code>MapViewLifecycleListener</code></a> from this map view.
  Trying to remove an object that was not added or was removed before
  has no effect.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-mapviewbase#removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">removeLifecycleListener</a></code> in interface <code><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="MapViewBase.html#removeLifecycleListener(com.here.sdk.mapview.MapViewLifecycleListener)">removeLifecycleListener</a></code> in interface <code><a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>lifecycleListener</code> - <p>An object to stop being notified of lifecycle events.</p></dd>
 <dt>Throws:</dt>
@@ -577,8 +577,8 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <section class="detail" id="viewToGeoCoordinates(com.here.sdk.core.Point2D)">
 <h3>viewToGeoCoordinates</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">viewToGeoCoordinates</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-core-point2d" title="class in com.here.sdk.core">Point2D</a> viewCoordinates)</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">viewToGeoCoordinates</span><wbr/><span class="parameters">(@NonNull
+ <a href="../core/Point2D.html" title="class in com.here.sdk.core">Point2D</a> viewCoordinates)</span></div>
 <div class="block">Converts view coordinates to geographical coordinates.
  <p>
  An optional altitude component of the resulting geographical coordinate is not set.
@@ -595,7 +595,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
  If the render surface is not attached, it will return <code>null</code>.</p></p></p></p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-mapviewbase#viewToGeoCoordinates(com.here.sdk.core.Point2D)">viewToGeoCoordinates</a></code> in interface <code><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="MapViewBase.html#viewToGeoCoordinates(com.here.sdk.core.Point2D)">viewToGeoCoordinates</a></code> in interface <code><a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>viewCoordinates</code> - <p>Point inside the view to convert.</p></dd>
 <dt>Returns:</dt>
@@ -606,7 +606,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-mapview.onreadylistener" title="interface in com.here.sdk.mapview"><code>MapView.OnReadyListener</code></a></li>
+<li><a href="MapView.OnReadyListener.html" title="interface in com.here.sdk.mapview"><code>MapView.OnReadyListener</code></a></li>
 </ul>
 </dd>
 </dl>
@@ -616,14 +616,14 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <section class="detail" id="getGestures()">
 <h3>getGestures</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-gestures-gestures" title="class in com.here.sdk.gestures">Gestures</a></span> <span class="element-name">getGestures</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../gestures/Gestures.html" title="class in com.here.sdk.gestures">Gestures</a></span> <span class="element-name">getGestures</span>()</div>
 <div class="block">Returns the gestures control object. Please note that there is no gesture support for the
  MapSurface at this point.</div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-mapviewbase#getGestures()">getGestures</a></code> in interface <code><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="MapViewBase.html#getGestures()">getGestures</a></code> in interface <code><a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
-<dd>the <a href="sdk-for-android-explore-gestures-gestures" title="class in com.here.sdk.gestures"><code>Gestures</code></a> control object</dd>
+<dd>the <a href="../gestures/Gestures.html" title="class in com.here.sdk.gestures"><code>Gestures</code></a> control object</dd>
 <dt>Throws:</dt>
 <dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if MapSurface object is not valid.</dd>
 </dl>
@@ -642,7 +642,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <p>dp = px / pixel_scale.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-mapviewbase#getPixelScale()">getPixelScale</a></code> in interface <code><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="MapViewBase.html#getPixelScale()">getPixelScale</a></code> in interface <code><a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
 <dd>current pixel scale factor, or 0.0 if MapView is not initialized</dd>
 <dt>Throws:</dt>
@@ -653,11 +653,11 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <li>
 <section class="detail" id="getViewportSize()">
 <h3>getViewportSize</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-size2d" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">getViewportSize</span>()</div>
+<div class="member-signature"><span class="modifiers">public</span> <span class="return-type"><a href="../core/Size2D.html" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">getViewportSize</span>()</div>
 <div class="block">Returns the viewport size of this MapView in physical pixels.</div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-mapviewbase#getViewportSize()">getViewportSize</a></code> in interface <code><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="MapViewBase.html#getViewportSize()">getViewportSize</a></code> in interface <code><a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
 <dd>The viewport size in physical pixels</dd>
 <dt>Throws:</dt>
@@ -673,7 +673,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
  second.</div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-mapviewbase#getFrameRate()">getFrameRate</a></code> in interface <code><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="MapViewBase.html#getFrameRate()">getFrameRate</a></code> in interface <code><a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
 <dd>Actual maximal render frame rate</dd>
 <dt>Throws:</dt>
@@ -688,7 +688,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <div class="block">Sets maximum render frame rate in frames per second.</div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-mapviewbase#setFrameRate(int)">setFrameRate</a></code> in interface <code><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="MapViewBase.html#setFrameRate(int)">setFrameRate</a></code> in interface <code><a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>value</code> - Maximum render frame rate in frames per second. Setting to 0 disables automatic
  rendering for this view. Setting negative values has no effect.</dd>
@@ -700,7 +700,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <li>
 <section class="detail" id="takeScreenshot(com.here.sdk.mapview.MapView.TakeScreenshotCallback)">
 <h3>takeScreenshot</h3>
-<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">takeScreenshot</span><wbr/><span class="parameters">(<a href="sdk-for-android-explore-mapview.takescreenshotcallback" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a> callback)</span></div>
+<div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">takeScreenshot</span><wbr/><span class="parameters">(<a href="MapView.TakeScreenshotCallback.html" title="interface in com.here.sdk.mapview">MapView.TakeScreenshotCallback</a> callback)</span></div>
 <div class="block">Asynchronously retrieves screenshot of current map view</div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -712,9 +712,9 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <section class="detail" id="setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)">
 <h3>setWatermarkLocation</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="return-type">void</span> <span class="element-name">setWatermarkLocation</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-core-anchor2d" title="class in com.here.sdk.core">Anchor2D</a> anchor,
+ <a href="../core/Anchor2D.html" title="class in com.here.sdk.core">Anchor2D</a> anchor,
  @NonNull
- <a href="sdk-for-android-explore-core-point2d" title="class in com.here.sdk.core">Point2D</a> offset)</span></div>
+ <a href="../core/Point2D.html" title="class in com.here.sdk.core">Point2D</a> offset)</span></div>
 <div class="block"><p>Sets the position of the HERE logo watermark within the map view.
 
  By default, the watermark is aligned to the bottom-right corner of the view:
@@ -726,7 +726,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
  shown.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-mapviewbase#setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)">setWatermarkLocation</a></code> in interface <code><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="MapViewBase.html#setWatermarkLocation(com.here.sdk.core.Anchor2D,com.here.sdk.core.Point2D)">setWatermarkLocation</a></code> in interface <code><a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Parameters:</dt>
 <dd><code>anchor</code> - <p>Anchor point in normalized view coordinates [0, 1]. Map view's origin at
      (0, 0) indicates a top-left corner of the map view.
@@ -750,11 +750,11 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <section class="detail" id="getWatermarkSize()">
 <h3>getWatermarkSize</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-size2d" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">getWatermarkSize</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/Size2D.html" title="class in com.here.sdk.core">Size2D</a></span> <span class="element-name">getWatermarkSize</span>()</div>
 <div class="block"><p>Returns the watermark size in physical pixels.</p></div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-mapviewbase#getWatermarkSize()">getWatermarkSize</a></code> in interface <code><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="MapViewBase.html#getWatermarkSize()">getWatermarkSize</a></code> in interface <code><a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
 <dd><p>Provides the size of the watermark in physical pixels.</p></dd>
 <dt>Throws:</dt>
@@ -765,7 +765,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <li>
 <section class="detail" id="setShadowQuality(com.here.sdk.mapview.ShadowQuality)">
 <h3>setShadowQuality</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setShadowQuality</span><wbr/><span class="parameters">(<a href="sdk-for-android-explore-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a> shadowQuality)</span></div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type">void</span> <span class="element-name">setShadowQuality</span><wbr/><span class="parameters">(<a href="ShadowQuality.html" title="enum class in com.here.sdk.mapview">ShadowQuality</a> shadowQuality)</span></div>
 <div class="block">Set desired shadow quality for all instances of MapSurface/MapView.
  The quality controls the size of the shadow maps and the cascade count.
  The default shadow quality is <code>ShadowQuality.MEDIUM</code>.
@@ -784,7 +784,7 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <li>
 <section class="detail" id="getShadowQuality()">
 <h3>getShadowQuality</h3>
-<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="sdk-for-android-explore-shadowquality" title="enum class in com.here.sdk.mapview">ShadowQuality</a></span> <span class="element-name">getShadowQuality</span>()</div>
+<div class="member-signature"><span class="modifiers">public static</span> <span class="return-type"><a href="ShadowQuality.html" title="enum class in com.here.sdk.mapview">ShadowQuality</a></span> <span class="element-name">getShadowQuality</span>()</div>
 <div class="block">Gets the currently set shadow quality.
  The default shadow quality is <code>ShadowQuality.MEDIUM</code>.
  Note: This feature is in beta state and thus there can be bugs and unexpected behavior.</div>
@@ -800,13 +800,13 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <section class="detail" id="getCamera()">
 <h3>getCamera</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapcamera" title="class in com.here.sdk.mapview">MapCamera</a></span> <span class="element-name">getCamera</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="MapCamera.html" title="class in com.here.sdk.mapview">MapCamera</a></span> <span class="element-name">getCamera</span>()</div>
 <div class="block">Returns the camera control object for the map</div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-mapviewbase#getCamera()">getCamera</a></code> in interface <code><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="MapViewBase.html#getCamera()">getCamera</a></code> in interface <code><a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
-<dd>the <a href="sdk-for-android-explore-mapcamera" title="class in com.here.sdk.mapview"><code>MapCamera</code></a> object for the map</dd>
+<dd>the <a href="MapCamera.html" title="class in com.here.sdk.mapview"><code>MapCamera</code></a> object for the map</dd>
 <dt>Throws:</dt>
 <dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if MapSurface object is not valid.</dd>
 </dl>
@@ -816,15 +816,15 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <section class="detail" id="getMapScene()">
 <h3>getMapScene</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview">MapScene</a></span> <span class="element-name">getMapScene</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="MapScene.html" title="class in com.here.sdk.mapview">MapScene</a></span> <span class="element-name">getMapScene</span>()</div>
 <div class="block">Gets the map scene associated with this map view.
  This can be used to request different map schemes to be displayed in the map view, and to
  add and remove map items from the map.</div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-mapviewbase#getMapScene()">getMapScene</a></code> in interface <code><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="MapViewBase.html#getMapScene()">getMapScene</a></code> in interface <code><a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
-<dd>the <a href="sdk-for-android-explore-mapscene" title="class in com.here.sdk.mapview"><code>MapScene</code></a> associated with this map view.</dd>
+<dd>the <a href="MapScene.html" title="class in com.here.sdk.mapview"><code>MapScene</code></a> associated with this map view.</dd>
 <dt>Throws:</dt>
 <dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if MapSurface object is not valid.</dd>
 </dl>
@@ -834,13 +834,13 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <section class="detail" id="getMapContext()">
 <h3>getMapContext</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview">MapContext</a></span> <span class="element-name">getMapContext</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="MapContext.html" title="class in com.here.sdk.mapview">MapContext</a></span> <span class="element-name">getMapContext</span>()</div>
 <div class="block">Gets the map context associated with this map view.</div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-mapviewbase#getMapContext()">getMapContext</a></code> in interface <code><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="MapViewBase.html#getMapContext()">getMapContext</a></code> in interface <code><a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
-<dd>the <a href="sdk-for-android-explore-mapcontext" title="class in com.here.sdk.mapview"><code>MapContext</code></a> associated with this map view.</dd>
+<dd>the <a href="MapContext.html" title="class in com.here.sdk.mapview"><code>MapContext</code></a> associated with this map view.</dd>
 <dt>Throws:</dt>
 <dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if MapSurface object is not valid.</dd>
 </dl>
@@ -850,13 +850,13 @@ implements <a href="sdk-for-android-explore-mapviewbase" title="interface in com
 <section class="detail" id="getHereMap()">
 <h3>getHereMap</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-heremap" title="class in com.here.sdk.mapview">HereMap</a></span> <span class="element-name">getHereMap</span>()</div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="HereMap.html" title="class in com.here.sdk.mapview">HereMap</a></span> <span class="element-name">getHereMap</span>()</div>
 <div class="block">Gets the HereMap associated with this map view.</div>
 <dl class="notes">
 <dt>Specified by:</dt>
-<dd><code><a href="sdk-for-android-explore-mapviewbase#getHereMap()">getHereMap</a></code> in interface <code><a href="sdk-for-android-explore-mapviewbase" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
+<dd><code><a href="MapViewBase.html#getHereMap()">getHereMap</a></code> in interface <code><a href="MapViewBase.html" title="interface in com.here.sdk.mapview">MapViewBase</a></code></dd>
 <dt>Returns:</dt>
-<dd>the <a href="sdk-for-android-explore-heremap" title="class in com.here.sdk.mapview"><code>HereMap</code></a> associated with this map view.</dd>
+<dd>the <a href="HereMap.html" title="class in com.here.sdk.mapview"><code>HereMap</code></a> associated with this map view.</dd>
 <dt>Throws:</dt>
 <dd><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/IllegalStateException.html" title="class or interface in java.lang">IllegalStateException</a></code> - if MapSurface object is not valid.</dd>
 </dl>

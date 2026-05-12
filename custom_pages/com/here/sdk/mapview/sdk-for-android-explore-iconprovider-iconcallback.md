@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-iconprovider-iconcallback"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,13 +55,13 @@ slug: "sdk-for-android-explore-iconprovider-iconcallback"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.mapview</a></div>
 
 </div>
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-iconprovider" title="class in com.here.sdk.mapview">IconProvider</a></dd>
+<dd><a href="IconProvider.html" title="class in com.here.sdk.mapview">IconProvider</a></dd>
 </dl>
 <dl class="notes">
 <dt>Functional Interface:</dt>
@@ -89,7 +89,7 @@ slug: "sdk-for-android-explore-iconprovider-iconcallback"
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
 <div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#onCreateIconReply(android.graphics.Bitmap,java.lang.String,com.here.sdk.mapview.IconProviderError)">onCreateIconReply</a><wbr/>(android.graphics.Bitmap bitmap,
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> description,
- <a href="sdk-for-android-explore-iconprovidererror" title="enum class in com.here.sdk.mapview">IconProviderError</a> error)</code></div>
+ <a href="IconProviderError.html" title="enum class in com.here.sdk.mapview">IconProviderError</a> error)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">Called when the image was created successfully or an error has occurred</div>
 </div>
@@ -115,7 +115,7 @@ slug: "sdk-for-android-explore-iconprovider-iconcallback"
  @Nullable
  <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a> description,
  @Nullable
- <a href="sdk-for-android-explore-iconprovidererror" title="enum class in com.here.sdk.mapview">IconProviderError</a> error)</span></div>
+ <a href="IconProviderError.html" title="enum class in com.here.sdk.mapview">IconProviderError</a> error)</span></div>
 <div class="block">Called when the image was created successfully or an error has occurred</div>
 <dl class="notes">
 <dt>Parameters:</dt>

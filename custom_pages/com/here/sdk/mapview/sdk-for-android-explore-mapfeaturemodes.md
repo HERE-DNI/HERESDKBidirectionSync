@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-mapfeaturemodes"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-mapfeaturemodes"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.mapview</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.mapview</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -65,12 +65,12 @@ slug: "sdk-for-android-explore-mapfeaturemodes"
 <hr/>
 <div class="type-signature"><span class="modifiers">public final class </span><span class="element-name type-name-label">MapFeatureModes</span>
 <span class="extends-implements">extends <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">Object</a></span></div>
-<div class="block"><p>Holds constants for map feature modes, to be used with <a href="sdk-for-android-explore-mapscene#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>.
+<div class="block"><p>Holds constants for map feature modes, to be used with <a href="MapScene.html#enableFeatures(java.util.Map)"><code>MapScene.enableFeatures(java.util.Map&lt;java.lang.String, java.lang.String&gt;)</code></a>.
  <p>Use <a href="#DEFAULT"><code>DEFAULT</code></a> to enable a feature with its default mode.
  <p>Note: The default mode is defined by the currently loaded map scene configuration and
- may vary per <a href="sdk-for-android-explore-mapscheme" title="enum class in com.here.sdk.mapview"><code>MapScheme</code></a>. The currently active features and modes can be inspected
- using <a href="sdk-for-android-explore-mapscene#getActiveFeatures()"><code>MapScene.getActiveFeatures()</code></a> after the scene is loaded.
- <p>See <a href="sdk-for-android-explore-mapfeatures" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> for constants representing the feature names.</p></p></p></p></div>
+ may vary per <a href="MapScheme.html" title="enum class in com.here.sdk.mapview"><code>MapScheme</code></a>. The currently active features and modes can be inspected
+ using <a href="MapScene.html#getActiveFeatures()"><code>MapScene.getActiveFeatures()</code></a> after the scene is loaded.
+ <p>See <a href="MapFeatures.html" title="class in com.here.sdk.mapview"><code>MapFeatures</code></a> for constants representing the feature names.</p></p></p></p></div>
 </section>
 <section class="summary">
 <ul class="summary-list">
@@ -201,7 +201,7 @@ slug: "sdk-for-android-explore-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.DEFAULT">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.mapview.MapFeatureModes.DEFAULT">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -216,7 +216,7 @@ slug: "sdk-for-android-explore-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.BUILDING_FOOTPRINTS_ALL">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.mapview.MapFeatureModes.BUILDING_FOOTPRINTS_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -231,7 +231,7 @@ slug: "sdk-for-android-explore-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.CONGESTION_ZONES_ALL">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.mapview.MapFeatureModes.CONGESTION_ZONES_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -246,7 +246,7 @@ slug: "sdk-for-android-explore-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.EXTRUDED_BUILDINGS_ALL">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.mapview.MapFeatureModes.EXTRUDED_BUILDINGS_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -261,7 +261,7 @@ slug: "sdk-for-android-explore-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.ENVIRONMENTAL_ZONES_ALL">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.mapview.MapFeatureModes.ENVIRONMENTAL_ZONES_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -276,7 +276,7 @@ slug: "sdk-for-android-explore-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.LOW_SPEED_ZONES_ALL">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.mapview.MapFeatureModes.LOW_SPEED_ZONES_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -296,7 +296,7 @@ slug: "sdk-for-android-explore-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_FLOW_JAPAN_WITHOUT_FREE_FLOW">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -311,7 +311,7 @@ slug: "sdk-for-android-explore-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_FLOW_WITH_FREE_FLOW">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_FLOW_WITH_FREE_FLOW">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -326,7 +326,7 @@ slug: "sdk-for-android-explore-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_FLOW_WITHOUT_FREE_FLOW">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_FLOW_WITHOUT_FREE_FLOW">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -341,7 +341,7 @@ slug: "sdk-for-android-explore-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_INCIDENTS_ALL">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_INCIDENTS_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -356,7 +356,7 @@ slug: "sdk-for-android-explore-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_LIGHTS_ALL">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.mapview.MapFeatureModes.TRAFFIC_LIGHTS_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -371,7 +371,7 @@ slug: "sdk-for-android-explore-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.ROAD_EXIT_LABELS_NUMBERS_ONLY">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.mapview.MapFeatureModes.ROAD_EXIT_LABELS_NUMBERS_ONLY">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -386,7 +386,7 @@ slug: "sdk-for-android-explore-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.ROAD_EXIT_LABELS_ALL">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.mapview.MapFeatureModes.ROAD_EXIT_LABELS_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -403,7 +403,7 @@ slug: "sdk-for-android-explore-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.SHADOWS_ALL">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.mapview.MapFeatureModes.SHADOWS_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>
@@ -420,7 +420,7 @@ slug: "sdk-for-android-explore-mapfeaturemodes"
 <dt>See Also:</dt>
 <dd>
 <ul class="see-list">
-<li><a href="sdk-for-android-explore-constant-values#com.here.sdk.mapview.MapFeatureModes.AMBIENT_OCCLUSION_ALL">Constant Field Values</a></li>
+<li><a href="../../../../constant-values.html#com.here.sdk.mapview.MapFeatureModes.AMBIENT_OCCLUSION_ALL">Constant Field Values</a></li>
 </ul>
 </dd>
 </dl>

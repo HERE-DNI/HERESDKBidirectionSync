@@ -14,7 +14,7 @@ slug: "sdk-for-android-explore-overview-summary"
 <body class="index-redirect-page">
 <main role="main">
 
-<p><a href="sdk-for-android-explore-index">index.html</a></p>
+<p><a href="index.html">index.html</a></p>
 </main>
 </body>
 </html>

@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-categoryquery-area"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-categoryquery-area"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -64,7 +64,7 @@ slug: "sdk-for-android-explore-categoryquery-area"
 <section class="class-description" id="class-description">
 <dl class="notes">
 <dt>Enclosing class:</dt>
-<dd><a href="sdk-for-android-explore-categoryquery" title="class in com.here.sdk.search">CategoryQuery</a></dd>
+<dd><a href="CategoryQuery.html" title="class in com.here.sdk.search">CategoryQuery</a></dd>
 </dl>
 <hr/>
 <div class="type-signature"><span class="modifiers">public static final class </span><span class="element-name type-name-label">CategoryQuery.Area</span>
@@ -82,22 +82,22 @@ slug: "sdk-for-android-explore-categoryquery-area"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code>final <a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
+<div class="col-first even-row-color"><code>final <a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#areaCenter">areaCenter</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Geographic coordinates of the center around which to provide the most relevant places.</div>
 </div>
-<div class="col-first odd-row-color"><code>final <a href="sdk-for-android-explore-core-geobox" title="class in com.here.sdk.core">GeoBox</a></code></div>
+<div class="col-first odd-row-color"><code>final <a href="../core/GeoBox.html" title="class in com.here.sdk.core">GeoBox</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#boxArea">boxArea</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Geographic rectangle area in which to provide the most relevant places.</div>
 </div>
-<div class="col-first even-row-color"><code>final <a href="sdk-for-android-explore-core-geocircle" title="class in com.here.sdk.core">GeoCircle</a></code></div>
+<div class="col-first even-row-color"><code>final <a href="../core/GeoCircle.html" title="class in com.here.sdk.core">GeoCircle</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#circleArea">circleArea</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Geographic circle area in which to provide the most relevant places.</div>
 </div>
-<div class="col-first odd-row-color"><code>final <a href="sdk-for-android-explore-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a></code></div>
+<div class="col-first odd-row-color"><code>final <a href="../core/GeoCorridor.html" title="class in com.here.sdk.core">GeoCorridor</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#corridorArea">corridorArea</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Geographic corridor area in which to provide the most relevant places.</div>
@@ -113,22 +113,22 @@ slug: "sdk-for-android-explore-categoryquery-area"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Constructor</div>
 <div class="table-header col-last">Description</div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">Area</a><wbr/>(<a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.GeoCoordinates)">Area</a><wbr/>(<a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoBox)">Area</a><wbr/>(<a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter,
- <a href="sdk-for-android-explore-core-geobox" title="class in com.here.sdk.core">GeoBox</a> boxArea)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoBox)">Area</a><wbr/>(<a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter,
+ <a href="../core/GeoBox.html" title="class in com.here.sdk.core">GeoBox</a> boxArea)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoCircle)">Area</a><wbr/>(<a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter,
- <a href="sdk-for-android-explore-core-geocircle" title="class in com.here.sdk.core">GeoCircle</a> circleArea)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoCircle)">Area</a><wbr/>(<a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter,
+ <a href="../core/GeoCircle.html" title="class in com.here.sdk.core">GeoCircle</a> circleArea)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.GeoCorridor,com.here.sdk.core.GeoCoordinates)">Area</a><wbr/>(<a href="sdk-for-android-explore-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> corridorArea,
- <a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(com.here.sdk.core.GeoCorridor,com.here.sdk.core.GeoCoordinates)">Area</a><wbr/>(<a href="../core/GeoCorridor.html" title="class in com.here.sdk.core">GeoCorridor</a> corridorArea,
+ <a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Constructs a new instance of this class from provided parameters.</div>
 </div>
@@ -173,7 +173,7 @@ slug: "sdk-for-android-explore-categoryquery-area"
 <section class="detail" id="areaCenter">
 <h3>areaCenter</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">areaCenter</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a></span> <span class="element-name">areaCenter</span></div>
 <div class="block"><p>Geographic coordinates of the center around which to provide the most relevant places.</p></div>
 </section>
 </li>
@@ -181,7 +181,7 @@ slug: "sdk-for-android-explore-categoryquery-area"
 <section class="detail" id="boxArea">
 <h3>boxArea</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-core-geobox" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">boxArea</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a href="../core/GeoBox.html" title="class in com.here.sdk.core">GeoBox</a></span> <span class="element-name">boxArea</span></div>
 <div class="block"><p>Geographic rectangle area in which to provide the most relevant places.</p></div>
 </section>
 </li>
@@ -189,7 +189,7 @@ slug: "sdk-for-android-explore-categoryquery-area"
 <section class="detail" id="circleArea">
 <h3>circleArea</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-core-geocircle" title="class in com.here.sdk.core">GeoCircle</a></span> <span class="element-name">circleArea</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a href="../core/GeoCircle.html" title="class in com.here.sdk.core">GeoCircle</a></span> <span class="element-name">circleArea</span></div>
 <div class="block"><p>Geographic circle area in which to provide the most relevant places.</p></div>
 </section>
 </li>
@@ -197,7 +197,7 @@ slug: "sdk-for-android-explore-categoryquery-area"
 <section class="detail" id="corridorArea">
 <h3>corridorArea</h3>
 <div class="member-signature"><span class="annotations">@Nullable
-</span><span class="modifiers">public final</span> <span class="return-type"><a href="sdk-for-android-explore-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a></span> <span class="element-name">corridorArea</span></div>
+</span><span class="modifiers">public final</span> <span class="return-type"><a href="../core/GeoCorridor.html" title="class in com.here.sdk.core">GeoCorridor</a></span> <span class="element-name">corridorArea</span></div>
 <div class="block"><p>Geographic corridor area in which to provide the most relevant places.
  The contained polyline and half-width define the area that will be used in a search query.
  <p>When used with <code>SearchEngine</code>, the polyline is compressed and sent.
@@ -226,7 +226,7 @@ slug: "sdk-for-android-explore-categoryquery-area"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates)">
 <h3>Area</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Area</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</span></div>
+ <a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</span></div>
 <div class="block"><p>Constructs a new instance of this class from provided parameters.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -238,9 +238,9 @@ slug: "sdk-for-android-explore-categoryquery-area"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoBox)">
 <h3>Area</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Area</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter,
+ <a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter,
  @NonNull
- <a href="sdk-for-android-explore-core-geobox" title="class in com.here.sdk.core">GeoBox</a> boxArea)</span></div>
+ <a href="../core/GeoBox.html" title="class in com.here.sdk.core">GeoBox</a> boxArea)</span></div>
 <div class="block"><p>Constructs a new instance of this class from provided parameters.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -253,9 +253,9 @@ slug: "sdk-for-android-explore-categoryquery-area"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCoordinates,com.here.sdk.core.GeoCircle)">
 <h3>Area</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Area</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter,
+ <a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter,
  @NonNull
- <a href="sdk-for-android-explore-core-geocircle" title="class in com.here.sdk.core">GeoCircle</a> circleArea)</span></div>
+ <a href="../core/GeoCircle.html" title="class in com.here.sdk.core">GeoCircle</a> circleArea)</span></div>
 <div class="block"><p>Constructs a new instance of this class from provided parameters.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -268,9 +268,9 @@ slug: "sdk-for-android-explore-categoryquery-area"
 <section class="detail" id="&lt;init&gt;(com.here.sdk.core.GeoCorridor,com.here.sdk.core.GeoCoordinates)">
 <h3>Area</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">Area</span><wbr/><span class="parameters">(@NonNull
- <a href="sdk-for-android-explore-core-geocorridor" title="class in com.here.sdk.core">GeoCorridor</a> corridorArea,
+ <a href="../core/GeoCorridor.html" title="class in com.here.sdk.core">GeoCorridor</a> corridorArea,
  @NonNull
- <a href="sdk-for-android-explore-core-geocoordinates" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</span></div>
+ <a href="../core/GeoCoordinates.html" title="class in com.here.sdk.core">GeoCoordinates</a> areaCenter)</span></div>
 <div class="block"><p>Constructs a new instance of this class from provided parameters.
  The given corridor and center define the area that will be used in the search query.
  <p>When used with <code>SearchEngine</code>, the polyline is compressed and sent.

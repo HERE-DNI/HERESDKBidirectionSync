@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-evchargingconnector"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-evchargingconnector"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.search</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -85,7 +85,7 @@ slug: "sdk-for-android-explore-evchargingconnector"
 <div class="col-last even-row-color">
 <div class="block">Standardized type of the connector.</div>
 </div>
-<div class="col-first odd-row-color"><code><a href="sdk-for-android-explore-ev-evchargingconnectorformat" title="enum class in com.here.sdk.ev">EVChargingConnectorFormat</a></code></div>
+<div class="col-first odd-row-color"><code><a href="../ev/EVChargingConnectorFormat.html" title="enum class in com.here.sdk.ev">EVChargingConnectorFormat</a></code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#format">format</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Format of the connector, whether it is a socket or a cable.</div>
@@ -110,7 +110,7 @@ slug: "sdk-for-android-explore-evchargingconnector"
 <div class="col-last odd-row-color">
 <div class="block">Max voltage (in volts) of the connector.</div>
 </div>
-<div class="col-first even-row-color"><code><a href="sdk-for-android-explore-core-powertype" title="enum class in com.here.sdk.core">PowerType</a></code></div>
+<div class="col-first even-row-color"><code><a href="../core/PowerType.html" title="enum class in com.here.sdk.core">PowerType</a></code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#powerType">powerType</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Type of electrical power used by the connector.</div>
@@ -191,14 +191,14 @@ slug: "sdk-for-android-explore-evchargingconnector"
 <div class="member-signature"><span class="annotations">@NonNull
 </span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html" title="class or interface in java.lang">String</a></span> <span class="element-name">connectorType</span></div>
 <div class="block"><p>Standardized type of the connector.
- Should be one of the constants defined in <a href="sdk-for-android-explore-ev-evchargingconnectortype" title="class in com.here.sdk.ev"><code>EVChargingConnectorType</code></a>.</p></div>
+ Should be one of the constants defined in <a href="../ev/EVChargingConnectorType.html" title="class in com.here.sdk.ev"><code>EVChargingConnectorType</code></a>.</p></div>
 </section>
 </li>
 <li>
 <section class="detail" id="format">
 <h3>format</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-ev-evchargingconnectorformat" title="enum class in com.here.sdk.ev">EVChargingConnectorFormat</a></span> <span class="element-name">format</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../ev/EVChargingConnectorFormat.html" title="enum class in com.here.sdk.ev">EVChargingConnectorFormat</a></span> <span class="element-name">format</span></div>
 <div class="block"><p>Format of the connector, whether it is a socket or a cable.</p></div>
 </section>
 </li>
@@ -206,7 +206,7 @@ slug: "sdk-for-android-explore-evchargingconnector"
 <section class="detail" id="powerType">
 <h3>powerType</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a href="sdk-for-android-explore-core-powertype" title="enum class in com.here.sdk.core">PowerType</a></span> <span class="element-name">powerType</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a href="../core/PowerType.html" title="enum class in com.here.sdk.core">PowerType</a></span> <span class="element-name">powerType</span></div>
 <div class="block"><p>Type of electrical power used by the connector.</p></div>
 </section>
 </li>

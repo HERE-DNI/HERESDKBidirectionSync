@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-package-summary"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
 <li class="nav-bar-cell1-rev">Package</li>
 <li>Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#package">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#package">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -60,55 +60,55 @@ slug: "sdk-for-android-explore-com-here-sdk-gestures-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Class</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-explore-doubletaplistener" title="interface in com.here.sdk.gestures">DoubleTapListener</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="DoubleTapListener.html" title="interface in com.here.sdk.gestures">DoubleTapListener</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">Interface for handling double tap gestures.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-flinghandler" title="class in com.here.sdk.gestures">FlingHandler</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="FlingHandler.html" title="class in com.here.sdk.gestures">FlingHandler</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">This class handles fling events by performing a kinetic move on the map.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-gestures" title="class in com.here.sdk.gestures">Gestures</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="Gestures.html" title="class in com.here.sdk.gestures">Gestures</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">Use this class to process touch events from the platform and detect gesture induced actions on the map view.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab3"><a href="sdk-for-android-explore-gesturestate" title="enum class in com.here.sdk.gestures">GestureState</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab3"><a href="GestureState.html" title="enum class in com.here.sdk.gestures">GestureState</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab3">
 <div class="block">Represents the state of the gesture.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab3"><a href="sdk-for-android-explore-gesturetype" title="enum class in com.here.sdk.gestures">GestureType</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab3"><a href="GestureType.html" title="enum class in com.here.sdk.gestures">GestureType</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab3">
 <div class="block">Enum that represents the type of a gesture.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-explore-longpresslistener" title="interface in com.here.sdk.gestures">LongPressListener</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="LongPressListener.html" title="interface in com.here.sdk.gestures">LongPressListener</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">Interface for handling long-press gestures.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-explore-panlistener" title="interface in com.here.sdk.gestures">PanListener</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="PanListener.html" title="interface in com.here.sdk.gestures">PanListener</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">Interface for handling pan gestures.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-explore-pinchrotatelistener" title="interface in com.here.sdk.gestures">PinchRotateListener</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="PinchRotateListener.html" title="interface in com.here.sdk.gestures">PinchRotateListener</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">Interface for handling pinch rotate gestures.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-scalehandler" title="class in com.here.sdk.gestures">ScaleHandler</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab2"><a href="ScaleHandler.html" title="class in com.here.sdk.gestures">ScaleHandler</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab2">
 <div class="block">This class handles scale events by zooming the map accordingly.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="sdk-for-android-explore-scrollhandler" title="class in com.here.sdk.gestures">ScrollHandler</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab2"><a href="ScrollHandler.html" title="class in com.here.sdk.gestures">ScrollHandler</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab2">
 <div class="block">This class handles scroll events by panning the map accordingly.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-explore-taplistener" title="interface in com.here.sdk.gestures">TapListener</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="TapListener.html" title="interface in com.here.sdk.gestures">TapListener</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">Interface for handling tap gestures.</div>
 </div>
-<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="sdk-for-android-explore-twofingerpanlistener" title="interface in com.here.sdk.gestures">TwoFingerPanListener</a></div>
+<div class="col-first odd-row-color class-summary class-summary-tab1"><a href="TwoFingerPanListener.html" title="interface in com.here.sdk.gestures">TwoFingerPanListener</a></div>
 <div class="col-last odd-row-color class-summary class-summary-tab1">
 <div class="block">Interface for handling two finger pan gestures.</div>
 </div>
-<div class="col-first even-row-color class-summary class-summary-tab1"><a href="sdk-for-android-explore-twofingertaplistener" title="interface in com.here.sdk.gestures">TwoFingerTapListener</a></div>
+<div class="col-first even-row-color class-summary class-summary-tab1"><a href="TwoFingerTapListener.html" title="interface in com.here.sdk.gestures">TwoFingerTapListener</a></div>
 <div class="col-last even-row-color class-summary class-summary-tab1">
 <div class="block">Interface for handling two finger tap gestures.</div>
 </div>

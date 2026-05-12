@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-suggestcallback"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../index-all.html">Index</a></li>
+<li><a href="../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-suggestcallback"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.search</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.search</a></div>
 
 </div>
 <section class="class-description" id="class-description">
@@ -84,8 +84,8 @@ slug: "sdk-for-android-explore-suggestcallback"
 <div class="table-header col-second">Method</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code>void</code></div>
-<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#onSuggestCompleted(com.here.sdk.search.SearchError,java.util.List)">onSuggestCompleted</a><wbr/>(<a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search">Suggestion</a>&gt; suggestions)</code></div>
+<div class="col-second even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3"><code><a class="member-name-link" href="#onSuggestCompleted(com.here.sdk.search.SearchError,java.util.List)">onSuggestCompleted</a><wbr/>(<a href="SearchError.html" title="enum class in com.here.sdk.search">SearchError</a> searchError,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="Suggestion.html" title="class in com.here.sdk.search">Suggestion</a>&gt; suggestions)</code></div>
 <div class="col-last even-row-color method-summary-table method-summary-table-tab2 method-summary-table-tab3">
 <div class="block">The method will be called on the main thread when a suggest call has been completed.</div>
 </div>
@@ -107,9 +107,9 @@ slug: "sdk-for-android-explore-suggestcallback"
 <section class="detail" id="onSuggestCompleted(com.here.sdk.search.SearchError,java.util.List)">
 <h3>onSuggestCompleted</h3>
 <div class="member-signature"><span class="return-type">void</span> <span class="element-name">onSuggestCompleted</span><wbr/><span class="parameters">(@Nullable
- <a href="sdk-for-android-explore-searcherror" title="enum class in com.here.sdk.search">SearchError</a> searchError,
+ <a href="SearchError.html" title="enum class in com.here.sdk.search">SearchError</a> searchError,
  @Nullable
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-suggestion" title="class in com.here.sdk.search">Suggestion</a>&gt; suggestions)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="Suggestion.html" title="class in com.here.sdk.search">Suggestion</a>&gt; suggestions)</span></div>
 <div class="block"><p>The method will be called on the main thread when a suggest call has been completed.
  The first argument indicates an error in case of a failure. The second argument contains the results.
  Both arguments cannot be <code>null</code> at the same time - or not <code>null</code> at the same time.</p></div>

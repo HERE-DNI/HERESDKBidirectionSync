@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-com-here-sdk-core-utilities-package-summary"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
+<li><a href="../../../../../index.html">Overview</a></li>
 <li class="nav-bar-cell1-rev">Package</li>
 <li>Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#package">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../../index-all.html">Index</a></li>
+<li><a href="../../../../../help-doc.html#package">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -59,13 +59,13 @@ slug: "sdk-for-android-explore-com-here-sdk-core-utilities-package-summary"
 <div class="summary-table two-column-summary">
 <div class="table-header col-first">Package</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><a href="sdk-for-android-explore-package-summary">com.here.sdk.core</a></div>
+<div class="col-first even-row-color"><a href="../package-summary.html">com.here.sdk.core</a></div>
 <div class="col-last even-row-color"> </div>
-<div class="col-first odd-row-color"><a href="sdk-for-android-explore-engine-package-summary">com.here.sdk.core.engine</a></div>
+<div class="col-first odd-row-color"><a href="../engine/package-summary.html">com.here.sdk.core.engine</a></div>
 <div class="col-last odd-row-color"> </div>
-<div class="col-first even-row-color"><a href="sdk-for-android-explore-errors-package-summary">com.here.sdk.core.errors</a></div>
+<div class="col-first even-row-color"><a href="../errors/package-summary.html">com.here.sdk.core.errors</a></div>
 <div class="col-last even-row-color"> </div>
-<div class="col-first odd-row-color"><a href="sdk-for-android-explore-threading-package-summary">com.here.sdk.core.threading</a></div>
+<div class="col-first odd-row-color"><a href="../threading/package-summary.html">com.here.sdk.core.threading</a></div>
 <div class="col-last odd-row-color"> </div>
 </div>
 </div>

@@ -21,13 +21,13 @@ slug: "sdk-for-android-explore-layerconfiguration"
 <div class="top-nav" id="navbar-top">
 <div class="skip-nav"><a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a></div>
 <ul class="nav-list" id="navbar-top-firstrow" title="Navigation">
-<li><a href="sdk-for-android-explore-index">Overview</a></li>
-<li><a href="sdk-for-android-explore-package-summary">Package</a></li>
+<li><a href="../../../../../index.html">Overview</a></li>
+<li><a href="package-summary.html">Package</a></li>
 <li class="nav-bar-cell1-rev">Class</li>
-<li><a href="sdk-for-android-explore-package-tree">Tree</a></li>
-<li><a href="sdk-for-android-explore-deprecated-list">Deprecated</a></li>
-<li><a href="sdk-for-android-explore-index-all">Index</a></li>
-<li><a href="sdk-for-android-explore-help-doc#class">Help</a></li>
+<li><a href="package-tree.html">Tree</a></li>
+<li><a href="../../../../../deprecated-list.html">Deprecated</a></li>
+<li><a href="../../../../../index-all.html">Index</a></li>
+<li><a href="../../../../../help-doc.html#class">Help</a></li>
 </ul>
 </div>
 <div class="sub-nav">
@@ -55,7 +55,7 @@ slug: "sdk-for-android-explore-layerconfiguration"
 <main role="main">
 <!-- ======== START OF CLASS DATA ======== -->
 <div class="header">
-<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="sdk-for-android-explore-package-summary">com.here.sdk.core.engine</a></div>
+<div class="sub-title"><span class="package-label-in-type">Package</span> <a href="package-summary.html">com.here.sdk.core.engine</a></div>
 
 </div>
 <div class="inheritance" title="Inheritance Tree"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Object.html" title="class or interface in java.lang">java.lang.Object</a>
@@ -68,8 +68,8 @@ slug: "sdk-for-android-explore-layerconfiguration"
 <div class="block"><p>A class to configure which layers should be enabled or disabled in the OCM map data.
  Disabling a layer allows to reduce the amount of data that will be
  downloaded or prefetched from the internet, for example, when panning the map view online or when downloading maps for offline use.
- <p><code>LayerConfiguration</code> changes made via <a href="sdk-for-android-explore-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a> require <code>sdk.maploader.MapUpdater</code> to align previously downloaded content.
- To ensure that the changes in <a href="sdk-for-android-explore-sdkoptions" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a> affect the map data,
+ <p><code>LayerConfiguration</code> changes made via <a href="SDKOptions.html" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a> require <code>sdk.maploader.MapUpdater</code> to align previously downloaded content.
+ To ensure that the changes in <a href="SDKOptions.html" title="class in com.here.sdk.core.engine"><code>SDKOptions</code></a> affect the map data,
  it is recommended to trigger a map update. Without calling <code>mapUpdater.updateCatalog(...)</code>,
  the adjustments will apply only to future map downloads and will not impact the currently installed map data, either in the cache or in the persisted storage.
  Note that calling <code>updateCatalog(...)</code> will
@@ -113,7 +113,7 @@ slug: "sdk-for-android-explore-layerconfiguration"
 <div class="table-header col-second">Class</div>
 <div class="table-header col-last">Description</div>
 <div class="col-first even-row-color"><code>static enum </code></div>
-<div class="col-second even-row-color"><code><a class="type-name-link" href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></code></div>
+<div class="col-second even-row-color"><code><a class="type-name-link" href="LayerConfiguration.Feature.html" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Defines a list of possible map data features that can be enabled / disabled.</div>
 </div>
@@ -129,12 +129,12 @@ slug: "sdk-for-android-explore-layerconfiguration"
 <div class="table-header col-first">Modifier and Type</div>
 <div class="table-header col-second">Field</div>
 <div class="table-header col-last">Description</div>
-<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt;</code></div>
+<div class="col-first even-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="LayerConfiguration.Feature.html" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt;</code></div>
 <div class="col-second even-row-color"><code><a class="member-name-link" href="#enabledFeatures">enabledFeatures</a></code></div>
 <div class="col-last even-row-color">
 <div class="block">Specifies feature configuration for enabling list of features enabled for map download.</div>
 </div>
-<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt;</code></div>
+<div class="col-first odd-row-color"><code><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="LayerConfiguration.Feature.html" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt;</code></div>
 <div class="col-second odd-row-color"><code><a class="member-name-link" href="#implicitlyPrefetchedFeatures">implicitlyPrefetchedFeatures</a></code></div>
 <div class="col-last odd-row-color">
 <div class="block">Specifies the list of features enabled for implicit and explicit map prefetch.</div>
@@ -154,12 +154,12 @@ slug: "sdk-for-android-explore-layerconfiguration"
 <div class="col-last even-row-color">
 <div class="block">Initializes <code>enabled_features</code>, <code>implicitly_prefetched_features</code> and <code>on_demand_implicitly_prefetched_features</code> with it's default values.</div>
 </div>
-<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(java.util.List)">LayerConfiguration</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt; enabledFeatures)</code></div>
+<div class="col-constructor-name odd-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(java.util.List)">LayerConfiguration</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="LayerConfiguration.Feature.html" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt; enabledFeatures)</code></div>
 <div class="col-last odd-row-color">
 <div class="block">Initializes both, <code>enabled_features</code> and <code>implicitly_prefetched_features</code> with value passed to constructor.</div>
 </div>
-<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(java.util.List,java.util.List)">LayerConfiguration</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt; enabledFeatures,
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt; implicitlyPrefetchedFeatures)</code></div>
+<div class="col-constructor-name even-row-color"><code><a class="member-name-link" href="#%3Cinit%3E(java.util.List,java.util.List)">LayerConfiguration</a><wbr/>(<a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="LayerConfiguration.Feature.html" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt; enabledFeatures,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="LayerConfiguration.Feature.html" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt; implicitlyPrefetchedFeatures)</code></div>
 <div class="col-last even-row-color">
 <div class="block">Creates a new instance.</div>
 </div>
@@ -204,7 +204,7 @@ slug: "sdk-for-android-explore-layerconfiguration"
 <section class="detail" id="enabledFeatures">
 <h3>enabledFeatures</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt;</span> <span class="element-name">enabledFeatures</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="LayerConfiguration.Feature.html" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt;</span> <span class="element-name">enabledFeatures</span></div>
 <div class="block"><p>Specifies feature configuration for enabling list of features enabled for map download.
  Empty list disables map download, as no map content specified for download in this case.</p></div>
 </section>
@@ -213,7 +213,7 @@ slug: "sdk-for-android-explore-layerconfiguration"
 <section class="detail" id="implicitlyPrefetchedFeatures">
 <h3>implicitlyPrefetchedFeatures</h3>
 <div class="member-signature"><span class="annotations">@NonNull
-</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt;</span> <span class="element-name">implicitlyPrefetchedFeatures</span></div>
+</span><span class="modifiers">public</span> <span class="return-type"><a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="LayerConfiguration.Feature.html" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt;</span> <span class="element-name">implicitlyPrefetchedFeatures</span></div>
 <div class="block"><p>Specifies the list of features enabled for implicit and explicit map prefetch.
  Implicit map prefetch will download map content for implicit prefetch features when showing a map in the MapView.
  <p>Allows to specify an empty list, effectively disabling implicit prefetching. In this case,
@@ -224,7 +224,7 @@ slug: "sdk-for-android-explore-layerconfiguration"
  <code>LayerConfiguration</code>. However, for new map data, it will be applied.
  <p>By default the list contains:
  <ul>
-<li><a href="sdk-for-android-explore-layerconfiguration.feature#NAVIGATION"><code>LayerConfiguration.Feature.NAVIGATION</code></a></li>
+<li><a href="LayerConfiguration.Feature.html#NAVIGATION"><code>LayerConfiguration.Feature.NAVIGATION</code></a></li>
 </ul>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></p></p></p></div>
@@ -242,7 +242,7 @@ slug: "sdk-for-android-explore-layerconfiguration"
 <section class="detail" id="&lt;init&gt;(java.util.List)">
 <h3>LayerConfiguration</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">LayerConfiguration</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt; enabledFeatures)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="LayerConfiguration.Feature.html" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt; enabledFeatures)</span></div>
 <div class="block"><p>Initializes both, <code>enabled_features</code> and <code>implicitly_prefetched_features</code> with value passed to constructor.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -261,9 +261,9 @@ slug: "sdk-for-android-explore-layerconfiguration"
 <section class="detail" id="&lt;init&gt;(java.util.List,java.util.List)">
 <h3>LayerConfiguration</h3>
 <div class="member-signature"><span class="modifiers">public</span> <span class="element-name">LayerConfiguration</span><wbr/><span class="parameters">(@NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt; enabledFeatures,
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="LayerConfiguration.Feature.html" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt; enabledFeatures,
  @NonNull
- <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="sdk-for-android-explore-layerconfiguration.feature" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt; implicitlyPrefetchedFeatures)</span></div>
+ <a class="external-link" href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/List.html" title="class or interface in java.util">List</a>&lt;<a href="LayerConfiguration.Feature.html" title="enum class in com.here.sdk.core.engine">LayerConfiguration.Feature</a>&gt; implicitlyPrefetchedFeatures)</span></div>
 <div class="block"><p>Creates a new instance.</p></div>
 <dl class="notes">
 <dt>Parameters:</dt>
@@ -279,7 +279,7 @@ slug: "sdk-for-android-explore-layerconfiguration"
  <code>LayerConfiguration</code>. However, for new map data, it will be applied.
  <p>By default the list contains:
  <ul>
-<li><a href="sdk-for-android-explore-layerconfiguration.feature#NAVIGATION"><code>LayerConfiguration.Feature.NAVIGATION</code></a></li>
+<li><a href="LayerConfiguration.Feature.html#NAVIGATION"><code>LayerConfiguration.Feature.NAVIGATION</code></a></li>
 </ul>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
  Related APIs may change for new releases without a deprecation process.</p></p></p></p></dd>
