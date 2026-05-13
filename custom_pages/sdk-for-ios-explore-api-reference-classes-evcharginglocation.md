@@ -1,5 +1,5 @@
 ---
-title: "EVChargingLocation Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-evcharginglocation"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-evcharginglocation"
 <!-- EVChargingLocation.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/EVChargingLocation"></a>
 <a title="EVChargingLocation Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-evcharginglocation"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVChargingLocation</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class EVChargingLocation</code></pre>
-<pre><code>extension EVChargingLocation: NativeBase</code></pre>
-<pre><code>extension EVChargingLocation: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">EVChargingLocation</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">EVChargingLocation</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">EVChargingLocation</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>An electric vehicle (EV) charging location.</p>
@@ -84,7 +77,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var id: String { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">id</span><span class="p">:</span> <span class="kt">String</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -109,7 +102,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var name: String? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -138,7 +131,7 @@ Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is includ
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var cpoID: String? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">cpoID</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -163,7 +156,7 @@ Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is includ
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var evChargingOperator: EVChargingOperator? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evChargingOperator</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingoperator">EVChargingOperator</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -188,7 +181,7 @@ Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is includ
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var evChargingSubOperator: EVChargingOperator? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evChargingSubOperator</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingoperator">EVChargingOperator</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -215,7 +208,7 @@ Available only if <code>EVChargingLocationFeature.EMSPS</code> is included in
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var eMobilityServiceProviders: [EVChargingOperator] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">eMobilityServiceProviders</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingoperator">EVChargingOperator</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -242,7 +235,7 @@ Available only if <code>EVChargingLocationFeature.NEARBY</code> is included in
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var facilityTypes: [FacilityType] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">facilityTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-facilitytype">FacilityType</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -269,7 +262,7 @@ Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is includ
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var parkingType: ParkingType? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">parkingType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-parkingtype">ParkingType</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -296,7 +289,7 @@ Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is includ
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var energyMix: EnergyMix? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">energyMix</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-energymix">EnergyMix</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -323,7 +316,7 @@ Available only if <code>EVChargingLocationFeature.EVSES</code> is included in
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var evses: [EVSEInfo] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evses</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evseinfo">EVSEInfo</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -354,7 +347,7 @@ for EVSEs that accept payment without registering.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var tariffs: [EVChargingTariff] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tariffs</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingtariff">EVChargingTariff</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -382,7 +375,7 @@ Available only if <code>EVChargingLocationFeature.CONNECTOR_GROUPS</code> is inc
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var connectorGroups: [EVChargingConnectorGroup] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">connectorGroups</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingconnectorgroup">EVChargingConnectorGroup</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -410,7 +403,7 @@ connector types may not be suitable for all vehicles in the supported category.<
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var supportedVehicles: [EVChargingVehicleCategory] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">supportedVehicles</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evchargingvehiclecategory">EVChargingVehicleCategory</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -438,7 +431,7 @@ and if requested by including <code>EVChargingLocationFeature.TRUCK_RESTRICTIONS
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var truckRestrictions: EVChargingTruckRestriction? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckRestrictions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingtruckrestriction">EVChargingTruckRestriction</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -465,7 +458,7 @@ Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is includ
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var openingHours: EVChargingOpeningHours? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">openingHours</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingopeninghours">EVChargingOpeningHours</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -490,7 +483,7 @@ Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is includ
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var restrictions: [EVAccessRestrictionReason] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">restrictions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evaccessrestrictionreason">EVAccessRestrictionReason</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -517,7 +510,7 @@ Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is includ
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var supportPhoneNumber: String? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">supportPhoneNumber</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -544,7 +537,7 @@ Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is includ
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var timeZone: String? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">timeZone</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -560,8 +553,8 @@ Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is includ
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "Traffic  Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-traffic"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-traffic"
 <!-- Traffic.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Section/Traffic"></a>
 <a title="Traffic  Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
@@ -34,7 +27,7 @@ slug: "sdk-for-ios-explore-api-reference-traffic"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Traffic</h1>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -63,9 +56,9 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class TrafficDataProvider</code></pre>
-<pre><code>extension TrafficDataProvider: NativeBase</code></pre>
-<pre><code>extension TrafficDataProvider: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrafficDataProvider</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficDataProvider</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficDataProvider</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -103,9 +96,9 @@ See <code><a href="Classes/SDKNativeEngine.html#/s:7heresdk15SDKNativeEngineC19p
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class TrafficEngine</code></pre>
-<pre><code>extension TrafficEngine: NativeBase</code></pre>
-<pre><code>extension TrafficEngine: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrafficEngine</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficEngine</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficEngine</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -135,9 +128,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class TrafficFlow : TrafficFlowBase</code></pre>
-<pre><code>extension TrafficFlow: NativeBase</code></pre>
-<pre><code>extension TrafficFlow: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrafficFlow</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-trafficflowbase">TrafficFlowBase</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficFlow</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficFlow</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +159,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol TrafficFlowBase : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">TrafficFlowBase</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -192,7 +185,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct TrafficFlowQueryOptions : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TrafficFlowQueryOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -225,7 +218,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias TrafficFlowQueryCompletionHandler = (_ queryError: TrafficQueryError?, _ result: [TrafficFlow]?) -&gt; Void</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">TrafficFlowQueryCompletionHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">queryError</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-trafficqueryerror">TrafficQueryError</a></span><span class="p">?,</span> <span class="n">_</span> <span class="nv">result</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-trafficflow">TrafficFlow</a></span><span class="p">]?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 <div>
@@ -282,9 +275,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class TrafficIncident : TrafficIncidentBase</code></pre>
-<pre><code>extension TrafficIncident: NativeBase</code></pre>
-<pre><code>extension TrafficIncident: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrafficIncident</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-trafficincidentbase">TrafficIncidentBase</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficIncident</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficIncident</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -310,7 +303,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol TrafficIncidentBase : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">TrafficIncidentBase</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -338,7 +331,7 @@ The second argument is the incident in the case of the success. It is <code>nil<
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias TrafficIncidentCompletionHandler = (_ queryError: TrafficQueryError?, _ result: TrafficIncident?) -&gt; Void</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">TrafficIncidentCompletionHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">queryError</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-trafficqueryerror">TrafficQueryError</a></span><span class="p">?,</span> <span class="n">_</span> <span class="nv">result</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-trafficincident">TrafficIncident</a></span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 <div>
@@ -395,7 +388,7 @@ The second argument is the incident in the case of the success. It is <code>nil<
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum TrafficIncidentImpact : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TrafficIncidentImpact</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -421,7 +414,7 @@ The second argument is the incident in the case of the success. It is <code>nil<
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct TrafficIncidentLookupOptions : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TrafficIncidentLookupOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -449,9 +442,9 @@ Also, an incident can take some place out of the built route.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class TrafficIncidentOnRoute : TrafficIncidentBase</code></pre>
-<pre><code>extension TrafficIncidentOnRoute: NativeBase</code></pre>
-<pre><code>extension TrafficIncidentOnRoute: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrafficIncidentOnRoute</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-trafficincidentbase">TrafficIncidentBase</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficIncidentOnRoute</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficIncidentOnRoute</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -477,7 +470,7 @@ Also, an incident can take some place out of the built route.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum TrafficIncidentType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TrafficIncidentType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -505,7 +498,7 @@ The second argument is the list of incidents in the case of the success. It is <
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias TrafficIncidentsQueryCompletionHandler = (_ queryError: TrafficQueryError?, _ result: [TrafficIncident]?) -&gt; Void</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">TrafficIncidentsQueryCompletionHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">queryError</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-trafficqueryerror">TrafficQueryError</a></span><span class="p">?,</span> <span class="n">_</span> <span class="nv">result</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-trafficincident">TrafficIncident</a></span><span class="p">]?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 <div>
@@ -562,7 +555,7 @@ The second argument is the list of incidents in the case of the success. It is <
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct TrafficIncidentsQueryOptions : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TrafficIncidentsQueryOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -588,7 +581,7 @@ The second argument is the list of incidents in the case of the success. It is <
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct TrafficLocation : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TrafficLocation</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -616,7 +609,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum TrafficQueryError : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TrafficQueryError</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -642,7 +635,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum Traversability : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">Traversability</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -658,8 +651,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

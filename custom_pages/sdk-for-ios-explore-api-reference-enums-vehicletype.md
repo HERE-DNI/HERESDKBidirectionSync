@@ -1,5 +1,5 @@
 ---
-title: "VehicleType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-vehicletype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-vehicletype"
 <!-- VehicleType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/VehicleType"></a>
 <a title="VehicleType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,11 +29,11 @@ slug: "sdk-for-ios-explore-api-reference-enums-vehicletype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>VehicleType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use <code>sdk.transport.TransportMode</code> instead.")
-public enum VehicleType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use <code>sdk.transport.TransportMode</code> instead.")</span>
+<span class="kd">public</span> <span class="kd">enum</span> <span class="kt">VehicleType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Defines the type of the vehicle.</p>
@@ -70,7 +63,7 @@ deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case car</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">car</span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case truck</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">truck</span></code></pre>
 </div>
 </div>
 </section>
@@ -120,7 +113,7 @@ deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bicycle</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bicycle</span></code></pre>
 </div>
 </div>
 </section>
@@ -145,7 +138,7 @@ deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bus</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bus</span></code></pre>
 </div>
 </div>
 </section>
@@ -170,7 +163,7 @@ deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case motorcycle</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">motorcycle</span></code></pre>
 </div>
 </div>
 </section>
@@ -195,7 +188,7 @@ deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case scooter</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">scooter</span></code></pre>
 </div>
 </div>
 </section>
@@ -220,7 +213,7 @@ deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case privateBus</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">privateBus</span></code></pre>
 </div>
 </div>
 </section>
@@ -236,8 +229,8 @@ deprecation process.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

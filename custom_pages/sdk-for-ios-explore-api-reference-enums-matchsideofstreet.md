@@ -1,5 +1,5 @@
 ---
-title: "MatchSideOfStreet Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-matchsideofstreet"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-matchsideofstreet"
 <!-- MatchSideOfStreet.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/MatchSideOfStreet"></a>
 <a title="MatchSideOfStreet Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-matchsideofstreet"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MatchSideOfStreet</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum MatchSideOfStreet : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">MatchSideOfStreet</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Specifies how the location set by <code><a href="../Structs/Waypoint.html#/s:7heresdk8WaypointV16sideOfStreetHintAA14GeoCoordinatesVSgvp">Waypoint.sideOfStreetHint</a></code> should be handled. This setting might affect the geometry of the resulting route.</p>
@@ -68,7 +61,7 @@ in order to ensure arriving at the correct side of the street.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case always</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">always</span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ This is the default setting and it is recommended for most use cases.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case onlyIfDivided</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">onlyIfDivided</span></code></pre>
 </div>
 </div>
 </section>
@@ -110,8 +103,8 @@ This is the default setting and it is recommended for most use cases.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "WebImage Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-webimage"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-webimage"
 <!-- WebImage.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/WebImage"></a>
 <a title="WebImage Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-webimage"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>WebImage</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct WebImage : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">WebImage</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Contains image information and direct link to it.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-webimage"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var source: WebSource</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">source</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-websource">WebSource</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ Sets <code><a href="../Structs/WebImage.html#/s:7heresdk8WebImageV6sourceAA0B6So
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(source: WebSource)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">source</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-websource">WebSource</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -127,8 +120,8 @@ Sets <code><a href="../Structs/WebImage.html#/s:7heresdk8WebImageV6sourceAA0B6So
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "LogAppender Protocol Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-protocols-logappender"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-protocols-logappender"
 <!-- LogAppender.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Protocol/LogAppender"></a>
 <a title="LogAppender Protocol Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-logappender"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>LogAppender</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public protocol LogAppender : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">LogAppender</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 <p>An interface to implement a listener to receive log messages.</p>
@@ -65,7 +58,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-logappender"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func log(level: LogLevel, message: String)</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">log</span><span class="p">(</span><span class="nv">level</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-loglevel">LogLevel</a></span><span class="p">,</span> <span class="nv">message</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -112,8 +105,8 @@ slug: "sdk-for-ios-explore-api-reference-protocols-logappender"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

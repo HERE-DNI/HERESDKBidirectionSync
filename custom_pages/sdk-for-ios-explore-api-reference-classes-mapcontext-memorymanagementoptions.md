@@ -1,5 +1,5 @@
 ---
-title: "MemoryManagementOptions Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementoptions"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementopti
 <!-- MemoryManagementOptions.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/MemoryManagementOptions"></a>
 <a title="MemoryManagementOptions Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementopti
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MemoryManagementOptions</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct MemoryManagementOptions</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MemoryManagementOptions</span></code></pre>
 </div>
 </div>
 <p>Memory management options.</p>
@@ -77,7 +70,7 @@ the cache limit.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var memoryManagementStrategy: MapContext.MemoryManagementStrategy</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">memoryManagementStrategy</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapcontext">MapContext</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapcontext-memorymanagementstrategy">MemoryManagementStrategy</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -104,7 +97,7 @@ Low tile cache limit will lead to eviction of tiles only if MemoryManagementStra
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var tileCacheMemoryLimitInKiB: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tileCacheMemoryLimitInKiB</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -130,7 +123,7 @@ Default value is <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var videoMemoryLimitInKiB: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">videoMemoryLimitInKiB</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -155,7 +148,7 @@ Default value is <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(memoryManagementStrategy: MapContext.MemoryManagementStrategy = MapContext.MemoryManagementStrategy.dynamic, tileCacheMemoryLimitInKiB: Int32? = nil, videoMemoryLimitInKiB: Int32? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">memoryManagementStrategy</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapcontext">MapContext</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapcontext-memorymanagementstrategy">MemoryManagementStrategy</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapcontext">MapContext</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapcontext-memorymanagementstrategy">MemoryManagementStrategy</a></span><span class="o">.</span><span class="kd">dynamic</span><span class="p">,</span> <span class="nv">tileCacheMemoryLimitInKiB</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">videoMemoryLimitInKiB</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -171,8 +164,8 @@ Default value is <code>nil</code>.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

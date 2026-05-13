@@ -1,5 +1,5 @@
 ---
-title: "MemoryManagementResult Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementresult"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementresu
 <!-- MemoryManagementResult.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/MemoryManagementResult"></a>
 <a title="MemoryManagementResult Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementresu
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MemoryManagementResult</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct MemoryManagementResult</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MemoryManagementResult</span></code></pre>
 </div>
 </div>
 <p>Memory management result.</p>
@@ -76,7 +69,7 @@ correct memory limit cannot be calculated, <code>nil</code> value is returned.</
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var diffBetweenVideoMemoryLimitAndRequirementInKiB: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">diffBetweenVideoMemoryLimitAndRequirementInKiB</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -101,7 +94,7 @@ correct memory limit cannot be calculated, <code>nil</code> value is returned.</
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var resultCode: MapContext.MemoryManagementResultCode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">resultCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapcontext">MapContext</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapcontext-memorymanagementresultcode">MemoryManagementResultCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -126,7 +119,7 @@ correct memory limit cannot be calculated, <code>nil</code> value is returned.</
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(diffBetweenVideoMemoryLimitAndRequirementInKiB: Int32? = nil, resultCode: MapContext.MemoryManagementResultCode)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">diffBetweenVideoMemoryLimitAndRequirementInKiB</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">resultCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapcontext">MapContext</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapcontext-memorymanagementresultcode">MemoryManagementResultCode</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -142,8 +135,8 @@ correct memory limit cannot be calculated, <code>nil</code> value is returned.</
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

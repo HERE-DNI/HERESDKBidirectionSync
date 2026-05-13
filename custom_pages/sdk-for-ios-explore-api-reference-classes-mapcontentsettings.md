@@ -1,5 +1,5 @@
 ---
-title: "MapContentSettings Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontentsettings"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcontentsettings"
 <!-- MapContentSettings.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapContentSettings"></a>
 <a title="MapContentSettings Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcontentsettings"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapContentSettings</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapContentSettings</code></pre>
-<pre><code>extension MapContentSettings: NativeBase</code></pre>
-<pre><code>extension MapContentSettings: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapContentSettings</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapContentSettings</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapContentSettings</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Provides settings regarding map data which are applied globally to all map views. The settings
@@ -69,7 +62,7 @@ can already be changed before a map view instance is created.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias TrafficRefreshPeriodError = TrafficRefreshPeriodErrorCode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">TrafficRefreshPeriodError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontentsettings-trafficrefreshperioderrorcode">TrafficRefreshPeriodErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -95,8 +88,8 @@ can already be changed before a map view instance is created.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum TrafficRefreshPeriodErrorCode : UInt32, CaseIterable, Codable</code></pre>
-<pre><code>extension MapContentSettings.TrafficRefreshPeriodErrorCode : Error</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TrafficRefreshPeriodErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontentsettings">MapContentSettings</a></span><span class="o">.</span><span class="kt">TrafficRefreshPeriodErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -124,7 +117,7 @@ The display of traffic incidents can be enabled using <code><a href="../Classes/
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func filterTrafficIncidents(trafficIncidents: [TrafficIncidentType])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">filterTrafficIncidents</span><span class="p">(</span><span class="nv">trafficIncidents</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-trafficincidenttype">TrafficIncidentType</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -173,7 +166,7 @@ when the display of Traffic Incidents is enabled using <code><a href="../Classes
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func resetTrafficIncidentFilter()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">resetTrafficIncidentFilter</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -208,7 +201,7 @@ Defaults to 60 seconds.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func setTrafficRefreshPeriod(_ value: TimeInterval) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">setTrafficRefreshPeriod</span><span class="p">(</span><span class="n">_</span> <span class="nv">value</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -262,7 +255,7 @@ validity time and the refresh period derived from the refresh period of the traf
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func resetTrafficRefreshPeriod()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">resetTrafficRefreshPeriod</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -278,8 +271,8 @@ validity time and the refresh period derived from the refresh period of the traf
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

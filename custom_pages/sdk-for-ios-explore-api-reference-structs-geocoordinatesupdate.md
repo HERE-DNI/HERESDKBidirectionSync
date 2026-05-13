@@ -1,5 +1,5 @@
 ---
-title: "GeoCoordinatesUpdate Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-geocoordinatesupdate"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-geocoordinatesupdate"
 <!-- GeoCoordinatesUpdate.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/GeoCoordinatesUpdate"></a>
 <a title="GeoCoordinatesUpdate Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-geocoordinatesupdate"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>GeoCoordinatesUpdate</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct GeoCoordinatesUpdate : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">GeoCoordinatesUpdate</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents geographical coordinates in 3D space.
@@ -68,7 +61,7 @@ that update only the specified parts of geo coordinates.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let latitude: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">latitude</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ that update only the specified parts of geo coordinates.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let longitude: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">longitude</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ that update only the specified parts of geo coordinates.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let altitude: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">altitude</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -145,7 +138,7 @@ Corrects values of latitude and longitude if they exceed the ranges.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(latitude: Double?, longitude: Double?)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">latitude</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?,</span> <span class="nv">longitude</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -208,7 +201,7 @@ Corrects values of latitude and longitude if they exceed the ranges.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(latitude: Double?, longitude: Double?, altitude: Double?)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">latitude</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?,</span> <span class="nv">longitude</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?,</span> <span class="nv">altitude</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -281,7 +274,7 @@ NaN value is converted to <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ coordinates: GeoCoordinates)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -316,8 +309,8 @@ NaN value is converted to <code>nil</code>.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

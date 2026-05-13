@@ -1,5 +1,5 @@
 ---
-title: "Search  Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-search"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-search"
 <!-- Search.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Section/Search"></a>
 <a title="Search  Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
@@ -34,7 +27,7 @@ slug: "sdk-for-ios-explore-api-reference-search"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Search</h1>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -63,7 +56,7 @@ Complete address details can be obtained by searching with <code><a href="sdk-fo
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct Address : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Address</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -89,7 +82,7 @@ Complete address details can be obtained by searching with <code><a href="sdk-fo
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum AddressType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">AddressType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -120,7 +113,7 @@ excluding the POI name. For example, “Invalidenstraße 116, Berlin, Germany”
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct AddressQuery : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">AddressQuery</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -146,7 +139,7 @@ excluding the POI name. For example, “Invalidenstraße 116, Berlin, Germany”
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum AreaType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">AreaType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -172,7 +165,7 @@ excluding the POI name. For example, “Invalidenstraße 116, Berlin, Germany”
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct BusinessDetails : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">BusinessDetails</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -198,7 +191,7 @@ excluding the POI name. For example, “Invalidenstraße 116, Berlin, Germany”
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct CategoryQuery : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">CategoryQuery</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -224,7 +217,7 @@ excluding the POI name. For example, “Invalidenstraße 116, Berlin, Germany”
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct Contact : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Contact</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -254,7 +247,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct DateRange : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">DateRange</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -282,7 +275,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum DayOfWeek : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">DayOfWeek</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -309,7 +302,7 @@ opening hours and assigned categories.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct Details : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Details</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -335,7 +328,7 @@ opening hours and assigned categories.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EmailAddress : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EmailAddress</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -362,7 +355,7 @@ It is only available for online search.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EMobilityServiceProvider : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EMobilityServiceProvider</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -390,7 +383,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EnergyMix : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EnergyMix</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -419,7 +412,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EnergySource : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EnergySource</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -448,7 +441,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum EnergySourceType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EnergySourceType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -477,7 +470,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EnvironmentalImpact : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EnvironmentalImpact</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -506,7 +499,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum EnvironmentalImpactCategory : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EnvironmentalImpactCategory</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -532,7 +525,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum EVAccessRestrictionReason : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EVAccessRestrictionReason</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -558,7 +551,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum EVAccessType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EVAccessType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -586,7 +579,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EVChargingConnector : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingConnector</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -614,7 +607,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EVChargingConnectorGroup : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingConnectorGroup</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -642,7 +635,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EVChargingConnectorReference : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingConnectorReference</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -670,7 +663,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EVChargingDurationRange : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingDurationRange</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -712,9 +705,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class EVChargingLocation</code></pre>
-<pre><code>extension EVChargingLocation: NativeBase</code></pre>
-<pre><code>extension EVChargingLocation: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">EVChargingLocation</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">EVChargingLocation</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">EVChargingLocation</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -742,7 +735,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum EVChargingLocationFeature : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EVChargingLocationFeature</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -770,7 +763,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EVChargingOpeningHours : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingOpeningHours</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -799,7 +792,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EVChargingOpeningHoursException : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingOpeningHoursException</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -828,7 +821,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EVChargingOpeningHoursSchedule : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingOpeningHoursSchedule</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -856,7 +849,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EVChargingOperator : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingOperator</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -882,7 +875,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EVChargingPoolDetails : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingPoolDetails</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -914,7 +907,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EVChargingTariff : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingTariff</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -948,7 +941,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum EVChargingTariffDimension : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EVChargingTariffDimension</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -977,7 +970,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EVChargingTariffElement : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingTariffElement</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1017,7 +1010,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EVChargingTariffElementCondition : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingTariffElementCondition</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1045,7 +1038,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EVChargingTariffPriceComponent : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingTariffPriceComponent</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1073,7 +1066,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EVChargingTariffRequest : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingTariffRequest</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1101,7 +1094,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum EVChargingTariffType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EVChargingTariffType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1129,7 +1122,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EVChargingTruckRestriction : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingTruckRestriction</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1157,7 +1150,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum EVChargingVehicleCategory : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EVChargingVehicleCategory</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1185,7 +1178,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias EVCP3SearchCompletionHandler = (_ error: EVSearchError?, _ chargingLocations: [EVChargingLocation]?) -&gt; Void</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">EVCP3SearchCompletionHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">error</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-evsearcherror">EVSearchError</a></span><span class="p">?,</span> <span class="n">_</span> <span class="nv">chargingLocations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-evcharginglocation">EVChargingLocation</a></span><span class="p">]?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 <div>
@@ -1242,7 +1235,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct Evse : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Evse</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1273,9 +1266,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class EVSearchEngine : EVSearchInterface</code></pre>
-<pre><code>extension EVSearchEngine: NativeBase</code></pre>
-<pre><code>extension EVSearchEngine: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">EVSearchEngine</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-evsearchinterface">EVSearchInterface</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">EVSearchEngine</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">EVSearchEngine</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1303,7 +1296,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum EVSearchError : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EVSearchError</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1331,7 +1324,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol EVSearchInterface : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">EVSearchInterface</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -1359,7 +1352,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EVSearchOptions : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVSearchOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1385,7 +1378,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EVSEConnector : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVSEConnector</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1413,7 +1406,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct EVSEInfo : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVSEInfo</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1439,7 +1432,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum EVSEStatus : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EVSEStatus</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1467,7 +1460,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum FacilityType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">FacilityType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1495,7 +1488,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct FuelAdditive : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">FuelAdditive</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1523,7 +1516,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum FuelAdditiveType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">FuelAdditiveType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1554,7 +1547,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct FuelStation : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">FuelStation</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1582,7 +1575,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum FuelType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">FuelType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1610,7 +1603,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct GenericFuel : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">GenericFuel</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1638,7 +1631,7 @@ It can be used for PersonalPlace creation, in order to provide search on custom 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct GeoPlace : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">GeoPlace</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1664,7 +1657,7 @@ It can be used for PersonalPlace creation, in order to provide search on custom 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum HighlightType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">HighlightType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1691,9 +1684,9 @@ The first character is denoted by a value of 0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class IndexRange</code></pre>
-<pre><code>extension IndexRange: NativeBase</code></pre>
-<pre><code>extension IndexRange: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">IndexRange</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">IndexRange</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">IndexRange</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1719,7 +1712,7 @@ The first character is denoted by a value of 0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct LandlinePhone : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">LandlinePhone</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1745,7 +1738,7 @@ The first character is denoted by a value of 0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct LocationDetails : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">LocationDetails</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1771,7 +1764,7 @@ The first character is denoted by a value of 0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct MobilePhone : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MobilePhone</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1797,7 +1790,7 @@ The first character is denoted by a value of 0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct OpeningHours : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">OpeningHours</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1825,7 +1818,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum ParkingType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">ParkingType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1851,9 +1844,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class Place</code></pre>
-<pre><code>extension Place: NativeBase</code></pre>
-<pre><code>extension Place: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">Place</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Place</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Place</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1880,9 +1873,9 @@ This class also defines a set of most commonly used categories.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class PlaceCategory</code></pre>
-<pre><code>extension PlaceCategory: NativeBase</code></pre>
-<pre><code>extension PlaceCategory: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PlaceCategory</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PlaceCategory</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PlaceCategory</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1908,7 +1901,7 @@ This class also defines a set of most commonly used categories.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct PlaceChain : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">PlaceChain</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1935,7 +1928,7 @@ Consists of fuel, truck and EV options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct PlaceFilter : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">PlaceFilter</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1961,7 +1954,7 @@ Consists of fuel, truck and EV options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct PlaceFoodType : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">PlaceFoodType</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1987,7 +1980,7 @@ Consists of fuel, truck and EV options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct PlaceIdQuery : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">PlaceIdQuery</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2012,7 +2005,7 @@ Consists of fuel, truck and EV options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias PlaceIdSearchCompletionHandler = (_ searchError: SearchError?, _ place: Place?) -&gt; Void</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">PlaceIdSearchCompletionHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">searchError</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-searcherror">SearchError</a></span><span class="p">?,</span> <span class="n">_</span> <span class="nv">place</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-place">Place</a></span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 <div>
@@ -2068,7 +2061,7 @@ Consists of fuel, truck and EV options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias PlaceIdSearchExtendedCompletionHandler = (_ searchError: SearchError?, _ place: Place?, _ responseDetails: ResponseDetails?) -&gt; Void</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">PlaceIdSearchExtendedCompletionHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">searchError</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-searcherror">SearchError</a></span><span class="p">?,</span> <span class="n">_</span> <span class="nv">place</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-place">Place</a></span><span class="p">?,</span> <span class="n">_</span> <span class="nv">responseDetails</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-responsedetails">ResponseDetails</a></span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 <div>
@@ -2137,8 +2130,8 @@ Consists of fuel, truck and EV options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum PlaceSerializationError : UInt32, CaseIterable, Codable</code></pre>
-<pre><code>extension PlaceSerializationError : Error</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">PlaceSerializationError</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PlaceSerializationError</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -2163,7 +2156,7 @@ Consists of fuel, truck and EV options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias PlaceSerializationException = PlaceSerializationError</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">PlaceSerializationException</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-placeserializationerror">PlaceSerializationError</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -2189,7 +2182,7 @@ Consists of fuel, truck and EV options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum PlaceType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">PlaceType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2218,7 +2211,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct POIPaymentDetails : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">POIPaymentDetails</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2248,7 +2241,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct POIPaymentMethod</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">POIPaymentMethod</span></code></pre>
 </div>
 </div>
 </section>
@@ -2274,7 +2267,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct ResponseDetails : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ResponseDetails</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2300,7 +2293,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct ScheduleDetails : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ScheduleDetails</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2327,7 +2320,7 @@ Both arguments cannot be <code>nil</code> at the same time - or not <code>nil</c
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias SearchCompletionHandler = (_ searchError: SearchError?, _ places: [Place]?) -&gt; Void</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">SearchCompletionHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">searchError</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-searcherror">SearchError</a></span><span class="p">?,</span> <span class="n">_</span> <span class="nv">places</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-place">Place</a></span><span class="p">]?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 <div>
@@ -2385,7 +2378,7 @@ Both arguments cannot be <code>nil</code> at the same time - or not <code>nil</c
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias SearchExtendedCompletionHandler = (_ searchError: SearchError?, _ places: [Place]?, _ responseDetails: ResponseDetails?) -&gt; Void</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">SearchExtendedCompletionHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">searchError</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-searcherror">SearchError</a></span><span class="p">?,</span> <span class="n">_</span> <span class="nv">places</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-place">Place</a></span><span class="p">]?,</span> <span class="n">_</span> <span class="nv">responseDetails</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-responsedetails">ResponseDetails</a></span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 <div>
@@ -2465,9 +2458,9 @@ related queries. This may be useful for debug purposes.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class SearchEngine : SearchInterface</code></pre>
-<pre><code>extension SearchEngine: NativeBase</code></pre>
-<pre><code>extension SearchEngine: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">SearchEngine</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-searchinterface">SearchInterface</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">SearchEngine</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">SearchEngine</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2493,7 +2486,7 @@ related queries. This may be useful for debug purposes.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum SearchError : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">SearchError</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2520,7 +2513,7 @@ search engines.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol SearchInterface : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">SearchInterface</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -2546,7 +2539,7 @@ search engines.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct SearchOptions : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">SearchOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2575,7 +2568,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct StructuredQuery : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">StructuredQuery</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2607,9 +2600,9 @@ With “Query” something to follow-up, a way to perform more focused search.</
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class Suggestion</code></pre>
-<pre><code>extension Suggestion: NativeBase</code></pre>
-<pre><code>extension Suggestion: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">Suggestion</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Suggestion</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Suggestion</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2635,7 +2628,7 @@ With “Query” something to follow-up, a way to perform more focused search.</
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum SuggestionType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">SuggestionType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2662,7 +2655,7 @@ Both arguments cannot be <code>nil</code> at the same time - or not <code>nil</c
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias SuggestCompletionHandler = (_ searchError: SearchError?, _ suggestions: [Suggestion]?) -&gt; Void</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">SuggestCompletionHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">searchError</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-searcherror">SearchError</a></span><span class="p">?,</span> <span class="n">_</span> <span class="nv">suggestions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-suggestion">Suggestion</a></span><span class="p">]?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 <div>
@@ -2721,7 +2714,7 @@ This API is not supported by offline search.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias SuggestExtendedCompletionHandler = (_ searchError: SearchError?, _ suggestions: [Suggestion]?, _ responseDetails: ResponseDetails?) -&gt; Void</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">SuggestExtendedCompletionHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">searchError</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-searcherror">SearchError</a></span><span class="p">?,</span> <span class="n">_</span> <span class="nv">suggestions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-suggestion">Suggestion</a></span><span class="p">]?,</span> <span class="n">_</span> <span class="nv">responseDetails</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-structs-responsedetails">ResponseDetails</a></span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 <div>
@@ -2790,7 +2783,7 @@ This API is not supported by offline search.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct SupplierReference : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">SupplierReference</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2816,7 +2809,7 @@ This API is not supported by offline search.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct TextQuery : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TextQuery</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2846,7 +2839,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct TimeOfDayRange : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TimeOfDayRange</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2874,7 +2867,7 @@ Note: This is a BETA feature and thus subject to change.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct TruckAmenities : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TruckAmenities</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2901,7 +2894,7 @@ Note: This is a BETA feature and thus subject to change.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct TruckFuel : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TruckFuel</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2927,7 +2920,7 @@ Note: This is a BETA feature and thus subject to change.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct WebDetails : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">WebDetails</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2953,7 +2946,7 @@ Note: This is a BETA feature and thus subject to change.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct WebEditorial : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">WebEditorial</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2979,7 +2972,7 @@ Note: This is a BETA feature and thus subject to change.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct WebImage : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">WebImage</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3005,7 +2998,7 @@ Note: This is a BETA feature and thus subject to change.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct WebRating : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">WebRating</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3031,7 +3024,7 @@ Note: This is a BETA feature and thus subject to change.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct WebsiteAddress : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">WebsiteAddress</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3058,7 +3051,7 @@ and a direct link to the item.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct WebSource : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">WebSource</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3074,8 +3067,8 @@ and a direct link to the item.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "MapMarker3DModel Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel"
 <!-- MapMarker3DModel.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapMarker3DModel"></a>
 <a title="MapMarker3DModel Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,18 +29,18 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapMarker3DModel</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapMarker3DModel</code></pre>
-<pre><code>extension MapMarker3DModel: NativeBase</code></pre>
-<pre><code>extension MapMarker3DModel: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapMarker3DModel</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapMarker3DModel</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapMarker3DModel</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents a 3D model that can be used by a <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3d">MapMarker3D</a></code> to be shown on the map.
 Geometry of 3D marker can be provided in form of a Wavefront OBJ file as specified in
 <a href="http://www.martinreddy.net/gfx/3d/OBJ.spec">http://www.martinreddy.net/gfx/3d/OBJ.spec</a> or as mesh built via <code><a href="sdk-for-ios-explore-api-reference-..-classes-meshbuilder">MeshBuilder</a></code>.</p>
-
+<h1 class="heading" id="1-creating-code-mapmarker3dmodel-code-from-obj-file">1. Creating <code>MapMarker3DModel</code> from OBJ file</h1>
 <p>For OBJ files, HERE SDK only supports the following set of features of the OBJ specification:</p>
 <ul>
 <li>Triangle Meshes</li>
@@ -74,7 +67,7 @@ Geometry of 3D marker can be provided in form of a Wavefront OBJ file as specifi
 </ul>
 <p>For supported texture formats, HERE SDK allows the following formats to be specified:
 JPG, PNG, GPU compressed texture formats: ECT1 (OpenGL only), YUV, ASTC, KTX.</p>
-
+<h1 class="heading" id="2-creating-code-mapmarker3dmodel-code-programatically">2. Creating <code>MapMarker3DModel</code> programatically</h1>
 <p>A 3D mesh can be specified programatically using <code><a href="sdk-for-ios-explore-api-reference-..-classes-meshbuilder">MeshBuilder</a></code> and passed to
 <code>MapMarker3DModel</code> constructor. This method supports creating a mesh from
 quads and triangles. Textured geometry is also supported, the mesh faces
@@ -103,7 +96,7 @@ along with the mesh to <code>MapMarker3DModel</code> constructor.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias InstantiationError = InstantiationErrorCode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3dmodel-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -128,7 +121,7 @@ along with the mesh to <code>MapMarker3DModel</code> constructor.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(geometryFilePath: String, textureFilePath: String, color: UIColor)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">geometryFilePath</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">textureFilePath</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">color</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -202,7 +195,7 @@ This color is multiplied with color of texture.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(mesh: Mesh, textureFilePath: String, color: UIColor) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">mesh</span><span class="p">:</span> <span class="kt"><a href="../Maps.html#/s:7heresdk4MeshC">Mesh</a></span><span class="p">,</span> <span class="nv">textureFilePath</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">color</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -271,7 +264,7 @@ This color is multiplied with color of texture.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(geometryFilePath: String, textureFilePath: String)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">geometryFilePath</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">textureFilePath</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -332,7 +325,7 @@ This color is multiplied with color of texture.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(mesh: Mesh, textureFilePath: String) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">mesh</span><span class="p">:</span> <span class="kt"><a href="../Maps.html#/s:7heresdk4MeshC">Mesh</a></span><span class="p">,</span> <span class="nv">textureFilePath</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -388,7 +381,7 @@ This color is multiplied with color of texture.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(geometryFilePath: String)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">geometryFilePath</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -432,7 +425,7 @@ This color is multiplied with color of texture.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(mesh: Mesh)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">mesh</span><span class="p">:</span> <span class="kt"><a href="../Maps.html#/s:7heresdk4MeshC">Mesh</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -477,8 +470,8 @@ This color is multiplied with color of texture.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum InstantiationErrorCode : UInt32, CaseIterable, Codable</code></pre>
-<pre><code>extension MapMarker3DModel.InstantiationErrorCode : Error</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3dmodel">MapMarker3DModel</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -494,8 +487,8 @@ This color is multiplied with color of texture.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

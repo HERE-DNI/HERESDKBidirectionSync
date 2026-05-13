@@ -1,5 +1,5 @@
 ---
-title: "LogControl Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-logcontrol"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-logcontrol"
 <!-- LogControl.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/LogControl"></a>
 <a title="LogControl Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-logcontrol"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>LogControl</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class LogControl</code></pre>
-<pre><code>extension LogControl: NativeBase</code></pre>
-<pre><code>extension LogControl: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">LogControl</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">LogControl</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">LogControl</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>This class provides functionality to enable/disable console logs as well as
@@ -69,7 +62,7 @@ setting a custom log appender to receive log messages from the SDK.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias InvalidPathError = String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InvalidPathError</span> <span class="o">=</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ Enabled by default with <code><a href="../Enums/LogLevel.html#/s:7heresdk8LogLev
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func enableLoggingToConsole(level: LogLevel)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">enableLoggingToConsole</span><span class="p">(</span><span class="nv">level</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-loglevel">LogLevel</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -139,7 +132,7 @@ Enabled by default with <code><a href="../Enums/LogLevel.html#/s:7heresdk8LogLev
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func disableLoggingToConsole()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">disableLoggingToConsole</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -167,7 +160,7 @@ in order to do that use <code><a href="../Classes/LogControl.html#/s:7heresdk10L
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func setAppender(level: LogLevel, appender: LogAppender)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">setAppender</span><span class="p">(</span><span class="nv">level</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-loglevel">LogLevel</a></span><span class="p">,</span> <span class="nv">appender</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-logappender">LogAppender</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -231,7 +224,7 @@ in order to do that use <code><a href="../Classes/LogControl.html#/s:7heresdk10L
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func setAppender(level: LogLevel, path: String) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">setAppender</span><span class="p">(</span><span class="nv">level</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-loglevel">LogLevel</a></span><span class="p">,</span> <span class="nv">path</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -287,7 +280,7 @@ in order to do that use <code><a href="../Classes/LogControl.html#/s:7heresdk10L
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func removeAppender()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">removeAppender</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -303,8 +296,8 @@ in order to do that use <code><a href="../Classes/LogControl.html#/s:7heresdk10L
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "QuadMeshBuilder Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-quadmeshbuilder"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-quadmeshbuilder"
 <!-- QuadMeshBuilder.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/QuadMeshBuilder"></a>
 <a title="QuadMeshBuilder Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-quadmeshbuilder"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>QuadMeshBuilder</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class QuadMeshBuilder : MeshBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">QuadMeshBuilder</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-meshbuilder">MeshBuilder</a></span></code></pre>
 </div>
 </div>
 <p>Builder for a single quad.</p>
@@ -67,7 +60,7 @@ representing the bottom-left and <code>&lt;1,1&gt;</code> upper-right corner.</p
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withTextureCoordinates(a: Anchor2D, b: Anchor2D, c: Anchor2D, d: Anchor2D) -&gt; MeshBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withTextureCoordinates</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-anchor2d">Anchor2D</a></span><span class="p">,</span> <span class="nv">b</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-anchor2d">Anchor2D</a></span><span class="p">,</span> <span class="nv">c</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-anchor2d">Anchor2D</a></span><span class="p">,</span> <span class="nv">d</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-anchor2d">Anchor2D</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-meshbuilder">MeshBuilder</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -142,8 +135,8 @@ representing the bottom-left and <code>&lt;1,1&gt;</code> upper-right corner.</p
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

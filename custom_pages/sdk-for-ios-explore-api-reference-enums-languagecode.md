@@ -1,5 +1,5 @@
 ---
-title: "LanguageCode Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-languagecode"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-languagecode"
 <!-- LanguageCode.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/LanguageCode"></a>
 <a title="LanguageCode Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-languagecode"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>LanguageCode</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum LanguageCode : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">LanguageCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>This enum represents language codes. The basic naming pattern
@@ -71,7 +64,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case enUs</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">enUs</span></code></pre>
 </div>
 </div>
 </section>
@@ -96,7 +89,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case afZa</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">afZa</span></code></pre>
 </div>
 </div>
 </section>
@@ -121,7 +114,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sqAl</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sqAl</span></code></pre>
 </div>
 </div>
 </section>
@@ -146,7 +139,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case amEt</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">amEt</span></code></pre>
 </div>
 </div>
 </section>
@@ -171,7 +164,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case arSa</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">arSa</span></code></pre>
 </div>
 </div>
 </section>
@@ -196,7 +189,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case hyAm</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">hyAm</span></code></pre>
 </div>
 </div>
 </section>
@@ -221,7 +214,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case asIn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">asIn</span></code></pre>
 </div>
 </div>
 </section>
@@ -246,7 +239,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case azLatnAz</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">azLatnAz</span></code></pre>
 </div>
 </div>
 </section>
@@ -271,7 +264,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bnBd</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bnBd</span></code></pre>
 </div>
 </div>
 </section>
@@ -296,7 +289,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bnIn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bnIn</span></code></pre>
 </div>
 </div>
 </section>
@@ -321,7 +314,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case euEs</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">euEs</span></code></pre>
 </div>
 </div>
 </section>
@@ -346,7 +339,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case beBy</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">beBy</span></code></pre>
 </div>
 </div>
 </section>
@@ -371,7 +364,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bsLatnBa</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bsLatnBa</span></code></pre>
 </div>
 </div>
 </section>
@@ -396,7 +389,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bgBg</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bgBg</span></code></pre>
 </div>
 </div>
 </section>
@@ -421,7 +414,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case caEs</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">caEs</span></code></pre>
 </div>
 </div>
 </section>
@@ -446,7 +439,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case kuArab</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">kuArab</span></code></pre>
 </div>
 </div>
 </section>
@@ -471,7 +464,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case zhCn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">zhCn</span></code></pre>
 </div>
 </div>
 </section>
@@ -496,7 +489,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case zhHk</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">zhHk</span></code></pre>
 </div>
 </div>
 </section>
@@ -521,7 +514,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case zhTw</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">zhTw</span></code></pre>
 </div>
 </div>
 </section>
@@ -546,7 +539,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case hrHr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">hrHr</span></code></pre>
 </div>
 </div>
 </section>
@@ -571,7 +564,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case csCz</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">csCz</span></code></pre>
 </div>
 </div>
 </section>
@@ -596,7 +589,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case daDk</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">daDk</span></code></pre>
 </div>
 </div>
 </section>
@@ -621,7 +614,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case prsArabAf</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">prsArabAf</span></code></pre>
 </div>
 </div>
 </section>
@@ -646,7 +639,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case nlBe</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">nlBe</span></code></pre>
 </div>
 </div>
 </section>
@@ -671,7 +664,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case nlNl</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">nlNl</span></code></pre>
 </div>
 </div>
 </section>
@@ -696,7 +689,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case enGb</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">enGb</span></code></pre>
 </div>
 </div>
 </section>
@@ -721,7 +714,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case etEe</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">etEe</span></code></pre>
 </div>
 </div>
 </section>
@@ -746,7 +739,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case faIr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">faIr</span></code></pre>
 </div>
 </div>
 </section>
@@ -771,7 +764,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case filPh</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">filPh</span></code></pre>
 </div>
 </div>
 </section>
@@ -796,7 +789,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case fiFi</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">fiFi</span></code></pre>
 </div>
 </div>
 </section>
@@ -821,7 +814,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case frFr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">frFr</span></code></pre>
 </div>
 </div>
 </section>
@@ -846,7 +839,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case frCa</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">frCa</span></code></pre>
 </div>
 </div>
 </section>
@@ -871,7 +864,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case glEs</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">glEs</span></code></pre>
 </div>
 </div>
 </section>
@@ -896,7 +889,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case kaGe</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">kaGe</span></code></pre>
 </div>
 </div>
 </section>
@@ -921,7 +914,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case deDe</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">deDe</span></code></pre>
 </div>
 </div>
 </section>
@@ -946,7 +939,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case elGr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">elGr</span></code></pre>
 </div>
 </div>
 </section>
@@ -971,7 +964,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case guIn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">guIn</span></code></pre>
 </div>
 </div>
 </section>
@@ -996,7 +989,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case haLatnNg</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">haLatnNg</span></code></pre>
 </div>
 </div>
 </section>
@@ -1021,7 +1014,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case heIl</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">heIl</span></code></pre>
 </div>
 </div>
 </section>
@@ -1046,7 +1039,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case hiIn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">hiIn</span></code></pre>
 </div>
 </div>
 </section>
@@ -1071,7 +1064,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case huHu</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">huHu</span></code></pre>
 </div>
 </div>
 </section>
@@ -1096,7 +1089,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case isIs</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">isIs</span></code></pre>
 </div>
 </div>
 </section>
@@ -1121,7 +1114,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case igLatnNg</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">igLatnNg</span></code></pre>
 </div>
 </div>
 </section>
@@ -1146,7 +1139,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case idId</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">idId</span></code></pre>
 </div>
 </div>
 </section>
@@ -1171,7 +1164,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case gaIe</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">gaIe</span></code></pre>
 </div>
 </div>
 </section>
@@ -1196,7 +1189,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case xh</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">xh</span></code></pre>
 </div>
 </div>
 </section>
@@ -1221,7 +1214,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case zuZa</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">zuZa</span></code></pre>
 </div>
 </div>
 </section>
@@ -1246,7 +1239,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case itIt</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">itIt</span></code></pre>
 </div>
 </div>
 </section>
@@ -1271,7 +1264,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case jaJp</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">jaJp</span></code></pre>
 </div>
 </div>
 </section>
@@ -1296,7 +1289,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case knIn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">knIn</span></code></pre>
 </div>
 </div>
 </section>
@@ -1321,7 +1314,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case kkKz</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">kkKz</span></code></pre>
 </div>
 </div>
 </section>
@@ -1346,7 +1339,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case kmKh</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">kmKh</span></code></pre>
 </div>
 </div>
 </section>
@@ -1371,7 +1364,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case qucLatnGt</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">qucLatnGt</span></code></pre>
 </div>
 </div>
 </section>
@@ -1396,7 +1389,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rwRw</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rwRw</span></code></pre>
 </div>
 </div>
 </section>
@@ -1421,7 +1414,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sw</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sw</span></code></pre>
 </div>
 </div>
 </section>
@@ -1446,7 +1439,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case kokIn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">kokIn</span></code></pre>
 </div>
 </div>
 </section>
@@ -1471,7 +1464,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case koKr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">koKr</span></code></pre>
 </div>
 </div>
 </section>
@@ -1496,7 +1489,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case kyCyrlKg</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">kyCyrlKg</span></code></pre>
 </div>
 </div>
 </section>
@@ -1521,7 +1514,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case lvLv</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">lvLv</span></code></pre>
 </div>
 </div>
 </section>
@@ -1546,7 +1539,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ltLt</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ltLt</span></code></pre>
 </div>
 </div>
 </section>
@@ -1571,7 +1564,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case lbLu</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">lbLu</span></code></pre>
 </div>
 </div>
 </section>
@@ -1596,7 +1589,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mkMk</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mkMk</span></code></pre>
 </div>
 </div>
 </section>
@@ -1621,7 +1614,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case msMy</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">msMy</span></code></pre>
 </div>
 </div>
 </section>
@@ -1646,7 +1639,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mlIn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mlIn</span></code></pre>
 </div>
 </div>
 </section>
@@ -1671,7 +1664,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mtMt</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mtMt</span></code></pre>
 </div>
 </div>
 </section>
@@ -1696,7 +1689,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case miLatnNz</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">miLatnNz</span></code></pre>
 </div>
 </div>
 </section>
@@ -1721,7 +1714,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mrIn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mrIn</span></code></pre>
 </div>
 </div>
 </section>
@@ -1746,7 +1739,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mnCyrlMn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mnCyrlMn</span></code></pre>
 </div>
 </div>
 </section>
@@ -1771,7 +1764,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case neNp</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">neNp</span></code></pre>
 </div>
 </div>
 </section>
@@ -1796,7 +1789,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case nbNo</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">nbNo</span></code></pre>
 </div>
 </div>
 </section>
@@ -1821,7 +1814,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case nnNo</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">nnNo</span></code></pre>
 </div>
 </div>
 </section>
@@ -1846,7 +1839,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case orIn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">orIn</span></code></pre>
 </div>
 </div>
 </section>
@@ -1871,7 +1864,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case plPl</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">plPl</span></code></pre>
 </div>
 </div>
 </section>
@@ -1896,7 +1889,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ptBr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ptBr</span></code></pre>
 </div>
 </div>
 </section>
@@ -1921,7 +1914,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ptPt</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ptPt</span></code></pre>
 </div>
 </div>
 </section>
@@ -1946,7 +1939,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case paGuru</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">paGuru</span></code></pre>
 </div>
 </div>
 </section>
@@ -1971,7 +1964,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case paArab</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">paArab</span></code></pre>
 </div>
 </div>
 </section>
@@ -1996,7 +1989,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case quLatnPe</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">quLatnPe</span></code></pre>
 </div>
 </div>
 </section>
@@ -2021,7 +2014,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case roRo</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">roRo</span></code></pre>
 </div>
 </div>
 </section>
@@ -2046,7 +2039,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ruRu</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ruRu</span></code></pre>
 </div>
 </div>
 </section>
@@ -2071,7 +2064,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case gdLatnGb</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">gdLatnGb</span></code></pre>
 </div>
 </div>
 </section>
@@ -2096,7 +2089,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case srCyrlBa</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">srCyrlBa</span></code></pre>
 </div>
 </div>
 </section>
@@ -2121,7 +2114,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case srCyrlRs</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">srCyrlRs</span></code></pre>
 </div>
 </div>
 </section>
@@ -2146,7 +2139,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case srLatnRs</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">srLatnRs</span></code></pre>
 </div>
 </div>
 </section>
@@ -2171,7 +2164,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case nsoZa</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">nsoZa</span></code></pre>
 </div>
 </div>
 </section>
@@ -2196,7 +2189,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tn</span></code></pre>
 </div>
 </div>
 </section>
@@ -2221,7 +2214,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sdArab</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sdArab</span></code></pre>
 </div>
 </div>
 </section>
@@ -2246,7 +2239,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case siLk</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">siLk</span></code></pre>
 </div>
 </div>
 </section>
@@ -2271,7 +2264,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case skSk</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">skSk</span></code></pre>
 </div>
 </div>
 </section>
@@ -2296,7 +2289,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case slSi</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">slSi</span></code></pre>
 </div>
 </div>
 </section>
@@ -2321,7 +2314,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case esAr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">esAr</span></code></pre>
 </div>
 </div>
 </section>
@@ -2346,7 +2339,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case esMx</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">esMx</span></code></pre>
 </div>
 </div>
 </section>
@@ -2371,7 +2364,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case esEs</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">esEs</span></code></pre>
 </div>
 </div>
 </section>
@@ -2396,7 +2389,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case svSe</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">svSe</span></code></pre>
 </div>
 </div>
 </section>
@@ -2421,7 +2414,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tgCyrlTj</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tgCyrlTj</span></code></pre>
 </div>
 </div>
 </section>
@@ -2446,7 +2439,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ta</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ta</span></code></pre>
 </div>
 </div>
 </section>
@@ -2471,7 +2464,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ttCyrlRu</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ttCyrlRu</span></code></pre>
 </div>
 </div>
 </section>
@@ -2496,7 +2489,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case teIn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">teIn</span></code></pre>
 </div>
 </div>
 </section>
@@ -2521,7 +2514,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case thTh</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">thTh</span></code></pre>
 </div>
 </div>
 </section>
@@ -2546,7 +2539,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tiEt</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tiEt</span></code></pre>
 </div>
 </div>
 </section>
@@ -2571,7 +2564,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case trTr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">trTr</span></code></pre>
 </div>
 </div>
 </section>
@@ -2596,7 +2589,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tkLatnTm</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tkLatnTm</span></code></pre>
 </div>
 </div>
 </section>
@@ -2621,7 +2614,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ukUa</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ukUa</span></code></pre>
 </div>
 </div>
 </section>
@@ -2646,7 +2639,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ur</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ur</span></code></pre>
 </div>
 </div>
 </section>
@@ -2671,7 +2664,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ugArab</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ugArab</span></code></pre>
 </div>
 </div>
 </section>
@@ -2696,7 +2689,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case uzCyrlUz</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">uzCyrlUz</span></code></pre>
 </div>
 </div>
 </section>
@@ -2721,7 +2714,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case uzLatnUz</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">uzLatnUz</span></code></pre>
 </div>
 </div>
 </section>
@@ -2746,7 +2739,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case catEs</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">catEs</span></code></pre>
 </div>
 </div>
 </section>
@@ -2771,7 +2764,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case viVn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">viVn</span></code></pre>
 </div>
 </div>
 </section>
@@ -2796,7 +2789,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cyGb</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cyGb</span></code></pre>
 </div>
 </div>
 </section>
@@ -2821,7 +2814,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case woLatn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">woLatn</span></code></pre>
 </div>
 </div>
 </section>
@@ -2846,7 +2839,7 @@ its ISO 15924 code is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case yoLatn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">yoLatn</span></code></pre>
 </div>
 </div>
 </section>
@@ -2862,8 +2855,8 @@ its ISO 15924 code is used.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

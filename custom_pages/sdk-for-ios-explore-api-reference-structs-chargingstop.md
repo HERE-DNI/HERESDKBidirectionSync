@@ -1,5 +1,5 @@
 ---
-title: "ChargingStop Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-chargingstop"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-chargingstop"
 <!-- ChargingStop.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/ChargingStop"></a>
 <a title="ChargingStop Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-chargingstop"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>ChargingStop</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct ChargingStop : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ChargingStop</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The options to specify a user-planned charging stop.
@@ -71,7 +64,7 @@ Without all of them, the route calculation will fail as an invalid parameter err
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var powerInKilowatts: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">powerInKilowatts</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -96,7 +89,7 @@ Without all of them, the route calculation will fail as an invalid parameter err
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var currentInAmperes: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">currentInAmperes</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -121,7 +114,7 @@ Without all of them, the route calculation will fail as an invalid parameter err
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var voltageInVolts: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">voltageInVolts</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -146,7 +139,7 @@ Without all of them, the route calculation will fail as an invalid parameter err
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var supplyType: ChargingSupplyType?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">supplyType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-chargingsupplytype">ChargingSupplyType</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -175,7 +168,7 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var minDuration: TimeInterval?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">minDuration</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -204,7 +197,7 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxDuration: TimeInterval?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxDuration</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -229,7 +222,7 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(powerInKilowatts: Double = 0.0, currentInAmperes: Double = 0.0, voltageInVolts: Double = 0.0, supplyType: ChargingSupplyType? = nil, minDuration: TimeInterval? = nil, maxDuration: TimeInterval? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">powerInKilowatts</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">currentInAmperes</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">voltageInVolts</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">supplyType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-chargingsupplytype">ChargingSupplyType</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">minDuration</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxDuration</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -245,8 +238,8 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

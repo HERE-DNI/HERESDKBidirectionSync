@@ -1,5 +1,5 @@
 ---
-title: "RoutePlace Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-routeplace"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-routeplace"
 <!-- RoutePlace.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/RoutePlace"></a>
 <a title="RoutePlace Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-routeplace"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RoutePlace</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct RoutePlace : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">RoutePlace</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The location information.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-routeplace"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var type: RoutePlaceType</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-routeplacetype">RoutePlaceType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ route calculation by the system.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var waypointIndex: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">waypointIndex</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ was added during route calculation.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var originalCoordinates: GeoCoordinates?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">originalCoordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -144,7 +137,7 @@ was added during route calculation.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var mapMatchedCoordinates: GeoCoordinates</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">mapMatchedCoordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -173,7 +166,7 @@ the display coordinates specify the location of the PoI to be displayed accurate
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var displayCoordinates: GeoCoordinates?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">displayCoordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -199,7 +192,7 @@ Available only if the route was calculated with <code><a href="../Structs/Electr
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var chargeInKilowattHours: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">chargeInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -224,7 +217,7 @@ Available only if the route was calculated with <code><a href="../Structs/Electr
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var chargingStation: ChargingStation?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">chargingStation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-chargingstation">ChargingStation</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -249,7 +242,7 @@ Available only if the route was calculated with <code><a href="../Structs/Electr
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var name: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -274,7 +267,7 @@ Available only if the route was calculated with <code><a href="../Structs/Electr
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var id: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">id</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -299,7 +292,7 @@ Available only if the route was calculated with <code><a href="../Structs/Electr
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var platform: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">platform</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -326,7 +319,7 @@ Available only if the route was calculated with <code><a href="../Structs/Electr
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var sideOfDestination: SideOfDestination?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">sideOfDestination</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-sideofdestination">SideOfDestination</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -351,7 +344,7 @@ Available only if the route was calculated with <code><a href="../Structs/Electr
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func isOffRoad() -&gt; Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">isOffRoad</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -371,8 +364,8 @@ Available only if the route was calculated with <code><a href="../Structs/Electr
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "IndoorSectionDetails Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-indoorsectiondetails"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-indoorsectiondetails"
 <!-- IndoorSectionDetails.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/IndoorSectionDetails"></a>
 <a title="IndoorSectionDetails Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-indoorsectiondetails"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>IndoorSectionDetails</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class IndoorSectionDetails</code></pre>
-<pre><code>extension IndoorSectionDetails: NativeBase</code></pre>
-<pre><code>extension IndoorSectionDetails: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">IndoorSectionDetails</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">IndoorSectionDetails</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">IndoorSectionDetails</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Provides additional details for an indoor <code><a href="sdk-for-ios-explore-api-reference-..-classes-section">Section</a></code>.</p>
@@ -68,7 +61,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-indoorsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public private(set) lazy var indoorManeuvers: [IndoorManeuver] { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">private(set)</span> <span class="kd">lazy</span> <span class="k">var</span> <span class="nv">indoorManeuvers</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-indoormaneuver">IndoorManeuver</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-indoorsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var departurePlace: IndoorRoutePlace { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">departurePlace</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-indoorrouteplace">IndoorRoutePlace</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-indoorsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var arrivalPlace: IndoorRoutePlace { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">arrivalPlace</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-indoorrouteplace">IndoorRoutePlace</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -134,8 +127,8 @@ slug: "sdk-for-ios-explore-api-reference-classes-indoorsectiondetails"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "InstantiationErrorCode Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-instantiationerrorcode"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-instantiationerrorcode"
 <!-- InstantiationErrorCode.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/InstantiationErrorCode"></a>
 <a title="InstantiationErrorCode Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,11 +29,11 @@ slug: "sdk-for-ios-explore-api-reference-enums-instantiationerrorcode"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>InstantiationErrorCode</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum InstantiationErrorCode : UInt32, CaseIterable, Codable</code></pre>
-<pre><code>extension InstantiationErrorCode : Error</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 <p>Instantiation error.</p>
@@ -67,7 +60,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-instantiationerrorcode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case illegalArguments = 1</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">illegalArguments</span> <span class="o">=</span> <span class="mi">1</span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-instantiationerrorcode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case failed</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">failed</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ Please initialise the SDK.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sharedSdkEngineNotInstantiated</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sharedSdkEngineNotInstantiated</span></code></pre>
 </div>
 </div>
 </section>
@@ -143,7 +136,7 @@ Please initialise the SDK.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cacheFolderAccessDenied</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cacheFolderAccessDenied</span></code></pre>
 </div>
 </div>
 </section>
@@ -168,7 +161,7 @@ Please initialise the SDK.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case persistentMapStorageFolderAccessDenied</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">persistentMapStorageFolderAccessDenied</span></code></pre>
 </div>
 </div>
 </section>
@@ -193,7 +186,7 @@ Please initialise the SDK.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case failedToLockCacheFolder</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">failedToLockCacheFolder</span></code></pre>
 </div>
 </div>
 </section>
@@ -218,7 +211,7 @@ Please initialise the SDK.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case failedToCreateAnalyticsService</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">failedToCreateAnalyticsService</span></code></pre>
 </div>
 </div>
 </section>
@@ -246,7 +239,7 @@ B. “(double quote)</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case accessKeyContainsIllegalSymbol</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">accessKeyContainsIllegalSymbol</span></code></pre>
 </div>
 </div>
 </section>
@@ -274,7 +267,7 @@ B. “(double quote)</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case accessKeySecretContainsIllegalSymbol</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">accessKeySecretContainsIllegalSymbol</span></code></pre>
 </div>
 </div>
 </section>
@@ -299,7 +292,7 @@ B. “(double quote)</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case layerConfigurationMismatch</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">layerConfigurationMismatch</span></code></pre>
 </div>
 </div>
 </section>
@@ -325,7 +318,7 @@ was called already.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sdkEngineAlreadyDisposed</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sdkEngineAlreadyDisposed</span></code></pre>
 </div>
 </div>
 </section>
@@ -351,7 +344,7 @@ Check the corectness of HRNs and versions.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case invalidCatalogConfiguration</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">invalidCatalogConfiguration</span></code></pre>
 </div>
 </div>
 </section>
@@ -376,7 +369,7 @@ Check the corectness of HRNs and versions.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case dataFolderAccessDenied</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">dataFolderAccessDenied</span></code></pre>
 </div>
 </div>
 </section>
@@ -392,8 +385,8 @@ Check the corectness of HRNs and versions.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

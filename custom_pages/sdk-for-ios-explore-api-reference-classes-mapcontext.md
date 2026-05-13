@@ -1,5 +1,5 @@
 ---
-title: "MapContext Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcontext"
 <!-- MapContext.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapContext"></a>
 <a title="MapContext Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcontext"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapContext</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapContext</code></pre>
-<pre><code>extension MapContext: NativeBase</code></pre>
-<pre><code>extension MapContext: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapContext</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapContext</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapContext</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>MapContext is the rendering engine and the context in which virtual geographic maps get rendered.</p>
@@ -76,7 +69,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias SetMemoryManagementOptionsCompletionHandler = (_ result: MapContext.MemoryManagementResult) -&gt; Void</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">SetMemoryManagementOptionsCompletionHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">result</span><span class="p">:</span> <span class="kt">MapContext</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext-memorymanagementresult">MemoryManagementResult</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 <div>
@@ -123,7 +116,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum MemoryManagementStrategy : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">MemoryManagementStrategy</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -151,7 +144,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum MemoryManagementResultCode : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">MemoryManagementResultCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -177,7 +170,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum ResourceType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">ResourceType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -203,7 +196,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum FreeResourceSeverity : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">FreeResourceSeverity</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -231,7 +224,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct MemoryManagementResult</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MemoryManagementResult</span></code></pre>
 </div>
 </div>
 </section>
@@ -259,7 +252,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct MemoryManagementOptions</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MemoryManagementOptions</span></code></pre>
 </div>
 </div>
 </section>
@@ -286,7 +279,7 @@ For example, some memory can be freed when the application transitions to the ba
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func freeResource(type: MapContext.ResourceType, severity: MapContext.FreeResourceSeverity)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">freeResource</span><span class="p">(</span><span class="nv">type</span><span class="p">:</span> <span class="kt">MapContext</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext-resourcetype">ResourceType</a></span><span class="p">,</span> <span class="nv">severity</span><span class="p">:</span> <span class="kt">MapContext</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext-freeresourceseverity">FreeResourceSeverity</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -341,7 +334,7 @@ For example, some memory can be freed when the application transitions to the ba
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func getMemoryManagementOptions() -&gt; MapContext.MemoryManagementOptions</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getMemoryManagementOptions</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">MapContext</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext-memorymanagementoptions">MemoryManagementOptions</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -378,7 +371,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setMemoryManagementOptions(_ memoryManagementOptions: MapContext.MemoryManagementOptions, completion: MapContext.SetMemoryManagementOptionsCompletionHandler?)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setMemoryManagementOptions</span><span class="p">(</span><span class="n">_</span> <span class="nv">memoryManagementOptions</span><span class="p">:</span> <span class="kt">MapContext</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext-memorymanagementoptions">MemoryManagementOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kt">MapContext</span><span class="o">.</span><span class="kt"><a href="../Classes/MapContext.html#/s:7heresdk10MapContextC43SetMemoryManagementOptionsCompletionHandlera">SetMemoryManagementOptionsCompletionHandler</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -426,8 +419,8 @@ completion to pass the return value to the caller.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

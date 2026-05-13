@@ -1,5 +1,5 @@
 ---
-title: "GeoCorridor Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-geocorridor"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-geocorridor"
 <!-- GeoCorridor.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/GeoCorridor"></a>
 <a title="GeoCorridor Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-geocorridor"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>GeoCorridor</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct GeoCorridor : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">GeoCorridor</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>A geographical area that wraps around a geographical polyline with a given distance.
@@ -68,7 +61,7 @@ any point of the polyline to the closest border of the corridor is always the sa
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let polyline: [GeoCoordinates]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">polyline</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ any point of the polyline to the closest border of the corridor is always the sa
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let halfWidthInMeters: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">halfWidthInMeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ any point of the polyline to the closest border of the corridor is always the sa
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(polyline: [GeoCoordinates], halfWidthInMeters: Int32)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">polyline</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">],</span> <span class="nv">halfWidthInMeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -174,7 +167,7 @@ any point of the polyline to the closest border of the corridor is always the sa
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(polyline: [GeoCoordinates])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">polyline</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -209,8 +202,8 @@ any point of the polyline to the closest border of the corridor is always the sa
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

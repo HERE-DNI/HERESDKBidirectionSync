@@ -1,5 +1,5 @@
 ---
-title: "SDKVersion Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-sdkversion"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-sdkversion"
 <!-- SDKVersion.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/SDKVersion"></a>
 <a title="SDKVersion Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-sdkversion"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>SDKVersion</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct SDKVersion : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">SDKVersion</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The <code>SDKVersion</code> represents version information for an SDK product. It encapsulates
@@ -69,7 +62,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var productVariant: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">productVariant</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var versionName: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">versionName</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var versionGeneration: Int32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">versionGeneration</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
 </section>
@@ -144,7 +137,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var versionMajor: Int32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">versionMajor</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
 </section>
@@ -169,7 +162,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var versionMinor: Int32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">versionMinor</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
 </section>
@@ -194,7 +187,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var versionPatch: Int32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">versionPatch</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
 </section>
@@ -219,7 +212,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var versionBuild: Int32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">versionBuild</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
 </section>
@@ -244,7 +237,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var versionTag: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">versionTag</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -269,7 +262,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var backendConfig: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">backendConfig</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -294,7 +287,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(productVariant: String, versionName: String, versionGeneration: Int32, versionMajor: Int32, versionMinor: Int32, versionPatch: Int32, versionBuild: Int32, versionTag: String, backendConfig: String)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">productVariant</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">versionName</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">versionGeneration</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">versionMajor</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">versionMinor</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">versionPatch</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">versionBuild</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">versionTag</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">backendConfig</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -310,8 +303,8 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

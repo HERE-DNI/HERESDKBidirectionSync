@@ -1,5 +1,5 @@
 ---
-title: "MapView Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapview"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapview"
 <!-- MapView.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapView"></a>
 <a title="MapView Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,13 +29,13 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapview"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapView</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>@IBDesignable
-@objc(HereMapView)
-@MainActor
-open class MapView : UIView, MapViewBase</code></pre>
+<pre class="highlight swift"><code><span class="kd">@IBDesignable</span>
+<span class="kd">@objc(HereMapView)</span>
+<span class="kd">@MainActor</span>
+<span class="kd">open</span> <span class="kd">class</span> <span class="kt">MapView</span> <span class="p">:</span> <span class="kt">UIView</span><span class="p">,</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewbase">MapViewBase</a></span></code></pre>
 </div>
 </div>
 <p>A view that displays a map.
@@ -75,7 +68,7 @@ Note: Before using this class, <code><a href="sdk-for-ios-explore-api-reference-
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias TakeScreenshotCallback = (UIImage?) -&gt; Void</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">TakeScreenshotCallback</span> <span class="o">=</span> <span class="p">(</span><span class="kt">UIImage</span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 </section>
@@ -106,7 +99,7 @@ markers should be used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class ViewPin</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">ViewPin</span></code></pre>
 </div>
 </div>
 </section>
@@ -131,8 +124,8 @@ markers should be used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public var camera: MapCamera { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">camera</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamera">MapCamera</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -157,8 +150,8 @@ public var camera: MapCamera { get }</code></pre>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public var gestures: Gestures { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">gestures</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-gestures">Gestures</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -182,8 +175,8 @@ public var gestures: Gestures { get }</code></pre>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public var mapScene: MapScene { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">mapScene</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapscene">MapScene</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -207,8 +200,8 @@ public var mapScene: MapScene { get }</code></pre>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public var mapContext: MapContext { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">mapContext</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext">MapContext</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -232,8 +225,8 @@ public var mapContext: MapContext { get }</code></pre>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public var hereMap: HereMap { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">hereMap</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-heremap">HereMap</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -260,8 +253,8 @@ The default value is 60 frames per second.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public var frameRate: Int32 { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">frameRate</span><span class="p">:</span> <span class="kt">Int32</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -286,8 +279,8 @@ public var frameRate: Int32 { get set }</code></pre>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public var viewportSize: Size2D { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">viewportSize</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-size2d">Size2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -316,8 +309,8 @@ redraw of any visible MapView.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public static var primaryLanguage: LanguageCode? { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="kd">static</span> <span class="k">var</span> <span class="nv">primaryLanguage</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-languagecode">LanguageCode</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -347,8 +340,8 @@ Note: This feature is in beta state and thus there can be bugs and unexpected be
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public static var secondaryLanguage: LanguageCode? { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="kd">static</span> <span class="k">var</span> <span class="nv">secondaryLanguage</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-languagecode">LanguageCode</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -379,8 +372,8 @@ Note: This feature is in beta state and thus there can be bugs and unexpected be
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public static var shadowQuality: ShadowQuality { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="kd">static</span> <span class="k">var</span> <span class="nv">shadowQuality</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-shadowquality">ShadowQuality</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -410,8 +403,8 @@ prohibited from issuing rendering commands when being in background.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public func pause()</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">pause</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -440,8 +433,8 @@ or <code>sceneDidBecomeActive(_:)</code> of the scene delegate.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public func resume()</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">resume</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -466,8 +459,8 @@ public func resume()</code></pre>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public convenience init()</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="n">convenience</span> <span class="nf">init</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -492,8 +485,8 @@ public convenience init()</code></pre>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-override public convenience init(frame: CGRect)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="k">override</span> <span class="kd">public</span> <span class="n">convenience</span> <span class="nf">init</span><span class="p">(</span><span class="nv">frame</span><span class="p">:</span> <span class="kt">CGRect</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -518,8 +511,8 @@ override public convenience init(frame: CGRect)</code></pre>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public convenience init(options: MapViewOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="n">convenience</span> <span class="nf">init</span><span class="p">(</span><span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapviewoptions">MapViewOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -563,8 +556,8 @@ public convenience init(options: MapViewOptions)</code></pre>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public convenience init(frame: CGRect, options: MapViewOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="n">convenience</span> <span class="nf">init</span><span class="p">(</span><span class="nv">frame</span><span class="p">:</span> <span class="kt">CGRect</span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapviewoptions">MapViewOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -620,8 +613,8 @@ public convenience init(frame: CGRect, options: MapViewOptions)</code></pre>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public convenience init(frame: CGRect, withSdkEngine sdkEngine: SDKNativeEngine, options: MapViewOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="n">convenience</span> <span class="nf">init</span><span class="p">(</span><span class="nv">frame</span><span class="p">:</span> <span class="kt">CGRect</span><span class="p">,</span> <span class="n">withSdkEngine</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapviewoptions">MapViewOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -689,8 +682,8 @@ public convenience init(frame: CGRect, withSdkEngine sdkEngine: SDKNativeEngine,
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public convenience init(frame: CGRect, withSdkEngine sdkEngine: SDKNativeEngine)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="n">convenience</span> <span class="nf">init</span><span class="p">(</span><span class="nv">frame</span><span class="p">:</span> <span class="kt">CGRect</span><span class="p">,</span> <span class="n">withSdkEngine</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -715,8 +708,8 @@ public convenience init(frame: CGRect, withSdkEngine sdkEngine: SDKNativeEngine)
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public init(frame: CGRect, withSdkEngine sdkEngine: SDKNativeEngine, withOptions options: MapViewOptions?)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">frame</span><span class="p">:</span> <span class="kt">CGRect</span><span class="p">,</span> <span class="n">withSdkEngine</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="n">withOptions</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapviewoptions">MapViewOptions</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -784,8 +777,8 @@ public init(frame: CGRect, withSdkEngine sdkEngine: SDKNativeEngine, withOptions
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public required init?(coder aDecoder: NSCoder)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="kd">required</span> <span class="nf">init</span><span class="p">?(</span><span class="n">coder</span> <span class="nv">aDecoder</span><span class="p">:</span> <span class="kt">NSCoder</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -811,8 +804,8 @@ when the corresponding <code><a href="sdk-for-ios-explore-api-reference-..-class
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public var isValid: Bool { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">isValid</span><span class="p">:</span> <span class="kt">Bool</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -843,8 +836,8 @@ less than zero or greater than view’s dimensions.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public func geoToViewCoordinates(geoCoordinates: GeoCoordinates) -&gt; Point2D?</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">geoToViewCoordinates</span><span class="p">(</span><span class="nv">geoCoordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point2d">Point2D</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -902,8 +895,8 @@ not applied.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public func viewToGeoCoordinates(viewCoordinates: Point2D) -&gt; GeoCoordinates?</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">viewToGeoCoordinates</span><span class="p">(</span><span class="nv">viewCoordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point2d">Point2D</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -955,8 +948,8 @@ of the map view.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public func pick(filter: MapScene.MapPickFilter?, inside viewArea: Rectangle2D, completion callback: @escaping (MapPickResult?) -&gt; Void)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">pick</span><span class="p">(</span><span class="nv">filter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapscene">MapScene</a></span><span class="o">.</span><span class="kt">MapPickFilter</span><span class="p">?,</span> <span class="n">inside</span> <span class="nv">viewArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-rectangle2d">Rectangle2D</a></span><span class="p">,</span> <span class="n">completion</span> <span class="nv">callback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="p">(</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappickresult">MapPickResult</a></span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1027,8 +1020,8 @@ when an application is running in background - even if MapView.pause() was not c
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public func takeScreenshot(callback: @escaping TakeScreenshotCallback)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">takeScreenshot</span><span class="p">(</span><span class="nv">callback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Classes/MapView.html#/s:7heresdk7MapViewC22TakeScreenshotCallbacka">TakeScreenshotCallback</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1073,8 +1066,8 @@ Adding the same object multiple times has no effect.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public func addLifecycleDelegate(_ lifecycleListener: MapViewLifecycleDelegate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">addLifecycleDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">lifecycleListener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewlifecycledelegate">MapViewLifecycleDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1120,8 +1113,8 @@ has no effect.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public func removeLifecycleDelegate(_ lifecycleListener: MapViewLifecycleDelegate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeLifecycleDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">lifecycleListener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewlifecycledelegate">MapViewLifecycleDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1173,8 +1166,8 @@ the map items, etc.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public func reinit()</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">reinit</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -1206,8 +1199,8 @@ For map views smaller than 250 dip in both width and height, the watermark will 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public func setWatermarkLocation(anchor: Anchor2D, offset: Point2D)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">setWatermarkLocation</span><span class="p">(</span><span class="nv">anchor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-anchor2d">Anchor2D</a></span><span class="p">,</span> <span class="nv">offset</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point2d">Point2D</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1284,8 +1277,8 @@ To get notified when a render target gets attached to the MapView, see <code>Map
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public var pixelScale: Double { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">pixelScale</span><span class="p">:</span> <span class="kt">Double</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1310,8 +1303,8 @@ public var pixelScale: Double { get }</code></pre>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public var watermarkSize: Size2D { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">watermarkSize</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-size2d">Size2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1343,8 +1336,8 @@ pinned views to exceed <code>MapView</code>’s bounds.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public func pinView(_ view: UIView, to coordinates: GeoCoordinates) -&gt; ViewPin?</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">pinView</span><span class="p">(</span><span class="n">_</span> <span class="nv">view</span><span class="p">:</span> <span class="kt">UIView</span><span class="p">,</span> <span class="n">to</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapview-viewpin">ViewPin</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -1405,8 +1398,8 @@ Trying to unpin a view that was not pinned or was unpinned before has no effect.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public func unpinView(_ view: UIView)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">unpinView</span><span class="p">(</span><span class="n">_</span> <span class="nv">view</span><span class="p">:</span> <span class="kt">UIView</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1450,8 +1443,8 @@ public func unpinView(_ view: UIView)</code></pre>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public var viewPins: [MapView.ViewPin] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">viewPins</span><span class="p">:</span> <span class="p">[</span><span class="kt">MapView</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapview-viewpin">ViewPin</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -1478,8 +1471,8 @@ a memory warning (<code>UIViewController.didReceiveMemoryWarning()</code>)</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@MainActor
-public func handleLowMemory()</code></pre>
+<pre class="highlight swift"><code><span class="kd">@MainActor</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">handleLowMemory</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -1495,8 +1488,8 @@ public func handleLowMemory()</code></pre>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

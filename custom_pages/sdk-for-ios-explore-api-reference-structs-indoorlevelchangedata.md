@@ -1,5 +1,5 @@
 ---
-title: "IndoorLevelChangeData Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-indoorlevelchangedata"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-indoorlevelchangedata"
 <!-- IndoorLevelChangeData.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/IndoorLevelChangeData"></a>
 <a title="IndoorLevelChangeData Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-indoorlevelchangedata"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>IndoorLevelChangeData</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct IndoorLevelChangeData : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">IndoorLevelChangeData</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents the level change data for an indoor maneuver.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-indoorlevelchangedata"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var connector: IndoorLevelChangeFeatures</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">connector</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-indoorlevelchangefeatures">IndoorLevelChangeFeatures</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ a value of -1 means that a user needs to go one level down. The value is never 0
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var deltaZ: Int32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">deltaZ</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
 </section>
@@ -117,7 +110,7 @@ a value of -1 means that a user needs to go one level down. The value is never 0
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(connector: IndoorLevelChangeFeatures, deltaZ: Int32)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">connector</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-indoorlevelchangefeatures">IndoorLevelChangeFeatures</a></span><span class="p">,</span> <span class="nv">deltaZ</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -133,8 +126,8 @@ a value of -1 means that a user needs to go one level down. The value is never 0
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

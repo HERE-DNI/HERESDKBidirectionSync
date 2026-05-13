@@ -1,5 +1,5 @@
 ---
-title: "TunnelCategory Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-tunnelcategory"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-tunnelcategory"
 <!-- TunnelCategory.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/TunnelCategory"></a>
 <a title="TunnelCategory Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-tunnelcategory"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TunnelCategory</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum TunnelCategory : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TunnelCategory</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Specifies the tunnel categories.</p>
@@ -70,7 +63,7 @@ which could cause a very large explosion.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case b</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">b</span></code></pre>
 </div>
 </div>
 </section>
@@ -96,7 +89,7 @@ could cause a large explosion or the extensive release of toxic substances.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case c</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">c</span></code></pre>
 </div>
 </div>
 </section>
@@ -122,7 +115,7 @@ could cause a large fire.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case d</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">d</span></code></pre>
 </div>
 </div>
 </section>
@@ -149,7 +142,7 @@ waste and samples.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case e</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">e</span></code></pre>
 </div>
 </div>
 </section>
@@ -165,8 +158,8 @@ waste and samples.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

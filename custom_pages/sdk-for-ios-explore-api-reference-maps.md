@@ -1,5 +1,5 @@
 ---
-title: "Maps  Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-maps"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-maps"
 <!-- Maps.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Section/Maps"></a>
 <a title="Maps  Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
@@ -34,7 +27,7 @@ slug: "sdk-for-ios-explore-api-reference-maps"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Maps</h1>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -59,7 +52,7 @@ slug: "sdk-for-ios-explore-api-reference-maps"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol AnimationDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">AnimationDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -85,7 +78,7 @@ slug: "sdk-for-ios-explore-api-reference-maps"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum AnimationState : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">AnimationState</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -113,9 +106,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class AssetsManager</code></pre>
-<pre><code>extension AssetsManager: NativeBase</code></pre>
-<pre><code>extension AssetsManager: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">AssetsManager</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">AssetsManager</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">AssetsManager</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -143,9 +136,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class DataAttributes : DataAttributesBase</code></pre>
-<pre><code>extension DataAttributes: NativeBase</code></pre>
-<pre><code>extension DataAttributes: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">DataAttributes</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-dataattributesbase">DataAttributesBase</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">DataAttributes</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">DataAttributes</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -173,9 +166,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class DataAttributesAccessor : DataAttributesBase</code></pre>
-<pre><code>extension DataAttributesAccessor: NativeBase</code></pre>
-<pre><code>extension DataAttributesAccessor: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">DataAttributesAccessor</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-dataattributesbase">DataAttributesBase</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">DataAttributesAccessor</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">DataAttributesAccessor</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -203,9 +196,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class DataAttributesBuilder</code></pre>
-<pre><code>extension DataAttributesBuilder: NativeBase</code></pre>
-<pre><code>extension DataAttributesBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">DataAttributesBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">DataAttributesBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">DataAttributesBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -234,9 +227,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class DataAttributeValue</code></pre>
-<pre><code>extension DataAttributeValue: NativeBase</code></pre>
-<pre><code>extension DataAttributeValue: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">DataAttributeValue</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">DataAttributeValue</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">DataAttributeValue</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -262,7 +255,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct DashPattern : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">DashPattern</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -289,7 +282,7 @@ Double-tap gesture occurs after double-tapping on the screen.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol DoubleTapDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">DoubleTapDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -320,7 +313,7 @@ ones.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum DrawOrderType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">DrawOrderType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -346,9 +339,9 @@ ones.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class Easing</code></pre>
-<pre><code>extension Easing: NativeBase</code></pre>
-<pre><code>extension Easing: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">Easing</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Easing</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Easing</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -374,7 +367,7 @@ ones.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum EasingFunction : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EasingFunction</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -400,7 +393,7 @@ ones.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct GeoCoordinatesKeyframe : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">GeoCoordinatesKeyframe</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -426,7 +419,7 @@ ones.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct GeoOrientationKeyframe : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">GeoOrientationKeyframe</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -452,7 +445,7 @@ ones.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum GestureState : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">GestureState</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -478,7 +471,7 @@ ones.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum GestureType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">GestureType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -505,9 +498,9 @@ Please note that this class holds strong references to the gesture delegates.</p
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class Gestures</code></pre>
-<pre><code>extension Gestures: NativeBase</code></pre>
-<pre><code>extension Gestures: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">Gestures</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Gestures</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Gestures</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -535,9 +528,9 @@ The layers, their relation to the objects and spaces, the layout and the represe
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class HereMap</code></pre>
-<pre><code>extension HereMap: NativeBase</code></pre>
-<pre><code>extension HereMap: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">HereMap</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">HereMap</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">HereMap</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -571,7 +564,7 @@ Related APIs may change for new releases without a deprecation process.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class IconProvider</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">IconProvider</span></code></pre>
 </div>
 </div>
 </section>
@@ -597,7 +590,7 @@ Related APIs may change for new releases without a deprecation process.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum IconProviderAssetType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">IconProviderAssetType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -623,10 +616,10 @@ Related APIs may change for new releases without a deprecation process.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias IconProviderCallback = (
-_ icon: UIImage?,
-_ iconDescription: String?,
-_ error: IconProviderError?) -&gt; Void</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">IconProviderCallback</span> <span class="o">=</span> <span class="p">(</span>
+    <span class="n">_</span> <span class="nv">icon</span><span class="p">:</span> <span class="kt">UIImage</span><span class="p">?,</span>
+    <span class="n">_</span> <span class="nv">iconDescription</span><span class="p">:</span> <span class="kt">String</span><span class="p">?,</span>
+    <span class="n">_</span> <span class="nv">error</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-enums-iconprovidererror">IconProviderError</a></span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 <div>
@@ -695,7 +688,7 @@ _ error: IconProviderError?) -&gt; Void</code></pre>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum IconProviderError : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">IconProviderError</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -721,7 +714,7 @@ _ error: IconProviderError?) -&gt; Void</code></pre>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum ImageFormat : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">ImageFormat</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -750,9 +743,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class JsonStyleFactory</code></pre>
-<pre><code>extension JsonStyleFactory: NativeBase</code></pre>
-<pre><code>extension JsonStyleFactory: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">JsonStyleFactory</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">JsonStyleFactory</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">JsonStyleFactory</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -778,7 +771,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum KeyframeInterpolationMode : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">KeyframeInterpolationMode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -804,7 +797,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum LineCap : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">LineCap</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -833,9 +826,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class LineTileDataSource</code></pre>
-<pre><code>extension LineTileDataSource: NativeBase</code></pre>
-<pre><code>extension LineTileDataSource: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">LineTileDataSource</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">LineTileDataSource</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">LineTileDataSource</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -865,7 +858,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol LineTileSource : TileSource</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">LineTileSource</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-tilesource">TileSource</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -891,7 +884,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol LineTileSourceLoadResultHandler : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">LineTileSourceLoadResultHandler</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -926,9 +919,9 @@ disappear from the viewport due to the new perspective.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class LocationIndicator</code></pre>
-<pre><code>extension LocationIndicator: NativeBase</code></pre>
-<pre><code>extension LocationIndicator: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">LocationIndicator</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">LocationIndicator</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">LocationIndicator</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -955,7 +948,7 @@ Long-press gesture occurs after tapping and holding the finger for a long time o
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol LongPressDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">LongPressDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -984,9 +977,9 @@ number of points - and a head at its end.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapArrow</code></pre>
-<pre><code>extension MapArrow: NativeBase</code></pre>
-<pre><code>extension MapArrow: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapArrow</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapArrow</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapArrow</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1221,9 +1214,9 @@ and camera projection (<code>field of view</code>, <code>focal length</code> and
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapCamera</code></pre>
-<pre><code>extension MapCamera: NativeBase</code></pre>
-<pre><code>extension MapCamera: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapCamera</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCamera</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCamera</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1250,9 +1243,9 @@ Creation is done via <code><a href="sdk-for-ios-explore-api-reference-classes-ma
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapCameraAnimation</code></pre>
-<pre><code>extension MapCameraAnimation: NativeBase</code></pre>
-<pre><code>extension MapCameraAnimation: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapCameraAnimation</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraAnimation</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraAnimation</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1278,9 +1271,9 @@ Creation is done via <code><a href="sdk-for-ios-explore-api-reference-classes-ma
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapCameraAnimationFactory</code></pre>
-<pre><code>extension MapCameraAnimationFactory: NativeBase</code></pre>
-<pre><code>extension MapCameraAnimationFactory: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapCameraAnimationFactory</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraAnimationFactory</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraAnimationFactory</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1307,7 +1300,7 @@ camera parameters change.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol MapCameraDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">MapCameraDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -1334,9 +1327,9 @@ and interpolation mode. Can only hold keyframes of a single type.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapCameraKeyframeTrack</code></pre>
-<pre><code>extension MapCameraKeyframeTrack: NativeBase</code></pre>
-<pre><code>extension MapCameraKeyframeTrack: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapCameraKeyframeTrack</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraKeyframeTrack</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraKeyframeTrack</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1365,9 +1358,9 @@ and for all future changes to the camera.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapCameraLimits</code></pre>
-<pre><code>extension MapCameraLimits: NativeBase</code></pre>
-<pre><code>extension MapCameraLimits: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapCameraLimits</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraLimits</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraLimits</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1394,9 +1387,9 @@ Creation is done via <code><a href="sdk-for-ios-explore-api-reference-classes-ma
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapCameraUpdate</code></pre>
-<pre><code>extension MapCameraUpdate: NativeBase</code></pre>
-<pre><code>extension MapCameraUpdate: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapCameraUpdate</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraUpdate</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraUpdate</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1418,15 +1411,17 @@ Creation is done via <code><a href="sdk-for-ios-explore-api-reference-classes-ma
 <p>Factory for creating MapCameraUpdate to change map’s camera.</p>
 <p>For some factory methods you can apply an additional padding in pixels by setting a
 <code>viewRectangle</code> parameter based on the current size of the map view:</p>
-<pre><code>let leftPaddingInPixels = 5
-let rightPaddingInPixels = 5
-let topPaddingInPixels = 5
-let bottomPaddingInPixels = 5
-let horizontalPaddingInPixels = leftPaddingInPixels + rightPaddingInPixels
-let verticalPaddingInPixels = topPaddingInPixels + bottomPaddingInPixels
-let origin = Point2D(leftPaddingInPixels, topPaddingInPixels)
-let sizeInPixels = Size2D(width: mapView.viewportSize.width - horizontalPaddingInPixels, height: mapView.viewportSize.height - verticalPaddingInPixels)
-let paddedViewRectangle = Rectangle2D(origin: origin, size: sizeInPixels)</code></pre>
+<pre class="highlight swift"><code><span class="k">let</span> <span class="nv">leftPaddingInPixels</span> <span class="o">=</span> <span class="mi">5</span>
+<span class="k">let</span> <span class="nv">rightPaddingInPixels</span> <span class="o">=</span> <span class="mi">5</span>
+<span class="k">let</span> <span class="nv">topPaddingInPixels</span> <span class="o">=</span> <span class="mi">5</span>
+<span class="k">let</span> <span class="nv">bottomPaddingInPixels</span> <span class="o">=</span> <span class="mi">5</span>
+<span class="k">let</span> <span class="nv">horizontalPaddingInPixels</span> <span class="o">=</span> <span class="n">leftPaddingInPixels</span> <span class="o">+</span> <span class="n">rightPaddingInPixels</span>
+<span class="k">let</span> <span class="nv">verticalPaddingInPixels</span> <span class="o">=</span> <span class="n">topPaddingInPixels</span> <span class="o">+</span> <span class="n">bottomPaddingInPixels</span>
+
+<span class="k">let</span> <span class="nv">origin</span> <span class="o">=</span> <span class="kt">Point2D</span><span class="p">(</span><span class="n">leftPaddingInPixels</span><span class="p">,</span> <span class="n">topPaddingInPixels</span><span class="p">)</span>
+<span class="k">let</span> <span class="nv">sizeInPixels</span> <span class="o">=</span> <span class="kt">Size2D</span><span class="p">(</span><span class="nv">width</span><span class="p">:</span> <span class="n">mapView</span><span class="o">.</span><span class="n">viewportSize</span><span class="o">.</span><span class="n">width</span> <span class="o">-</span> <span class="n">horizontalPaddingInPixels</span><span class="p">,</span> <span class="nv">height</span><span class="p">:</span> <span class="n">mapView</span><span class="o">.</span><span class="n">viewportSize</span><span class="o">.</span><span class="n">height</span> <span class="o">-</span> <span class="n">verticalPaddingInPixels</span><span class="p">)</span>
+<span class="k">let</span> <span class="nv">paddedViewRectangle</span> <span class="o">=</span> <span class="kt">Rectangle2D</span><span class="p">(</span><span class="nv">origin</span><span class="p">:</span> <span class="n">origin</span><span class="p">,</span> <span class="nv">size</span><span class="p">:</span> <span class="n">sizeInPixels</span><span class="p">)</span>
+</code></pre>
 <p>The origin indicates the top-left corner of the rectangle. An origin of (0, 0) indicates
 also the top-left corner of the map’s viewport.</p>
 <a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-mapcameraupdatefactory">See more</a>
@@ -1435,9 +1430,9 @@ also the top-left corner of the map’s viewport.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapCameraUpdateFactory</code></pre>
-<pre><code>extension MapCameraUpdateFactory: NativeBase</code></pre>
-<pre><code>extension MapCameraUpdateFactory: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapCameraUpdateFactory</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraUpdateFactory</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraUpdateFactory</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1463,7 +1458,7 @@ also the top-left corner of the map’s viewport.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum MapContentCategory : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">MapContentCategory</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1490,9 +1485,9 @@ can already be changed before a map view instance is created.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapContentSettings</code></pre>
-<pre><code>extension MapContentSettings: NativeBase</code></pre>
-<pre><code>extension MapContentSettings: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapContentSettings</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapContentSettings</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapContentSettings</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1518,7 +1513,7 @@ can already be changed before a map view instance is created.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum MapContentType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">MapContentType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1550,9 +1545,9 @@ selected it cannot be changed.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapContext</code></pre>
-<pre><code>extension MapContext: NativeBase</code></pre>
-<pre><code>extension MapContext: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapContext</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapContext</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapContext</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1578,7 +1573,7 @@ selected it cannot be changed.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum MapError : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">MapError</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1606,7 +1601,7 @@ selected it cannot be changed.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct MapFeatures</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MapFeatures</span></code></pre>
 </div>
 </div>
 </section>
@@ -1637,7 +1632,7 @@ using <code><a href="Classes/MapScene.html#/s:7heresdk8MapSceneC17getActiveFeatu
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct MapFeatureModes</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MapFeatureModes</span></code></pre>
 </div>
 </div>
 </section>
@@ -1667,7 +1662,7 @@ redraws are necessary.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol MapIdleDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">MapIdleDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -1697,9 +1692,9 @@ resource sharing and reduce the amount of needed memory.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapImage</code></pre>
-<pre><code>extension MapImage: NativeBase</code></pre>
-<pre><code>extension MapImage: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapImage</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapImage</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapImage</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1731,9 +1726,9 @@ To stop displaying it, remove it from the scene using <code><a href="Classes/Map
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapImageOverlay</code></pre>
-<pre><code>extension MapImageOverlay: NativeBase</code></pre>
-<pre><code>extension MapImageOverlay: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapImageOverlay</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapImageOverlay</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapImageOverlay</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1762,9 +1757,9 @@ see <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarkeranimation"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapItemKeyFrameTrack</code></pre>
-<pre><code>extension MapItemKeyFrameTrack: NativeBase</code></pre>
-<pre><code>extension MapItemKeyFrameTrack: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapItemKeyFrameTrack</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapItemKeyFrameTrack</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapItemKeyFrameTrack</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1789,9 +1784,9 @@ see <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarkeranimation"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapItemRepresentation</code></pre>
-<pre><code>extension MapItemRepresentation: NativeBase</code></pre>
-<pre><code>extension MapItemRepresentation: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapItemRepresentation</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapItemRepresentation</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapItemRepresentation</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1819,9 +1814,9 @@ gets added to a map. The layer gets removed from the map upon instance destructi
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapLayer</code></pre>
-<pre><code>extension MapLayer: NativeBase</code></pre>
-<pre><code>extension MapLayer: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapLayer</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapLayer</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapLayer</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1874,18 +1869,20 @@ rendering order gets modified in the following way:</p>
 </ul>
 <p>This could be achieved with the help of the MapLayerPriorityBuilder and the MapLayerBuilder as in the
 following example:</p>
-<pre><code>let layerPriority = MapLayerPriorityBuilder()
-.renderedAfterLayer(named: "water") // places main category after 'water'
-.withCategory("background")
-.renderedAfterLayer(named: "water") // places 'background' category after 'water' and before the
-// layer's main category.
-.build();
-let layer = MapLayerBuilder()
-.withDataSource(named: "DataSourceName", contentType: MapContentType.line)
-.forMap(map)
-.withName("zone")
-.withPriority(layerPriority)
-.build();</code></pre>
+<pre class="highlight swift"><code>  <span class="k">let</span> <span class="nv">layerPriority</span> <span class="o">=</span> <span class="kt">MapLayerPriorityBuilder</span><span class="p">()</span>
+     <span class="o">.</span><span class="nf">renderedAfterLayer</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"water"</span><span class="p">)</span> <span class="c1">// places main category after 'water'</span>
+     <span class="o">.</span><span class="nf">withCategory</span><span class="p">(</span><span class="s">"background"</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">renderedAfterLayer</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"water"</span><span class="p">)</span> <span class="c1">// places 'background' category after 'water' and before the</span>
+                                         <span class="c1">// layer's main category.</span>
+     <span class="o">.</span><span class="nf">build</span><span class="p">();</span>
+
+  <span class="k">let</span> <span class="nv">layer</span> <span class="o">=</span> <span class="kt">MapLayerBuilder</span><span class="p">()</span>
+     <span class="o">.</span><span class="nf">withDataSource</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"DataSourceName"</span><span class="p">,</span> <span class="nv">contentType</span><span class="p">:</span> <span class="kt">MapContentType</span><span class="o">.</span><span class="n">line</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">forMap</span><span class="p">(</span><span class="n">map</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">withName</span><span class="p">(</span><span class="s">"zone"</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">withPriority</span><span class="p">(</span><span class="n">layerPriority</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">build</span><span class="p">();</span>
+</code></pre>
 <p>In case no layer priority or an empty one is provided, or if a reference layer-category pair is not
 present in the rendering order, the layer is going to be rendered last with respect to the rendering
 order at the time of its creation.</p>
@@ -1911,9 +1908,9 @@ assignment can be done for all types of content: point, line, polygon.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapLayerBuilder</code></pre>
-<pre><code>extension MapLayerBuilder: NativeBase</code></pre>
-<pre><code>extension MapLayerBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapLayerBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapLayerBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapLayerBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1938,9 +1935,9 @@ assignment can be done for all types of content: point, line, polygon.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapLayerPriority</code></pre>
-<pre><code>extension MapLayerPriority: NativeBase</code></pre>
-<pre><code>extension MapLayerPriority: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapLayerPriority</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapLayerPriority</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapLayerPriority</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -1981,14 +1978,15 @@ raster layer).</p>
 </ul>
 <p>This means layer “background” is rendered first. Next up is layer “water”. Then category “outline” of
 layer “roads”, followed by the main category of layer “roads”. Layer “labels” is then rendered last.</p>
-<p>
+<p><p>
+Now let’s consider a newly created layer ‘zone’ and its categories:</p>
 <ul>
 <li>zone</li>
 <li>zone:background</li>
 <li>zone:lines-outline</li>
 <li>zone:lines</li>
 </ul>
-
+<p>The user wants to alter the rendering order so that it looks like:</p>
 <ul>
 <li>background</li>
 <li>water</li>
@@ -2000,26 +1998,35 @@ layer “roads”, followed by the main category of layer “roads”. Layer “
 <li>zone:lines</li>
 <li>labels</li>
 </ul>
+<p>This could be achieved with the help of the MapLayerPriorityBuilder and a sequence of calls to its
+<code>renderedBeforeLayer()</code> and <code>renderedAfterLayer()</code> member functions.</p>
+<p>Note that the order of calls matters and one can use a previously defined layer or category
+as a reference:</p>
+<pre class="highlight swift"><code>  <span class="k">let</span> <span class="nv">zoneLayerPriority</span> <span class="o">=</span> <span class="kt">MapLayerPriorityBuilder</span><span class="p">()</span>
+      <span class="o">.</span><span class="nf">renderedAfterLayer</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"water"</span><span class="p">)</span>     <span class="c1">// places "zone" after "water"</span>
+                                              <span class="c1">// in the rendering order</span>
+      <span class="o">.</span><span class="nf">withCategory</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"background"</span><span class="p">)</span>
+      <span class="o">.</span><span class="nf">renderedAfterLayer</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"water"</span><span class="p">)</span>     <span class="c1">// places "zone:background" after "water"</span>
+                                              <span class="c1">// in the rendering order and thus shifts</span>
+                                              <span class="c1">// "zone" to be rendered later</span>
+      <span class="o">.</span><span class="nf">withCategory</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"lines-outline"</span><span class="p">)</span>
+      <span class="o">.</span><span class="nf">renderedAfterLayer</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"road"</span><span class="p">)</span>      <span class="c1">// places "zone:lines-outline" after "road"</span>
+                                              <span class="c1">// in the rendering order</span>
+      <span class="o">.</span><span class="nf">withCategory</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"lines"</span><span class="p">)</span>
+      <span class="o">.</span><span class="nf">renderedAfterLayer</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"zone"</span><span class="p">,</span> <span class="nv">categoryName</span><span class="p">:</span> <span class="s">"lines-outline"</span><span class="p">)</span> <span class="c1">// places "zone:lines" after</span>
+                                                                        <span class="c1">// "zone:lines-outline" in the rendering order</span>
+      <span class="o">.</span><span class="nf">build</span><span class="p">();</span>
 
-
-<pre><code>let zoneLayerPriority = MapLayerPriorityBuilder()
-.renderedAfterLayer(named: "water") // places "zone" after "water"
-// in the rendering order
-.withCategory(named: "background")
-.renderedAfterLayer(named: "water") // places "zone:background" after "water"
-// in the rendering order and thus shifts
-// "zone" to be rendered later
-.withCategory(named: "lines-outline")
-.renderedAfterLayer(named: "road") // places "zone:lines-outline" after "road"
-// in the rendering order
-.withCategory(named: "lines")
-.renderedAfterLayer(named: "zone", categoryName: "lines-outline") // places "zone:lines" after
-// "zone:lines-outline" in the rendering order
-.build();
-zoneLayer.setPriority(zoneLayerPriority); // applies the priority to the zone layer
-// and its categories in one single operation.</code></pre>
-
-
+  <span class="n">zoneLayer</span><span class="o">.</span><span class="nf">setPriority</span><span class="p">(</span><span class="n">zoneLayerPriority</span><span class="p">);</span>  <span class="c1">// applies the priority to the zone layer</span>
+                                            <span class="c1">// and its categories in one single operation.</span>
+</code></pre>
+<p>In case an empty MapLayerPriority without any ordering commands is built, it is assumed that the target layer
+is going to be rendered last.</p>
+<p>Due to a current limitation for point map layers, the mentioned APIs to control the rendering
+order are not implemented. All labels will be rendered within the “labels” layer, defined in
+the scene configuration file.
+By default, all labels rendered by a point map layer are rendered last and no overlapping is
+allowed. The following categories can be used to have a different behaviour:</p>
 <ul>
 <li>‘custom-labels’ A label should be rendered first, is allowed to overlap with other labels of
 the same category and block map labels.</li>
@@ -2033,22 +2040,14 @@ Category assignment to features can be done in the style based on data attribute
 assignment can be done for all types of data: points, lines, polygons.</li>
 </ul>
 <a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-maplayerprioritybuilder">See more</a>
-</p><p>Due to a current limitation for point map layers, the mentioned APIs to control the rendering
-order are not implemented. All labels will be rendered within the “labels” layer, defined in
-the scene configuration file.
-By default, all labels rendered by a point map layer are rendered last and no overlapping is
-allowed. The following categories can be used to have a different behaviour:</p><p>In case an empty MapLayerPriority without any ordering commands is built, it is assumed that the target layer
-is going to be rendered last.</p><p>Note that the order of calls matters and one can use a previously defined layer or category
-as a reference:</p><p>This could be achieved with the help of the MapLayerPriorityBuilder and a sequence of calls to its
-<code>renderedBeforeLayer()</code> and <code>renderedAfterLayer()</code> member functions.</p><p>The user wants to alter the rendering order so that it looks like:</p><p>
-Now let’s consider a newly created layer ‘zone’ and its categories:</p></div>
+</p></div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapLayerPriorityBuilder</code></pre>
-<pre><code>extension MapLayerPriorityBuilder: NativeBase</code></pre>
-<pre><code>extension MapLayerPriorityBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapLayerPriorityBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapLayerPriorityBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapLayerPriorityBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2074,9 +2073,9 @@ Now let’s consider a newly created layer ‘zone’ and its categories:</p></d
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapLayerMapMeasureDependentStorageLevels</code></pre>
-<pre><code>extension MapLayerMapMeasureDependentStorageLevels: NativeBase</code></pre>
-<pre><code>extension MapLayerMapMeasureDependentStorageLevels: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapLayerMapMeasureDependentStorageLevels</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapLayerMapMeasureDependentStorageLevels</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapLayerMapMeasureDependentStorageLevels</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2103,7 +2102,7 @@ The range is half open - [minimumZoomLevel, maximumZoomLevel), the given maximum
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct MapLayerVisibilityRange : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MapLayerVisibilityRange</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2138,9 +2137,9 @@ that mostly affects clusters which are visually large and cover a sizeable part 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapMarkerCluster</code></pre>
-<pre><code>extension MapMarkerCluster: NativeBase</code></pre>
-<pre><code>extension MapMarkerCluster: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapMarkerCluster</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapMarkerCluster</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapMarkerCluster</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2166,7 +2165,7 @@ that mostly affects clusters which are visually large and cover a sizeable part 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct MapMeasureRange : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MapMeasureRange</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2192,9 +2191,9 @@ that mostly affects clusters which are visually large and cover a sizeable part 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapObjectDescriptor</code></pre>
-<pre><code>extension MapObjectDescriptor: NativeBase</code></pre>
-<pre><code>extension MapObjectDescriptor: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapObjectDescriptor</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapObjectDescriptor</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapObjectDescriptor</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2220,7 +2219,7 @@ that mostly affects clusters which are visually large and cover a sizeable part 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum MapProjection : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">MapProjection</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2246,9 +2245,9 @@ that mostly affects clusters which are visually large and cover a sizeable part 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapSceneLights</code></pre>
-<pre><code>extension MapSceneLights: NativeBase</code></pre>
-<pre><code>extension MapSceneLights: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapSceneLights</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapSceneLights</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapSceneLights</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2278,9 +2277,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapSceneLoadOptions</code></pre>
-<pre><code>extension MapSceneLoadOptions: NativeBase</code></pre>
-<pre><code>extension MapSceneLoadOptions: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapSceneLoadOptions</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapSceneLoadOptions</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapSceneLoadOptions</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2309,9 +2308,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapSceneLoadOptionsBuilder</code></pre>
-<pre><code>extension MapSceneLoadOptionsBuilder: NativeBase</code></pre>
-<pre><code>extension MapSceneLoadOptionsBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapSceneLoadOptionsBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapSceneLoadOptionsBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapSceneLoadOptionsBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2357,9 +2356,9 @@ to the user in the current camera viewport and thus need to be added to the map.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapMarker</code></pre>
-<pre><code>extension MapMarker: NativeBase</code></pre>
-<pre><code>extension MapMarker: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapMarker</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapMarker</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapMarker</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2387,7 +2386,7 @@ changed by enabling depth check using <code><a href="Classes/MapMarker3D.html#/s
 <p>The display of a 3D marker is only guaranteed in case its origin is within
 the viewport. At the moment, this is a known limitation that mostly affects
 a 3D marker that is visually large and covers a sizeable part of the viewport.</p>
-
+<h1 class="heading" id="sizing-and-scaling">Sizing and scaling</h1>
 <p>Two aspects determine how big the <code>MapMarker3D</code> will be on the screen
 and how will it behave when the map is zoomed in and out.</p>
 <p>The first, and most impactful is <code><a href="sdk-for-ios-explore-api-reference-structs-rendersize-unit">RenderSize.Unit</a></code>, which specifies
@@ -2408,7 +2407,7 @@ the same regardless of the size or resolution of the display.</p>
 <p>The second aspect that determines size of <code>MapMarker3D</code> is scale.
 It can be specified at construction time and can be changed later
 at any time using <code><a href="Classes/MapMarker3D.html#/s:7heresdk11MapMarker3DC5scaleSdvp">MapMarker3D.scale</a></code>.</p>
-
+<h1 class="heading" id="modifying-at-runtime">Modifying at runtime</h1>
 <p>A 3D marker can be moved around a map by updating its coordinates using
 <code><a href="Classes/MapMarker3D.html#/s:7heresdk11MapMarker3DC11coordinatesAA14GeoCoordinatesVvp">MapMarker3D.coordinates</a></code>.</p>
 <p>Altitude component of the coordinates, if set, controls 3D marker’s elevation
@@ -2416,7 +2415,7 @@ above ground. If not set, the 3D marker is placed at ground level.</p>
 <p>Its orientation is specified by bearing, pitch and roll and can be changed
 by using <code><a href="Classes/MapMarker3D.html#/s:7heresdk11MapMarker3DC7bearingSdvp">MapMarker3D.bearing</a></code>, <code><a href="Classes/MapMarker3D.html#/s:7heresdk11MapMarker3DC5pitchSdvp">MapMarker3D.pitch</a></code>
 and <code><a href="Classes/MapMarker3D.html#/s:7heresdk11MapMarker3DC4rollSdvp">MapMarker3D.roll</a></code>.</p>
-
+<h1 class="heading" id="flat-marker">Flat marker</h1>
 <p>A flat marker is a special case of a 3D marker, where the 3D shape being drawn
 is a simple textured rectangle. In essence it’s an image drawn “on the ground”.
 Such 3D marker can be conveniently created using
@@ -2428,9 +2427,9 @@ constructor. Of course, once created, it can be rotated to face any direction.</
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapMarker3D</code></pre>
-<pre><code>extension MapMarker3D: NativeBase</code></pre>
-<pre><code>extension MapMarker3D: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapMarker3D</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapMarker3D</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapMarker3D</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2452,7 +2451,7 @@ constructor. Of course, once created, it can be rotated to face any direction.</
 <p>Represents a 3D model that can be used by a <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarker3d">MapMarker3D</a></code> to be shown on the map.
 Geometry of 3D marker can be provided in form of a Wavefront OBJ file as specified in
 <a href="http://www.martinreddy.net/gfx/3d/OBJ.spec">http://www.martinreddy.net/gfx/3d/OBJ.spec</a> or as mesh built via <code><a href="sdk-for-ios-explore-api-reference-classes-meshbuilder">MeshBuilder</a></code>.</p>
-
+<h1 class="heading" id="1-creating-code-mapmarker3dmodel-code-from-obj-file">1. Creating <code>MapMarker3DModel</code> from OBJ file</h1>
 <p>For OBJ files, HERE SDK only supports the following set of features of the OBJ specification:</p>
 <ul>
 <li>Triangle Meshes</li>
@@ -2479,7 +2478,7 @@ Geometry of 3D marker can be provided in form of a Wavefront OBJ file as specifi
 </ul>
 <p>For supported texture formats, HERE SDK allows the following formats to be specified:
 JPG, PNG, GPU compressed texture formats: ECT1 (OpenGL only), YUV, ASTC, KTX.</p>
-
+<h1 class="heading" id="2-creating-code-mapmarker3dmodel-code-programatically">2. Creating <code>MapMarker3DModel</code> programatically</h1>
 <p>A 3D mesh can be specified programatically using <code><a href="sdk-for-ios-explore-api-reference-classes-meshbuilder">MeshBuilder</a></code> and passed to
 <code>MapMarker3DModel</code> constructor. This method supports creating a mesh from
 quads and triangles. Textured geometry is also supported, the mesh faces
@@ -2491,9 +2490,9 @@ along with the mesh to <code>MapMarker3DModel</code> constructor.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapMarker3DModel</code></pre>
-<pre><code>extension MapMarker3DModel: NativeBase</code></pre>
-<pre><code>extension MapMarker3DModel: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapMarker3DModel</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapMarker3DModel</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapMarker3DModel</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2519,9 +2518,9 @@ along with the mesh to <code>MapMarker3DModel</code> constructor.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapMarkerAnimation</code></pre>
-<pre><code>extension MapMarkerAnimation: NativeBase</code></pre>
-<pre><code>extension MapMarkerAnimation: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapMarkerAnimation</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapMarkerAnimation</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapMarkerAnimation</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2548,7 +2547,7 @@ Check <code><a href="sdk-for-ios-explore-api-reference-classes-mapcamera">MapCam
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct MapMeasure : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MapMeasure</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2574,7 +2573,7 @@ Check <code><a href="sdk-for-ios-explore-api-reference-classes-mapcamera">MapCam
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct MapMeasureDependentRenderSize : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MapMeasureDependentRenderSize</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2612,9 +2611,9 @@ artifacts.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapPolygon</code></pre>
-<pre><code>extension MapPolygon: NativeBase</code></pre>
-<pre><code>extension MapPolygon: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapPolygon</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapPolygon</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapPolygon</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2642,9 +2641,9 @@ artifacts.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapPolyline</code></pre>
-<pre><code>extension MapPolyline: NativeBase</code></pre>
-<pre><code>extension MapPolyline: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapPolyline</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapPolyline</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapPolyline</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2670,9 +2669,9 @@ artifacts.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapPolylineAnimation</code></pre>
-<pre><code>extension MapPolylineAnimation: NativeBase</code></pre>
-<pre><code>extension MapPolylineAnimation: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapPolylineAnimation</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapPolylineAnimation</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapPolylineAnimation</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2698,9 +2697,9 @@ artifacts.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapPickResult</code></pre>
-<pre><code>extension MapPickResult: NativeBase</code></pre>
-<pre><code>extension MapPickResult: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapPickResult</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapPickResult</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapPickResult</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2720,7 +2719,7 @@ artifacts.</li>
 <div class="pointer"></div>
 <div class="abstract">
 <p>Represents a map scene and exposes the functionality to manipulate its content.</p>
-
+<h2 class="heading" id="map-schemes">Map schemes</h2>
 <p>The content of the displayed map and how it looks is specified by a
 <code><a href="sdk-for-ios-explore-api-reference-enums-mapscheme">MapScheme</a></code> which is set when loading a scene with <code>MapScene.loadScene(MapScheme, MapScene.LoadSceneCompletionHandler?)</code>.
 It is also possible to load your own custom map scheme from a file bundled
@@ -2735,7 +2734,7 @@ with your application. Supported file formats are:</p>
 <li>custom assets folder: ‘<root folder="">/assets’</root></li>
 </ul></li>
 </ul>
-
+<h2 class="heading" id="map-features">Map features</h2>
 <p>Different map schemes offer different sets of features, for example showing traffic or 3D buildings.
 Some features have multiple modes of operation, but most have only one.
 <code><a href="Classes/MapScene.html#/s:7heresdk8MapSceneC20getSupportedFeaturesSDySSSaySSGGyF">MapScene.getSupportedFeatures(...)</a></code> can be used to check what features and modes are supported
@@ -2746,11 +2745,11 @@ constants for feature and mode names.</p>
 <p>Since version 4.15.0, map features cannot be controlled using <code><a href="Classes/MapScene.html#/s:7heresdk8MapSceneC18setLayerVisibility9layerName10visibilityySS_AA0F5StateOtF">MapScene.setLayerVisibility(...)</a></code>, since <code><a href="Classes/MapScene.html#/s:7heresdk8MapSceneC18setLayerVisibility9layerName10visibilityySS_AA0F5StateOtF">MapScene.setLayerVisibility(...)</a></code> controls
 only visibility of the layers which are corresponding to the features enabled either by <code><a href="Classes/MapScene.html#/s:7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">MapScene.enableFeatures(...)</a></code>
 or enabled by default for the scene.</p>
-
+<h2 class="heading" id="map-layers">Map layers</h2>
 <p>A map scheme is organized in layers, which can be controlled using <code><a href="Classes/MapScene.html#/s:7heresdk8MapSceneC18setLayerVisibility9layerName10visibilityySS_AA0F5StateOtF">MapScene.setLayerVisibility(...)</a></code>.
 It’s possible to change the visibility state of any map layer as long as the name is known.</p>
 <p>Layer visibility settings persist between scene reloading.</p>
-
+<h2 class="heading" id="user-content">User content</h2>
 <p>User generated content can be visualised on the map using <code><a href="sdk-for-ios-explore-api-reference-classes-mappolyline">MapPolyline</a></code>, <code><a href="sdk-for-ios-explore-api-reference-classes-mappolygon">MapPolygon</a></code>, <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarker">MapMarker</a></code>,
 <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarkercluster">MapMarkerCluster</a></code>, <code><a href="sdk-for-ios-explore-api-reference-classes-maparrow">MapArrow</a></code>, <code><a href="sdk-for-ios-explore-api-reference-classes-mapmarker3d">MapMarker3D</a></code> and <code><a href="sdk-for-ios-explore-api-reference-classes-mapimageoverlay">MapImageOverlay</a></code>
 (collectively referred to as “map items”). Those can be added to and removed
@@ -2771,9 +2770,9 @@ thus need to be added to the map.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapScene</code></pre>
-<pre><code>extension MapScene: NativeBase</code></pre>
-<pre><code>extension MapScene: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapScene</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapScene</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapScene</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2799,7 +2798,7 @@ thus need to be added to the map.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum MapScheme : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">MapScheme</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2825,7 +2824,7 @@ thus need to be added to the map.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol MapViewBase : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">MapViewBase</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -2852,10 +2851,10 @@ Note: Before using this class, <code><a href="sdk-for-ios-explore-api-reference-
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@IBDesignable
-@objc(HereMapView)
-@MainActor
-open class MapView : UIView, MapViewBase</code></pre>
+<pre class="highlight swift"><code><span class="kd">@IBDesignable</span>
+<span class="kd">@objc(HereMapView)</span>
+<span class="kd">@MainActor</span>
+<span class="kd">open</span> <span class="kd">class</span> <span class="kt">MapView</span> <span class="p">:</span> <span class="kt">UIView</span><span class="p">,</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-mapviewbase">MapViewBase</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -2887,7 +2886,7 @@ will create a reference cycle and prevent map view from being released.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol MapViewLifecycleDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">MapViewLifecycleDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -2913,7 +2912,7 @@ will create a reference cycle and prevent map view from being released.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct MapViewOptions : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MapViewOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2934,13 +2933,13 @@ will create a reference cycle and prevent map view from being released.</p>
 <div class="abstract">
 <p>Material reflectivity properties are used to enable per‑pixel lighting for supported map objects
 (e.g. <code><a href="sdk-for-ios-explore-api-reference-classes-locationindicator">LocationIndicator</a></code> markers and their halo).</p>
-
+<h2 class="heading" id="lighting-off-vs-on">Lighting OFF vs ON</h2>
 <p>By default (when no MaterialReflectivity is assigned) objects are rendered “unlit” (emissive):
 their texture / color appears at a constant brightness, unaffected by scene lights. Assigning a
 <code>MaterialReflectivity</code> instance to an object that supports it (e.g. <code><a href="Classes/LocationIndicator.html#/s:7heresdk17LocationIndicatorC20materialReflectivityAA08MaterialE0VSgvp">LocationIndicator.materialReflectivity</a></code>)
 automatically enables lighting for this object and all its internal components. Clearing (setting the property to
 <code>nil</code>) disables lighting again and restores the unlit appearance.</p>
-
+<h2 class="heading" id="factors">Factors</h2>
 <p>Both factors are expected to be within [0.0, 1.0]. Values outside this range are allowed but may
 produce exaggerated results or be clamped by future implementations. Typical useful ranges:</p>
 <ul>
@@ -2955,7 +2954,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct MaterialReflectivity : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MaterialReflectivity</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -2982,9 +2981,9 @@ when being passed to <code><a href="sdk-for-ios-explore-api-reference-classes-ma
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class Mesh</code></pre>
-<pre><code>extension Mesh: NativeBase</code></pre>
-<pre><code>extension Mesh: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">Mesh</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Mesh</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Mesh</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3008,41 +3007,42 @@ triangles. Both primitives support adding texture coordinates that are mapped to
 corners of the primitives. See <code><a href="sdk-for-ios-explore-api-reference-classes-trianglemeshbuilder">TriangleMeshBuilder</a></code> and <code><a href="sdk-for-ios-explore-api-reference-classes-quadmeshbuilder">QuadMeshBuilder</a></code> for more details.</p>
 <p>Note: Normals cannot be set as they are not necessary when using the <code>MeshBuilder</code>.</p>
 <p><strong>Example how to build a cube using <code><a href="sdk-for-ios-explore-api-reference-classes-quadmeshbuilder">QuadMeshBuilder</a></code></strong></p>
-<pre><code>let cube = MeshBuilder()
-.quad(a: Point3D(x: 0.5, y: 0.5, z: 0.5),
-b: Point3D(x: -0.5, y: 0.5, z: 0.5),
-c: Point3D(x: 0.5, y: -0.5, z: 0.5),
-d: Point3D(x: -0.5, y: -0.5, z: 0.5))
-.quad(a: Point3D(x: -0.5, y: 0.5, z: -0.5),
-b: Point3D(x: 0.5, y: 0.5, z: -0.5),
-c: Point3D(x: -0.5, y: -0.5, z: -0.5),
-d: Point3D(x: 0.5, y: -0.5, z: -0.5))
-.quad(a: Point3D(x: 0.5, y: 0.5, z: -0.5),
-b: Point3D(x: 0.5, y: 0.5, z: 0.5),
-c: Point3D(x: 0.5, y: -0.5, z: -0.5),
-d: Point3D(x: 0.5, y: -0.5, z: 0.5))
-.quad(a: Point3D(x: -0.5, y: 0.5, z: 0.5),
-b: Point3D(x: -0.5, y: 0.5, z: -0.5),
-c: Point3D(x: -0.5, y: -0.5, z: 0.5),
-d: Point3D(x: -0.5, y: -0.5, z: -0.5))
-.quad(a: Point3D(x: -0.5, y: 0.5, z: 0.5),
-b: Point3D(x: 0.5, y: 0.5, z: 0.5),
-c: Point3D(x: -0.5, y: 0.5, z: -0.5),
-d: Point3D(x: 0.5, y: 0.5, z: -0.5))
-.quad(a: Point3D(x: 0.5, y: -0.5, z: 0.5),
-b: Point3D(x: -0.5, y: -0.5, z: 0.5),
-c: Point3D(x: 0.5, y: -0.5, z: -0.5),
-d: Point3D(x: -0.5, y: -0.5, z: -0.5))
-.build()</code></pre>
+<pre class="highlight swift"><code><span class="k">let</span> <span class="nv">cube</span> <span class="o">=</span> <span class="kt">MeshBuilder</span><span class="p">()</span>
+    <span class="o">.</span><span class="nf">quad</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">b</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">c</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">d</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">))</span>
+    <span class="o">.</span><span class="nf">quad</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">b</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">c</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">d</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">))</span>
+    <span class="o">.</span><span class="nf">quad</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">b</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">c</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">d</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">))</span>
+    <span class="o">.</span><span class="nf">quad</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">b</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">c</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">d</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">))</span>
+    <span class="o">.</span><span class="nf">quad</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">b</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">c</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">d</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">))</span>
+    <span class="o">.</span><span class="nf">quad</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">b</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">c</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">d</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">))</span>
+    <span class="o">.</span><span class="nf">build</span><span class="p">()</span>
+</code></pre>
 <a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-meshbuilder">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MeshBuilder</code></pre>
-<pre><code>extension MeshBuilder: NativeBase</code></pre>
-<pre><code>extension MeshBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MeshBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MeshBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MeshBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3069,7 +3069,7 @@ Pan gesture occurs when a finger is moving on the screen.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol PanDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">PanDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -3095,9 +3095,9 @@ Pan gesture occurs when a finger is moving on the screen.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class PickMapContentResult</code></pre>
-<pre><code>extension PickMapContentResult: NativeBase</code></pre>
-<pre><code>extension PickMapContentResult: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PickMapContentResult</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PickMapContentResult</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PickMapContentResult</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3123,9 +3123,9 @@ Pan gesture occurs when a finger is moving on the screen.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class PickMapItemsResult</code></pre>
-<pre><code>extension PickMapItemsResult: NativeBase</code></pre>
-<pre><code>extension PickMapItemsResult: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PickMapItemsResult</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PickMapItemsResult</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PickMapItemsResult</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3153,7 +3153,7 @@ and at least one of them moves.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol PinchRotateDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">PinchRotateDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -3181,9 +3181,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class PointData</code></pre>
-<pre><code>extension PointData: NativeBase</code></pre>
-<pre><code>extension PointData: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PointData</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PointData</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PointData</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3211,9 +3211,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class PointDataAccessor</code></pre>
-<pre><code>extension PointDataAccessor: NativeBase</code></pre>
-<pre><code>extension PointDataAccessor: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PointDataAccessor</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PointDataAccessor</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PointDataAccessor</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3241,9 +3241,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class PointDataBuilder</code></pre>
-<pre><code>extension PointDataBuilder: NativeBase</code></pre>
-<pre><code>extension PointDataBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PointDataBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PointDataBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PointDataBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3272,9 +3272,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class PointDataSource</code></pre>
-<pre><code>extension PointDataSource: NativeBase</code></pre>
-<pre><code>extension PointDataSource: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PointDataSource</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PointDataSource</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PointDataSource</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3302,9 +3302,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class PointDataSourceBuilder</code></pre>
-<pre><code>extension PointDataSourceBuilder: NativeBase</code></pre>
-<pre><code>extension PointDataSourceBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PointDataSourceBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PointDataSourceBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PointDataSourceBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3333,9 +3333,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class PointTileDataSource</code></pre>
-<pre><code>extension PointTileDataSource: NativeBase</code></pre>
-<pre><code>extension PointTileDataSource: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PointTileDataSource</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PointTileDataSource</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PointTileDataSource</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3364,7 +3364,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol PointTileSource : TileSource</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">PointTileSource</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-tilesource">TileSource</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -3390,7 +3390,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol PointTileSourceLoadResultHandler : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">PointTileSourceLoadResultHandler</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -3416,7 +3416,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct Point2DKeyframe : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Point2DKeyframe</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3444,9 +3444,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class PolygonData</code></pre>
-<pre><code>extension PolygonData: NativeBase</code></pre>
-<pre><code>extension PolygonData: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PolygonData</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PolygonData</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PolygonData</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3474,9 +3474,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class PolygonDataAccessor</code></pre>
-<pre><code>extension PolygonDataAccessor: NativeBase</code></pre>
-<pre><code>extension PolygonDataAccessor: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PolygonDataAccessor</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PolygonDataAccessor</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PolygonDataAccessor</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3506,9 +3506,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class PolygonDataBuilder</code></pre>
-<pre><code>extension PolygonDataBuilder: NativeBase</code></pre>
-<pre><code>extension PolygonDataBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PolygonDataBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PolygonDataBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PolygonDataBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3538,9 +3538,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class PolygonDataSource</code></pre>
-<pre><code>extension PolygonDataSource: NativeBase</code></pre>
-<pre><code>extension PolygonDataSource: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PolygonDataSource</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PolygonDataSource</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PolygonDataSource</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3568,9 +3568,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class PolygonDataSourceBuilder</code></pre>
-<pre><code>extension PolygonDataSourceBuilder: NativeBase</code></pre>
-<pre><code>extension PolygonDataSourceBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PolygonDataSourceBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PolygonDataSourceBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PolygonDataSourceBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3599,9 +3599,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class PolygonTileDataSource</code></pre>
-<pre><code>extension PolygonTileDataSource: NativeBase</code></pre>
-<pre><code>extension PolygonTileDataSource: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PolygonTileDataSource</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PolygonTileDataSource</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PolygonTileDataSource</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3631,7 +3631,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol PolygonTileSource : TileSource</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">PolygonTileSource</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-tilesource">TileSource</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -3657,7 +3657,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol PolygonTileSourceLoadResultHandler : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">PolygonTileSourceLoadResultHandler</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -3683,7 +3683,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class QuadMeshBuilder : MeshBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">QuadMeshBuilder</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-meshbuilder">MeshBuilder</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -3705,23 +3705,25 @@ behavior. Related APIs may change for new releases without a deprecation process
 <p>Data source to load map layers using a raster image format (jpg, png).
 The example below illustrates how to create a raster data source and how to link it to
 a newly created map layer.</p>
-<pre><code>let rasterDataSource = RasterDataSource(mapContext, rasterDataSourceConfig)
-let layer = MapLayerBuilder()
-// The name and the type of the data source have to be provided.
-// In our case, the name of the raster data source is in rasterDataSourceConfig.
-.withDataSource(named: rasterDataSourceConfig.name, contentType: MapContentType.rasterImage)
-.forMap(map)
-.withName("rasterLayer")
-.build();</code></pre>
+<pre class="highlight swift"><code>  <span class="k">let</span> <span class="nv">rasterDataSource</span> <span class="o">=</span> <span class="kt">RasterDataSource</span><span class="p">(</span><span class="n">mapContext</span><span class="p">,</span> <span class="n">rasterDataSourceConfig</span><span class="p">)</span>
+
+  <span class="k">let</span> <span class="nv">layer</span> <span class="o">=</span> <span class="kt">MapLayerBuilder</span><span class="p">()</span>
+     <span class="c1">// The name and the type of the data source have to be provided.</span>
+     <span class="c1">// In our case, the name of the raster data source is in rasterDataSourceConfig.</span>
+     <span class="o">.</span><span class="nf">withDataSource</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="n">rasterDataSourceConfig</span><span class="o">.</span><span class="n">name</span><span class="p">,</span> <span class="nv">contentType</span><span class="p">:</span> <span class="kt">MapContentType</span><span class="o">.</span><span class="n">rasterImage</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">forMap</span><span class="p">(</span><span class="n">map</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">withName</span><span class="p">(</span><span class="s">"rasterLayer"</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">build</span><span class="p">();</span>
+</code></pre>
 <a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-rasterdatasource">See more</a>
 </div>
 <div class="declaration">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class RasterDataSource</code></pre>
-<pre><code>extension RasterDataSource: NativeBase</code></pre>
-<pre><code>extension RasterDataSource: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">RasterDataSource</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">RasterDataSource</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">RasterDataSource</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3748,7 +3750,7 @@ the configuration.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct RasterDataSourceConfiguration</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">RasterDataSourceConfiguration</span></code></pre>
 </div>
 </div>
 </section>
@@ -3774,7 +3776,7 @@ the configuration.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct RasterDataSourceConfigurationUpdate</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">RasterDataSourceConfigurationUpdate</span></code></pre>
 </div>
 </div>
 </section>
@@ -3800,7 +3802,7 @@ the configuration.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol RasterDataSourceDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">RasterDataSourceDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -3826,7 +3828,7 @@ the configuration.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum RasterDataSourceError : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">RasterDataSourceError</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3855,7 +3857,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol RasterTileSource : TileSource</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">RasterTileSource</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-protocols-tilesource">TileSource</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -3881,7 +3883,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol RasterTileSourceLoadResultHandler : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">RasterTileSourceLoadResultHandler</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -3907,7 +3909,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct RoadShieldIconProperties</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">RoadShieldIconProperties</span></code></pre>
 </div>
 </div>
 </section>
@@ -3933,7 +3935,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct RenderSize</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">RenderSize</span></code></pre>
 </div>
 </div>
 </section>
@@ -3959,7 +3961,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct ScalarKeyframe : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ScalarKeyframe</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -3985,7 +3987,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class SDKMapViewInitializer : NSObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">SDKMapViewInitializer</span> <span class="p">:</span> <span class="kt">NSObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -4012,7 +4014,7 @@ maps and the cascade count), which is shared by all views.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum ShadowQuality : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">ShadowQuality</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -4041,9 +4043,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class Style</code></pre>
-<pre><code>extension Style: NativeBase</code></pre>
-<pre><code>extension Style: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">Style</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Style</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Style</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -4070,7 +4072,7 @@ Tap gesture occurs after tapping on the screen.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol TapDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">TapDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -4099,9 +4101,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class TileGeoBoundsCalculator</code></pre>
-<pre><code>extension TileGeoBoundsCalculator: NativeBase</code></pre>
-<pre><code>extension TileGeoBoundsCalculator: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TileGeoBoundsCalculator</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TileGeoBoundsCalculator</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TileGeoBoundsCalculator</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -4130,7 +4132,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol TileSource : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">TileSource</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -4156,7 +4158,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct TileSourceDataVersion</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TileSourceDataVersion</span></code></pre>
 </div>
 </div>
 </section>
@@ -4182,7 +4184,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol TileSourceDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">TileSourceDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -4208,7 +4210,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol TileSourceLoadTileRequestHandle : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">TileSourceLoadTileRequestHandle</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -4234,7 +4236,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct TileSourceTileMetadata</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TileSourceTileMetadata</span></code></pre>
 </div>
 </div>
 </section>
@@ -4262,7 +4264,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct TileKey : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TileKey</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -4288,9 +4290,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class TileUrlProviderFactory</code></pre>
-<pre><code>extension TileUrlProviderFactory: NativeBase</code></pre>
-<pre><code>extension TileUrlProviderFactory: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TileUrlProviderFactory</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TileUrlProviderFactory</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TileUrlProviderFactory</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -4317,7 +4319,7 @@ The third parameter indicates the level of the tile.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias TileUrlRequestHandler = (_ x: Int32, _ y: Int32, _ level: Int32) -&gt; String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">TileUrlRequestHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">x</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="n">_</span> <span class="nv">y</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="n">_</span> <span class="nv">level</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 <div>
@@ -4393,7 +4395,7 @@ For half quad tree schemes, only the uppper half of the tree is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum TilingScheme : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TilingScheme</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -4421,37 +4423,42 @@ instance destruction and any layer (categories) still in the group are not rende
 therefore it is recommended to keep a group alive as long as layers using the group are alive and
 in use.</p>
 <p>Conceptual example to place line layers into a translucent group:</p>
-<pre><code>// Create a translucent group with a unique name and a render priority
-let groupPriority = MapLayerPriorityBuilder().renderedLast().build()
-let group = TranslucentMapLayerGroup(name: "TranslucentGroupName", map, groupPriority)
-// Create a line layer to be rendered as part of the translucent group
-let lineLayerPriority = MapLayerPriorityBuilder()
-.inGroup("TranslucentGroupName") // places the line layer into the group
-.renderedFirst() // to be rendered first when the group is rendered
-.withCategory("SomeCategory") // places the line layer category 'SomeCategory'
-.inGroup("TranslucentGroupName") // into the group
-.renderedLast() // to be rendered last when the group is rendered
-.build()
-let lineLayer = MapLayerBuilder()
-.withDataSource(named: "DataSourceName", contentType: MapContentType.line)
-.forMap(map)
-.withName("LineLayerName")
-.withPriority(lineLayerPriority)
-.withStyle(translucentLineStyle) // E.g. "technique": "line" ... "color": "#FFFFFF80"
-.build()
-// Create a second line layer to be rendered as part of the translucent group
-let secondLineLayerPriority = MapLayerPriorityBuilder()
-.inGroup("TranslucentGroupName") // places the second line layer into the group
-.renderedBeforeLayer("LineLayerName") // to be rendered before first layer
-// when the group is rendered
-.build()
-let secondLineLayer = MapLayerBuilder()
-.withDataSource(named: "SecondDataSourceName", contentType: MapContentType.line)
-.forMap(map)
-.withName("SecondLineLayerName")
-.withPriority(secondLineLayerPriority)
-.withStyle(secondTranslucentLineStyle) // E.g. "technique": "line" ... "color": "#FFFFFF80"
-.build()</code></pre>
+<pre class="highlight swift"><code> <span class="c1">// Create a translucent group with a unique name and a render priority</span>
+ <span class="k">let</span> <span class="nv">groupPriority</span> <span class="o">=</span> <span class="kt">MapLayerPriorityBuilder</span><span class="p">()</span><span class="o">.</span><span class="nf">renderedLast</span><span class="p">()</span><span class="o">.</span><span class="nf">build</span><span class="p">()</span>
+ <span class="k">let</span> <span class="nv">group</span> <span class="o">=</span> <span class="kt">TranslucentMapLayerGroup</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="s">"TranslucentGroupName"</span><span class="p">,</span> <span class="n">map</span><span class="p">,</span> <span class="n">groupPriority</span><span class="p">)</span>
+
+ <span class="c1">// Create a line layer to be rendered as part of the translucent group</span>
+ <span class="k">let</span> <span class="nv">lineLayerPriority</span> <span class="o">=</span> <span class="kt">MapLayerPriorityBuilder</span><span class="p">()</span>
+     <span class="o">.</span><span class="nf">inGroup</span><span class="p">(</span><span class="s">"TranslucentGroupName"</span><span class="p">)</span> <span class="c1">// places the line layer into the group</span>
+     <span class="o">.</span><span class="nf">renderedFirst</span><span class="p">()</span>                 <span class="c1">// to be rendered first when the group is rendered</span>
+     <span class="o">.</span><span class="nf">withCategory</span><span class="p">(</span><span class="s">"SomeCategory"</span><span class="p">)</span>    <span class="c1">// places the line layer category 'SomeCategory'</span>
+     <span class="o">.</span><span class="nf">inGroup</span><span class="p">(</span><span class="s">"TranslucentGroupName"</span><span class="p">)</span> <span class="c1">// into the group</span>
+     <span class="o">.</span><span class="nf">renderedLast</span><span class="p">()</span>                  <span class="c1">// to be rendered last when the group is rendered</span>
+     <span class="o">.</span><span class="nf">build</span><span class="p">()</span>
+
+ <span class="k">let</span> <span class="nv">lineLayer</span> <span class="o">=</span> <span class="kt">MapLayerBuilder</span><span class="p">()</span>
+     <span class="o">.</span><span class="nf">withDataSource</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"DataSourceName"</span><span class="p">,</span> <span class="nv">contentType</span><span class="p">:</span> <span class="kt">MapContentType</span><span class="o">.</span><span class="n">line</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">forMap</span><span class="p">(</span><span class="n">map</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">withName</span><span class="p">(</span><span class="s">"LineLayerName"</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">withPriority</span><span class="p">(</span><span class="n">lineLayerPriority</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">withStyle</span><span class="p">(</span><span class="n">translucentLineStyle</span><span class="p">)</span> <span class="c1">// E.g. "technique": "line" ... "color": "#FFFFFF80"</span>
+     <span class="o">.</span><span class="nf">build</span><span class="p">()</span>
+
+ <span class="c1">// Create a second line layer to be rendered as part of the translucent group</span>
+ <span class="k">let</span> <span class="nv">secondLineLayerPriority</span> <span class="o">=</span> <span class="kt">MapLayerPriorityBuilder</span><span class="p">()</span>
+     <span class="o">.</span><span class="nf">inGroup</span><span class="p">(</span><span class="s">"TranslucentGroupName"</span><span class="p">)</span>      <span class="c1">// places the second line layer into the group</span>
+     <span class="o">.</span><span class="nf">renderedBeforeLayer</span><span class="p">(</span><span class="s">"LineLayerName"</span><span class="p">)</span> <span class="c1">// to be rendered before first layer</span>
+                                           <span class="c1">// when the group is rendered</span>
+     <span class="o">.</span><span class="nf">build</span><span class="p">()</span>
+
+ <span class="k">let</span> <span class="nv">secondLineLayer</span> <span class="o">=</span> <span class="kt">MapLayerBuilder</span><span class="p">()</span>
+     <span class="o">.</span><span class="nf">withDataSource</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"SecondDataSourceName"</span><span class="p">,</span> <span class="nv">contentType</span><span class="p">:</span> <span class="kt">MapContentType</span><span class="o">.</span><span class="n">line</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">forMap</span><span class="p">(</span><span class="n">map</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">withName</span><span class="p">(</span><span class="s">"SecondLineLayerName"</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">withPriority</span><span class="p">(</span><span class="n">secondLineLayerPriority</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">withStyle</span><span class="p">(</span><span class="n">secondTranslucentLineStyle</span><span class="p">)</span> <span class="c1">// E.g. "technique": "line" ... "color": "#FFFFFF80"</span>
+     <span class="o">.</span><span class="nf">build</span><span class="p">()</span>
+</code></pre>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior.
 Related APIs may change for new releases without a deprecation process.</p>
 <a class="slightly-smaller" href="sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup">See more</a>
@@ -4460,9 +4467,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class TranslucentMapLayerGroup</code></pre>
-<pre><code>extension TranslucentMapLayerGroup: NativeBase</code></pre>
-<pre><code>extension TranslucentMapLayerGroup: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TranslucentMapLayerGroup</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TranslucentMapLayerGroup</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TranslucentMapLayerGroup</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -4488,7 +4495,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class TriangleMeshBuilder : MeshBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TriangleMeshBuilder</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-classes-meshbuilder">MeshBuilder</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -4516,7 +4523,7 @@ and both of them are moving vertically.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol TwoFingerPanDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">TwoFingerPanDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -4543,7 +4550,7 @@ Two finger tap gesture occurs after tapping on the screen with two fingers.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public protocol TwoFingerTapDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">TwoFingerTapDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 </section>
@@ -4569,7 +4576,7 @@ Two finger tap gesture occurs after tapping on the screen with two fingers.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum VisibilityState : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">VisibilityState</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -4597,7 +4604,7 @@ night or satellite based).</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum WatermarkStyle : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">WatermarkStyle</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -4613,8 +4620,8 @@ night or satellite based).</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "ManeuverAction Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <!-- ManeuverAction.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/ManeuverAction"></a>
 <a title="ManeuverAction Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>ManeuverAction</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum ManeuverAction : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">ManeuverAction</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Maneuver action type.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case depart</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">depart</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case arrive</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">arrive</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftUTurn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftUTurn</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sharpLeftTurn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sharpLeftTurn</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftTurn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftTurn</span></code></pre>
 </div>
 </div>
 </section>
@@ -191,7 +184,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case slightLeftTurn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">slightLeftTurn</span></code></pre>
 </div>
 </div>
 </section>
@@ -216,7 +209,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case continueOn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">continueOn</span></code></pre>
 </div>
 </div>
 </section>
@@ -241,7 +234,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case slightRightTurn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">slightRightTurn</span></code></pre>
 </div>
 </div>
 </section>
@@ -266,7 +259,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightTurn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightTurn</span></code></pre>
 </div>
 </div>
 </section>
@@ -291,7 +284,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sharpRightTurn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sharpRightTurn</span></code></pre>
 </div>
 </div>
 </section>
@@ -316,7 +309,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightUTurn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightUTurn</span></code></pre>
 </div>
 </div>
 </section>
@@ -341,7 +334,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftExit</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftExit</span></code></pre>
 </div>
 </div>
 </section>
@@ -366,7 +359,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightExit</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightExit</span></code></pre>
 </div>
 </div>
 </section>
@@ -391,7 +384,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftRamp</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftRamp</span></code></pre>
 </div>
 </div>
 </section>
@@ -416,7 +409,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightRamp</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightRamp</span></code></pre>
 </div>
 </div>
 </section>
@@ -441,7 +434,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftFork</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftFork</span></code></pre>
 </div>
 </div>
 </section>
@@ -466,7 +459,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case middleFork</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">middleFork</span></code></pre>
 </div>
 </div>
 </section>
@@ -491,7 +484,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-maneuveraction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightFork</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightFork</span></code></pre>
 </div>
 </div>
 </section>
@@ -518,7 +511,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case enterHighwayFromLeft</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">enterHighwayFromLeft</span></code></pre>
 </div>
 </div>
 </section>
@@ -545,7 +538,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case enterHighwayFromRight</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">enterHighwayFromRight</span></code></pre>
 </div>
 </div>
 </section>
@@ -570,7 +563,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftRoundaboutEnter</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftRoundaboutEnter</span></code></pre>
 </div>
 </div>
 </section>
@@ -595,7 +588,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightRoundaboutEnter</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightRoundaboutEnter</span></code></pre>
 </div>
 </div>
 </section>
@@ -620,7 +613,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftRoundaboutPass</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftRoundaboutPass</span></code></pre>
 </div>
 </div>
 </section>
@@ -645,7 +638,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightRoundaboutPass</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightRoundaboutPass</span></code></pre>
 </div>
 </div>
 </section>
@@ -670,7 +663,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftRoundaboutExit1</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftRoundaboutExit1</span></code></pre>
 </div>
 </div>
 </section>
@@ -695,7 +688,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftRoundaboutExit2</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftRoundaboutExit2</span></code></pre>
 </div>
 </div>
 </section>
@@ -720,7 +713,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftRoundaboutExit3</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftRoundaboutExit3</span></code></pre>
 </div>
 </div>
 </section>
@@ -745,7 +738,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftRoundaboutExit4</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftRoundaboutExit4</span></code></pre>
 </div>
 </div>
 </section>
@@ -770,7 +763,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftRoundaboutExit5</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftRoundaboutExit5</span></code></pre>
 </div>
 </div>
 </section>
@@ -795,7 +788,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftRoundaboutExit6</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftRoundaboutExit6</span></code></pre>
 </div>
 </div>
 </section>
@@ -820,7 +813,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftRoundaboutExit7</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftRoundaboutExit7</span></code></pre>
 </div>
 </div>
 </section>
@@ -845,7 +838,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftRoundaboutExit8</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftRoundaboutExit8</span></code></pre>
 </div>
 </div>
 </section>
@@ -870,7 +863,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftRoundaboutExit9</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftRoundaboutExit9</span></code></pre>
 </div>
 </div>
 </section>
@@ -895,7 +888,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftRoundaboutExit10</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftRoundaboutExit10</span></code></pre>
 </div>
 </div>
 </section>
@@ -920,7 +913,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftRoundaboutExit11</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftRoundaboutExit11</span></code></pre>
 </div>
 </div>
 </section>
@@ -945,7 +938,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftRoundaboutExit12</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftRoundaboutExit12</span></code></pre>
 </div>
 </div>
 </section>
@@ -970,7 +963,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightRoundaboutExit1</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightRoundaboutExit1</span></code></pre>
 </div>
 </div>
 </section>
@@ -995,7 +988,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightRoundaboutExit2</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightRoundaboutExit2</span></code></pre>
 </div>
 </div>
 </section>
@@ -1020,7 +1013,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightRoundaboutExit3</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightRoundaboutExit3</span></code></pre>
 </div>
 </div>
 </section>
@@ -1045,7 +1038,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightRoundaboutExit4</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightRoundaboutExit4</span></code></pre>
 </div>
 </div>
 </section>
@@ -1070,7 +1063,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightRoundaboutExit5</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightRoundaboutExit5</span></code></pre>
 </div>
 </div>
 </section>
@@ -1095,7 +1088,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightRoundaboutExit6</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightRoundaboutExit6</span></code></pre>
 </div>
 </div>
 </section>
@@ -1120,7 +1113,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightRoundaboutExit7</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightRoundaboutExit7</span></code></pre>
 </div>
 </div>
 </section>
@@ -1145,7 +1138,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightRoundaboutExit8</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightRoundaboutExit8</span></code></pre>
 </div>
 </div>
 </section>
@@ -1170,7 +1163,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightRoundaboutExit9</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightRoundaboutExit9</span></code></pre>
 </div>
 </div>
 </section>
@@ -1195,7 +1188,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightRoundaboutExit10</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightRoundaboutExit10</span></code></pre>
 </div>
 </div>
 </section>
@@ -1220,7 +1213,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightRoundaboutExit11</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightRoundaboutExit11</span></code></pre>
 </div>
 </div>
 </section>
@@ -1245,7 +1238,7 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightRoundaboutExit12</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightRoundaboutExit12</span></code></pre>
 </div>
 </div>
 </section>
@@ -1261,8 +1254,8 @@ it needs to be enabled via <code><a href="sdk-for-ios-explore-api-reference-..-s
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "Options Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-polylinesimplifier-options"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-polylinesimplifier-options"
 <!-- Options.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/Options"></a>
 <a title="Options Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-polylinesimplifier-options"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Options</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct Options</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Options</span></code></pre>
 </div>
 </div>
 <p>Controls the strategy of <code><a href="../../Classes/PolylineSimplifier.html#/s:7heresdk18PolylineSimplifierC8simplify8polyline24simplificationParameters10completionAA10TaskHandle_pSayAA14GeoCoordinatesVG_AC7OptionsVyAA0B19SimplificationErrorOSg_AKSgtctF">PolylineSimplifier.simplify(...)</a></code>
@@ -69,7 +62,7 @@ when reducing a size of polyline.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let simplificationInMeters14ZoomLevel: UInt64</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">simplificationInMeters14ZoomLevel</span><span class="p">:</span> <span class="kt">UInt64</span></code></pre>
 </div>
 </div>
 </section>
@@ -102,7 +95,7 @@ will take into account only <code><a href="../../Classes/PolylineSimplifier/Opti
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxPoints: UInt64</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxPoints</span><span class="p">:</span> <span class="kt">UInt64</span></code></pre>
 </div>
 </div>
 </section>
@@ -138,7 +131,7 @@ is ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var simplificationToleranceInMeters: UInt64</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">simplificationToleranceInMeters</span><span class="p">:</span> <span class="kt">UInt64</span></code></pre>
 </div>
 </div>
 </section>
@@ -163,7 +156,7 @@ is ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(maxPoints: UInt64 = 0, simplificationToleranceInMeters: UInt64 = PolylineSimplifier.Options.simplificationInMeters14ZoomLevel)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">maxPoints</span><span class="p">:</span> <span class="kt">UInt64</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">simplificationToleranceInMeters</span><span class="p">:</span> <span class="kt">UInt64</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-polylinesimplifier">PolylineSimplifier</a></span><span class="o">.</span><span class="kt">Options</span><span class="o">.</span><span class="n"><a href="../../Classes/PolylineSimplifier/Options.html#/s:7heresdk18PolylineSimplifierC7OptionsV33simplificationInMeters14ZoomLevels6UInt64VvpZ">simplificationInMeters14ZoomLevel</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -179,8 +172,8 @@ is ignored.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

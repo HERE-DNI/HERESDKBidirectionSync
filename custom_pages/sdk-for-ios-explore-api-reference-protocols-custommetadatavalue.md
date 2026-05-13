@@ -1,5 +1,5 @@
 ---
-title: "CustomMetadataValue Protocol Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-protocols-custommetadatavalue"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-protocols-custommetadatavalue"
 <!-- CustomMetadataValue.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Protocol/CustomMetadataValue"></a>
 <a title="CustomMetadataValue Protocol Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-custommetadatavalue"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>CustomMetadataValue</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public protocol CustomMetadataValue : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">CustomMetadataValue</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 <p>Protocol for storing arbitrary metadata types.
@@ -71,7 +64,7 @@ The tag is specific to the concrete implementation of the protocol.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func getTag() -&gt; String</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getTag</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 <div>
@@ -91,8 +84,8 @@ The tag is specific to the concrete implementation of the protocol.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

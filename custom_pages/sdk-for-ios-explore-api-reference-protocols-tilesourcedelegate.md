@@ -1,5 +1,5 @@
 ---
-title: "TileSourceDelegate Protocol Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-protocols-tilesourcedelegate"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-protocols-tilesourcedelegate"
 <!-- TileSourceDelegate.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Protocol/TileSourceDelegate"></a>
 <a title="TileSourceDelegate Protocol Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-tilesourcedelegate"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TileSourceDelegate</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public protocol TileSourceDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">TileSourceDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 <p>Delegate for <code><a href="sdk-for-ios-explore-api-reference-..-protocols-tilesource">TileSource</a></code> events.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-tilesourcedelegate"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func onDataVersionChanged(_ dataVersion: TileSourceDataVersion)</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onDataVersionChanged</span><span class="p">(</span><span class="n">_</span> <span class="nv">dataVersion</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tilesourcedataversion">TileSourceDataVersion</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -101,8 +94,8 @@ slug: "sdk-for-ios-explore-api-reference-protocols-tilesourcedelegate"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

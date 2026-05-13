@@ -1,5 +1,5 @@
 ---
-title: "TaskOutcome Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-taskoutcome"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-taskoutcome"
 <!-- TaskOutcome.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/TaskOutcome"></a>
 <a title="TaskOutcome Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-taskoutcome"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TaskOutcome</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum TaskOutcome : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TaskOutcome</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>This enum represents that a task has been completed. Refer to <code><a href="../Core.html#/s:7heresdk21TaskCompletionHandlera">TaskCompletionHandler</a></code> for more details.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-taskoutcome"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case completed</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">completed</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-taskoutcome"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cancelled</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cancelled</span></code></pre>
 </div>
 </div>
 </section>
@@ -107,8 +100,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-taskoutcome"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

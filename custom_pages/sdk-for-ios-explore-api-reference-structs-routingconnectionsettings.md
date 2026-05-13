@@ -1,5 +1,5 @@
 ---
-title: "RoutingConnectionSettings Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-routingconnectionsettings"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-routingconnectionsettings"
 <!-- RoutingConnectionSettings.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/RoutingConnectionSettings"></a>
 <a title="RoutingConnectionSettings Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-routingconnectionsettings"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RoutingConnectionSettings</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct RoutingConnectionSettings : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">RoutingConnectionSettings</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Defines the settings for the retry logic when connecting to the HERE routing backend.</p>
@@ -70,7 +63,7 @@ By default, the initial connection timeout is 5 seconds.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var initialConnectionTimeout: TimeInterval</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">initialConnectionTimeout</span><span class="p">:</span> <span class="kt">TimeInterval</span></code></pre>
 </div>
 </div>
 </section>
@@ -96,7 +89,7 @@ By default, the initial connection increment per timeout 10 seconds.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var connectionTimeoutRetryIncrease: TimeInterval</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">connectionTimeoutRetryIncrease</span><span class="p">:</span> <span class="kt">TimeInterval</span></code></pre>
 </div>
 </div>
 </section>
@@ -122,7 +115,7 @@ By default, the initial transfer timeout is 10 seconds.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var initialTransferTimeout: TimeInterval</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">initialTransferTimeout</span><span class="p">:</span> <span class="kt">TimeInterval</span></code></pre>
 </div>
 </div>
 </section>
@@ -148,7 +141,7 @@ By default, the initial transfer increment per timeout is 2 seconds.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var transferTimeoutRetryIncrease: TimeInterval</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">transferTimeoutRetryIncrease</span><span class="p">:</span> <span class="kt">TimeInterval</span></code></pre>
 </div>
 </div>
 </section>
@@ -174,7 +167,7 @@ By default, the max amount of retries is 3.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxRetryCount: Int32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxRetryCount</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
 </section>
@@ -199,7 +192,7 @@ By default, the max amount of retries is 3.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(initialConnectionTimeout: TimeInterval = 5, connectionTimeoutRetryIncrease: TimeInterval = 10, initialTransferTimeout: TimeInterval = 10, transferTimeoutRetryIncrease: TimeInterval = 2, maxRetryCount: Int32 = 3)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">initialConnectionTimeout</span><span class="p">:</span> <span class="kt">TimeInterval</span> <span class="o">=</span> <span class="mi">5</span><span class="p">,</span> <span class="nv">connectionTimeoutRetryIncrease</span><span class="p">:</span> <span class="kt">TimeInterval</span> <span class="o">=</span> <span class="mi">10</span><span class="p">,</span> <span class="nv">initialTransferTimeout</span><span class="p">:</span> <span class="kt">TimeInterval</span> <span class="o">=</span> <span class="mi">10</span><span class="p">,</span> <span class="nv">transferTimeoutRetryIncrease</span><span class="p">:</span> <span class="kt">TimeInterval</span> <span class="o">=</span> <span class="mi">2</span><span class="p">,</span> <span class="nv">maxRetryCount</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">3</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -215,8 +208,8 @@ By default, the max amount of retries is 3.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

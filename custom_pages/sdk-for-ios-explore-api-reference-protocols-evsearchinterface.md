@@ -1,5 +1,5 @@
 ---
-title: "EVSearchInterface Protocol Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-protocols-evsearchinterface"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-protocols-evsearchinterface"
 <!-- EVSearchInterface.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Protocol/EVSearchInterface"></a>
 <a title="EVSearchInterface Protocol Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-evsearchinterface"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVSearchInterface</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public protocol EVSearchInterface : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">EVSearchInterface</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 <p>Provides the protocol for the <code><a href="sdk-for-ios-explore-api-reference-..-classes-evsearchengine">EVSearchEngine</a></code>.
@@ -68,8 +61,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@discardableResult
-func search(ids: [String], completion: @escaping EVCP3SearchCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@discardableResult</span>
+<span class="kd">func</span> <span class="nf">search</span><span class="p">(</span><span class="nv">ids</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">],</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Search.html#/s:7heresdk28EVCP3SearchCompletionHandlera">EVCP3SearchCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -120,8 +113,8 @@ func search(ids: [String], completion: @escaping EVCP3SearchCompletionHandler) -
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "MetadataType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-metadatatype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-metadatatype"
 <!-- MetadataType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/MetadataType"></a>
 <a title="MetadataType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-metadatatype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MetadataType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum MetadataType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">MetadataType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Different types of objects that can be stored in a Metadata class instance.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-metadatatype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case custom</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">custom</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-metadatatype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case double</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">double</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-metadatatype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case geoCoordinates</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">geoCoordinates</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-metadatatype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case integer</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">integer</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-metadatatype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case string</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">string</span></code></pre>
 </div>
 </div>
 </section>
@@ -182,8 +175,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-metadatatype"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

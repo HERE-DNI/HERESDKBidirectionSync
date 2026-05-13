@@ -1,5 +1,5 @@
 ---
-title: "UsageStats Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-usagestats"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-usagestats"
 <!-- UsageStats.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/UsageStats"></a>
 <a title="UsageStats Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-usagestats"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>UsageStats</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct UsageStats</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">UsageStats</span></code></pre>
 </div>
 </div>
 <p>A class that gathers statistics of the HERE SDK network usage for uploaded and downloaded data.</p>
@@ -68,7 +61,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var networkStats: [UsageStats.NetworkStats]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">networkStats</span><span class="p">:</span> <span class="p">[</span><span class="kt">UsageStats</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-usagestats-networkstats">NetworkStats</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var feature: UsageStats.Feature</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">feature</span><span class="p">:</span> <span class="kt">UsageStats</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-usagestats-feature">Feature</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(networkStats: [UsageStats.NetworkStats], feature: UsageStats.Feature)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">networkStats</span><span class="p">:</span> <span class="p">[</span><span class="kt">UsageStats</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-usagestats-networkstats">NetworkStats</a></span><span class="p">],</span> <span class="nv">feature</span><span class="p">:</span> <span class="kt">UsageStats</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-usagestats-feature">Feature</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -144,7 +137,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum Feature : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">Feature</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -170,7 +163,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct NetworkStats</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">NetworkStats</span></code></pre>
 </div>
 </div>
 </section>
@@ -186,8 +179,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

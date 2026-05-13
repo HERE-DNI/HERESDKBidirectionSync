@@ -1,5 +1,5 @@
 ---
-title: "FuelAdditiveType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-fueladditivetype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-fueladditivetype"
 <!-- FuelAdditiveType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/FuelAdditiveType"></a>
 <a title="FuelAdditiveType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-fueladditivetype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>FuelAdditiveType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum FuelAdditiveType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">FuelAdditiveType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Defines possible fuel additives that a fuel could contain.</p>
@@ -70,7 +63,7 @@ the NOx emission. AU 32 is also known as ARLA 32 or HWL.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case aus32</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">aus32</span></code></pre>
 </div>
 </div>
 </section>
@@ -86,8 +79,8 @@ the NOx emission. AU 32 is also known as ARLA 32 or HWL.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

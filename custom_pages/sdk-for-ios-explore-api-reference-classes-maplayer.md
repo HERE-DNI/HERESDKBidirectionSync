@@ -1,5 +1,5 @@
 ---
-title: "MapLayer Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-maplayer"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-maplayer"
 <!-- MapLayer.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapLayer"></a>
 <a title="MapLayer Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-maplayer"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapLayer</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapLayer</code></pre>
-<pre><code>extension MapLayer: NativeBase</code></pre>
-<pre><code>extension MapLayer: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapLayer</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapLayer</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapLayer</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Interface for managing a map layer.
@@ -70,7 +63,7 @@ gets added to a map. The layer gets removed from the map upon instance destructi
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setEnabled(_ enable: Bool)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setEnabled</span><span class="p">(</span><span class="n">_</span> <span class="nv">enable</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -117,7 +110,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setStyle(_ style: Style)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setStyle</span><span class="p">(</span><span class="n">_</span> <span class="nv">style</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-style">Style</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -161,7 +154,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setPriority(_ priority: MapLayerPriority)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setPriority</span><span class="p">(</span><span class="n">_</span> <span class="nv">priority</span><span class="p">:</span> <span class="kt"><a href="../Maps.html#/s:7heresdk16MapLayerPriorityC">MapLayerPriority</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -196,8 +189,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

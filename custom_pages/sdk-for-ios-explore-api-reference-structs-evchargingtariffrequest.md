@@ -1,5 +1,5 @@
 ---
-title: "EVChargingTariffRequest Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariffrequest"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariffrequest"
 <!-- EVChargingTariffRequest.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/EVChargingTariffRequest"></a>
 <a title="EVChargingTariffRequest Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariffrequest"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVChargingTariffRequest</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct EVChargingTariffRequest : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingTariffRequest</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents a search option to choose the eMSP or CPO whose tariff should be included in the response.
@@ -68,7 +61,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var partnerID: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">partnerID</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var tariffNames: [String]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tariffNames</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(partnerID: String = "", tariffNames: [String] = [])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">partnerID</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">""</span><span class="p">,</span> <span class="nv">tariffNames</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>
@@ -134,8 +127,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

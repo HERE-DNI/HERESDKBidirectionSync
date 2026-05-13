@@ -1,5 +1,5 @@
 ---
-title: "CatalogVersionHint Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-catalogversionhint"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-catalogversionhint"
 <!-- CatalogVersionHint.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/CatalogVersionHint"></a>
 <a title="CatalogVersionHint Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-catalogversionhint"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>CatalogVersionHint</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class CatalogVersionHint</code></pre>
-<pre><code>extension CatalogVersionHint: NativeBase</code></pre>
-<pre><code>extension CatalogVersionHint: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">CatalogVersionHint</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">CatalogVersionHint</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">CatalogVersionHint</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>This is a class for capturing user’s intent for the
@@ -78,7 +71,7 @@ To ensure proper functioning of this API, it is essential to clean the mutable a
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func specific(version: Int64) -&gt; CatalogVersionHint</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">specific</span><span class="p">(</span><span class="nv">version</span><span class="p">:</span> <span class="kt">Int64</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">CatalogVersionHint</span></code></pre>
 </div>
 </div>
 <div>
@@ -139,7 +132,7 @@ format.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func latest(ignoreCachedData: Bool) -&gt; CatalogVersionHint</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">latest</span><span class="p">(</span><span class="nv">ignoreCachedData</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">CatalogVersionHint</span></code></pre>
 </div>
 </div>
 <div>
@@ -188,8 +181,8 @@ clearing the cache) <em>and</em> no installed map data. Otherwise, this call wil
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

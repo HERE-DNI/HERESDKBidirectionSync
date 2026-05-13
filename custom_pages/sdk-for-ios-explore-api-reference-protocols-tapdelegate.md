@@ -1,5 +1,5 @@
 ---
-title: "TapDelegate Protocol Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-protocols-tapdelegate"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-protocols-tapdelegate"
 <!-- TapDelegate.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Protocol/TapDelegate"></a>
 <a title="TapDelegate Protocol Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-tapdelegate"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TapDelegate</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public protocol TapDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">TapDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 <p>Protocol for handling tap gestures.
@@ -67,7 +60,7 @@ Tap gesture occurs after tapping on the screen.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func onTap(origin: Point2D)</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onTap</span><span class="p">(</span><span class="nv">origin</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point2d">Point2D</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -102,8 +95,8 @@ Tap gesture occurs after tapping on the screen.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

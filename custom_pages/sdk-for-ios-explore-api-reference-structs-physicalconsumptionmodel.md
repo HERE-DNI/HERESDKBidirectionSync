@@ -1,5 +1,5 @@
 ---
-title: "PhysicalConsumptionModel Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-physicalconsumptionmodel"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-physicalconsumptionmodel"
 <!-- PhysicalConsumptionModel.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/PhysicalConsumptionModel"></a>
 <a title="PhysicalConsumptionModel Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-physicalconsumptionmodel"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>PhysicalConsumptionModel</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct PhysicalConsumptionModel : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">PhysicalConsumptionModel</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Defines the physical consumption model for electric vehicles,
@@ -72,7 +65,7 @@ Supported range from 0 to 1</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var driveTrainEfficiency: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">driveTrainEfficiency</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -98,7 +91,7 @@ Supported range from 0 to 1</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var recuperationEfficiency: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">recuperationEfficiency</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -124,7 +117,7 @@ Supported range from 0 to 1</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var auxiliaryPowerConsumptionInWatts: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">auxiliaryPowerConsumptionInWatts</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -153,7 +146,7 @@ As fallback <code><a href="../Structs/VehicleSpecification.html#/s:7heresdk20Veh
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var frontalAreaInSquareMeters: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">frontalAreaInSquareMeters</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -182,7 +175,7 @@ The coefficient of rolling resistance is a numerical value indicating the severi
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var rollingResistanceCoefficient: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">rollingResistanceCoefficient</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -210,7 +203,7 @@ More streamlined vehicles are more aerodynamic and therefore have smaller drag c
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var airDragCoefficient: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">airDragCoefficient</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -269,7 +262,7 @@ More streamlined vehicles are more aerodynamic and therefore have smaller drag c
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(driveTrainEfficiency: Double = 0.1, recuperationEfficiency: Double = 0.1, auxiliaryPowerConsumptionInWatts: Double = 0.1, frontalAreaInSquareMeters: Double = 0.5, rollingResistanceCoefficient: Double = 0.1, airDragCoefficient: Double = 0.1)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">driveTrainEfficiency</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.1</span><span class="p">,</span> <span class="nv">recuperationEfficiency</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.1</span><span class="p">,</span> <span class="nv">auxiliaryPowerConsumptionInWatts</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.1</span><span class="p">,</span> <span class="nv">frontalAreaInSquareMeters</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">rollingResistanceCoefficient</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.1</span><span class="p">,</span> <span class="nv">airDragCoefficient</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.1</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -285,8 +278,8 @@ More streamlined vehicles are more aerodynamic and therefore have smaller drag c
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

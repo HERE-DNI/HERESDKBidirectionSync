@@ -1,5 +1,5 @@
 ---
-title: "TransportSpecification Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-transportspecification"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-transportspecification"
 <!-- TransportSpecification.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/TransportSpecification"></a>
 <a title="TransportSpecification Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-transportspecification"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TransportSpecification</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct TransportSpecification : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TransportSpecification</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Contains transport attributes details related to the transport mode.
@@ -73,7 +66,7 @@ Defaults to <code>CAR</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var transportMode: TransportMode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-transportmode">TransportMode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -99,7 +92,7 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var vehicleSpecification: VehicleSpecification?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">vehicleSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -125,7 +118,7 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var pedestrianSpecification: PedestrianSpecification?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">pedestrianSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-pedestrianspecification">PedestrianSpecification</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -151,7 +144,7 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var taxiSpecification: TaxiSpecification?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">taxiSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-taxispecification">TaxiSpecification</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -177,7 +170,7 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var scooterSpecification: ScooterSpecification?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">scooterSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-scooterspecification">ScooterSpecification</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -202,7 +195,7 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(transportMode: TransportMode = TransportMode.car, vehicleSpecification: VehicleSpecification? = nil, pedestrianSpecification: PedestrianSpecification? = nil, taxiSpecification: TaxiSpecification? = nil, scooterSpecification: ScooterSpecification? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-transportmode">TransportMode</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-transportmode">TransportMode</a></span><span class="o">.</span><span class="n">car</span><span class="p">,</span> <span class="nv">vehicleSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">pedestrianSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-pedestrianspecification">PedestrianSpecification</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">taxiSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-taxispecification">TaxiSpecification</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">scooterSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-scooterspecification">ScooterSpecification</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -228,9 +221,9 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class CarBuilder</code></pre>
-<pre><code>extension TransportSpecification.CarBuilder: NativeBase</code></pre>
-<pre><code>extension TransportSpecification.CarBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">CarBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">CarBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -256,9 +249,9 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class TruckBuilder</code></pre>
-<pre><code>extension TransportSpecification.TruckBuilder: NativeBase</code></pre>
-<pre><code>extension TransportSpecification.TruckBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TruckBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -284,9 +277,9 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class PedestrianBuilder</code></pre>
-<pre><code>extension TransportSpecification.PedestrianBuilder: NativeBase</code></pre>
-<pre><code>extension TransportSpecification.PedestrianBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PedestrianBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">PedestrianBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">PedestrianBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -312,9 +305,9 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class ScooterBuilder</code></pre>
-<pre><code>extension TransportSpecification.ScooterBuilder: NativeBase</code></pre>
-<pre><code>extension TransportSpecification.ScooterBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">ScooterBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">ScooterBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">ScooterBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -340,9 +333,9 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class BicycleBuilder</code></pre>
-<pre><code>extension TransportSpecification.BicycleBuilder: NativeBase</code></pre>
-<pre><code>extension TransportSpecification.BicycleBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">BicycleBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">BicycleBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">BicycleBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -368,9 +361,9 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class TaxiBuilder</code></pre>
-<pre><code>extension TransportSpecification.TaxiBuilder: NativeBase</code></pre>
-<pre><code>extension TransportSpecification.TaxiBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TaxiBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">TaxiBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">TaxiBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -396,9 +389,9 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class BusBuilder</code></pre>
-<pre><code>extension TransportSpecification.BusBuilder: NativeBase</code></pre>
-<pre><code>extension TransportSpecification.BusBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">BusBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">BusBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">BusBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -424,9 +417,9 @@ By default, it is not set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class PrivateBusBuilder</code></pre>
-<pre><code>extension TransportSpecification.PrivateBusBuilder: NativeBase</code></pre>
-<pre><code>extension TransportSpecification.PrivateBusBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PrivateBusBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">PrivateBusBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">PrivateBusBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -442,8 +435,8 @@ By default, it is not set.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "POIPaymentMethod Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-poipaymentmethod"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-poipaymentmethod"
 <!-- POIPaymentMethod.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/POIPaymentMethod"></a>
 <a title="POIPaymentMethod Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-poipaymentmethod"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>POIPaymentMethod</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct POIPaymentMethod</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">POIPaymentMethod</span></code></pre>
 </div>
 </div>
 <p>Holds constants that represent payment methods.</p>
@@ -70,7 +63,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let amex: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">amex</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let ampol: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">ampol</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -120,7 +113,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let androidPay: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">androidPay</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -145,7 +138,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let applePay: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">applePay</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -170,7 +163,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let cash: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">cash</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -195,7 +188,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let cheque: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">cheque</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -220,7 +213,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let debitCard: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">debitCard</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -245,7 +238,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let dinersClub: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">dinersClub</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -270,7 +263,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let discover: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">discover</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -295,7 +288,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let dkv: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">dkv</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -320,7 +313,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let financing: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">financing</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -345,7 +338,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let mastercard: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">mastercard</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -370,7 +363,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let motorpass: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">motorpass</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -395,7 +388,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let paypal: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">paypal</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -420,7 +413,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let shell: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">shell</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -445,7 +438,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let visa: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">visa</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -461,8 +454,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

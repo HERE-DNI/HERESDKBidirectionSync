@@ -1,5 +1,5 @@
 ---
-title: "DynamicSpeedInfo Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-dynamicspeedinfo"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-dynamicspeedinfo"
 <!-- DynamicSpeedInfo.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/DynamicSpeedInfo"></a>
 <a title="DynamicSpeedInfo Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-dynamicspeedinfo"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>DynamicSpeedInfo</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct DynamicSpeedInfo : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">DynamicSpeedInfo</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Provides estimated speed information.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-dynamicspeedinfo"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var baseSpeedInMetersPerSecond: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">baseSpeedInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-dynamicspeedinfo"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var trafficSpeedInMetersPerSecond: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">trafficSpeedInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-dynamicspeedinfo"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var turnTimeInSeconds: Int32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">turnTimeInSeconds</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-dynamicspeedinfo"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(baseSpeedInMetersPerSecond: Double, trafficSpeedInMetersPerSecond: Double, turnTimeInSeconds: Int32)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">baseSpeedInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">trafficSpeedInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">turnTimeInSeconds</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +159,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-dynamicspeedinfo"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func calculateJamFactor() -&gt; Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">calculateJamFactor</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 <div>
@@ -188,8 +181,8 @@ Specifically, 0.0 means free traffic and 10.0 means stationary traffic.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

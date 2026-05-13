@@ -1,5 +1,5 @@
 ---
-title: "EVChargingOpeningHoursException Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingopeninghoursexception"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingopeninghoursexception
 <!-- EVChargingOpeningHoursException.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/EVChargingOpeningHoursException"></a>
 <a title="EVChargingOpeningHoursException Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingopeninghoursexception
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVChargingOpeningHoursException</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct EVChargingOpeningHoursException : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingOpeningHoursException</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents exceptions to the regular opening hours schedule for EV charging locations,
@@ -69,7 +62,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var date: Date</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">date</span><span class="p">:</span> <span class="kt">Date</span></code></pre>
 </div>
 </div>
 </section>
@@ -97,7 +90,7 @@ and <code><a href="../Structs/TimeOfDayRange.html#/s:7heresdk14TimeOfDayRangeV2t
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var periods: [TimeOfDayRange]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">periods</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-timeofdayrange">TimeOfDayRange</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -123,7 +116,7 @@ and <code><a href="../Structs/TimeOfDayRange.html#/s:7heresdk14TimeOfDayRangeV2t
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var closed: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">closed</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -148,7 +141,7 @@ and <code><a href="../Structs/TimeOfDayRange.html#/s:7heresdk14TimeOfDayRangeV2t
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(date: Date = Date(timeIntervalSince1970: 0), periods: [TimeOfDayRange] = [], closed: Bool = false)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">date</span><span class="p">:</span> <span class="kt">Date</span> <span class="o">=</span> <span class="kt">Date</span><span class="p">(</span><span class="nv">timeIntervalSince1970</span><span class="p">:</span> <span class="mi">0</span><span class="p">),</span> <span class="nv">periods</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-timeofdayrange">TimeOfDayRange</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">closed</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -164,8 +157,8 @@ and <code><a href="../Structs/TimeOfDayRange.html#/s:7heresdk14TimeOfDayRangeV2t
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

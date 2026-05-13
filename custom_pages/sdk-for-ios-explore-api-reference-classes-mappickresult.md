@@ -1,5 +1,5 @@
 ---
-title: "MapPickResult Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mappickresult"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappickresult"
 <!-- MapPickResult.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapPickResult"></a>
 <a title="MapPickResult Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappickresult"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapPickResult</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapPickResult</code></pre>
-<pre><code>extension MapPickResult: NativeBase</code></pre>
-<pre><code>extension MapPickResult: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapPickResult</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapPickResult</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapPickResult</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>A class representing a map pick result.</p>
@@ -68,7 +61,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappickresult"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var mapItems: PickMapItemsResult? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">mapItems</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-pickmapitemsresult">PickMapItemsResult</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappickresult"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var mapContent: PickMapContentResult? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">mapContent</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-pickmapcontentresult">PickMapContentResult</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappickresult"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var customLayerObjectDescriptors: [MapObjectDescriptor]? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">customLayerObjectDescriptors</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapobjectdescriptor">MapObjectDescriptor</a></span><span class="p">]?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -134,8 +127,8 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappickresult"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

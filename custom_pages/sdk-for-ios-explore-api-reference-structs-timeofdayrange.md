@@ -1,5 +1,5 @@
 ---
-title: "TimeOfDayRange Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-timeofdayrange"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-timeofdayrange"
 <!-- TimeOfDayRange.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/TimeOfDayRange"></a>
 <a title="TimeOfDayRange Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-timeofdayrange"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TimeOfDayRange</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct TimeOfDayRange : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TimeOfDayRange</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Time period when the tariff element is valid, in local time. The time period wraps around to
@@ -70,7 +63,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var from: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">from</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -96,7 +89,7 @@ The period is exclusive of the given value.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var to: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">to</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -121,7 +114,7 @@ The period is exclusive of the given value.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(from: String = "00:00:00", to: String = "00:00:00")</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">from</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">"00:00:00"</span><span class="p">,</span> <span class="nv">to</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">"00:00:00"</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -137,8 +130,8 @@ The period is exclusive of the given value.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

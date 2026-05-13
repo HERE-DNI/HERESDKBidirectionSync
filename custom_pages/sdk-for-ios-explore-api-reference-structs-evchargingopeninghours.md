@@ -1,5 +1,5 @@
 ---
-title: "EVChargingOpeningHours Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingopeninghours"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingopeninghours"
 <!-- EVChargingOpeningHours.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/EVChargingOpeningHours"></a>
 <a title="EVChargingOpeningHours Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingopeninghours"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVChargingOpeningHours</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct EVChargingOpeningHours : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingOpeningHours</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents the times when the EVSEs at the charging location can be accessed for charging.
@@ -69,7 +62,7 @@ If true, <code><a href="../Structs/EVChargingOpeningHours.html#/s:7heresdk22EVCh
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var open24x7: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">open24x7</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ charging outside opening hours.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var chargingWhenClosed: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">chargingWhenClosed</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -120,7 +113,7 @@ charging outside opening hours.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var regularSchedule: [EVChargingOpeningHoursSchedule]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">regularSchedule</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingopeninghoursschedule">EVChargingOpeningHoursSchedule</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -145,7 +138,7 @@ charging outside opening hours.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var exceptions: [EVChargingOpeningHoursException]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">exceptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingopeninghoursexception">EVChargingOpeningHoursException</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -170,7 +163,7 @@ charging outside opening hours.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(open24x7: Bool = false, chargingWhenClosed: Bool = true, regularSchedule: [EVChargingOpeningHoursSchedule] = [], exceptions: [EVChargingOpeningHoursException] = [])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">open24x7</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">chargingWhenClosed</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">true</span><span class="p">,</span> <span class="nv">regularSchedule</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingopeninghoursschedule">EVChargingOpeningHoursSchedule</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">exceptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingopeninghoursexception">EVChargingOpeningHoursException</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>
@@ -186,8 +179,8 @@ charging outside opening hours.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

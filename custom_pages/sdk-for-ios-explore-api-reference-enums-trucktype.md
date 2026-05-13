@@ -1,5 +1,5 @@
 ---
-title: "TruckType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-trucktype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-trucktype"
 <!-- TruckType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/TruckType"></a>
 <a title="TruckType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,11 +29,11 @@ slug: "sdk-for-ios-explore-api-reference-enums-trucktype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TruckType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.27.0. Use <code>TruckCategory</code> instead.")
-public enum TruckType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Use <code>TruckCategory</code> instead.")</span>
+<span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TruckType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Specifies the type of truck.</p>
@@ -67,7 +60,7 @@ public enum TruckType : UInt32, CaseIterable, Codable</code></pre>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case straight</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">straight</span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ public enum TruckType : UInt32, CaseIterable, Codable</code></pre>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tractor</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tractor</span></code></pre>
 </div>
 </div>
 </section>
@@ -108,8 +101,8 @@ public enum TruckType : UInt32, CaseIterable, Codable</code></pre>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

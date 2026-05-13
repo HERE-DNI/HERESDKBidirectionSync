@@ -1,5 +1,5 @@
 ---
-title: "Isoline Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-isoline"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-isoline"
 <!-- Isoline.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/Isoline"></a>
 <a title="Isoline Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-isoline"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Isoline</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class Isoline</code></pre>
-<pre><code>extension Isoline: NativeBase</code></pre>
-<pre><code>extension Isoline: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">Isoline</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Isoline</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Isoline</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents an isoline polygon around a center point. Any possible route between
@@ -73,7 +66,7 @@ process can be influenced by setting <code><a href="../Structs/IsolineOptions/Ca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(rangeType: IsolineRangeType, rangeValue: Double, center: MapMatchedCoordinates, polygons: [GeoPolygon])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">rangeType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-isolinerangetype">IsolineRangeType</a></span><span class="p">,</span> <span class="nv">rangeValue</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">center</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmatchedcoordinates">MapMatchedCoordinates</a></span><span class="p">,</span> <span class="nv">polygons</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geopolygon">GeoPolygon</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -153,7 +146,7 @@ process can be influenced by setting <code><a href="../Structs/IsolineOptions/Ca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var rangeType: IsolineRangeType { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">rangeType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-isolinerangetype">IsolineRangeType</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -178,7 +171,7 @@ process can be influenced by setting <code><a href="../Structs/IsolineOptions/Ca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var rangeValue: Double { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">rangeValue</span><span class="p">:</span> <span class="kt">Double</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -205,7 +198,7 @@ This includes the original center that was passed to the RoutingEngine.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var center: MapMatchedCoordinates { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">center</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmatchedcoordinates">MapMatchedCoordinates</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -233,7 +226,7 @@ only a single polygon is included.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var polygons: [GeoPolygon] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">polygons</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geopolygon">GeoPolygon</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -249,8 +242,8 @@ only a single polygon is included.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "EVMobilityServiceProviderPreferences Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-evmobilityserviceproviderpreferences"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-evmobilityserviceproviderprefer
 <!-- EVMobilityServiceProviderPreferences.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/EVMobilityServiceProviderPreferences"></a>
 <a title="EVMobilityServiceProviderPreferences Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-evmobilityserviceproviderprefer
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVMobilityServiceProviderPreferences</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct EVMobilityServiceProviderPreferences : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVMobilityServiceProviderPreferences</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Defines preference level per known E-Mobility Service Provider.
@@ -71,7 +64,7 @@ Defaults to using all available providers with no prioritization.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var high: [String]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">high</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -96,7 +89,7 @@ Defaults to using all available providers with no prioritization.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var medium: [String]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">medium</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -121,7 +114,7 @@ Defaults to using all available providers with no prioritization.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var low: [String]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">low</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -146,7 +139,7 @@ Defaults to using all available providers with no prioritization.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(high: [String] = [], medium: [String] = [], low: [String] = [])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">high</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">medium</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">low</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>
@@ -162,8 +155,8 @@ Defaults to using all available providers with no prioritization.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

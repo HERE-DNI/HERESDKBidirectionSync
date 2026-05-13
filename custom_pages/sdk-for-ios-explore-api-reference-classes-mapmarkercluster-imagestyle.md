@@ -1,5 +1,5 @@
 ---
-title: "ImageStyle Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-imagestyle"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-imagestyle"
 <!-- ImageStyle.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/ImageStyle"></a>
 <a title="ImageStyle Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-imagestyle"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>ImageStyle</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct ImageStyle</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ImageStyle</span></code></pre>
 </div>
 </div>
 <p>This class specifies the visual appearance of a cluster marker.</p>
@@ -68,7 +61,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-imagestyle"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let image: MapImage</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">image</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapimage">MapImage</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ to the cluster’s position.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let anchor: Anchor2D</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">anchor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-anchor2d">Anchor2D</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -123,7 +116,7 @@ position.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(image: MapImage, anchor: Anchor2D)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">image</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapimage">MapImage</a></span><span class="p">,</span> <span class="nv">anchor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-anchor2d">Anchor2D</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -180,7 +173,7 @@ to the cluster’s position.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(image: MapImage)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">image</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapimage">MapImage</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -215,8 +208,8 @@ to the cluster’s position.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

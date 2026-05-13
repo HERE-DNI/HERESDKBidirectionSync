@@ -1,5 +1,5 @@
 ---
-title: "MapCameraLimits Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcameralimits"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcameralimits"
 <!-- MapCameraLimits.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapCameraLimits"></a>
 <a title="MapCameraLimits Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcameralimits"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapCameraLimits</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapCameraLimits</code></pre>
-<pre><code>extension MapCameraLimits: NativeBase</code></pre>
-<pre><code>extension MapCameraLimits: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapCameraLimits</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraLimits</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraLimits</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Controls constraints on map camera parameters.</p>
@@ -71,7 +64,7 @@ and for all future changes to the camera.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let minTilt: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">minTilt</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -96,7 +89,7 @@ and for all future changes to the camera.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let maxTilt: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">maxTilt</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -121,7 +114,7 @@ and for all future changes to the camera.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let minZoomLevel: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">minZoomLevel</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -146,7 +139,7 @@ and for all future changes to the camera.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let maxZoomLevel: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">maxZoomLevel</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -176,7 +169,7 @@ depending on which is closest.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var tiltRange: AngleRange { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tiltRange</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-anglerange">AngleRange</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -204,7 +197,7 @@ maximum, depending on which is closest.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var bearingRange: AngleRange { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">bearingRange</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-anglerange">AngleRange</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -233,7 +226,7 @@ Values outside the supported zoom range are ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var zoomRange: MapMeasureRange { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">zoomRange</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasurerange">MapMeasureRange</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -259,7 +252,7 @@ Absence of a value means that there is no limit.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var targetArea: GeoBox? { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">targetArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geobox">GeoBox</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -289,7 +282,7 @@ By default, the maximum bearing range for all zoom values is set during initiali
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setBearingRangeAtZoom(_ zoom: MapMeasure, bearingRange: AngleRange)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setBearingRangeAtZoom</span><span class="p">(</span><span class="n">_</span> <span class="nv">zoom</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure">MapMeasure</a></span><span class="p">,</span> <span class="nv">bearingRange</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-anglerange">AngleRange</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -346,7 +339,7 @@ to default.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func clearBearingRanges()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">clearBearingRanges</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -375,7 +368,7 @@ By default, the maximum tilt range for all zoom values is set during initializat
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setTiltRangeAtZoom(_ zoom: MapMeasure, tiltRange: AngleRange)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setTiltRangeAtZoom</span><span class="p">(</span><span class="n">_</span> <span class="nv">zoom</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure">MapMeasure</a></span><span class="p">,</span> <span class="nv">tiltRange</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-anglerange">AngleRange</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -431,7 +424,7 @@ By default, the maximum tilt range for all zoom values is set during initializat
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func clearTiltRanges()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">clearTiltRanges</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -447,8 +440,8 @@ By default, the maximum tilt range for all zoom values is set during initializat
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

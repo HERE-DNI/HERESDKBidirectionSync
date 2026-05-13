@@ -1,5 +1,5 @@
 ---
-title: "RoutePlaceType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-routeplacetype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-routeplacetype"
 <!-- RoutePlaceType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/RoutePlaceType"></a>
 <a title="RoutePlaceType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-routeplacetype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RoutePlaceType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum RoutePlaceType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">RoutePlaceType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Identifies the route place type.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-routeplacetype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case place</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">place</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-routeplacetype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case chargingStation</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">chargingStation</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-routeplacetype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case indoor</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">indoor</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-routeplacetype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case station</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">station</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-routeplacetype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case accessPoint</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">accessPoint</span></code></pre>
 </div>
 </div>
 </section>
@@ -182,8 +175,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-routeplacetype"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

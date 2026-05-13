@@ -1,5 +1,5 @@
 ---
-title: "FunctionalRoadClass Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-functionalroadclass"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-functionalroadclass"
 <!-- FunctionalRoadClass.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/FunctionalRoadClass"></a>
 <a title="FunctionalRoadClass Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-functionalroadclass"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>FunctionalRoadClass</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum FunctionalRoadClass : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">FunctionalRoadClass</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Types of function road class.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-functionalroadclass"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case functionalRoadClass1</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">functionalRoadClass1</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-functionalroadclass"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case functionalRoadClass2</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">functionalRoadClass2</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-functionalroadclass"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case functionalRoadClass3</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">functionalRoadClass3</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-functionalroadclass"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case functionalRoadClass4</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">functionalRoadClass4</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-functionalroadclass"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case functionalRoadClass5</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">functionalRoadClass5</span></code></pre>
 </div>
 </div>
 </section>
@@ -182,8 +175,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-functionalroadclass"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

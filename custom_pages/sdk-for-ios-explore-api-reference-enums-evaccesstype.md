@@ -1,5 +1,5 @@
 ---
-title: "EVAccessType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-evaccesstype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-evaccesstype"
 <!-- EVAccessType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/EVAccessType"></a>
 <a title="EVAccessType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-evaccesstype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVAccessType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum EVAccessType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EVAccessType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Represents the accessibility level of an <code><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingpool">EVChargingPool</a></code>.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-evaccesstype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case publicAccess</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">publicAccess</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-evaccesstype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case restrictedAccess</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">restrictedAccess</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-evaccesstype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case privateAccess</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">privateAccess</span></code></pre>
 </div>
 </div>
 </section>
@@ -132,8 +125,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-evaccesstype"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

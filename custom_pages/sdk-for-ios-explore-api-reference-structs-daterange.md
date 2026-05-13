@@ -1,5 +1,5 @@
 ---
-title: "DateRange Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-daterange"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-daterange"
 <!-- DateRange.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/DateRange"></a>
 <a title="DateRange Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-daterange"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>DateRange</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct DateRange : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">DateRange</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents the date range when the tariff element is valid. This is typically used to indicate
@@ -71,7 +64,7 @@ If absent the element becomes valid as soon as other conditions allow.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var from: Date?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">from</span><span class="p">:</span> <span class="kt">Date</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -97,7 +90,7 @@ If absent the element is valid until some other element takes over.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var to: Date?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">to</span><span class="p">:</span> <span class="kt">Date</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -122,7 +115,7 @@ If absent the element is valid until some other element takes over.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(from: Date? = nil, to: Date? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">from</span><span class="p">:</span> <span class="kt">Date</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">to</span><span class="p">:</span> <span class="kt">Date</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -138,8 +131,8 @@ If absent the element is valid until some other element takes over.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

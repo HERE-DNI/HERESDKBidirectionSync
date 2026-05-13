@@ -1,5 +1,5 @@
 ---
-title: "MapArrow Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-maparrow"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-maparrow"
 <!-- MapArrow.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapArrow"></a>
 <a title="MapArrow Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-maparrow"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapArrow</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapArrow</code></pre>
-<pre><code>extension MapArrow: NativeBase</code></pre>
-<pre><code>extension MapArrow: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapArrow</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapArrow</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapArrow</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>A visual representation of an arrow on the map. It consists of a tail - a polyline with an arbitrary
@@ -72,7 +65,7 @@ number of points - and a head at its end.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(geometry: GeoPolyline, widthInPixels: Double, color: UIColor)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">geometry</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geopolyline">GeoPolyline</a></span><span class="p">,</span> <span class="nv">widthInPixels</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">color</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -154,7 +147,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var measureDependentTailWidth: [MapMeasure : Double] { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">measureDependentTailWidth</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure">MapMeasure</a></span> <span class="p">:</span> <span class="kt">Double</span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -184,7 +177,7 @@ Only <code><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasurerange
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var visibilityRanges: [MapMeasureRange] { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">visibilityRanges</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasurerange">MapMeasureRange</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -200,8 +193,8 @@ Only <code><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasurerange
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

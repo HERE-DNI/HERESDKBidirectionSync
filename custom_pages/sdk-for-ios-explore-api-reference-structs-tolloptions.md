@@ -1,5 +1,5 @@
 ---
-title: "TollOptions Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-tolloptions"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-tolloptions"
 <!-- TollOptions.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/TollOptions"></a>
 <a title="TollOptions Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-tolloptions"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TollOptions</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct TollOptions : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TollOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The option to specify how the tolls should be calculated.
@@ -69,7 +62,7 @@ Note: currently, the only valid value is “all”. This means the user has a tr
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var transponders: [String]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">transponders</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ are determined from transport mode.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var vehicleCategory: TollOptions.VehicleCategory?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">vehicleCategory</span><span class="p">:</span> <span class="kt">TollOptions</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tolloptions-vehiclecategory">VehicleCategory</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -121,7 +114,7 @@ The emission type is based on the European emission standards (Euro 1 to Euro 6,
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var emissionType: TollOptions.EmissionType?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">emissionType</span><span class="p">:</span> <span class="kt">TollOptions</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tolloptions-emissiontype">EmissionType</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -148,7 +141,7 @@ Allowed values for CO2 class are 1, 2, 3, 4, or 5, where a lower value generally
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var co2Class: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">co2Class</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -173,7 +166,7 @@ Allowed values for CO2 class are 1, 2, 3, 4, or 5, where a lower value generally
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(transponders: [String] = [], vehicleCategory: TollOptions.VehicleCategory? = nil, emissionType: TollOptions.EmissionType? = nil, co2Class: Int32? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">transponders</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">vehicleCategory</span><span class="p">:</span> <span class="kt">TollOptions</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tolloptions-vehiclecategory">VehicleCategory</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">emissionType</span><span class="p">:</span> <span class="kt">TollOptions</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tolloptions-emissiontype">EmissionType</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">co2Class</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -199,7 +192,7 @@ Allowed values for CO2 class are 1, 2, 3, 4, or 5, where a lower value generally
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum VehicleCategory : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">VehicleCategory</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -225,7 +218,7 @@ Allowed values for CO2 class are 1, 2, 3, 4, or 5, where a lower value generally
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum EmissionType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EmissionType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -241,8 +234,8 @@ Allowed values for CO2 class are 1, 2, 3, 4, or 5, where a lower value generally
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

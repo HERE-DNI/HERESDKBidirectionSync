@@ -1,5 +1,5 @@
 ---
-title: "TransitRoutingEngine Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-transitroutingengine"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-transitroutingengine"
 <!-- TransitRoutingEngine.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/TransitRoutingEngine"></a>
 <a title="TransitRoutingEngine Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-transitroutingengine"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TransitRoutingEngine</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class TransitRoutingEngine</code></pre>
-<pre><code>extension TransitRoutingEngine: NativeBase</code></pre>
-<pre><code>extension TransitRoutingEngine: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TransitRoutingEngine</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TransitRoutingEngine</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TransitRoutingEngine</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Use the TransitRoutingEngine to calculate a public transit route from A to B with
@@ -78,7 +71,7 @@ estimated time to traverse along the route and maneuver data.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init() throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">()</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 </section>
@@ -108,7 +101,7 @@ estimated time to traverse along the route and maneuver data.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ sdkEngine: SDKNativeEngine) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -152,8 +145,8 @@ estimated time to traverse along the route and maneuver data.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@discardableResult
-public func calculateRoute(startingPoint: TransitWaypoint, destination: TransitWaypoint, routeOptions: TransitRouteOptions, completion: @escaping CalculateRouteCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@discardableResult</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">calculateRoute</span><span class="p">(</span><span class="nv">startingPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transitwaypoint">TransitWaypoint</a></span><span class="p">,</span> <span class="nv">destination</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transitwaypoint">TransitWaypoint</a></span><span class="p">,</span> <span class="nv">routeOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transitrouteoptions">TransitRouteOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Routing.html#/s:7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -229,8 +222,8 @@ It is always invoked on the main thread.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

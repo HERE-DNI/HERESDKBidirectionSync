@@ -1,5 +1,5 @@
 ---
-title: "FuelStation Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-fuelstation"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-fuelstation"
 <!-- FuelStation.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/FuelStation"></a>
 <a title="FuelStation Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-fuelstation"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>FuelStation</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct FuelStation : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">FuelStation</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Contains information about a specific fuel station.</p>
@@ -72,7 +65,7 @@ The list can be empty when no generic fuels are offered or when the information 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var fuels: [GenericFuel]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">fuels</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-genericfuel">GenericFuel</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -98,7 +91,7 @@ The list can be empty when no truck fuels are offered or when the information is
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var truckFuels: [TruckFuel]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckFuels</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-truckfuel">TruckFuel</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -123,7 +116,7 @@ The list can be empty when no truck fuels are offered or when the information is
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var payAtThePump: Bool?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">payAtThePump</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -148,7 +141,7 @@ The list can be empty when no truck fuels are offered or when the information is
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var highVolumePumps: Bool?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">highVolumePumps</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -173,7 +166,7 @@ The list can be empty when no truck fuels are offered or when the information is
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(fuels: [GenericFuel] = [], truckFuels: [TruckFuel] = [], payAtThePump: Bool? = nil, highVolumePumps: Bool? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">fuels</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-genericfuel">GenericFuel</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">truckFuels</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-truckfuel">TruckFuel</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">payAtThePump</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">highVolumePumps</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -189,8 +182,8 @@ The list can be empty when no truck fuels are offered or when the information is
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "LocationIndicator Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-locationindicator"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-locationindicator"
 <!-- LocationIndicator.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/LocationIndicator"></a>
 <a title="LocationIndicator Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-locationindicator"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>LocationIndicator</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class LocationIndicator</code></pre>
-<pre><code>extension LocationIndicator: NativeBase</code></pre>
-<pre><code>extension LocationIndicator: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">LocationIndicator</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">LocationIndicator</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">LocationIndicator</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Graphical object to represent the location of the user on the map.</p>
@@ -77,7 +70,7 @@ disappear from the viewport due to the new perspective.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -102,7 +95,7 @@ disappear from the viewport due to the new perspective.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(for mapView: MapViewBase)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="k">for</span> <span class="nv">mapView</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewbase">MapViewBase</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -174,7 +167,7 @@ If the location indicator is set to active:</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isAccuracyVisualized: Bool { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isAccuracyVisualized</span><span class="p">:</span> <span class="kt">Bool</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -200,7 +193,7 @@ By default, it is set to <code><a href="../Classes/LocationIndicator/IndicatorSt
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var locationIndicatorStyle: LocationIndicator.IndicatorStyle { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">locationIndicatorStyle</span><span class="p">:</span> <span class="kt">LocationIndicator</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-locationindicator-indicatorstyle">IndicatorStyle</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -229,7 +222,7 @@ the location of the indicator might be outdated or positioning on the device is 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isActive: Bool { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isActive</span><span class="p">:</span> <span class="kt">Bool</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -256,7 +249,7 @@ indicator is displayed with the default alpha channel of the texture.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var opacity: Double { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">opacity</span><span class="p">:</span> <span class="kt">Double</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -287,7 +280,7 @@ Default value is <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var materialReflectivity: MaterialReflectivity? { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">materialReflectivity</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-materialreflectivity">MaterialReflectivity</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -313,7 +306,7 @@ Default value is <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum IndicatorStyle : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">IndicatorStyle</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -339,7 +332,7 @@ Default value is <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum MarkerType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">MarkerType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -367,7 +360,7 @@ from previous map view before adding to new one.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func enable(for mapView: MapViewBase)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">enable</span><span class="p">(</span><span class="k">for</span> <span class="nv">mapView</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewbase">MapViewBase</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -412,7 +405,7 @@ If <code>LocationIndicator</code> was not added to any map view yet, this functi
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func disable()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">disable</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -440,7 +433,7 @@ determines the size of the accuracy indicator halo.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func updateLocation(_ location: Location)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">updateLocation</span><span class="p">(</span><span class="n">_</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-location">Location</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -488,7 +481,7 @@ determines the size of the accuracy indicator halo.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func updateLocation(_ location: Location, cameraUpdate: MapCameraUpdate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">updateLocation</span><span class="p">(</span><span class="n">_</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-location">Location</a></span><span class="p">,</span> <span class="nv">cameraUpdate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraupdate">MapCameraUpdate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -548,8 +541,8 @@ supported. Models created from Mesh will be ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.27.0. Please use the overloaded method with <code>RenderSize.Unit</code> instead.")
-public func setMarker3dModel(_ model: MapMarker3DModel, scale: Double, type: LocationIndicator.MarkerType)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Please use the overloaded method with <code>RenderSize.Unit</code> instead.")</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">setMarker3dModel</span><span class="p">(</span><span class="n">_</span> <span class="nv">model</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3dmodel">MapMarker3DModel</a></span><span class="p">,</span> <span class="nv">scale</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">type</span><span class="p">:</span> <span class="kt">LocationIndicator</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-locationindicator-markertype">MarkerType</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -628,7 +621,7 @@ supported. Models created from Mesh will be ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setMarker3dModel(_ model: MapMarker3DModel, scale: Double, type: LocationIndicator.MarkerType, renderSizeUnit: RenderSize.Unit)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setMarker3dModel</span><span class="p">(</span><span class="n">_</span> <span class="nv">model</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3dmodel">MapMarker3DModel</a></span><span class="p">,</span> <span class="nv">scale</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">type</span><span class="p">:</span> <span class="kt">LocationIndicator</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-locationindicator-markertype">MarkerType</a></span><span class="p">,</span> <span class="nv">renderSizeUnit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-rendersize">RenderSize</a></span><span class="o">.</span><span class="kt">Unit</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -711,7 +704,7 @@ screen coordinate space.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setHaloColor(_ style: LocationIndicator.IndicatorStyle, color: UIColor)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setHaloColor</span><span class="p">(</span><span class="n">_</span> <span class="nv">style</span><span class="p">:</span> <span class="kt">LocationIndicator</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-locationindicator-indicatorstyle">IndicatorStyle</a></span><span class="p">,</span> <span class="nv">color</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -770,7 +763,7 @@ The default color is a translucent turquoise (rgba(0, 199, 194, 76)) for all Ind
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func getHaloColor(_ style: LocationIndicator.IndicatorStyle) -&gt; UIColor</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getHaloColor</span><span class="p">(</span><span class="n">_</span> <span class="nv">style</span><span class="p">:</span> <span class="kt">LocationIndicator</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-locationindicator-indicatorstyle">IndicatorStyle</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">UIColor</span></code></pre>
 </div>
 </div>
 <div>
@@ -811,8 +804,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

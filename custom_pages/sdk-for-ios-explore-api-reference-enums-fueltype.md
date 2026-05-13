@@ -1,5 +1,5 @@
 ---
-title: "FuelType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-fueltype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-fueltype"
 <!-- FuelType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/FuelType"></a>
 <a title="FuelType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-fueltype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>FuelType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum FuelType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">FuelType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Defines possible fuel types provided by a fuel station.</p>
@@ -68,7 +61,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case diesel = 1</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">diesel</span> <span class="o">=</span> <span class="mi">1</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case lpg</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">lpg</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bioDiesel</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bioDiesel</span></code></pre>
 </div>
 </div>
 </section>
@@ -143,7 +136,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cng</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cng</span></code></pre>
 </div>
 </div>
 </section>
@@ -168,7 +161,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case dieselWithAdditives</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">dieselWithAdditives</span></code></pre>
 </div>
 </div>
 </section>
@@ -193,7 +186,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case e10</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">e10</span></code></pre>
 </div>
 </div>
 </section>
@@ -218,7 +211,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case e20</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">e20</span></code></pre>
 </div>
 </div>
 </section>
@@ -243,7 +236,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case e85</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">e85</span></code></pre>
 </div>
 </div>
 </section>
@@ -268,7 +261,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ethanol</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ethanol</span></code></pre>
 </div>
 </div>
 </section>
@@ -293,7 +286,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ethanolWithAdditives</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ethanolWithAdditives</span></code></pre>
 </div>
 </div>
 </section>
@@ -318,7 +311,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case gasoline</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">gasoline</span></code></pre>
 </div>
 </div>
 </section>
@@ -343,7 +336,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case gasohol91</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">gasohol91</span></code></pre>
 </div>
 </div>
 </section>
@@ -368,7 +361,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case gasohol95</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">gasohol95</span></code></pre>
 </div>
 </div>
 </section>
@@ -393,7 +386,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case hvo</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">hvo</span></code></pre>
 </div>
 </div>
 </section>
@@ -418,7 +411,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case hydrogen</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">hydrogen</span></code></pre>
 </div>
 </div>
 </section>
@@ -443,7 +436,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case lng</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">lng</span></code></pre>
 </div>
 </div>
 </section>
@@ -468,7 +461,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case midgrade</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">midgrade</span></code></pre>
 </div>
 </div>
 </section>
@@ -493,7 +486,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case premium</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">premium</span></code></pre>
 </div>
 </div>
 </section>
@@ -518,7 +511,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case premiumWithAdditives</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">premiumWithAdditives</span></code></pre>
 </div>
 </div>
 </section>
@@ -543,7 +536,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case regular</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">regular</span></code></pre>
 </div>
 </div>
 </section>
@@ -568,7 +561,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case regularWithAdditives</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">regularWithAdditives</span></code></pre>
 </div>
 </div>
 </section>
@@ -593,7 +586,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case octane87</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">octane87</span></code></pre>
 </div>
 </div>
 </section>
@@ -618,7 +611,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case octane89</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">octane89</span></code></pre>
 </div>
 </div>
 </section>
@@ -643,7 +636,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case octane90</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">octane90</span></code></pre>
 </div>
 </div>
 </section>
@@ -668,7 +661,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case octane91</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">octane91</span></code></pre>
 </div>
 </div>
 </section>
@@ -693,7 +686,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case octane92</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">octane92</span></code></pre>
 </div>
 </div>
 </section>
@@ -718,7 +711,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case octane93</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">octane93</span></code></pre>
 </div>
 </div>
 </section>
@@ -743,7 +736,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case octane95</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">octane95</span></code></pre>
 </div>
 </div>
 </section>
@@ -768,7 +761,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case octane98</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">octane98</span></code></pre>
 </div>
 </div>
 </section>
@@ -793,7 +786,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case octane100</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">octane100</span></code></pre>
 </div>
 </div>
 </section>
@@ -809,8 +802,8 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

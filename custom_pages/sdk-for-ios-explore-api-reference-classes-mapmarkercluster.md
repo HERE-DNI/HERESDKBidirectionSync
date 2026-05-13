@@ -1,5 +1,5 @@
 ---
-title: "MapMarkerCluster Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster"
 <!-- MapMarkerCluster.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapMarkerCluster"></a>
 <a title="MapMarkerCluster Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapMarkerCluster</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapMarkerCluster</code></pre>
-<pre><code>extension MapMarkerCluster: NativeBase</code></pre>
-<pre><code>extension MapMarkerCluster: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapMarkerCluster</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapMarkerCluster</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapMarkerCluster</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Groups map markers and enables their clustering to reduce visual clutter when there are many of
@@ -78,7 +71,7 @@ that mostly affects clusters which are visually large and cover a sizeable part 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(imageStyle: MapMarkerCluster.ImageStyle)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">imageStyle</span><span class="p">:</span> <span class="kt">MapMarkerCluster</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarkercluster-imagestyle">ImageStyle</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -124,7 +117,7 @@ showing how many markers are actually grouped under particular cluster icon.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(imageStyle: MapMarkerCluster.ImageStyle, counterStyle: MapMarkerCluster.CounterStyle)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">imageStyle</span><span class="p">:</span> <span class="kt">MapMarkerCluster</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarkercluster-imagestyle">ImageStyle</a></span><span class="p">,</span> <span class="nv">counterStyle</span><span class="p">:</span> <span class="kt">MapMarkerCluster</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarkercluster-counterstyle">CounterStyle</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -181,7 +174,7 @@ Modifying the list has no effect on the marker cluster.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var markers: [MapMarker] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">markers</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -210,7 +203,7 @@ is displayed with the default opacity of the image.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var opacity: Double { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">opacity</span><span class="p">:</span> <span class="kt">Double</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -238,7 +231,7 @@ single map marker entry for markers being part of cluster but spread enough not 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct Grouping</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Grouping</span></code></pre>
 </div>
 </div>
 </section>
@@ -264,7 +257,7 @@ single map marker entry for markers being part of cluster but spread enough not 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct ImageStyle</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ImageStyle</span></code></pre>
 </div>
 </div>
 </section>
@@ -290,7 +283,7 @@ single map marker entry for markers being part of cluster but spread enough not 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct CounterStyle</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">CounterStyle</span></code></pre>
 </div>
 </div>
 </section>
@@ -316,7 +309,7 @@ which was already added to the map scene has no effect.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func addMapMarker(marker: MapMarker)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addMapMarker</span><span class="p">(</span><span class="nv">marker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -362,7 +355,7 @@ which were already added to the map scene will be ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func addMapMarkers(markers: [MapMarker])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addMapMarkers</span><span class="p">(</span><span class="nv">markers</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -407,7 +400,7 @@ which were already added to the map scene will be ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeMapMarker(marker: MapMarker)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeMapMarker</span><span class="p">(</span><span class="nv">marker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -452,7 +445,7 @@ which were already added to the map scene will be ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeMapMarkers(markers: [MapMarker])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeMapMarkers</span><span class="p">(</span><span class="nv">markers</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -496,7 +489,7 @@ which were already added to the map scene will be ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeAllMapMarkers()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeAllMapMarkers</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -512,8 +505,8 @@ which were already added to the map scene will be ignored.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

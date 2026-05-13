@@ -1,5 +1,5 @@
 ---
-title: "TransitIncidentType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-transitincidenttype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitincidenttype"
 <!-- TransitIncidentType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/TransitIncidentType"></a>
 <a title="TransitIncidentType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitincidenttype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TransitIncidentType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum TransitIncidentType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TransitIncidentType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Transit incident type.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitincidenttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case technicalProblem</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">technicalProblem</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitincidenttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case strike</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">strike</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitincidenttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case demonstration</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">demonstration</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitincidenttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case accident</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">accident</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitincidenttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case holiday</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">holiday</span></code></pre>
 </div>
 </div>
 </section>
@@ -191,7 +184,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitincidenttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case weather</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">weather</span></code></pre>
 </div>
 </div>
 </section>
@@ -216,7 +209,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitincidenttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case maintenance</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">maintenance</span></code></pre>
 </div>
 </div>
 </section>
@@ -241,7 +234,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitincidenttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case construction</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">construction</span></code></pre>
 </div>
 </div>
 </section>
@@ -266,7 +259,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitincidenttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case policeActivity</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">policeActivity</span></code></pre>
 </div>
 </div>
 </section>
@@ -291,7 +284,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitincidenttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case medicalEmergency</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">medicalEmergency</span></code></pre>
 </div>
 </div>
 </section>
@@ -307,8 +300,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitincidenttype"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

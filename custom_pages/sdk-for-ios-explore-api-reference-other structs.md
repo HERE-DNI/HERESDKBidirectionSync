@@ -1,5 +1,5 @@
 ---
-title: "Other Structures  Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-other structs"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-other structs"
 <!-- Other Structs.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Section/Other Structures"></a>
 <a title="Other Structures  Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
@@ -34,7 +27,7 @@ slug: "sdk-for-ios-explore-api-reference-other structs"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Other Structures</h1>
 <p>The following structures are available globally.</p>
 </section>
 <section class="section task-group-section">
@@ -60,7 +53,7 @@ slug: "sdk-for-ios-explore-api-reference-other structs"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct IndoorLevelChangeData : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">IndoorLevelChangeData</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -86,7 +79,7 @@ slug: "sdk-for-ios-explore-api-reference-other structs"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct IndoorRoutePlace : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">IndoorRoutePlace</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -112,7 +105,7 @@ slug: "sdk-for-ios-explore-api-reference-other structs"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct IndoorSpaceData : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">IndoorSpaceData</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -139,7 +132,7 @@ specific location on it.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct RefreshRouteParameters : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">RefreshRouteParameters</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -155,8 +148,8 @@ specific location on it.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

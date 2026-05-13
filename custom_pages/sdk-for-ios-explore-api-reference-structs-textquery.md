@@ -1,5 +1,5 @@
 ---
-title: "TextQuery Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-textquery"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-textquery"
 <!-- TextQuery.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/TextQuery"></a>
 <a title="TextQuery Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-textquery"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TextQuery</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct TextQuery : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TextQuery</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The options to specify a text query.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-textquery"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var query: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">query</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-textquery"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var area: TextQuery.Area</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">TextQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-textquery-area">Area</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -117,7 +110,7 @@ Consists of fuel and truck options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var placeFilter: PlaceFilter</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">placeFilter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-placefilter">PlaceFilter</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -144,7 +137,7 @@ restricts the results to only POIs.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ query: String, area: TextQuery.Area)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">query</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">TextQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-textquery-area">Area</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -201,7 +194,7 @@ restricts the results to only POIs.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct Area : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Area</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -217,8 +210,8 @@ restricts the results to only POIs.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

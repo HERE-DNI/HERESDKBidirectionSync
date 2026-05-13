@@ -1,5 +1,5 @@
 ---
-title: "IsolineRoutingEngine Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-isolineroutingengine"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-isolineroutingengine"
 <!-- IsolineRoutingEngine.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/IsolineRoutingEngine"></a>
 <a title="IsolineRoutingEngine Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-isolineroutingengine"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>IsolineRoutingEngine</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class IsolineRoutingEngine</code></pre>
-<pre><code>extension IsolineRoutingEngine: NativeBase</code></pre>
-<pre><code>extension IsolineRoutingEngine: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">IsolineRoutingEngine</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">IsolineRoutingEngine</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">IsolineRoutingEngine</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Use the IsolineRoutingEngine to calculate a reachable area from a center point.
@@ -75,7 +68,7 @@ online connection.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init() throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">()</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 </section>
@@ -105,7 +98,7 @@ online connection.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(connectionSettings: RoutingConnectionSettings) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">connectionSettings</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routingconnectionsettings">RoutingConnectionSettings</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -154,7 +147,7 @@ online connection.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ sdkEngine: SDKNativeEngine, connectionSettings: RoutingConnectionSettings) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">connectionSettings</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routingconnectionsettings">RoutingConnectionSettings</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -215,7 +208,7 @@ online connection.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ sdkEngine: SDKNativeEngine) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -262,8 +255,8 @@ The result is a polygon area where each point is reachable within the provided l
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@discardableResult
-public func calculateIsoline(center: Waypoint, isolineOptions: IsolineOptions, completion: @escaping CalculateIsolineCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@discardableResult</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">calculateIsoline</span><span class="p">(</span><span class="nv">center</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">,</span> <span class="nv">isolineOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-isolineoptions">IsolineOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Routing.html#/s:7heresdk33CalculateIsolineCompletionHandlera">CalculateIsolineCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -342,7 +335,7 @@ so make sure you read and understand the backend documentation.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setCustomOption(name: String, value: String?) -&gt; RoutingError?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setCustomOption</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">value</span><span class="p">:</span> <span class="kt">String</span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-routingerror">RoutingError</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -396,8 +389,8 @@ It’s <code>RoutingError.INVALID_PARAMETER</code> if the input name and/or valu
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

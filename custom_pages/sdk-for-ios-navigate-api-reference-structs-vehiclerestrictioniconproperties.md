@@ -1,0 +1,135 @@
+---
+title: "Untitled"
+slug: "sdk-for-ios-navigate-api-reference-structs-vehiclerestrictioniconproperties"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-ios">
+<!-- VehicleRestrictionIconProperties.html -->
+<!DOCTYPE html>
+
+<html lang="en">
+
+<body>
+<a class="dashAnchor" name="//apple_ref/swift/Struct/VehicleRestrictionIconProperties"></a>
+<a title="VehicleRestrictionIconProperties Structure Reference"></a>
+
+<div class="content-wrapper">
+<p id="breadcrumbs">
+<a href="sdk-for-ios-navigate-api-reference-..-index">heresdk</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-navigate-api-reference-..-maps">Maps</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+        VehicleRestrictionIconProperties Structure Reference
+      </p>
+</div>
+<div class="content-wrapper">
+
+<article class="main-content">
+<section>
+<section class="section">
+<h1>VehicleRestrictionIconProperties</h1>
+<div class="declaration">
+<div class="language">
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">VehicleRestrictionIconProperties</span></code></pre>
+</div>
+</div>
+<p>Encapsulates properties for generating vehicle restriction icons
+using <code><a href="sdk-for-ios-navigate-api-reference-..-classes-iconprovider">IconProvider</a></code>.</p>
+</section>
+<section class="section task-group-section">
+<div class="task-group">
+<ul>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk32VehicleRestrictionIconPropertiesV11restrictionAA0bC0Vvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/restriction"></a>
+<a class="token" href="#/s:7heresdk32VehicleRestrictionIconPropertiesV11restrictionAA0bC0Vvp">restriction</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Vehicle restriction to generate icon for.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">restriction</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclerestriction">VehicleRestriction</a></span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk32VehicleRestrictionIconPropertiesV11countryCodeAA07CountryG0OSgvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/countryCode"></a>
+<a class="token" href="#/s:7heresdk32VehicleRestrictionIconPropertiesV11countryCodeAA07CountryG0OSgvp">countryCode</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Specifies country specific version of the icon. Ignored
+if there is no country specific version of requested icon.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">countryCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-countrycode">CountryCode</a></span><span class="p">?</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk32VehicleRestrictionIconPropertiesV11restriction11countryCodeAcA0bC0V_AA07CountryH0OSgtcfc"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Method/init(restriction:countryCode:)"></a>
+<a class="token" href="#/s:7heresdk32VehicleRestrictionIconPropertiesV11restriction11countryCodeAcA0bC0V_AA07CountryH0OSgtcfc">init(restriction:<wbr/>countryCode:<wbr/>)</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Undocumented</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">restriction</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-structs-vehiclerestriction">VehicleRestriction</a></span><span class="p">,</span> <span class="nv">countryCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-navigate-api-reference-..-enums-countrycode">CountryCode</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</section>
+<section id="footer">
+<p>© 2026 <a class="link" href="" rel="external noopener" target="_blank"></a>. All rights reserved. (Last updated: 2026-04-14)</p>
+<p>Generated by <a class="link" href="https://github.com/realm/jazzy" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a class="link" href="https://realm.io" rel="external noopener" target="_blank">Realm</a> project.</p>
+</section>
+</article>
+</div>
+</body>
+</html>
+
+</div>
+`
+}</HTMLBlock>

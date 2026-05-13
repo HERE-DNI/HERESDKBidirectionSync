@@ -1,5 +1,5 @@
 ---
-title: "RoutingProtocol Protocol Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-protocols-routingprotocol"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-protocols-routingprotocol"
 <!-- RoutingProtocol.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Protocol/RoutingProtocol"></a>
 <a title="RoutingProtocol Protocol Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-routingprotocol"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RoutingProtocol</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public protocol RoutingProtocol : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">RoutingProtocol</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 <p>Provides the protocol for the online and offline
@@ -68,8 +61,8 @@ passing through the given waypoints in the given order.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@discardableResult
-func calculateRoute(with waypoints: [Waypoint], options: RoutingOptions, completion: @escaping CalculateRouteCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@discardableResult</span>
+<span class="kd">func</span> <span class="nf">calculateRoute</span><span class="p">(</span><span class="n">with</span> <span class="nv">waypoints</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">],</span> <span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routingoptions">RoutingOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Routing.html#/s:7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -145,9 +138,9 @@ passing through the given waypoints in the given order.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")
-@discardableResult
-func calculateRoute(with waypoints: [Waypoint], carOptions: CarOptions, completion: @escaping CalculateRouteCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")</span>
+<span class="kd">@discardableResult</span>
+<span class="kd">func</span> <span class="nf">calculateRoute</span><span class="p">(</span><span class="n">with</span> <span class="nv">waypoints</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">],</span> <span class="nv">carOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-caroptions">CarOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Routing.html#/s:7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -224,9 +217,9 @@ passing through the given waypoints in the given order.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")
-@discardableResult
-func calculateRoute(with waypoints: [Waypoint], pedestrianOptions: PedestrianOptions, completion: @escaping CalculateRouteCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")</span>
+<span class="kd">@discardableResult</span>
+<span class="kd">func</span> <span class="nf">calculateRoute</span><span class="p">(</span><span class="n">with</span> <span class="nv">waypoints</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">],</span> <span class="nv">pedestrianOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-pedestrianoptions">PedestrianOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Routing.html#/s:7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -305,9 +298,9 @@ passing through the given waypoints in the given order.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")
-@discardableResult
-func calculateRoute(with waypoints: [Waypoint], truckOptions: TruckOptions, completion: @escaping CalculateRouteCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")</span>
+<span class="kd">@discardableResult</span>
+<span class="kd">func</span> <span class="nf">calculateRoute</span><span class="p">(</span><span class="n">with</span> <span class="nv">waypoints</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">],</span> <span class="nv">truckOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-truckoptions">TruckOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Routing.html#/s:7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -384,9 +377,9 @@ passing through the given waypoints in the given order.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")
-@discardableResult
-func calculateRoute(with waypoints: [Waypoint], scooterOptions: ScooterOptions, completion: @escaping CalculateRouteCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")</span>
+<span class="kd">@discardableResult</span>
+<span class="kd">func</span> <span class="nf">calculateRoute</span><span class="p">(</span><span class="n">with</span> <span class="nv">waypoints</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">],</span> <span class="nv">scooterOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-scooteroptions">ScooterOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Routing.html#/s:7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -465,9 +458,9 @@ passing through the given waypoints in the given order.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")
-@discardableResult
-func calculateRoute(with waypoints: [Waypoint], bicycleOptions: BicycleOptions, completion: @escaping CalculateRouteCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")</span>
+<span class="kd">@discardableResult</span>
+<span class="kd">func</span> <span class="nf">calculateRoute</span><span class="p">(</span><span class="n">with</span> <span class="nv">waypoints</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">],</span> <span class="nv">bicycleOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-bicycleoptions">BicycleOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Routing.html#/s:7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -546,9 +539,9 @@ passing through the given waypoints in the given order.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")
-@discardableResult
-func calculateRoute(with waypoints: [Waypoint], taxiOptions: TaxiOptions, completion: @escaping CalculateRouteCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")</span>
+<span class="kd">@discardableResult</span>
+<span class="kd">func</span> <span class="nf">calculateRoute</span><span class="p">(</span><span class="n">with</span> <span class="nv">waypoints</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">],</span> <span class="nv">taxiOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-taxioptions">TaxiOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Routing.html#/s:7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -627,9 +620,9 @@ passing through the given waypoints in the given order.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")
-@discardableResult
-func calculateRoute(with waypoints: [Waypoint], evCarOptions: EVCarOptions, completion: @escaping CalculateRouteCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")</span>
+<span class="kd">@discardableResult</span>
+<span class="kd">func</span> <span class="nf">calculateRoute</span><span class="p">(</span><span class="n">with</span> <span class="nv">waypoints</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">],</span> <span class="nv">evCarOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evcaroptions">EVCarOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Routing.html#/s:7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -706,9 +699,9 @@ passing through the given waypoints in the given order.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")
-@discardableResult
-func calculateRoute(with waypoints: [Waypoint], evTruckOptions: EVTruckOptions, completion: @escaping CalculateRouteCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")</span>
+<span class="kd">@discardableResult</span>
+<span class="kd">func</span> <span class="nf">calculateRoute</span><span class="p">(</span><span class="n">with</span> <span class="nv">waypoints</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">],</span> <span class="nv">evTruckOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evtruckoptions">EVTruckOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Routing.html#/s:7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -785,9 +778,9 @@ passing through the given waypoints in the given order.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")
-@discardableResult
-func calculateRoute(with waypoints: [Waypoint], busOptions: BusOptions, completion: @escaping CalculateRouteCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")</span>
+<span class="kd">@discardableResult</span>
+<span class="kd">func</span> <span class="nf">calculateRoute</span><span class="p">(</span><span class="n">with</span> <span class="nv">waypoints</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">],</span> <span class="nv">busOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-busoptions">BusOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Routing.html#/s:7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -864,9 +857,9 @@ passing through the given waypoints in the given order.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")
-@discardableResult
-func calculateRoute(with waypoints: [Waypoint], privateBusOptions: PrivateBusOptions, completion: @escaping CalculateRouteCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>calculate_route(﹚</code> methods with RoutingOptions parameter instead.")</span>
+<span class="kd">@discardableResult</span>
+<span class="kd">func</span> <span class="nf">calculateRoute</span><span class="p">(</span><span class="n">with</span> <span class="nv">waypoints</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">],</span> <span class="nv">privateBusOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-privatebusoptions">PrivateBusOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Routing.html#/s:7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -969,8 +962,8 @@ More information can be found in the Developer Guide in the “Handle route devi
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@discardableResult
-func returnToRoute(_ route: Route, startingPoint: Waypoint, lastTraveledSectionIndex: Int32, traveledDistanceOnLastSectionInMeters: Int32, completion: @escaping CalculateRouteCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@discardableResult</span>
+<span class="kd">func</span> <span class="nf">returnToRoute</span><span class="p">(</span><span class="n">_</span> <span class="nv">route</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-route">Route</a></span><span class="p">,</span> <span class="nv">startingPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">,</span> <span class="nv">lastTraveledSectionIndex</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">traveledDistanceOnLastSectionInMeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Routing.html#/s:7heresdk31CalculateRouteCompletionHandlera">CalculateRouteCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -1062,8 +1055,8 @@ It is always invoked on the main thread.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

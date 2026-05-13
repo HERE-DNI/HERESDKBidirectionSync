@@ -1,5 +1,5 @@
 ---
-title: "TrafficQueryError Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-trafficqueryerror"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-trafficqueryerror"
 <!-- TrafficQueryError.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/TrafficQueryError"></a>
 <a title="TrafficQueryError Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-trafficqueryerror"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TrafficQueryError</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum TrafficQueryError : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TrafficQueryError</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Represents various errors that could occur from a traffic queries.</p>
@@ -69,7 +62,7 @@ that couldn’t be processed correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case failedToRetrieveResult</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">failedToRetrieveResult</span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ that couldn’t be processed correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case authenticationFailed</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">authenticationFailed</span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ that couldn’t be processed correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case forbidden</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">forbidden</span></code></pre>
 </div>
 </div>
 </section>
@@ -144,7 +137,7 @@ that couldn’t be processed correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case serverUnreachable</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">serverUnreachable</span></code></pre>
 </div>
 </div>
 </section>
@@ -169,7 +162,7 @@ that couldn’t be processed correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case timedOut</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">timedOut</span></code></pre>
 </div>
 </div>
 </section>
@@ -194,7 +187,7 @@ that couldn’t be processed correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case offline</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">offline</span></code></pre>
 </div>
 </div>
 </section>
@@ -219,7 +212,7 @@ that couldn’t be processed correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case httpError</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">httpError</span></code></pre>
 </div>
 </div>
 </section>
@@ -244,7 +237,7 @@ that couldn’t be processed correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case invalidIn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">invalidIn</span></code></pre>
 </div>
 </div>
 </section>
@@ -269,7 +262,7 @@ that couldn’t be processed correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case invalidGeometry</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">invalidGeometry</span></code></pre>
 </div>
 </div>
 </section>
@@ -294,7 +287,7 @@ that couldn’t be processed correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case invalidIncident</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">invalidIncident</span></code></pre>
 </div>
 </div>
 </section>
@@ -319,7 +312,7 @@ that couldn’t be processed correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case incidentIdNotFound</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">incidentIdNotFound</span></code></pre>
 </div>
 </div>
 </section>
@@ -344,7 +337,7 @@ that couldn’t be processed correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case invalidFilterOptions</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">invalidFilterOptions</span></code></pre>
 </div>
 </div>
 </section>
@@ -369,7 +362,7 @@ that couldn’t be processed correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case invalidParameter</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">invalidParameter</span></code></pre>
 </div>
 </div>
 </section>
@@ -394,7 +387,7 @@ that couldn’t be processed correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case internalError</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">internalError</span></code></pre>
 </div>
 </div>
 </section>
@@ -419,7 +412,7 @@ that couldn’t be processed correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case operationCancelled</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">operationCancelled</span></code></pre>
 </div>
 </div>
 </section>
@@ -444,7 +437,7 @@ that couldn’t be processed correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case proxyAuthenticationFailed</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">proxyAuthenticationFailed</span></code></pre>
 </div>
 </div>
 </section>
@@ -469,7 +462,7 @@ that couldn’t be processed correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case proxyServerUnreachable</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">proxyServerUnreachable</span></code></pre>
 </div>
 </div>
 </section>
@@ -495,7 +488,7 @@ the request itself was malformed or incorrect.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case badRequest</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">badRequest</span></code></pre>
 </div>
 </div>
 </section>
@@ -521,7 +514,7 @@ and client should slow down or wait before sending more requests.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tooManyRequests</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tooManyRequests</span></code></pre>
 </div>
 </div>
 </section>
@@ -537,8 +530,8 @@ and client should slow down or wait before sending more requests.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

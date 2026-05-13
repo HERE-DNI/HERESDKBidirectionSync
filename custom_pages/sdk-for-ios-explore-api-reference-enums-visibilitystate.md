@@ -1,5 +1,5 @@
 ---
-title: "VisibilityState Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-visibilitystate"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-visibilitystate"
 <!-- VisibilityState.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/VisibilityState"></a>
 <a title="VisibilityState Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-visibilitystate"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>VisibilityState</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum VisibilityState : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">VisibilityState</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Represents the visibility state of an SDK map view’s object.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-visibilitystate"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case visible</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">visible</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-visibilitystate"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case hidden</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">hidden</span></code></pre>
 </div>
 </div>
 </section>
@@ -107,8 +100,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-visibilitystate"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

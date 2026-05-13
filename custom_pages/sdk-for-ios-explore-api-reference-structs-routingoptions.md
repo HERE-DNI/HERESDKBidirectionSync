@@ -1,5 +1,5 @@
 ---
-title: "RoutingOptions Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-routingoptions"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-routingoptions"
 <!-- RoutingOptions.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/RoutingOptions"></a>
 <a title="RoutingOptions Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-routingoptions"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RoutingOptions</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct RoutingOptions : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">RoutingOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The options defines how a route should be calculated.</p>
@@ -104,7 +97,7 @@ default speed is 1 meter per second.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var transportSpecification: TransportSpecification</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">transportSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -129,7 +122,7 @@ default speed is 1 meter per second.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var routeOptions: RouteOptions</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routeOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routeoptions">RouteOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -155,7 +148,7 @@ as localization, format, and unit system.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var textOptions: RouteTextOptions</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">textOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routetextoptions">RouteTextOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -181,7 +174,7 @@ By default no restrictions are applied.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var avoidanceOptions: AvoidanceOptions</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">avoidanceOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-avoidanceoptions">AvoidanceOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -207,7 +200,7 @@ By default no options are opt in.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var allowOptions: AllowOptions</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">allowOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-allowoptions">AllowOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -234,7 +227,7 @@ such as transponders, vehicle category, and emission type.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var tollOptions: TollOptions</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tollOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tolloptions">TollOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -260,7 +253,7 @@ such as transponders, vehicle category, and emission type.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxSpeedOnSegments: [MaxSpeedOnSegment]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxSpeedOnSegments</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-maxspeedonsegment">MaxSpeedOnSegment</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -286,7 +279,7 @@ When no EV options are defined an internal combustion engine is assumed.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var evOptions: ElectricVehicleOptions?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-electricvehicleoptions">ElectricVehicleOptions</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -311,7 +304,7 @@ When no EV options are defined an internal combustion engine is assumed.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(transportSpecification: TransportSpecification = TransportSpecification(), routeOptions: RouteOptions = RouteOptions(), textOptions: RouteTextOptions = RouteTextOptions(), avoidanceOptions: AvoidanceOptions = AvoidanceOptions(), allowOptions: AllowOptions = AllowOptions(), tollOptions: TollOptions = TollOptions(), maxSpeedOnSegments: [MaxSpeedOnSegment] = [], evOptions: ElectricVehicleOptions? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">transportSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span><span class="p">(),</span> <span class="nv">routeOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routeoptions">RouteOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routeoptions">RouteOptions</a></span><span class="p">(),</span> <span class="nv">textOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routetextoptions">RouteTextOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routetextoptions">RouteTextOptions</a></span><span class="p">(),</span> <span class="nv">avoidanceOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-avoidanceoptions">AvoidanceOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-avoidanceoptions">AvoidanceOptions</a></span><span class="p">(),</span> <span class="nv">allowOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-allowoptions">AllowOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-allowoptions">AllowOptions</a></span><span class="p">(),</span> <span class="nv">tollOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tolloptions">TollOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tolloptions">TollOptions</a></span><span class="p">(),</span> <span class="nv">maxSpeedOnSegments</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-maxspeedonsegment">MaxSpeedOnSegment</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">evOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-electricvehicleoptions">ElectricVehicleOptions</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -340,7 +333,7 @@ set to <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3ca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func fromDefaultParameterConfiguration() -&gt; RoutingOptions</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">fromDefaultParameterConfiguration</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">RoutingOptions</span></code></pre>
 </div>
 </div>
 <div>
@@ -361,8 +354,8 @@ set to <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3ca
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

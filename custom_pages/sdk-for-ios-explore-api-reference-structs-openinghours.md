@@ -1,5 +1,5 @@
 ---
-title: "OpeningHours Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-openinghours"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-openinghours"
 <!-- OpeningHours.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/OpeningHours"></a>
 <a title="OpeningHours Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-openinghours"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>OpeningHours</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct OpeningHours : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">OpeningHours</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents opening hours information.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-openinghours"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var text: [String]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">text</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ so it may give incorrect value if device and place are located in different time
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isOpen: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isOpen</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ so it may give incorrect value if device and place are located in different time
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var scheduleDetailsList: [ScheduleDetails]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">scheduleDetailsList</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-scheduledetails">ScheduleDetails</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -144,7 +137,7 @@ This data is not available in offline search.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var categories: [PlaceCategory]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">categories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -169,7 +162,7 @@ This data is not available in offline search.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(text: [String], isOpen: Bool, scheduleDetailsList: [ScheduleDetails], categories: [PlaceCategory])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">text</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">],</span> <span class="nv">isOpen</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">,</span> <span class="nv">scheduleDetailsList</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-scheduledetails">ScheduleDetails</a></span><span class="p">],</span> <span class="nv">categories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 </section>
@@ -185,8 +178,8 @@ This data is not available in offline search.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

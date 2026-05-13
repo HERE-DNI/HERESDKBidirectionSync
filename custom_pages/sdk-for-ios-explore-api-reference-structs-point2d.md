@@ -1,5 +1,5 @@
 ---
-title: "Point2D Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-point2d"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-point2d"
 <!-- Point2D.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/Point2D"></a>
 <a title="Point2D Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-point2d"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Point2D</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct Point2D : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Point2D</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents a point in 2D space. When this point is used to indicate coordinates on a view,
@@ -67,7 +60,7 @@ then (0,0) will mark the top-left corner of the view.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var x: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">x</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ then (0,0) will mark the top-left corner of the view.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var y: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">y</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -117,7 +110,7 @@ then (0,0) will mark the top-left corner of the view.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(x: Double = 0.0, y: Double = 0.0)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -133,8 +126,8 @@ then (0,0) will mark the top-left corner of the view.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "MapMeasureRange Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-mapmeasurerange"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasurerange"
 <!-- MapMeasureRange.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/MapMeasureRange"></a>
 <a title="MapMeasureRange Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasurerange"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapMeasureRange</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct MapMeasureRange : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MapMeasureRange</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>A map measure range.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasurerange"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let kind: MapMeasure.Kind</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">kind</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure">MapMeasure</a></span><span class="o">.</span><span class="kt">Kind</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasurerange"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let minimumValue: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">minimumValue</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasurerange"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let maximumValue: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">maximumValue</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasurerange"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(kind: MapMeasure.Kind, minimumValue: Double, maximumValue: Double)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">kind</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure">MapMeasure</a></span><span class="o">.</span><span class="kt">Kind</span><span class="p">,</span> <span class="nv">minimumValue</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">maximumValue</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -200,8 +193,8 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasurerange"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

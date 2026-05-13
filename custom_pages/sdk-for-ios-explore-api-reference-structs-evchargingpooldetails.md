@@ -1,5 +1,5 @@
 ---
-title: "EVChargingPoolDetails Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingpooldetails"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingpooldetails"
 <!-- EVChargingPoolDetails.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/EVChargingPoolDetails"></a>
 <a title="EVChargingPoolDetails Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingpooldetails"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVChargingPoolDetails</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct EVChargingPoolDetails : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingPoolDetails</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Electric vehicle charging pool details.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingpooldetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var evChargingOnSite: Bool?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evChargingOnSite</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ Note: not all stations participate in a network.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var evNetwork: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evNetwork</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -117,7 +110,7 @@ Note: not all stations participate in a network.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var ownerInformation: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">ownerInformation</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -143,7 +136,7 @@ Note: Reservable charging stations operate on a first-come/first served basis.</
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var reservable: Bool?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">reservable</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -168,7 +161,7 @@ Note: Reservable charging stations operate on a first-come/first served basis.</
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var totalNumberOfStations: UInt32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">totalNumberOfStations</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -195,7 +188,7 @@ in <code><a href="../Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV18layerConf
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(evChargingOnSite: Bool? = nil, evNetwork: String? = nil, ownerInformation: String? = nil, reservable: Bool? = nil, totalNumberOfStations: UInt32? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">evChargingOnSite</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">evNetwork</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">ownerInformation</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">reservable</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">totalNumberOfStations</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -211,8 +204,8 @@ in <code><a href="../Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV18layerConf
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

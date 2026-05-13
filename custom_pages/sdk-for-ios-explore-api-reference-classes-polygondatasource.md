@@ -1,5 +1,5 @@
 ---
-title: "PolygonDataSource Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-polygondatasource"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-polygondatasource"
 <!-- PolygonDataSource.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/PolygonDataSource"></a>
 <a title="PolygonDataSource Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-polygondatasource"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>PolygonDataSource</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class PolygonDataSource</code></pre>
-<pre><code>extension PolygonDataSource: NativeBase</code></pre>
-<pre><code>extension PolygonDataSource: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PolygonDataSource</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PolygonDataSource</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PolygonDataSource</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Polygon data source allows the rendering engine access to the user provided
@@ -72,7 +65,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias PolygonDataProcessor = (_ polygonAccessor: PolygonDataAccessor) -&gt; Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">PolygonDataProcessor</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">polygonAccessor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-polygondataaccessor">PolygonDataAccessor</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -120,7 +113,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func add(_ polygon: PolygonData)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">add</span><span class="p">(</span><span class="n">_</span> <span class="nv">polygon</span><span class="p">:</span> <span class="kt"><a href="../Maps.html#/s:7heresdk11PolygonDataC">PolygonData</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -164,7 +157,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func add(_ polygons: [PolygonData])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">add</span><span class="p">(</span><span class="n">_</span> <span class="nv">polygons</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="../Maps.html#/s:7heresdk11PolygonDataC">PolygonData</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -208,7 +201,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeAll()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeAll</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -236,7 +229,7 @@ from the process call.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func forEach(_ processor: @escaping PolygonDataSource.PolygonDataProcessor)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">forEach</span><span class="p">(</span><span class="n">_</span> <span class="nv">processor</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt">PolygonDataSource</span><span class="o">.</span><span class="kt"><a href="../Classes/PolygonDataSource.html#/s:7heresdk17PolygonDataSourceC0bC9Processora">PolygonDataProcessor</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -282,7 +275,7 @@ The inspector cannot update the polygon data.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeIf(_ inspector: @escaping PolygonDataSource.PolygonDataProcessor)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeIf</span><span class="p">(</span><span class="n">_</span> <span class="nv">inspector</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt">PolygonDataSource</span><span class="o">.</span><span class="kt"><a href="../Classes/PolygonDataSource.html#/s:7heresdk17PolygonDataSourceC0bC9Processora">PolygonDataProcessor</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -317,8 +310,8 @@ The inspector cannot update the polygon data.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

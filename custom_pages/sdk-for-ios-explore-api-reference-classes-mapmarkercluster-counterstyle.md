@@ -1,5 +1,5 @@
 ---
-title: "CounterStyle Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-counterstyle"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-counterstyle"
 <!-- CounterStyle.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/CounterStyle"></a>
 <a title="CounterStyle Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-counterstyle"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>CounterStyle</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct CounterStyle</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">CounterStyle</span></code></pre>
 </div>
 </div>
 <p>Styling options for a marker cluster which is represented by the marker count as a text.</p>
@@ -68,7 +61,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-counterstyle"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var textColor: UIColor</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">textColor</span><span class="p">:</span> <span class="kt">UIColor</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-counterstyle"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var fontSize: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">fontSize</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-counterstyle"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var textAnchor: Anchor2D</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">textAnchor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-anchor2d">Anchor2D</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -144,7 +137,7 @@ Default value is 99. When this value is changed, it is recommended to adapt <cod
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxCountNumber: Int32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxCountNumber</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
 </section>
@@ -169,7 +162,7 @@ Default value is 99. When this value is changed, it is recommended to adapt <cod
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var aboveMaxText: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">aboveMaxText</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -194,7 +187,7 @@ Default value is 99. When this value is changed, it is recommended to adapt <cod
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(textColor: UIColor = NamedColor.white, fontSize: Double = 20.0, textAnchor: Anchor2D = Anchor2D(), maxCountNumber: Int32 = 99, aboveMaxText: String = "+99")</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">textColor</span><span class="p">:</span> <span class="kt">UIColor</span> <span class="o">=</span> <span class="kt">NamedColor</span><span class="o">.</span><span class="n">white</span><span class="p">,</span> <span class="nv">fontSize</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">20.0</span><span class="p">,</span> <span class="nv">textAnchor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-anchor2d">Anchor2D</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-anchor2d">Anchor2D</a></span><span class="p">(),</span> <span class="nv">maxCountNumber</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">99</span><span class="p">,</span> <span class="nv">aboveMaxText</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">"+99"</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -210,8 +203,8 @@ Default value is 99. When this value is changed, it is recommended to adapt <cod
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

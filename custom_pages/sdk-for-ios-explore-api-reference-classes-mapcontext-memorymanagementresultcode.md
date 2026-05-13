@@ -1,5 +1,5 @@
 ---
-title: "MemoryManagementResultCode Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementresultcode"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementresu
 <!-- MemoryManagementResultCode.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/MemoryManagementResultCode"></a>
 <a title="MemoryManagementResultCode Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementresu
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MemoryManagementResultCode</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum MemoryManagementResultCode : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">MemoryManagementResultCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>The memory management result code.</p>
@@ -70,7 +63,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case applied</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">applied</span></code></pre>
 </div>
 </div>
 </section>
@@ -97,7 +90,7 @@ Video memory limit applied correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tileCacheCpuMemoryLimitExceeded</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tileCacheCpuMemoryLimitExceeded</span></code></pre>
 </div>
 </div>
 </section>
@@ -124,7 +117,7 @@ CPU tile cache limit applied correctly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case videoMemoryLimitExceeded</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">videoMemoryLimitExceeded</span></code></pre>
 </div>
 </div>
 </section>
@@ -150,7 +143,7 @@ Previous values of video memory and CPU tile cache limits are preserved.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case failedBothMemoryLimitsExceeded</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">failedBothMemoryLimitsExceeded</span></code></pre>
 </div>
 </div>
 </section>
@@ -175,7 +168,7 @@ Previous values of video memory and CPU tile cache limits are preserved.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case failed</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">failed</span></code></pre>
 </div>
 </div>
 </section>
@@ -191,8 +184,8 @@ Previous values of video memory and CPU tile cache limits are preserved.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

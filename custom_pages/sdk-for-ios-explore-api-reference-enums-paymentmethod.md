@@ -1,5 +1,5 @@
 ---
-title: "PaymentMethod Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-paymentmethod"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-paymentmethod"
 <!-- PaymentMethod.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/PaymentMethod"></a>
 <a title="PaymentMethod Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-paymentmethod"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>PaymentMethod</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum PaymentMethod : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">PaymentMethod</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Available payment methods.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-paymentmethod"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case unknown</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">unknown</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-paymentmethod"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cash</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cash</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-paymentmethod"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bankCard</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bankCard</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-paymentmethod"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case creditCard</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">creditCard</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-paymentmethod"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case passSubscription</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">passSubscription</span></code></pre>
 </div>
 </div>
 </section>
@@ -191,7 +184,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-paymentmethod"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case transponder</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">transponder</span></code></pre>
 </div>
 </div>
 </section>
@@ -216,7 +209,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-paymentmethod"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case videoToll</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">videoToll</span></code></pre>
 </div>
 </div>
 </section>
@@ -241,7 +234,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-paymentmethod"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cashExact</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cashExact</span></code></pre>
 </div>
 </div>
 </section>
@@ -266,7 +259,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-paymentmethod"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case travelCard</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">travelCard</span></code></pre>
 </div>
 </div>
 </section>
@@ -282,8 +275,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-paymentmethod"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

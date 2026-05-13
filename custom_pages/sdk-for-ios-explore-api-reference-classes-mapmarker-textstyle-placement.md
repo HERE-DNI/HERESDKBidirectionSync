@@ -1,5 +1,5 @@
 ---
-title: "Placement Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 <!-- Placement.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/Placement"></a>
 <a title="Placement Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-..-index">heresdk</a>
@@ -40,10 +33,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Placement</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum Placement : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">Placement</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Represents text placement with respect to the icon of a <code><a href="sdk-for-ios-explore-api-reference-..-..-..-classes-mapmarker">MapMarker</a></code>.</p>
@@ -70,7 +63,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case center</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">center</span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case top</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">top</span></code></pre>
 </div>
 </div>
 </section>
@@ -120,7 +113,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case topRight</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">topRight</span></code></pre>
 </div>
 </div>
 </section>
@@ -145,7 +138,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case right</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">right</span></code></pre>
 </div>
 </div>
 </section>
@@ -170,7 +163,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bottomRight</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bottomRight</span></code></pre>
 </div>
 </div>
 </section>
@@ -195,7 +188,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bottom</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bottom</span></code></pre>
 </div>
 </div>
 </section>
@@ -220,7 +213,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bottomLeft</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bottomLeft</span></code></pre>
 </div>
 </div>
 </section>
@@ -245,7 +238,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case left</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">left</span></code></pre>
 </div>
 </div>
 </section>
@@ -270,7 +263,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case topLeft</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">topLeft</span></code></pre>
 </div>
 </div>
 </section>
@@ -286,8 +279,8 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle-placement"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

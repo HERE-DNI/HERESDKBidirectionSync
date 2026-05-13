@@ -1,5 +1,5 @@
 ---
-title: "PickedPlace Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-pickedplace"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-pickedplace"
 <!-- PickedPlace.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/PickedPlace"></a>
 <a title="PickedPlace Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-pickedplace"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>PickedPlace</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct PickedPlace : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">PickedPlace</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Carries the result of picking a Carto POI (point of interest) object.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-pickedplace"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var name: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-pickedplace"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var coordinates: GeoCoordinates</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ This is the same String value as <code><a href="../Classes/PlaceCategory.html#/s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var placeCategoryId: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">placeCategoryId</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -144,7 +137,7 @@ This is the same String value as <code><a href="../Classes/PlaceCategory.html#/s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(name: String, coordinates: GeoCoordinates, placeCategoryId: String)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">placeCategoryId</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -160,8 +153,8 @@ This is the same String value as <code><a href="../Classes/PlaceCategory.html#/s
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

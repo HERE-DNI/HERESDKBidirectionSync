@@ -1,5 +1,5 @@
 ---
-title: "UIColor Extension Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-extensions-uicolor"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-extensions-uicolor"
 <!-- UIColor.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Extension/UIColor"></a>
 <a title="UIColor Extension Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-extensions-uicolor"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>UIColor</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>extension UIColor</code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">UIColor</span></code></pre>
 </div>
 </div>
 </section>
@@ -65,7 +58,7 @@ slug: "sdk-for-ios-explore-api-reference-extensions-uicolor"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public convenience init(r red: CGFloat, g green: CGFloat, b blue: CGFloat, a alpha: CGFloat)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="n">convenience</span> <span class="nf">init</span><span class="p">(</span><span class="n">r</span> <span class="nv">red</span><span class="p">:</span> <span class="kt">CGFloat</span><span class="p">,</span> <span class="n">g</span> <span class="nv">green</span><span class="p">:</span> <span class="kt">CGFloat</span><span class="p">,</span> <span class="n">b</span> <span class="nv">blue</span><span class="p">:</span> <span class="kt">CGFloat</span><span class="p">,</span> <span class="n">a</span> <span class="nv">alpha</span><span class="p">:</span> <span class="kt">CGFloat</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -81,8 +74,8 @@ slug: "sdk-for-ios-explore-api-reference-extensions-uicolor"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

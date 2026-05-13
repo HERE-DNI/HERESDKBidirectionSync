@@ -1,5 +1,5 @@
 ---
-title: "AttributionType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-attributiontype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-attributiontype"
 <!-- AttributionType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/AttributionType"></a>
 <a title="AttributionType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-attributiontype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>AttributionType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum AttributionType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">AttributionType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Attribution link type.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-attributiontype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case disclaimer</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">disclaimer</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-attributiontype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tariff</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tariff</span></code></pre>
 </div>
 </div>
 </section>
@@ -107,8 +100,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-attributiontype"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

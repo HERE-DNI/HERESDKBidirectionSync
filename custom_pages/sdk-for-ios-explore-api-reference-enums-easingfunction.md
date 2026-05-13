@@ -1,5 +1,5 @@
 ---
-title: "EasingFunction Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <!-- EasingFunction.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/EasingFunction"></a>
 <a title="EasingFunction Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EasingFunction</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum EasingFunction : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EasingFunction</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Animation easing functions.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case linear</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">linear</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inQuad</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inQuad</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outQuad</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outQuad</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inOutQuad</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inOutQuad</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outInQuad</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outInQuad</span></code></pre>
 </div>
 </div>
 </section>
@@ -191,7 +184,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inCubic</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inCubic</span></code></pre>
 </div>
 </div>
 </section>
@@ -216,7 +209,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outCubic</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outCubic</span></code></pre>
 </div>
 </div>
 </section>
@@ -241,7 +234,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inOutCubic</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inOutCubic</span></code></pre>
 </div>
 </div>
 </section>
@@ -266,7 +259,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outInCubic</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outInCubic</span></code></pre>
 </div>
 </div>
 </section>
@@ -291,7 +284,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inQuart</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inQuart</span></code></pre>
 </div>
 </div>
 </section>
@@ -316,7 +309,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outQuart</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outQuart</span></code></pre>
 </div>
 </div>
 </section>
@@ -341,7 +334,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inOutQuart</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inOutQuart</span></code></pre>
 </div>
 </div>
 </section>
@@ -366,7 +359,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outInQuart</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outInQuart</span></code></pre>
 </div>
 </div>
 </section>
@@ -391,7 +384,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inQuint</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inQuint</span></code></pre>
 </div>
 </div>
 </section>
@@ -416,7 +409,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outQuint</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outQuint</span></code></pre>
 </div>
 </div>
 </section>
@@ -441,7 +434,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inOutQuint</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inOutQuint</span></code></pre>
 </div>
 </div>
 </section>
@@ -466,7 +459,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outInQuint</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outInQuint</span></code></pre>
 </div>
 </div>
 </section>
@@ -491,7 +484,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inSine</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inSine</span></code></pre>
 </div>
 </div>
 </section>
@@ -516,7 +509,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outSine</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outSine</span></code></pre>
 </div>
 </div>
 </section>
@@ -541,7 +534,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inOutSine</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inOutSine</span></code></pre>
 </div>
 </div>
 </section>
@@ -566,7 +559,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outInSine</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outInSine</span></code></pre>
 </div>
 </div>
 </section>
@@ -591,7 +584,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inExp</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inExp</span></code></pre>
 </div>
 </div>
 </section>
@@ -616,7 +609,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outExp</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outExp</span></code></pre>
 </div>
 </div>
 </section>
@@ -641,7 +634,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inOutExp</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inOutExp</span></code></pre>
 </div>
 </div>
 </section>
@@ -666,7 +659,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outInExp</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outInExp</span></code></pre>
 </div>
 </div>
 </section>
@@ -691,7 +684,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inCirc</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inCirc</span></code></pre>
 </div>
 </div>
 </section>
@@ -716,7 +709,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outCirc</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outCirc</span></code></pre>
 </div>
 </div>
 </section>
@@ -741,7 +734,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inOutCirc</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inOutCirc</span></code></pre>
 </div>
 </div>
 </section>
@@ -766,7 +759,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outInCirc</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outInCirc</span></code></pre>
 </div>
 </div>
 </section>
@@ -791,7 +784,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inBack</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inBack</span></code></pre>
 </div>
 </div>
 </section>
@@ -816,7 +809,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outBack</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outBack</span></code></pre>
 </div>
 </div>
 </section>
@@ -841,7 +834,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inOutBack</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inOutBack</span></code></pre>
 </div>
 </div>
 </section>
@@ -866,7 +859,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outInBack</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outInBack</span></code></pre>
 </div>
 </div>
 </section>
@@ -891,7 +884,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inBounce</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inBounce</span></code></pre>
 </div>
 </div>
 </section>
@@ -916,7 +909,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outBounce</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outBounce</span></code></pre>
 </div>
 </div>
 </section>
@@ -941,7 +934,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inOutBounce</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inOutBounce</span></code></pre>
 </div>
 </div>
 </section>
@@ -966,7 +959,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outInBounce</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outInBounce</span></code></pre>
 </div>
 </div>
 </section>
@@ -991,7 +984,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inElastic</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inElastic</span></code></pre>
 </div>
 </div>
 </section>
@@ -1016,7 +1009,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outElastic</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outElastic</span></code></pre>
 </div>
 </div>
 </section>
@@ -1041,7 +1034,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inOutElastic</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inOutElastic</span></code></pre>
 </div>
 </div>
 </section>
@@ -1066,7 +1059,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outInElastic</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outInElastic</span></code></pre>
 </div>
 </div>
 </section>
@@ -1082,8 +1075,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

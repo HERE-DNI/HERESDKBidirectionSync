@@ -1,5 +1,5 @@
 ---
-title: "CatalogConfiguration Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-catalogconfiguration"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-catalogconfiguration"
 <!-- CatalogConfiguration.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/CatalogConfiguration"></a>
 <a title="CatalogConfiguration Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-catalogconfiguration"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>CatalogConfiguration</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct CatalogConfiguration : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">CatalogConfiguration</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Using this class you can configure in the <code><a href="sdk-for-ios-explore-api-reference-..-structs-sdkoptions">SDKOptions</a></code>,
@@ -74,7 +67,7 @@ See <code><a href="sdk-for-ios-explore-api-reference-..-structs-desiredcatalog">
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var catalog: DesiredCatalog</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">catalog</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-desiredcatalog">DesiredCatalog</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -104,7 +97,7 @@ If this field is <code>nil</code>, then incremental updates are disabled.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var patchHrn: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">patchHrn</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -131,7 +124,7 @@ If not set, the cache will be deleted on a Least Recently Used (LRU) basis.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var cacheExpirationPeriod: TimeInterval?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">cacheExpirationPeriod</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -159,7 +152,7 @@ Defaults to <code>true</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var allowDownload: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">allowDownload</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -184,7 +177,7 @@ Defaults to <code>true</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(catalog: DesiredCatalog, patchHrn: String? = nil, cacheExpirationPeriod: TimeInterval? = nil, allowDownload: Bool = true)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">catalog</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-desiredcatalog">DesiredCatalog</a></span><span class="p">,</span> <span class="nv">patchHrn</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">cacheExpirationPeriod</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">allowDownload</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">true</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -210,7 +203,7 @@ It uses the catalog version that was the latest at the time when the HERE SDK wa
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func getDefault(catalogType: CatalogType) -&gt; CatalogConfiguration</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">getDefault</span><span class="p">(</span><span class="nv">catalogType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-catalogtype">CatalogType</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">CatalogConfiguration</span></code></pre>
 </div>
 </div>
 <div>
@@ -249,8 +242,8 @@ It uses the catalog version that was the latest at the time when the HERE SDK wa
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

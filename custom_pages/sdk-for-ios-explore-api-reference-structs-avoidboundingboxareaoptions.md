@@ -1,5 +1,5 @@
 ---
-title: "AvoidBoundingBoxAreaOptions Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-avoidboundingboxareaoptions"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-avoidboundingboxareaoptions"
 <!-- AvoidBoundingBoxAreaOptions.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/AvoidBoundingBoxAreaOptions"></a>
 <a title="AvoidBoundingBoxAreaOptions Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-avoidboundingboxareaoptions"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>AvoidBoundingBoxAreaOptions</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct AvoidBoundingBoxAreaOptions : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">AvoidBoundingBoxAreaOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The options to specify rectangular shape which routes must not cross.</p>
@@ -69,7 +62,7 @@ This avoidance option is not supported for <code><a href="sdk-for-ios-explore-ap
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var avoidBoundingBoxArea: GeoBox</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">avoidBoundingBoxArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geobox">GeoBox</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ This avoidance option is not supported for <code><a href="sdk-for-ios-explore-ap
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var boundingBoxExceptionAreas: [GeoBox]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">boundingBoxExceptionAreas</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geobox">GeoBox</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ This avoidance option is not supported for <code><a href="sdk-for-ios-explore-ap
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var polygonExceptionAreas: [GeoPolygon]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">polygonExceptionAreas</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geopolygon">GeoPolygon</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -147,7 +140,7 @@ Otherwise route calculation will fail with an [sdk.routing.RoutingError.INVALID_
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var corridorExceptionAreas: [GeoCorridor]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">corridorExceptionAreas</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocorridor">GeoCorridor</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -172,7 +165,7 @@ Otherwise route calculation will fail with an [sdk.routing.RoutingError.INVALID_
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(avoidBoundingBoxArea: GeoBox, boundingBoxExceptionAreas: [GeoBox] = [], polygonExceptionAreas: [GeoPolygon] = [], corridorExceptionAreas: [GeoCorridor] = [])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">avoidBoundingBoxArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geobox">GeoBox</a></span><span class="p">,</span> <span class="nv">boundingBoxExceptionAreas</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geobox">GeoBox</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">polygonExceptionAreas</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geopolygon">GeoPolygon</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">corridorExceptionAreas</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocorridor">GeoCorridor</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>
@@ -188,8 +181,8 @@ Otherwise route calculation will fail with an [sdk.routing.RoutingError.INVALID_
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

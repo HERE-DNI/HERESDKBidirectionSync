@@ -1,5 +1,5 @@
 ---
-title: "FarePrice Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-fareprice"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-fareprice"
 <!-- FarePrice.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/FarePrice"></a>
 <a title="FarePrice Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-fareprice"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>FarePrice</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct FarePrice : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">FarePrice</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Price of a fare.</p>
@@ -67,7 +60,7 @@ Defaults to <code><a href="../Enums/FarePriceType.html#/s:7heresdk13FarePriceTyp
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var type: FarePriceType</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-farepricetype">FarePriceType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ Defaults to <code>false</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var estimated: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">estimated</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ Defaults to “EUR” string.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var currency: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">currency</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -146,7 +139,7 @@ Defaults to 0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var minimum: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">minimum</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -173,7 +166,7 @@ Defaults to 0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maximum: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maximum</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -204,7 +197,7 @@ Defaults to <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var validityPeriod: TimeInterval?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">validityPeriod</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -253,7 +246,7 @@ Defaults to 0.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(type: FarePriceType = FarePriceType.value, estimated: Bool = false, currency: String = "EUR", minimum: Double = 0.0, maximum: Double = 0.0, validityPeriod: TimeInterval? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-farepricetype">FarePriceType</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-farepricetype">FarePriceType</a></span><span class="o">.</span><span class="n">value</span><span class="p">,</span> <span class="nv">estimated</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">currency</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">"EUR"</span><span class="p">,</span> <span class="nv">minimum</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">maximum</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">validityPeriod</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -269,8 +262,8 @@ Defaults to 0.</li>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

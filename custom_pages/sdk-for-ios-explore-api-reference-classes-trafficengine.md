@@ -1,5 +1,5 @@
 ---
-title: "TrafficEngine Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-trafficengine"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficengine"
 <!-- TrafficEngine.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/TrafficEngine"></a>
 <a title="TrafficEngine Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficengine"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TrafficEngine</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class TrafficEngine</code></pre>
-<pre><code>extension TrafficEngine: NativeBase</code></pre>
-<pre><code>extension TrafficEngine: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrafficEngine</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficEngine</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficEngine</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Use the TrafficEngine to get information about current traffic flow and incidents in an area
@@ -85,7 +78,7 @@ See <code><a href="../Classes/SDKNativeEngine.html#/s:7heresdk15SDKNativeEngineC
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init() throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">()</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 </section>
@@ -115,7 +108,7 @@ See <code><a href="../Classes/SDKNativeEngine.html#/s:7heresdk15SDKNativeEngineC
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ sdkEngine: SDKNativeEngine) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">sdkEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -159,8 +152,8 @@ See <code><a href="../Classes/SDKNativeEngine.html#/s:7heresdk15SDKNativeEngineC
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@discardableResult
-public func queryForIncidents(inside boxArea: GeoBox, queryOptions: TrafficIncidentsQueryOptions, completion: @escaping TrafficIncidentsQueryCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@discardableResult</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">queryForIncidents</span><span class="p">(</span><span class="n">inside</span> <span class="nv">boxArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geobox">GeoBox</a></span><span class="p">,</span> <span class="nv">queryOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-trafficincidentsqueryoptions">TrafficIncidentsQueryOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Traffic.html#/s:7heresdk38TrafficIncidentsQueryCompletionHandlera">TrafficIncidentsQueryCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -233,8 +226,8 @@ The maximum width and height for a bounding box filter is 1 degree.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@discardableResult
-public func queryForIncidents(inside circleArea: GeoCircle, queryOptions: TrafficIncidentsQueryOptions, completion: @escaping TrafficIncidentsQueryCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@discardableResult</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">queryForIncidents</span><span class="p">(</span><span class="n">inside</span> <span class="nv">circleArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocircle">GeoCircle</a></span><span class="p">,</span> <span class="nv">queryOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-trafficincidentsqueryoptions">TrafficIncidentsQueryOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Traffic.html#/s:7heresdk38TrafficIncidentsQueryCompletionHandlera">TrafficIncidentsQueryCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -307,8 +300,8 @@ The maximum radius of the circle filter is 50000 meters.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@discardableResult
-public func queryForIncidents(inside corridorArea: GeoCorridor, queryOptions: TrafficIncidentsQueryOptions, completion: @escaping TrafficIncidentsQueryCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@discardableResult</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">queryForIncidents</span><span class="p">(</span><span class="n">inside</span> <span class="nv">corridorArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocorridor">GeoCorridor</a></span><span class="p">,</span> <span class="nv">queryOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-trafficincidentsqueryoptions">TrafficIncidentsQueryOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Traffic.html#/s:7heresdk38TrafficIncidentsQueryCompletionHandlera">TrafficIncidentsQueryCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -384,8 +377,8 @@ See <code><a href="../Classes/TrafficIncident.html#/s:7heresdk15TrafficIncidentC
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@discardableResult
-public func lookupIncident(with originalId: String, lookupOptions: TrafficIncidentLookupOptions, completion: @escaping TrafficIncidentCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@discardableResult</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">lookupIncident</span><span class="p">(</span><span class="n">with</span> <span class="nv">originalId</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">lookupOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-trafficincidentlookupoptions">TrafficIncidentLookupOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Traffic.html#/s:7heresdk32TrafficIncidentCompletionHandlera">TrafficIncidentCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -460,8 +453,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@discardableResult
-public func queryForFlow(inside boxArea: GeoBox, queryOptions: TrafficFlowQueryOptions, completion: @escaping TrafficFlowQueryCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@discardableResult</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">queryForFlow</span><span class="p">(</span><span class="n">inside</span> <span class="nv">boxArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geobox">GeoBox</a></span><span class="p">,</span> <span class="nv">queryOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-trafficflowqueryoptions">TrafficFlowQueryOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Traffic.html#/s:7heresdk33TrafficFlowQueryCompletionHandlera">TrafficFlowQueryCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -535,8 +528,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@discardableResult
-public func queryForFlow(inside circleArea: GeoCircle, queryOptions: TrafficFlowQueryOptions, completion: @escaping TrafficFlowQueryCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@discardableResult</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">queryForFlow</span><span class="p">(</span><span class="n">inside</span> <span class="nv">circleArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocircle">GeoCircle</a></span><span class="p">,</span> <span class="nv">queryOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-trafficflowqueryoptions">TrafficFlowQueryOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Traffic.html#/s:7heresdk33TrafficFlowQueryCompletionHandlera">TrafficFlowQueryCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -611,8 +604,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@discardableResult
-public func queryForFlow(inside corridorArea: GeoCorridor, queryOptions: TrafficFlowQueryOptions, completion: @escaping TrafficFlowQueryCompletionHandler) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">@discardableResult</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">queryForFlow</span><span class="p">(</span><span class="n">inside</span> <span class="nv">corridorArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocorridor">GeoCorridor</a></span><span class="p">,</span> <span class="nv">queryOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-trafficflowqueryoptions">TrafficFlowQueryOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Traffic.html#/s:7heresdk33TrafficFlowQueryCompletionHandlera">TrafficFlowQueryCompletionHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -676,8 +669,8 @@ The maximum length for the corridor is 500000 meters and the maximum <code>GeoCo
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

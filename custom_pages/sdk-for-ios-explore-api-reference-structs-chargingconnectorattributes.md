@@ -1,5 +1,5 @@
 ---
-title: "ChargingConnectorAttributes Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-chargingconnectorattributes"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-chargingconnectorattributes"
 <!-- ChargingConnectorAttributes.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/ChargingConnectorAttributes"></a>
 <a title="ChargingConnectorAttributes Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-chargingconnectorattributes"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>ChargingConnectorAttributes</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct ChargingConnectorAttributes : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ChargingConnectorAttributes</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Details of the connector that is suggested to be used in the section’s
@@ -67,7 +60,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-chargingconnectorattributes"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var powerInKilowatts: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">powerInKilowatts</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-chargingconnectorattributes"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var currentInAmperes: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">currentInAmperes</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -117,7 +110,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-chargingconnectorattributes"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var voltageInVolts: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">voltageInVolts</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -142,7 +135,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-chargingconnectorattributes"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var supplyType: ChargingSupplyType?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">supplyType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-chargingsupplytype">ChargingSupplyType</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -167,7 +160,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-chargingconnectorattributes"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var connectorType: ChargingConnectorType?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">connectorType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-chargingconnectortype">ChargingConnectorType</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -192,7 +185,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-chargingconnectorattributes"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(powerInKilowatts: Double, currentInAmperes: Double? = nil, voltageInVolts: Double? = nil, supplyType: ChargingSupplyType? = nil, connectorType: ChargingConnectorType? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">powerInKilowatts</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">currentInAmperes</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">voltageInVolts</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">supplyType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-chargingsupplytype">ChargingSupplyType</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">connectorType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-chargingconnectortype">ChargingConnectorType</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -208,8 +201,8 @@ slug: "sdk-for-ios-explore-api-reference-structs-chargingconnectorattributes"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

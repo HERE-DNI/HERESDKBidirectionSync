@@ -1,5 +1,5 @@
 ---
-title: "CountryCode Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <!-- CountryCode.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/CountryCode"></a>
 <a title="CountryCode Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>CountryCode</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum CountryCode : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">CountryCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>This enum represents country codes in accordance with the ISO 3166-1 standard using alpha-3 codes.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case abw</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">abw</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case afg</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">afg</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ago</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ago</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case aia</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">aia</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case alb</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">alb</span></code></pre>
 </div>
 </div>
 </section>
@@ -191,7 +184,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case and</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">and</span></code></pre>
 </div>
 </div>
 </section>
@@ -216,7 +209,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case are</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">are</span></code></pre>
 </div>
 </div>
 </section>
@@ -241,7 +234,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case arg</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">arg</span></code></pre>
 </div>
 </div>
 </section>
@@ -266,7 +259,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case arm</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">arm</span></code></pre>
 </div>
 </div>
 </section>
@@ -291,7 +284,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case asm</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">asm</span></code></pre>
 </div>
 </div>
 </section>
@@ -316,7 +309,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ata</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ata</span></code></pre>
 </div>
 </div>
 </section>
@@ -341,7 +334,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case atg</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">atg</span></code></pre>
 </div>
 </div>
 </section>
@@ -366,7 +359,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case aus</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">aus</span></code></pre>
 </div>
 </div>
 </section>
@@ -391,7 +384,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case aut</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">aut</span></code></pre>
 </div>
 </div>
 </section>
@@ -416,7 +409,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case aze</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">aze</span></code></pre>
 </div>
 </div>
 </section>
@@ -441,7 +434,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bdi</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bdi</span></code></pre>
 </div>
 </div>
 </section>
@@ -466,7 +459,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bel</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bel</span></code></pre>
 </div>
 </div>
 </section>
@@ -491,7 +484,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ben</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ben</span></code></pre>
 </div>
 </div>
 </section>
@@ -516,7 +509,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bes</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bes</span></code></pre>
 </div>
 </div>
 </section>
@@ -541,7 +534,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bfa</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bfa</span></code></pre>
 </div>
 </div>
 </section>
@@ -566,7 +559,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bgd</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bgd</span></code></pre>
 </div>
 </div>
 </section>
@@ -591,7 +584,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bgr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bgr</span></code></pre>
 </div>
 </div>
 </section>
@@ -616,7 +609,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bhr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bhr</span></code></pre>
 </div>
 </div>
 </section>
@@ -641,7 +634,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bhs</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bhs</span></code></pre>
 </div>
 </div>
 </section>
@@ -666,7 +659,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bih</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bih</span></code></pre>
 </div>
 </div>
 </section>
@@ -691,7 +684,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case blm</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">blm</span></code></pre>
 </div>
 </div>
 </section>
@@ -716,7 +709,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case blr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">blr</span></code></pre>
 </div>
 </div>
 </section>
@@ -741,7 +734,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case blz</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">blz</span></code></pre>
 </div>
 </div>
 </section>
@@ -766,7 +759,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bmu</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bmu</span></code></pre>
 </div>
 </div>
 </section>
@@ -791,7 +784,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bol</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bol</span></code></pre>
 </div>
 </div>
 </section>
@@ -816,7 +809,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bra</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bra</span></code></pre>
 </div>
 </div>
 </section>
@@ -841,7 +834,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case brb</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">brb</span></code></pre>
 </div>
 </div>
 </section>
@@ -866,7 +859,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case brn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">brn</span></code></pre>
 </div>
 </div>
 </section>
@@ -891,7 +884,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case btn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">btn</span></code></pre>
 </div>
 </div>
 </section>
@@ -916,7 +909,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bwa</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bwa</span></code></pre>
 </div>
 </div>
 </section>
@@ -941,7 +934,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case caf</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">caf</span></code></pre>
 </div>
 </div>
 </section>
@@ -966,7 +959,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case can</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">can</span></code></pre>
 </div>
 </div>
 </section>
@@ -991,7 +984,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cck</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cck</span></code></pre>
 </div>
 </div>
 </section>
@@ -1016,7 +1009,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case che</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">che</span></code></pre>
 </div>
 </div>
 </section>
@@ -1041,7 +1034,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case chl</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">chl</span></code></pre>
 </div>
 </div>
 </section>
@@ -1066,7 +1059,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case chn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">chn</span></code></pre>
 </div>
 </div>
 </section>
@@ -1091,7 +1084,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case civ</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">civ</span></code></pre>
 </div>
 </div>
 </section>
@@ -1116,7 +1109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cmr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cmr</span></code></pre>
 </div>
 </div>
 </section>
@@ -1141,7 +1134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cod</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cod</span></code></pre>
 </div>
 </div>
 </section>
@@ -1166,7 +1159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cog</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cog</span></code></pre>
 </div>
 </div>
 </section>
@@ -1191,7 +1184,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cok</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cok</span></code></pre>
 </div>
 </div>
 </section>
@@ -1216,7 +1209,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case col</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">col</span></code></pre>
 </div>
 </div>
 </section>
@@ -1241,7 +1234,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case com</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">com</span></code></pre>
 </div>
 </div>
 </section>
@@ -1266,7 +1259,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cpv</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cpv</span></code></pre>
 </div>
 </div>
 </section>
@@ -1291,7 +1284,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cri</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cri</span></code></pre>
 </div>
 </div>
 </section>
@@ -1316,7 +1309,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cub</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cub</span></code></pre>
 </div>
 </div>
 </section>
@@ -1341,7 +1334,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cuw</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cuw</span></code></pre>
 </div>
 </div>
 </section>
@@ -1366,7 +1359,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cxr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cxr</span></code></pre>
 </div>
 </div>
 </section>
@@ -1391,7 +1384,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cym</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cym</span></code></pre>
 </div>
 </div>
 </section>
@@ -1416,7 +1409,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cyp</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cyp</span></code></pre>
 </div>
 </div>
 </section>
@@ -1441,7 +1434,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cze</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cze</span></code></pre>
 </div>
 </div>
 </section>
@@ -1466,7 +1459,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case deu</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">deu</span></code></pre>
 </div>
 </div>
 </section>
@@ -1491,7 +1484,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case dji</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">dji</span></code></pre>
 </div>
 </div>
 </section>
@@ -1516,7 +1509,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case dma</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">dma</span></code></pre>
 </div>
 </div>
 </section>
@@ -1541,7 +1534,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case dnk</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">dnk</span></code></pre>
 </div>
 </div>
 </section>
@@ -1566,7 +1559,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case dom</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">dom</span></code></pre>
 </div>
 </div>
 </section>
@@ -1591,7 +1584,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case dza</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">dza</span></code></pre>
 </div>
 </div>
 </section>
@@ -1616,7 +1609,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ecu</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ecu</span></code></pre>
 </div>
 </div>
 </section>
@@ -1641,7 +1634,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case egy</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">egy</span></code></pre>
 </div>
 </div>
 </section>
@@ -1666,7 +1659,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case eri</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">eri</span></code></pre>
 </div>
 </div>
 </section>
@@ -1691,7 +1684,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case esh</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">esh</span></code></pre>
 </div>
 </div>
 </section>
@@ -1716,7 +1709,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case esp</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">esp</span></code></pre>
 </div>
 </div>
 </section>
@@ -1741,7 +1734,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case est</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">est</span></code></pre>
 </div>
 </div>
 </section>
@@ -1766,7 +1759,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case eth</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">eth</span></code></pre>
 </div>
 </div>
 </section>
@@ -1791,7 +1784,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case fin</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">fin</span></code></pre>
 </div>
 </div>
 </section>
@@ -1816,7 +1809,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case fji</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">fji</span></code></pre>
 </div>
 </div>
 </section>
@@ -1841,7 +1834,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case flk</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">flk</span></code></pre>
 </div>
 </div>
 </section>
@@ -1866,7 +1859,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case fra</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">fra</span></code></pre>
 </div>
 </div>
 </section>
@@ -1891,7 +1884,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case fro</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">fro</span></code></pre>
 </div>
 </div>
 </section>
@@ -1916,7 +1909,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case fsm</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">fsm</span></code></pre>
 </div>
 </div>
 </section>
@@ -1941,7 +1934,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case gab</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">gab</span></code></pre>
 </div>
 </div>
 </section>
@@ -1966,7 +1959,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case gbr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">gbr</span></code></pre>
 </div>
 </div>
 </section>
@@ -1991,7 +1984,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case geo</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">geo</span></code></pre>
 </div>
 </div>
 </section>
@@ -2016,7 +2009,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case gha</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">gha</span></code></pre>
 </div>
 </div>
 </section>
@@ -2041,7 +2034,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case gib</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">gib</span></code></pre>
 </div>
 </div>
 </section>
@@ -2066,7 +2059,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case gin</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">gin</span></code></pre>
 </div>
 </div>
 </section>
@@ -2091,7 +2084,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case glp</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">glp</span></code></pre>
 </div>
 </div>
 </section>
@@ -2116,7 +2109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case gmb</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">gmb</span></code></pre>
 </div>
 </div>
 </section>
@@ -2141,7 +2134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case gnb</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">gnb</span></code></pre>
 </div>
 </div>
 </section>
@@ -2166,7 +2159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case gnq</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">gnq</span></code></pre>
 </div>
 </div>
 </section>
@@ -2191,7 +2184,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case grc</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">grc</span></code></pre>
 </div>
 </div>
 </section>
@@ -2216,7 +2209,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case grd</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">grd</span></code></pre>
 </div>
 </div>
 </section>
@@ -2241,7 +2234,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case grl</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">grl</span></code></pre>
 </div>
 </div>
 </section>
@@ -2266,7 +2259,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case gtm</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">gtm</span></code></pre>
 </div>
 </div>
 </section>
@@ -2291,7 +2284,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case guf</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">guf</span></code></pre>
 </div>
 </div>
 </section>
@@ -2316,7 +2309,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case gum</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">gum</span></code></pre>
 </div>
 </div>
 </section>
@@ -2341,7 +2334,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case guy</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">guy</span></code></pre>
 </div>
 </div>
 </section>
@@ -2366,7 +2359,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case hkg</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">hkg</span></code></pre>
 </div>
 </div>
 </section>
@@ -2391,7 +2384,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case hnd</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">hnd</span></code></pre>
 </div>
 </div>
 </section>
@@ -2416,7 +2409,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case hrv</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">hrv</span></code></pre>
 </div>
 </div>
 </section>
@@ -2441,7 +2434,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case hti</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">hti</span></code></pre>
 </div>
 </div>
 </section>
@@ -2466,7 +2459,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case hun</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">hun</span></code></pre>
 </div>
 </div>
 </section>
@@ -2491,7 +2484,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case idn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">idn</span></code></pre>
 </div>
 </div>
 </section>
@@ -2516,7 +2509,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case imn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">imn</span></code></pre>
 </div>
 </div>
 </section>
@@ -2541,7 +2534,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ind</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ind</span></code></pre>
 </div>
 </div>
 </section>
@@ -2566,7 +2559,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case iot</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">iot</span></code></pre>
 </div>
 </div>
 </section>
@@ -2591,7 +2584,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case irl</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">irl</span></code></pre>
 </div>
 </div>
 </section>
@@ -2616,7 +2609,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case irn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">irn</span></code></pre>
 </div>
 </div>
 </section>
@@ -2641,7 +2634,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case irq</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">irq</span></code></pre>
 </div>
 </div>
 </section>
@@ -2666,7 +2659,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case isl</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">isl</span></code></pre>
 </div>
 </div>
 </section>
@@ -2691,7 +2684,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case isr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">isr</span></code></pre>
 </div>
 </div>
 </section>
@@ -2716,7 +2709,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ita</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ita</span></code></pre>
 </div>
 </div>
 </section>
@@ -2741,7 +2734,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case jam</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">jam</span></code></pre>
 </div>
 </div>
 </section>
@@ -2766,7 +2759,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case jor</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">jor</span></code></pre>
 </div>
 </div>
 </section>
@@ -2791,7 +2784,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case jpn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">jpn</span></code></pre>
 </div>
 </div>
 </section>
@@ -2816,7 +2809,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case kaz</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">kaz</span></code></pre>
 </div>
 </div>
 </section>
@@ -2841,7 +2834,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ken</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ken</span></code></pre>
 </div>
 </div>
 </section>
@@ -2866,7 +2859,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case kgz</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">kgz</span></code></pre>
 </div>
 </div>
 </section>
@@ -2891,7 +2884,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case khm</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">khm</span></code></pre>
 </div>
 </div>
 </section>
@@ -2916,7 +2909,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case kir</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">kir</span></code></pre>
 </div>
 </div>
 </section>
@@ -2941,7 +2934,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case kna</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">kna</span></code></pre>
 </div>
 </div>
 </section>
@@ -2966,7 +2959,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case kor</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">kor</span></code></pre>
 </div>
 </div>
 </section>
@@ -2991,7 +2984,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case kwt</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">kwt</span></code></pre>
 </div>
 </div>
 </section>
@@ -3016,7 +3009,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case lao</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">lao</span></code></pre>
 </div>
 </div>
 </section>
@@ -3041,7 +3034,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case lbn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">lbn</span></code></pre>
 </div>
 </div>
 </section>
@@ -3066,7 +3059,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case lbr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">lbr</span></code></pre>
 </div>
 </div>
 </section>
@@ -3091,7 +3084,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case lby</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">lby</span></code></pre>
 </div>
 </div>
 </section>
@@ -3116,7 +3109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case lca</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">lca</span></code></pre>
 </div>
 </div>
 </section>
@@ -3141,7 +3134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case lie</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">lie</span></code></pre>
 </div>
 </div>
 </section>
@@ -3166,7 +3159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case lka</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">lka</span></code></pre>
 </div>
 </div>
 </section>
@@ -3191,7 +3184,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case lso</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">lso</span></code></pre>
 </div>
 </div>
 </section>
@@ -3216,7 +3209,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ltu</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ltu</span></code></pre>
 </div>
 </div>
 </section>
@@ -3241,7 +3234,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case lux</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">lux</span></code></pre>
 </div>
 </div>
 </section>
@@ -3266,7 +3259,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case lva</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">lva</span></code></pre>
 </div>
 </div>
 </section>
@@ -3291,7 +3284,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mac</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mac</span></code></pre>
 </div>
 </div>
 </section>
@@ -3316,7 +3309,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case maf</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">maf</span></code></pre>
 </div>
 </div>
 </section>
@@ -3341,7 +3334,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mar</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mar</span></code></pre>
 </div>
 </div>
 </section>
@@ -3366,7 +3359,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mco</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mco</span></code></pre>
 </div>
 </div>
 </section>
@@ -3391,7 +3384,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mda</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mda</span></code></pre>
 </div>
 </div>
 </section>
@@ -3416,7 +3409,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mdg</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mdg</span></code></pre>
 </div>
 </div>
 </section>
@@ -3441,7 +3434,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mdv</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mdv</span></code></pre>
 </div>
 </div>
 </section>
@@ -3466,7 +3459,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mex</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mex</span></code></pre>
 </div>
 </div>
 </section>
@@ -3491,7 +3484,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mhl</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mhl</span></code></pre>
 </div>
 </div>
 </section>
@@ -3516,7 +3509,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mkd</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mkd</span></code></pre>
 </div>
 </div>
 </section>
@@ -3541,7 +3534,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mli</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mli</span></code></pre>
 </div>
 </div>
 </section>
@@ -3566,7 +3559,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mlt</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mlt</span></code></pre>
 </div>
 </div>
 </section>
@@ -3591,7 +3584,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mmr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mmr</span></code></pre>
 </div>
 </div>
 </section>
@@ -3616,7 +3609,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mne</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mne</span></code></pre>
 </div>
 </div>
 </section>
@@ -3641,7 +3634,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mng</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mng</span></code></pre>
 </div>
 </div>
 </section>
@@ -3666,7 +3659,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mnp</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mnp</span></code></pre>
 </div>
 </div>
 </section>
@@ -3691,7 +3684,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case moz</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">moz</span></code></pre>
 </div>
 </div>
 </section>
@@ -3716,7 +3709,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mrt</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mrt</span></code></pre>
 </div>
 </div>
 </section>
@@ -3741,7 +3734,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case msr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">msr</span></code></pre>
 </div>
 </div>
 </section>
@@ -3766,7 +3759,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mtq</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mtq</span></code></pre>
 </div>
 </div>
 </section>
@@ -3791,7 +3784,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mus</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mus</span></code></pre>
 </div>
 </div>
 </section>
@@ -3816,7 +3809,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mwi</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mwi</span></code></pre>
 </div>
 </div>
 </section>
@@ -3841,7 +3834,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mys</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mys</span></code></pre>
 </div>
 </div>
 </section>
@@ -3866,7 +3859,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case myt</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">myt</span></code></pre>
 </div>
 </div>
 </section>
@@ -3891,7 +3884,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case nam</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">nam</span></code></pre>
 </div>
 </div>
 </section>
@@ -3916,7 +3909,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ncl</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ncl</span></code></pre>
 </div>
 </div>
 </section>
@@ -3941,7 +3934,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ner</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ner</span></code></pre>
 </div>
 </div>
 </section>
@@ -3966,7 +3959,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case nfk</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">nfk</span></code></pre>
 </div>
 </div>
 </section>
@@ -3991,7 +3984,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case nga</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">nga</span></code></pre>
 </div>
 </div>
 </section>
@@ -4016,7 +4009,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case nic</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">nic</span></code></pre>
 </div>
 </div>
 </section>
@@ -4041,7 +4034,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case niu</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">niu</span></code></pre>
 </div>
 </div>
 </section>
@@ -4066,7 +4059,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case nld</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">nld</span></code></pre>
 </div>
 </div>
 </section>
@@ -4091,7 +4084,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case nor</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">nor</span></code></pre>
 </div>
 </div>
 </section>
@@ -4116,7 +4109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case npl</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">npl</span></code></pre>
 </div>
 </div>
 </section>
@@ -4141,7 +4134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case nru</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">nru</span></code></pre>
 </div>
 </div>
 </section>
@@ -4166,7 +4159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case nzl</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">nzl</span></code></pre>
 </div>
 </div>
 </section>
@@ -4191,7 +4184,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case omn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">omn</span></code></pre>
 </div>
 </div>
 </section>
@@ -4216,7 +4209,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case pak</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">pak</span></code></pre>
 </div>
 </div>
 </section>
@@ -4241,7 +4234,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case pan</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">pan</span></code></pre>
 </div>
 </div>
 </section>
@@ -4266,7 +4259,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case pcn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">pcn</span></code></pre>
 </div>
 </div>
 </section>
@@ -4291,7 +4284,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case per</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">per</span></code></pre>
 </div>
 </div>
 </section>
@@ -4316,7 +4309,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case phl</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">phl</span></code></pre>
 </div>
 </div>
 </section>
@@ -4341,7 +4334,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case plw</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">plw</span></code></pre>
 </div>
 </div>
 </section>
@@ -4366,7 +4359,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case png</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">png</span></code></pre>
 </div>
 </div>
 </section>
@@ -4391,7 +4384,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case pol</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">pol</span></code></pre>
 </div>
 </div>
 </section>
@@ -4416,7 +4409,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case pri</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">pri</span></code></pre>
 </div>
 </div>
 </section>
@@ -4441,7 +4434,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case prk</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">prk</span></code></pre>
 </div>
 </div>
 </section>
@@ -4466,7 +4459,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case prt</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">prt</span></code></pre>
 </div>
 </div>
 </section>
@@ -4491,7 +4484,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case pry</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">pry</span></code></pre>
 </div>
 </div>
 </section>
@@ -4516,7 +4509,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case pse</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">pse</span></code></pre>
 </div>
 </div>
 </section>
@@ -4541,7 +4534,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case pyf</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">pyf</span></code></pre>
 </div>
 </div>
 </section>
@@ -4566,7 +4559,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case qat</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">qat</span></code></pre>
 </div>
 </div>
 </section>
@@ -4591,7 +4584,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case reu</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">reu</span></code></pre>
 </div>
 </div>
 </section>
@@ -4616,7 +4609,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rou</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rou</span></code></pre>
 </div>
 </div>
 </section>
@@ -4641,7 +4634,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rus</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rus</span></code></pre>
 </div>
 </div>
 </section>
@@ -4666,7 +4659,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rwa</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rwa</span></code></pre>
 </div>
 </div>
 </section>
@@ -4691,7 +4684,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sau</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sau</span></code></pre>
 </div>
 </div>
 </section>
@@ -4716,7 +4709,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sdn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sdn</span></code></pre>
 </div>
 </div>
 </section>
@@ -4741,7 +4734,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sen</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sen</span></code></pre>
 </div>
 </div>
 </section>
@@ -4766,7 +4759,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sgp</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sgp</span></code></pre>
 </div>
 </div>
 </section>
@@ -4791,7 +4784,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sgs</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sgs</span></code></pre>
 </div>
 </div>
 </section>
@@ -4816,7 +4809,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case shn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">shn</span></code></pre>
 </div>
 </div>
 </section>
@@ -4841,7 +4834,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sjm</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sjm</span></code></pre>
 </div>
 </div>
 </section>
@@ -4866,7 +4859,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case slb</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">slb</span></code></pre>
 </div>
 </div>
 </section>
@@ -4891,7 +4884,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sle</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sle</span></code></pre>
 </div>
 </div>
 </section>
@@ -4916,7 +4909,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case slv</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">slv</span></code></pre>
 </div>
 </div>
 </section>
@@ -4941,7 +4934,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case smr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">smr</span></code></pre>
 </div>
 </div>
 </section>
@@ -4966,7 +4959,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case som</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">som</span></code></pre>
 </div>
 </div>
 </section>
@@ -4991,7 +4984,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case spm</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">spm</span></code></pre>
 </div>
 </div>
 </section>
@@ -5016,7 +5009,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case srb</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">srb</span></code></pre>
 </div>
 </div>
 </section>
@@ -5041,7 +5034,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ssd</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ssd</span></code></pre>
 </div>
 </div>
 </section>
@@ -5066,7 +5059,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case stp</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">stp</span></code></pre>
 </div>
 </div>
 </section>
@@ -5091,7 +5084,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sur</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sur</span></code></pre>
 </div>
 </div>
 </section>
@@ -5116,7 +5109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case svk</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">svk</span></code></pre>
 </div>
 </div>
 </section>
@@ -5141,7 +5134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case svn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">svn</span></code></pre>
 </div>
 </div>
 </section>
@@ -5166,7 +5159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case swe</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">swe</span></code></pre>
 </div>
 </div>
 </section>
@@ -5191,7 +5184,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case swz</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">swz</span></code></pre>
 </div>
 </div>
 </section>
@@ -5216,7 +5209,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sxm</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sxm</span></code></pre>
 </div>
 </div>
 </section>
@@ -5241,7 +5234,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case syc</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">syc</span></code></pre>
 </div>
 </div>
 </section>
@@ -5266,7 +5259,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case syr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">syr</span></code></pre>
 </div>
 </div>
 </section>
@@ -5291,7 +5284,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tca</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tca</span></code></pre>
 </div>
 </div>
 </section>
@@ -5316,7 +5309,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tcd</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tcd</span></code></pre>
 </div>
 </div>
 </section>
@@ -5341,7 +5334,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tgo</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tgo</span></code></pre>
 </div>
 </div>
 </section>
@@ -5366,7 +5359,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tha</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tha</span></code></pre>
 </div>
 </div>
 </section>
@@ -5391,7 +5384,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tjk</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tjk</span></code></pre>
 </div>
 </div>
 </section>
@@ -5416,7 +5409,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tkl</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tkl</span></code></pre>
 </div>
 </div>
 </section>
@@ -5441,7 +5434,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tkm</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tkm</span></code></pre>
 </div>
 </div>
 </section>
@@ -5466,7 +5459,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tls</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tls</span></code></pre>
 </div>
 </div>
 </section>
@@ -5491,7 +5484,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ton</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ton</span></code></pre>
 </div>
 </div>
 </section>
@@ -5516,7 +5509,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tto</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tto</span></code></pre>
 </div>
 </div>
 </section>
@@ -5541,7 +5534,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tun</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tun</span></code></pre>
 </div>
 </div>
 </section>
@@ -5566,7 +5559,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tur</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tur</span></code></pre>
 </div>
 </div>
 </section>
@@ -5591,7 +5584,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tuv</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tuv</span></code></pre>
 </div>
 </div>
 </section>
@@ -5616,7 +5609,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case twn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">twn</span></code></pre>
 </div>
 </div>
 </section>
@@ -5641,7 +5634,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tza</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tza</span></code></pre>
 </div>
 </div>
 </section>
@@ -5666,7 +5659,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case uga</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">uga</span></code></pre>
 </div>
 </div>
 </section>
@@ -5691,7 +5684,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ukr</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ukr</span></code></pre>
 </div>
 </div>
 </section>
@@ -5716,7 +5709,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ury</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ury</span></code></pre>
 </div>
 </div>
 </section>
@@ -5741,7 +5734,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case usa</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">usa</span></code></pre>
 </div>
 </div>
 </section>
@@ -5766,7 +5759,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case uzb</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">uzb</span></code></pre>
 </div>
 </div>
 </section>
@@ -5791,7 +5784,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case vat</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">vat</span></code></pre>
 </div>
 </div>
 </section>
@@ -5816,7 +5809,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case vct</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">vct</span></code></pre>
 </div>
 </div>
 </section>
@@ -5841,7 +5834,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ven</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ven</span></code></pre>
 </div>
 </div>
 </section>
@@ -5866,7 +5859,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case vgb</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">vgb</span></code></pre>
 </div>
 </div>
 </section>
@@ -5891,7 +5884,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case vir</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">vir</span></code></pre>
 </div>
 </div>
 </section>
@@ -5916,7 +5909,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case vnm</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">vnm</span></code></pre>
 </div>
 </div>
 </section>
@@ -5941,7 +5934,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case vut</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">vut</span></code></pre>
 </div>
 </div>
 </section>
@@ -5966,7 +5959,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case wlf</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">wlf</span></code></pre>
 </div>
 </div>
 </section>
@@ -5991,7 +5984,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case wsm</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">wsm</span></code></pre>
 </div>
 </div>
 </section>
@@ -6016,7 +6009,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case yem</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">yem</span></code></pre>
 </div>
 </div>
 </section>
@@ -6041,7 +6034,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case zaf</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">zaf</span></code></pre>
 </div>
 </div>
 </section>
@@ -6066,7 +6059,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case zmb</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">zmb</span></code></pre>
 </div>
 </div>
 </section>
@@ -6091,7 +6084,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case zwe</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">zwe</span></code></pre>
 </div>
 </div>
 </section>
@@ -6107,8 +6100,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

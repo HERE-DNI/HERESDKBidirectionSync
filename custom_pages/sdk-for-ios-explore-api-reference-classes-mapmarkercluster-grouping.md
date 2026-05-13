@@ -1,5 +1,5 @@
 ---
-title: "Grouping Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-grouping"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-grouping"
 <!-- Grouping.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/Grouping"></a>
 <a title="Grouping Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-grouping"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Grouping</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct Grouping</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Grouping</span></code></pre>
 </div>
 </div>
 <p>Represents a group of map markers belonging to a cluster.</p>
@@ -70,7 +63,7 @@ single map marker entry for markers being part of cluster but spread enough not 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var markers: [MapMarker]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">markers</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarker">MapMarker</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ single map marker entry for markers being part of cluster but spread enough not 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var parent: MapMarkerCluster</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">parent</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarkercluster">MapMarkerCluster</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -120,7 +113,7 @@ single map marker entry for markers being part of cluster but spread enough not 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(markers: [MapMarker], parent: MapMarkerCluster)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">markers</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarker">MapMarker</a></span><span class="p">],</span> <span class="nv">parent</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarkercluster">MapMarkerCluster</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -136,8 +129,8 @@ single map marker entry for markers being part of cluster but spread enough not 
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

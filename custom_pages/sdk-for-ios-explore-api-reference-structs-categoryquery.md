@@ -1,5 +1,5 @@
 ---
-title: "CategoryQuery Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-categoryquery"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-categoryquery"
 <!-- CategoryQuery.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/CategoryQuery"></a>
 <a title="CategoryQuery Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-categoryquery"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>CategoryQuery</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct CategoryQuery : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">CategoryQuery</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The options to specify a query by categories.</p>
@@ -68,7 +61,7 @@ but none are in <code><a href="../Structs/CategoryQuery.html#/s:7heresdk13Catego
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var categories: [PlaceCategory]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">categories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -98,7 +91,7 @@ This is especially useful for excluding specific subcategories from the main cat
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var excludeCategories: [PlaceCategory]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">excludeCategories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -125,7 +118,7 @@ but none are in <code><a href="../Structs/CategoryQuery.html#/s:7heresdk13Catego
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var includeChains: [PlaceChain]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">includeChains</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-placechain">PlaceChain</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -154,7 +147,7 @@ In short, an exclusion will always win over an inclusion.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var excludeChains: [PlaceChain]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">excludeChains</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-placechain">PlaceChain</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -181,7 +174,7 @@ but none are in <code><a href="../Structs/CategoryQuery.html#/s:7heresdk13Catego
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var includeFoodTypes: [PlaceFoodType]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">includeFoodTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-placefoodtype">PlaceFoodType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -210,7 +203,7 @@ In short, an exclusion will always win over an inclusion.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var excludeFoodTypes: [PlaceFoodType]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">excludeFoodTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-placefoodtype">PlaceFoodType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -238,7 +231,7 @@ and results will be based on other parameters provided.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var filter: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">filter</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -264,7 +257,7 @@ Consists of fuel and truck options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var placeFilter: PlaceFilter</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">placeFilter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-placefilter">PlaceFilter</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -289,7 +282,7 @@ Consists of fuel and truck options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var area: CategoryQuery.Area</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">CategoryQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-categoryquery-area">Area</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -314,7 +307,7 @@ Consists of fuel and truck options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ category: PlaceCategory, area: CategoryQuery.Area)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">category</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">,</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">CategoryQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-categoryquery-area">Area</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -370,7 +363,7 @@ Consists of fuel and truck options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ categories: [PlaceCategory], area: CategoryQuery.Area)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">categories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">],</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">CategoryQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-categoryquery-area">Area</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -426,7 +419,7 @@ Consists of fuel and truck options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ category: PlaceCategory, filter: String, area: CategoryQuery.Area)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">category</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">,</span> <span class="nv">filter</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">CategoryQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-categoryquery-area">Area</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -495,7 +488,7 @@ Results with a partial match are included in the response.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ categories: [PlaceCategory], filter: String, area: CategoryQuery.Area)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">categories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">],</span> <span class="nv">filter</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">area</span><span class="p">:</span> <span class="kt">CategoryQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-categoryquery-area">Area</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -565,7 +558,7 @@ Results with a partial match are included in the response.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct Area : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Area</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -581,8 +574,8 @@ Results with a partial match are included in the response.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

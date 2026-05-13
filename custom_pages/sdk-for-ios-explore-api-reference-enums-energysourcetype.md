@@ -1,5 +1,5 @@
 ---
-title: "EnergySourceType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-energysourcetype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-energysourcetype"
 <!-- EnergySourceType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/EnergySourceType"></a>
 <a title="EnergySourceType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-energysourcetype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EnergySourceType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum EnergySourceType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EnergySourceType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Represents energy source type.
@@ -69,7 +62,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case nuclear</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">nuclear</span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case generalFossil</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">generalFossil</span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case coal</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">coal</span></code></pre>
 </div>
 </div>
 </section>
@@ -144,7 +137,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case gas</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">gas</span></code></pre>
 </div>
 </div>
 </section>
@@ -169,7 +162,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case generalGreen</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">generalGreen</span></code></pre>
 </div>
 </div>
 </section>
@@ -194,7 +187,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case solar</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">solar</span></code></pre>
 </div>
 </div>
 </section>
@@ -219,7 +212,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case wind</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">wind</span></code></pre>
 </div>
 </div>
 </section>
@@ -244,7 +237,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case water</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">water</span></code></pre>
 </div>
 </div>
 </section>
@@ -260,8 +253,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "NetworkEndpoint Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-networkendpoint"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-networkendpoint"
 <!-- NetworkEndpoint.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/NetworkEndpoint"></a>
 <a title="NetworkEndpoint Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-networkendpoint"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>NetworkEndpoint</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct NetworkEndpoint : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">NetworkEndpoint</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Network endpoint.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-networkendpoint"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var address: IPAddress</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">address</span><span class="p">:</span> <span class="kt">IPAddress</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-networkendpoint"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var port: UInt16?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">port</span><span class="p">:</span> <span class="kt">UInt16</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-networkendpoint"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(address: IPAddress, port: UInt16?)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">address</span><span class="p">:</span> <span class="kt">IPAddress</span><span class="p">,</span> <span class="nv">port</span><span class="p">:</span> <span class="kt">UInt16</span><span class="p">?)</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-networkendpoint"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(address: IPAddress)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">address</span><span class="p">:</span> <span class="kt">IPAddress</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -169,7 +162,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-networkendpoint"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>static func == (lhs: NetworkEndpoint, rhs: NetworkEndpoint) -&gt; Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">static</span> <span class="kd">func</span> <span class="o">==</span> <span class="p">(</span><span class="nv">lhs</span><span class="p">:</span> <span class="kt">NetworkEndpoint</span><span class="p">,</span> <span class="nv">rhs</span><span class="p">:</span> <span class="kt">NetworkEndpoint</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -225,7 +218,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-networkendpoint"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func hash(into hasher: inout Hasher)</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">hash</span><span class="p">(</span><span class="n">into</span> <span class="nv">hasher</span><span class="p">:</span> <span class="k">inout</span> <span class="kt">Hasher</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -260,8 +253,8 @@ slug: "sdk-for-ios-explore-api-reference-structs-networkendpoint"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

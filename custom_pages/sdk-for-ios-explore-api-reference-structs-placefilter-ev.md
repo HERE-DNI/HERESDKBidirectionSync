@@ -1,5 +1,5 @@
 ---
-title: "Ev Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-placefilter-ev"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-placefilter-ev"
 <!-- Ev.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/Ev"></a>
 <a title="Ev Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-placefilter-ev"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Ev</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct Ev : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Ev</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Constraints that are applicable on the places of category EV station.</p>
@@ -69,7 +62,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-placefilter-ev"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var supplierNames: [String]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">supplierNames</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -97,7 +90,7 @@ For more information on the current connector types, see
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var connectorTypeIDs: [String]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">connectorTypeIDs</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -124,7 +117,7 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var minPowerInKilowatts: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">minPowerInKilowatts</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -150,7 +143,7 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var eMobilityServiceProviderPartnerIDs: [String]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">eMobilityServiceProviderPartnerIDs</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -177,7 +170,7 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var currentType: CurrentType?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">currentType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-currenttype">CurrentType</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -227,7 +220,7 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(supplierNames: [String] = [], connectorTypeIDs: [String] = [], minPowerInKilowatts: Double? = nil, eMobilityServiceProviderPartnerIDs: [String] = [], currentType: CurrentType? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">supplierNames</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">connectorTypeIDs</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">minPowerInKilowatts</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">eMobilityServiceProviderPartnerIDs</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">currentType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-currenttype">CurrentType</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -243,8 +236,8 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

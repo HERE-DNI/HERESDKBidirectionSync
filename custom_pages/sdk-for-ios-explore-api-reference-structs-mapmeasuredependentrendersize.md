@@ -1,5 +1,5 @@
 ---
-title: "MapMeasureDependentRenderSize Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize"
 <!-- MapMeasureDependentRenderSize.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/MapMeasureDependentRenderSize"></a>
 <a title="MapMeasureDependentRenderSize Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapMeasureDependentRenderSize</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct MapMeasureDependentRenderSize : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MapMeasureDependentRenderSize</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents a render size, described as map measure dependent values.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let measureKind: MapMeasure.Kind</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">measureKind</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure">MapMeasure</a></span><span class="o">.</span><span class="kt">Kind</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let sizeUnit: RenderSize.Unit</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">sizeUnit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-rendersize">RenderSize</a></span><span class="o">.</span><span class="kt">Unit</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let sizes: [Double : Double]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">sizes</span><span class="p">:</span> <span class="p">[</span><span class="kt">Double</span> <span class="p">:</span> <span class="kt">Double</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -149,7 +142,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(measureKind: MapMeasure.Kind, sizeUnit: RenderSize.Unit, sizes: [Double : Double]) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">measureKind</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure">MapMeasure</a></span><span class="o">.</span><span class="kt">Kind</span><span class="p">,</span> <span class="nv">sizeUnit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-rendersize">RenderSize</a></span><span class="o">.</span><span class="kt">Unit</span><span class="p">,</span> <span class="nv">sizes</span><span class="p">:</span> <span class="p">[</span><span class="kt">Double</span> <span class="p">:</span> <span class="kt">Double</span><span class="p">])</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -223,7 +216,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(sizeUnit: RenderSize.Unit, size: Double) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sizeUnit</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-rendersize">RenderSize</a></span><span class="o">.</span><span class="kt">Unit</span><span class="p">,</span> <span class="nv">size</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -280,8 +273,8 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum InstantiationErrorCode : UInt32, CaseIterable, Codable</code></pre>
-<pre><code>extension MapMeasureDependentRenderSize.InstantiationErrorCode : Error</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -306,7 +299,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias InstantiationError = InstantiationErrorCode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasuredependentrendersize-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -322,8 +315,8 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

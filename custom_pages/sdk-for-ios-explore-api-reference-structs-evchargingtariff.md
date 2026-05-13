@@ -1,5 +1,5 @@
 ---
-title: "EVChargingTariff Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariff"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariff"
 <!-- EVChargingTariff.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/EVChargingTariff"></a>
 <a title="EVChargingTariff Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariff"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVChargingTariff</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct EVChargingTariff : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingTariff</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Tariffs provide detailed pricing information for charging electric vehicles at a specific location.
@@ -72,7 +65,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var name: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -97,7 +90,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var type: EVChargingTariffType</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evchargingtarifftype">EVChargingTariffType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -122,7 +115,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var partner: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">partner</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -148,7 +141,7 @@ The same id is used also in other parts of the API and other related HERE APIs.<
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var partnerID: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">partnerID</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -174,7 +167,7 @@ code (e.g., EUR, DKK).</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var currency: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">currency</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -203,7 +196,7 @@ The provided elements can only be used to derive a price estimate, which in most
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var elements: [EVChargingTariffElement]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">elements</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingtariffelement">EVChargingTariffElement</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -245,7 +238,7 @@ charging session. If no condition matches, the element without any condition app
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(name: String? = nil, type: EVChargingTariffType = EVChargingTariffType.adHoc, partner: String = "", partnerID: String = "", currency: String = "", elements: [EVChargingTariffElement] = [])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evchargingtarifftype">EVChargingTariffType</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evchargingtarifftype">EVChargingTariffType</a></span><span class="o">.</span><span class="n">adHoc</span><span class="p">,</span> <span class="nv">partner</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">""</span><span class="p">,</span> <span class="nv">partnerID</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">""</span><span class="p">,</span> <span class="nv">currency</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">""</span><span class="p">,</span> <span class="nv">elements</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingtariffelement">EVChargingTariffElement</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>
@@ -261,8 +254,8 @@ charging session. If no condition matches, the element without any condition app
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "MapCameraAnimationFactory Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcameraanimationfactory"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcameraanimationfactory"
 <!-- MapCameraAnimationFactory.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapCameraAnimationFactory"></a>
 <a title="MapCameraAnimationFactory Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcameraanimationfactory"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapCameraAnimationFactory</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapCameraAnimationFactory</code></pre>
-<pre><code>extension MapCameraAnimationFactory: NativeBase</code></pre>
-<pre><code>extension MapCameraAnimationFactory: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapCameraAnimationFactory</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraAnimationFactory</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraAnimationFactory</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Factory for creating MapCameraAnimation objects to change map’s camera over time.</p>
@@ -72,7 +65,7 @@ when trying to apply such animations.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func createAnimation(from cameraUpdate: MapCameraUpdate, duration: TimeInterval, easing: Easing) -&gt; MapCameraAnimation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">createAnimation</span><span class="p">(</span><span class="n">from</span> <span class="nv">cameraUpdate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraupdate">MapCameraUpdate</a></span><span class="p">,</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">,</span> <span class="nv">easing</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-easing">Easing</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraanimation">MapCameraAnimation</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -144,7 +137,7 @@ when trying to apply such animations.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func createAnimation(track: MapCameraKeyframeTrack) -&gt; MapCameraAnimation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">createAnimation</span><span class="p">(</span><span class="nv">track</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamerakeyframetrack">MapCameraKeyframeTrack</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraanimation">MapCameraAnimation</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -212,7 +205,7 @@ if tilt is not 0.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func createAnimation(tracks: [MapCameraKeyframeTrack]) throws -&gt; MapCameraAnimation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">createAnimation</span><span class="p">(</span><span class="nv">tracks</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamerakeyframetrack">MapCameraKeyframeTrack</a></span><span class="p">])</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraanimation">MapCameraAnimation</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -263,7 +256,7 @@ will consider the target point as being located on the ground.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func flyTo(target: GeoCoordinatesUpdate, bowFactor: Double, duration: TimeInterval) -&gt; MapCameraAnimation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">flyTo</span><span class="p">(</span><span class="nv">target</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinatesupdate">GeoCoordinatesUpdate</a></span><span class="p">,</span> <span class="nv">bowFactor</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraanimation">MapCameraAnimation</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -341,7 +334,7 @@ will consider the target point as being located on the ground.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func flyTo(target: GeoCoordinatesUpdate, orientation: GeoOrientationUpdate, bowFactor: Double, duration: TimeInterval) -&gt; MapCameraAnimation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">flyTo</span><span class="p">(</span><span class="nv">target</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinatesupdate">GeoCoordinatesUpdate</a></span><span class="p">,</span> <span class="nv">orientation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geoorientationupdate">GeoOrientationUpdate</a></span><span class="p">,</span> <span class="nv">bowFactor</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraanimation">MapCameraAnimation</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -431,7 +424,7 @@ will consider the target point as being located on the ground.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func flyTo(target: GeoCoordinatesUpdate, zoom: MapMeasure, bowFactor: Double, duration: TimeInterval) -&gt; MapCameraAnimation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">flyTo</span><span class="p">(</span><span class="nv">target</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinatesupdate">GeoCoordinatesUpdate</a></span><span class="p">,</span> <span class="nv">zoom</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure">MapMeasure</a></span><span class="p">,</span> <span class="nv">bowFactor</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraanimation">MapCameraAnimation</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -521,7 +514,7 @@ will consider the target point as being located on the ground.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func flyTo(target: GeoCoordinatesUpdate, orientation: GeoOrientationUpdate, zoom: MapMeasure, bowFactor: Double, duration: TimeInterval) -&gt; MapCameraAnimation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">flyTo</span><span class="p">(</span><span class="nv">target</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinatesupdate">GeoCoordinatesUpdate</a></span><span class="p">,</span> <span class="nv">orientation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geoorientationupdate">GeoOrientationUpdate</a></span><span class="p">,</span> <span class="nv">zoom</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure">MapMeasure</a></span><span class="p">,</span> <span class="nv">bowFactor</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraanimation">MapCameraAnimation</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -611,8 +604,8 @@ will consider the target point as being located on the ground.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "ChargingStation Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-chargingstation"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-chargingstation"
 <!-- ChargingStation.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/ChargingStation"></a>
 <a title="ChargingStation Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-chargingstation"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>ChargingStation</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct ChargingStation : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ChargingStation</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Data for an electric vehicle charging station.</p>
@@ -68,7 +61,7 @@ By default, with HERE datasets it is guranteed to be not null.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var id: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">id</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ name associated with the station.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var name: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ name associated with the station.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var connectorAttributes: ChargingConnectorAttributes?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">connectorAttributes</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-chargingconnectorattributes">ChargingConnectorAttributes</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -146,7 +139,7 @@ name associated with the station.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var brand: NameID?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">brand</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-nameid">NameID</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -173,7 +166,7 @@ name associated with the station.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var chargePointOperator: NameID?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">chargePointOperator</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-nameid">NameID</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -203,7 +196,7 @@ from the list specified in the request parameter <code><a href="../Structs/Elect
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var matchingEMobilityServiceProviders: [NameID]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">matchingEMobilityServiceProviders</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-nameid">NameID</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -228,7 +221,7 @@ from the list specified in the request parameter <code><a href="../Structs/Elect
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(id: String? = nil, name: String? = nil, connectorAttributes: ChargingConnectorAttributes? = nil, brand: NameID? = nil, chargePointOperator: NameID? = nil, matchingEMobilityServiceProviders: [NameID] = [])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">id</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">connectorAttributes</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-chargingconnectorattributes">ChargingConnectorAttributes</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">brand</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-nameid">NameID</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">chargePointOperator</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-nameid">NameID</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">matchingEMobilityServiceProviders</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-nameid">NameID</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>
@@ -244,8 +237,8 @@ from the list specified in the request parameter <code><a href="../Structs/Elect
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "Positioning  Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-positioning"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-positioning"
 <!-- Positioning.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Section/Positioning"></a>
 <a title="Positioning  Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
@@ -34,7 +27,7 @@ slug: "sdk-for-ios-explore-api-reference-positioning"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Positioning</h1>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -59,7 +52,7 @@ slug: "sdk-for-ios-explore-api-reference-positioning"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct AuthenticationData : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">AuthenticationData</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -85,8 +78,8 @@ slug: "sdk-for-ios-explore-api-reference-positioning"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum AuthenticationError : UInt32, CaseIterable, Codable</code></pre>
-<pre><code>extension AuthenticationError : Error</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">AuthenticationError</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">AuthenticationError</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -102,8 +95,8 @@ slug: "sdk-for-ios-explore-api-reference-positioning"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

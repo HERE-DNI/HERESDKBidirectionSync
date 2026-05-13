@@ -1,5 +1,5 @@
 ---
-title: "PostActionType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-postactiontype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-postactiontype"
 <!-- PostActionType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/PostActionType"></a>
 <a title="PostActionType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-postactiontype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>PostActionType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum PostActionType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">PostActionType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Identifies the action type.</p>
@@ -67,7 +60,7 @@ independent of the action of actually charging the vehicle battery.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case chargingSetup</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">chargingSetup</span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ independent of the action of actually charging the vehicle battery.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case charging</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">charging</span></code></pre>
 </div>
 </div>
 </section>
@@ -117,7 +110,7 @@ independent of the action of actually charging the vehicle battery.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case deboard</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">deboard</span></code></pre>
 </div>
 </div>
 </section>
@@ -142,7 +135,7 @@ independent of the action of actually charging the vehicle battery.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case wait</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">wait</span></code></pre>
 </div>
 </div>
 </section>
@@ -158,8 +151,8 @@ independent of the action of actually charging the vehicle battery.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

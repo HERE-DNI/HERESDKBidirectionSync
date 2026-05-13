@@ -1,5 +1,5 @@
 ---
-title: "GeoOrientationKeyframe Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-geoorientationkeyframe"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-geoorientationkeyframe"
 <!-- GeoOrientationKeyframe.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/GeoOrientationKeyframe"></a>
 <a title="GeoOrientationKeyframe Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-geoorientationkeyframe"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>GeoOrientationKeyframe</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct GeoOrientationKeyframe : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">GeoOrientationKeyframe</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>A GeoOrientationKeyframe consists of a GeoOrientation (camera orientation) and an animation duration.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-geoorientationkeyframe"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let value: GeoOrientation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">value</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geoorientation">GeoOrientation</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ Negative duration value gets clamped to 0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let duration: TimeInterval</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt">TimeInterval</span></code></pre>
 </div>
 </div>
 </section>
@@ -117,7 +110,7 @@ Negative duration value gets clamped to 0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(value: GeoOrientation, duration: TimeInterval)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">value</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geoorientation">GeoOrientation</a></span><span class="p">,</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -165,8 +158,8 @@ Negative duration value gets clamped to 0.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

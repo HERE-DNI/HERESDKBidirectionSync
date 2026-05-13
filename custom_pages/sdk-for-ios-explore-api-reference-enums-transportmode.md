@@ -1,5 +1,5 @@
 ---
-title: "TransportMode Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-transportmode"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-transportmode"
 <!-- TransportMode.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/TransportMode"></a>
 <a title="TransportMode Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-transportmode"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TransportMode</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum TransportMode : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TransportMode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Specifies the mode of transport used for route calculalation.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transportmode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case car</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">car</span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ and uses truck specific speed assumptions when calculating the route.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case truck</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">truck</span></code></pre>
 </div>
 </div>
 </section>
@@ -120,7 +113,7 @@ disregards any traffic information.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case pedestrian</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">pedestrian</span></code></pre>
 </div>
 </div>
 </section>
@@ -145,7 +138,7 @@ disregards any traffic information.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case scooter</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">scooter</span></code></pre>
 </div>
 </div>
 </section>
@@ -170,7 +163,7 @@ disregards any traffic information.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bicycle</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bicycle</span></code></pre>
 </div>
 </div>
 </section>
@@ -197,7 +190,7 @@ representative if necessary.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case publicTransit</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">publicTransit</span></code></pre>
 </div>
 </div>
 </section>
@@ -227,7 +220,7 @@ deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case taxi</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">taxi</span></code></pre>
 </div>
 </div>
 </section>
@@ -254,7 +247,7 @@ This transport mode has the access to the bus-only lane/road.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bus</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bus</span></code></pre>
 </div>
 </div>
 </section>
@@ -281,7 +274,7 @@ This transport mode does not have the access to the bus-only lane/road.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case privateBus</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">privateBus</span></code></pre>
 </div>
 </div>
 </section>
@@ -297,8 +290,8 @@ This transport mode does not have the access to the bus-only lane/road.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

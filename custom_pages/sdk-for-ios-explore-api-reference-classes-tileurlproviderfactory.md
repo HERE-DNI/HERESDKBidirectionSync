@@ -1,5 +1,5 @@
 ---
-title: "TileUrlProviderFactory Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-tileurlproviderfactory"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-tileurlproviderfactory"
 <!-- TileUrlProviderFactory.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/TileUrlProviderFactory"></a>
 <a title="TileUrlProviderFactory Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-tileurlproviderfactory"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TileUrlProviderFactory</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class TileUrlProviderFactory</code></pre>
-<pre><code>extension TileUrlProviderFactory: NativeBase</code></pre>
-<pre><code>extension TileUrlProviderFactory: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TileUrlProviderFactory</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TileUrlProviderFactory</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TileUrlProviderFactory</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Factory for generating a <code><a href="../Maps.html#/s:7heresdk21TileUrlRequestHandlera">TileUrlRequestHandler</a></code> utilized in creating a tile URL.</p>
@@ -71,7 +64,7 @@ The valid range for X and Y is from 0 to 2^level − 1.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func fromXyzUrlTemplate(_ urlTemplate: String) -&gt; TileUrlRequestHandler?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">fromXyzUrlTemplate</span><span class="p">(</span><span class="n">_</span> <span class="nv">urlTemplate</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="../Maps.html#/s:7heresdk21TileUrlRequestHandlera">TileUrlRequestHandler</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -110,8 +103,8 @@ The valid range for X and Y is from 0 to 2^level − 1.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

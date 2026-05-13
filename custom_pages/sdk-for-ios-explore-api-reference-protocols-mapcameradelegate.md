@@ -1,5 +1,5 @@
 ---
-title: "MapCameraDelegate Protocol Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-protocols-mapcameradelegate"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-protocols-mapcameradelegate"
 <!-- MapCameraDelegate.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Protocol/MapCameraDelegate"></a>
 <a title="MapCameraDelegate Protocol Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-mapcameradelegate"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapCameraDelegate</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public protocol MapCameraDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">MapCameraDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 <p>Protocol for objects that want to get updates whenever the map is redrawn after
@@ -67,7 +60,7 @@ camera parameters change.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func onMapCameraUpdated(_ cameraState: MapCamera.State)</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onMapCameraUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">cameraState</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamera">MapCamera</a></span><span class="o">.</span><span class="kt">State</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -102,8 +95,8 @@ camera parameters change.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

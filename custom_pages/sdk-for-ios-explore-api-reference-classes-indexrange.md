@@ -1,5 +1,5 @@
 ---
-title: "IndexRange Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-indexrange"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-indexrange"
 <!-- IndexRange.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/IndexRange"></a>
 <a title="IndexRange Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-indexrange"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>IndexRange</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class IndexRange</code></pre>
-<pre><code>extension IndexRange: NativeBase</code></pre>
-<pre><code>extension IndexRange: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">IndexRange</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">IndexRange</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">IndexRange</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Holds information to which part of the text, input query was matched.
@@ -69,7 +62,7 @@ The first character is denoted by a value of 0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var start: Int32 { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">start</span><span class="p">:</span> <span class="kt">Int32</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ The first character is denoted by a value of 0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var end: Int32 { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">end</span><span class="p">:</span> <span class="kt">Int32</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -110,8 +103,8 @@ The first character is denoted by a value of 0.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

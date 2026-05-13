@@ -1,5 +1,5 @@
 ---
-title: "SectionTransportMode Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-sectiontransportmode"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-sectiontransportmode"
 <!-- SectionTransportMode.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/SectionTransportMode"></a>
 <a title="SectionTransportMode Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-sectiontransportmode"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>SectionTransportMode</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum SectionTransportMode : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">SectionTransportMode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Specifies the <code><a href="sdk-for-ios-explore-api-reference-..-classes-section">Section</a></code> mode of transport. A <code><a href="sdk-for-ios-explore-api-reference-..-classes-section">Section</a></code> may have a different
@@ -68,7 +61,7 @@ section having ferry transport mode.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case car</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">car</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ section having ferry transport mode.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case truck</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">truck</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ section having ferry transport mode.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case pedestrian</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">pedestrian</span></code></pre>
 </div>
 </div>
 </section>
@@ -143,7 +136,7 @@ section having ferry transport mode.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ferry</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ferry</span></code></pre>
 </div>
 </div>
 </section>
@@ -168,7 +161,7 @@ section having ferry transport mode.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case carShuttleTrain</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">carShuttleTrain</span></code></pre>
 </div>
 </div>
 </section>
@@ -193,7 +186,7 @@ section having ferry transport mode.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case scooter</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">scooter</span></code></pre>
 </div>
 </div>
 </section>
@@ -218,7 +211,7 @@ section having ferry transport mode.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bicycle</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bicycle</span></code></pre>
 </div>
 </div>
 </section>
@@ -244,7 +237,7 @@ obtained from <code><a href="../Classes/Section.html#/s:7heresdk7SectionC14trans
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case publicTransit</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">publicTransit</span></code></pre>
 </div>
 </div>
 </section>
@@ -269,7 +262,7 @@ obtained from <code><a href="../Classes/Section.html#/s:7heresdk7SectionC14trans
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case taxi</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">taxi</span></code></pre>
 </div>
 </div>
 </section>
@@ -296,7 +289,7 @@ This transport mode has the access to the bus-only lane/road.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bus</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bus</span></code></pre>
 </div>
 </div>
 </section>
@@ -323,7 +316,7 @@ This transport mode does not have the access to the bus-only lane/road.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case privateBus</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">privateBus</span></code></pre>
 </div>
 </div>
 </section>
@@ -339,8 +332,8 @@ This transport mode does not have the access to the bus-only lane/road.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

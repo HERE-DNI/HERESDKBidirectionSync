@@ -1,5 +1,5 @@
 ---
-title: "TransitDepartureStatus Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-transitdeparturestatus"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitdeparturestatus"
 <!-- TransitDepartureStatus.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/TransitDepartureStatus"></a>
 <a title="TransitDepartureStatus Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitdeparturestatus"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TransitDepartureStatus</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum TransitDepartureStatus : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TransitDepartureStatus</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Status of a departure.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitdeparturestatus"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case scheduled</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">scheduled</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitdeparturestatus"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cancelled</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cancelled</span></code></pre>
 </div>
 </div>
 </section>
@@ -117,7 +110,7 @@ for example, to respond to sudden passenger load.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case additional</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">additional</span></code></pre>
 </div>
 </div>
 </section>
@@ -143,7 +136,7 @@ additional trip, for example, to replace a broken vehicle or handle detour.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case replaced</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">replaced</span></code></pre>
 </div>
 </div>
 </section>
@@ -159,8 +152,8 @@ additional trip, for example, to replace a broken vehicle or handle detour.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

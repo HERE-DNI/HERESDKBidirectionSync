@@ -1,5 +1,5 @@
 ---
-title: "Credentials Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-proxysettings-credentials"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-proxysettings-credentials"
 <!-- Credentials.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/Credentials"></a>
 <a title="Credentials Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-proxysettings-credentials"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Credentials</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct Credentials : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Credentials</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Authentication data</p>
@@ -68,7 +61,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-proxysettings-credentials"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var userName: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">userName</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-proxysettings-credentials"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var password: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">password</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-proxysettings-credentials"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(userName: String, password: String)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">userName</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">password</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -134,8 +127,8 @@ slug: "sdk-for-ios-explore-api-reference-structs-proxysettings-credentials"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

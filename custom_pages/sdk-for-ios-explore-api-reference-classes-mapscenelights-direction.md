@@ -1,5 +1,5 @@
 ---
-title: "Direction Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscenelights-direction"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapscenelights-direction"
 <!-- Direction.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/Direction"></a>
 <a title="Direction Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapscenelights-direction"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Direction</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct Direction : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Direction</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The direction of lights as a pair of azimuth and altitude angles.
@@ -76,7 +69,7 @@ Thus, 90 degrees corresponds to East, 180 degrees to South, and 270 degrees to W
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var azimuth: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">azimuth</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -109,7 +102,7 @@ For instance, (0, -10) is changed to (0, 0) rather than (180, 10).</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var altitude: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">altitude</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -134,7 +127,7 @@ For instance, (0, -10) is changed to (0, 0) rather than (180, 10).</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(azimuth: Double = 0.0, altitude: Double = 0.0)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">azimuth</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">altitude</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -150,8 +143,8 @@ For instance, (0, -10) is changed to (0, 0) rather than (180, 10).</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

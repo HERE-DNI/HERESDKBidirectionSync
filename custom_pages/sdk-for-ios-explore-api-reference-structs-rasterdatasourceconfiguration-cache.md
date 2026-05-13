@@ -1,5 +1,5 @@
 ---
-title: "Cache Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-cache"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-c
 <!-- Cache.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/Cache"></a>
 <a title="Cache Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-c
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Cache</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct Cache</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Cache</span></code></pre>
 </div>
 </div>
 <p>Configuration of a local data cache.</p>
@@ -76,7 +69,7 @@ but is valid, it will be created.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var path: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">path</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -103,7 +96,7 @@ Its size is only limited by the total device storage capacity.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var diskSize: Int64</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">diskSize</span><span class="p">:</span> <span class="kt">Int64</span></code></pre>
 </div>
 </div>
 </section>
@@ -128,7 +121,7 @@ Its size is only limited by the total device storage capacity.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(path: String, diskSize: Int64 = 33554432)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">path</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">diskSize</span><span class="p">:</span> <span class="kt">Int64</span> <span class="o">=</span> <span class="mi">33554432</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -144,8 +137,8 @@ Its size is only limited by the total device storage capacity.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

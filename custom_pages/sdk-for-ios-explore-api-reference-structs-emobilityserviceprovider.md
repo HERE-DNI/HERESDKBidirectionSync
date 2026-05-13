@@ -1,5 +1,5 @@
 ---
-title: "EMobilityServiceProvider Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-emobilityserviceprovider"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-emobilityserviceprovider"
 <!-- EMobilityServiceProvider.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/EMobilityServiceProvider"></a>
 <a title="EMobilityServiceProvider Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-emobilityserviceprovider"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EMobilityServiceProvider</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct EMobilityServiceProvider : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EMobilityServiceProvider</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>eMSP (e-Mobility Service Provider) for which the EV station operator has EV roaming agreements.
@@ -68,7 +61,7 @@ It may change but the respective <code><a href="../Structs/EMobilityServiceProvi
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var name: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ It can be used for filtering when searching for EV charging stations.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var partnerId: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">partnerId</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ It can be used for filtering when searching for EV charging stations.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(name: String? = nil, partnerId: String? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">partnerId</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -135,8 +128,8 @@ It can be used for filtering when searching for EV charging stations.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

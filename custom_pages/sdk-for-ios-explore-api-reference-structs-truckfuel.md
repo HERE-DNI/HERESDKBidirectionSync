@@ -1,5 +1,5 @@
 ---
-title: "TruckFuel Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-truckfuel"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-truckfuel"
 <!-- TruckFuel.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/TruckFuel"></a>
 <a title="TruckFuel Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-truckfuel"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TruckFuel</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct TruckFuel : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TruckFuel</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Contains truck fuel type info of fuel station.
@@ -67,7 +60,7 @@ Note: This is a BETA feature and thus subject to change.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var type: TruckFuelType</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-truckfueltype">TruckFuelType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ Note: This is a BETA feature and thus subject to change.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maximumTruckClass: TruckClass?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maximumTruckClass</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-truckclass">TruckClass</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -117,7 +110,7 @@ Note: This is a BETA feature and thus subject to change.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(type: TruckFuelType, maximumTruckClass: TruckClass? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-truckfueltype">TruckFuelType</a></span><span class="p">,</span> <span class="nv">maximumTruckClass</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-truckclass">TruckClass</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -133,8 +126,8 @@ Note: This is a BETA feature and thus subject to change.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

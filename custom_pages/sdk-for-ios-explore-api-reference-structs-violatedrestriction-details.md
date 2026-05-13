@@ -1,5 +1,5 @@
 ---
-title: "Details Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-violatedrestriction-details"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-violatedrestriction-details"
 <!-- Details.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/Details"></a>
 <a title="Details Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-violatedrestriction-details"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Details</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct Details : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Details</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Optional restriction details, contains additional information depending on the specific violation, zero or more member might be set.
@@ -72,7 +65,7 @@ exceeds this value.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxWeightPerAxleInKilograms: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxWeightPerAxleInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -99,7 +92,7 @@ exceeds this value.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxWeightPerAxleGroupInKilograms: MaxAxleGroupWeight?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxWeightPerAxleGroupInKilograms</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-maxaxlegroupweight">MaxAxleGroupWeight</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -126,7 +119,7 @@ exceeds this value.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxHeightInCentimeters: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxHeightInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -153,7 +146,7 @@ exceeds this value.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxWidthInCentimeters: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxWidthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -180,7 +173,7 @@ exceeds this value.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxLengthInCentimeters: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxLengthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -207,7 +200,7 @@ is within this range.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var forbiddenAxleCount: IntegerRange?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">forbiddenAxleCount</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-integerrange">IntegerRange</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -234,7 +227,7 @@ is within this range.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var forbiddenTrailerCount: IntegerRange?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">forbiddenTrailerCount</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-integerrange">IntegerRange</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -264,7 +257,7 @@ indicated on a road sign. Additional legal restrictions might apply when transpo
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var forbiddenHazardousGoods: [HazardousMaterial]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">forbiddenHazardousGoods</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-hazardousmaterial">HazardousMaterial</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -292,7 +285,7 @@ exceeds this value.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxTunnelCategory: TunnelCategory?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxTunnelCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-tunnelcategory">TunnelCategory</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -318,8 +311,8 @@ parameter used for route calculation.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.27.0. Use <code>forbidden_truck_category</code> instead.")
-public var forbiddenTruckType: TruckType?</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Use <code>forbidden_truck_category</code> instead.")</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">forbiddenTruckType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-trucktype">TruckType</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -345,7 +338,7 @@ parameter used for route calculation.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var forbiddenTruckCategory: TruckCategory?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">forbiddenTruckCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-truckcategory">TruckCategory</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -370,7 +363,7 @@ parameter used for route calculation.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var forbiddenTruckRoadTypes: [TruckRoadType]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">forbiddenTruckRoadTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-truckroadtype">TruckRoadType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -396,7 +389,7 @@ This property will be set if the <code><a href="../../Structs/AvoidanceOptions.h
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var routingZoneReference: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routingZoneReference</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -423,7 +416,7 @@ exceeds this value.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxPayloadCapacityInKilograms: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxPayloadCapacityInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -448,7 +441,7 @@ exceeds this value.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var timeRule: TimeRule?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">timeRule</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-timerule">TimeRule</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -475,7 +468,7 @@ parameter used for route calculation exceeds this value.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxWeight: VehicleRestrictionMaxWeight?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxWeight</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclerestrictionmaxweight">VehicleRestrictionMaxWeight</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -501,7 +494,7 @@ This property will be set if the <code><a href="../../Structs/VehicleSpecificati
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxNumberOfTires: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxNumberOfTires</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -529,7 +522,7 @@ exceeds the specified value.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxKingpinToRearAxleDistanceInCentimeters: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxKingpinToRearAxleDistanceInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -610,7 +603,7 @@ exceeds the specified value.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(maxWeightPerAxleInKilograms: Int32? = nil, maxWeightPerAxleGroupInKilograms: MaxAxleGroupWeight? = nil, maxHeightInCentimeters: Int32? = nil, maxWidthInCentimeters: Int32? = nil, maxLengthInCentimeters: Int32? = nil, forbiddenAxleCount: IntegerRange? = nil, forbiddenTrailerCount: IntegerRange? = nil, forbiddenHazardousGoods: [HazardousMaterial] = [], maxTunnelCategory: TunnelCategory? = nil, forbiddenTruckCategory: TruckCategory? = nil, forbiddenTruckRoadTypes: [TruckRoadType] = [], routingZoneReference: String? = nil, maxPayloadCapacityInKilograms: Int32? = nil, timeRule: TimeRule? = nil, maxWeight: VehicleRestrictionMaxWeight? = nil, maxNumberOfTires: Int32? = nil, maxKingpinToRearAxleDistanceInCentimeters: Int32? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">maxWeightPerAxleInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxWeightPerAxleGroupInKilograms</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-maxaxlegroupweight">MaxAxleGroupWeight</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxHeightInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxWidthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxLengthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">forbiddenAxleCount</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-integerrange">IntegerRange</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">forbiddenTrailerCount</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-integerrange">IntegerRange</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">forbiddenHazardousGoods</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-hazardousmaterial">HazardousMaterial</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">maxTunnelCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-tunnelcategory">TunnelCategory</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">forbiddenTruckCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-truckcategory">TruckCategory</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">forbiddenTruckRoadTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-truckroadtype">TruckRoadType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">routingZoneReference</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxPayloadCapacityInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">timeRule</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-timerule">TimeRule</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxWeight</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclerestrictionmaxweight">VehicleRestrictionMaxWeight</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxNumberOfTires</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxKingpinToRearAxleDistanceInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -693,8 +686,8 @@ exceeds the specified value.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated)
-public init(maxWeightPerAxleInKilograms: Int32? = nil, maxWeightPerAxleGroupInKilograms: MaxAxleGroupWeight? = nil, maxHeightInCentimeters: Int32? = nil, maxWidthInCentimeters: Int32? = nil, maxLengthInCentimeters: Int32? = nil, forbiddenAxleCount: IntegerRange? = nil, forbiddenTrailerCount: IntegerRange? = nil, forbiddenHazardousGoods: [HazardousMaterial] = [], maxTunnelCategory: TunnelCategory? = nil, forbiddenTruckType: TruckType? = nil, forbiddenTruckCategory: TruckCategory? = nil, forbiddenTruckRoadTypes: [TruckRoadType] = [], routingZoneReference: String? = nil, maxPayloadCapacityInKilograms: Int32? = nil, timeRule: TimeRule? = nil, maxWeight: VehicleRestrictionMaxWeight? = nil, maxNumberOfTires: Int32? = nil, maxKingpinToRearAxleDistanceInCentimeters: Int32? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated)</span>
+<span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">maxWeightPerAxleInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxWeightPerAxleGroupInKilograms</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-maxaxlegroupweight">MaxAxleGroupWeight</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxHeightInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxWidthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxLengthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">forbiddenAxleCount</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-integerrange">IntegerRange</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">forbiddenTrailerCount</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-integerrange">IntegerRange</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">forbiddenHazardousGoods</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-hazardousmaterial">HazardousMaterial</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">maxTunnelCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-tunnelcategory">TunnelCategory</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">forbiddenTruckType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-trucktype">TruckType</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">forbiddenTruckCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-truckcategory">TruckCategory</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">forbiddenTruckRoadTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-truckroadtype">TruckRoadType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">routingZoneReference</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxPayloadCapacityInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">timeRule</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-timerule">TimeRule</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxWeight</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclerestrictionmaxweight">VehicleRestrictionMaxWeight</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxNumberOfTires</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxKingpinToRearAxleDistanceInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -710,8 +703,8 @@ public init(maxWeightPerAxleInKilograms: Int32? = nil, maxWeightPerAxleGroupInKi
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

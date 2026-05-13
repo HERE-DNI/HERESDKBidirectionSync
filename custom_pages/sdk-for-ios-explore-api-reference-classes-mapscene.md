@@ -1,5 +1,5 @@
 ---
-title: "MapScene Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscene"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapscene"
 <!-- MapScene.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapScene"></a>
 <a title="MapScene Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,16 +29,16 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapscene"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapScene</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapScene</code></pre>
-<pre><code>extension MapScene: NativeBase</code></pre>
-<pre><code>extension MapScene: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapScene</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapScene</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapScene</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents a map scene and exposes the functionality to manipulate its content.</p>
-
+<h2 class="heading" id="map-schemes">Map schemes</h2>
 <p>The content of the displayed map and how it looks is specified by a
 <code><a href="sdk-for-ios-explore-api-reference-..-enums-mapscheme">MapScheme</a></code> which is set when loading a scene with <code>MapScene.loadScene(MapScheme, MapScene.LoadSceneCompletionHandler?)</code>.
 It is also possible to load your own custom map scheme from a file bundled
@@ -60,7 +53,7 @@ with your application. Supported file formats are:</p>
 <li>custom assets folder: ‘<root folder="">/assets’</root></li>
 </ul></li>
 </ul>
-
+<h2 class="heading" id="map-features">Map features</h2>
 <p>Different map schemes offer different sets of features, for example showing traffic or 3D buildings.
 Some features have multiple modes of operation, but most have only one.
 <code><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC20getSupportedFeaturesSDySSSaySSGGyF">MapScene.getSupportedFeatures(...)</a></code> can be used to check what features and modes are supported
@@ -71,11 +64,11 @@ constants for feature and mode names.</p>
 <p>Since version 4.15.0, map features cannot be controlled using <code><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC18setLayerVisibility9layerName10visibilityySS_AA0F5StateOtF">MapScene.setLayerVisibility(...)</a></code>, since <code><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC18setLayerVisibility9layerName10visibilityySS_AA0F5StateOtF">MapScene.setLayerVisibility(...)</a></code> controls
 only visibility of the layers which are corresponding to the features enabled either by <code><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">MapScene.enableFeatures(...)</a></code>
 or enabled by default for the scene.</p>
-
+<h2 class="heading" id="map-layers">Map layers</h2>
 <p>A map scheme is organized in layers, which can be controlled using <code><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC18setLayerVisibility9layerName10visibilityySS_AA0F5StateOtF">MapScene.setLayerVisibility(...)</a></code>.
 It’s possible to change the visibility state of any map layer as long as the name is known.</p>
 <p>Layer visibility settings persist between scene reloading.</p>
-
+<h2 class="heading" id="user-content">User content</h2>
 <p>User generated content can be visualised on the map using <code><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline">MapPolyline</a></code>, <code><a href="sdk-for-ios-explore-api-reference-..-classes-mappolygon">MapPolygon</a></code>, <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker">MapMarker</a></code>,
 <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarkercluster">MapMarkerCluster</a></code>, <code><a href="sdk-for-ios-explore-api-reference-..-classes-maparrow">MapArrow</a></code>, <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3d">MapMarker3D</a></code> and <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapimageoverlay">MapImageOverlay</a></code>
 (collectively referred to as “map items”). Those can be added to and removed
@@ -114,7 +107,7 @@ the scene.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias LoadSceneCompletionHandler = (_ loadSceneError: MapError?) -&gt; Void</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">LoadSceneCompletionHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">loadSceneError</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-maperror">MapError</a></span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 <div>
@@ -177,7 +170,7 @@ Provides access to a MapSceneLights instance that controls the lights in the sce
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var lights: MapSceneLights { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">lights</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapscenelights">MapSceneLights</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -203,9 +196,9 @@ Provides access to a MapSceneLights instance that controls the lights in the sce
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class MapPickFilter</code></pre>
-<pre><code>extension MapScene.MapPickFilter: NativeBase</code></pre>
-<pre><code>extension MapScene.MapPickFilter: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapPickFilter</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapscene">MapScene</a></span><span class="o">.</span><span class="kt">MapPickFilter</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapscene">MapScene</a></span><span class="o">.</span><span class="kt">MapPickFilter</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -237,7 +230,7 @@ scene configuration.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func loadScene(mapScheme: MapScheme, completion: MapScene.LoadSceneCompletionHandler?)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">loadScene</span><span class="p">(</span><span class="nv">mapScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-mapscheme">MapScheme</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kt">MapScene</span><span class="o">.</span><span class="kt"><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC04LoadC17CompletionHandlera">LoadSceneCompletionHandler</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -299,7 +292,7 @@ scene configuration.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func loadScene(fromFile configurationFile: String, completion: MapScene.LoadSceneCompletionHandler?)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">loadScene</span><span class="p">(</span><span class="n">fromFile</span> <span class="nv">configurationFile</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kt">MapScene</span><span class="o">.</span><span class="kt"><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC04LoadC17CompletionHandlera">LoadSceneCompletionHandler</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -364,7 +357,7 @@ scene configuration.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func loadScene(fromFile configurationFile: String, watermarkStyle: WatermarkStyle, completion: MapScene.LoadSceneCompletionHandler?)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">loadScene</span><span class="p">(</span><span class="n">fromFile</span> <span class="nv">configurationFile</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">watermarkStyle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-watermarkstyle">WatermarkStyle</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kt">MapScene</span><span class="o">.</span><span class="kt"><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC04LoadC17CompletionHandlera">LoadSceneCompletionHandler</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -447,7 +440,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func loadScene(options: MapSceneLoadOptions, completion: MapScene.LoadSceneCompletionHandler?)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">loadScene</span><span class="p">(</span><span class="nv">options</span><span class="p">:</span> <span class="kt"><a href="../Maps.html#/s:7heresdk19MapSceneLoadOptionsC">MapSceneLoadOptions</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kt">MapScene</span><span class="o">.</span><span class="kt"><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC04LoadC17CompletionHandlera">LoadSceneCompletionHandler</a></span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -503,7 +496,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func addMapPolyline(_ mapPolyline: MapPolyline)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addMapPolyline</span><span class="p">(</span><span class="n">_</span> <span class="nv">mapPolyline</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline">MapPolyline</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -554,7 +547,7 @@ A guide on how to achieve this can be found towards the end of the <code>MapScen
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func addMapPolylines(_ mapPolylines: [MapPolyline])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addMapPolylines</span><span class="p">(</span><span class="n">_</span> <span class="nv">mapPolylines</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline">MapPolyline</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -598,7 +591,7 @@ A guide on how to achieve this can be found towards the end of the <code>MapScen
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeMapPolyline(_ mapPolyline: MapPolyline)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeMapPolyline</span><span class="p">(</span><span class="n">_</span> <span class="nv">mapPolyline</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline">MapPolyline</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -642,7 +635,7 @@ A guide on how to achieve this can be found towards the end of the <code>MapScen
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeMapPolylines(_ mapPolylines: [MapPolyline])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeMapPolylines</span><span class="p">(</span><span class="n">_</span> <span class="nv">mapPolylines</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline">MapPolyline</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -686,7 +679,7 @@ A guide on how to achieve this can be found towards the end of the <code>MapScen
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeAllMapPolylines()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeAllMapPolylines</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -718,7 +711,7 @@ A guide on how to achieve this can be found towards the end of the <code>MapScen
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func addMapArrow(_ mapArrow: MapArrow)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addMapArrow</span><span class="p">(</span><span class="n">_</span> <span class="nv">mapArrow</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-maparrow">MapArrow</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -762,7 +755,7 @@ A guide on how to achieve this can be found towards the end of the <code>MapScen
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeMapArrow(_ mapArrow: MapArrow)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeMapArrow</span><span class="p">(</span><span class="n">_</span> <span class="nv">mapArrow</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-maparrow">MapArrow</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -807,7 +800,7 @@ has no effect. Adding a marker that is already part of a map marker cluster has 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func addMapMarker(_ marker: MapMarker)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addMapMarker</span><span class="p">(</span><span class="n">_</span> <span class="nv">marker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -858,7 +851,7 @@ A guide on how to achieve this can be found towards the end of the <code>MapScen
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func addMapMarkers(_ markers: [MapMarker])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addMapMarkers</span><span class="p">(</span><span class="n">_</span> <span class="nv">markers</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -903,7 +896,7 @@ a part of this scene or belongs to a marker cluster has no effect.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeMapMarker(_ marker: MapMarker)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeMapMarker</span><span class="p">(</span><span class="n">_</span> <span class="nv">marker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -948,7 +941,7 @@ a part of this scene or belong to a marker cluster has no effect.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeMapMarkers(_ markers: [MapMarker])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeMapMarkers</span><span class="p">(</span><span class="n">_</span> <span class="nv">markers</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -992,7 +985,7 @@ a part of this scene or belong to a marker cluster has no effect.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeAllMapMarkers()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeAllMapMarkers</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -1019,7 +1012,7 @@ has no effect.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func addMapMarkerCluster(_ cluster: MapMarkerCluster)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addMapMarkerCluster</span><span class="p">(</span><span class="n">_</span> <span class="nv">cluster</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarkercluster">MapMarkerCluster</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1064,7 +1057,7 @@ scene has no effect.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeMapMarkerCluster(_ cluster: MapMarkerCluster)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeMapMarkerCluster</span><span class="p">(</span><span class="n">_</span> <span class="nv">cluster</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarkercluster">MapMarkerCluster</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1116,7 +1109,7 @@ A guide on how to achieve this can be found towards the end of the <code>MapScen
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func addMapMarker3d(_ marker: MapMarker3D)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addMapMarker3d</span><span class="p">(</span><span class="n">_</span> <span class="nv">marker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3d">MapMarker3D</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1167,7 +1160,7 @@ A guide on how to achieve this can be found towards the end of the <code>MapScen
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func addMapMarkers3d(_ markers: [MapMarker3D])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addMapMarkers3d</span><span class="p">(</span><span class="n">_</span> <span class="nv">markers</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3d">MapMarker3D</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -1212,7 +1205,7 @@ scene has no effect.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeMapMarker3d(_ marker: MapMarker3D)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeMapMarker3d</span><span class="p">(</span><span class="n">_</span> <span class="nv">marker</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3d">MapMarker3D</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1257,7 +1250,7 @@ a part of this scene has no effect.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeMapMarkers3d(_ markers: [MapMarker3D])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeMapMarkers3d</span><span class="p">(</span><span class="n">_</span> <span class="nv">markers</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3d">MapMarker3D</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -1301,7 +1294,7 @@ a part of this scene has no effect.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeAllMapMarkers3d()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeAllMapMarkers3d</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -1333,7 +1326,7 @@ A guide on how to achieve this can be found towards the end of the <code>MapScen
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func addMapPolygon(_ mapPolygon: MapPolygon)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addMapPolygon</span><span class="p">(</span><span class="n">_</span> <span class="nv">mapPolygon</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolygon">MapPolygon</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1384,7 +1377,7 @@ A guide on how to achieve this can be found towards the end of the <code>MapScen
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func addMapPolygons(_ mapPolygons: [MapPolygon])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addMapPolygons</span><span class="p">(</span><span class="n">_</span> <span class="nv">mapPolygons</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolygon">MapPolygon</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -1428,7 +1421,7 @@ A guide on how to achieve this can be found towards the end of the <code>MapScen
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeMapPolygon(_ mapPolygon: MapPolygon)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeMapPolygon</span><span class="p">(</span><span class="n">_</span> <span class="nv">mapPolygon</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolygon">MapPolygon</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1472,7 +1465,7 @@ A guide on how to achieve this can be found towards the end of the <code>MapScen
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeMapPolygons(_ mapPolygons: [MapPolygon])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeMapPolygons</span><span class="p">(</span><span class="n">_</span> <span class="nv">mapPolygons</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolygon">MapPolygon</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -1516,7 +1509,7 @@ A guide on how to achieve this can be found towards the end of the <code>MapScen
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeAllMapPolygons()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeAllMapPolygons</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -1542,7 +1535,7 @@ Adding the same overlay instance multiple times has no effect.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func addMapImageOverlay(_ overlay: MapImageOverlay)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addMapImageOverlay</span><span class="p">(</span><span class="n">_</span> <span class="nv">overlay</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapimageoverlay">MapImageOverlay</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1587,7 +1580,7 @@ Removing an overlay instance that is not part of this scene has no effect.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeMapImageOverlay(_ overlay: MapImageOverlay)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeMapImageOverlay</span><span class="p">(</span><span class="n">_</span> <span class="nv">overlay</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapimageoverlay">MapImageOverlay</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1633,7 +1626,7 @@ It is much faster than removing the objects one by one.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeAllMapItems()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeAllMapItems</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -1658,7 +1651,7 @@ It is much faster than removing the objects one by one.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setLayerVisibility(layerName: String, visibility: VisibilityState)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setLayerVisibility</span><span class="p">(</span><span class="nv">layerName</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">visibility</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-visibilitystate">VisibilityState</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1718,7 +1711,7 @@ and the value is the active mode.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func getActiveFeatures() -&gt; [String : String]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getActiveFeatures</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt">String</span> <span class="p">:</span> <span class="kt">String</span><span class="p">]</span></code></pre>
 </div>
 </div>
 <div>
@@ -1751,7 +1744,7 @@ and the value is a list of modes for that feature.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func getSupportedFeatures() -&gt; [String : [String]]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getSupportedFeatures</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt">String</span> <span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]]</span></code></pre>
 </div>
 </div>
 <div>
@@ -1787,7 +1780,7 @@ feature mode names.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func enableFeatures(_ features: [String : String])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">enableFeatures</span><span class="p">(</span><span class="n">_</span> <span class="nv">features</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span> <span class="p">:</span> <span class="kt">String</span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -1838,7 +1831,7 @@ Unsupported features are ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func disableFeatures(_ features: [String])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">disableFeatures</span><span class="p">(</span><span class="n">_</span> <span class="nv">features</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -1886,7 +1879,7 @@ calling this method may take slightly longer than calling one of the <code>loadS
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func reloadScene()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">reloadScene</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -1902,8 +1895,8 @@ calling this method may take slightly longer than calling one of the <code>loadS
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "MeshBuilder Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-meshbuilder"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-meshbuilder"
 <!-- MeshBuilder.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MeshBuilder"></a>
 <a title="MeshBuilder Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-meshbuilder"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MeshBuilder</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MeshBuilder</code></pre>
-<pre><code>extension MeshBuilder: NativeBase</code></pre>
-<pre><code>extension MeshBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MeshBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MeshBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MeshBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Builder for meshes. Such meshes can contain different kinds of primitives, like quads or
@@ -49,32 +42,33 @@ triangles. Both primitives support adding texture coordinates that are mapped to
 corners of the primitives. See <code><a href="sdk-for-ios-explore-api-reference-..-classes-trianglemeshbuilder">TriangleMeshBuilder</a></code> and <code><a href="sdk-for-ios-explore-api-reference-..-classes-quadmeshbuilder">QuadMeshBuilder</a></code> for more details.</p>
 <p>Note: Normals cannot be set as they are not necessary when using the <code>MeshBuilder</code>.</p>
 <p><strong>Example how to build a cube using <code><a href="sdk-for-ios-explore-api-reference-..-classes-quadmeshbuilder">QuadMeshBuilder</a></code></strong></p>
-<pre><code>let cube = MeshBuilder()
-.quad(a: Point3D(x: 0.5, y: 0.5, z: 0.5),
-b: Point3D(x: -0.5, y: 0.5, z: 0.5),
-c: Point3D(x: 0.5, y: -0.5, z: 0.5),
-d: Point3D(x: -0.5, y: -0.5, z: 0.5))
-.quad(a: Point3D(x: -0.5, y: 0.5, z: -0.5),
-b: Point3D(x: 0.5, y: 0.5, z: -0.5),
-c: Point3D(x: -0.5, y: -0.5, z: -0.5),
-d: Point3D(x: 0.5, y: -0.5, z: -0.5))
-.quad(a: Point3D(x: 0.5, y: 0.5, z: -0.5),
-b: Point3D(x: 0.5, y: 0.5, z: 0.5),
-c: Point3D(x: 0.5, y: -0.5, z: -0.5),
-d: Point3D(x: 0.5, y: -0.5, z: 0.5))
-.quad(a: Point3D(x: -0.5, y: 0.5, z: 0.5),
-b: Point3D(x: -0.5, y: 0.5, z: -0.5),
-c: Point3D(x: -0.5, y: -0.5, z: 0.5),
-d: Point3D(x: -0.5, y: -0.5, z: -0.5))
-.quad(a: Point3D(x: -0.5, y: 0.5, z: 0.5),
-b: Point3D(x: 0.5, y: 0.5, z: 0.5),
-c: Point3D(x: -0.5, y: 0.5, z: -0.5),
-d: Point3D(x: 0.5, y: 0.5, z: -0.5))
-.quad(a: Point3D(x: 0.5, y: -0.5, z: 0.5),
-b: Point3D(x: -0.5, y: -0.5, z: 0.5),
-c: Point3D(x: 0.5, y: -0.5, z: -0.5),
-d: Point3D(x: -0.5, y: -0.5, z: -0.5))
-.build()</code></pre>
+<pre class="highlight swift"><code><span class="k">let</span> <span class="nv">cube</span> <span class="o">=</span> <span class="kt">MeshBuilder</span><span class="p">()</span>
+    <span class="o">.</span><span class="nf">quad</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">b</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">c</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">d</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">))</span>
+    <span class="o">.</span><span class="nf">quad</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">b</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">c</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">d</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">))</span>
+    <span class="o">.</span><span class="nf">quad</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">b</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">c</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">d</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">))</span>
+    <span class="o">.</span><span class="nf">quad</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">b</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">c</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">d</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">))</span>
+    <span class="o">.</span><span class="nf">quad</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">b</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">c</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">d</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">))</span>
+    <span class="o">.</span><span class="nf">quad</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">b</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">c</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">),</span>
+          <span class="nv">d</span><span class="p">:</span> <span class="kt">Point3D</span><span class="p">(</span><span class="nv">x</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">y</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">,</span> <span class="nv">z</span><span class="p">:</span> <span class="o">-</span><span class="mf">0.5</span><span class="p">))</span>
+    <span class="o">.</span><span class="nf">build</span><span class="p">()</span>
+</code></pre>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -98,7 +92,7 @@ d: Point3D(x: -0.5, y: -0.5, z: -0.5))
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -125,7 +119,7 @@ triangles are expected to have counter-clockwise winding.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func triangle(a: Point3D, b: Point3D, c: Point3D) -&gt; TriangleMeshBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">triangle</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point3d">Point3D</a></span><span class="p">,</span> <span class="nv">b</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point3d">Point3D</a></span><span class="p">,</span> <span class="nv">c</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point3d">Point3D</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-trianglemeshbuilder">TriangleMeshBuilder</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -199,7 +193,7 @@ counter-clockwise winding.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func quad(a: Point3D, b: Point3D, c: Point3D, d: Point3D) -&gt; QuadMeshBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">quad</span><span class="p">(</span><span class="nv">a</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point3d">Point3D</a></span><span class="p">,</span> <span class="nv">b</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point3d">Point3D</a></span><span class="p">,</span> <span class="nv">c</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point3d">Point3D</a></span><span class="p">,</span> <span class="nv">d</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point3d">Point3D</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-quadmeshbuilder">QuadMeshBuilder</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -282,7 +276,7 @@ counter-clockwise winding.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func build() -&gt; Mesh?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">build</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="../Maps.html#/s:7heresdk4MeshC">Mesh</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -302,8 +296,8 @@ counter-clockwise winding.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

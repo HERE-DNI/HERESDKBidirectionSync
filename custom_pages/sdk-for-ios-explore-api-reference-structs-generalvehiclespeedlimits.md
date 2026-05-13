@@ -1,5 +1,5 @@
 ---
-title: "GeneralVehicleSpeedLimits Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-generalvehiclespeedlimits"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-generalvehiclespeedlimits"
 <!-- GeneralVehicleSpeedLimits.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/GeneralVehicleSpeedLimits"></a>
 <a title="GeneralVehicleSpeedLimits Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-generalvehiclespeedlimits"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>GeneralVehicleSpeedLimits</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct GeneralVehicleSpeedLimits : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">GeneralVehicleSpeedLimits</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Contains the speed limits for vehicles in a country / state.</p>
@@ -67,7 +60,7 @@ It is <code>nil</code> if the general speed limit on highways for the country / 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxSpeedHighwaysInMetersPerSecond: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxSpeedHighwaysInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ It is <code>nil</code> if the general speed limit on rural roads for the country
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxSpeedRuralInMetersPerSecond: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxSpeedRuralInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ It is <code>nil</code> if the general speed limit on urban roads for the country
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxSpeedUrbanInMetersPerSecond: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxSpeedUrbanInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -145,7 +138,7 @@ It is <code>nil</code> if the general speed limit when raining for the country /
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxSpeedRainingInMetersPerSecond: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxSpeedRainingInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -171,7 +164,7 @@ It is <code>nil</code> if the general speed limit when snowing for the country /
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxSpeedSnowingInMetersPerSecond: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxSpeedSnowingInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -197,7 +190,7 @@ It is <code>nil</code> if the general speed limit at night for the country / sta
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxSpeedNightInMetersPerSecond: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxSpeedNightInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -223,7 +216,7 @@ It is <code>nil</code> if the minimum speed on highways for the country / state 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var minSpeedHighwaysInMetersPerSecond: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">minSpeedHighwaysInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -248,7 +241,7 @@ It is <code>nil</code> if the minimum speed on highways for the country / state 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(maxSpeedHighwaysInMetersPerSecond: Double? = nil, maxSpeedRuralInMetersPerSecond: Double? = nil, maxSpeedUrbanInMetersPerSecond: Double? = nil, maxSpeedRainingInMetersPerSecond: Double? = nil, maxSpeedSnowingInMetersPerSecond: Double? = nil, maxSpeedNightInMetersPerSecond: Double? = nil, minSpeedHighwaysInMetersPerSecond: Double? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">maxSpeedHighwaysInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxSpeedRuralInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxSpeedUrbanInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxSpeedRainingInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxSpeedSnowingInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxSpeedNightInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">minSpeedHighwaysInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -264,8 +257,8 @@ It is <code>nil</code> if the minimum speed on highways for the country / state 
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "ChargingConnectorType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 <!-- ChargingConnectorType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/ChargingConnectorType"></a>
 <a title="ChargingConnectorType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>ChargingConnectorType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum ChargingConnectorType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">ChargingConnectorType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Available charging connector types.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case iec62196Type1Combo</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">iec62196Type1Combo</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case iec62196Type2Combo</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">iec62196Type2Combo</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case chademo</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">chademo</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tesla</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tesla</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case gbtDc</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">gbtDc</span></code></pre>
 </div>
 </div>
 </section>
@@ -191,7 +184,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case saeJ3400</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">saeJ3400</span></code></pre>
 </div>
 </div>
 </section>
@@ -215,7 +208,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static var allCases: [ChargingConnectorType] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">var</span> <span class="nv">allCases</span><span class="p">:</span> <span class="p">[</span><span class="kt">ChargingConnectorType</span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -241,7 +234,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum Key : CodingKey</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">Key</span> <span class="p">:</span> <span class="kt">CodingKey</span></code></pre>
 </div>
 </div>
 </section>
@@ -267,7 +260,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum CodingError : Error</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">CodingError</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -292,7 +285,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(from decoder: Decoder) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">from</span> <span class="nv">decoder</span><span class="p">:</span> <span class="kt">Decoder</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 </section>
@@ -317,7 +310,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func encode(to encoder: Encoder) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">encode</span><span class="p">(</span><span class="n">to</span> <span class="nv">encoder</span><span class="p">:</span> <span class="kt">Encoder</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 </section>
@@ -333,8 +326,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

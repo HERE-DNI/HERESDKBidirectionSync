@@ -1,5 +1,5 @@
 ---
-title: "TileGeoBoundsCalculator Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-tilegeoboundscalculator"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-tilegeoboundscalculator"
 <!-- TileGeoBoundsCalculator.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/TileGeoBoundsCalculator"></a>
 <a title="TileGeoBoundsCalculator Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-tilegeoboundscalculator"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TileGeoBoundsCalculator</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class TileGeoBoundsCalculator</code></pre>
-<pre><code>extension TileGeoBoundsCalculator: NativeBase</code></pre>
-<pre><code>extension TileGeoBoundsCalculator: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TileGeoBoundsCalculator</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TileGeoBoundsCalculator</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TileGeoBoundsCalculator</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>A calculator of geodetic bounds for tiles identified by keys generated
@@ -71,7 +64,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ tilingScheme: TilingScheme)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">tilingScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-tilingscheme">TilingScheme</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -115,7 +108,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func boundsOf(_ tileKey: TileKey) -&gt; GeoBox</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">boundsOf</span><span class="p">(</span><span class="n">_</span> <span class="nv">tileKey</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tilekey">TileKey</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geobox">GeoBox</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -156,8 +149,8 @@ provided at this <code>TileGeoBoundsCalculator</code> instance creation.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

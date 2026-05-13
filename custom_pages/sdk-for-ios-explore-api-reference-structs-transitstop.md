@@ -1,5 +1,5 @@
 ---
-title: "TransitStop Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-transitstop"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-transitstop"
 <!-- TransitStop.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/TransitStop"></a>
 <a title="TransitStop Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-transitstop"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TransitStop</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct TransitStop : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TransitStop</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>A transit stop between the departure and destination of a transit section.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-transitstop"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var departure: TransitDeparture</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">departure</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transitdeparture">TransitDeparture</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ Defaults to <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var duration: TimeInterval?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ Defaults to <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(departure: TransitDeparture, duration: TimeInterval? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">departure</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transitdeparture">TransitDeparture</a></span><span class="p">,</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -134,8 +127,8 @@ Defaults to <code>nil</code>.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

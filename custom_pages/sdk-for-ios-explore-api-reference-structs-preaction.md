@@ -1,5 +1,5 @@
 ---
-title: "PreAction Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-preaction"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-preaction"
 <!-- PreAction.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/PreAction"></a>
 <a title="PreAction Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-preaction"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>PreAction</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct PreAction : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">PreAction</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>An action that must be done prior to the section, i.e. boarding a ferry.</p>
@@ -67,7 +60,7 @@ Defaults to <code><a href="../Enums/PreActionType.html#/s:7heresdk13PreActionTyp
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var action: PreActionType</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">action</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-preactiontype">PreActionType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ Defaults to 0 seconds.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var duration: TimeInterval</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt">TimeInterval</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ Defaults to 0 seconds.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(action: PreActionType = PreActionType.board, duration: TimeInterval = 0)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">action</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-preactiontype">PreActionType</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-preactiontype">PreActionType</a></span><span class="o">.</span><span class="n">board</span><span class="p">,</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt">TimeInterval</span> <span class="o">=</span> <span class="mi">0</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -134,8 +127,8 @@ Defaults to 0 seconds.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

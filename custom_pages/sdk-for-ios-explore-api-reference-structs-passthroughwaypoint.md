@@ -1,5 +1,5 @@
 ---
-title: "PassThroughWaypoint Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-passthroughwaypoint"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-passthroughwaypoint"
 <!-- PassThroughWaypoint.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/PassThroughWaypoint"></a>
 <a title="PassThroughWaypoint Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-passthroughwaypoint"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>PassThroughWaypoint</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct PassThroughWaypoint : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">PassThroughWaypoint</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>This structure provides all the information for a passthrough waypoint. The location information and offset of the waypoint are stored in
@@ -67,7 +60,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-passthroughwaypoint"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var place: RoutePlace</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">place</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routeplace">RoutePlace</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-passthroughwaypoint"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var offset: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">offset</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -117,7 +110,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-passthroughwaypoint"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(place: RoutePlace, offset: Int32? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">place</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routeplace">RoutePlace</a></span><span class="p">,</span> <span class="nv">offset</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -133,8 +126,8 @@ slug: "sdk-for-ios-explore-api-reference-structs-passthroughwaypoint"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "PointDataAccessor Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-pointdataaccessor"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-pointdataaccessor"
 <!-- PointDataAccessor.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/PointDataAccessor"></a>
 <a title="PointDataAccessor Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-pointdataaccessor"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>PointDataAccessor</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class PointDataAccessor</code></pre>
-<pre><code>extension PointDataAccessor: NativeBase</code></pre>
-<pre><code>extension PointDataAccessor: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PointDataAccessor</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PointDataAccessor</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PointDataAccessor</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Point data accessor used for manipulating points that are part of a PointDataSource.</p>
@@ -70,7 +63,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func getCoordinates() -&gt; GeoCoordinates</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getCoordinates</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -99,7 +92,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func getAttributes() -&gt; DataAttributesAccessor</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getAttributes</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-dataattributesaccessor">DataAttributesAccessor</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -128,7 +121,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setCoordinates(_ position: GeoCoordinates)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setCoordinates</span><span class="p">(</span><span class="n">_</span> <span class="nv">position</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -172,7 +165,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setAttributes(_ attributes: DataAttributes)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setAttributes</span><span class="p">(</span><span class="n">_</span> <span class="nv">attributes</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-dataattributes">DataAttributes</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -207,8 +200,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

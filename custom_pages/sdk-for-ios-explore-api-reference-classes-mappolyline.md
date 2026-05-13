@@ -1,5 +1,5 @@
 ---
-title: "MapPolyline Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolyline"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolyline"
 <!-- MapPolyline.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapPolyline"></a>
 <a title="MapPolyline Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolyline"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapPolyline</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapPolyline</code></pre>
-<pre><code>extension MapPolyline: NativeBase</code></pre>
-<pre><code>extension MapPolyline: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapPolyline</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapPolyline</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapPolyline</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>A visual representation of a line on the map.</p>
@@ -74,7 +67,7 @@ appearance must be done with <code><a href="../Classes/MapPolyline.html#/s:7here
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(geometry: GeoPolyline, representation: MapPolyline.Representation)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">geometry</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geopolyline">GeoPolyline</a></span><span class="p">,</span> <span class="nv">representation</span><span class="p">:</span> <span class="kt">MapPolyline</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline-representation">Representation</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -131,7 +124,7 @@ Altitude component of <code><a href="sdk-for-ios-explore-api-reference-..-struct
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var geometry: GeoPolyline { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">geometry</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geopolyline">GeoPolyline</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -157,7 +150,7 @@ This will be <code>nil</code> if nothing has been attached before.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var metadata: Metadata? { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">metadata</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-metadata">Metadata</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -188,7 +181,7 @@ The default draw order is 0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var drawOrder: Int32 { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">drawOrder</span><span class="p">:</span> <span class="kt">Int32</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -225,7 +218,7 @@ and keeping high frame rates when many similar polylines (with same styling attr
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var drawOrderType: DrawOrderType { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">drawOrderType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-drawordertype">DrawOrderType</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -255,7 +248,7 @@ Only <code><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasurerange
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var visibilityRanges: [MapMeasureRange] { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">visibilityRanges</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasurerange">MapMeasureRange</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -285,7 +278,7 @@ point retains the line color and outline color along with an optional dash patte
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var progress: Double { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">progress</span><span class="p">:</span> <span class="kt">Double</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -311,7 +304,7 @@ The default progress color is opaque white.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var progressColor: UIColor { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">progressColor</span><span class="p">:</span> <span class="kt">UIColor</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -337,7 +330,7 @@ The default progress color is opaque white.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var progressOutlineColor: UIColor { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">progressOutlineColor</span><span class="p">:</span> <span class="kt">UIColor</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -371,7 +364,7 @@ When setting the attribute with with unsupported values, the operation is ignore
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var progressGradientLength: MapMeasureDependentRenderSize { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">progressGradientLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -400,7 +393,7 @@ Map content categories overlapping the polyline geometry
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var mapContentCategoriesToBlock: [MapContentCategory] { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">mapContentCategoriesToBlock</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-mapcontentcategory">MapContentCategory</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -426,7 +419,7 @@ Map content categories overlapping the polyline geometry
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class Representation : MapItemRepresentation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">Representation</span> <span class="p">:</span> <span class="kt"><a href="../Maps.html#/s:7heresdk21MapItemRepresentationC">MapItemRepresentation</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -464,7 +457,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class DashImageRepresentation : MapPolyline.Representation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">DashImageRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline-representation">Representation</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -496,7 +489,7 @@ multiple values.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class SolidRepresentation : MapPolyline.Representation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">SolidRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline-representation">Representation</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -525,7 +518,7 @@ like <code>'  —  —  —  —'</code> (dash length = gap length) or <code>' �
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class DashRepresentation : MapPolyline.Representation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">DashRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline-representation">Representation</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -566,7 +559,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class SolidMultiColorRepresentation : MapPolyline.Representation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">SolidMultiColorRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline-representation">Representation</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -591,7 +584,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setRepresentation(_ representation: MapPolyline.Representation)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setRepresentation</span><span class="p">(</span><span class="n">_</span> <span class="nv">representation</span><span class="p">:</span> <span class="kt">MapPolyline</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline-representation">Representation</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -639,7 +632,7 @@ Any ongoing animation of this map polyline will get cancelled.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func startAnimation(_ animation: MapPolylineAnimation, animationDelegate: AnimationDelegate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">startAnimation</span><span class="p">(</span><span class="n">_</span> <span class="nv">animation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolylineanimation">MapPolylineAnimation</a></span><span class="p">,</span> <span class="nv">animationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-animationdelegate">AnimationDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -698,7 +691,7 @@ Does not affect other polylines that might be running this animation.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func cancelAnimation(_ animation: MapPolylineAnimation)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">cancelAnimation</span><span class="p">(</span><span class="n">_</span> <span class="nv">animation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolylineanimation">MapPolylineAnimation</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -733,8 +726,8 @@ Does not affect other polylines that might be running this animation.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

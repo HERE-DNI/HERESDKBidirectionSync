@@ -1,5 +1,5 @@
 ---
-title: "EVChargingConnector Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingconnector"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingconnector"
 <!-- EVChargingConnector.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/EVChargingConnector"></a>
 <a title="EVChargingConnector Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingconnector"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVChargingConnector</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct EVChargingConnector : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingConnector</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents a connector at the charging point.
@@ -68,7 +61,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var id: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">id</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ Should be one of the constants defined in <code><a href="sdk-for-ios-explore-api
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var connectorType: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">connectorType</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ Should be one of the constants defined in <code><a href="sdk-for-ios-explore-api
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var format: EVChargingConnectorFormat</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">format</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evchargingconnectorformat">EVChargingConnectorFormat</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -144,7 +137,7 @@ Should be one of the constants defined in <code><a href="sdk-for-ios-explore-api
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var powerType: PowerType</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">powerType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-powertype">PowerType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -169,7 +162,7 @@ Should be one of the constants defined in <code><a href="sdk-for-ios-explore-api
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxVoltageInVolts: Int32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxVoltageInVolts</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
 </section>
@@ -194,7 +187,7 @@ Should be one of the constants defined in <code><a href="sdk-for-ios-explore-api
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxCurrentInAmperes: Int32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxCurrentInAmperes</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
 </section>
@@ -221,7 +214,7 @@ voltage and amperage.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxPowerInWatts: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxPowerInWatts</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -246,7 +239,7 @@ voltage and amperage.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var termsAndConditionsUrl: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">termsAndConditionsUrl</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -273,7 +266,7 @@ Available only if <code>EVChargingLocationFeature.TARIFFS</code> is included in
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var tariffIndexes: [Int32]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tariffIndexes</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -298,7 +291,7 @@ Available only if <code>EVChargingLocationFeature.TARIFFS</code> is included in
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(id: String = "", connectorType: String = "", format: EVChargingConnectorFormat = EVChargingConnectorFormat.socket, powerType: PowerType = PowerType.ac1phase, maxVoltageInVolts: Int32 = 0, maxCurrentInAmperes: Int32 = 0, maxPowerInWatts: Int32? = nil, termsAndConditionsUrl: String? = nil, tariffIndexes: [Int32] = [])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">id</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">""</span><span class="p">,</span> <span class="nv">connectorType</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">""</span><span class="p">,</span> <span class="nv">format</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evchargingconnectorformat">EVChargingConnectorFormat</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evchargingconnectorformat">EVChargingConnectorFormat</a></span><span class="o">.</span><span class="n">socket</span><span class="p">,</span> <span class="nv">powerType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-powertype">PowerType</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-powertype">PowerType</a></span><span class="o">.</span><span class="n">ac1phase</span><span class="p">,</span> <span class="nv">maxVoltageInVolts</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">maxCurrentInAmperes</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">maxPowerInWatts</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">termsAndConditionsUrl</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">tariffIndexes</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>
@@ -314,8 +307,8 @@ Available only if <code>EVChargingLocationFeature.TARIFFS</code> is included in
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

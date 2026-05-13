@@ -1,5 +1,5 @@
 ---
-title: "LocationDelegate Protocol Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-protocols-locationdelegate"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-protocols-locationdelegate"
 <!-- LocationDelegate.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Protocol/LocationDelegate"></a>
 <a title="LocationDelegate Protocol Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-locationdelegate"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>LocationDelegate</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public protocol LocationDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">LocationDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 <p>This protocol should be implemented in order to receive notifications
@@ -74,7 +67,7 @@ Invoked on the main thread.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func onLocationUpdated(_ location: Location)</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onLocationUpdated</span><span class="p">(</span><span class="n">_</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-location">Location</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -109,8 +102,8 @@ Invoked on the main thread.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

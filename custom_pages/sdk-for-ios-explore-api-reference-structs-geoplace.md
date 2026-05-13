@@ -1,5 +1,5 @@
 ---
-title: "GeoPlace Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-geoplace"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-geoplace"
 <!-- GeoPlace.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/GeoPlace"></a>
 <a title="GeoPlace Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-geoplace"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>GeoPlace</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct GeoPlace : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">GeoPlace</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>GeoPlace struct represents a location object:
@@ -69,7 +62,7 @@ Note: This String can be empty when no data is available.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var title: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">title</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -97,7 +90,7 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var externalIDs: [ExternalID]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">externalIDs</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-externalid">ExternalID</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -122,7 +115,7 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var type: PlaceType</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-placetype">PlaceType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -148,7 +141,7 @@ Note: This list can be empty when no data is available.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var categories: [PlaceCategory]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">categories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -174,7 +167,7 @@ Note: Address can have default value when no data is available.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var address: Address</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">address</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-address">Address</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -200,7 +193,7 @@ Note: Can be <code>nil</code> when retrieved from a suggestion’s place propert
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var location: LocationDetails?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-locationdetails">LocationDetails</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -226,7 +219,7 @@ Note: BusinessDetails can have default value when no data is available.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var business: BusinessDetails</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">business</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-businessdetails">BusinessDetails</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -252,7 +245,7 @@ Note: WebDetails can have default value when no data is available.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var web: WebDetails</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">web</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-webdetails">WebDetails</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -277,7 +270,7 @@ Note: WebDetails can have default value when no data is available.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(title: String = "", externalIDs: [ExternalID] = [], type: PlaceType = PlaceType.unknown, categories: [PlaceCategory] = [], address: Address = Address(), location: LocationDetails? = nil, business: BusinessDetails = BusinessDetails(), web: WebDetails = WebDetails())</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">title</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">""</span><span class="p">,</span> <span class="nv">externalIDs</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-externalid">ExternalID</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-placetype">PlaceType</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-placetype">PlaceType</a></span><span class="o">.</span><span class="n">unknown</span><span class="p">,</span> <span class="nv">categories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-placecategory">PlaceCategory</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">address</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-address">Address</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-address">Address</a></span><span class="p">(),</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-locationdetails">LocationDetails</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">business</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-businessdetails">BusinessDetails</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-businessdetails">BusinessDetails</a></span><span class="p">(),</span> <span class="nv">web</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-webdetails">WebDetails</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-webdetails">WebDetails</a></span><span class="p">())</span></code></pre>
 </div>
 </div>
 </section>
@@ -303,7 +296,7 @@ and all properties containing lists will contain empty lists.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func makeMyPlace(title: String, coordinates: GeoCoordinates) -&gt; GeoPlace</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">makeMyPlace</span><span class="p">(</span><span class="nv">title</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">GeoPlace</span></code></pre>
 </div>
 </div>
 <div>
@@ -363,7 +356,7 @@ and all properties containing lists will contain empty lists.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func getID() -&gt; String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getID</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 <div>
@@ -392,7 +385,7 @@ and all properties containing lists will contain empty lists.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func isMyPlace() -&gt; Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">isMyPlace</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -412,8 +405,8 @@ and all properties containing lists will contain empty lists.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

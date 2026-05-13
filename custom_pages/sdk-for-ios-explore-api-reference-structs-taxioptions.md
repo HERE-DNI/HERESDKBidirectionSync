@@ -1,5 +1,5 @@
 ---
-title: "TaxiOptions Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-taxioptions"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-taxioptions"
 <!-- TaxiOptions.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/TaxiOptions"></a>
 <a title="TaxiOptions Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,11 +29,11 @@ slug: "sdk-for-ios-explore-api-reference-structs-taxioptions"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TaxiOptions</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.")
-public struct TaxiOptions : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.")</span>
+<span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TaxiOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>All the options to specify how a taxi route should be calculated. See, <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO4taxiyA2CmF">TransportMode.taxi</a></code>.</p>
@@ -69,7 +62,7 @@ the street a passenger wants to leave the taxi.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var routeOptions: RouteOptions</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routeOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routeoptions">RouteOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ as localization, format, and unit system.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var textOptions: RouteTextOptions</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">textOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routetextoptions">RouteTextOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -121,7 +114,7 @@ no restrictions are applied.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var avoidanceOptions: AvoidanceOptions</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">avoidanceOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-avoidanceoptions">AvoidanceOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -147,7 +140,7 @@ such as transponders, vehicle category, and emission type.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var tollOptions: TollOptions</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tollOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tolloptions">TollOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -180,7 +173,7 @@ routing is performed without considering them.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var lastCharacterOfLicensePlate: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">lastCharacterOfLicensePlate</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -205,7 +198,7 @@ routing is performed without considering them.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxSpeedOnSegments: [MaxSpeedOnSegment]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxSpeedOnSegments</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-maxspeedonsegment">MaxSpeedOnSegment</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -232,7 +225,7 @@ before the route destination.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var allowDriveThroughTaxiRoads: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">allowDriveThroughTaxiRoads</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -257,7 +250,7 @@ before the route destination.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var carSpecifications: CarSpecifications</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">carSpecifications</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-carspecifications">CarSpecifications</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -282,7 +275,7 @@ before the route destination.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -307,7 +300,7 @@ before the route destination.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(routeOptions: RouteOptions, textOptions: RouteTextOptions, avoidanceOptions: AvoidanceOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">routeOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routeoptions">RouteOptions</a></span><span class="p">,</span> <span class="nv">textOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routetextoptions">RouteTextOptions</a></span><span class="p">,</span> <span class="nv">avoidanceOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-avoidanceoptions">AvoidanceOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -323,8 +316,8 @@ before the route destination.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

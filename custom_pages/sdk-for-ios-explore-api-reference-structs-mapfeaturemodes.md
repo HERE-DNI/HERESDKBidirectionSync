@@ -1,5 +1,5 @@
 ---
-title: "MapFeatureModes Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-mapfeaturemodes"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapfeaturemodes"
 <!-- MapFeatureModes.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/MapFeatureModes"></a>
 <a title="MapFeatureModes Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapfeaturemodes"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapFeatureModes</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct MapFeatureModes</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MapFeatureModes</span></code></pre>
 </div>
 </div>
 <p>Holds constants for map feature modes, to be used with <code><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC14enableFeaturesyySDyS2SGF">MapScene.enableFeatures(...)</a></code>.</p>
@@ -71,7 +64,7 @@ using <code><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC17getActiveFe
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let defaultMode: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">defaultMode</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -96,7 +89,7 @@ using <code><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC17getActiveFe
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let buildingFootprintsAll: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">buildingFootprintsAll</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -121,7 +114,7 @@ using <code><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC17getActiveFe
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let congestionZonesAll: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">congestionZonesAll</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -146,7 +139,7 @@ using <code><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC17getActiveFe
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let extrudedBuildingsAll: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">extrudedBuildingsAll</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -171,7 +164,7 @@ using <code><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC17getActiveFe
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let environmentalZonesAll: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">environmentalZonesAll</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -196,7 +189,7 @@ using <code><a href="../Classes/MapScene.html#/s:7heresdk8MapSceneC17getActiveFe
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let lowSpeedZonesAll: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">lowSpeedZonesAll</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -226,7 +219,7 @@ the <code><a href="../Structs/MapFeatureModes.html#/s:7heresdk15MapFeatureModesV
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let trafficFlowJapanWithoutFreeFlow: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">trafficFlowJapanWithoutFreeFlow</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -251,7 +244,7 @@ the <code><a href="../Structs/MapFeatureModes.html#/s:7heresdk15MapFeatureModesV
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let trafficFlowWithFreeFlow: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">trafficFlowWithFreeFlow</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -276,7 +269,7 @@ the <code><a href="../Structs/MapFeatureModes.html#/s:7heresdk15MapFeatureModesV
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let trafficFlowWithoutFreeFlow: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">trafficFlowWithoutFreeFlow</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -301,7 +294,7 @@ the <code><a href="../Structs/MapFeatureModes.html#/s:7heresdk15MapFeatureModesV
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let trafficIncidentsAll: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">trafficIncidentsAll</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -326,7 +319,7 @@ the <code><a href="../Structs/MapFeatureModes.html#/s:7heresdk15MapFeatureModesV
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let trafficLightsAll: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">trafficLightsAll</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -351,7 +344,7 @@ the <code><a href="../Structs/MapFeatureModes.html#/s:7heresdk15MapFeatureModesV
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let roadExitLabelsNumbersOnly: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">roadExitLabelsNumbersOnly</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -376,7 +369,7 @@ the <code><a href="../Structs/MapFeatureModes.html#/s:7heresdk15MapFeatureModesV
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let roadExitLabelsAll: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">roadExitLabelsAll</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -403,7 +396,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let shadowsAll: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">shadowsAll</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -430,7 +423,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static let ambientOcclusionAll: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="k">let</span> <span class="nv">ambientOcclusionAll</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -446,8 +439,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "PointDataSource Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-pointdatasource"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-pointdatasource"
 <!-- PointDataSource.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/PointDataSource"></a>
 <a title="PointDataSource Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-pointdatasource"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>PointDataSource</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class PointDataSource</code></pre>
-<pre><code>extension PointDataSource: NativeBase</code></pre>
-<pre><code>extension PointDataSource: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PointDataSource</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PointDataSource</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PointDataSource</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Point data source allows the rendering engine access to the user provided
@@ -71,7 +64,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias PointDataProcessor = (_ pointAccessor: PointDataAccessor) -&gt; Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">PointDataProcessor</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">pointAccessor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-pointdataaccessor">PointDataAccessor</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -120,7 +113,7 @@ Altitude of the point coordinates is ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func add(_ point: PointData)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">add</span><span class="p">(</span><span class="n">_</span> <span class="nv">point</span><span class="p">:</span> <span class="kt"><a href="../Maps.html#/s:7heresdk9PointDataC">PointData</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -165,7 +158,7 @@ Altitude of the points coordinates is ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func add(_ points: [PointData])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">add</span><span class="p">(</span><span class="n">_</span> <span class="nv">points</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="../Maps.html#/s:7heresdk9PointDataC">PointData</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -209,7 +202,7 @@ Altitude of the points coordinates is ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeAll()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeAll</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -237,7 +230,7 @@ from the process call.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func forEach(_ processor: @escaping PointDataSource.PointDataProcessor)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">forEach</span><span class="p">(</span><span class="n">_</span> <span class="nv">processor</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt">PointDataSource</span><span class="o">.</span><span class="kt"><a href="../Classes/PointDataSource.html#/s:7heresdk15PointDataSourceC0bC9Processora">PointDataProcessor</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -283,7 +276,7 @@ The inspector cannot update the point data.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeIf(_ processor: @escaping PointDataSource.PointDataProcessor)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeIf</span><span class="p">(</span><span class="n">_</span> <span class="nv">processor</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt">PointDataSource</span><span class="o">.</span><span class="kt"><a href="../Classes/PointDataSource.html#/s:7heresdk15PointDataSourceC0bC9Processora">PointDataProcessor</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -318,8 +311,8 @@ The inspector cannot update the point data.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

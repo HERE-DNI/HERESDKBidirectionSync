@@ -1,5 +1,5 @@
 ---
-title: "PlaceFilter Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-placefilter"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-placefilter"
 <!-- PlaceFilter.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/PlaceFilter"></a>
 <a title="PlaceFilter Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-placefilter"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>PlaceFilter</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct PlaceFilter : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">PlaceFilter</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The filter options to specify a place.
@@ -75,7 +68,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var fuelTypes: [FuelType]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">fuelTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-fueltype">FuelType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -104,7 +97,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var truckFuelTypes: [TruckFuelType]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckFuelTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-truckfueltype">TruckFuelType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -135,7 +128,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var truckClass: TruckClass?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">truckClass</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-truckclass">TruckClass</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -160,7 +153,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var ev: PlaceFilter.Ev</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">ev</span><span class="p">:</span> <span class="kt">PlaceFilter</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-placefilter-ev">Ev</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -218,7 +211,7 @@ Otherwise will result in <code><a href="../Enums/SearchError.html#/s:7heresdk11S
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(fuelTypes: [FuelType] = [], truckFuelTypes: [TruckFuelType] = [], truckClass: TruckClass? = nil, ev: PlaceFilter.Ev = PlaceFilter.Ev())</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">fuelTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-fueltype">FuelType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">truckFuelTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-truckfueltype">TruckFuelType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">truckClass</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-truckclass">TruckClass</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">ev</span><span class="p">:</span> <span class="kt">PlaceFilter</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-placefilter-ev">Ev</a></span> <span class="o">=</span> <span class="kt">PlaceFilter</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-placefilter-ev">Ev</a></span><span class="p">())</span></code></pre>
 </div>
 </div>
 </section>
@@ -244,7 +237,7 @@ Otherwise will result in <code><a href="../Enums/SearchError.html#/s:7heresdk11S
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct Ev : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Ev</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -260,8 +253,8 @@ Otherwise will result in <code><a href="../Enums/SearchError.html#/s:7heresdk11S
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

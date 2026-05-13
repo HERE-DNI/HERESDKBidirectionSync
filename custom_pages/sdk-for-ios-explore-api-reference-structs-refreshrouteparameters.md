@@ -1,5 +1,5 @@
 ---
-title: "RefreshRouteParameters Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-refreshrouteparameters"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-refreshrouteparameters"
 <!-- RefreshRouteParameters.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/RefreshRouteParameters"></a>
 <a title="RefreshRouteParameters Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-refreshrouteparameters"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RefreshRouteParameters</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct RefreshRouteParameters : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">RefreshRouteParameters</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>This struct provides the necessary information for refreshing a route from a
@@ -67,7 +60,7 @@ specific location on it.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var routeHandle: RouteHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routeHandle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routehandle">RouteHandle</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -101,7 +94,7 @@ In that case, an application may decide to calculate a new route from scratch.</
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var startingPoint: Waypoint?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">startingPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -128,7 +121,7 @@ is not found in that section an <code><a href="../Enums/RoutingError.html#/s:7he
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var startingSectionIndex: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">startingSectionIndex</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -155,7 +148,7 @@ would ignore the first part of the section. If it is provided with an invalid st
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var traveledDistanceOnStartingSectionInMeters: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">traveledDistanceOnStartingSectionInMeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -180,7 +173,7 @@ would ignore the first part of the section. If it is provided with an invalid st
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(routeHandle: RouteHandle, startingPoint: Waypoint)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">routeHandle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routehandle">RouteHandle</a></span><span class="p">,</span> <span class="nv">startingPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -236,7 +229,7 @@ would ignore the first part of the section. If it is provided with an invalid st
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(routeHandle: RouteHandle, startingSectionIndex: Int32, traveledDistanceOnStartingSectionInMeters: Int32)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">routeHandle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routehandle">RouteHandle</a></span><span class="p">,</span> <span class="nv">startingSectionIndex</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">traveledDistanceOnStartingSectionInMeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -304,7 +297,7 @@ would ignore the first part of the section. If it is provided with an invalid st
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(routeHandle: RouteHandle, startingPoint: Waypoint, startingSectionIndex: Int32, traveledDistanceOnStartingSectionInMeters: Int32)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">routeHandle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routehandle">RouteHandle</a></span><span class="p">,</span> <span class="nv">startingPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-waypoint">Waypoint</a></span><span class="p">,</span> <span class="nv">startingSectionIndex</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">traveledDistanceOnStartingSectionInMeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -375,8 +368,8 @@ would ignore the first part of the section. If it is provided with an invalid st
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

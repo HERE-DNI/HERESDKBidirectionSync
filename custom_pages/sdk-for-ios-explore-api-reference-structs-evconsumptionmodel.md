@@ -1,5 +1,5 @@
 ---
-title: "EVConsumptionModel Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-evconsumptionmodel"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-evconsumptionmodel"
 <!-- EVConsumptionModel.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/EVConsumptionModel"></a>
 <a title="EVConsumptionModel Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-evconsumptionmodel"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVConsumptionModel</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct EVConsumptionModel : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVConsumptionModel</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Parameters specific for the electric vehicle, which are then used to calculate
@@ -70,7 +63,7 @@ At minimum, you must provide <code><a href="../Structs/EVConsumptionModel.html#/
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var ascentConsumptionInWattHoursPerMeter: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">ascentConsumptionInWattHoursPerMeter</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ At minimum, you must provide <code><a href="../Structs/EVConsumptionModel.html#/
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var descentRecoveryInWattHoursPerMeter: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">descentRecoveryInWattHoursPerMeter</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -130,7 +123,7 @@ used for all possible speed keys.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var freeFlowSpeedTable: [Int32 : Double]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">freeFlowSpeedTable</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span> <span class="p">:</span> <span class="kt">Double</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -169,7 +162,7 @@ energy consumption.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var trafficSpeedTable: [Int32 : Double]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">trafficSpeedTable</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span> <span class="p">:</span> <span class="kt">Double</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -195,7 +188,7 @@ energy consumption.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var auxiliaryConsumptionInWattHoursPerSecond: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">auxiliaryConsumptionInWattHoursPerSecond</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -220,7 +213,7 @@ energy consumption.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(ascentConsumptionInWattHoursPerMeter: Double = 0.0, descentRecoveryInWattHoursPerMeter: Double = 0.0, freeFlowSpeedTable: [Int32 : Double] = [:], trafficSpeedTable: [Int32 : Double] = [:], auxiliaryConsumptionInWattHoursPerSecond: Double = 0.0)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">ascentConsumptionInWattHoursPerMeter</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">descentRecoveryInWattHoursPerMeter</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">freeFlowSpeedTable</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span> <span class="p">:</span> <span class="kt">Double</span><span class="p">]</span> <span class="o">=</span> <span class="p">[:],</span> <span class="nv">trafficSpeedTable</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span> <span class="p">:</span> <span class="kt">Double</span><span class="p">]</span> <span class="o">=</span> <span class="p">[:],</span> <span class="nv">auxiliaryConsumptionInWattHoursPerSecond</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -236,8 +229,8 @@ energy consumption.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

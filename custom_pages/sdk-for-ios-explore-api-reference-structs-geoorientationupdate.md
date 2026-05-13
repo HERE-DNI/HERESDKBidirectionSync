@@ -1,5 +1,5 @@
 ---
-title: "GeoOrientationUpdate Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-geoorientationupdate"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-geoorientationupdate"
 <!-- GeoOrientationUpdate.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/GeoOrientationUpdate"></a>
 <a title="GeoOrientationUpdate Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-geoorientationupdate"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>GeoOrientationUpdate</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct GeoOrientationUpdate : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">GeoOrientationUpdate</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Describes geodetic orientation update with bearing and tilt.
@@ -69,7 +62,7 @@ A <code>nil</code> value means that bearing is not updated and the current value
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let bearing: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">bearing</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -96,7 +89,7 @@ A <code>nil</code> value means that tilt is not updated and the current value is
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let tilt: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">tilt</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -120,7 +113,7 @@ A <code>nil</code> value means that tilt is not updated and the current value is
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(bearing: Double?, tilt: Double?)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">bearing</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?,</span> <span class="nv">tilt</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?)</span></code></pre>
 </div>
 </div>
 <div>
@@ -178,7 +171,7 @@ NaN value is converted to <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ orientation: GeoOrientation)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">orientation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geoorientation">GeoOrientation</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -213,8 +206,8 @@ NaN value is converted to <code>nil</code>.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

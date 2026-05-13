@@ -1,5 +1,5 @@
 ---
-title: "WebDetails Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-webdetails"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-webdetails"
 <!-- WebDetails.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/WebDetails"></a>
 <a title="WebDetails Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-webdetails"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>WebDetails</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct WebDetails : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">WebDetails</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Contains information about images, editorials, rating and a urls to them.</p>
@@ -68,7 +61,7 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var images: [WebImage]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">images</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-webimage">WebImage</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var editorials: [WebEditorial]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">editorials</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-webeditorial">WebEditorial</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -122,7 +115,7 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var ratings: [WebRating]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">ratings</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-webrating">WebRating</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -147,7 +140,7 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(images: [WebImage] = [], editorials: [WebEditorial] = [], ratings: [WebRating] = [])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">images</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-webimage">WebImage</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">editorials</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-webeditorial">WebEditorial</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">ratings</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-webrating">WebRating</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>
@@ -163,8 +156,8 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

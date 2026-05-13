@@ -1,5 +1,5 @@
 ---
-title: "TransitMode Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 <!-- TransitMode.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/TransitMode"></a>
 <a title="TransitMode Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TransitMode</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum TransitMode : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TransitMode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Public transit mode</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case highSpeedTrain</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">highSpeedTrain</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case intercityTrain</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">intercityTrain</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case interRegionalTrain</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">interRegionalTrain</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case regionalTrain</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">regionalTrain</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cityTrain</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cityTrain</span></code></pre>
 </div>
 </div>
 </section>
@@ -191,7 +184,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bus</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bus</span></code></pre>
 </div>
 </div>
 </section>
@@ -216,7 +209,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ferry</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ferry</span></code></pre>
 </div>
 </div>
 </section>
@@ -241,7 +234,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case subway</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">subway</span></code></pre>
 </div>
 </div>
 </section>
@@ -266,7 +259,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case lightRail</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">lightRail</span></code></pre>
 </div>
 </div>
 </section>
@@ -291,7 +284,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case privateBus</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">privateBus</span></code></pre>
 </div>
 </div>
 </section>
@@ -316,7 +309,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inclined</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inclined</span></code></pre>
 </div>
 </div>
 </section>
@@ -341,7 +334,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case aerial</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">aerial</span></code></pre>
 </div>
 </div>
 </section>
@@ -366,7 +359,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case busRapid</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">busRapid</span></code></pre>
 </div>
 </div>
 </section>
@@ -391,7 +384,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case monorail</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">monorail</span></code></pre>
 </div>
 </div>
 </section>
@@ -416,7 +409,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case flight</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">flight</span></code></pre>
 </div>
 </div>
 </section>
@@ -432,8 +425,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmode"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

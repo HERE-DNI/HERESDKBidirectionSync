@@ -1,5 +1,5 @@
 ---
-title: "RouteHandle Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-routehandle"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-routehandle"
 <!-- RouteHandle.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/RouteHandle"></a>
 <a title="RouteHandle Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-routehandle"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RouteHandle</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct RouteHandle : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">RouteHandle</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Provides an opaque handle to the calculated <code><a href="sdk-for-ios-explore-api-reference-..-classes-route">Route</a></code>.
@@ -73,7 +66,7 @@ Using an incompatible <code>RouteHandle</code> results in a <code><a href="sdk-f
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var handle: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">handle</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -98,7 +91,7 @@ Using an incompatible <code>RouteHandle</code> results in a <code><a href="sdk-f
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(handle: String)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">handle</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -114,8 +107,8 @@ Using an incompatible <code>RouteHandle</code> results in a <code><a href="sdk-f
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

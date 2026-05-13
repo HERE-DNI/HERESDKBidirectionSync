@@ -1,5 +1,5 @@
 ---
-title: "PolygonDataAccessor Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-polygondataaccessor"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-polygondataaccessor"
 <!-- PolygonDataAccessor.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/PolygonDataAccessor"></a>
 <a title="PolygonDataAccessor Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-polygondataaccessor"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>PolygonDataAccessor</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class PolygonDataAccessor</code></pre>
-<pre><code>extension PolygonDataAccessor: NativeBase</code></pre>
-<pre><code>extension PolygonDataAccessor: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PolygonDataAccessor</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PolygonDataAccessor</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PolygonDataAccessor</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Polygon data accessor used for manipulating polygons that are part of a PolygonDataSource.</p>
@@ -70,7 +63,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func getGeometry() -&gt; GeoPolygon</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getGeometry</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geopolygon">GeoPolygon</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -99,7 +92,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func getAttributes() -&gt; DataAttributesAccessor</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getAttributes</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-dataattributesaccessor">DataAttributesAccessor</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -131,7 +124,7 @@ The outer boundary has to be ordered clockwise and closed.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setGeometry(_ geometry: GeoPolygon)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setGeometry</span><span class="p">(</span><span class="n">_</span> <span class="nv">geometry</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geopolygon">GeoPolygon</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -177,7 +170,7 @@ The visual behaviour for self-intersecting outer boundary is undefined.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setAttributes(_ attributes: DataAttributes)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setAttributes</span><span class="p">(</span><span class="n">_</span> <span class="nv">attributes</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-dataattributes">DataAttributes</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -212,8 +205,8 @@ The visual behaviour for self-intersecting outer boundary is undefined.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

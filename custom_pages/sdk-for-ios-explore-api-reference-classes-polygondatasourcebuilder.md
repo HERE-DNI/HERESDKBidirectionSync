@@ -1,5 +1,5 @@
 ---
-title: "PolygonDataSourceBuilder Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-polygondatasourcebuilder"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-polygondatasourcebuilder"
 <!-- PolygonDataSourceBuilder.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/PolygonDataSourceBuilder"></a>
 <a title="PolygonDataSourceBuilder Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-polygondatasourcebuilder"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>PolygonDataSourceBuilder</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class PolygonDataSourceBuilder</code></pre>
-<pre><code>extension PolygonDataSourceBuilder: NativeBase</code></pre>
-<pre><code>extension PolygonDataSourceBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PolygonDataSourceBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PolygonDataSourceBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PolygonDataSourceBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Builder of the polygons data source.</p>
@@ -70,7 +63,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ context: MapContext)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">context</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext">MapContext</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -114,7 +107,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withName(_ dataSourceName: String) -&gt; PolygonDataSourceBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withName</span><span class="p">(</span><span class="n">_</span> <span class="nv">dataSourceName</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">PolygonDataSourceBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -162,7 +155,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withPolygon(_ polygon: PolygonData) -&gt; PolygonDataSourceBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withPolygon</span><span class="p">(</span><span class="n">_</span> <span class="nv">polygon</span><span class="p">:</span> <span class="kt"><a href="../Maps.html#/s:7heresdk11PolygonDataC">PolygonData</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">PolygonDataSourceBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -210,7 +203,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withPolygons(_ polygon: [PolygonData]) -&gt; PolygonDataSourceBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withPolygons</span><span class="p">(</span><span class="n">_</span> <span class="nv">polygon</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="../Maps.html#/s:7heresdk11PolygonDataC">PolygonData</a></span><span class="p">])</span> <span class="o">-&gt;</span> <span class="kt">PolygonDataSourceBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -258,7 +251,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func build() -&gt; PolygonDataSource</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">build</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-polygondatasource">PolygonDataSource</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -278,8 +271,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

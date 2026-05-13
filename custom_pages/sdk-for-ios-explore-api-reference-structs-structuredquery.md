@@ -1,5 +1,5 @@
 ---
-title: "StructuredQuery Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-structuredquery"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-structuredquery"
 <!-- StructuredQuery.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/StructuredQuery"></a>
 <a title="StructuredQuery Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-structuredquery"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>StructuredQuery</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct StructuredQuery : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">StructuredQuery</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The options to specify a structured query.
@@ -69,7 +62,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var query: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">query</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var areaCenter: GeoCoordinates</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var addressElements: StructuredQuery.AddressElements</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">addressElements</span><span class="p">:</span> <span class="kt">StructuredQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-structuredquery-addresselements">AddressElements</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -144,7 +137,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var resultType: StructuredQuery.ResultType?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">resultType</span><span class="p">:</span> <span class="kt">StructuredQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-structuredquery-resulttype">ResultType</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -169,7 +162,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(query: String, areaCenter: GeoCoordinates, addressElements: StructuredQuery.AddressElements = StructuredQuery.AddressElements(), resultType: StructuredQuery.ResultType? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">query</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">addressElements</span><span class="p">:</span> <span class="kt">StructuredQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-structuredquery-addresselements">AddressElements</a></span> <span class="o">=</span> <span class="kt">StructuredQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-structuredquery-addresselements">AddressElements</a></span><span class="p">(),</span> <span class="nv">resultType</span><span class="p">:</span> <span class="kt">StructuredQuery</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-structuredquery-resulttype">ResultType</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -195,7 +188,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum ResultType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">ResultType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -225,7 +218,7 @@ consider providing city along with it.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct AddressElements : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">AddressElements</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -241,8 +234,8 @@ consider providing city along with it.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

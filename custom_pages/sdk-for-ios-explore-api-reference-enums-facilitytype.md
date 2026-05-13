@@ -1,5 +1,5 @@
 ---
-title: "FacilityType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-facilitytype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-facilitytype"
 <!-- FacilityType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/FacilityType"></a>
 <a title="FacilityType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-facilitytype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>FacilityType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum FacilityType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">FacilityType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Represents facility type available at the location.
@@ -68,7 +61,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case hotel</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">hotel</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case restaurant</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">restaurant</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cafe</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cafe</span></code></pre>
 </div>
 </div>
 </section>
@@ -143,7 +136,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mall</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mall</span></code></pre>
 </div>
 </div>
 </section>
@@ -168,7 +161,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case supermarket</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">supermarket</span></code></pre>
 </div>
 </div>
 </section>
@@ -193,7 +186,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sport</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sport</span></code></pre>
 </div>
 </div>
 </section>
@@ -218,7 +211,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case recreationArea</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">recreationArea</span></code></pre>
 </div>
 </div>
 </section>
@@ -243,7 +236,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case nature</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">nature</span></code></pre>
 </div>
 </div>
 </section>
@@ -268,7 +261,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case museum</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">museum</span></code></pre>
 </div>
 </div>
 </section>
@@ -293,7 +286,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bikeSharing</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bikeSharing</span></code></pre>
 </div>
 </div>
 </section>
@@ -318,7 +311,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case busStop</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">busStop</span></code></pre>
 </div>
 </div>
 </section>
@@ -343,7 +336,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case taxiStand</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">taxiStand</span></code></pre>
 </div>
 </div>
 </section>
@@ -368,7 +361,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tramStop</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tramStop</span></code></pre>
 </div>
 </div>
 </section>
@@ -393,7 +386,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case metroStation</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">metroStation</span></code></pre>
 </div>
 </div>
 </section>
@@ -418,7 +411,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case trainStation</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">trainStation</span></code></pre>
 </div>
 </div>
 </section>
@@ -443,7 +436,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case airport</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">airport</span></code></pre>
 </div>
 </div>
 </section>
@@ -468,7 +461,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case parkingLot</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">parkingLot</span></code></pre>
 </div>
 </div>
 </section>
@@ -493,7 +486,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case carpoolParking</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">carpoolParking</span></code></pre>
 </div>
 </div>
 </section>
@@ -518,7 +511,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case fuelStation</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">fuelStation</span></code></pre>
 </div>
 </div>
 </section>
@@ -543,7 +536,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case wifi</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">wifi</span></code></pre>
 </div>
 </div>
 </section>
@@ -568,7 +561,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case business</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">business</span></code></pre>
 </div>
 </div>
 </section>
@@ -593,7 +586,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case education</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">education</span></code></pre>
 </div>
 </div>
 </section>
@@ -618,7 +611,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case finance</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">finance</span></code></pre>
 </div>
 </div>
 </section>
@@ -643,7 +636,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case health</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">health</span></code></pre>
 </div>
 </div>
 </section>
@@ -668,7 +661,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case service</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">service</span></code></pre>
 </div>
 </div>
 </section>
@@ -693,7 +686,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case store</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">store</span></code></pre>
 </div>
 </div>
 </section>
@@ -709,8 +702,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

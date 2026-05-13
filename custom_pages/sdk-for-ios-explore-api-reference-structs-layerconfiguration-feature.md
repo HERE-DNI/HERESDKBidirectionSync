@@ -1,5 +1,5 @@
 ---
-title: "Feature Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-layerconfiguration-feature"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-layerconfiguration-feature"
 <!-- Feature.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/Feature"></a>
 <a title="Feature Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-layerconfiguration-feature"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Feature</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum Feature : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">Feature</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Defines a list of possible map data features that can be enabled / disabled.
@@ -101,7 +94,7 @@ cache and shown. Increase of 11-16% is to be expected for map size, in case of e
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case detailRendering</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">detailRendering</span></code></pre>
 </div>
 </div>
 </section>
@@ -136,7 +129,7 @@ other layer groups (e.g. routing), so, in total is takes about 21-29 % of map si
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case navigation</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">navigation</span></code></pre>
 </div>
 </div>
 </section>
@@ -168,7 +161,7 @@ work properly when being used offline.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case offlineSearch</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">offlineSearch</span></code></pre>
 </div>
 </div>
 </section>
@@ -230,7 +223,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case offlineSearchGlobal</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">offlineSearchGlobal</span></code></pre>
 </div>
 </div>
 </section>
@@ -265,7 +258,7 @@ that this feature is depended on other layer groups (e.g. navigation), so, in to
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case offlineRouting</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">offlineRouting</span></code></pre>
 </div>
 </div>
 </section>
@@ -295,7 +288,7 @@ that this feature is depended on other layer groups (e.g. navigation), so, in to
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rendering</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rendering</span></code></pre>
 </div>
 </div>
 </section>
@@ -333,7 +326,7 @@ By default this feature is disabled.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case truck</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">truck</span></code></pre>
 </div>
 </div>
 </section>
@@ -368,7 +361,7 @@ Feature enables following OCM layer groups:</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case landmarks3d</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">landmarks3d</span></code></pre>
 </div>
 </div>
 </section>
@@ -398,7 +391,7 @@ Feature enables following OCM layer groups:</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ev</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ev</span></code></pre>
 </div>
 </div>
 </section>
@@ -427,7 +420,7 @@ Feature enables following OCM layer groups:</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case truckServiceAttributes</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">truckServiceAttributes</span></code></pre>
 </div>
 </div>
 </section>
@@ -456,7 +449,7 @@ Feature enables following OCM layer groups:</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case fuelStationAttributes</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">fuelStationAttributes</span></code></pre>
 </div>
 </div>
 </section>
@@ -486,7 +479,7 @@ When not set, the <code>OfflineRoutingEngine</code> may not be able to calculate
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case offlineBusRouting</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">offlineBusRouting</span></code></pre>
 </div>
 </div>
 </section>
@@ -519,7 +512,7 @@ By default this feature is disabled.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case junctionView3x4</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">junctionView3x4</span></code></pre>
 </div>
 </div>
 </section>
@@ -552,7 +545,7 @@ By default this feature is disabled.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case junctionView16x9</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">junctionView16x9</span></code></pre>
 </div>
 </div>
 </section>
@@ -582,7 +575,7 @@ By default this feature is disabled.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case junctionSign3x4</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">junctionSign3x4</span></code></pre>
 </div>
 </div>
 </section>
@@ -612,7 +605,7 @@ By default this feature is disabled.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case junctionSign3x5</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">junctionSign3x5</span></code></pre>
 </div>
 </div>
 </section>
@@ -642,7 +635,7 @@ By default this feature is disabled.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case junctionSign4x3</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">junctionSign4x3</span></code></pre>
 </div>
 </div>
 </section>
@@ -672,7 +665,7 @@ Feature enables following OCM layer groups:</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case junctionSign5x3</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">junctionSign5x3</span></code></pre>
 </div>
 </div>
 </section>
@@ -702,7 +695,7 @@ By default this feature is disabled.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case junctionSign16x9</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">junctionSign16x9</span></code></pre>
 </div>
 </div>
 </section>
@@ -740,7 +733,7 @@ Feature enables following OCM layer groups:</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case terrain</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">terrain</span></code></pre>
 </div>
 </div>
 </section>
@@ -770,7 +763,7 @@ Feature enables following OCM layer groups:</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case detailedTerrain</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">detailedTerrain</span></code></pre>
 </div>
 </div>
 </section>
@@ -801,7 +794,7 @@ Feature enables following OCM layer groups:</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case adas</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">adas</span></code></pre>
 </div>
 </div>
 </section>
@@ -832,7 +825,7 @@ Feature enables following OCM layer groups:</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ehorizon</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ehorizon</span></code></pre>
 </div>
 </div>
 </section>
@@ -863,7 +856,7 @@ Feature enables following OCM layer groups:</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rdsTraffic</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rdsTraffic</span></code></pre>
 </div>
 </div>
 </section>
@@ -879,8 +872,8 @@ Feature enables following OCM layer groups:</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

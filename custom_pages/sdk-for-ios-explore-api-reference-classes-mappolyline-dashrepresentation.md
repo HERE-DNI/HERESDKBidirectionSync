@@ -1,5 +1,5 @@
 ---
-title: "DashRepresentation Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-dashrepresentation"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-dashrepresentation"
 <!-- DashRepresentation.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/DashRepresentation"></a>
 <a title="DashRepresentation Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-dashrepresentation"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>DashRepresentation</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class DashRepresentation : MapPolyline.Representation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">DashRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mappolyline-representation">Representation</a></span></code></pre>
 </div>
 </div>
 <p>Represents a dash pattern for map polyline where the dash can be rendered as a colored
@@ -89,7 +82,7 @@ linearly interpolated between values given for these map measures.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(lineWidth: MapMeasureDependentRenderSize, dashLength: MapMeasureDependentRenderSize, gapLength: MapMeasureDependentRenderSize, dashColor: UIColor) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">dashLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">gapLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">dashColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -187,7 +180,7 @@ linearly interpolated between values given for these map measures.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(lineWidth: MapMeasureDependentRenderSize, dashLength: MapMeasureDependentRenderSize, gapLength: MapMeasureDependentRenderSize, dashColor: UIColor, gapColor: UIColor) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">dashLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">gapLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">dashColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">gapColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -287,7 +280,7 @@ linearly interpolated between values given for these map measures.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var lineWidth: MapMeasureDependentRenderSize { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -320,7 +313,7 @@ linearly interpolated between values given for these map measures.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var dashLength: MapMeasureDependentRenderSize { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">dashLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -353,7 +346,7 @@ linearly interpolated between values given for these map measures.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var gapLength: MapMeasureDependentRenderSize { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">gapLength</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -378,7 +371,7 @@ linearly interpolated between values given for these map measures.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var dashColor: UIColor { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">dashColor</span><span class="p">:</span> <span class="kt">UIColor</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -404,7 +397,7 @@ no color is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var gapColor: UIColor? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">gapColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -420,8 +413,8 @@ no color is used.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

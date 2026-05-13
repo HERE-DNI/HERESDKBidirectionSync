@@ -1,5 +1,5 @@
 ---
-title: "PlatformThreading Protocol Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-protocols-platformthreading"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-protocols-platformthreading"
 <!-- PlatformThreading.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Protocol/PlatformThreading"></a>
 <a title="PlatformThreading Protocol Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-platformthreading"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>PlatformThreading</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public protocol PlatformThreading : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">PlatformThreading</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 <p>Protocol for task activities on the main thread.</p>
@@ -71,7 +64,7 @@ to objects whose lifetimes are critical or references should be released at the 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func runOnMainThread(runnable: Runnable) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">runOnMainThread</span><span class="p">(</span><span class="nv">runnable</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-runnable">Runnable</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -125,7 +118,7 @@ to objects whose lifetimes are critical or references should be released at the 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func postToMainThread(runnable: Runnable, delayMs: UInt64) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">postToMainThread</span><span class="p">(</span><span class="nv">runnable</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-runnable">Runnable</a></span><span class="p">,</span> <span class="nv">delayMs</span><span class="p">:</span> <span class="kt">UInt64</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -189,7 +182,7 @@ to objects whose lifetimes are critical or references should be released at the 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func postToMainThread(runnable: Runnable) -&gt; TaskHandle</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">postToMainThread</span><span class="p">(</span><span class="nv">runnable</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-runnable">Runnable</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-taskhandle">TaskHandle</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -228,8 +221,8 @@ to objects whose lifetimes are critical or references should be released at the 
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

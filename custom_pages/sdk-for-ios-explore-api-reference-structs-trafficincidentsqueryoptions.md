@@ -1,5 +1,5 @@
 ---
-title: "TrafficIncidentsQueryOptions Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-trafficincidentsqueryoptions"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-trafficincidentsqueryoptions"
 <!-- TrafficIncidentsQueryOptions.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/TrafficIncidentsQueryOptions"></a>
 <a title="TrafficIncidentsQueryOptions Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-trafficincidentsqueryoptions"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TrafficIncidentsQueryOptions</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct TrafficIncidentsQueryOptions : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TrafficIncidentsQueryOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The options to specify how incidents should be queried.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-trafficincidentsqueryoptions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var typeFilter: [TrafficIncidentType]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">typeFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-trafficincidenttype">TrafficIncidentType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-trafficincidentsqueryoptions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var impactFilter: [TrafficIncidentImpact]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">impactFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-trafficincidentimpact">TrafficIncidentImpact</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -117,7 +110,7 @@ If the value is null filtering by the earliest start time is not applied.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var earliestStartTime: Date?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">earliestStartTime</span><span class="p">:</span> <span class="kt">Date</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -143,7 +136,7 @@ If the value is null filtering by the latest end time is not applied.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var latestEndTime: Date?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">latestEndTime</span><span class="p">:</span> <span class="kt">Date</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -171,7 +164,7 @@ If the language code is null or not supported then response fields are expected 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var languageCode: LanguageCode?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">languageCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-languagecode">LanguageCode</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -196,7 +189,7 @@ If the language code is null or not supported then response fields are expected 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(typeFilter: [TrafficIncidentType] = [], impactFilter: [TrafficIncidentImpact] = [], earliestStartTime: Date? = nil, latestEndTime: Date? = nil, languageCode: LanguageCode? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">typeFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-trafficincidenttype">TrafficIncidentType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">impactFilter</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-trafficincidentimpact">TrafficIncidentImpact</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">earliestStartTime</span><span class="p">:</span> <span class="kt">Date</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">latestEndTime</span><span class="p">:</span> <span class="kt">Date</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">languageCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-languagecode">LanguageCode</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -212,8 +205,8 @@ If the language code is null or not supported then response fields are expected 
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "GeoPolylineDirection Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-geopolylinedirection"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-geopolylinedirection"
 <!-- GeoPolylineDirection.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/GeoPolylineDirection"></a>
 <a title="GeoPolylineDirection Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-geopolylinedirection"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>GeoPolylineDirection</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum GeoPolylineDirection : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">GeoPolylineDirection</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Defines if a function on a <code><a href="sdk-for-ios-explore-api-reference-..-structs-geopolyline">GeoPolyline</a></code> computes the operation starting from the beginning or
@@ -67,7 +60,7 @@ from the end of <code><a href="../Structs/GeoPolyline.html#/s:7heresdk11GeoPolyl
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case fromBeginning</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">fromBeginning</span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ from the end of <code><a href="../Structs/GeoPolyline.html#/s:7heresdk11GeoPolyl
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case fromEnd</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">fromEnd</span></code></pre>
 </div>
 </div>
 </section>
@@ -108,8 +101,8 @@ from the end of <code><a href="../Structs/GeoPolyline.html#/s:7heresdk11GeoPolyl
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

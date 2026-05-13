@@ -1,5 +1,5 @@
 ---
-title: "GestureState Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-gesturestate"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-gesturestate"
 <!-- GestureState.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/GestureState"></a>
 <a title="GestureState Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-gesturestate"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>GestureState</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum GestureState : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">GestureState</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Represents the state of the gesture.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-gesturestate"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case begin</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">begin</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-gesturestate"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case update</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">update</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-gesturestate"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case end</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">end</span></code></pre>
 </div>
 </div>
 </section>
@@ -142,7 +135,7 @@ due to displaying a modal dialog or the app being sent to background.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cancel</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cancel</span></code></pre>
 </div>
 </div>
 </section>
@@ -158,8 +151,8 @@ due to displaying a modal dialog or the app being sent to background.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

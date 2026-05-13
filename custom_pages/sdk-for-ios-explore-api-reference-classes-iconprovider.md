@@ -1,5 +1,5 @@
 ---
-title: "IconProvider Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-iconprovider"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-iconprovider"
 <!-- IconProvider.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/IconProvider"></a>
 <a title="IconProvider Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-iconprovider"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>IconProvider</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class IconProvider</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">IconProvider</span></code></pre>
 </div>
 </div>
 <p>This provider creates icons from a given set of parameters for map content and constraints for
@@ -74,7 +67,7 @@ Related APIs may change for new releases without a deprecation process.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ mapContext: MapContext)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">mapContext</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext">MapContext</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -124,13 +117,13 @@ Related APIs may change for new releases without a deprecation process.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func createRoadShieldIcon(
-properties: RoadShieldIconProperties,
-mapScheme: MapScheme,
-assetType: IconProviderAssetType,
-widthConstraintInPixels: UInt32,
-heightConstraintInPixels: UInt32,
-callback: @escaping IconProviderCallback)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">createRoadShieldIcon</span><span class="p">(</span>
+    <span class="nv">properties</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-roadshieldiconproperties">RoadShieldIconProperties</a></span><span class="p">,</span>
+    <span class="nv">mapScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-mapscheme">MapScheme</a></span><span class="p">,</span>
+    <span class="nv">assetType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-iconproviderassettype">IconProviderAssetType</a></span><span class="p">,</span>
+    <span class="nv">widthConstraintInPixels</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span>
+    <span class="nv">heightConstraintInPixels</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span>
+    <span class="nv">callback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Maps.html#/s:7heresdk20IconProviderCallbacka">IconProviderCallback</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -233,8 +226,8 @@ type of road and/or place it is used, or an error code.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

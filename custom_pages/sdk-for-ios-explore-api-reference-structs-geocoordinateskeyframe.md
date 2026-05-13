@@ -1,5 +1,5 @@
 ---
-title: "GeoCoordinatesKeyframe Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-geocoordinateskeyframe"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-geocoordinateskeyframe"
 <!-- GeoCoordinatesKeyframe.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/GeoCoordinatesKeyframe"></a>
 <a title="GeoCoordinatesKeyframe Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-geocoordinateskeyframe"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>GeoCoordinatesKeyframe</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct GeoCoordinatesKeyframe : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">GeoCoordinatesKeyframe</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>A GeoCoordinatesKeyframe consists of a GeoCoordinates and an animation duration.</p>
@@ -67,7 +60,7 @@ Altitude component is ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let value: GeoCoordinates</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">value</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ Negative duration value gets clamped to 0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let duration: TimeInterval</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt">TimeInterval</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ Negative duration value gets clamped to 0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(value: GeoCoordinates, duration: TimeInterval)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">value</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -166,8 +159,8 @@ Negative duration value gets clamped to 0.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

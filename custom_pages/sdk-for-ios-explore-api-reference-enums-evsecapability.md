@@ -1,5 +1,5 @@
 ---
-title: "EVSECapability Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-evsecapability"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-evsecapability"
 <!-- EVSECapability.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/EVSECapability"></a>
 <a title="EVSECapability Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-evsecapability"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVSECapability</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum EVSECapability : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EVSECapability</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Represents the administrative functionality that an EVSE is capable of.
@@ -68,7 +61,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case chargingProfile</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">chargingProfile</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case chargingPreferences</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">chargingPreferences</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case remoteStartStop</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">remoteStartStop</span></code></pre>
 </div>
 </div>
 </section>
@@ -143,7 +136,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case reservable</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">reservable</span></code></pre>
 </div>
 </div>
 </section>
@@ -169,7 +162,7 @@ This is handy when a card and key-fob are given to the EV-driver.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tokenGroup</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tokenGroup</span></code></pre>
 </div>
 </div>
 </section>
@@ -194,7 +187,7 @@ This is handy when a card and key-fob are given to the EV-driver.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case unlock</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">unlock</span></code></pre>
 </div>
 </div>
 </section>
@@ -210,8 +203,8 @@ This is handy when a card and key-fob are given to the EV-driver.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "ShadowQuality Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-shadowquality"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-shadowquality"
 <!-- ShadowQuality.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/ShadowQuality"></a>
 <a title="ShadowQuality Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-shadowquality"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>ShadowQuality</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum ShadowQuality : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">ShadowQuality</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>The shadow quality. Controls the quality of the shadow cascade (i.e. the size of the shadow
@@ -67,7 +60,7 @@ maps and the cascade count), which is shared by all views.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case veryLow</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">veryLow</span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ maps and the cascade count), which is shared by all views.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case low</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">low</span></code></pre>
 </div>
 </div>
 </section>
@@ -117,7 +110,7 @@ maps and the cascade count), which is shared by all views.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case medium</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">medium</span></code></pre>
 </div>
 </div>
 </section>
@@ -142,7 +135,7 @@ maps and the cascade count), which is shared by all views.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case high</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">high</span></code></pre>
 </div>
 </div>
 </section>
@@ -167,7 +160,7 @@ maps and the cascade count), which is shared by all views.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case veryHigh</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">veryHigh</span></code></pre>
 </div>
 </div>
 </section>
@@ -183,8 +176,8 @@ maps and the cascade count), which is shared by all views.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

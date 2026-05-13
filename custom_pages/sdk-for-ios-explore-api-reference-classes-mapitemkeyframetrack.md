@@ -1,5 +1,5 @@
 ---
-title: "MapItemKeyFrameTrack Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapitemkeyframetrack"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapitemkeyframetrack"
 <!-- MapItemKeyFrameTrack.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapItemKeyFrameTrack"></a>
 <a title="MapItemKeyFrameTrack Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapitemkeyframetrack"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapItemKeyFrameTrack</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapItemKeyFrameTrack</code></pre>
-<pre><code>extension MapItemKeyFrameTrack: NativeBase</code></pre>
-<pre><code>extension MapItemKeyFrameTrack: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapItemKeyFrameTrack</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapItemKeyFrameTrack</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapItemKeyFrameTrack</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Stores keyframes for interpolation of a map item property using a specific
@@ -71,7 +64,7 @@ see <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarkeranimati
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias InstantiationError = InstantiationErrorCode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapitemkeyframetrack-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -97,8 +90,8 @@ see <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarkeranimati
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum InstantiationErrorCode : UInt32, CaseIterable, Codable</code></pre>
-<pre><code>extension MapItemKeyFrameTrack.InstantiationErrorCode : Error</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapitemkeyframetrack">MapItemKeyFrameTrack</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -129,7 +122,7 @@ coordinates where the map item is positioned.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func moveTo(keyframes: [GeoCoordinatesKeyframe], easing: Easing, interpolationMode: KeyframeInterpolationMode) throws -&gt; MapItemKeyFrameTrack</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">moveTo</span><span class="p">(</span><span class="nv">keyframes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinateskeyframe">GeoCoordinatesKeyframe</a></span><span class="p">],</span> <span class="nv">easing</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-easing">Easing</a></span><span class="p">,</span> <span class="nv">interpolationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a></span><span class="p">)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt">MapItemKeyFrameTrack</span></code></pre>
 </div>
 </div>
 <div>
@@ -208,7 +201,7 @@ at key points of the animation.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func polylineProgress(keyframes: [ScalarKeyframe], easing: Easing, interpolationMode: KeyframeInterpolationMode) throws -&gt; MapItemKeyFrameTrack</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">polylineProgress</span><span class="p">(</span><span class="nv">keyframes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-scalarkeyframe">ScalarKeyframe</a></span><span class="p">],</span> <span class="nv">easing</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-easing">Easing</a></span><span class="p">,</span> <span class="nv">interpolationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a></span><span class="p">)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt">MapItemKeyFrameTrack</span></code></pre>
 </div>
 </div>
 <div>
@@ -272,8 +265,8 @@ over time.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "AuthenticationMode Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-authenticationmode"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-authenticationmode"
 <!-- AuthenticationMode.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/AuthenticationMode"></a>
 <a title="AuthenticationMode Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-authenticationmode"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>AuthenticationMode</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class AuthenticationMode</code></pre>
-<pre><code>extension AuthenticationMode: NativeBase</code></pre>
-<pre><code>extension AuthenticationMode: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">AuthenticationMode</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">AuthenticationMode</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">AuthenticationMode</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>This is a bearer authentication mode which adds or does not add a
@@ -74,7 +67,7 @@ on the main thread of the application.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias AccessTokenProvider = () -&gt; String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">AccessTokenProvider</span> <span class="o">=</span> <span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -103,7 +96,7 @@ on the main thread of the application.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func withToken(accessToken: String) -&gt; AuthenticationMode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">withToken</span><span class="p">(</span><span class="nv">accessToken</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">AuthenticationMode</span></code></pre>
 </div>
 </div>
 <div>
@@ -151,7 +144,7 @@ on the main thread of the application.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func withTokenProvider(tokenProvider: @escaping AuthenticationMode.AccessTokenProvider) -&gt; AuthenticationMode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">withTokenProvider</span><span class="p">(</span><span class="nv">tokenProvider</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt">AuthenticationMode</span><span class="o">.</span><span class="kt"><a href="../Classes/AuthenticationMode.html#/s:7heresdk18AuthenticationModeC19AccessTokenProvidera">AccessTokenProvider</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">AuthenticationMode</span></code></pre>
 </div>
 </div>
 <div>
@@ -199,7 +192,7 @@ on the main thread of the application.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func withExternal() -&gt; AuthenticationMode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">withExternal</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">AuthenticationMode</span></code></pre>
 </div>
 </div>
 <div>
@@ -228,7 +221,7 @@ on the main thread of the application.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func withKeySecret(accessKeyId: String, accessKeySecret: String) -&gt; AuthenticationMode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">withKeySecret</span><span class="p">(</span><span class="nv">accessKeyId</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">accessKeySecret</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">AuthenticationMode</span></code></pre>
 </div>
 </div>
 <div>
@@ -279,8 +272,8 @@ on the main thread of the application.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "MapLayerVisibilityRange Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-maplayervisibilityrange"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-maplayervisibilityrange"
 <!-- MapLayerVisibilityRange.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/MapLayerVisibilityRange"></a>
 <a title="MapLayerVisibilityRange Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-maplayervisibilityrange"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapLayerVisibilityRange</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct MapLayerVisibilityRange : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MapLayerVisibilityRange</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>A layer’s visibility along a zoom level range.
@@ -67,7 +60,7 @@ The range is half open - [minimumZoomLevel, maximumZoomLevel), the given maximum
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let minimumZoomLevel: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">minimumZoomLevel</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ Note that the map layer is not visible at the maximum zoom level.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let maximumZoomLevel: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">maximumZoomLevel</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ Note that the map layer is not visible at the maximum zoom level.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(minimumZoomLevel: Double, maximumZoomLevel: Double)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">minimumZoomLevel</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">maximumZoomLevel</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -134,8 +127,8 @@ Note that the map layer is not visible at the maximum zoom level.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

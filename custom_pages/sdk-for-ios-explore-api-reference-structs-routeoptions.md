@@ -1,5 +1,5 @@
 ---
-title: "RouteOptions Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-routeoptions"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-routeoptions"
 <!-- RouteOptions.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/RouteOptions"></a>
 <a title="RouteOptions Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-routeoptions"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RouteOptions</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct RouteOptions : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">RouteOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The options to specify how the route will be calculated.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-routeoptions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var optimizationMode: OptimizationMode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">optimizationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-optimizationmode">OptimizationMode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -97,7 +90,7 @@ Must be 0 for isoline calculation.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var alternatives: Int32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">alternatives</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
 </section>
@@ -132,7 +125,7 @@ when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var departureTime: Date?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">departureTime</span><span class="p">:</span> <span class="kt">Date</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -167,7 +160,7 @@ when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var arrivalTime: Date?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">arrivalTime</span><span class="p">:</span> <span class="kt">Date</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -197,7 +190,7 @@ which means that no speed cap is set.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var speedCapInMetersPerSecond: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">speedCapInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -224,7 +217,7 @@ Note that a <code><a href="sdk-for-ios-explore-api-reference-..-structs-routehan
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var enableRouteHandle: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">enableRouteHandle</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -249,7 +242,7 @@ Note that a <code><a href="sdk-for-ios-explore-api-reference-..-structs-routehan
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var trafficOptimizationMode: TrafficOptimizationMode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">trafficOptimizationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-trafficoptimizationmode">TrafficOptimizationMode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -279,7 +272,7 @@ so there could be a few bugs and unexpected behaviors. The <code>OfflineRoutingE
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var enableTolls: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">enableTolls</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -311,7 +304,7 @@ Defaults to <code>false</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var optimizeWaypointsOrder: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">optimizeWaypointsOrder</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -338,7 +331,7 @@ By default, this is set to <code>false</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var enableRouteLabels: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">enableRouteLabels</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -433,7 +426,7 @@ By default, this is set to <code>false</code>.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(optimizationMode: OptimizationMode = OptimizationMode.fastest, alternatives: Int32 = 0, departureTime: Date? = nil, arrivalTime: Date? = nil, speedCapInMetersPerSecond: Double? = nil, enableRouteHandle: Bool = false, trafficOptimizationMode: TrafficOptimizationMode = TrafficOptimizationMode.timeDependent, enableTolls: Bool = false, optimizeWaypointsOrder: Bool = false, enableRouteLabels: Bool = false)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">optimizationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-optimizationmode">OptimizationMode</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-optimizationmode">OptimizationMode</a></span><span class="o">.</span><span class="n">fastest</span><span class="p">,</span> <span class="nv">alternatives</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">departureTime</span><span class="p">:</span> <span class="kt">Date</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">arrivalTime</span><span class="p">:</span> <span class="kt">Date</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">speedCapInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">enableRouteHandle</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">trafficOptimizationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-trafficoptimizationmode">TrafficOptimizationMode</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-trafficoptimizationmode">TrafficOptimizationMode</a></span><span class="o">.</span><span class="n">timeDependent</span><span class="p">,</span> <span class="nv">enableTolls</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">optimizeWaypointsOrder</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">enableRouteLabels</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -449,8 +442,8 @@ By default, this is set to <code>false</code>.</li>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

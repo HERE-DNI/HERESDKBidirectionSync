@@ -1,5 +1,5 @@
 ---
-title: "EVChargingTariffElementCondition Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariffelementcondition"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariffelementconditio
 <!-- EVChargingTariffElementCondition.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/EVChargingTariffElementCondition"></a>
 <a title="EVChargingTariffElementCondition Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariffelementconditio
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVChargingTariffElementCondition</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct EVChargingTariffElementCondition : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingTariffElementCondition</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Condition that the charging session needs to meet to apply the tariff element.
@@ -82,7 +75,7 @@ spot prices, together with time period.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var date: DateRange?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">date</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-daterange">DateRange</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -108,7 +101,7 @@ An example would be to specify lower prices for weekends</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var days: [DayOfWeek]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">days</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-dayofweek">DayOfWeek</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -135,7 +128,7 @@ is smaller than the beginning <code><a href="../Structs/TimeOfDayRange.html#/s:7
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var time: TimeOfDayRange?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">time</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-timeofdayrange">TimeOfDayRange</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -161,7 +154,7 @@ is smaller than the beginning <code><a href="../Structs/TimeOfDayRange.html#/s:7
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var duration: EVChargingDurationRange?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingdurationrange">EVChargingDurationRange</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -187,7 +180,7 @@ set additional fees for charging a full or nearly full battery.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var overstayBatteryLevel: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">overstayBatteryLevel</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -234,7 +227,7 @@ set additional fees for charging a full or nearly full battery.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(date: DateRange? = nil, days: [DayOfWeek] = [], time: TimeOfDayRange? = nil, duration: EVChargingDurationRange? = nil, overstayBatteryLevel: Int32? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">date</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-daterange">DateRange</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">days</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-dayofweek">DayOfWeek</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">time</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-timeofdayrange">TimeOfDayRange</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">duration</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingdurationrange">EVChargingDurationRange</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">overstayBatteryLevel</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -250,8 +243,8 @@ set additional fees for charging a full or nearly full battery.</li>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

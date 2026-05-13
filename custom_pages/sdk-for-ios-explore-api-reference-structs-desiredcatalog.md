@@ -1,5 +1,5 @@
 ---
-title: "DesiredCatalog Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-desiredcatalog"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-desiredcatalog"
 <!-- DesiredCatalog.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/DesiredCatalog"></a>
 <a title="DesiredCatalog Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-desiredcatalog"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>DesiredCatalog</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct DesiredCatalog : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">DesiredCatalog</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>This class provides an interface to the user, to identify a catalog on the HERE platform, whose data he wants to access.
@@ -71,7 +64,7 @@ See <code><a href="sdk-for-ios-explore-api-reference-..-structs-catalogidentifie
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var id: CatalogIdentifier</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">id</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-catalogidentifier">CatalogIdentifier</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -96,7 +89,7 @@ See <code><a href="sdk-for-ios-explore-api-reference-..-structs-catalogidentifie
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(hrn: String, version: CatalogVersionHint)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">hrn</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">version</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-catalogversionhint">CatalogVersionHint</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -148,8 +141,8 @@ or result in error logs if the desired version is not available.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

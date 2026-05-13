@@ -1,5 +1,5 @@
 ---
-title: "MapObjectDescriptor Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapobjectdescriptor"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapobjectdescriptor"
 <!-- MapObjectDescriptor.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapObjectDescriptor"></a>
 <a title="MapObjectDescriptor Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapobjectdescriptor"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapObjectDescriptor</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapObjectDescriptor</code></pre>
-<pre><code>extension MapObjectDescriptor: NativeBase</code></pre>
-<pre><code>extension MapObjectDescriptor: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapObjectDescriptor</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapObjectDescriptor</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapObjectDescriptor</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Interface represents descriptor of a pickable map object.</p>
@@ -68,7 +61,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapobjectdescriptor"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func getLayerName() -&gt; String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getLayerName</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 <div>
@@ -97,7 +90,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapobjectdescriptor"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func getDataAttributes() -&gt; DataAttributes</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getDataAttributes</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-dataattributes">DataAttributes</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -127,7 +120,7 @@ For polygons and polylines <code>nil</code> is returned.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func getClosestPoint() -&gt; GeoCoordinates?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getClosestPoint</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -147,8 +140,8 @@ For polygons and polylines <code>nil</code> is returned.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

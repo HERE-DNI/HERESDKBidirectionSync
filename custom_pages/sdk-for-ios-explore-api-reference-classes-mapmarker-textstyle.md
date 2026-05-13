@@ -1,5 +1,5 @@
 ---
-title: "TextStyle Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle"
 <!-- TextStyle.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/TextStyle"></a>
 <a title="TextStyle Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,12 +31,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TextStyle</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class TextStyle</code></pre>
-<pre><code>extension MapMarker.TextStyle: NativeBase</code></pre>
-<pre><code>extension MapMarker.TextStyle: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TextStyle</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Styling options for the text of a <code><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarker">MapMarker</a></code>.</p>
@@ -70,7 +63,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias InstantiationError = InstantiationErrorCode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarker-textstyle-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -105,7 +98,7 @@ image. The font will be 18 pixels wide, colored opaque white and will have no vi
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -143,7 +136,7 @@ as well as empty lists are not supported.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(textSize: Double, textColor: UIColor, textOutlineSize: Double, textOutlineColor: UIColor, placements: [MapMarker.TextStyle.Placement]) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">textSize</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">textColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">textOutlineSize</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">textOutlineColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">placements</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarker-textstyle-placement">Placement</a></span><span class="p">])</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -252,7 +245,7 @@ as well as empty lists are not supported.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(textSize: Double, textColor: UIColor, textOutlineSize: Double, textOutlineColor: UIColor, placements: [MapMarker.TextStyle.Placement], fontName: String) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">textSize</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">textColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">textOutlineSize</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">textOutlineColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">placements</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarker-textstyle-placement">Placement</a></span><span class="p">],</span> <span class="nv">fontName</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -359,7 +352,7 @@ If empty string is provided, a default font will be used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var fontName: String { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">fontName</span><span class="p">:</span> <span class="kt">String</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -384,7 +377,7 @@ If empty string is provided, a default font will be used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var textSize: Double { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">textSize</span><span class="p">:</span> <span class="kt">Double</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -409,7 +402,7 @@ If empty string is provided, a default font will be used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var textColor: UIColor { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">textColor</span><span class="p">:</span> <span class="kt">UIColor</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -434,7 +427,7 @@ If empty string is provided, a default font will be used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var textOutlineSize: Double { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">textOutlineSize</span><span class="p">:</span> <span class="kt">Double</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -459,7 +452,7 @@ If empty string is provided, a default font will be used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var textOutlineColor: UIColor { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">textOutlineColor</span><span class="p">:</span> <span class="kt">UIColor</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -484,7 +477,7 @@ If empty string is provided, a default font will be used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var placements: [MapMarker.TextStyle.Placement] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">placements</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt">TextStyle</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarker-textstyle-placement">Placement</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -510,8 +503,8 @@ If empty string is provided, a default font will be used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum InstantiationErrorCode : UInt32, CaseIterable, Codable</code></pre>
-<pre><code>extension MapMarker.TextStyle.InstantiationErrorCode : Error</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarker">MapMarker</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mapmarker-textstyle">TextStyle</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -537,7 +530,7 @@ If empty string is provided, a default font will be used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum Placement : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">Placement</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -553,8 +546,8 @@ If empty string is provided, a default font will be used.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "Provider Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-provider"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-p
 <!-- Provider.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/Provider"></a>
 <a title="Provider Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-p
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Provider</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct Provider</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Provider</span></code></pre>
 </div>
 </div>
 <p>Configuration of a data provider.</p>
@@ -68,7 +61,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-p
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var urlProvider: TileUrlRequestHandler</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">urlProvider</span><span class="p">:</span> <span class="kt"><a href="../../Maps.html#/s:7heresdk21TileUrlRequestHandlera">TileUrlRequestHandler</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-p
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var tilingScheme: TilingScheme</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tilingScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-tilingscheme">TilingScheme</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -126,7 +119,7 @@ appropriate z value of the tile key will be determined.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var storageLevels: [Int32]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">storageLevels</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -151,7 +144,7 @@ appropriate z value of the tile key will be determined.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var hasAlphaChannel: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">hasAlphaChannel</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -176,7 +169,7 @@ appropriate z value of the tile key will be determined.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var headers: [String : String]?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">headers</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span> <span class="p">:</span> <span class="kt">String</span><span class="p">]?</span></code></pre>
 </div>
 </div>
 </section>
@@ -201,7 +194,7 @@ appropriate z value of the tile key will be determined.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(urlProvider: @escaping TileUrlRequestHandler, tilingScheme: TilingScheme, storageLevels: [Int32], hasAlphaChannel: Bool = false, headers: [String : String]? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">urlProvider</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../../Maps.html#/s:7heresdk21TileUrlRequestHandlera">TileUrlRequestHandler</a></span><span class="p">,</span> <span class="nv">tilingScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-tilingscheme">TilingScheme</a></span><span class="p">,</span> <span class="nv">storageLevels</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span><span class="p">],</span> <span class="nv">hasAlphaChannel</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">headers</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span> <span class="p">:</span> <span class="kt">String</span><span class="p">]?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -217,8 +210,8 @@ appropriate z value of the tile key will be determined.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

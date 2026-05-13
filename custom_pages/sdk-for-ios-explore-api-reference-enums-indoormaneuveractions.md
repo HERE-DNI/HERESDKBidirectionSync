@@ -1,5 +1,5 @@
 ---
-title: "IndoorManeuverActions Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 <!-- IndoorManeuverActions.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/IndoorManeuverActions"></a>
 <a title="IndoorManeuverActions Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>IndoorManeuverActions</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum IndoorManeuverActions : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">IndoorManeuverActions</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Defines the types of actions for indoor maneuvers.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case depart</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">depart</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case arrive</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">arrive</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftUTurn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftUTurn</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sharpLeftTurn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sharpLeftTurn</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftTurn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftTurn</span></code></pre>
 </div>
 </div>
 </section>
@@ -191,7 +184,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case slightLeftTurn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">slightLeftTurn</span></code></pre>
 </div>
 </div>
 </section>
@@ -216,7 +209,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case slightRightTurn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">slightRightTurn</span></code></pre>
 </div>
 </div>
 </section>
@@ -241,7 +234,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case continueOn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">continueOn</span></code></pre>
 </div>
 </div>
 </section>
@@ -266,7 +259,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightTurn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightTurn</span></code></pre>
 </div>
 </div>
 </section>
@@ -291,7 +284,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case sharpRightTurn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">sharpRightTurn</span></code></pre>
 </div>
 </div>
 </section>
@@ -316,7 +309,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightUTurn</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightUTurn</span></code></pre>
 </div>
 </div>
 </section>
@@ -341,7 +334,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leftExit</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leftExit</span></code></pre>
 </div>
 </div>
 </section>
@@ -366,7 +359,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rightExit</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rightExit</span></code></pre>
 </div>
 </div>
 </section>
@@ -391,7 +384,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case levelChangeAction</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">levelChangeAction</span></code></pre>
 </div>
 </div>
 </section>
@@ -416,7 +409,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case enterAction</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">enterAction</span></code></pre>
 </div>
 </div>
 </section>
@@ -441,7 +434,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case leaveAction</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">leaveAction</span></code></pre>
 </div>
 </div>
 </section>
@@ -457,8 +450,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoormaneuveractions"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

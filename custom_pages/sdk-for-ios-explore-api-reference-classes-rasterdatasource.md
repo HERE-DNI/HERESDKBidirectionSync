@@ -1,5 +1,5 @@
 ---
-title: "RasterDataSource Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-rasterdatasource"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-rasterdatasource"
 <!-- RasterDataSource.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/RasterDataSource"></a>
 <a title="RasterDataSource Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,25 +29,27 @@ slug: "sdk-for-ios-explore-api-reference-classes-rasterdatasource"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RasterDataSource</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class RasterDataSource</code></pre>
-<pre><code>extension RasterDataSource: NativeBase</code></pre>
-<pre><code>extension RasterDataSource: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">RasterDataSource</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">RasterDataSource</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">RasterDataSource</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Data source to load map layers using a raster image format (jpg, png).
 The example below illustrates how to create a raster data source and how to link it to
 a newly created map layer.</p>
-<pre><code>let rasterDataSource = RasterDataSource(mapContext, rasterDataSourceConfig)
-let layer = MapLayerBuilder()
-// The name and the type of the data source have to be provided.
-// In our case, the name of the raster data source is in rasterDataSourceConfig.
-.withDataSource(named: rasterDataSourceConfig.name, contentType: MapContentType.rasterImage)
-.forMap(map)
-.withName("rasterLayer")
-.build();</code></pre>
+<pre class="highlight swift"><code>  <span class="k">let</span> <span class="nv">rasterDataSource</span> <span class="o">=</span> <span class="kt">RasterDataSource</span><span class="p">(</span><span class="n">mapContext</span><span class="p">,</span> <span class="n">rasterDataSourceConfig</span><span class="p">)</span>
+
+  <span class="k">let</span> <span class="nv">layer</span> <span class="o">=</span> <span class="kt">MapLayerBuilder</span><span class="p">()</span>
+     <span class="c1">// The name and the type of the data source have to be provided.</span>
+     <span class="c1">// In our case, the name of the raster data source is in rasterDataSourceConfig.</span>
+     <span class="o">.</span><span class="nf">withDataSource</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="n">rasterDataSourceConfig</span><span class="o">.</span><span class="n">name</span><span class="p">,</span> <span class="nv">contentType</span><span class="p">:</span> <span class="kt">MapContentType</span><span class="o">.</span><span class="n">rasterImage</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">forMap</span><span class="p">(</span><span class="n">map</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">withName</span><span class="p">(</span><span class="s">"rasterLayer"</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">build</span><span class="p">();</span>
+</code></pre>
 </section>
 <section class="section task-group-section">
 <div class="task-group">
@@ -78,7 +73,7 @@ let layer = MapLayerBuilder()
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(context: MapContext, configuration: RasterDataSourceConfiguration)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">context</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext">MapContext</a></span><span class="p">,</span> <span class="nv">configuration</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-rasterdatasourceconfiguration">RasterDataSourceConfiguration</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -135,7 +130,7 @@ registers a delegate.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(context: MapContext, configuration: RasterDataSourceConfiguration, delegate: RasterDataSourceDelegate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">context</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext">MapContext</a></span><span class="p">,</span> <span class="nv">configuration</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-rasterdatasourceconfiguration">RasterDataSourceConfiguration</a></span><span class="p">,</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-rasterdatasourcedelegate">RasterDataSourceDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -208,7 +203,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(context: MapContext, name: String, tileSource: RasterTileSource)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">context</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext">MapContext</a></span><span class="p">,</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">tileSource</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-rastertilesource">RasterTileSource</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -279,7 +274,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(context: MapContext, name: String, tileSource: RasterTileSource, delegate: RasterDataSourceDelegate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">context</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext">MapContext</a></span><span class="p">,</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">tileSource</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-rastertilesource">RasterTileSource</a></span><span class="p">,</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-rasterdatasourcedelegate">RasterDataSourceDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -364,7 +359,7 @@ to a new bearer token for authentication.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func changeConfiguration(_ configuration: RasterDataSourceConfigurationUpdate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">changeConfiguration</span><span class="p">(</span><span class="n">_</span> <span class="nv">configuration</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-rasterdatasourceconfigurationupdate">RasterDataSourceConfigurationUpdate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -411,7 +406,7 @@ the strong reference by calling <code><a href="../Classes/RasterDataSource.html#
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func addDelegate(_ listener: RasterDataSourceDelegate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">listener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-rasterdatasourcedelegate">RasterDataSourceDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -455,7 +450,7 @@ the strong reference by calling <code><a href="../Classes/RasterDataSource.html#
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeDelegate(_ listener: RasterDataSourceDelegate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">listener</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-rasterdatasourcedelegate">RasterDataSourceDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -499,7 +494,7 @@ the strong reference by calling <code><a href="../Classes/RasterDataSource.html#
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeDelegates()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeDelegates</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -515,8 +510,8 @@ the strong reference by calling <code><a href="../Classes/RasterDataSource.html#
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

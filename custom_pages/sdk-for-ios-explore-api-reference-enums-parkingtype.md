@@ -1,5 +1,5 @@
 ---
-title: "ParkingType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-parkingtype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-parkingtype"
 <!-- ParkingType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/ParkingType"></a>
 <a title="ParkingType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-parkingtype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>ParkingType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum ParkingType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">ParkingType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Represents parking type available at the location.
@@ -68,7 +61,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case alongMotorway</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">alongMotorway</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case parkingGarage</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">parkingGarage</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case parkingLot</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">parkingLot</span></code></pre>
 </div>
 </div>
 </section>
@@ -143,7 +136,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case onDriveway</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">onDriveway</span></code></pre>
 </div>
 </div>
 </section>
@@ -168,7 +161,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case onStreet</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">onStreet</span></code></pre>
 </div>
 </div>
 </section>
@@ -193,7 +186,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case undergroundGarage</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">undergroundGarage</span></code></pre>
 </div>
 </div>
 </section>
@@ -209,8 +202,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

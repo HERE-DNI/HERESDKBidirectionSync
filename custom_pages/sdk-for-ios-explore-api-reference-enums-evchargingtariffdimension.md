@@ -1,5 +1,5 @@
 ---
-title: "EVChargingTariffDimension Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-evchargingtariffdimension"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-evchargingtariffdimension"
 <!-- EVChargingTariffDimension.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/EVChargingTariffDimension"></a>
 <a title="EVChargingTariffDimension Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-evchargingtariffdimension"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVChargingTariffDimension</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum EVChargingTariffDimension : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EVChargingTariffDimension</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Represents the dimension the price component, which determines what is being charged and how:</p>
@@ -74,7 +67,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case time</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">time</span></code></pre>
 </div>
 </div>
 </section>
@@ -99,7 +92,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case energy</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">energy</span></code></pre>
 </div>
 </div>
 </section>
@@ -124,7 +117,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case flat</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">flat</span></code></pre>
 </div>
 </div>
 </section>
@@ -149,7 +142,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case parkingTime</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">parkingTime</span></code></pre>
 </div>
 </div>
 </section>
@@ -165,8 +158,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

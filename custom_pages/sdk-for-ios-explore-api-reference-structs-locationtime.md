@@ -1,5 +1,5 @@
 ---
-title: "LocationTime Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-locationtime"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-locationtime"
 <!-- LocationTime.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/LocationTime"></a>
 <a title="LocationTime Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-locationtime"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>LocationTime</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct LocationTime : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">LocationTime</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>This struct presents all the time data tied to a location, like an arrival or departure time.
@@ -71,7 +64,7 @@ Poland, the local time is “2022-03-23T16:07:31” in CET, i.e. one hour ahead 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let localTime: Date</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">localTime</span><span class="p">:</span> <span class="kt">Date</span></code></pre>
 </div>
 </div>
 </section>
@@ -97,7 +90,7 @@ the UTC time is “2022-03-23T15:07:31”, i.e. one hour behind the local time.<
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let utcTime: Date</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">utcTime</span><span class="p">:</span> <span class="kt">Date</span></code></pre>
 </div>
 </div>
 </section>
@@ -124,7 +117,7 @@ UTC-05:00, it is -18000.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let utcOffset: TimeInterval</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">utcOffset</span><span class="p">:</span> <span class="kt">TimeInterval</span></code></pre>
 </div>
 </div>
 </section>
@@ -149,7 +142,7 @@ UTC-05:00, it is -18000.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(localTime: Date, utcTime: Date, utcOffset: TimeInterval)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">localTime</span><span class="p">:</span> <span class="kt">Date</span><span class="p">,</span> <span class="nv">utcTime</span><span class="p">:</span> <span class="kt">Date</span><span class="p">,</span> <span class="nv">utcOffset</span><span class="p">:</span> <span class="kt">TimeInterval</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -165,8 +158,8 @@ UTC-05:00, it is -18000.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

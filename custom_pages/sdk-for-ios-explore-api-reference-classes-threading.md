@@ -1,5 +1,5 @@
 ---
-title: "Threading Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-threading"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-threading"
 <!-- Threading.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/Threading"></a>
 <a title="Threading Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-threading"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Threading</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class Threading</code></pre>
-<pre><code>extension Threading: NativeBase</code></pre>
-<pre><code>extension Threading: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">Threading</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Threading</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Threading</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Initializes threading support on native side.</p>
@@ -68,7 +61,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-threading"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func setPlatformThreading(platformThreading: PlatformThreading)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">setPlatformThreading</span><span class="p">(</span><span class="nv">platformThreading</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-platformthreading">PlatformThreading</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -112,7 +105,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-threading"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func getPlatformThreading() -&gt; PlatformThreading</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">getPlatformThreading</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-platformthreading">PlatformThreading</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -132,8 +125,8 @@ slug: "sdk-for-ios-explore-api-reference-classes-threading"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

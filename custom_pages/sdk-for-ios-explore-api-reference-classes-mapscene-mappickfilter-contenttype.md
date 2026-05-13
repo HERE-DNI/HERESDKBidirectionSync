@@ -1,5 +1,5 @@
 ---
-title: "ContentType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter-contenttype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter-contentt
 <!-- ContentType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/ContentType"></a>
 <a title="ContentType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-..-index">heresdk</a>
@@ -40,10 +33,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter-contentt
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>ContentType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum ContentType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">ContentType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Type of the map content to be picked.</p>
@@ -70,7 +63,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter-contentt
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mapItems = 0</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mapItems</span> <span class="o">=</span> <span class="mi">0</span></code></pre>
 </div>
 </div>
 </section>
@@ -106,7 +99,7 @@ those categories that are not hidden and those that are not covered by any custo
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mapContent</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mapContent</span></code></pre>
 </div>
 </div>
 </section>
@@ -132,7 +125,7 @@ those categories that are not hidden and those that are not covered by any custo
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case customLayerData</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">customLayerData</span></code></pre>
 </div>
 </div>
 </section>
@@ -148,8 +141,8 @@ those categories that are not hidden and those that are not covered by any custo
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

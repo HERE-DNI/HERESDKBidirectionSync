@@ -1,5 +1,5 @@
 ---
-title: "TranslucentMapLayerGroup Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup"
 <!-- TranslucentMapLayerGroup.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/TranslucentMapLayerGroup"></a>
 <a title="TranslucentMapLayerGroup Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TranslucentMapLayerGroup</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class TranslucentMapLayerGroup</code></pre>
-<pre><code>extension TranslucentMapLayerGroup: NativeBase</code></pre>
-<pre><code>extension TranslucentMapLayerGroup: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TranslucentMapLayerGroup</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TranslucentMapLayerGroup</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TranslucentMapLayerGroup</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>A translucent layer group that can be the target for <code><a href="../Classes/MapLayerPriorityBuilder.html#/s:7heresdk23MapLayerPriorityBuilderC7inGroupyACSSF">MapLayerPriorityBuilder.inGroup(...)</a></code>.
@@ -53,37 +46,42 @@ instance destruction and any layer (categories) still in the group are not rende
 therefore it is recommended to keep a group alive as long as layers using the group are alive and
 in use.</p>
 <p>Conceptual example to place line layers into a translucent group:</p>
-<pre><code>// Create a translucent group with a unique name and a render priority
-let groupPriority = MapLayerPriorityBuilder().renderedLast().build()
-let group = TranslucentMapLayerGroup(name: "TranslucentGroupName", map, groupPriority)
-// Create a line layer to be rendered as part of the translucent group
-let lineLayerPriority = MapLayerPriorityBuilder()
-.inGroup("TranslucentGroupName") // places the line layer into the group
-.renderedFirst() // to be rendered first when the group is rendered
-.withCategory("SomeCategory") // places the line layer category 'SomeCategory'
-.inGroup("TranslucentGroupName") // into the group
-.renderedLast() // to be rendered last when the group is rendered
-.build()
-let lineLayer = MapLayerBuilder()
-.withDataSource(named: "DataSourceName", contentType: MapContentType.line)
-.forMap(map)
-.withName("LineLayerName")
-.withPriority(lineLayerPriority)
-.withStyle(translucentLineStyle) // E.g. "technique": "line" ... "color": "#FFFFFF80"
-.build()
-// Create a second line layer to be rendered as part of the translucent group
-let secondLineLayerPriority = MapLayerPriorityBuilder()
-.inGroup("TranslucentGroupName") // places the second line layer into the group
-.renderedBeforeLayer("LineLayerName") // to be rendered before first layer
-// when the group is rendered
-.build()
-let secondLineLayer = MapLayerBuilder()
-.withDataSource(named: "SecondDataSourceName", contentType: MapContentType.line)
-.forMap(map)
-.withName("SecondLineLayerName")
-.withPriority(secondLineLayerPriority)
-.withStyle(secondTranslucentLineStyle) // E.g. "technique": "line" ... "color": "#FFFFFF80"
-.build()</code></pre>
+<pre class="highlight swift"><code> <span class="c1">// Create a translucent group with a unique name and a render priority</span>
+ <span class="k">let</span> <span class="nv">groupPriority</span> <span class="o">=</span> <span class="kt">MapLayerPriorityBuilder</span><span class="p">()</span><span class="o">.</span><span class="nf">renderedLast</span><span class="p">()</span><span class="o">.</span><span class="nf">build</span><span class="p">()</span>
+ <span class="k">let</span> <span class="nv">group</span> <span class="o">=</span> <span class="kt">TranslucentMapLayerGroup</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="s">"TranslucentGroupName"</span><span class="p">,</span> <span class="n">map</span><span class="p">,</span> <span class="n">groupPriority</span><span class="p">)</span>
+
+ <span class="c1">// Create a line layer to be rendered as part of the translucent group</span>
+ <span class="k">let</span> <span class="nv">lineLayerPriority</span> <span class="o">=</span> <span class="kt">MapLayerPriorityBuilder</span><span class="p">()</span>
+     <span class="o">.</span><span class="nf">inGroup</span><span class="p">(</span><span class="s">"TranslucentGroupName"</span><span class="p">)</span> <span class="c1">// places the line layer into the group</span>
+     <span class="o">.</span><span class="nf">renderedFirst</span><span class="p">()</span>                 <span class="c1">// to be rendered first when the group is rendered</span>
+     <span class="o">.</span><span class="nf">withCategory</span><span class="p">(</span><span class="s">"SomeCategory"</span><span class="p">)</span>    <span class="c1">// places the line layer category 'SomeCategory'</span>
+     <span class="o">.</span><span class="nf">inGroup</span><span class="p">(</span><span class="s">"TranslucentGroupName"</span><span class="p">)</span> <span class="c1">// into the group</span>
+     <span class="o">.</span><span class="nf">renderedLast</span><span class="p">()</span>                  <span class="c1">// to be rendered last when the group is rendered</span>
+     <span class="o">.</span><span class="nf">build</span><span class="p">()</span>
+
+ <span class="k">let</span> <span class="nv">lineLayer</span> <span class="o">=</span> <span class="kt">MapLayerBuilder</span><span class="p">()</span>
+     <span class="o">.</span><span class="nf">withDataSource</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"DataSourceName"</span><span class="p">,</span> <span class="nv">contentType</span><span class="p">:</span> <span class="kt">MapContentType</span><span class="o">.</span><span class="n">line</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">forMap</span><span class="p">(</span><span class="n">map</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">withName</span><span class="p">(</span><span class="s">"LineLayerName"</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">withPriority</span><span class="p">(</span><span class="n">lineLayerPriority</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">withStyle</span><span class="p">(</span><span class="n">translucentLineStyle</span><span class="p">)</span> <span class="c1">// E.g. "technique": "line" ... "color": "#FFFFFF80"</span>
+     <span class="o">.</span><span class="nf">build</span><span class="p">()</span>
+
+ <span class="c1">// Create a second line layer to be rendered as part of the translucent group</span>
+ <span class="k">let</span> <span class="nv">secondLineLayerPriority</span> <span class="o">=</span> <span class="kt">MapLayerPriorityBuilder</span><span class="p">()</span>
+     <span class="o">.</span><span class="nf">inGroup</span><span class="p">(</span><span class="s">"TranslucentGroupName"</span><span class="p">)</span>      <span class="c1">// places the second line layer into the group</span>
+     <span class="o">.</span><span class="nf">renderedBeforeLayer</span><span class="p">(</span><span class="s">"LineLayerName"</span><span class="p">)</span> <span class="c1">// to be rendered before first layer</span>
+                                           <span class="c1">// when the group is rendered</span>
+     <span class="o">.</span><span class="nf">build</span><span class="p">()</span>
+
+ <span class="k">let</span> <span class="nv">secondLineLayer</span> <span class="o">=</span> <span class="kt">MapLayerBuilder</span><span class="p">()</span>
+     <span class="o">.</span><span class="nf">withDataSource</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"SecondDataSourceName"</span><span class="p">,</span> <span class="nv">contentType</span><span class="p">:</span> <span class="kt">MapContentType</span><span class="o">.</span><span class="n">line</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">forMap</span><span class="p">(</span><span class="n">map</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">withName</span><span class="p">(</span><span class="s">"SecondLineLayerName"</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">withPriority</span><span class="p">(</span><span class="n">secondLineLayerPriority</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">withStyle</span><span class="p">(</span><span class="n">secondTranslucentLineStyle</span><span class="p">)</span> <span class="c1">// E.g. "technique": "line" ... "color": "#FFFFFF80"</span>
+     <span class="o">.</span><span class="nf">build</span><span class="p">()</span>
+</code></pre>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behavior.
 Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -109,7 +107,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias InstantiationError = TranslucentMapLayerGroup.ErrorDetails</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt">TranslucentMapLayerGroup</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-translucentmaplayergroup-errordetails">ErrorDetails</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -139,7 +137,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(name: String, aMap: HereMap) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">aMap</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-heremap">HereMap</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -199,7 +197,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(name: String, aMap: HereMap, _ priority: MapLayerPriority) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">aMap</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-heremap">HereMap</a></span><span class="p">,</span> <span class="n">_</span> <span class="nv">priority</span><span class="p">:</span> <span class="kt"><a href="../Maps.html#/s:7heresdk16MapLayerPriorityC">MapLayerPriority</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -273,7 +271,7 @@ Example:</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum ErrorCode : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">ErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -299,8 +297,8 @@ Example:</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct ErrorDetails</code></pre>
-<pre><code>extension TranslucentMapLayerGroup.ErrorDetails : Error</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ErrorDetails</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a></span><span class="o">.</span><span class="kt">ErrorDetails</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -325,7 +323,7 @@ Example:</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setPriority(_ priority: MapLayerPriority)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setPriority</span><span class="p">(</span><span class="n">_</span> <span class="nv">priority</span><span class="p">:</span> <span class="kt"><a href="../Maps.html#/s:7heresdk16MapLayerPriorityC">MapLayerPriority</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -367,8 +365,8 @@ Example:</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

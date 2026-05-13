@@ -1,5 +1,5 @@
 ---
-title: "TransitSectionDetails Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-transitsectiondetails"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-transitsectiondetails"
 <!-- TransitSectionDetails.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/TransitSectionDetails"></a>
 <a title="TransitSectionDetails Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-transitsectiondetails"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TransitSectionDetails</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct TransitSectionDetails : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TransitSectionDetails</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Gives the details of a transit section.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-transitsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var transport: TransitTransport?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">transport</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transittransport">TransitTransport</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-transitsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var intermediateStops: [TransitStop]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">intermediateStops</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transitstop">TransitStop</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-transitsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var agency: Agency</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">agency</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-agency">Agency</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-transitsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var attributions: [Attribution]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">attributions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-attribution">Attribution</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -167,7 +160,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-transitsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var fares: [Fare]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">fares</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-fare">Fare</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -192,7 +185,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-transitsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var incidents: [TransitIncident]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">incidents</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transitincident">TransitIncident</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -231,7 +224,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-transitsectiondetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(transport: TransitTransport? = nil, intermediateStops: [TransitStop] = [], agency: Agency, attributions: [Attribution] = [], fares: [Fare] = [], incidents: [TransitIncident] = [])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">transport</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transittransport">TransitTransport</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">intermediateStops</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transitstop">TransitStop</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">agency</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-agency">Agency</a></span><span class="p">,</span> <span class="nv">attributions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-attribution">Attribution</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">fares</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-fare">Fare</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">incidents</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transitincident">TransitIncident</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>
@@ -247,8 +240,8 @@ slug: "sdk-for-ios-explore-api-reference-structs-transitsectiondetails"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

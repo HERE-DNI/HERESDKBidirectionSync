@@ -1,5 +1,5 @@
 ---
-title: "GeoCoordinates Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-geocoordinates"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-geocoordinates"
 <!-- GeoCoordinates.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/GeoCoordinates"></a>
 <a title="GeoCoordinates Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-geocoordinates"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>GeoCoordinates</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct GeoCoordinates : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">GeoCoordinates</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents geographical coordinates in 3D space.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-geocoordinates"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let latitude: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">latitude</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-geocoordinates"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let longitude: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">longitude</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -120,7 +113,7 @@ reference ellipsoid.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let altitude: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">altitude</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -146,7 +139,7 @@ Corrects values of lat and long if they exceed the ranges.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(latitude: Double, longitude: Double, altitude: Double)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">latitude</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">longitude</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">altitude</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -221,7 +214,7 @@ Altitude set to <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(latitude: Double, longitude: Double)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">latitude</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">longitude</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -283,7 +276,7 @@ This method ignores altitude of both points.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func distance(to point: GeoCoordinates) -&gt; Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">distance</span><span class="p">(</span><span class="n">to</span> <span class="nv">point</span><span class="p">:</span> <span class="kt">GeoCoordinates</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 <div>
@@ -337,7 +330,7 @@ the altitude, then the altitude is interpolated as well; <code>nil</code> otherw
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func interpolate(toward towardCoords: GeoCoordinates, by factor: Double) -&gt; GeoCoordinates</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">interpolate</span><span class="p">(</span><span class="n">toward</span> <span class="nv">towardCoords</span><span class="p">:</span> <span class="kt">GeoCoordinates</span><span class="p">,</span> <span class="n">by</span> <span class="nv">factor</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">GeoCoordinates</span></code></pre>
 </div>
 </div>
 <div>
@@ -406,7 +399,7 @@ Examples: <code>53.43762,-13.65468</code>.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func fromString(input: String) -&gt; GeoCoordinates?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">fromString</span><span class="p">(</span><span class="nv">input</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">GeoCoordinates</span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -454,7 +447,7 @@ Examples: <code>53.43762,-13.65468</code>.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>static func == (lhs: GeoCoordinates, rhs: GeoCoordinates) -&gt; Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">static</span> <span class="kd">func</span> <span class="o">==</span> <span class="p">(</span><span class="nv">lhs</span><span class="p">:</span> <span class="kt">GeoCoordinates</span><span class="p">,</span> <span class="nv">rhs</span><span class="p">:</span> <span class="kt">GeoCoordinates</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -470,8 +463,8 @@ Examples: <code>53.43762,-13.65468</code>.
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

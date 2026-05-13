@@ -1,5 +1,5 @@
 ---
-title: "SectionNotice Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-sectionnotice"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-sectionnotice"
 <!-- SectionNotice.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/SectionNotice"></a>
 <a title="SectionNotice Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-sectionnotice"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>SectionNotice</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct SectionNotice : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">SectionNotice</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Explains an issue encountered in a <code><a href="sdk-for-ios-explore-api-reference-..-classes-section">Section</a></code>.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-sectionnotice"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var code: SectionNoticeCode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">code</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-sectionnoticecode">SectionNoticeCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-sectionnotice"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var severity: NoticeSeverity</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">severity</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-noticeseverity">NoticeSeverity</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -121,7 +114,7 @@ If the section notice is none of the above-mentioned three types, then this will
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var violatedRestrictions: [ViolatedRestriction]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">violatedRestrictions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-violatedrestriction">ViolatedRestriction</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -146,7 +139,7 @@ If the section notice is none of the above-mentioned three types, then this will
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(code: SectionNoticeCode, severity: NoticeSeverity, violatedRestrictions: [ViolatedRestriction] = [])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">code</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-sectionnoticecode">SectionNoticeCode</a></span><span class="p">,</span> <span class="nv">severity</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-noticeseverity">NoticeSeverity</a></span><span class="p">,</span> <span class="nv">violatedRestrictions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-violatedrestriction">ViolatedRestriction</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>
@@ -162,8 +155,8 @@ If the section notice is none of the above-mentioned three types, then this will
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

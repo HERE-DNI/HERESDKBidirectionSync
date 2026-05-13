@@ -1,5 +1,5 @@
 ---
-title: "Area Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-textquery-area"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-textquery-area"
 <!-- Area.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/Area"></a>
 <a title="Area Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-textquery-area"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Area</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct Area : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Area</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Area to perform search on.</p>
@@ -70,7 +63,7 @@ otherwise it will result in <code><a href="../../Enums/SearchError.html#/s:7here
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let areaCenter: GeoCoordinates?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -98,7 +91,7 @@ Also, for Offline Search, search in a given <code><a href="sdk-for-ios-explore-a
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let boxArea: GeoBox?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">boxArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-geobox">GeoBox</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -126,7 +119,7 @@ Also, for Offline Search, search in a given <code><a href="sdk-for-ios-explore-a
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let circleArea: GeoCircle?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">circleArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-geocircle">GeoCircle</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -165,7 +158,7 @@ Milan (Italy) and Konstanz (Germany) will have the far away part removed due to 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let corridorArea: GeoCorridor?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">corridorArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-geocorridor">GeoCorridor</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -191,7 +184,7 @@ Not supported in <code>OfflineSearchEngine</code> (which is only available for t
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let countries: [CountryCode]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">countries</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-countrycode">CountryCode</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -216,7 +209,7 @@ Not supported in <code>OfflineSearchEngine</code> (which is only available for t
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(areaCenter: GeoCoordinates)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -261,7 +254,7 @@ For Offline Search, search in a given <code><a href="sdk-for-ios-explore-api-ref
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(inBox boxArea: GeoBox)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">inBox</span> <span class="nv">boxArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-geobox">GeoBox</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -306,7 +299,7 @@ For Offline Search, search in a given <code><a href="sdk-for-ios-explore-api-ref
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(inCircle circleArea: GeoCircle)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">inCircle</span> <span class="nv">circleArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-geocircle">GeoCircle</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -362,7 +355,7 @@ Milan (Italy) and Konstanz (Germany) will have the far away part removed due to 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(inCorridor corridorArea: GeoCorridor, near areaCenter: GeoCoordinates)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">inCorridor</span> <span class="nv">corridorArea</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-geocorridor">GeoCorridor</a></span><span class="p">,</span> <span class="n">near</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -419,7 +412,7 @@ The given list of countries and center define the area that will be used in the 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(inCountries countries: [CountryCode], near areaCenter: GeoCoordinates)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">inCountries</span> <span class="nv">countries</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-countrycode">CountryCode</a></span><span class="p">],</span> <span class="n">near</span> <span class="nv">areaCenter</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -466,8 +459,8 @@ The given list of countries and center define the area that will be used in the 
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

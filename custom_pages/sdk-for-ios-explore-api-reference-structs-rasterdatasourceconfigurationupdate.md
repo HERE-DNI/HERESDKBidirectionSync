@@ -1,5 +1,5 @@
 ---
-title: "RasterDataSourceConfigurationUpdate Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfigurationupdate"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfigurationup
 <!-- RasterDataSourceConfigurationUpdate.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/RasterDataSourceConfigurationUpdate"></a>
 <a title="RasterDataSourceConfigurationUpdate Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfigurationup
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RasterDataSourceConfigurationUpdate</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct RasterDataSourceConfigurationUpdate</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">RasterDataSourceConfigurationUpdate</span></code></pre>
 </div>
 </div>
 <p>Configuration update for a RasterDataSource.</p>
@@ -67,7 +60,7 @@ When not set, no change is made to the current list.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var providerHeaders: [String : String]?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">providerHeaders</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span> <span class="p">:</span> <span class="kt">String</span><span class="p">]?</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ When not set, no change is made to the current flag state.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var ignoreExpiredData: Bool?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">ignoreExpiredData</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ When not set, no change is made to the current value.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var cacheDiskSize: Int64?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">cacheDiskSize</span><span class="p">:</span> <span class="kt">Int64</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -144,7 +137,7 @@ When not set, no change is made to the current value.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(providerHeaders: [String : String]? = nil, ignoreExpiredData: Bool? = nil, cacheDiskSize: Int64? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">providerHeaders</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span> <span class="p">:</span> <span class="kt">String</span><span class="p">]?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">ignoreExpiredData</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">cacheDiskSize</span><span class="p">:</span> <span class="kt">Int64</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -160,8 +153,8 @@ When not set, no change is made to the current value.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

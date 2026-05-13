@@ -1,5 +1,5 @@
 ---
-title: "State Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcamera-state"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcamera-state"
 <!-- State.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/State"></a>
 <a title="State Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcamera-state"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>State</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct State</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">State</span></code></pre>
 </div>
 </div>
 <p>Encapsulates state of the camera.</p>
@@ -70,7 +63,7 @@ will consider the target point as being located on the ground.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var targetCoordinates: GeoCoordinates</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">targetCoordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ will consider the target point as being located on the ground.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var orientationAtTarget: GeoOrientation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">orientationAtTarget</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-geoorientation">GeoOrientation</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -120,7 +113,7 @@ will consider the target point as being located on the ground.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var distanceToTargetInMeters: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">distanceToTargetInMeters</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -145,7 +138,7 @@ will consider the target point as being located on the ground.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var zoomLevel: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">zoomLevel</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -183,7 +176,7 @@ will consider the target point as being located on the ground.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(targetCoordinates: GeoCoordinates, orientationAtTarget: GeoOrientation, distanceToTargetInMeters: Double, zoomLevel: Double)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">targetCoordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">orientationAtTarget</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-geoorientation">GeoOrientation</a></span><span class="p">,</span> <span class="nv">distanceToTargetInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">zoomLevel</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -199,8 +192,8 @@ will consider the target point as being located on the ground.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

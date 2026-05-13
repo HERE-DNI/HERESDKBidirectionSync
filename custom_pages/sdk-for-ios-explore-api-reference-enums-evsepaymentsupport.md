@@ -1,5 +1,5 @@
 ---
-title: "EVSEPaymentSupport Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-evsepaymentsupport"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-evsepaymentsupport"
 <!-- EVSEPaymentSupport.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/EVSEPaymentSupport"></a>
 <a title="EVSEPaymentSupport Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-evsepaymentsupport"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVSEPaymentSupport</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum EVSEPaymentSupport : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EVSEPaymentSupport</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Represents the payment support functionality on EVSE for ad-hoc customers (without pre-registration).
@@ -68,7 +61,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case chipCard</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">chipCard</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case contactlessCard</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">contactlessCard</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case creditCard</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">creditCard</span></code></pre>
 </div>
 </div>
 </section>
@@ -143,7 +136,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case debitCard</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">debitCard</span></code></pre>
 </div>
 </div>
 </section>
@@ -168,7 +161,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case pedTerminal</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">pedTerminal</span></code></pre>
 </div>
 </div>
 </section>
@@ -193,7 +186,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rfidReader</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rfidReader</span></code></pre>
 </div>
 </div>
 </section>
@@ -218,7 +211,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case authByCarPlugAndCharge</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">authByCarPlugAndCharge</span></code></pre>
 </div>
 </div>
 </section>
@@ -243,7 +236,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case authByCarAutocharge</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">authByCarAutocharge</span></code></pre>
 </div>
 </div>
 </section>
@@ -268,7 +261,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case onlineApplePay</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">onlineApplePay</span></code></pre>
 </div>
 </div>
 </section>
@@ -293,7 +286,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case onlinePaypal</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">onlinePaypal</span></code></pre>
 </div>
 </div>
 </section>
@@ -318,7 +311,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case onlineCreditCard</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">onlineCreditCard</span></code></pre>
 </div>
 </div>
 </section>
@@ -343,7 +336,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case onlineGooglePay</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">onlineGooglePay</span></code></pre>
 </div>
 </div>
 </section>
@@ -368,7 +361,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case onlineBankPayment</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">onlineBankPayment</span></code></pre>
 </div>
 </div>
 </section>
@@ -393,7 +386,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case terminalQrCode</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">terminalQrCode</span></code></pre>
 </div>
 </div>
 </section>
@@ -418,7 +411,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case terminalSms</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">terminalSms</span></code></pre>
 </div>
 </div>
 </section>
@@ -443,7 +436,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case operatorApp</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">operatorApp</span></code></pre>
 </div>
 </div>
 </section>
@@ -478,7 +471,7 @@ Whenever one or more of those payment types is specified,
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mobilePayment</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mobilePayment</span></code></pre>
 </div>
 </div>
 </section>
@@ -494,8 +487,8 @@ Whenever one or more of those payment types is specified,
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

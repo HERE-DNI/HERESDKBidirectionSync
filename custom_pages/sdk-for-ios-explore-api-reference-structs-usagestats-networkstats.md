@@ -1,5 +1,5 @@
 ---
-title: "NetworkStats Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-usagestats-networkstats"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-usagestats-networkstats"
 <!-- NetworkStats.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/NetworkStats"></a>
 <a title="NetworkStats Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-usagestats-networkstats"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>NetworkStats</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct NetworkStats</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">NetworkStats</span></code></pre>
 </div>
 </div>
 <p>Provides network statistics in bytes per method.</p>
@@ -68,7 +61,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-usagestats-networkstats"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var sentBytes: UInt64</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">sentBytes</span><span class="p">:</span> <span class="kt">UInt64</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-usagestats-networkstats"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var receivedBytes: UInt64</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">receivedBytes</span><span class="p">:</span> <span class="kt">UInt64</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-usagestats-networkstats"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var methodCall: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">methodCall</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -147,7 +140,7 @@ will be considered as 1 methodCall, and requestCounter is 2.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var requestCounter: UInt32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">requestCounter</span><span class="p">:</span> <span class="kt">UInt32</span></code></pre>
 </div>
 </div>
 </section>
@@ -172,7 +165,7 @@ will be considered as 1 methodCall, and requestCounter is 2.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(sentBytes: UInt64, receivedBytes: UInt64, methodCall: String, requestCounter: UInt32)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sentBytes</span><span class="p">:</span> <span class="kt">UInt64</span><span class="p">,</span> <span class="nv">receivedBytes</span><span class="p">:</span> <span class="kt">UInt64</span><span class="p">,</span> <span class="nv">methodCall</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">requestCounter</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -188,8 +181,8 @@ will be considered as 1 methodCall, and requestCounter is 2.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

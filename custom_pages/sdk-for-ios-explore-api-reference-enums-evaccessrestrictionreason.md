@@ -1,5 +1,5 @@
 ---
-title: "EVAccessRestrictionReason Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-evaccessrestrictionreason"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-evaccessrestrictionreason"
 <!-- EVAccessRestrictionReason.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/EVAccessRestrictionReason"></a>
 <a title="EVAccessRestrictionReason Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-evaccessrestrictionreason"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVAccessRestrictionReason</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum EVAccessRestrictionReason : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EVAccessRestrictionReason</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Represents the restriction reason of an <code><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingpool">EVChargingPool</a></code>.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-evaccessrestrictionreason"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case customersOnly</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">customersOnly</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-evaccessrestrictionreason"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case brandOnly</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">brandOnly</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-evaccessrestrictionreason"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case carSharingOnly</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">carSharingOnly</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-evaccessrestrictionreason"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case taxisOnly</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">taxisOnly</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-evaccessrestrictionreason"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case other</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">other</span></code></pre>
 </div>
 </div>
 </section>
@@ -182,8 +175,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-evaccessrestrictionreason"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

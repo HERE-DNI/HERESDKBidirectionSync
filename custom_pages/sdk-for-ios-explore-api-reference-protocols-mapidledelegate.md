@@ -1,5 +1,5 @@
 ---
-title: "MapIdleDelegate Protocol Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-protocols-mapidledelegate"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-protocols-mapidledelegate"
 <!-- MapIdleDelegate.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Protocol/MapIdleDelegate"></a>
 <a title="MapIdleDelegate Protocol Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-mapidledelegate"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapIdleDelegate</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public protocol MapIdleDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">MapIdleDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 <p>Used to detect when the map becomes idle or busy.</p>
@@ -71,7 +64,7 @@ redraws will happen afterwards, until <code><a href="../Protocols/MapIdleDelegat
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func onMapBusy()</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onMapBusy</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -97,7 +90,7 @@ will happen aftrwards until <code><a href="../Protocols/MapIdleDelegate.html#/s:
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func onMapIdle()</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onMapIdle</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -113,8 +106,8 @@ will happen aftrwards until <code><a href="../Protocols/MapIdleDelegate.html#/s:
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

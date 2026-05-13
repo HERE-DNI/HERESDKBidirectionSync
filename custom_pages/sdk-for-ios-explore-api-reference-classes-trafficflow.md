@@ -1,5 +1,5 @@
 ---
-title: "TrafficFlow Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-trafficflow"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficflow"
 <!-- TrafficFlow.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/TrafficFlow"></a>
 <a title="TrafficFlow Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficflow"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TrafficFlow</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class TrafficFlow : TrafficFlowBase</code></pre>
-<pre><code>extension TrafficFlow: NativeBase</code></pre>
-<pre><code>extension TrafficFlow: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrafficFlow</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-trafficflowbase">TrafficFlowBase</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficFlow</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TrafficFlow</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>This class provides details about traffic flow along a <code><a href="sdk-for-ios-explore-api-reference-..-structs-geocorridor">GeoCorridor</a></code>, inside a <code><a href="sdk-for-ios-explore-api-reference-..-structs-geocircle">GeoCircle</a></code> or a <code><a href="sdk-for-ios-explore-api-reference-..-structs-geobox">GeoBox</a></code>, that represents particular path of the road network.<br/>
@@ -72,7 +65,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var freeFlowSpeedInMetersPerSecond: Double { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">freeFlowSpeedInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -101,7 +94,7 @@ A value of 10.0 is reserved to represent a blocked roadway (closure).</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var jamFactor: Double { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">jamFactor</span><span class="p">:</span> <span class="kt">Double</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -126,7 +119,7 @@ A value of 10.0 is reserved to represent a blocked roadway (closure).</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var location: TrafficLocation { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">location</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-trafficlocation">TrafficLocation</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -151,7 +144,7 @@ A value of 10.0 is reserved to represent a blocked roadway (closure).</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var speedInMetersPerSecond: Double? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">speedInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -178,7 +171,7 @@ The calculated ‘expected speed’ may be over the legal speed limit for that r
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var speedUncappedInMetersPerSecond: Double? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">speedUncappedInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -212,7 +205,7 @@ Default value of 0 can be assumed when this attribute is not present.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var jamTendency: Int16? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">jamTendency</span><span class="p">:</span> <span class="kt">Int16</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -248,7 +241,7 @@ A confidence value equal to 0.70 or lower means that the data is derived from hi
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var confidence: Double? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">confidence</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -273,7 +266,7 @@ A confidence value equal to 0.70 or lower means that the data is derived from hi
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var traversability: Traversability? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">traversability</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-traversability">Traversability</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -298,7 +291,7 @@ A confidence value equal to 0.70 or lower means that the data is derived from hi
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var junctionsTraversability: JunctionsTraversability? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">junctionsTraversability</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-junctionstraversability">JunctionsTraversability</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -314,8 +307,8 @@ A confidence value equal to 0.70 or lower means that the data is derived from hi
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

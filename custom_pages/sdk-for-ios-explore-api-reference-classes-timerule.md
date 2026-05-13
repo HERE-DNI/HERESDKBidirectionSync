@@ -1,5 +1,5 @@
 ---
-title: "TimeRule Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-timerule"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-timerule"
 <!-- TimeRule.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/TimeRule"></a>
 <a title="TimeRule Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-timerule"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TimeRule</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class TimeRule</code></pre>
-<pre><code>extension TimeRule: NativeBase</code></pre>
-<pre><code>extension TimeRule: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TimeRule</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TimeRule</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">TimeRule</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Used to indicate a time period of one or more intervals in <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/concepts/time-domain.html">GDF</a> specification.
@@ -88,7 +81,7 @@ The brackets {} denotes duration, and the negative sign - represents a past dura
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(timeRule: String, timeZoneOffsetSeconds: Int32, dstSpec: String)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">timeRule</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">timeZoneOffsetSeconds</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">dstSpec</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -156,7 +149,7 @@ The brackets {} denotes duration, and the negative sign - represents a past dura
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var timeRuleString: String { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">timeRuleString</span><span class="p">:</span> <span class="kt">String</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -181,7 +174,7 @@ The brackets {} denotes duration, and the negative sign - represents a past dura
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var timeZoneOffsetSeconds: Int32 { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">timeZoneOffsetSeconds</span><span class="p">:</span> <span class="kt">Int32</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -206,7 +199,7 @@ The brackets {} denotes duration, and the negative sign - represents a past dura
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var dstSpec: String { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">dstSpec</span><span class="p">:</span> <span class="kt">String</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -230,7 +223,7 @@ The brackets {} denotes duration, and the negative sign - represents a past dura
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func appliesTo(dateTime: Date) -&gt; Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">appliesTo</span><span class="p">(</span><span class="nv">dateTime</span><span class="p">:</span> <span class="kt">Date</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -269,8 +262,8 @@ The brackets {} denotes duration, and the negative sign - represents a past dura
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

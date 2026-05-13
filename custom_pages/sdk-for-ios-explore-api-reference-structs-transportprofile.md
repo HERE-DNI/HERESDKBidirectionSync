@@ -1,5 +1,5 @@
 ---
-title: "TransportProfile Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-transportprofile"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-transportprofile"
 <!-- TransportProfile.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/TransportProfile"></a>
 <a title="TransportProfile Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,11 +29,11 @@ slug: "sdk-for-ios-explore-api-reference-structs-transportprofile"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TransportProfile</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use <code>TransportSpecification</code> instead.")
-public struct TransportProfile : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use <code>TransportSpecification</code> instead.")</span>
+<span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TransportProfile</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Contains values of transport profile.
@@ -68,7 +61,7 @@ This is a BETA feature and thus there can be bugs and unexpected behavior.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var pedestrianProfile: PedestrianProfile</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">pedestrianProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-pedestrianprofile">PedestrianProfile</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ This is a BETA feature and thus there can be bugs and unexpected behavior.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var vehicleProfile: VehicleProfile?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">vehicleProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-vehicleprofile">VehicleProfile</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ This is a BETA feature and thus there can be bugs and unexpected behavior.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(pedestrianProfile: PedestrianProfile = PedestrianProfile(), vehicleProfile: VehicleProfile? = VehicleProfile(vehicleType: VehicleType.car))</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">pedestrianProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-pedestrianprofile">PedestrianProfile</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-pedestrianprofile">PedestrianProfile</a></span><span class="p">(),</span> <span class="nv">vehicleProfile</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-vehicleprofile">VehicleProfile</a></span><span class="p">?</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-vehicleprofile">VehicleProfile</a></span><span class="p">(</span><span class="nv">vehicleType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-vehicletype">VehicleType</a></span><span class="o">.</span><span class="n">car</span><span class="p">))</span></code></pre>
 </div>
 </div>
 </section>
@@ -134,8 +127,8 @@ This is a BETA feature and thus there can be bugs and unexpected behavior.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

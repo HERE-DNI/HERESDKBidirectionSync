@@ -1,5 +1,5 @@
 ---
-title: "EngineBaseURL Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-enginebaseurl"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-enginebaseurl"
 <!-- EngineBaseURL.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/EngineBaseURL"></a>
 <a title="EngineBaseURL Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-enginebaseurl"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EngineBaseURL</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum EngineBaseURL : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EngineBaseURL</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Lists the available HERE SDK endpoints that can be customized with a custom backend base URL.</p>
@@ -72,7 +65,7 @@ query data. You need to ensure that the provided base URL supports all required 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case searchEngine</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">searchEngine</span></code></pre>
 </div>
 </div>
 </section>
@@ -102,7 +95,7 @@ query data. You need to ensure that the provided base URL supports all required 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case routingEngine</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">routingEngine</span></code></pre>
 </div>
 </div>
 </section>
@@ -132,7 +125,7 @@ query data. You need to ensure that the provided base URL supports required endp
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case authentication</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">authentication</span></code></pre>
 </div>
 </div>
 </section>
@@ -167,7 +160,7 @@ If you do not load a custom catalog configuration, you can ignore this setting.<
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case dsProxy</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">dsProxy</span></code></pre>
 </div>
 </div>
 </section>
@@ -195,7 +188,7 @@ please use <code><a href="../Enums/EngineBaseURL.html#/s:7heresdk13EngineBaseURL
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case trafficData</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">trafficData</span></code></pre>
 </div>
 </div>
 </section>
@@ -228,7 +221,7 @@ You need to ensure that the provided base URL supports all required endpoints.</
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case trafficVectorTileService</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">trafficVectorTileService</span></code></pre>
 </div>
 </div>
 </section>
@@ -256,7 +249,7 @@ could look like:
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rasterTileService</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rasterTileService</span></code></pre>
 </div>
 </div>
 </section>
@@ -286,7 +279,7 @@ query data. You need to ensure that the provided base URL supports all required 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case isolineRoutingEngine</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">isolineRoutingEngine</span></code></pre>
 </div>
 </div>
 </section>
@@ -302,8 +295,8 @@ query data. You need to ensure that the provided base URL supports all required 
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

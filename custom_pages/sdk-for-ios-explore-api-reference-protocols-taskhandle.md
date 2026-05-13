@@ -1,5 +1,5 @@
 ---
-title: "TaskHandle Protocol Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-protocols-taskhandle"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-protocols-taskhandle"
 <!-- TaskHandle.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Protocol/TaskHandle"></a>
 <a title="TaskHandle Protocol Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-taskhandle"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TaskHandle</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public protocol TaskHandle : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">TaskHandle</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 <p>Handle used for the manipulation of the task.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-taskhandle"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>var isFinished: Bool { get }</code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">isFinished</span><span class="p">:</span> <span class="kt">Bool</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-taskhandle"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>var isCancelled: Bool { get }</code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">isCancelled</span><span class="p">:</span> <span class="kt">Bool</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ to interrupt it.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func cancel() -&gt; Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">cancel</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -139,8 +132,8 @@ platform dependent reason.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

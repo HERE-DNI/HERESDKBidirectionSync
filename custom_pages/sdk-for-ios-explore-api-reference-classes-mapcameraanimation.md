@@ -1,5 +1,5 @@
 ---
-title: "MapCameraAnimation Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcameraanimation"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcameraanimation"
 <!-- MapCameraAnimation.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapCameraAnimation"></a>
 <a title="MapCameraAnimation Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcameraanimation"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapCameraAnimation</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapCameraAnimation</code></pre>
-<pre><code>extension MapCameraAnimation: NativeBase</code></pre>
-<pre><code>extension MapCameraAnimation: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapCameraAnimation</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraAnimation</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraAnimation</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>An animation that can be applied to a <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamera">MapCamera</a></code>.
@@ -70,7 +63,7 @@ Creation is done via <code><a href="sdk-for-ios-explore-api-reference-..-classes
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias InstantiationError = InstantiationErrorCode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraanimation-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -96,8 +89,8 @@ Creation is done via <code><a href="sdk-for-ios-explore-api-reference-..-classes
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum InstantiationErrorCode : UInt32, CaseIterable, Codable</code></pre>
-<pre><code>extension MapCameraAnimation.InstantiationErrorCode : Error</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraanimation">MapCameraAnimation</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -113,8 +106,8 @@ Creation is done via <code><a href="sdk-for-ios-explore-api-reference-..-classes
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

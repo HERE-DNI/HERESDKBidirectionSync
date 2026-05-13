@@ -1,5 +1,5 @@
 ---
-title: "ParameterConfiguration Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-parameterconfiguration"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-parameterconfiguration"
 <!-- ParameterConfiguration.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/ParameterConfiguration"></a>
 <a title="ParameterConfiguration Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-parameterconfiguration"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>ParameterConfiguration</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct ParameterConfiguration : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ParameterConfiguration</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Contains values of configurable parameters that are used in SDK.
@@ -67,7 +60,7 @@ This is a BETA feature and thus there can be bugs and unexpected behavior.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var transportSpecification: TransportSpecification</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">transportSpecification</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-transportspecification">TransportSpecification</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ to <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -111,8 +104,8 @@ to <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

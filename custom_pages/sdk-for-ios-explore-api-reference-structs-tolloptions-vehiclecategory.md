@@ -1,5 +1,5 @@
 ---
-title: "VehicleCategory Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-tolloptions-vehiclecategory"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-tolloptions-vehiclecategory"
 <!-- VehicleCategory.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/VehicleCategory"></a>
 <a title="VehicleCategory Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-tolloptions-vehiclecategory"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>VehicleCategory</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum VehicleCategory : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">VehicleCategory</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Supported options of vehicle category for toll calculation.</p>
@@ -69,7 +62,7 @@ or small bus that is used to transport a maximum of 15 passengers.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case minibus</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">minibus</span></code></pre>
 </div>
 </div>
 </section>
@@ -85,8 +78,8 @@ or small bus that is used to transport a maximum of 15 passengers.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

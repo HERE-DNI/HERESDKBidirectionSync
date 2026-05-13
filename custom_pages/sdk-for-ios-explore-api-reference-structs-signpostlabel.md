@@ -1,5 +1,5 @@
 ---
-title: "SignpostLabel Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-signpostlabel"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-signpostlabel"
 <!-- SignpostLabel.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/SignpostLabel"></a>
 <a title="SignpostLabel Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-signpostlabel"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>SignpostLabel</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct SignpostLabel : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">SignpostLabel</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Details of a signpost representing a particular direction or destination.</p>
@@ -67,7 +60,7 @@ Can be null for unnamed road.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var localizedText: LocalizedText?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">localizedText</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-localizedtext">LocalizedText</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ Can be null if the road has no number assigned.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var localizedRoadNumber: LocalizedRoadNumber?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">localizedRoadNumber</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-localizedroadnumber">LocalizedRoadNumber</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ Can be null if the road has no number assigned.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(localizedText: LocalizedText? = nil, localizedRoadNumber: LocalizedRoadNumber? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">localizedText</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-localizedtext">LocalizedText</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">localizedRoadNumber</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-localizedroadnumber">LocalizedRoadNumber</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -134,8 +127,8 @@ Can be null if the road has no number assigned.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

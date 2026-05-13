@@ -1,5 +1,5 @@
 ---
-title: "IndoorLevelChangeFeatures Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-indoorlevelchangefeatures"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoorlevelchangefeatures"
 <!-- IndoorLevelChangeFeatures.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/IndoorLevelChangeFeatures"></a>
 <a title="IndoorLevelChangeFeatures Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoorlevelchangefeatures"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>IndoorLevelChangeFeatures</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum IndoorLevelChangeFeatures : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">IndoorLevelChangeFeatures</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Indoor route features.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoorlevelchangefeatures"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case connector</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">connector</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoorlevelchangefeatures"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case elevator</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">elevator</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoorlevelchangefeatures"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case escalator</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">escalator</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoorlevelchangefeatures"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ramp</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ramp</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoorlevelchangefeatures"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case stairs</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">stairs</span></code></pre>
 </div>
 </div>
 </section>
@@ -191,7 +184,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoorlevelchangefeatures"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case pedestrianRamp</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">pedestrianRamp</span></code></pre>
 </div>
 </div>
 </section>
@@ -216,7 +209,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoorlevelchangefeatures"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case carLift</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">carLift</span></code></pre>
 </div>
 </div>
 </section>
@@ -241,7 +234,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoorlevelchangefeatures"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case driveRamp</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">driveRamp</span></code></pre>
 </div>
 </div>
 </section>
@@ -266,7 +259,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoorlevelchangefeatures"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case elevatorBank</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">elevatorBank</span></code></pre>
 </div>
 </div>
 </section>
@@ -282,8 +275,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoorlevelchangefeatures"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

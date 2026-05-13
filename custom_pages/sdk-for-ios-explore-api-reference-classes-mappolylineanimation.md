@@ -1,5 +1,5 @@
 ---
-title: "MapPolylineAnimation Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolylineanimation"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolylineanimation"
 <!-- MapPolylineAnimation.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapPolylineAnimation"></a>
 <a title="MapPolylineAnimation Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolylineanimation"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapPolylineAnimation</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapPolylineAnimation</code></pre>
-<pre><code>extension MapPolylineAnimation: NativeBase</code></pre>
-<pre><code>extension MapPolylineAnimation: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapPolylineAnimation</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapPolylineAnimation</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapPolylineAnimation</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>An animation that can be applied to the <code><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline">MapPolyline</a></code> object.</p>
@@ -68,7 +61,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolylineanimation"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias InstantiationError = InstantiationErrorCode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolylineanimation-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -100,7 +93,7 @@ For starting the animation, see <code><a href="../Classes/MapPolyline.html#/s:7h
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(track: MapItemKeyFrameTrack) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">track</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapitemkeyframetrack">MapItemKeyFrameTrack</a></span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -145,8 +138,8 @@ For starting the animation, see <code><a href="../Classes/MapPolyline.html#/s:7h
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum InstantiationErrorCode : UInt32, CaseIterable, Codable</code></pre>
-<pre><code>extension MapPolylineAnimation.InstantiationErrorCode : Error</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolylineanimation">MapPolylineAnimation</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -162,8 +155,8 @@ For starting the animation, see <code><a href="../Classes/MapPolyline.html#/s:7h
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

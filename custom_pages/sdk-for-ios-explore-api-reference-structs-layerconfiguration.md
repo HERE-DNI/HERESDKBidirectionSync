@@ -1,5 +1,5 @@
 ---
-title: "LayerConfiguration Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-layerconfiguration"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-layerconfiguration"
 <!-- LayerConfiguration.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/LayerConfiguration"></a>
 <a title="LayerConfiguration Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-layerconfiguration"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>LayerConfiguration</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct LayerConfiguration : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">LayerConfiguration</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>A class to configure which layers should be enabled or disabled in the OCM map data.
@@ -93,7 +86,7 @@ Empty list disables map download, as no map content specified for download in th
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var enabledFeatures: [LayerConfiguration.Feature]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">enabledFeatures</span><span class="p">:</span> <span class="p">[</span><span class="kt">LayerConfiguration</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-layerconfiguration-feature">Feature</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -131,7 +124,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var implicitlyPrefetchedFeatures: [LayerConfiguration.Feature]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">implicitlyPrefetchedFeatures</span><span class="p">:</span> <span class="p">[</span><span class="kt">LayerConfiguration</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-layerconfiguration-feature">Feature</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -156,7 +149,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(enabledFeatures: [LayerConfiguration.Feature])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">enabledFeatures</span><span class="p">:</span> <span class="p">[</span><span class="kt">LayerConfiguration</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-layerconfiguration-feature">Feature</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -227,7 +220,7 @@ the same data to enable discoverability by name or category. Hence, features mig
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum Feature : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">Feature</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -243,8 +236,8 @@ the same data to enable discoverability by name or category. Hence, features mig
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

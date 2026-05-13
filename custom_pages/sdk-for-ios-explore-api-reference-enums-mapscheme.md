@@ -1,5 +1,5 @@
 ---
-title: "MapScheme Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-mapscheme"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-mapscheme"
 <!-- MapScheme.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/MapScheme"></a>
 <a title="MapScheme Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-mapscheme"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapScheme</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum MapScheme : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">MapScheme</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Represents the preconfigured map schemes bundled with the SDK.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-mapscheme"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case normalDay</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">normalDay</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-mapscheme"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case normalNight</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">normalNight</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-mapscheme"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case satellite</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">satellite</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-mapscheme"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case hybridDay</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">hybridDay</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-mapscheme"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case hybridNight</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">hybridNight</span></code></pre>
 </div>
 </div>
 </section>
@@ -192,7 +185,7 @@ featuring fewer map elements and a more limited color palette.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case liteDay</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">liteDay</span></code></pre>
 </div>
 </div>
 </section>
@@ -218,7 +211,7 @@ featuring fewer map elements and a more limited color palette.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case liteNight</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">liteNight</span></code></pre>
 </div>
 </div>
 </section>
@@ -244,7 +237,7 @@ featuring fewer map elements and a more limited color palette.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case liteHybridDay</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">liteHybridDay</span></code></pre>
 </div>
 </div>
 </section>
@@ -270,7 +263,7 @@ featuring fewer map elements and a more limited color palette.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case liteHybridNight</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">liteHybridNight</span></code></pre>
 </div>
 </div>
 </section>
@@ -296,7 +289,7 @@ fleet managers and delivery drivers, highlighting and featuring map elements rel
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case logisticsDay</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">logisticsDay</span></code></pre>
 </div>
 </div>
 </section>
@@ -322,7 +315,7 @@ fleet managers and delivery drivers, highlighting and featuring map elements rel
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case logisticsNight</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">logisticsNight</span></code></pre>
 </div>
 </div>
 </section>
@@ -348,7 +341,7 @@ fleet managers and delivery drivers, highlighting and featuring map elements rel
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case logisticsHybridDay</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">logisticsHybridDay</span></code></pre>
 </div>
 </div>
 </section>
@@ -374,7 +367,7 @@ fleet managers and delivery drivers, highlighting and featuring map elements rel
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case logisticsHybridNight</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">logisticsHybridNight</span></code></pre>
 </div>
 </div>
 </section>
@@ -402,7 +395,7 @@ highlighted on top of this map scheme.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case roadNetworkDay</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">roadNetworkDay</span></code></pre>
 </div>
 </div>
 </section>
@@ -430,7 +423,7 @@ highlighted on top of this map scheme.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case roadNetworkNight</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">roadNetworkNight</span></code></pre>
 </div>
 </div>
 </section>
@@ -446,8 +439,8 @@ highlighted on top of this map scheme.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

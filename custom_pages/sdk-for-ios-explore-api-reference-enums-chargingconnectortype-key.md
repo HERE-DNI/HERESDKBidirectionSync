@@ -1,5 +1,5 @@
 ---
-title: "Key Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype-key"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype-key"
 <!-- Key.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/Key"></a>
 <a title="Key Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype-key"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Key</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum Key : CodingKey</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">Key</span> <span class="p">:</span> <span class="kt">CodingKey</span></code></pre>
 </div>
 </div>
 <p>A type that can be used as a key for encoding and decoding.</p>
@@ -68,7 +61,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype-key"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rawValue</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rawValue</span></code></pre>
 </div>
 </div>
 </section>
@@ -84,8 +77,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype-key"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "RoadTexts Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-roadtexts"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-roadtexts"
 <!-- RoadTexts.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/RoadTexts"></a>
 <a title="RoadTexts Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-roadtexts"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RoadTexts</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct RoadTexts : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">RoadTexts</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Textual attributes of road.</p>
@@ -67,7 +60,7 @@ Empty for unnamed roads.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var names: LocalizedTexts</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">names</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-localizedtexts">LocalizedTexts</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ Empty if the road has no numbers assigned.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var numbersWithDirection: LocalizedRoadNumbers</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">numbersWithDirection</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-localizedroadnumbers">LocalizedRoadNumbers</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ Empty if the road has no numbers assigned.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(names: LocalizedTexts = LocalizedTexts(), numbersWithDirection: LocalizedRoadNumbers = LocalizedRoadNumbers())</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">names</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-localizedtexts">LocalizedTexts</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-localizedtexts">LocalizedTexts</a></span><span class="p">(),</span> <span class="nv">numbersWithDirection</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-localizedroadnumbers">LocalizedRoadNumbers</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-localizedroadnumbers">LocalizedRoadNumbers</a></span><span class="p">())</span></code></pre>
 </div>
 </div>
 </section>
@@ -134,8 +127,8 @@ Empty if the road has no numbers assigned.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

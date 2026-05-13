@@ -1,5 +1,5 @@
 ---
-title: "VehicleRestriction Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestriction"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <!-- VehicleRestriction.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/VehicleRestriction"></a>
 <a title="VehicleRestriction Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>VehicleRestriction</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct VehicleRestriction : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">VehicleRestriction</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The vehicle restriction representing a vehicle category and relevant restriction rules.</p>
@@ -68,7 +61,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isRestrictedAlways: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isRestrictedAlways</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isDieselFuelRestricted: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isDieselFuelRestricted</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isPetrolFuelRestricted: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isPetrolFuelRestricted</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -143,7 +136,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isLpgFuelRestricted: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isLpgFuelRestricted</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -168,7 +161,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isCaravanRestricted: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isCaravanRestricted</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -193,7 +186,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isTrailerRestricted: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isTrailerRestricted</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -218,7 +211,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isDrivingWithoutSnowChainsRestricted: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isDrivingWithoutSnowChainsRestricted</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -243,7 +236,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isDrivingWithoutWinterTyresRestricted: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isDrivingWithoutWinterTyresRestricted</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -268,7 +261,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isEvenNumberPlateRestricted: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isEvenNumberPlateRestricted</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -293,7 +286,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isOddNumberPlateRestricted: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isOddNumberPlateRestricted</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -318,7 +311,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isThroughTrafficRestricted: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isThroughTrafficRestricted</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -343,7 +336,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isResidentsTrafficRestricted: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isResidentsTrafficRestricted</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -368,7 +361,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isDestinationInIncidentAreaRestricted: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isDestinationInIncidentAreaRestricted</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -393,7 +386,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isEuro3EmissionStandardRestricted: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isEuro3EmissionStandardRestricted</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -418,7 +411,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isEuro4EmissionStandardRestricted: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isEuro4EmissionStandardRestricted</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -443,7 +436,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestrict
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isEuro5EmissionStandardRestricted: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isEuro5EmissionStandardRestricted</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -469,7 +462,7 @@ If the value is <code>nil</code> the upper gross weight bound is not specified.<
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var restrictedIfGrossWeightMoreThanInKilograms: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">restrictedIfGrossWeightMoreThanInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -495,7 +488,7 @@ If the value is <code>nil</code> the lower gross weight bound is not specified.<
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var restrictedIfGrossWeightLessThanInKilograms: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">restrictedIfGrossWeightLessThanInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -521,7 +514,7 @@ If the value is <code>nil</code> the upper weight per axle bound is not specifie
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var restrictedIfAxleWeightMoreThanInKilograms: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">restrictedIfAxleWeightMoreThanInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -547,7 +540,7 @@ If the value is <code>nil</code> the lower weight per axle bound is not specifie
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var restrictedIfAxleWeightLessThanInKilograms: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">restrictedIfAxleWeightLessThanInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -573,7 +566,7 @@ If the value is <code>nil</code> the upper length bound is not specified.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var restrictedIfLongerThanInCentimeters: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">restrictedIfLongerThanInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -599,7 +592,7 @@ If the value is <code>nil</code> the lower length bound is not specified.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var restrictedIfShorterThanInCentimeters: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">restrictedIfShorterThanInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -625,7 +618,7 @@ If the value is <code>nil</code> the upper height bound is not specified.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var restrictedIfHigherThanInCentimeters: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">restrictedIfHigherThanInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -651,7 +644,7 @@ If the value is <code>nil</code> the lower height bound is not specified.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var restrictedIfLowerThanInCentimeters: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">restrictedIfLowerThanInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -677,7 +670,7 @@ If the value is <code>nil</code> the upper width bound is not specified.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var restrictedIfWiderThanInCentimeters: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">restrictedIfWiderThanInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -703,7 +696,7 @@ If the value is <code>nil</code> the lower width bound is not specified.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var restrictedIfNarrowerThanInCentimeters: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">restrictedIfNarrowerThanInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -729,7 +722,7 @@ If the value is <code>nil</code> the upper occupants bound is not specified.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var restrictedIfOccupantsMoreThan: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">restrictedIfOccupantsMoreThan</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -755,7 +748,7 @@ If the value is <code>nil</code> the lower occupants bound is not specified.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var restrictedIfOccupantsFewerThan: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">restrictedIfOccupantsFewerThan</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -780,7 +773,7 @@ If the value is <code>nil</code> the lower occupants bound is not specified.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(isRestrictedAlways: Bool = false, isDieselFuelRestricted: Bool = false, isPetrolFuelRestricted: Bool = false, isLpgFuelRestricted: Bool = false, isCaravanRestricted: Bool = false, isTrailerRestricted: Bool = false, isDrivingWithoutSnowChainsRestricted: Bool = false, isDrivingWithoutWinterTyresRestricted: Bool = false, isEvenNumberPlateRestricted: Bool = false, isOddNumberPlateRestricted: Bool = false, isThroughTrafficRestricted: Bool = false, isResidentsTrafficRestricted: Bool = false, isDestinationInIncidentAreaRestricted: Bool = false, isEuro3EmissionStandardRestricted: Bool = false, isEuro4EmissionStandardRestricted: Bool = false, isEuro5EmissionStandardRestricted: Bool = false, restrictedIfGrossWeightMoreThanInKilograms: Int32? = nil, restrictedIfGrossWeightLessThanInKilograms: Int32? = nil, restrictedIfAxleWeightMoreThanInKilograms: Int32? = nil, restrictedIfAxleWeightLessThanInKilograms: Int32? = nil, restrictedIfLongerThanInCentimeters: Int32? = nil, restrictedIfShorterThanInCentimeters: Int32? = nil, restrictedIfHigherThanInCentimeters: Int32? = nil, restrictedIfLowerThanInCentimeters: Int32? = nil, restrictedIfWiderThanInCentimeters: Int32? = nil, restrictedIfNarrowerThanInCentimeters: Int32? = nil, restrictedIfOccupantsMoreThan: Int32? = nil, restrictedIfOccupantsFewerThan: Int32? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">isRestrictedAlways</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">isDieselFuelRestricted</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">isPetrolFuelRestricted</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">isLpgFuelRestricted</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">isCaravanRestricted</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">isTrailerRestricted</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">isDrivingWithoutSnowChainsRestricted</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">isDrivingWithoutWinterTyresRestricted</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">isEvenNumberPlateRestricted</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">isOddNumberPlateRestricted</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">isThroughTrafficRestricted</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">isResidentsTrafficRestricted</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">isDestinationInIncidentAreaRestricted</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">isEuro3EmissionStandardRestricted</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">isEuro4EmissionStandardRestricted</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">isEuro5EmissionStandardRestricted</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">false</span><span class="p">,</span> <span class="nv">restrictedIfGrossWeightMoreThanInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">restrictedIfGrossWeightLessThanInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">restrictedIfAxleWeightMoreThanInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">restrictedIfAxleWeightLessThanInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">restrictedIfLongerThanInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">restrictedIfShorterThanInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">restrictedIfHigherThanInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">restrictedIfLowerThanInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">restrictedIfWiderThanInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">restrictedIfNarrowerThanInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">restrictedIfOccupantsMoreThan</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">restrictedIfOccupantsFewerThan</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -796,8 +789,8 @@ If the value is <code>nil</code> the lower occupants bound is not specified.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "GestureType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-gesturetype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-gesturetype"
 <!-- GestureType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/GestureType"></a>
 <a title="GestureType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-gesturetype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>GestureType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum GestureType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">GestureType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Enum that represents the type of a gesture.</p>
@@ -67,7 +60,7 @@ the map out by a factor of 0.5 and the map becomes twice as small.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case twoFingerTap</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">twoFingerTap</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ the map in by a factor of 2 and the map becomes twice as big.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case doubleTap</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">doubleTap</span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ the map.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case pan</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">pan</span></code></pre>
 </div>
 </div>
 </section>
@@ -145,7 +138,7 @@ tilts the map.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case twoFingerPan</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">twoFingerPan</span></code></pre>
 </div>
 </div>
 </section>
@@ -171,7 +164,7 @@ continuously scales, zooms or rotates the map.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case pinchRotate</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">pinchRotate</span></code></pre>
 </div>
 </div>
 </section>
@@ -187,8 +180,8 @@ continuously scales, zooms or rotates the map.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

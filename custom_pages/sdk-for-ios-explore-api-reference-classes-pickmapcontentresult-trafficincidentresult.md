@@ -1,5 +1,5 @@
 ---
-title: "TrafficIncidentResult Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult-trafficincidentresult"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult-trafficinc
 <!-- TrafficIncidentResult.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/TrafficIncidentResult"></a>
 <a title="TrafficIncidentResult Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,12 +31,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult-trafficinc
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TrafficIncidentResult</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class TrafficIncidentResult : TrafficIncidentBase</code></pre>
-<pre><code>extension PickMapContentResult.TrafficIncidentResult: NativeBase</code></pre>
-<pre><code>extension PickMapContentResult.TrafficIncidentResult: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrafficIncidentResult</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-protocols-trafficincidentbase">TrafficIncidentBase</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-pickmapcontentresult">PickMapContentResult</a></span><span class="o">.</span><span class="kt">TrafficIncidentResult</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-pickmapcontentresult">PickMapContentResult</a></span><span class="o">.</span><span class="kt">TrafficIncidentResult</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Carries the result of picking a Carto traffic incident object.
@@ -73,7 +66,7 @@ The value is <code><a href="../../Enums/TrafficIncidentImpact.html#/s:7heresdk21
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var impact: TrafficIncidentImpact { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">impact</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-trafficincidentimpact">TrafficIncidentImpact</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -99,7 +92,7 @@ The value is <code><a href="../../Enums/TrafficIncidentType.html#/s:7heresdk19Tr
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var type: TrafficIncidentType { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-trafficincidenttype">TrafficIncidentType</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -127,7 +120,7 @@ always an empty string is returned. This does not apply when using the <code><a 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var description: LocalizedText { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">description</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-localizedtext">LocalizedText</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -153,7 +146,7 @@ The value is <code>nil</code> if it hasn’t been provided by the traffic incide
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var startTime: Date? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">startTime</span><span class="p">:</span> <span class="kt">Date</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -179,7 +172,7 @@ The value is <code>nil</code> if it hasn’t been provided by the traffic incide
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var endTime: Date? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">endTime</span><span class="p">:</span> <span class="kt">Date</span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -206,7 +199,7 @@ for the specified event.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var originalId: String { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">originalId</span><span class="p">:</span> <span class="kt">String</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -231,7 +224,7 @@ for the specified event.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var coordinates: GeoCoordinates { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-geocoordinates">GeoCoordinates</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -247,8 +240,8 @@ for the specified event.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "HereMap Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-heremap"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-heremap"
 <!-- HereMap.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/HereMap"></a>
 <a title="HereMap Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-heremap"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>HereMap</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class HereMap</code></pre>
-<pre><code>extension HereMap: NativeBase</code></pre>
-<pre><code>extension HereMap: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">HereMap</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">HereMap</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">HereMap</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The representation of a dynamic and interactive geographic map.
@@ -75,7 +68,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var style: Style { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">style</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-style">Style</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -106,7 +99,7 @@ The caller is responsible for releasing the strong reference by calling
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func addMapIdleDelegate(_ delegate: MapIdleDelegate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addMapIdleDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-mapidledelegate">MapIdleDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -150,7 +143,7 @@ The caller is responsible for releasing the strong reference by calling
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeMapIdleDelegate(_ delegate: MapIdleDelegate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeMapIdleDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-mapidledelegate">MapIdleDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -185,8 +178,8 @@ The caller is responsible for releasing the strong reference by calling
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

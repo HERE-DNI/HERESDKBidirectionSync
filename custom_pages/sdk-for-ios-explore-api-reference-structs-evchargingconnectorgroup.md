@@ -1,5 +1,5 @@
 ---
-title: "EVChargingConnectorGroup Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingconnectorgroup"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingconnectorgroup"
 <!-- EVChargingConnectorGroup.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/EVChargingConnectorGroup"></a>
 <a title="EVChargingConnectorGroup Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-evchargingconnectorgroup"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVChargingConnectorGroup</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct EVChargingConnectorGroup : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVChargingConnectorGroup</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents the connector group at the charging location.
@@ -69,7 +62,7 @@ Should be one of the constants defined in <code><a href="sdk-for-ios-explore-api
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var connectorType: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">connectorType</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ Connectors without max power are not grouped.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxPowerInWatts: Int32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxPowerInWatts</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
 </section>
@@ -123,7 +116,7 @@ Available only if <code>EVChargingLocationFeature.EVSES</code> is included in
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var connectors: [EVChargingConnectorReference]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">connectors</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingconnectorreference">EVChargingConnectorReference</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -149,7 +142,7 @@ connectors they are counted as one as only one is accessible at a time.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var connectorCount: Int32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">connectorCount</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
 </section>
@@ -175,7 +168,7 @@ The field is not present if the availability is not known.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var availableConnectorCount: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">availableConnectorCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -202,7 +195,7 @@ Available only if <code>EVChargingLocationFeature.TARIFFS</code> is included in
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var tariffIndexes: [Int32]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tariffIndexes</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -227,7 +220,7 @@ Available only if <code>EVChargingLocationFeature.TARIFFS</code> is included in
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(connectorType: String = "", maxPowerInWatts: Int32 = 1, connectors: [EVChargingConnectorReference] = [], connectorCount: Int32 = 1, availableConnectorCount: Int32? = nil, tariffIndexes: [Int32] = [])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">connectorType</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">""</span><span class="p">,</span> <span class="nv">maxPowerInWatts</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="nv">connectors</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingconnectorreference">EVChargingConnectorReference</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">connectorCount</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="nv">availableConnectorCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">tariffIndexes</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>
@@ -243,8 +236,8 @@ Available only if <code>EVChargingLocationFeature.TARIFFS</code> is included in
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

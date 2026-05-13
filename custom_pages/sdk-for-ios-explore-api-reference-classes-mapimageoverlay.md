@@ -1,5 +1,5 @@
 ---
-title: "MapImageOverlay Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapimageoverlay"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapimageoverlay"
 <!-- MapImageOverlay.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapImageOverlay"></a>
 <a title="MapImageOverlay Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapimageoverlay"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapImageOverlay</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapImageOverlay</code></pre>
-<pre><code>extension MapImageOverlay: NativeBase</code></pre>
-<pre><code>extension MapImageOverlay: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapImageOverlay</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapImageOverlay</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapImageOverlay</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p><code>MapImageOverlay</code> is used to draw images over the map, at a view coordinate inside the map viewport.</p>
@@ -74,7 +67,7 @@ To stop displaying it, remove it from the scene using <code><a href="../Classes/
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(at viewCoordinates: Point2D, image: MapImage)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">at</span> <span class="nv">viewCoordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point2d">Point2D</a></span><span class="p">,</span> <span class="nv">image</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapimage">MapImage</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -138,7 +131,7 @@ in pixels that is equal to the height of the image.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(at viewCoordinates: Point2D, image: MapImage, anchor: Anchor2D)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">at</span> <span class="nv">viewCoordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point2d">Point2D</a></span><span class="p">,</span> <span class="nv">image</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapimage">MapImage</a></span><span class="p">,</span> <span class="nv">anchor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-anchor2d">Anchor2D</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -207,7 +200,7 @@ to the overlay’s view coordinates.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var viewCoordinates: Point2D { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">viewCoordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point2d">Point2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -236,7 +229,7 @@ then the order in which they were added to the scene matters. Last added overlay
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var drawOrder: Int32 { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">drawOrder</span><span class="p">:</span> <span class="kt">Int32</span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -261,7 +254,7 @@ then the order in which they were added to the scene matters. Last added overlay
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var image: MapImage { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">image</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapimage">MapImage</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -293,7 +286,7 @@ in pixels that is equal to the height of the image.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var anchor: Anchor2D { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">anchor</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-anchor2d">Anchor2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -309,8 +302,8 @@ in pixels that is equal to the height of the image.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

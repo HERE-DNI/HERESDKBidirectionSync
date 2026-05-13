@@ -1,5 +1,5 @@
 ---
-title: "RasterTileSourceLoadResultHandler Protocol Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-protocols-rastertilesourceloadresulthandler"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-protocols-rastertilesourceloadresulthan
 <!-- RasterTileSourceLoadResultHandler.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Protocol/RasterTileSourceLoadResultHandler"></a>
 <a title="RasterTileSourceLoadResultHandler Protocol Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-rastertilesourceloadresulthan
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RasterTileSourceLoadResultHandler</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public protocol RasterTileSourceLoadResultHandler : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">RasterTileSourceLoadResultHandler</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 <p>Result handler of a load tile request.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-rastertilesourceloadresulthan
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func loaded(tileKey: TileKey, data: Data, metadata: TileSourceTileMetadata)</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">loaded</span><span class="p">(</span><span class="nv">tileKey</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tilekey">TileKey</a></span><span class="p">,</span> <span class="nv">data</span><span class="p">:</span> <span class="kt">Data</span><span class="p">,</span> <span class="nv">metadata</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tilesourcetilemetadata">TileSourceTileMetadata</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -135,7 +128,7 @@ Supported are images in PNG or JPEG format.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func failed(_ tileKey: TileKey)</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">failed</span><span class="p">(</span><span class="n">_</span> <span class="nv">tileKey</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tilekey">TileKey</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -170,8 +163,8 @@ Supported are images in PNG or JPEG format.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

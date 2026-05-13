@@ -1,5 +1,5 @@
 ---
-title: "GenericFuel Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-genericfuel"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-genericfuel"
 <!-- GenericFuel.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/GenericFuel"></a>
 <a title="GenericFuel Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-genericfuel"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>GenericFuel</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct GenericFuel : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">GenericFuel</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Contains generic fuel type info of fuel station.</p>
@@ -68,7 +61,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var type: FuelType</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-fueltype">FuelType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ The list can be empty when no fuel additives are available or when the informati
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var additives: [FuelAdditive]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">additives</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-fueladditive">FuelAdditive</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ The list can be empty when no fuel additives are available or when the informati
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(type: FuelType, additives: [FuelAdditive] = [])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-fueltype">FuelType</a></span><span class="p">,</span> <span class="nv">additives</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-fueladditive">FuelAdditive</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>
@@ -135,8 +128,8 @@ The list can be empty when no fuel additives are available or when the informati
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

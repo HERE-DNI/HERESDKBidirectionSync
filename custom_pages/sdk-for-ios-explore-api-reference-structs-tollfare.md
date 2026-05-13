@@ -1,5 +1,5 @@
 ---
-title: "TollFare Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-tollfare"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-tollfare"
 <!-- TollFare.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/TollFare"></a>
 <a title="TollFare Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-tollfare"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TollFare</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct TollFare : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TollFare</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>This struct presents all the fare data for a toll.</p>
@@ -72,7 +65,7 @@ is only available for the Navigate license. If you’re using the
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var currency: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">currency</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -97,7 +90,7 @@ is only available for the Navigate license. If you’re using the
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var price: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">price</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -122,7 +115,7 @@ is only available for the Navigate license. If you’re using the
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var paymentMethods: [PaymentMethod]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">paymentMethods</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-paymentmethod">PaymentMethod</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -150,7 +143,7 @@ the documentation available in the <a href="https://www.here.com/docs/bundle/rou
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var timeRule: TimeRule?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">timeRule</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-timerule">TimeRule</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -175,7 +168,7 @@ the documentation available in the <a href="https://www.here.com/docs/bundle/rou
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var transponders: [String]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">transponders</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -200,7 +193,7 @@ the documentation available in the <a href="https://www.here.com/docs/bundle/rou
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var pass: TollFarePass?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">pass</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tollfarepass">TollFarePass</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -225,7 +218,7 @@ the documentation available in the <a href="https://www.here.com/docs/bundle/rou
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(currency: String, price: Double, paymentMethods: [PaymentMethod], timeRule: TimeRule? = nil, transponders: [String] = [], pass: TollFarePass? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">currency</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">price</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">paymentMethods</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-paymentmethod">PaymentMethod</a></span><span class="p">],</span> <span class="nv">timeRule</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-timerule">TimeRule</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">transponders</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">pass</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tollfarepass">TollFarePass</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -241,8 +234,8 @@ the documentation available in the <a href="https://www.here.com/docs/bundle/rou
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

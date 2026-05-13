@@ -1,5 +1,5 @@
 ---
-title: "RoadFeatures Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-roadfeatures"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-roadfeatures"
 <!-- RoadFeatures.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/RoadFeatures"></a>
 <a title="RoadFeatures Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-roadfeatures"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RoadFeatures</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum RoadFeatures : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">RoadFeatures</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Road features or states.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-roadfeatures"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case seasonalClosure</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">seasonalClosure</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-roadfeatures"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tollRoad</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tollRoad</span></code></pre>
 </div>
 </div>
 </section>
@@ -117,7 +110,7 @@ and highly controlled.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case controlledAccessHighway</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">controlledAccessHighway</span></code></pre>
 </div>
 </div>
 </section>
@@ -142,7 +135,7 @@ and highly controlled.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case ferry</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">ferry</span></code></pre>
 </div>
 </div>
 </section>
@@ -167,7 +160,7 @@ and highly controlled.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case carShuttleTrain</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">carShuttleTrain</span></code></pre>
 </div>
 </div>
 </section>
@@ -192,7 +185,7 @@ and highly controlled.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tunnel</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tunnel</span></code></pre>
 </div>
 </div>
 </section>
@@ -217,7 +210,7 @@ and highly controlled.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case dirtRoad</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">dirtRoad</span></code></pre>
 </div>
 </div>
 </section>
@@ -243,7 +236,7 @@ only for cars, trucks, taxis and buses.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case uTurns</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">uTurns</span></code></pre>
 </div>
 </div>
 </section>
@@ -259,8 +252,8 @@ only for cars, trucks, taxis and buses.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

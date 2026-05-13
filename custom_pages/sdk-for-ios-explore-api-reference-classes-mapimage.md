@@ -1,5 +1,5 @@
 ---
-title: "MapImage Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapimage"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapimage"
 <!-- MapImage.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapImage"></a>
 <a title="MapImage Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapimage"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapImage</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapImage</code></pre>
-<pre><code>extension MapImage: NativeBase</code></pre>
-<pre><code>extension MapImage: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapImage</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapImage</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapImage</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents a drawable resource that can be used by a <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker">MapMarker</a></code>, <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3d">MapMarker3D</a></code> or <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapimageoverlay">MapImageOverlay</a></code> to be shown on the map.
@@ -73,7 +66,7 @@ is accepted.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(pixelData: Data, imageFormat: ImageFormat)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">pixelData</span><span class="p">:</span> <span class="kt">Data</span><span class="p">,</span> <span class="nv">imageFormat</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-imageformat">ImageFormat</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -130,7 +123,7 @@ defined in <a href="https://www.w3.org/TR/PNG">https://www.w3.org/TR/PNG</a></p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(imageData: Data, imageFormat: ImageFormat, width: UInt32, height: UInt32)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">imageData</span><span class="p">:</span> <span class="kt">Data</span><span class="p">,</span> <span class="nv">imageFormat</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-imageformat">ImageFormat</a></span><span class="p">,</span> <span class="nv">width</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="nv">height</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -228,7 +221,7 @@ can be deleted by the system while the application is still running.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(filePath: String, width: UInt32, height: UInt32) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">filePath</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">width</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="nv">height</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -303,7 +296,7 @@ a regular image (for example, when it represents a mask).</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public convenience init?(from uiImage: UIImage) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="n">convenience</span> <span class="nf">init</span><span class="p">?(</span><span class="n">from</span> <span class="nv">uiImage</span><span class="p">:</span> <span class="kt">UIImage</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -353,7 +346,7 @@ bundle which can optionally be passed in. Currently only PNG or SVG Tiny image r
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public convenience init(named name: String, width: Int32, height: Int32, in bundle: Bundle? = nil) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="n">convenience</span> <span class="nf">init</span><span class="p">(</span><span class="n">named</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">width</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">height</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="k">in</span> <span class="nv">bundle</span><span class="p">:</span> <span class="kt">Bundle</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -424,8 +417,8 @@ bundle which can optionally be passed in. Currently only PNG or SVG Tiny image r
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

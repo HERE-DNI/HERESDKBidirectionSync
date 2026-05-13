@@ -1,5 +1,5 @@
 ---
-title: "PickMapItemsResult Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-pickmapitemsresult"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-pickmapitemsresult"
 <!-- PickMapItemsResult.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/PickMapItemsResult"></a>
 <a title="PickMapItemsResult Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-pickmapitemsresult"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>PickMapItemsResult</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class PickMapItemsResult</code></pre>
-<pre><code>extension PickMapItemsResult: NativeBase</code></pre>
-<pre><code>extension PickMapItemsResult: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PickMapItemsResult</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PickMapItemsResult</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PickMapItemsResult</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Carries results from the picking of map items on the map scene.</p>
@@ -69,7 +62,7 @@ or individual markers belonging to a cluster at the location of picking.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var clusteredMarkers: [MapMarkerCluster.Grouping] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">clusteredMarkers</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarkercluster">MapMarkerCluster</a></span><span class="o">.</span><span class="kt">Grouping</span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ or individual markers belonging to a cluster at the location of picking.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var markers: [MapMarker] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">markers</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker">MapMarker</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ or individual markers belonging to a cluster at the location of picking.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var markers3d: [MapMarker3D] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">markers3d</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapmarker3d">MapMarker3D</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -144,7 +137,7 @@ or individual markers belonging to a cluster at the location of picking.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var polylines: [MapPolyline] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">polylines</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolyline">MapPolyline</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -169,7 +162,7 @@ or individual markers belonging to a cluster at the location of picking.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var polygons: [MapPolygon] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">polygons</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mappolygon">MapPolygon</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -185,8 +178,8 @@ or individual markers belonging to a cluster at the location of picking.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

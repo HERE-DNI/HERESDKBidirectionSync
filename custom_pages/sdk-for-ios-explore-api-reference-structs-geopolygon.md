@@ -1,5 +1,5 @@
 ---
-title: "GeoPolygon Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-geopolygon"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-geopolygon"
 <!-- GeoPolygon.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/GeoPolygon"></a>
 <a title="GeoPolygon Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-geopolygon"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>GeoPolygon</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct GeoPolygon : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">GeoPolygon</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents a <code>GeoPolygon</code> area as a series of geographic coordinates, and optionally,
@@ -68,7 +61,7 @@ An instance of this class, initialized with appropriate vertices.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let vertices: [GeoCoordinates]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">vertices</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ An instance of this class, initialized with appropriate vertices.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let innerBoundaries: [[GeoCoordinates]]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">innerBoundaries</span><span class="p">:</span> <span class="p">[[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">]]</span></code></pre>
 </div>
 </div>
 </section>
@@ -124,7 +117,7 @@ Throws InstantiationError if the number of vertices is less than three.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(vertices: [GeoCoordinates]) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">vertices</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">])</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -174,7 +167,7 @@ Throws InstantiationError if the number of vertices is less than three.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(vertices: [GeoCoordinates], innerBoundaries: [[GeoCoordinates]]) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">vertices</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">],</span> <span class="nv">innerBoundaries</span><span class="p">:</span> <span class="p">[[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">]])</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -230,7 +223,7 @@ Throws InstantiationError if the number of vertices is less than three.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(geoCircle: GeoCircle)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">geoCircle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocircle">GeoCircle</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -274,7 +267,7 @@ Throws InstantiationError if the number of vertices is less than three.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(geoBox: GeoBox)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">geoBox</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geobox">GeoBox</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -310,8 +303,8 @@ The corner coordinates defined by the <code><a href="sdk-for-ios-explore-api-ref
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "CollectionOf Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-collectionof"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-collectionof"
 <!-- CollectionOf.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/CollectionOf"></a>
 <a title="CollectionOf Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-collectionof"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>CollectionOf</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class CollectionOf&lt;T&gt; : Collection</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">CollectionOf</span><span class="o">&lt;</span><span class="kt">T</span><span class="o">&gt;</span> <span class="p">:</span> <span class="kt">Collection</span></code></pre>
 </div>
 </div>
 <p>Custom collection implementation.</p>
@@ -65,7 +58,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-collectionof"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias Element = T</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">Element</span> <span class="o">=</span> <span class="kt">T</span></code></pre>
 </div>
 </div>
 </section>
@@ -89,7 +82,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-collectionof"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias Index = UInt64</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">Index</span> <span class="o">=</span> <span class="kt">UInt64</span></code></pre>
 </div>
 </div>
 </section>
@@ -113,7 +106,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-collectionof"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>private(set) public var startIndex: Index { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">private(set)</span> <span class="kd">public</span> <span class="k">var</span> <span class="nv">startIndex</span><span class="p">:</span> <span class="kt"><a href="../Classes/CollectionOf.html#/s:Sl5IndexQa">Index</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -137,7 +130,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-collectionof"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>private(set) public var endIndex: Index { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">private(set)</span> <span class="kd">public</span> <span class="k">var</span> <span class="nv">endIndex</span><span class="p">:</span> <span class="kt"><a href="../Classes/CollectionOf.html#/s:Sl5IndexQa">Index</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -161,7 +154,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-collectionof"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func index(after i: Index) -&gt; Index</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">index</span><span class="p">(</span><span class="n">after</span> <span class="nv">i</span><span class="p">:</span> <span class="kt"><a href="../Classes/CollectionOf.html#/s:Sl5IndexQa">Index</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="../Classes/CollectionOf.html#/s:Sl5IndexQa">Index</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -185,7 +178,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-collectionof"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public subscript(position: Index) -&gt; Element { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">subscript</span><span class="p">(</span><span class="nv">position</span><span class="p">:</span> <span class="kt"><a href="../Classes/CollectionOf.html#/s:Sl5IndexQa">Index</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="../Classes/CollectionOf.html#/s:ST7ElementQa">Element</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -201,8 +194,8 @@ slug: "sdk-for-ios-explore-api-reference-classes-collectionof"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

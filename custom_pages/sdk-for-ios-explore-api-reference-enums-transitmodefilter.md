@@ -1,5 +1,5 @@
 ---
-title: "TransitModeFilter Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-transitmodefilter"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmodefilter"
 <!-- TransitModeFilter.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/TransitModeFilter"></a>
 <a title="TransitModeFilter Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmodefilter"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TransitModeFilter</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum TransitModeFilter : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TransitModeFilter</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Filtering mode for public transit.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmodefilter"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case include</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">include</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmodefilter"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case exclude</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">exclude</span></code></pre>
 </div>
 </div>
 </section>
@@ -107,8 +100,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmodefilter"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

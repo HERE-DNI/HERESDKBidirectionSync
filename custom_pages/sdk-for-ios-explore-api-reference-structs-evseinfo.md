@@ -1,5 +1,5 @@
 ---
-title: "EVSEInfo Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-evseinfo"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-evseinfo"
 <!-- EVSEInfo.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/EVSEInfo"></a>
 <a title="EVSEInfo Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-evseinfo"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVSEInfo</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct EVSEInfo : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">EVSEInfo</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents an EVSE at the charging point.
@@ -70,7 +63,7 @@ This is the ‘technical’ identification of the EVSE, not to be used as ‘hum
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var uid: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">uid</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ This is the ‘technical’ identification of the EVSE, not to be used as ‘hum
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var id: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">id</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -120,7 +113,7 @@ This is the ‘technical’ identification of the EVSE, not to be used as ‘hum
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var evseID: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evseID</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -145,7 +138,7 @@ This is the ‘technical’ identification of the EVSE, not to be used as ‘hum
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var status: EVSEState</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">status</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evsestate">EVSEState</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -170,7 +163,7 @@ This is the ‘technical’ identification of the EVSE, not to be used as ‘hum
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var lastUpdated: Date</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">lastUpdated</span><span class="p">:</span> <span class="kt">Date</span></code></pre>
 </div>
 </div>
 </section>
@@ -195,7 +188,7 @@ This is the ‘technical’ identification of the EVSE, not to be used as ‘hum
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var connectors: [EVChargingConnector]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">connectors</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingconnector">EVChargingConnector</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -220,7 +213,7 @@ This is the ‘technical’ identification of the EVSE, not to be used as ‘hum
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var capabilities: [EVSECapability]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">capabilities</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evsecapability">EVSECapability</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -245,7 +238,7 @@ This is the ‘technical’ identification of the EVSE, not to be used as ‘hum
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var floorLevel: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">floorLevel</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -270,7 +263,7 @@ This is the ‘technical’ identification of the EVSE, not to be used as ‘hum
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var physicalReference: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">physicalReference</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -295,7 +288,7 @@ This is the ‘technical’ identification of the EVSE, not to be used as ‘hum
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var coordinates: GeoCoordinates?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -320,7 +313,7 @@ This is the ‘technical’ identification of the EVSE, not to be used as ‘hum
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var paymentSupports: [EVSEPaymentSupport]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">paymentSupports</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evsepaymentsupport">EVSEPaymentSupport</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -345,7 +338,7 @@ This is the ‘technical’ identification of the EVSE, not to be used as ‘hum
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(uid: String = "", id: String? = nil, evseID: String? = nil, status: EVSEState = EVSEState.unknown, lastUpdated: Date = Date(timeIntervalSince1970: 0), connectors: [EVChargingConnector] = [], capabilities: [EVSECapability] = [], floorLevel: String? = nil, physicalReference: String? = nil, coordinates: GeoCoordinates? = nil, paymentSupports: [EVSEPaymentSupport] = [])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">uid</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">""</span><span class="p">,</span> <span class="nv">id</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">evseID</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">status</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evsestate">EVSEState</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evsestate">EVSEState</a></span><span class="o">.</span><span class="n">unknown</span><span class="p">,</span> <span class="nv">lastUpdated</span><span class="p">:</span> <span class="kt">Date</span> <span class="o">=</span> <span class="kt">Date</span><span class="p">(</span><span class="nv">timeIntervalSince1970</span><span class="p">:</span> <span class="mi">0</span><span class="p">),</span> <span class="nv">connectors</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingconnector">EVChargingConnector</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">capabilities</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evsecapability">EVSECapability</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">floorLevel</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">physicalReference</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">coordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">paymentSupports</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-evsepaymentsupport">EVSEPaymentSupport</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>
@@ -361,8 +354,8 @@ This is the ‘technical’ identification of the EVSE, not to be used as ‘hum
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

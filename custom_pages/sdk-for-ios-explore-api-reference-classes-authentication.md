@@ -1,5 +1,5 @@
 ---
-title: "Authentication Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-authentication"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-authentication"
 <!-- Authentication.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/Authentication"></a>
 <a title="Authentication Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-authentication"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Authentication</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class Authentication</code></pre>
-<pre><code>extension Authentication: NativeBase</code></pre>
-<pre><code>extension Authentication: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">Authentication</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Authentication</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">Authentication</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Use the authentication class to authenticate and retrieve a secure token that
@@ -70,7 +63,7 @@ retrieve a secure token. This method operates asynchronously.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func authenticate(sdkNativeEngine: SDKNativeEngine, callback: @escaping AuthenticationCompletionHandler)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">authenticate</span><span class="p">(</span><span class="nv">sdkNativeEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">,</span> <span class="nv">callback</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt"><a href="../Core.html#/s:7heresdk31AuthenticationCompletionHandlera">AuthenticationCompletionHandler</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -132,7 +125,7 @@ retrieve a secure token. This method operates synchronously.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func authenticate(sdkNativeEngine: SDKNativeEngine) throws -&gt; AuthenticationData</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">authenticate</span><span class="p">(</span><span class="nv">sdkNativeEngine</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-sdknativeengine">SDKNativeEngine</a></span><span class="p">)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-authenticationdata">AuthenticationData</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -171,8 +164,8 @@ retrieve a secure token. This method operates synchronously.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

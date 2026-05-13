@@ -1,5 +1,5 @@
 ---
-title: "FarPlaneConfiguration Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcamera-farplaneconfiguration"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcamera-farplaneconfiguration
 <!-- FarPlaneConfiguration.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/FarPlaneConfiguration"></a>
 <a title="FarPlaneConfiguration Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcamera-farplaneconfiguration
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>FarPlaneConfiguration</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct FarPlaneConfiguration : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">FarPlaneConfiguration</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Far plane distance configuration for a zoom level.</p>
@@ -73,7 +66,7 @@ distanceToTargetInMeters * distanceFactor
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var distanceFactor: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">distanceFactor</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -98,7 +91,7 @@ distanceToTargetInMeters * distanceFactor
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var minDistanceInMeters: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">minDistanceInMeters</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -123,7 +116,7 @@ distanceToTargetInMeters * distanceFactor
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(distanceFactor: Double, minDistanceInMeters: Double)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">distanceFactor</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">minDistanceInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -139,8 +132,8 @@ distanceToTargetInMeters * distanceFactor
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

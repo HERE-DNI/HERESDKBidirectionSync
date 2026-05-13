@@ -1,5 +1,5 @@
 ---
-title: "DrawOrderType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-drawordertype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-drawordertype"
 <!-- DrawOrderType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/DrawOrderType"></a>
 <a title="DrawOrderType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-drawordertype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>DrawOrderType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum DrawOrderType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">DrawOrderType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Specifies the type of map item draw order. Map item rendering behavior is chosen based on the draw order type.</p>
@@ -73,7 +66,7 @@ With this behavior map items are rendered one by one.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mapSceneAdditionOrderDependent</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mapSceneAdditionOrderDependent</span></code></pre>
 </div>
 </div>
 </section>
@@ -102,7 +95,7 @@ same draw order.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mapSceneAdditionOrderIndependent</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mapSceneAdditionOrderIndependent</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,8 +111,8 @@ same draw order.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

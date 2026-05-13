@@ -1,5 +1,5 @@
 ---
-title: "AngleRange Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-anglerange"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-anglerange"
 <!-- AngleRange.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/AngleRange"></a>
 <a title="AngleRange Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-anglerange"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>AngleRange</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct AngleRange : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">AngleRange</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents angle ranges as a circular sector by using an absolute start angle
@@ -73,7 +66,7 @@ The value is in the range of [0, 360) degrees.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let start: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">start</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -99,7 +92,7 @@ The value is in the range of [0, 360] degrees.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let extent: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">extent</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -125,7 +118,7 @@ Corrects values if they exceed the ranges.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(start: Double, extent: Double)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">start</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">extent</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -183,7 +176,7 @@ The value will be clamped to the range of [0, 360] degrees.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -210,7 +203,7 @@ interpreted in clockwise orientation.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func fromMinMaxDegreesClockwise(min: Double, max: Double) -&gt; AngleRange</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">fromMinMaxDegreesClockwise</span><span class="p">(</span><span class="nv">min</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">max</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">AngleRange</span></code></pre>
 </div>
 </div>
 <div>
@@ -279,7 +272,7 @@ east, with an extent of 5 degrees north-wards and 5 degrees south-wards.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func fromDirectionDegreesClockwise(center: Double, extent: Double) -&gt; AngleRange</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">fromDirectionDegreesClockwise</span><span class="p">(</span><span class="nv">center</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">extent</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">AngleRange</span></code></pre>
 </div>
 </div>
 <div>
@@ -341,7 +334,7 @@ The value will be clamped to the range of [0, 360] degrees.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func inRange(angleClockwiseInDegreesFromNorth: Double) -&gt; Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">inRange</span><span class="p">(</span><span class="nv">angleClockwiseInDegreesFromNorth</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -392,7 +385,7 @@ it will be returned as normalized angle.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func closestInRange(angleClockwiseInDegreesFromNorth: Double) -&gt; Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">closestInRange</span><span class="p">(</span><span class="nv">angleClockwiseInDegreesFromNorth</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 <div>
@@ -443,7 +436,7 @@ normalized to [0,360).</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func max() -&gt; Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">max</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 <div>
@@ -464,8 +457,8 @@ normalized to [0,360).</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

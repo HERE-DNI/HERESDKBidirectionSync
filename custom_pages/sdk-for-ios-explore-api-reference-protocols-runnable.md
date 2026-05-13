@@ -1,5 +1,5 @@
 ---
-title: "Runnable Protocol Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-protocols-runnable"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-protocols-runnable"
 <!-- Runnable.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Protocol/Runnable"></a>
 <a title="Runnable Protocol Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-runnable"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Runnable</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public protocol Runnable : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">Runnable</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 <p>Protocol that should be implemented by any class whose
@@ -67,7 +60,7 @@ instances are intended to be executed by a thread.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func run()</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">run</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -83,8 +76,8 @@ instances are intended to be executed by a thread.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

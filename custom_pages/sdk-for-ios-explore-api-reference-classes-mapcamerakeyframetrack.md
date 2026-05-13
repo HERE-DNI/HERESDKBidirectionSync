@@ -1,5 +1,5 @@
 ---
-title: "MapCameraKeyframeTrack Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcamerakeyframetrack"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcamerakeyframetrack"
 <!-- MapCameraKeyframeTrack.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapCameraKeyframeTrack"></a>
 <a title="MapCameraKeyframeTrack Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcamerakeyframetrack"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapCameraKeyframeTrack</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapCameraKeyframeTrack</code></pre>
-<pre><code>extension MapCameraKeyframeTrack: NativeBase</code></pre>
-<pre><code>extension MapCameraKeyframeTrack: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapCameraKeyframeTrack</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraKeyframeTrack</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCameraKeyframeTrack</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Stores keyframes for interpolation of a camera property using a specific easing function
@@ -69,7 +62,7 @@ and interpolation mode. Can only hold keyframes of a single type.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias InstantiationError = InstantiationErrorCode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamerakeyframetrack-instantiationerrorcode">InstantiationErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ and interpolation mode. Can only hold keyframes of a single type.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var interpolationMode: KeyframeInterpolationMode { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">interpolationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -120,8 +113,8 @@ and interpolation mode. Can only hold keyframes of a single type.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum InstantiationErrorCode : UInt32, CaseIterable, Codable</code></pre>
-<pre><code>extension MapCameraKeyframeTrack.InstantiationErrorCode : Error</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamerakeyframetrack">MapCameraKeyframeTrack</a></span><span class="o">.</span><span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -145,7 +138,7 @@ and interpolation mode. Can only hold keyframes of a single type.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func getScalarKeyframes() -&gt; [ScalarKeyframe]?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getScalarKeyframes</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-scalarkeyframe">ScalarKeyframe</a></span><span class="p">]?</span></code></pre>
 </div>
 </div>
 <div>
@@ -173,7 +166,7 @@ and interpolation mode. Can only hold keyframes of a single type.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func getPoint2DKeyframes() -&gt; [Point2DKeyframe]?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getPoint2DKeyframes</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point2dkeyframe">Point2DKeyframe</a></span><span class="p">]?</span></code></pre>
 </div>
 </div>
 <div>
@@ -201,7 +194,7 @@ and interpolation mode. Can only hold keyframes of a single type.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func getAnchor2DKeyframes() -&gt; [Anchor2DKeyframe]?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getAnchor2DKeyframes</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-anchor2dkeyframe">Anchor2DKeyframe</a></span><span class="p">]?</span></code></pre>
 </div>
 </div>
 <div>
@@ -229,7 +222,7 @@ and interpolation mode. Can only hold keyframes of a single type.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func getGeoCoordinatesKeyframes() -&gt; [GeoCoordinatesKeyframe]?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getGeoCoordinatesKeyframes</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinateskeyframe">GeoCoordinatesKeyframe</a></span><span class="p">]?</span></code></pre>
 </div>
 </div>
 <div>
@@ -257,7 +250,7 @@ and interpolation mode. Can only hold keyframes of a single type.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func getGeoOrientationKeyframes() -&gt; [GeoOrientationKeyframe]?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getGeoOrientationKeyframes</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geoorientationkeyframe">GeoOrientationKeyframe</a></span><span class="p">]?</span></code></pre>
 </div>
 </div>
 <div>
@@ -293,8 +286,8 @@ be clamped according to the minimum and maximum zoom levels set for the map came
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.27.0. Use <code>MapCameraKeyframeTrack.lookAtDistance(MapMeasure.Kind, [ScalarKeyframe], Easing, KeyframeInterpolationMode﹚</code> instead.")
-public static func lookAtDistance(keyframes: [ScalarKeyframe], easing: Easing, interpolationMode: KeyframeInterpolationMode) throws -&gt; MapCameraKeyframeTrack</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.27.0. Use <code>MapCameraKeyframeTrack.lookAtDistance(MapMeasure.Kind, [ScalarKeyframe], Easing, KeyframeInterpolationMode﹚</code> instead.")</span>
+<span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">lookAtDistance</span><span class="p">(</span><span class="nv">keyframes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-scalarkeyframe">ScalarKeyframe</a></span><span class="p">],</span> <span class="nv">easing</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-easing">Easing</a></span><span class="p">,</span> <span class="nv">interpolationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a></span><span class="p">)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt">MapCameraKeyframeTrack</span></code></pre>
 </div>
 </div>
 <div>
@@ -379,7 +372,7 @@ camera.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func lookAtDistance(ofKind distanceKind: MapMeasure.Kind, keyframes: [ScalarKeyframe], easing: Easing, interpolationMode: KeyframeInterpolationMode) throws -&gt; MapCameraKeyframeTrack</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">lookAtDistance</span><span class="p">(</span><span class="n">ofKind</span> <span class="nv">distanceKind</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure">MapMeasure</a></span><span class="o">.</span><span class="kt">Kind</span><span class="p">,</span> <span class="nv">keyframes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-scalarkeyframe">ScalarKeyframe</a></span><span class="p">],</span> <span class="nv">easing</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-easing">Easing</a></span><span class="p">,</span> <span class="nv">interpolationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a></span><span class="p">)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt">MapCameraKeyframeTrack</span></code></pre>
 </div>
 </div>
 <div>
@@ -475,7 +468,7 @@ Altitude components of coordinates are ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func lookAtTarget(keyframes: [GeoCoordinatesKeyframe], easing: Easing, interpolationMode: KeyframeInterpolationMode) throws -&gt; MapCameraKeyframeTrack</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">lookAtTarget</span><span class="p">(</span><span class="nv">keyframes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinateskeyframe">GeoCoordinatesKeyframe</a></span><span class="p">],</span> <span class="nv">easing</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-easing">Easing</a></span><span class="p">,</span> <span class="nv">interpolationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a></span><span class="p">)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt">MapCameraKeyframeTrack</span></code></pre>
 </div>
 </div>
 <div>
@@ -558,7 +551,7 @@ orientation of the map camera target (bearing and tilt).</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func lookAtOrientation(keyframes: [GeoOrientationKeyframe], easing: Easing, interpolationMode: KeyframeInterpolationMode) throws -&gt; MapCameraKeyframeTrack</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">lookAtOrientation</span><span class="p">(</span><span class="nv">keyframes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geoorientationkeyframe">GeoOrientationKeyframe</a></span><span class="p">],</span> <span class="nv">easing</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-easing">Easing</a></span><span class="p">,</span> <span class="nv">interpolationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a></span><span class="p">)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt">MapCameraKeyframeTrack</span></code></pre>
 </div>
 </div>
 <div>
@@ -642,7 +635,7 @@ viewport, (viewport width, viewport height) is bottom right.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func principalPoint(keyframes: [Point2DKeyframe], easing: Easing, interpolationMode: KeyframeInterpolationMode) throws -&gt; MapCameraKeyframeTrack</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">principalPoint</span><span class="p">(</span><span class="nv">keyframes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point2dkeyframe">Point2DKeyframe</a></span><span class="p">],</span> <span class="nv">easing</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-easing">Easing</a></span><span class="p">,</span> <span class="nv">interpolationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a></span><span class="p">)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt">MapCameraKeyframeTrack</span></code></pre>
 </div>
 </div>
 <div>
@@ -728,7 +721,7 @@ the viewport, (1, 1) is bottom right.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func normalizedPrincipalPoint(keyframes: [Anchor2DKeyframe], easing: Easing, interpolationMode: KeyframeInterpolationMode) throws -&gt; MapCameraKeyframeTrack</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">normalizedPrincipalPoint</span><span class="p">(</span><span class="nv">keyframes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-anchor2dkeyframe">Anchor2DKeyframe</a></span><span class="p">],</span> <span class="nv">easing</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-easing">Easing</a></span><span class="p">,</span> <span class="nv">interpolationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a></span><span class="p">)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt">MapCameraKeyframeTrack</span></code></pre>
 </div>
 </div>
 <div>
@@ -814,7 +807,7 @@ from 1 to 150.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func fieldOfView(keyframes: [ScalarKeyframe], easing: Easing, interpolationMode: KeyframeInterpolationMode) throws -&gt; MapCameraKeyframeTrack</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">fieldOfView</span><span class="p">(</span><span class="nv">keyframes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-scalarkeyframe">ScalarKeyframe</a></span><span class="p">],</span> <span class="nv">easing</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-easing">Easing</a></span><span class="p">,</span> <span class="nv">interpolationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-keyframeinterpolationmode">KeyframeInterpolationMode</a></span><span class="p">)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt">MapCameraKeyframeTrack</span></code></pre>
 </div>
 </div>
 <div>
@@ -882,8 +875,8 @@ and creation of the keyframe track will fail.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

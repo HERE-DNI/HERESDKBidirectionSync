@@ -1,5 +1,5 @@
 ---
-title: "EVChargingLocationFeature Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-evcharginglocationfeature"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-evcharginglocationfeature"
 <!-- EVChargingLocationFeature.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/EVChargingLocationFeature"></a>
 <a title="EVChargingLocationFeature Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-evcharginglocationfeature"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVChargingLocationFeature</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum EVChargingLocationFeature : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EVChargingLocationFeature</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Optional features that can be requested for EV charging locations.
@@ -70,7 +63,7 @@ If <code><a href="../Enums/EVChargingLocationFeature.html#/s:7heresdk25EVChargin
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case evses</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">evses</span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ If <code><a href="../Enums/EVChargingLocationFeature.html#/s:7heresdk25EVChargin
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case truckRestrictions</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">truckRestrictions</span></code></pre>
 </div>
 </div>
 </section>
@@ -122,7 +115,7 @@ and <code><a href="../Classes/EVChargingLocation.html#/s:7heresdk18EVChargingLoc
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case locationInfo</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">locationInfo</span></code></pre>
 </div>
 </div>
 </section>
@@ -147,7 +140,7 @@ and <code><a href="../Classes/EVChargingLocation.html#/s:7heresdk18EVChargingLoc
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case emsps</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">emsps</span></code></pre>
 </div>
 </div>
 </section>
@@ -176,7 +169,7 @@ To ensure <code><a href="../Structs/EVChargingConnectorGroup.html#/s:7heresdk24E
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case connectorGroups</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">connectorGroups</span></code></pre>
 </div>
 </div>
 </section>
@@ -203,7 +196,7 @@ Ignored if neither <code><a href="../Enums/EVChargingLocationFeature.html#/s:7he
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tariffs</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tariffs</span></code></pre>
 </div>
 </div>
 </section>
@@ -228,7 +221,7 @@ Ignored if neither <code><a href="../Enums/EVChargingLocationFeature.html#/s:7he
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case nearby</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">nearby</span></code></pre>
 </div>
 </div>
 </section>
@@ -244,8 +237,8 @@ Ignored if neither <code><a href="../Enums/EVChargingLocationFeature.html#/s:7he
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "IndicatorStyle Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-locationindicator-indicatorstyle"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-locationindicator-indicatorstyl
 <!-- IndicatorStyle.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/IndicatorStyle"></a>
 <a title="IndicatorStyle Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-locationindicator-indicatorstyl
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>IndicatorStyle</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum IndicatorStyle : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">IndicatorStyle</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>The predefined styles for the location indicator which are pedestrian and navigation mode.</p>
@@ -70,7 +63,7 @@ This should be preferred for pedestrian use cases.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case pedestrian</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">pedestrian</span></code></pre>
 </div>
 </div>
 </section>
@@ -96,7 +89,7 @@ into which the user is moving. This should be preferred for vehicle navigation u
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case navigation</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">navigation</span></code></pre>
 </div>
 </div>
 </section>
@@ -112,8 +105,8 @@ into which the user is moving. This should be preferred for vehicle navigation u
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

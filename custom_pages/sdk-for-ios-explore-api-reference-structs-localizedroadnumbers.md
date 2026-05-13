@@ -1,5 +1,5 @@
 ---
-title: "LocalizedRoadNumbers Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-localizedroadnumbers"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-localizedroadnumbers"
 <!-- LocalizedRoadNumbers.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/LocalizedRoadNumbers"></a>
 <a title="LocalizedRoadNumbers Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-localizedroadnumbers"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>LocalizedRoadNumbers</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct LocalizedRoadNumbers : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">LocalizedRoadNumbers</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The list of multiple names or titles for the same entity, possibly in different languages.</p>
@@ -67,7 +60,7 @@ Recommended to use helper methods instead of directly accessing the items.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var items: [LocalizedRoadNumber]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">items</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-localizedroadnumber">LocalizedRoadNumber</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ Recommended to use helper methods instead of directly accessing the items.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -120,7 +113,7 @@ In case of empty list returns <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func preferredValue(for locales: [Locale]) -&gt; String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">preferredValue</span><span class="p">(</span><span class="k">for</span> <span class="nv">locales</span><span class="p">:</span> <span class="p">[</span><span class="kt">Locale</span><span class="p">])</span> <span class="o">-&gt;</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -169,7 +162,7 @@ default or <code>nil</code> if list is empty.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func defaultValue() -&gt; String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">defaultValue</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -189,8 +182,8 @@ default or <code>nil</code> if list is empty.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

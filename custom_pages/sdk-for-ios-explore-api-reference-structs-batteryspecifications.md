@@ -1,5 +1,5 @@
 ---
-title: "BatterySpecifications Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-batteryspecifications"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-batteryspecifications"
 <!-- BatterySpecifications.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/BatterySpecifications"></a>
 <a title="BatterySpecifications Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-batteryspecifications"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>BatterySpecifications</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct BatterySpecifications : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">BatterySpecifications</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Parameters related to the electric vehicle’s battery.</p>
@@ -71,7 +64,7 @@ If not set greater than 0, the route calculation will fail as an invalid paramet
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var totalCapacityInKilowattHours: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">totalCapacityInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -103,7 +96,7 @@ If not set greater than 0, the route calculation will fail as an an invalid para
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var initialChargeInKilowattHours: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">initialChargeInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -132,7 +125,7 @@ Defaults to 0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var targetChargeInKilowattHours: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">targetChargeInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -170,7 +163,7 @@ If one or more values are not set, the route calculation will fail as an invalid
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var chargingCurve: [Double : Double]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">chargingCurve</span><span class="p">:</span> <span class="p">[</span><span class="kt">Double</span> <span class="p">:</span> <span class="kt">Double</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -198,7 +191,7 @@ Defaults to an empty container.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var connectorTypes: [ChargingConnectorType]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">connectorTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-chargingconnectortype">ChargingConnectorType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -227,7 +220,7 @@ Defaults to 0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var minChargeAtChargingStationInKilowattHours: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">minChargeAtChargingStationInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -260,7 +253,7 @@ This is usually used when the current charge is too low to reach a charging stat
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var minChargeAtFirstChargingStationInKilowattHours: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">minChargeAtFirstChargingStationInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -289,7 +282,7 @@ Defaults to 0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var minChargeAtDestinationInKilowattHours: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">minChargeAtDestinationInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -317,7 +310,7 @@ Defaults to <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxChargingVoltageInVolts: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxChargingVoltageInVolts</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -345,7 +338,7 @@ Defaults to <code>nil</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxChargingCurrentInAmperes: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxChargingCurrentInAmperes</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -372,7 +365,7 @@ Defaults to 0 seconds.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var chargingSetupDuration: TimeInterval</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">chargingSetupDuration</span><span class="p">:</span> <span class="kt">TimeInterval</span></code></pre>
 </div>
 </div>
 </section>
@@ -403,7 +396,7 @@ The provided value must be greater than or equal to 0. By default, it is not set
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxPowerAtLowVoltageInKilowatts: Double?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxPowerAtLowVoltageInKilowatts</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -428,7 +421,7 @@ The provided value must be greater than or equal to 0. By default, it is not set
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(totalCapacityInKilowattHours: Double = 0.0, initialChargeInKilowattHours: Double = 0.0, targetChargeInKilowattHours: Double = 0.0, chargingCurve: [Double : Double] = [:], connectorTypes: [ChargingConnectorType] = [], minChargeAtChargingStationInKilowattHours: Double = 0.0, minChargeAtFirstChargingStationInKilowattHours: Double? = nil, minChargeAtDestinationInKilowattHours: Double = 0.0, maxChargingVoltageInVolts: Double? = nil, maxChargingCurrentInAmperes: Double? = nil, chargingSetupDuration: TimeInterval = 0, maxPowerAtLowVoltageInKilowatts: Double? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">totalCapacityInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">initialChargeInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">targetChargeInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">chargingCurve</span><span class="p">:</span> <span class="p">[</span><span class="kt">Double</span> <span class="p">:</span> <span class="kt">Double</span><span class="p">]</span> <span class="o">=</span> <span class="p">[:],</span> <span class="nv">connectorTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-chargingconnectortype">ChargingConnectorType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">minChargeAtChargingStationInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">minChargeAtFirstChargingStationInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">minChargeAtDestinationInKilowattHours</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">maxChargingVoltageInVolts</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">maxChargingCurrentInAmperes</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">chargingSetupDuration</span><span class="p">:</span> <span class="kt">TimeInterval</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">maxPowerAtLowVoltageInKilowatts</span><span class="p">:</span> <span class="kt">Double</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -444,8 +437,8 @@ The provided value must be greater than or equal to 0. By default, it is not set
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

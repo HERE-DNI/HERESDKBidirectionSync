@@ -1,5 +1,5 @@
 ---
-title: "Calculation Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-isolineoptions-calculation"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-isolineoptions-calculation"
 <!-- Calculation.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/Calculation"></a>
 <a title="Calculation Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-isolineoptions-calculation"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Calculation</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct Calculation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Calculation</span></code></pre>
 </div>
 </div>
 <p>Specifies isoline parameters.
@@ -69,7 +62,7 @@ Setting at least one limit to <code><a href="../../Structs/IsolineOptions/Calcul
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var rangeType: IsolineRangeType</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">rangeType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-isolinerangetype">IsolineRangeType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -97,7 +90,7 @@ If empty, <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-isoline
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var rangeValues: [Int32]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">rangeValues</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -123,7 +116,7 @@ The default waypoint type is <code><a href="../../Enums/IsolineCalculationMode.h
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isolineCalculationMode: IsolineCalculationMode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isolineCalculationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-isolinecalculationmode">IsolineCalculationMode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -155,7 +148,7 @@ The minimum allowed value is 30, lower values will be ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxPoints: Int32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxPoints</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -181,7 +174,7 @@ The default isoline direction is <code><a href="../../Enums/RoutePlaceDirection.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var isolineDirection: RoutePlaceDirection</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">isolineDirection</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-routeplacedirection">RoutePlaceDirection</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -205,7 +198,7 @@ The default isoline direction is <code><a href="../../Enums/RoutePlaceDirection.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(rangeType: IsolineRangeType, rangeValues: [Int32])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">rangeType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-isolinerangetype">IsolineRangeType</a></span><span class="p">,</span> <span class="nv">rangeValues</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -260,7 +253,7 @@ The default isoline direction is <code><a href="../../Enums/RoutePlaceDirection.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(rangeType: IsolineRangeType, rangeValues: [Int32], isolineDirection: RoutePlaceDirection)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">rangeType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-isolinerangetype">IsolineRangeType</a></span><span class="p">,</span> <span class="nv">rangeValues</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span><span class="p">],</span> <span class="nv">isolineDirection</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-routeplacedirection">RoutePlaceDirection</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -327,7 +320,7 @@ The default isoline direction is <code><a href="../../Enums/RoutePlaceDirection.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(rangeType: IsolineRangeType, rangeValues: [Int32], isolineCalculationMode: IsolineCalculationMode)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">rangeType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-isolinerangetype">IsolineRangeType</a></span><span class="p">,</span> <span class="nv">rangeValues</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span><span class="p">],</span> <span class="nv">isolineCalculationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-isolinecalculationmode">IsolineCalculationMode</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -394,7 +387,7 @@ The default isoline direction is <code><a href="../../Enums/RoutePlaceDirection.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(rangeType: IsolineRangeType, rangeValues: [Int32], isolineCalculationMode: IsolineCalculationMode, maxPoints: Int32?, isolineDirection: RoutePlaceDirection)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">rangeType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-isolinerangetype">IsolineRangeType</a></span><span class="p">,</span> <span class="nv">rangeValues</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span><span class="p">],</span> <span class="nv">isolineCalculationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-isolinecalculationmode">IsolineCalculationMode</a></span><span class="p">,</span> <span class="nv">maxPoints</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">?,</span> <span class="nv">isolineDirection</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-routeplacedirection">RoutePlaceDirection</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -477,8 +470,8 @@ The default isoline direction is <code><a href="../../Enums/RoutePlaceDirection.
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

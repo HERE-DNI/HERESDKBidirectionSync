@@ -1,5 +1,5 @@
 ---
-title: "TilingScheme Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-tilingscheme"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-tilingscheme"
 <!-- TilingScheme.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/TilingScheme"></a>
 <a title="TilingScheme Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-tilingscheme"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TilingScheme</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum TilingScheme : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TilingScheme</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>List of available data tiling schemes.
@@ -69,7 +62,7 @@ For half quad tree schemes, only the uppper half of the tree is used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case halfQuadTreeIdentity</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">halfQuadTreeIdentity</span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ The coordinates of the tile’s corners are transformed through the web-mercator
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case halfQuadTreeMercator</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">halfQuadTreeMercator</span></code></pre>
 </div>
 </div>
 </section>
@@ -121,7 +114,7 @@ The coordinates of the tile’s corners are transformed through the equirectangu
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case halfQuadTreeEquirectangular</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">halfQuadTreeEquirectangular</span></code></pre>
 </div>
 </div>
 </section>
@@ -146,7 +139,7 @@ The coordinates of the tile’s corners are transformed through the equirectangu
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case quadTreeIdentity</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">quadTreeIdentity</span></code></pre>
 </div>
 </div>
 </section>
@@ -172,7 +165,7 @@ The coordinates of the tile’s corners are transformed through the web-mercator
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case quadTreeMercator</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">quadTreeMercator</span></code></pre>
 </div>
 </div>
 </section>
@@ -198,7 +191,7 @@ The coordinates of the tile’s corners are transformed through the equirectangu
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case quadTreeEquirectangular</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">quadTreeEquirectangular</span></code></pre>
 </div>
 </div>
 </section>
@@ -214,8 +207,8 @@ The coordinates of the tile’s corners are transformed through the equirectangu
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

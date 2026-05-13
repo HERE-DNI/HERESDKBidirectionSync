@@ -1,5 +1,5 @@
 ---
-title: "ErrorDetails Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup-errordetails"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup-errord
 <!-- ErrorDetails.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/ErrorDetails"></a>
 <a title="ErrorDetails Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,11 +31,11 @@ slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup-errord
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>ErrorDetails</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct ErrorDetails</code></pre>
-<pre><code>extension TranslucentMapLayerGroup.ErrorDetails : Error</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">ErrorDetails</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a></span><span class="o">.</span><span class="kt">ErrorDetails</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 <p>Describes the reason for failing to create the group.</p>
@@ -69,7 +62,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup-errord
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var errorCode: TranslucentMapLayerGroup.ErrorCode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-translucentmaplayergroup-errorcode">ErrorCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup-errord
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var errorDescription: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">errorDescription</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup-errord
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(errorCode: TranslucentMapLayerGroup.ErrorCode, errorDescription: String? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">errorCode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-translucentmaplayergroup">TranslucentMapLayerGroup</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-translucentmaplayergroup-errorcode">ErrorCode</a></span><span class="p">,</span> <span class="nv">errorDescription</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -135,8 +128,8 @@ slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup-errord
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

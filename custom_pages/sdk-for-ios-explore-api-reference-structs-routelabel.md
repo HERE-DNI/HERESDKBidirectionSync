@@ -1,5 +1,5 @@
 ---
-title: "RouteLabel Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-routelabel"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-routelabel"
 <!-- RouteLabel.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/RouteLabel"></a>
 <a title="RouteLabel Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-routelabel"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RouteLabel</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct RouteLabel : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">RouteLabel</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The main street name or road number for a route. A route can contain more than one such street name or route number.
@@ -67,7 +60,7 @@ To include route labels in the route response, enable it using <code><a href="..
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var name: LocalizedText</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">name</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-localizedtext">LocalizedText</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ To include route labels in the route response, enable it using <code><a href="..
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var type: RouteLabelType</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-routelabeltype">RouteLabelType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -117,7 +110,7 @@ To include route labels in the route response, enable it using <code><a href="..
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(name: LocalizedText, type: RouteLabelType = RouteLabelType.routeNumber)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">name</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-localizedtext">LocalizedText</a></span><span class="p">,</span> <span class="nv">type</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-routelabeltype">RouteLabelType</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-routelabeltype">RouteLabelType</a></span><span class="o">.</span><span class="n">routeNumber</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -133,8 +126,8 @@ To include route labels in the route response, enable it using <code><a href="..
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

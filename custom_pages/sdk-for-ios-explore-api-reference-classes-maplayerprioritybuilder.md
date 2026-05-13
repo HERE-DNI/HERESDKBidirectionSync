@@ -1,5 +1,5 @@
 ---
-title: "MapLayerPriorityBuilder Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-maplayerprioritybuilder"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-maplayerprioritybuilder"
 <!-- MapLayerPriorityBuilder.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapLayerPriorityBuilder"></a>
 <a title="MapLayerPriorityBuilder Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-maplayerprioritybuilder"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapLayerPriorityBuilder</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapLayerPriorityBuilder</code></pre>
-<pre><code>extension MapLayerPriorityBuilder: NativeBase</code></pre>
-<pre><code>extension MapLayerPriorityBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapLayerPriorityBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapLayerPriorityBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapLayerPriorityBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>MapLayerPriorityBuilder is an interface used to define the rendering priority of a layer
@@ -66,14 +59,15 @@ raster layer).</p>
 </ul>
 <p>This means layer “background” is rendered first. Next up is layer “water”. Then category “outline” of
 layer “roads”, followed by the main category of layer “roads”. Layer “labels” is then rendered last.</p>
-<p>
+<p><p>
+Now let’s consider a newly created layer ‘zone’ and its categories:</p>
 <ul>
 <li>zone</li>
 <li>zone:background</li>
 <li>zone:lines-outline</li>
 <li>zone:lines</li>
 </ul>
-
+<p>The user wants to alter the rendering order so that it looks like:</p>
 <ul>
 <li>background</li>
 <li>water</li>
@@ -85,26 +79,35 @@ layer “roads”, followed by the main category of layer “roads”. Layer “
 <li>zone:lines</li>
 <li>labels</li>
 </ul>
+<p>This could be achieved with the help of the MapLayerPriorityBuilder and a sequence of calls to its
+<code>renderedBeforeLayer()</code> and <code>renderedAfterLayer()</code> member functions.</p>
+<p>Note that the order of calls matters and one can use a previously defined layer or category
+as a reference:</p>
+<pre class="highlight swift"><code>  <span class="k">let</span> <span class="nv">zoneLayerPriority</span> <span class="o">=</span> <span class="kt">MapLayerPriorityBuilder</span><span class="p">()</span>
+      <span class="o">.</span><span class="nf">renderedAfterLayer</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"water"</span><span class="p">)</span>     <span class="c1">// places "zone" after "water"</span>
+                                              <span class="c1">// in the rendering order</span>
+      <span class="o">.</span><span class="nf">withCategory</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"background"</span><span class="p">)</span>
+      <span class="o">.</span><span class="nf">renderedAfterLayer</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"water"</span><span class="p">)</span>     <span class="c1">// places "zone:background" after "water"</span>
+                                              <span class="c1">// in the rendering order and thus shifts</span>
+                                              <span class="c1">// "zone" to be rendered later</span>
+      <span class="o">.</span><span class="nf">withCategory</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"lines-outline"</span><span class="p">)</span>
+      <span class="o">.</span><span class="nf">renderedAfterLayer</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"road"</span><span class="p">)</span>      <span class="c1">// places "zone:lines-outline" after "road"</span>
+                                              <span class="c1">// in the rendering order</span>
+      <span class="o">.</span><span class="nf">withCategory</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"lines"</span><span class="p">)</span>
+      <span class="o">.</span><span class="nf">renderedAfterLayer</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"zone"</span><span class="p">,</span> <span class="nv">categoryName</span><span class="p">:</span> <span class="s">"lines-outline"</span><span class="p">)</span> <span class="c1">// places "zone:lines" after</span>
+                                                                        <span class="c1">// "zone:lines-outline" in the rendering order</span>
+      <span class="o">.</span><span class="nf">build</span><span class="p">();</span>
 
-
-<pre><code>let zoneLayerPriority = MapLayerPriorityBuilder()
-.renderedAfterLayer(named: "water") // places "zone" after "water"
-// in the rendering order
-.withCategory(named: "background")
-.renderedAfterLayer(named: "water") // places "zone:background" after "water"
-// in the rendering order and thus shifts
-// "zone" to be rendered later
-.withCategory(named: "lines-outline")
-.renderedAfterLayer(named: "road") // places "zone:lines-outline" after "road"
-// in the rendering order
-.withCategory(named: "lines")
-.renderedAfterLayer(named: "zone", categoryName: "lines-outline") // places "zone:lines" after
-// "zone:lines-outline" in the rendering order
-.build();
-zoneLayer.setPriority(zoneLayerPriority); // applies the priority to the zone layer
-// and its categories in one single operation.</code></pre>
-
-
+  <span class="n">zoneLayer</span><span class="o">.</span><span class="nf">setPriority</span><span class="p">(</span><span class="n">zoneLayerPriority</span><span class="p">);</span>  <span class="c1">// applies the priority to the zone layer</span>
+                                            <span class="c1">// and its categories in one single operation.</span>
+</code></pre>
+<p>In case an empty MapLayerPriority without any ordering commands is built, it is assumed that the target layer
+is going to be rendered last.</p>
+<p>Due to a current limitation for point map layers, the mentioned APIs to control the rendering
+order are not implemented. All labels will be rendered within the “labels” layer, defined in
+the scene configuration file.
+By default, all labels rendered by a point map layer are rendered last and no overlapping is
+allowed. The following categories can be used to have a different behaviour:</p>
 <ul>
 <li>‘custom-labels’ A label should be rendered first, is allowed to overlap with other labels of
 the same category and block map labels.</li>
@@ -117,15 +120,7 @@ scene configurations.
 Category assignment to features can be done in the style based on data attributes. The category
 assignment can be done for all types of data: points, lines, polygons.</li>
 </ul>
-</p><p>Due to a current limitation for point map layers, the mentioned APIs to control the rendering
-order are not implemented. All labels will be rendered within the “labels” layer, defined in
-the scene configuration file.
-By default, all labels rendered by a point map layer are rendered last and no overlapping is
-allowed. The following categories can be used to have a different behaviour:</p><p>In case an empty MapLayerPriority without any ordering commands is built, it is assumed that the target layer
-is going to be rendered last.</p><p>Note that the order of calls matters and one can use a previously defined layer or category
-as a reference:</p><p>This could be achieved with the help of the MapLayerPriorityBuilder and a sequence of calls to its
-<code>renderedBeforeLayer()</code> and <code>renderedAfterLayer()</code> member functions.</p><p>The user wants to alter the rendering order so that it looks like:</p><p>
-Now let’s consider a newly created layer ‘zone’ and its categories:</p></section>
+</p></section>
 <section class="section task-group-section">
 <div class="task-group">
 <ul>
@@ -148,7 +143,7 @@ Now let’s consider a newly created layer ‘zone’ and its categories:</p></s
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -176,7 +171,7 @@ is cleared and the builder refers again to the layer itself.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withCategory(_ category: String) -&gt; MapLayerPriorityBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withCategory</span><span class="p">(</span><span class="n">_</span> <span class="nv">category</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerPriorityBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -237,7 +232,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func inGroup(_ group: String) -&gt; MapLayerPriorityBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">inGroup</span><span class="p">(</span><span class="n">_</span> <span class="nv">group</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerPriorityBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -296,7 +291,7 @@ The previously defined and prioritised categories can be used as reference.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func renderedFirst() -&gt; MapLayerPriorityBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">renderedFirst</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">MapLayerPriorityBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -336,7 +331,7 @@ The previously defined and prioritised categories can be used as reference.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func renderedLast() -&gt; MapLayerPriorityBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">renderedLast</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">MapLayerPriorityBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -379,7 +374,7 @@ before all layers and categories.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func renderedBeforeLayer(named referenceLayer: String) -&gt; MapLayerPriorityBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">renderedBeforeLayer</span><span class="p">(</span><span class="n">named</span> <span class="nv">referenceLayer</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerPriorityBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -441,7 +436,7 @@ the priority as rendered before all layers and categories.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func renderedBeforeLayer(named referenceLayer: String, categoryName referenceCategory: String) -&gt; MapLayerPriorityBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">renderedBeforeLayer</span><span class="p">(</span><span class="n">named</span> <span class="nv">referenceLayer</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="n">categoryName</span> <span class="nv">referenceCategory</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerPriorityBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -515,7 +510,7 @@ after all layers and categories.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func renderedAfterLayer(named referenceLayer: String) -&gt; MapLayerPriorityBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">renderedAfterLayer</span><span class="p">(</span><span class="n">named</span> <span class="nv">referenceLayer</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerPriorityBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -577,7 +572,7 @@ the priority as rendered after all layers and categories.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func renderedAfterLayer(named referenceLayer: String, categoryName referenceCategory: String) -&gt; MapLayerPriorityBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">renderedAfterLayer</span><span class="p">(</span><span class="n">named</span> <span class="nv">referenceLayer</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="n">categoryName</span> <span class="nv">referenceCategory</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerPriorityBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -638,7 +633,7 @@ MapLayerPriority.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func build() -&gt; MapLayerPriority</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">build</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="../Maps.html#/s:7heresdk16MapLayerPriorityC">MapLayerPriority</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -658,8 +653,8 @@ MapLayerPriority.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

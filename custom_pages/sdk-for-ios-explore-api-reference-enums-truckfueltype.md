@@ -1,5 +1,5 @@
 ---
-title: "TruckFuelType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-truckfueltype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-truckfueltype"
 <!-- TruckFuelType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/TruckFuelType"></a>
 <a title="TruckFuelType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-truckfueltype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TruckFuelType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum TruckFuelType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">TruckFuelType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Define possible fuel types for trucks provided by a fuel station.
@@ -67,7 +60,7 @@ Note: This is a BETA feature and thus subject to change.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case cng = 1</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">cng</span> <span class="o">=</span> <span class="mi">1</span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ Note: This is a BETA feature and thus subject to change.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case diesel</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">diesel</span></code></pre>
 </div>
 </div>
 </section>
@@ -117,7 +110,7 @@ Note: This is a BETA feature and thus subject to change.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case hydrogen</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">hydrogen</span></code></pre>
 </div>
 </div>
 </section>
@@ -142,7 +135,7 @@ Note: This is a BETA feature and thus subject to change.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case lng</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">lng</span></code></pre>
 </div>
 </div>
 </section>
@@ -158,8 +151,8 @@ Note: This is a BETA feature and thus subject to change.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

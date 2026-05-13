@@ -1,5 +1,5 @@
 ---
-title: "MaxAxleGroupWeight Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-maxaxlegroupweight"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-maxaxlegroupweight"
 <!-- MaxAxleGroupWeight.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/MaxAxleGroupWeight"></a>
 <a title="MaxAxleGroupWeight Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-maxaxlegroupweight"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MaxAxleGroupWeight</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct MaxAxleGroupWeight : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MaxAxleGroupWeight</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p><code>MaxAxleGroupWeight</code> contains all the restriction details violated by an axle group weight.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-maxaxlegroupweight"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var maxWeightInKilograms: Int32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">maxWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-maxaxlegroupweight"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var axleGroupType: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">axleGroupType</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-maxaxlegroupweight"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(maxWeightInKilograms: Int32, axleGroupType: String)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">maxWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">axleGroupType</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -132,8 +125,8 @@ slug: "sdk-for-ios-explore-api-reference-structs-maxaxlegroupweight"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

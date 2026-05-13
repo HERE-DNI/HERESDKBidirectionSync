@@ -1,5 +1,5 @@
 ---
-title: "RouteOffset Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-routeoffset"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-routeoffset"
 <!-- RouteOffset.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/RouteOffset"></a>
 <a title="RouteOffset Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-routeoffset"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RouteOffset</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct RouteOffset</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">RouteOffset</span></code></pre>
 </div>
 </div>
 <p>Represents a specific location along the route.
@@ -69,7 +62,7 @@ For the latter case, the location of a railway crossing can be retrieved from <c
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var sectionIndex: Int32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">sectionIndex</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ The maximum possible offset is limited by the length of the section and cannot e
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var offsetInMeters: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">offsetInMeters</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -120,7 +113,7 @@ The maximum possible offset is limited by the length of the section and cannot e
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(sectionIndex: Int32, offsetInMeters: Double)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">sectionIndex</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">,</span> <span class="nv">offsetInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -136,8 +129,8 @@ The maximum possible offset is limited by the length of the section and cannot e
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

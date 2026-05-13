@@ -1,5 +1,5 @@
 ---
-title: "RestrictedVehicleCategory Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-restrictedvehiclecategory"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-restrictedvehic
 <!-- RestrictedVehicleCategory.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/RestrictedVehicleCategory"></a>
 <a title="RestrictedVehicleCategory Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-trafficincident-restrictedvehic
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RestrictedVehicleCategory</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum RestrictedVehicleCategory : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">RestrictedVehicleCategory</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>The vehicle categories that can be restricted.
@@ -72,7 +65,7 @@ and at least one of the vehicle properties is under the matching <code><a href="
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case bus</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">bus</span></code></pre>
 </div>
 </div>
 </section>
@@ -97,7 +90,7 @@ and at least one of the vehicle properties is under the matching <code><a href="
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case car</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">car</span></code></pre>
 </div>
 </div>
 </section>
@@ -123,7 +116,7 @@ In the European Union heavy goods vehicle is any truck with a gross combination 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case heavyGoodsVehicle</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">heavyGoodsVehicle</span></code></pre>
 </div>
 </div>
 </section>
@@ -148,7 +141,7 @@ In the European Union heavy goods vehicle is any truck with a gross combination 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case truck</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">truck</span></code></pre>
 </div>
 </div>
 </section>
@@ -173,7 +166,7 @@ In the European Union heavy goods vehicle is any truck with a gross combination 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case motorcycle</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">motorcycle</span></code></pre>
 </div>
 </div>
 </section>
@@ -199,7 +192,7 @@ that does not operate on rails and is used for the transportation of people or c
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case motorVehicle</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">motorVehicle</span></code></pre>
 </div>
 </div>
 </section>
@@ -224,7 +217,7 @@ that does not operate on rails and is used for the transportation of people or c
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case taxi</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">taxi</span></code></pre>
 </div>
 </div>
 </section>
@@ -249,7 +242,7 @@ that does not operate on rails and is used for the transportation of people or c
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case train</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">train</span></code></pre>
 </div>
 </div>
 </section>
@@ -274,7 +267,7 @@ that does not operate on rails and is used for the transportation of people or c
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case transportingAbnormalSizeLoad</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">transportingAbnormalSizeLoad</span></code></pre>
 </div>
 </div>
 </section>
@@ -299,7 +292,7 @@ that does not operate on rails and is used for the transportation of people or c
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case transportingHazardousGoods</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">transportingHazardousGoods</span></code></pre>
 </div>
 </div>
 </section>
@@ -324,7 +317,7 @@ that does not operate on rails and is used for the transportation of people or c
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case vehicleWithTrailer</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">vehicleWithTrailer</span></code></pre>
 </div>
 </div>
 </section>
@@ -349,7 +342,7 @@ that does not operate on rails and is used for the transportation of people or c
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case other</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">other</span></code></pre>
 </div>
 </div>
 </section>
@@ -374,7 +367,7 @@ that does not operate on rails and is used for the transportation of people or c
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case all</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">all</span></code></pre>
 </div>
 </div>
 </section>
@@ -390,8 +383,8 @@ that does not operate on rails and is used for the transportation of people or c
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

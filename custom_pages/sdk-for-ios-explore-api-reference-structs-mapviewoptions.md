@@ -1,5 +1,5 @@
 ---
-title: "MapViewOptions Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-mapviewoptions"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapviewoptions"
 <!-- MapViewOptions.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/MapViewOptions"></a>
 <a title="MapViewOptions Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapviewoptions"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapViewOptions</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct MapViewOptions : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MapViewOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Options used for initialization of map view</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapviewoptions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var projection: MapProjection</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">projection</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-mapprojection">MapProjection</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ Alpha value gets ignored and is assumed as 1.0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var initialBackgroundColor: UIColor?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">initialBackgroundColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ Alpha value gets ignored and is assumed as 1.0.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(projection: MapProjection = MapProjection.globe, initialBackgroundColor: UIColor? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">projection</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-mapprojection">MapProjection</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-mapprojection">MapProjection</a></span><span class="o">.</span><span class="n">globe</span><span class="p">,</span> <span class="nv">initialBackgroundColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -135,8 +128,8 @@ Alpha value gets ignored and is assumed as 1.0.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

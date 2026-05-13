@@ -1,5 +1,5 @@
 ---
-title: "Other Enumerations  Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-other enums"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-other enums"
 <!-- Other Enums.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Section/Other Enumerations"></a>
 <a title="Other Enumerations  Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-index">heresdk</a>
@@ -34,7 +27,7 @@ slug: "sdk-for-ios-explore-api-reference-other enums"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Other Enumerations</h1>
 <p>The following enumerations are available globally.</p>
 </section>
 <section class="section task-group-section">
@@ -60,7 +53,7 @@ slug: "sdk-for-ios-explore-api-reference-other enums"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum IndoorLevelChangeFeatures : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">IndoorLevelChangeFeatures</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -86,7 +79,7 @@ slug: "sdk-for-ios-explore-api-reference-other enums"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum IndoorManeuverActions : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">IndoorManeuverActions</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -102,8 +95,8 @@ slug: "sdk-for-ios-explore-api-reference-other enums"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

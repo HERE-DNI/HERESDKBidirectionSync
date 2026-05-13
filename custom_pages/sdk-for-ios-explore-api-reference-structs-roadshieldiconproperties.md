@@ -1,5 +1,5 @@
 ---
-title: "RoadShieldIconProperties Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-roadshieldiconproperties"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-roadshieldiconproperties"
 <!-- RoadShieldIconProperties.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/RoadShieldIconProperties"></a>
 <a title="RoadShieldIconProperties Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-roadshieldiconproperties"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RoadShieldIconProperties</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct RoadShieldIconProperties</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">RoadShieldIconProperties</span></code></pre>
 </div>
 </div>
 <p>Contains the information required to create a road shield image.</p>
@@ -67,7 +60,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-roadshieldiconproperties"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var routeType: RouteType</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routeType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-routetype">RouteType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-roadshieldiconproperties"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var countryCode: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">countryCode</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -121,7 +114,7 @@ not required for the particular country.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var stateCode: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">stateCode</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -159,7 +152,7 @@ and without a cardinal direction.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var routeNumberName: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routeNumberName</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -185,7 +178,7 @@ in reality. It will be in the output road-shield icon.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var shieldText: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">shieldText</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -241,7 +234,7 @@ in reality. It will be in the output road-shield icon.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(routeType: RouteType, countryCode: String, stateCode: String, routeNumberName: String, shieldText: String)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">routeType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-routetype">RouteType</a></span><span class="p">,</span> <span class="nv">countryCode</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">stateCode</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">routeNumberName</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">shieldText</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -257,8 +250,8 @@ in reality. It will be in the output road-shield icon.</li>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

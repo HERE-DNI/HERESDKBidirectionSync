@@ -1,5 +1,5 @@
 ---
-title: "ViewPin Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapview-viewpin"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapview-viewpin"
 <!-- ViewPin.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/ViewPin"></a>
 <a title="ViewPin Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapview-viewpin"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>ViewPin</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class ViewPin</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">ViewPin</span></code></pre>
 </div>
 </div>
 <p>This class represents a pinned UIView, that means an UIView at a
@@ -73,7 +66,7 @@ markers should be used.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public private(set) var view: UIView { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">private(set)</span> <span class="k">var</span> <span class="nv">view</span><span class="p">:</span> <span class="kt">UIView</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -100,7 +93,7 @@ When not set, the coordinates are interpreted as at ground level.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var geoCoordinates: GeoCoordinates { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">geoCoordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-geocoordinates">GeoCoordinates</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -125,7 +118,7 @@ When not set, the coordinates are interpreted as at ground level.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func unpin()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">unpin</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,8 +134,8 @@ When not set, the coordinates are interpreted as at ground level.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

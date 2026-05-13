@@ -1,5 +1,5 @@
 ---
-title: "CatalogType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-catalogtype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-catalogtype"
 <!-- CatalogType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/CatalogType"></a>
 <a title="CatalogType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-catalogtype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>CatalogType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum CatalogType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">CatalogType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Represents default HERE catalog types.</p>
@@ -67,7 +60,7 @@ may contain only a base map with fewer details for regions such as Japan.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case optimizedClientMap</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">optimizedClientMap</span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ details. In order to load this map you need to enable your credentials with the 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case optimizedClientMapJapan</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">optimizedClientMapJapan</span></code></pre>
 </div>
 </div>
 </section>
@@ -110,8 +103,8 @@ details. In order to load this map you need to enable your credentials with the 
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

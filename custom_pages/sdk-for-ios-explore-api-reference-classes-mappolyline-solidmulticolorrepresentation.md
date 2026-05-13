@@ -1,5 +1,5 @@
 ---
-title: "SolidMultiColorRepresentation Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-solidmulticolorrepresentation"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-solidmulticolorrepr
 <!-- SolidMultiColorRepresentation.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/SolidMultiColorRepresentation"></a>
 <a title="SolidMultiColorRepresentation Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-solidmulticolorrepr
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>SolidMultiColorRepresentation</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class SolidMultiColorRepresentation : MapPolyline.Representation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">SolidMultiColorRepresentation</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mappolyline">MapPolyline</a></span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-classes-mappolyline-representation">Representation</a></span></code></pre>
 </div>
 </div>
 <p>Representation allows map polyline to be colored in multiple specified color segments.</p>
@@ -105,7 +98,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(lineWidth: MapMeasureDependentRenderSize, capShape: LineCap, colorStops: [Double], colorIndices: [UInt32], colors: [UIColor], gradientLength: Double) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">capShape</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-linecap">LineCap</a></span><span class="p">,</span> <span class="nv">colorStops</span><span class="p">:</span> <span class="p">[</span><span class="kt">Double</span><span class="p">],</span> <span class="nv">colorIndices</span><span class="p">:</span> <span class="p">[</span><span class="kt">UInt32</span><span class="p">],</span> <span class="nv">colors</span><span class="p">:</span> <span class="p">[</span><span class="kt">UIColor</span><span class="p">],</span> <span class="nv">gradientLength</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -242,7 +235,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(lineWidth: MapMeasureDependentRenderSize, outlineWidth: MapMeasureDependentRenderSize, outlineColor: UIColor, capShape: LineCap, colorStops: [Double], colorIndices: [UInt32], colors: [UIColor], gradientLength: Double) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">outlineWidth</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-mapmeasuredependentrendersize">MapMeasureDependentRenderSize</a></span><span class="p">,</span> <span class="nv">outlineColor</span><span class="p">:</span> <span class="kt">UIColor</span><span class="p">,</span> <span class="nv">capShape</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-linecap">LineCap</a></span><span class="p">,</span> <span class="nv">colorStops</span><span class="p">:</span> <span class="p">[</span><span class="kt">Double</span><span class="p">],</span> <span class="nv">colorIndices</span><span class="p">:</span> <span class="p">[</span><span class="kt">UInt32</span><span class="p">],</span> <span class="nv">colors</span><span class="p">:</span> <span class="p">[</span><span class="kt">UIColor</span><span class="p">],</span> <span class="nv">gradientLength</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -384,7 +377,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setMultiColors(colorStops: [Double], colorIndices: [UInt32], colors: [UIColor]) -&gt; Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setMultiColors</span><span class="p">(</span><span class="nv">colorStops</span><span class="p">:</span> <span class="p">[</span><span class="kt">Double</span><span class="p">],</span> <span class="nv">colorIndices</span><span class="p">:</span> <span class="p">[</span><span class="kt">UInt32</span><span class="p">],</span> <span class="nv">colors</span><span class="p">:</span> <span class="p">[</span><span class="kt">UIColor</span><span class="p">])</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -479,7 +472,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setMultiColorGradientLength(length: Double) -&gt; Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setMultiColorGradientLength</span><span class="p">(</span><span class="nv">length</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -519,8 +512,8 @@ Valid value range is [0.0, 1.0]. Out of range values are not supported.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

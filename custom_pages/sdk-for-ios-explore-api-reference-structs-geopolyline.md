@@ -1,5 +1,5 @@
 ---
-title: "GeoPolyline Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-geopolyline"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-geopolyline"
 <!-- GeoPolyline.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/GeoPolyline"></a>
 <a title="GeoPolyline Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-geopolyline"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>GeoPolyline</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct GeoPolyline : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">GeoPolyline</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>A list of geographic coordinates representing the vertices of a polyline.
@@ -68,7 +61,7 @@ Represents a <code>GeoPolyline</code> as a series of geographic coordinates.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let vertices: [GeoCoordinates]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">vertices</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -99,7 +92,7 @@ Throws an InstantiationError if the number of vertices is less than two.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(vertices: [GeoCoordinates]) throws</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">vertices</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">])</span> <span class="k">throws</span></code></pre>
 </div>
 </div>
 <div>
@@ -143,7 +136,7 @@ Throws an InstantiationError if the number of vertices is less than two.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(geoBox: GeoBox)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">geoBox</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geobox">GeoBox</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -188,7 +181,7 @@ The corner coordinates of the <code><a href="sdk-for-ios-explore-api-reference-.
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func getNearestIndexTo(point: GeoCoordinates) -&gt; UInt32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">getNearestIndexTo</span><span class="p">(</span><span class="nv">point</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">UInt32</span></code></pre>
 </div>
 </div>
 <div>
@@ -250,7 +243,7 @@ they may adapt the result to the length of the underlying object described by th
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func coordinatesAt(offsetInMeters: Double, direction: GeoPolylineDirection) -&gt; GeoCoordinates</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">coordinatesAt</span><span class="p">(</span><span class="nv">offsetInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">direction</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-geopolylinedirection">GeoPolylineDirection</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -301,8 +294,8 @@ they may adapt the result to the length of the underlying object described by th
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

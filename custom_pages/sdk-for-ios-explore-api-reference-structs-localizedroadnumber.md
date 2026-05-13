@@ -1,5 +1,5 @@
 ---
-title: "LocalizedRoadNumber Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-localizedroadnumber"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-localizedroadnumber"
 <!-- LocalizedRoadNumber.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/LocalizedRoadNumber"></a>
 <a title="LocalizedRoadNumber Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-localizedroadnumber"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>LocalizedRoadNumber</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct LocalizedRoadNumber : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">LocalizedRoadNumber</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Used to represent road number localized to specific language with optional direction and route type information.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-localizedroadnumber"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var localizedNumber: LocalizedText</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">localizedNumber</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-localizedtext">LocalizedText</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -97,7 +90,7 @@ However, the official direction on sign is North/South.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var direction: CardinalDirection?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">direction</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-cardinaldirection">CardinalDirection</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -122,7 +115,7 @@ However, the official direction on sign is North/South.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var routeType: RouteType</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routeType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-routetype">RouteType</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -147,7 +140,7 @@ However, the official direction on sign is North/South.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(localizedNumber: LocalizedText, direction: CardinalDirection? = nil, routeType: RouteType)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">localizedNumber</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-localizedtext">LocalizedText</a></span><span class="p">,</span> <span class="nv">direction</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-cardinaldirection">CardinalDirection</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">,</span> <span class="nv">routeType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-routetype">RouteType</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -173,7 +166,7 @@ In case direction is empty, the original localized text will be returned.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func completeRoadNumber() -&gt; String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">completeRoadNumber</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 <div>
@@ -193,8 +186,8 @@ In case direction is empty, the original localized text will be returned.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "TaxiSpecification Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-taxispecification"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-taxispecification"
 <!-- TaxiSpecification.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/TaxiSpecification"></a>
 <a title="TaxiSpecification Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-taxispecification"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TaxiSpecification</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct TaxiSpecification : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TaxiSpecification</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Taxi specific settings.</p>
@@ -69,7 +62,7 @@ Defaults to <code>true</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var allowDriveThroughTaxiRoads: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">allowDriveThroughTaxiRoads</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ Defaults to <code>true</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(allowDriveThroughTaxiRoads: Bool = true)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">allowDriveThroughTaxiRoads</span><span class="p">:</span> <span class="kt">Bool</span> <span class="o">=</span> <span class="kc">true</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -110,8 +103,8 @@ Defaults to <code>true</code>.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

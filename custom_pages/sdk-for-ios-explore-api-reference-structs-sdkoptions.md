@@ -1,5 +1,5 @@
 ---
-title: "SDKOptions Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-sdkoptions"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-sdkoptions"
 <!-- SDKOptions.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/SDKOptions"></a>
 <a title="SDKOptions Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-sdkoptions"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>SDKOptions</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct SDKOptions : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">SDKOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>SDKOptions provide an alternative way to set or update the HERE SDK credentials and other
@@ -69,7 +62,7 @@ and <a href="https://www.here.com/docs/bundle/identity-and-access-management-dev
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var scope: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">scope</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -101,7 +94,7 @@ is used as parent path.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var cachePath: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">cachePath</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -127,7 +120,7 @@ Default value 256MB</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var cacheSizeInBytes: Int64</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">cacheSizeInBytes</span><span class="p">:</span> <span class="kt">Int64</span></code></pre>
 </div>
 </div>
 </section>
@@ -174,7 +167,7 @@ If <code>dataPath</code> is set and later unset, any data stored there will rema
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var dataPath: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">dataPath</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -210,7 +203,7 @@ When <code>SDKOptions</code> initialized with <code>AuthenticationMode.withToken
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var persistentMapStoragePath: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">persistentMapStoragePath</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -239,7 +232,7 @@ When set, the map view will show all country boundaries according to the geopoli
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var politicalView: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">politicalView</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -266,7 +259,7 @@ The mode can be disabled or enabled again at any time via <code><a href="../Clas
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var offlineMode: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">offlineMode</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -314,7 +307,7 @@ when a device has connectivity it will only download the specified layers.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var layerConfiguration: LayerConfiguration</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">layerConfiguration</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-layerconfiguration">LayerConfiguration</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -345,7 +338,7 @@ This API is only available for the Navigate license. It has no affect on other l
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var catalogConfigurations: [CatalogConfiguration]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">catalogConfigurations</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-catalogconfiguration">CatalogConfiguration</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -387,7 +380,7 @@ Once it will be usable, it will be announced in the regular HERE SDK release not
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var autoUpdateOfOnlineCache: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">autoUpdateOfOnlineCache</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -425,7 +418,7 @@ Related APIs may change for new releases without a deprecation process.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var customEngineOptions: [EngineBaseURL : EngineOptions]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">customEngineOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-enginebaseurl">EngineBaseURL</a></span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-engineoptions">EngineOptions</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -450,7 +443,7 @@ Related APIs may change for new releases without a deprecation process.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var authenticationMode: AuthenticationMode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">authenticationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-authenticationmode">AuthenticationMode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -475,7 +468,7 @@ Related APIs may change for new releases without a deprecation process.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var networkSettings: NetworkSettings</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">networkSettings</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-networksettings">NetworkSettings</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -503,7 +496,7 @@ In order to release memory occupied by internal caches see <code><a href="../Cla
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var lowMemoryMode: Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">lowMemoryMode</span><span class="p">:</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 </section>
@@ -538,7 +531,7 @@ please consult the <em>cost management guide</em> or get in touch with the HERE 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var billingTag: String?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">billingTag</span><span class="p">:</span> <span class="kt">String</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -568,7 +561,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var customOptions: Metadata?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">customOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-metadata">Metadata</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -593,7 +586,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(authenticationMode: AuthenticationMode)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">authenticationMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-authenticationmode">AuthenticationMode</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -628,8 +621,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

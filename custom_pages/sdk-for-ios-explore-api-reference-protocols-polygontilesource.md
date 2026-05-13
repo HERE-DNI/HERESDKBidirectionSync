@@ -1,5 +1,5 @@
 ---
-title: "PolygonTileSource Protocol Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-protocols-polygontilesource"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-protocols-polygontilesource"
 <!-- PolygonTileSource.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Protocol/PolygonTileSource"></a>
 <a title="PolygonTileSource Protocol Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-polygontilesource"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>PolygonTileSource</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public protocol PolygonTileSource : TileSource</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">PolygonTileSource</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-tilesource">TileSource</a></span></code></pre>
 </div>
 </div>
 <p>A source of geodetic polygon tiles.
@@ -70,7 +63,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>var tilingScheme: TilingScheme { get }</code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">tilingScheme</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-tilingscheme">TilingScheme</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>var storageLevels: [Int32] { get }</code></pre>
+<pre class="highlight swift"><code><span class="k">var</span> <span class="nv">storageLevels</span><span class="p">:</span> <span class="p">[</span><span class="kt">Int32</span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -120,7 +113,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func getDataVersion(tileKey: TileKey) -&gt; TileSourceDataVersion</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">getDataVersion</span><span class="p">(</span><span class="nv">tileKey</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tilekey">TileKey</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tilesourcedataversion">TileSourceDataVersion</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -168,7 +161,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func addDelegate(_ delegate: TileSourceDelegate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">addDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-tilesourcedelegate">TileSourceDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -212,7 +205,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func removeDelegate(_ delegate: TileSourceDelegate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">removeDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-tilesourcedelegate">TileSourceDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -257,7 +250,7 @@ Upon completion, the handler gets informed.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func loadTile(tileKey: TileKey, completionHandler: PolygonTileSourceLoadResultHandler) -&gt; TileSourceLoadTileRequestHandle?</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">loadTile</span><span class="p">(</span><span class="nv">tileKey</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tilekey">TileKey</a></span><span class="p">,</span> <span class="nv">completionHandler</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-polygontilesourceloadresulthandler">PolygonTileSourceLoadResultHandler</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-tilesourceloadtilerequesthandle">TileSourceLoadTileRequestHandle</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -308,8 +301,8 @@ Upon completion, the handler gets informed.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

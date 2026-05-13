@@ -1,5 +1,5 @@
 ---
-title: "MapLayerBuilder Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-maplayerbuilder"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-maplayerbuilder"
 <!-- MapLayerBuilder.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapLayerBuilder"></a>
 <a title="MapLayerBuilder Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-maplayerbuilder"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapLayerBuilder</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapLayerBuilder</code></pre>
-<pre><code>extension MapLayerBuilder: NativeBase</code></pre>
-<pre><code>extension MapLayerBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapLayerBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapLayerBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapLayerBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>MapLayerBuilder is used to add layers to a map to visualise a dataset in a
@@ -78,18 +71,20 @@ rendering order gets modified in the following way:</p>
 </ul>
 <p>This could be achieved with the help of the MapLayerPriorityBuilder and the MapLayerBuilder as in the
 following example:</p>
-<pre><code>let layerPriority = MapLayerPriorityBuilder()
-.renderedAfterLayer(named: "water") // places main category after 'water'
-.withCategory("background")
-.renderedAfterLayer(named: "water") // places 'background' category after 'water' and before the
-// layer's main category.
-.build();
-let layer = MapLayerBuilder()
-.withDataSource(named: "DataSourceName", contentType: MapContentType.line)
-.forMap(map)
-.withName("zone")
-.withPriority(layerPriority)
-.build();</code></pre>
+<pre class="highlight swift"><code>  <span class="k">let</span> <span class="nv">layerPriority</span> <span class="o">=</span> <span class="kt">MapLayerPriorityBuilder</span><span class="p">()</span>
+     <span class="o">.</span><span class="nf">renderedAfterLayer</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"water"</span><span class="p">)</span> <span class="c1">// places main category after 'water'</span>
+     <span class="o">.</span><span class="nf">withCategory</span><span class="p">(</span><span class="s">"background"</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">renderedAfterLayer</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"water"</span><span class="p">)</span> <span class="c1">// places 'background' category after 'water' and before the</span>
+                                         <span class="c1">// layer's main category.</span>
+     <span class="o">.</span><span class="nf">build</span><span class="p">();</span>
+
+  <span class="k">let</span> <span class="nv">layer</span> <span class="o">=</span> <span class="kt">MapLayerBuilder</span><span class="p">()</span>
+     <span class="o">.</span><span class="nf">withDataSource</span><span class="p">(</span><span class="nv">named</span><span class="p">:</span> <span class="s">"DataSourceName"</span><span class="p">,</span> <span class="nv">contentType</span><span class="p">:</span> <span class="kt">MapContentType</span><span class="o">.</span><span class="n">line</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">forMap</span><span class="p">(</span><span class="n">map</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">withName</span><span class="p">(</span><span class="s">"zone"</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">withPriority</span><span class="p">(</span><span class="n">layerPriority</span><span class="p">)</span>
+     <span class="o">.</span><span class="nf">build</span><span class="p">();</span>
+</code></pre>
 <p>In case no layer priority or an empty one is provided, or if a reference layer-category pair is not
 present in the rendering order, the layer is going to be rendered last with respect to the rendering
 order at the time of its creation.</p>
@@ -132,7 +127,7 @@ assignment can be done for all types of content: point, line, polygon.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias InstantiationError = InstantiationErrorDetails</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">InstantiationError</span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-maplayerbuilder-instantiationerrordetails">InstantiationErrorDetails</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -157,7 +152,7 @@ assignment can be done for all types of content: point, line, polygon.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -183,7 +178,7 @@ assignment can be done for all types of content: point, line, polygon.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum InstantiationErrorCode : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">InstantiationErrorCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -209,8 +204,8 @@ assignment can be done for all types of content: point, line, polygon.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct InstantiationErrorDetails</code></pre>
-<pre><code>extension MapLayerBuilder.InstantiationErrorDetails : Error</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">InstantiationErrorDetails</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-maplayerbuilder">MapLayerBuilder</a></span><span class="o">.</span><span class="kt">InstantiationErrorDetails</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 </section>
@@ -236,7 +231,7 @@ The name is a mandatory layer creation parameter.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withName(_ name: String) -&gt; MapLayerBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withName</span><span class="p">(</span><span class="n">_</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -286,7 +281,7 @@ The datasource name and content type are mandatory layer creation parameters.</p
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withDataSource(named dataSourceName: String, contentType: MapContentType) -&gt; MapLayerBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withDataSource</span><span class="p">(</span><span class="n">named</span> <span class="nv">dataSourceName</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">contentType</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-mapcontenttype">MapContentType</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -350,7 +345,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withStyle(_ style: Style) -&gt; MapLayerBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withStyle</span><span class="p">(</span><span class="n">_</span> <span class="nv">style</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-style">Style</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -399,7 +394,7 @@ The map is a mandatory layer creation parameter.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func forMap(_ targetMap: HereMap) -&gt; MapLayerBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">forMap</span><span class="p">(</span><span class="n">_</span> <span class="nv">targetMap</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-heremap">HereMap</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -447,7 +442,7 @@ The map is a mandatory layer creation parameter.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withPriority(_ priority: MapLayerPriority) -&gt; MapLayerBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withPriority</span><span class="p">(</span><span class="n">_</span> <span class="nv">priority</span><span class="p">:</span> <span class="kt"><a href="../Maps.html#/s:7heresdk16MapLayerPriorityC">MapLayerPriority</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -498,7 +493,7 @@ on all zoom levels.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withVisibilityRange(_ visibilityRange: MapLayerVisibilityRange) -&gt; MapLayerBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withVisibilityRange</span><span class="p">(</span><span class="n">_</span> <span class="nv">visibilityRange</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-maplayervisibilityrange">MapLayerVisibilityRange</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -554,7 +549,7 @@ corresponding to an offset of -1 and -3.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withMapMeasureDependentStorageLevels(_ mapLayerMapMeasureDependentStorageLevels: MapLayerMapMeasureDependentStorageLevels) -&gt; MapLayerBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withMapMeasureDependentStorageLevels</span><span class="p">(</span><span class="n">_</span> <span class="nv">mapLayerMapMeasureDependentStorageLevels</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-maplayermapmeasuredependentstoragelevels">MapLayerMapMeasureDependentStorageLevels</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -603,7 +598,7 @@ Higher load priority values lead to layer being scheduled for loading before lay
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withLoadPriority(_ loadPriority: Double) -&gt; MapLayerBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withLoadPriority</span><span class="p">(</span><span class="n">_</span> <span class="nv">loadPriority</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">MapLayerBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -659,7 +654,7 @@ map layer, but will not keep any previously configured properties.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func build() throws -&gt; MapLayer</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">build</span><span class="p">()</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-maplayer">MapLayer</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -679,8 +674,8 @@ map layer, but will not keep any previously configured properties.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

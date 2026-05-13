@@ -1,5 +1,5 @@
 ---
-title: "RouteTextOptions Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-routetextoptions"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-routetextoptions"
 <!-- RouteTextOptions.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/RouteTextOptions"></a>
 <a title="RouteTextOptions Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-routetextoptions"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RouteTextOptions</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct RouteTextOptions : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">RouteTextOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Specify how textual output should be provided.</p>
@@ -67,7 +60,7 @@ the default language is used, which is English (United States).</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var language: LanguageCode</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">language</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-languagecode">LanguageCode</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ units used are based on the language specified in the request. Defaults to metri
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var unitSystem: UnitSystem</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">unitSystem</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-unitsystem">UnitSystem</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ Defaults to each attribute as <code><a href="../Enums/LocalizedTextPreference.ht
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var textUsageOptions: TextUsageOptions</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">textUsageOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-textusageoptions">TextUsageOptions</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -144,7 +137,7 @@ Defaults to each attribute as <code><a href="../Enums/LocalizedTextPreference.ht
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(language: LanguageCode = LanguageCode.enUs, unitSystem: UnitSystem = UnitSystem.metric, textUsageOptions: TextUsageOptions = TextUsageOptions())</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">language</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-languagecode">LanguageCode</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-languagecode">LanguageCode</a></span><span class="o">.</span><span class="n">enUs</span><span class="p">,</span> <span class="nv">unitSystem</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-unitsystem">UnitSystem</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-unitsystem">UnitSystem</a></span><span class="o">.</span><span class="n">metric</span><span class="p">,</span> <span class="nv">textUsageOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-textusageoptions">TextUsageOptions</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-textusageoptions">TextUsageOptions</a></span><span class="p">())</span></code></pre>
 </div>
 </div>
 </section>
@@ -160,8 +153,8 @@ Defaults to each attribute as <code><a href="../Enums/LocalizedTextPreference.ht
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

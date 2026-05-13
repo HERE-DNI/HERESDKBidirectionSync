@@ -1,5 +1,5 @@
 ---
-title: "EVSEState Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-evsestate"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-evsestate"
 <!-- EVSEState.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/EVSEState"></a>
 <a title="EVSEState Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-evsestate"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>EVSEState</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum EVSEState : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">EVSEState</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Indicates the current short-term status of the EVSE at the time given in the modified property.
@@ -72,7 +65,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case unknown</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">unknown</span></code></pre>
 </div>
 </div>
 </section>
@@ -97,7 +90,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case available</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">available</span></code></pre>
 </div>
 </div>
 </section>
@@ -122,7 +115,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case blocked</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">blocked</span></code></pre>
 </div>
 </div>
 </section>
@@ -147,7 +140,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case charging</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">charging</span></code></pre>
 </div>
 </div>
 </section>
@@ -172,7 +165,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case inoperative</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">inoperative</span></code></pre>
 </div>
 </div>
 </section>
@@ -197,7 +190,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case outOfOrder</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">outOfOrder</span></code></pre>
 </div>
 </div>
 </section>
@@ -222,7 +215,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case reserved</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">reserved</span></code></pre>
 </div>
 </div>
 </section>
@@ -247,7 +240,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case operational</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">operational</span></code></pre>
 </div>
 </div>
 </section>
@@ -263,8 +256,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

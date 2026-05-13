@@ -1,5 +1,5 @@
 ---
-title: "BicycleBuilder Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-transportspecification-bicyclebuilder"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-transportspecification-bicycleb
 <!-- BicycleBuilder.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/BicycleBuilder"></a>
 <a title="BicycleBuilder Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,12 +31,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-transportspecification-bicycleb
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>BicycleBuilder</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class BicycleBuilder</code></pre>
-<pre><code>extension TransportSpecification.BicycleBuilder: NativeBase</code></pre>
-<pre><code>extension TransportSpecification.BicycleBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">BicycleBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">BicycleBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-transportspecification">TransportSpecification</a></span><span class="o">.</span><span class="kt">BicycleBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>This class constructs a <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-transportspecification">TransportSpecification</a></code> for a bicycle.</p>
@@ -70,7 +63,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-transportspecification-bicycleb
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -96,7 +89,7 @@ from the <code>TransportSpecification.BicycleBuilder</code> object.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func build() -&gt; TransportSpecification</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">build</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-transportspecification">TransportSpecification</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -116,8 +109,8 @@ from the <code>TransportSpecification.BicycleBuilder</code> object.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

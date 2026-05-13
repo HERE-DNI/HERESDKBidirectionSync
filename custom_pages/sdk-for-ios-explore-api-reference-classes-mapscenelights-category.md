@@ -1,5 +1,5 @@
 ---
-title: "Category Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscenelights-category"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapscenelights-category"
 <!-- Category.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/Category"></a>
 <a title="Category Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapscenelights-category"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Category</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum Category : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">Category</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>The scene uses three categories of lighting which are:
@@ -73,7 +66,7 @@ However, shadow casting is only affected by the direction of the main light.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case main</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">main</span></code></pre>
 </div>
 </div>
 </section>
@@ -98,7 +91,7 @@ However, shadow casting is only affected by the direction of the main light.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case back</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">back</span></code></pre>
 </div>
 </div>
 </section>
@@ -123,7 +116,7 @@ However, shadow casting is only affected by the direction of the main light.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rim</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rim</span></code></pre>
 </div>
 </div>
 </section>
@@ -139,8 +132,8 @@ However, shadow casting is only affected by the direction of the main light.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

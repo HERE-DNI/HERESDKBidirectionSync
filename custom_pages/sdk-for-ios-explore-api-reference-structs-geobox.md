@@ -1,5 +1,5 @@
 ---
-title: "GeoBox Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-geobox"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-geobox"
 <!-- GeoBox.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/GeoBox"></a>
 <a title="GeoBox Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-geobox"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>GeoBox</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct GeoBox : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">GeoBox</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents a bounding rectangle aligned with latitude and longitude.
@@ -72,7 +65,7 @@ latitude of the <code><a href="../Structs/GeoBox.html#/s:7heresdk6GeoBoxV15north
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let southWestCorner: GeoCoordinates</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">southWestCorner</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -97,7 +90,7 @@ latitude of the <code><a href="../Structs/GeoBox.html#/s:7heresdk6GeoBoxV15north
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let northEastCorner: GeoCoordinates</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">northEastCorner</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -122,7 +115,7 @@ latitude of the <code><a href="../Structs/GeoBox.html#/s:7heresdk6GeoBoxV15north
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(southWestCorner: GeoCoordinates, northEastCorner: GeoCoordinates)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">southWestCorner</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">northEastCorner</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -149,7 +142,7 @@ The altitude values of the input coordinates are not considered for the result.<
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func containing(geoCoordinates: [GeoCoordinates]) -&gt; GeoBox?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">containing</span><span class="p">(</span><span class="nv">geoCoordinates</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">])</span> <span class="o">-&gt;</span> <span class="kt">GeoBox</span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -198,7 +191,7 @@ GeoBox and the specified <code>GeoBox</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func envelope(geoBox: GeoBox) -&gt; GeoBox</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">envelope</span><span class="p">(</span><span class="nv">geoBox</span><span class="p">:</span> <span class="kt">GeoBox</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">GeoBox</span></code></pre>
 </div>
 </div>
 <div>
@@ -247,7 +240,7 @@ GeoBox and the specified <code>GeoBox</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func envelopeGeoBoxes(geoBoxes: [GeoBox]) -&gt; GeoBox?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">envelopeGeoBoxes</span><span class="p">(</span><span class="nv">geoBoxes</span><span class="p">:</span> <span class="p">[</span><span class="kt">GeoBox</span><span class="p">])</span> <span class="o">-&gt;</span> <span class="kt">GeoBox</span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -297,7 +290,7 @@ The altitude values are ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func intersects(geoBox: GeoBox) -&gt; Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">intersects</span><span class="p">(</span><span class="nv">geoBox</span><span class="p">:</span> <span class="kt">GeoBox</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -349,7 +342,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func intersection(geoBox: GeoBox) -&gt; [GeoBox]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">intersection</span><span class="p">(</span><span class="nv">geoBox</span><span class="p">:</span> <span class="kt">GeoBox</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt">GeoBox</span><span class="p">]</span></code></pre>
 </div>
 </div>
 <div>
@@ -402,7 +395,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func intersection(geoBoxes: [GeoBox]) -&gt; [GeoBox]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">intersection</span><span class="p">(</span><span class="nv">geoBoxes</span><span class="p">:</span> <span class="p">[</span><span class="kt">GeoBox</span><span class="p">])</span> <span class="o">-&gt;</span> <span class="p">[</span><span class="kt">GeoBox</span><span class="p">]</span></code></pre>
 </div>
 </div>
 <div>
@@ -452,7 +445,7 @@ The altitude values are ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func contains(geoBox: GeoBox) -&gt; Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">contains</span><span class="p">(</span><span class="nv">geoBox</span><span class="p">:</span> <span class="kt">GeoBox</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -501,7 +494,7 @@ The altitude values are ignored.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func contains(geoCoordinates: GeoCoordinates) -&gt; Bool</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">contains</span><span class="p">(</span><span class="nv">geoCoordinates</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">Bool</span></code></pre>
 </div>
 </div>
 <div>
@@ -556,7 +549,7 @@ Throws an InstantiationError if it is not possible to create a valid
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func expandedBy(southMeters: Double, westMeters: Double, northMeters: Double, eastMeters: Double) throws -&gt; GeoBox</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">expandedBy</span><span class="p">(</span><span class="nv">southMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">westMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">northMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">eastMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt">GeoBox</span></code></pre>
 </div>
 </div>
 <div>
@@ -631,8 +624,8 @@ Throws an InstantiationError if it is not possible to create a valid
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

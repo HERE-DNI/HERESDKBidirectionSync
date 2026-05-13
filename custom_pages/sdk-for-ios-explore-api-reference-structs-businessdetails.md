@@ -1,5 +1,5 @@
 ---
-title: "BusinessDetails Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-businessdetails"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-businessdetails"
 <!-- BusinessDetails.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/BusinessDetails"></a>
 <a title="BusinessDetails Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-businessdetails"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>BusinessDetails</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct BusinessDetails : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">BusinessDetails</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Contains place details such as contacts, opening hours and some electro vehicle info.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-businessdetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var contacts: [Contact]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">contacts</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-contact">Contact</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-businessdetails"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var openingHours: [OpeningHours]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">openingHours</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-openinghours">OpeningHours</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ valid contracts with HERE.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var evChargingPool: EVChargingPool?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">evChargingPool</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingpool">EVChargingPool</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -143,7 +136,7 @@ valid contracts with HERE.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(contacts: [Contact] = [], openingHours: [OpeningHours] = [], evChargingPool: EVChargingPool? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">contacts</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-contact">Contact</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">openingHours</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-openinghours">OpeningHours</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">evChargingPool</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evchargingpool">EVChargingPool</a></span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -159,8 +152,8 @@ valid contracts with HERE.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

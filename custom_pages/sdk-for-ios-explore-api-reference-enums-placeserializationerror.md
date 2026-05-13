@@ -1,5 +1,5 @@
 ---
-title: "PlaceSerializationError Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-placeserializationerror"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-placeserializationerror"
 <!-- PlaceSerializationError.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/PlaceSerializationError"></a>
 <a title="PlaceSerializationError Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,11 +29,11 @@ slug: "sdk-for-ios-explore-api-reference-enums-placeserializationerror"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>PlaceSerializationError</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum PlaceSerializationError : UInt32, CaseIterable, Codable</code></pre>
-<pre><code>extension PlaceSerializationError : Error</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">PlaceSerializationError</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PlaceSerializationError</span> <span class="p">:</span> <span class="kt">Error</span></code></pre>
 </div>
 </div>
 <p>Represents and error, which occurs during place serialization and deserialization routines.</p>
@@ -67,7 +60,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-placeserializationerror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case unknown</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">unknown</span></code></pre>
 </div>
 </div>
 </section>
@@ -83,8 +76,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-placeserializationerror"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

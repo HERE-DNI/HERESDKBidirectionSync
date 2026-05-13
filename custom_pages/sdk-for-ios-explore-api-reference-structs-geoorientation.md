@@ -1,5 +1,5 @@
 ---
-title: "GeoOrientation Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-geoorientation"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-geoorientation"
 <!-- GeoOrientation.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/GeoOrientation"></a>
 <a title="GeoOrientation Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-geoorientation"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>GeoOrientation</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct GeoOrientation : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">GeoOrientation</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Geodetic orientation with bearing, tilt and roll.</p>
@@ -67,7 +60,7 @@ Bearing axis is perpendicular to the ground and passes through the target coordi
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let bearing: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">bearing</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ Bearing axis is perpendicular to the ground and passes through the target coordi
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let tilt: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">tilt</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ Bearing axis is perpendicular to the ground and passes through the target coordi
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(bearing: Double, tilt: Double)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">bearing</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="nv">tilt</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -163,8 +156,8 @@ Bearing axis is perpendicular to the ground and passes through the target coordi
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

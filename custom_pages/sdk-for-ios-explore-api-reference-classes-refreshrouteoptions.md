@@ -1,5 +1,5 @@
 ---
-title: "RefreshRouteOptions Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-refreshrouteoptions"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-refreshrouteoptions"
 <!-- RefreshRouteOptions.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/RefreshRouteOptions"></a>
 <a title="RefreshRouteOptions Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,13 +29,13 @@ slug: "sdk-for-ios-explore-api-reference-classes-refreshrouteoptions"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RefreshRouteOptions</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>RoutingOptions</code> class instead.")
-public class RefreshRouteOptions</code></pre>
-<pre><code>extension RefreshRouteOptions: NativeBase</code></pre>
-<pre><code>extension RefreshRouteOptions: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>RoutingOptions</code> class instead.")</span>
+<span class="kd">public</span> <span class="kd">class</span> <span class="kt">RefreshRouteOptions</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">RefreshRouteOptions</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">RefreshRouteOptions</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The options to specify how to refresh an already calculated route identified by a <code><a href="sdk-for-ios-explore-api-reference-..-structs-routehandle">RouteHandle</a></code>. All the
@@ -79,7 +72,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ transportMode: TransportMode)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">transportMode</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-transportmode">TransportMode</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -123,7 +116,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ carOptions: CarOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">carOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-caroptions">CarOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -169,7 +162,7 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ truckOptions: TruckOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">truckOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-truckoptions">TruckOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -215,7 +208,7 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ pedestrianOptions: PedestrianOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">pedestrianOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-pedestrianoptions">PedestrianOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -261,7 +254,7 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ scooterOptions: ScooterOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">scooterOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-scooteroptions">ScooterOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -307,7 +300,7 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ taxiOptions: TaxiOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">taxiOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-taxioptions">TaxiOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -353,7 +346,7 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ evCarOptions: EVCarOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">evCarOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evcaroptions">EVCarOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -399,7 +392,7 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ evTruckOptions: EVTruckOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">evTruckOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evtruckoptions">EVTruckOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -445,7 +438,7 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ bicycleOptions: BicycleOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">bicycleOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-bicycleoptions">BicycleOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -491,7 +484,7 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ busOptions: BusOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">busOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-busoptions">BusOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -537,7 +530,7 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ privateBusOptions: PrivateBusOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">privateBusOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-privatebusoptions">PrivateBusOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -574,8 +567,8 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

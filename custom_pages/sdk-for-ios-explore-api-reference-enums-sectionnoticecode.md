@@ -1,5 +1,5 @@
 ---
-title: "SectionNoticeCode Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-sectionnoticecode"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-sectionnoticecode"
 <!-- SectionNoticeCode.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/SectionNoticeCode"></a>
 <a title="SectionNoticeCode Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-sectionnoticecode"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>SectionNoticeCode</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum SectionNoticeCode : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">SectionNoticeCode</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Notice codes which point the issues encountered during processing of a <code><a href="sdk-for-ios-explore-api-reference-..-classes-section">Section</a></code>.</p>
@@ -68,7 +61,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedCriticalRule</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedCriticalRule</span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedAvoidControlledAccessHighway</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedAvoidControlledAccessHighway</span></code></pre>
 </div>
 </div>
 </section>
@@ -120,7 +113,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedAvoidTollRoad</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedAvoidTollRoad</span></code></pre>
 </div>
 </div>
 </section>
@@ -146,7 +139,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedAvoidFerry</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedAvoidFerry</span></code></pre>
 </div>
 </div>
 </section>
@@ -172,7 +165,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedAvoidTunnel</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedAvoidTunnel</span></code></pre>
 </div>
 </div>
 </section>
@@ -198,7 +191,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedAvoidDirtRoad</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedAvoidDirtRoad</span></code></pre>
 </div>
 </div>
 </section>
@@ -224,7 +217,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedAvoidRailFerry</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedAvoidRailFerry</span></code></pre>
 </div>
 </div>
 </section>
@@ -250,7 +243,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedAvoidPark</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedAvoidPark</span></code></pre>
 </div>
 </div>
 </section>
@@ -278,7 +271,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedBlockedRoad</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedBlockedRoad</span></code></pre>
 </div>
 </div>
 </section>
@@ -304,7 +297,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedStartDirection</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedStartDirection</span></code></pre>
 </div>
 </div>
 </section>
@@ -330,7 +323,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedCarpool</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedCarpool</span></code></pre>
 </div>
 </div>
 </section>
@@ -356,7 +349,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedTurnRestriction</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedTurnRestriction</span></code></pre>
 </div>
 </div>
 </section>
@@ -382,7 +375,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedVehicleRestriction</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedVehicleRestriction</span></code></pre>
 </div>
 </div>
 </section>
@@ -409,7 +402,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedZoneRestriction</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedZoneRestriction</span></code></pre>
 </div>
 </div>
 </section>
@@ -435,7 +428,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedAvoidUTurns</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedAvoidUTurns</span></code></pre>
 </div>
 </div>
 </section>
@@ -461,7 +454,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedEmergencyGate</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedEmergencyGate</span></code></pre>
 </div>
 </div>
 </section>
@@ -487,7 +480,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedAvoidSeasonalClosure</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedAvoidSeasonalClosure</span></code></pre>
 </div>
 </div>
 </section>
@@ -512,7 +505,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedAvoidTruckRoadType</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedAvoidTruckRoadType</span></code></pre>
 </div>
 </div>
 </section>
@@ -538,7 +531,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedAvoidTollTransponder</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedAvoidTollTransponder</span></code></pre>
 </div>
 </div>
 </section>
@@ -564,7 +557,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedChargingStationOpeningHours</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedChargingStationOpeningHours</span></code></pre>
 </div>
 </div>
 </section>
@@ -590,7 +583,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedAvoidDifficultTurns</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedAvoidDifficultTurns</span></code></pre>
 </div>
 </div>
 </section>
@@ -616,7 +609,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case seasonalClosure</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">seasonalClosure</span></code></pre>
 </div>
 </div>
 </section>
@@ -642,7 +635,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tollTransponder</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tollTransponder</span></code></pre>
 </div>
 </div>
 </section>
@@ -668,7 +661,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tollsDataUnavailable</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tollsDataUnavailable</span></code></pre>
 </div>
 </div>
 </section>
@@ -694,7 +687,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case tollsDataTemporarilyUnavailable</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">tollsDataTemporarilyUnavailable</span></code></pre>
 </div>
 </div>
 </section>
@@ -721,7 +714,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case chargingStopNotNeeded</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">chargingStopNotNeeded</span></code></pre>
 </div>
 </div>
 </section>
@@ -747,7 +740,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case noSchedule</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">noSchedule</span></code></pre>
 </div>
 </div>
 </section>
@@ -773,7 +766,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case noIntermediate</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">noIntermediate</span></code></pre>
 </div>
 </div>
 </section>
@@ -800,7 +793,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case unwantedMode</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">unwantedMode</span></code></pre>
 </div>
 </div>
 </section>
@@ -826,7 +819,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case scheduledTimes</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">scheduledTimes</span></code></pre>
 </div>
 </div>
 </section>
@@ -853,7 +846,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case simplePolyline</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">simplePolyline</span></code></pre>
 </div>
 </div>
 </section>
@@ -879,7 +872,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case potentialCarpool</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">potentialCarpool</span></code></pre>
 </div>
 </div>
 </section>
@@ -905,7 +898,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case potentialTurnRestriction</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">potentialTurnRestriction</span></code></pre>
 </div>
 </div>
 </section>
@@ -931,7 +924,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case potentialVehicleRestriction</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">potentialVehicleRestriction</span></code></pre>
 </div>
 </div>
 </section>
@@ -957,7 +950,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case potentialZoneRestriction</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">potentialZoneRestriction</span></code></pre>
 </div>
 </div>
 </section>
@@ -982,7 +975,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedMinChargeAtFirstCs</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedMinChargeAtFirstCs</span></code></pre>
 </div>
 </div>
 </section>
@@ -1007,7 +1000,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedMinChargeAtCs</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedMinChargeAtCs</span></code></pre>
 </div>
 </div>
 </section>
@@ -1032,7 +1025,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedMinChargeAtDestination</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedMinChargeAtDestination</span></code></pre>
 </div>
 </div>
 </section>
@@ -1057,7 +1050,7 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case noThroughRestriction</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">noThroughRestriction</span></code></pre>
 </div>
 </div>
 </section>
@@ -1073,8 +1066,8 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

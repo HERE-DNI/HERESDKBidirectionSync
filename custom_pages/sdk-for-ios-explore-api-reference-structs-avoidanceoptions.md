@@ -1,5 +1,5 @@
 ---
-title: "AvoidanceOptions Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-avoidanceoptions"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-avoidanceoptions"
 <!-- AvoidanceOptions.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/AvoidanceOptions"></a>
 <a title="AvoidanceOptions Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-avoidanceoptions"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>AvoidanceOptions</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct AvoidanceOptions : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">AvoidanceOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The options to specify restrictions for route calculations.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-avoidanceoptions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var roadFeatures: [RoadFeatures]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">roadFeatures</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-roadfeatures">RoadFeatures</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7he
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var countries: [CountryCode]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">countries</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-countrycode">CountryCode</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7he
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var avoidBoundingBoxAreasOptions: [AvoidBoundingBoxAreaOptions]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">avoidBoundingBoxAreasOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-avoidboundingboxareaoptions">AvoidBoundingBoxAreaOptions</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -144,7 +137,7 @@ Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7he
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var avoidPolygonAreasOptions: [AvoidPolygonAreaOptions]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">avoidPolygonAreasOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-avoidpolygonareaoptions">AvoidPolygonAreaOptions</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -170,7 +163,7 @@ Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7he
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var avoidCorridorAreasOptions: [AvoidCorridorAreaOptions]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">avoidCorridorAreasOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-avoidcorridorareaoptions">AvoidCorridorAreaOptions</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -196,7 +189,7 @@ Violations are reported as <code><a href="../Enums/SectionNoticeCode.html#/s:7he
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var zoneCategories: [ZoneCategory]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">zoneCategories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-zonecategory">ZoneCategory</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -230,7 +223,7 @@ on the backend and it is therefore not guaranteed to be stable.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var segments: [SegmentReference]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">segments</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-segmentreference">SegmentReference</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -258,7 +251,7 @@ For example, more information on zone IDs for Environmental Zones is available u
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var exceptZoneIds: [String]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">exceptZoneIds</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -286,7 +279,7 @@ For example, more information on zone IDs for Environmental Zones is available u
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var zoneIds: [String]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">zoneIds</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -312,7 +305,7 @@ Refer to <code><a href="sdk-for-ios-explore-api-reference-..-enums-truckroadtype
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var avoidedTruckRoadTypes: [TruckRoadType]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">avoidedTruckRoadTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-truckroadtype">TruckRoadType</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -376,7 +369,7 @@ Refer to <code><a href="sdk-for-ios-explore-api-reference-..-enums-truckroadtype
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(roadFeatures: [RoadFeatures] = [], countries: [CountryCode] = [], avoidBoundingBoxAreasOptions: [AvoidBoundingBoxAreaOptions] = [], avoidPolygonAreasOptions: [AvoidPolygonAreaOptions] = [], avoidCorridorAreasOptions: [AvoidCorridorAreaOptions] = [], zoneCategories: [ZoneCategory] = [], segments: [SegmentReference] = [], exceptZoneIds: [String] = [], zoneIds: [String] = [], avoidedTruckRoadTypes: [TruckRoadType] = [])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">roadFeatures</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-roadfeatures">RoadFeatures</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">countries</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-countrycode">CountryCode</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">avoidBoundingBoxAreasOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-avoidboundingboxareaoptions">AvoidBoundingBoxAreaOptions</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">avoidPolygonAreasOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-avoidpolygonareaoptions">AvoidPolygonAreaOptions</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">avoidCorridorAreasOptions</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-avoidcorridorareaoptions">AvoidCorridorAreaOptions</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">zoneCategories</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-zonecategory">ZoneCategory</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">segments</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-segmentreference">SegmentReference</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">exceptZoneIds</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">zoneIds</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">]</span> <span class="o">=</span> <span class="p">[],</span> <span class="nv">avoidedTruckRoadTypes</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-truckroadtype">TruckRoadType</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>
@@ -392,8 +385,8 @@ Refer to <code><a href="sdk-for-ios-explore-api-reference-..-enums-truckroadtype
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

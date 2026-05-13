@@ -1,5 +1,5 @@
 ---
-title: "RasterDataSourceDelegate Protocol Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-protocols-rasterdatasourcedelegate"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-protocols-rasterdatasourcedelegate"
 <!-- RasterDataSourceDelegate.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Protocol/RasterDataSourceDelegate"></a>
 <a title="RasterDataSourceDelegate Protocol Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-rasterdatasourcedelegate"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RasterDataSourceDelegate</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public protocol RasterDataSourceDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">RasterDataSourceDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 <p>Delegate for RasterDataSource events.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-rasterdatasourcedelegate"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func onRasterDataSourceReady()</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onRasterDataSourceReady</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-protocols-rasterdatasourcedelegate"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func onRasterDataSourceError(_ dataSourceError: RasterDataSourceError)</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onRasterDataSourceError</span><span class="p">(</span><span class="n">_</span> <span class="nv">dataSourceError</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-rasterdatasourceerror">RasterDataSourceError</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -126,8 +119,8 @@ slug: "sdk-for-ios-explore-api-reference-protocols-rasterdatasourcedelegate"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

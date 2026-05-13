@@ -1,5 +1,5 @@
 ---
-title: "MapViewLifecycleDelegate Protocol Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-protocols-mapviewlifecycledelegate"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-protocols-mapviewlifecycledelegate"
 <!-- MapViewLifecycleDelegate.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Protocol/MapViewLifecycleDelegate"></a>
 <a title="MapViewLifecycleDelegate Protocol Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-protocols-mapviewlifecycledelegate"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapViewLifecycleDelegate</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public protocol MapViewLifecycleDelegate : AnyObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">protocol</span> <span class="kt">MapViewLifecycleDelegate</span> <span class="p">:</span> <span class="kt">AnyObject</span></code></pre>
 </div>
 </div>
 <p>Provides a mechanism for observing a lifecycle of a map view and/or implementing components
@@ -79,7 +72,7 @@ will create a reference cycle and prevent map view from being released.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func onAttach(to mapView: MapViewBase)</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onAttach</span><span class="p">(</span><span class="n">to</span> <span class="nv">mapView</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewbase">MapViewBase</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -124,7 +117,7 @@ the logic to remove visual components from the map view and release resources if
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func onDetach(from mapView: MapViewBase)</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onDetach</span><span class="p">(</span><span class="n">from</span> <span class="nv">mapView</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-mapviewbase">MapViewBase</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -171,7 +164,7 @@ is called.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func onPause()</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onPause</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -199,7 +192,7 @@ perform continuous updates to resume those updates after a previous call to
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func onResume()</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onResume</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -226,7 +219,7 @@ This should be used to make sure all resources are freed.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>func onDestroy()</code></pre>
+<pre class="highlight swift"><code><span class="kd">func</span> <span class="nf">onDestroy</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -242,8 +235,8 @@ This should be used to make sure all resources are freed.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

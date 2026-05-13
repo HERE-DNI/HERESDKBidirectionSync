@@ -1,5 +1,5 @@
 ---
-title: "RoutingError Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-routingerror"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-routingerror"
 <!-- RoutingError.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/RoutingError"></a>
 <a title="RoutingError Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-routingerror"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>RoutingError</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum RoutingError : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">RoutingError</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Specifies possible errors that may result from the calculation of a route.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-routingerror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case internalError = 1</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">internalError</span> <span class="o">=</span> <span class="mi">1</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-routingerror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case invalidParameter</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">invalidParameter</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-routingerror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case serverUnreachable</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">serverUnreachable</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-routingerror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case httpError</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">httpError</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-routingerror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case authenticationFailed</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">authenticationFailed</span></code></pre>
 </div>
 </div>
 </section>
@@ -191,7 +184,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-routingerror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case forbidden</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">forbidden</span></code></pre>
 </div>
 </div>
 </section>
@@ -216,7 +209,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-routingerror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case exceededUsageLimit</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">exceededUsageLimit</span></code></pre>
 </div>
 </div>
 </section>
@@ -242,7 +235,7 @@ version of the SDK. If the problem persists, please report a bug in the SDK.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case parsingError</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">parsingError</span></code></pre>
 </div>
 </div>
 </section>
@@ -267,7 +260,7 @@ version of the SDK. If the problem persists, please report a bug in the SDK.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case noRouteFound</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">noRouteFound</span></code></pre>
 </div>
 </div>
 </section>
@@ -292,7 +285,7 @@ version of the SDK. If the problem persists, please report a bug in the SDK.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case timedOut</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">timedOut</span></code></pre>
 </div>
 </div>
 </section>
@@ -317,7 +310,7 @@ version of the SDK. If the problem persists, please report a bug in the SDK.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case offline</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">offline</span></code></pre>
 </div>
 </div>
 </section>
@@ -342,7 +335,7 @@ version of the SDK. If the problem persists, please report a bug in the SDK.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case noIsolineFound</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">noIsolineFound</span></code></pre>
 </div>
 </div>
 </section>
@@ -368,7 +361,7 @@ Consider to recalculate the route with a route handle. See <code><a href="../Str
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case noRouteHandle</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">noRouteHandle</span></code></pre>
 </div>
 </div>
 </section>
@@ -393,7 +386,7 @@ Consider to recalculate the route with a route handle. See <code><a href="../Str
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case operationCancelled</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">operationCancelled</span></code></pre>
 </div>
 </div>
 </section>
@@ -419,7 +412,7 @@ When both, origin and destination, cannot be matched, then the origin waypoint e
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case couldNotMatchDestination</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">couldNotMatchDestination</span></code></pre>
 </div>
 </div>
 </section>
@@ -445,7 +438,7 @@ When both, origin and destination, cannot be matched, then the origin waypoint e
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case couldNotMatchOrigin</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">couldNotMatchOrigin</span></code></pre>
 </div>
 </div>
 </section>
@@ -470,7 +463,7 @@ When both, origin and destination, cannot be matched, then the origin waypoint e
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case failedRouteHandleCreation</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">failedRouteHandleCreation</span></code></pre>
 </div>
 </div>
 </section>
@@ -495,7 +488,7 @@ When both, origin and destination, cannot be matched, then the origin waypoint e
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case importFailed</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">importFailed</span></code></pre>
 </div>
 </div>
 </section>
@@ -520,7 +513,7 @@ When both, origin and destination, cannot be matched, then the origin waypoint e
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case noReachableChargingStationFound</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">noReachableChargingStationFound</span></code></pre>
 </div>
 </div>
 </section>
@@ -545,7 +538,7 @@ When both, origin and destination, cannot be matched, then the origin waypoint e
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case routeCalculationFailed</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">routeCalculationFailed</span></code></pre>
 </div>
 </div>
 </section>
@@ -570,7 +563,7 @@ When both, origin and destination, cannot be matched, then the origin waypoint e
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case routeLengthLimitExceeded</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">routeLengthLimitExceeded</span></code></pre>
 </div>
 </div>
 </section>
@@ -595,7 +588,7 @@ When both, origin and destination, cannot be matched, then the origin waypoint e
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case violatedTransportModeInRouteHandleDecoding</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">violatedTransportModeInRouteHandleDecoding</span></code></pre>
 </div>
 </div>
 </section>
@@ -620,7 +613,7 @@ When both, origin and destination, cannot be matched, then the origin waypoint e
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case proxyAuthenticationFailed</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">proxyAuthenticationFailed</span></code></pre>
 </div>
 </div>
 </section>
@@ -645,7 +638,7 @@ When both, origin and destination, cannot be matched, then the origin waypoint e
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case proxyServerUnreachable</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">proxyServerUnreachable</span></code></pre>
 </div>
 </div>
 </section>
@@ -670,7 +663,7 @@ When both, origin and destination, cannot be matched, then the origin waypoint e
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case activeMapUpdate</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">activeMapUpdate</span></code></pre>
 </div>
 </div>
 </section>
@@ -686,8 +679,8 @@ When both, origin and destination, cannot be matched, then the origin waypoint e
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

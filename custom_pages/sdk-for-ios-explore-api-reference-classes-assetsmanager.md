@@ -1,5 +1,5 @@
 ---
-title: "AssetsManager Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-assetsmanager"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-assetsmanager"
 <!-- AssetsManager.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/AssetsManager"></a>
 <a title="AssetsManager Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-assetsmanager"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>AssetsManager</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class AssetsManager</code></pre>
-<pre><code>extension AssetsManager: NativeBase</code></pre>
-<pre><code>extension AssetsManager: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">AssetsManager</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">AssetsManager</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">AssetsManager</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Assets manager interface. Can be used to make assets available to the SDK.</p>
@@ -70,7 +63,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(_ context: MapContext)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="n">_</span> <span class="nv">context</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext">MapContext</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -120,7 +113,7 @@ After registration, the font name can be used in</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func registerFont(fontName: String, fontPath: String)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">registerFont</span><span class="p">(</span><span class="nv">fontName</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">fontPath</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -183,7 +176,7 @@ After registration, the font name can be used in</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func registerFontWithFallback(fontName: String, fontPath: String, fallbackFontFilePaths: [String])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">registerFontWithFallback</span><span class="p">(</span><span class="nv">fontName</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">fontPath</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">fallbackFontFilePaths</span><span class="p">:</span> <span class="p">[</span><span class="kt">String</span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -244,8 +237,8 @@ does not contain required character symbol and shall be sorted starting from mos
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

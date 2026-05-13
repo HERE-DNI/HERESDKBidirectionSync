@@ -1,5 +1,5 @@
 ---
-title: "MaterialReflectivity Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-materialreflectivity"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-materialreflectivity"
 <!-- MaterialReflectivity.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/MaterialReflectivity"></a>
 <a title="MaterialReflectivity Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,21 +29,21 @@ slug: "sdk-for-ios-explore-api-reference-structs-materialreflectivity"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MaterialReflectivity</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct MaterialReflectivity : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MaterialReflectivity</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Material reflectivity properties are used to enable per‑pixel lighting for supported map objects
 (e.g. <code><a href="sdk-for-ios-explore-api-reference-..-classes-locationindicator">LocationIndicator</a></code> markers and their halo).</p>
-
+<h2 class="heading" id="lighting-off-vs-on">Lighting OFF vs ON</h2>
 <p>By default (when no MaterialReflectivity is assigned) objects are rendered “unlit” (emissive):
 their texture / color appears at a constant brightness, unaffected by scene lights. Assigning a
 <code>MaterialReflectivity</code> instance to an object that supports it (e.g. <code><a href="../Classes/LocationIndicator.html#/s:7heresdk17LocationIndicatorC20materialReflectivityAA08MaterialE0VSgvp">LocationIndicator.materialReflectivity</a></code>)
 automatically enables lighting for this object and all its internal components. Clearing (setting the property to
 <code>nil</code>) disables lighting again and restores the unlit appearance.</p>
-
+<h2 class="heading" id="factors">Factors</h2>
 <p>Both factors are expected to be within [0.0, 1.0]. Values outside this range are allowed but may
 produce exaggerated results or be clamped by future implementations. Typical useful ranges:</p>
 <ul>
@@ -83,7 +76,7 @@ constant ambient contribution (independent of light direction) when lighting is 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var ambientFactor: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">ambientFactor</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -109,7 +102,7 @@ the diffuse lighting component when lighting is enabled. Default value is 1.0.</
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var diffuseFactor: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">diffuseFactor</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -134,7 +127,7 @@ the diffuse lighting component when lighting is enabled. Default value is 1.0.</
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(ambientFactor: Double = 0.0, diffuseFactor: Double = 1.0)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">ambientFactor</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">diffuseFactor</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">1.0</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -150,8 +143,8 @@ the diffuse lighting component when lighting is enabled. Default value is 1.0.</
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

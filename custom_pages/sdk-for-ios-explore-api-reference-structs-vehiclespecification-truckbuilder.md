@@ -1,5 +1,5 @@
 ---
-title: "TruckBuilder Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuilder"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <!-- TruckBuilder.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/TruckBuilder"></a>
 <a title="TruckBuilder Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,12 +31,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TruckBuilder</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class TruckBuilder</code></pre>
-<pre><code>extension VehicleSpecification.TruckBuilder: NativeBase</code></pre>
-<pre><code>extension VehicleSpecification.TruckBuilder: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TruckBuilder</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>This class constructs a <code><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></code> for a truck.</p>
@@ -70,7 +63,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -95,7 +88,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withHeightInCentimeters(_ heightInCentimeters: Int32) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withHeightInCentimeters</span><span class="p">(</span><span class="n">_</span> <span class="nv">heightInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -143,7 +136,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withWidthInCentimeters(_ widthInCentimeters: Int32) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withWidthInCentimeters</span><span class="p">(</span><span class="n">_</span> <span class="nv">widthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -191,7 +184,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withLengthInCentimeters(_ lengthInCentimeters: Int32) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withLengthInCentimeters</span><span class="p">(</span><span class="n">_</span> <span class="nv">lengthInCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -239,7 +232,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withAxleCount(_ axleCount: Int32) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withAxleCount</span><span class="p">(</span><span class="n">_</span> <span class="nv">axleCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -287,7 +280,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withKingpinToRearAxleDistanceInCentimeters(_ length: Int32) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withKingpinToRearAxleDistanceInCentimeters</span><span class="p">(</span><span class="n">_</span> <span class="nv">length</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -335,7 +328,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withTrailerCount(_ trailerCount: Int32) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withTrailerCount</span><span class="p">(</span><span class="n">_</span> <span class="nv">trailerCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -383,7 +376,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withTruckCategory(_ truckCategory: TruckCategory) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withTruckCategory</span><span class="p">(</span><span class="n">_</span> <span class="nv">truckCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-truckcategory">TruckCategory</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -431,7 +424,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withIsTruckLight(_ isTruckLight: Bool) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withIsTruckLight</span><span class="p">(</span><span class="n">_</span> <span class="nv">isTruckLight</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -479,7 +472,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withPayloadCapacityInKilograms(payloadCapacityInKilograms: Int32) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withPayloadCapacityInKilograms</span><span class="p">(</span><span class="nv">payloadCapacityInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -527,7 +520,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withTrailerAxleCount(_ trailerAxleCount: Int32) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withTrailerAxleCount</span><span class="p">(</span><span class="n">_</span> <span class="nv">trailerAxleCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -575,7 +568,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withGrossWeightInKilograms(_ grossWeightInKilograms: Int32) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withGrossWeightInKilograms</span><span class="p">(</span><span class="n">_</span> <span class="nv">grossWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -623,7 +616,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withCurrentWeightInKilograms(_ currentWeightInKilograms: Int32) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withCurrentWeightInKilograms</span><span class="p">(</span><span class="n">_</span> <span class="nv">currentWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -671,7 +664,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withEmptyWeightInKilograms(_ emptyWeightInKilograms: Int32) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withEmptyWeightInKilograms</span><span class="p">(</span><span class="n">_</span> <span class="nv">emptyWeightInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -719,7 +712,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withWeightPerAxleInKilograms(_ weightPerAxleInKilograms: Int32) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withWeightPerAxleInKilograms</span><span class="p">(</span><span class="n">_</span> <span class="nv">weightPerAxleInKilograms</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -767,7 +760,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withWeightPerAxleGroup(_ weightPerAxleGroup: WeightPerAxleGroup) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withWeightPerAxleGroup</span><span class="p">(</span><span class="n">_</span> <span class="nv">weightPerAxleGroup</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-weightperaxlegroup">WeightPerAxleGroup</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -815,7 +808,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withIsCommercial(_ isCommercial: Bool) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withIsCommercial</span><span class="p">(</span><span class="n">_</span> <span class="nv">isCommercial</span><span class="p">:</span> <span class="kt">Bool</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -863,7 +856,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withLastCharacterOfLicensePlate(_ lastCharacterOfLicensePlate: String) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withLastCharacterOfLicensePlate</span><span class="p">(</span><span class="n">_</span> <span class="nv">lastCharacterOfLicensePlate</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -911,7 +904,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withEngineSizeInCubicCentimeters(_ engineSizeInCubicCentimeters: Int32) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withEngineSizeInCubicCentimeters</span><span class="p">(</span><span class="n">_</span> <span class="nv">engineSizeInCubicCentimeters</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -959,7 +952,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withTiresCount(_ tiresCount: Int32) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withTiresCount</span><span class="p">(</span><span class="n">_</span> <span class="nv">tiresCount</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -1007,7 +1000,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withTunnelCategory(_ tunnelCategory: TunnelCategory) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withTunnelCategory</span><span class="p">(</span><span class="n">_</span> <span class="nv">tunnelCategory</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-tunnelcategory">TunnelCategory</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -1055,7 +1048,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuild
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withHazardousMaterials(_ hazardousMaterials: [HazardousMaterial]) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withHazardousMaterials</span><span class="p">(</span><span class="n">_</span> <span class="nv">hazardousMaterials</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-enums-hazardousmaterial">HazardousMaterial</a></span><span class="p">])</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -1104,7 +1097,7 @@ to the new value.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func withOccupancy(_ occupancy: Int32) -&gt; VehicleSpecification.TruckBuilder</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">withOccupancy</span><span class="p">(</span><span class="n">_</span> <span class="nv">occupancy</span><span class="p">:</span> <span class="kt">Int32</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span><span class="o">.</span><span class="kt">TruckBuilder</span></code></pre>
 </div>
 </div>
 <div>
@@ -1153,7 +1146,7 @@ from the <code>VehicleSpecification.TruckBuilder</code> object.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func build() -&gt; VehicleSpecification</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">build</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-..-structs-vehiclespecification">VehicleSpecification</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -1173,8 +1166,8 @@ from the <code>VehicleSpecification.TruckBuilder</code> object.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

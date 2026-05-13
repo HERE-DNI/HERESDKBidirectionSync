@@ -1,5 +1,5 @@
 ---
-title: "PickMapContentResult Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult"
 <!-- PickMapContentResult.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/PickMapContentResult"></a>
 <a title="PickMapContentResult Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>PickMapContentResult</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class PickMapContentResult</code></pre>
-<pre><code>extension PickMapContentResult: NativeBase</code></pre>
-<pre><code>extension PickMapContentResult: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PickMapContentResult</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PickMapContentResult</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PickMapContentResult</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>A class that contains possible results from picking map content on the map scene.</p>
@@ -68,7 +61,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var pickedPlaces: [PickedPlace] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">pickedPlaces</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-pickedplace">PickedPlace</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var trafficIncidents: [PickMapContentResult.TrafficIncidentResult] { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">trafficIncidents</span><span class="p">:</span> <span class="p">[</span><span class="kt">PickMapContentResult</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-pickmapcontentresult-trafficincidentresult">TrafficIncidentResult</a></span><span class="p">]</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -121,9 +114,9 @@ Description of incident is currently not present in our map data, so
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public class TrafficIncidentResult : TrafficIncidentBase</code></pre>
-<pre><code>extension PickMapContentResult.TrafficIncidentResult: NativeBase</code></pre>
-<pre><code>extension PickMapContentResult.TrafficIncidentResult: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">TrafficIncidentResult</span> <span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-trafficincidentbase">TrafficIncidentBase</a></span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-pickmapcontentresult">PickMapContentResult</a></span><span class="o">.</span><span class="kt">TrafficIncidentResult</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-pickmapcontentresult">PickMapContentResult</a></span><span class="o">.</span><span class="kt">TrafficIncidentResult</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -139,8 +132,8 @@ Description of incident is currently not present in our map data, so
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

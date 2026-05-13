@@ -1,5 +1,5 @@
 ---
-title: "Traversability Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-traversability"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-traversability"
 <!-- Traversability.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/Traversability"></a>
 <a title="Traversability Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-traversability"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Traversability</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum Traversability : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">Traversability</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Junctions traversability of some traffic incident or flow section.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-traversability"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case open</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="kd">open</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-traversability"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case closed</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">closed</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-traversability"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case reversibleNotRoutable</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">reversibleNotRoutable</span></code></pre>
 </div>
 </div>
 </section>
@@ -132,8 +125,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-traversability"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

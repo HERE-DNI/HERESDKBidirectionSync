@@ -1,5 +1,5 @@
 ---
-title: "SDKInternalInitializer Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-sdkinternalinitializer"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-sdkinternalinitializer"
 <!-- SDKInternalInitializer.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/SDKInternalInitializer"></a>
 <a title="SDKInternalInitializer Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-classes-sdkinternalinitializer"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>SDKInternalInitializer</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class SDKInternalInitializer : NSObject</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">SDKInternalInitializer</span> <span class="p">:</span> <span class="kt">NSObject</span></code></pre>
 </div>
 </div>
 <p>This class is used to initialize internals of the SDK.
@@ -67,8 +60,8 @@ Usually shouldn’t be used directly.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@objc
-public func initializeInternalsIfNecessary()</code></pre>
+<pre class="highlight swift"><code><span class="kd">@objc</span>
+<span class="kd">public</span> <span class="kd">func</span> <span class="nf">initializeInternalsIfNecessary</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -84,8 +77,8 @@ public func initializeInternalsIfNecessary()</code></pre>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

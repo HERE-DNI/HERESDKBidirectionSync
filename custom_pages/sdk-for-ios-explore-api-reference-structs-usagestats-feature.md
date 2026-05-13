@@ -1,5 +1,5 @@
 ---
-title: "Feature Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-usagestats-feature"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-usagestats-feature"
 <!-- Feature.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/Feature"></a>
 <a title="Feature Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-usagestats-feature"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>Feature</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum Feature : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">Feature</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Represents the feature enum associated with the gathered usage stats.</p>
@@ -79,7 +72,7 @@ Note that you can enable or disable this feature by calling:
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case detailedRendering</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">detailedRendering</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ As of now, this layer cannot be turned off.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case evRendering</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">evRendering</span></code></pre>
 </div>
 </div>
 </section>
@@ -153,7 +146,7 @@ As of now, this layer cannot be turned off.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case evSearch</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">evSearch</span></code></pre>
 </div>
 </div>
 </section>
@@ -197,7 +190,7 @@ As of now, the above listed OCM layers cannot be turned off except for those tha
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case navigation</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">navigation</span></code></pre>
 </div>
 </div>
 </section>
@@ -223,7 +216,7 @@ This is legacy statistic which is now replaced by <code><a href="../../Structs/U
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case places</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">places</span></code></pre>
 </div>
 </div>
 </section>
@@ -259,7 +252,7 @@ Note that you can enable or disable this feature by calling:
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rdsTraffic</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rdsTraffic</span></code></pre>
 </div>
 </div>
 </section>
@@ -295,7 +288,7 @@ Note that you can enable or disable this feature by calling:
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rendering</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rendering</span></code></pre>
 </div>
 </div>
 </section>
@@ -337,7 +330,7 @@ or EVCarOptions and evCarOptions.ensureReachability =</code>true<code>.</code></
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case router</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">router</span></code></pre>
 </div>
 </div>
 </section>
@@ -375,7 +368,7 @@ Note that you can enable or disable this feature by calling:
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case routing</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">routing</span></code></pre>
 </div>
 </div>
 </section>
@@ -401,7 +394,7 @@ This includes a <strong>Raster Tile Base</strong> transaction count with HRN <co
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case satellites</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">satellites</span></code></pre>
 </div>
 </div>
 </section>
@@ -436,7 +429,7 @@ As of now, these layers cannot be turned off.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case search</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">search</span></code></pre>
 </div>
 </div>
 </section>
@@ -468,7 +461,7 @@ GeoCoordinates search</code></li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case searchOnline</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">searchOnline</span></code></pre>
 </div>
 </div>
 </section>
@@ -503,7 +496,7 @@ As of now, this layer cannot be turned off.</li>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case transit</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">transit</span></code></pre>
 </div>
 </div>
 </section>
@@ -529,7 +522,7 @@ This includes a <strong>Public Transit</strong> transaction count with HRN: <cod
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case transitRoutingEngine</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">transitRoutingEngine</span></code></pre>
 </div>
 </div>
 </section>
@@ -556,7 +549,7 @@ HRN <code>hrn:here:service::olp-here:traffic-api-7:standard</code>.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case traffic</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">traffic</span></code></pre>
 </div>
 </div>
 </section>
@@ -582,7 +575,7 @@ This includes a <strong>Traffic vector tile</strong> transaction count with HRN:
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case trafficVectorTiles</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">trafficVectorTiles</span></code></pre>
 </div>
 </div>
 </section>
@@ -618,7 +611,7 @@ Note that you can enable or disable this feature by calling:
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case truck</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">truck</span></code></pre>
 </div>
 </div>
 </section>
@@ -645,7 +638,7 @@ This statistic is only counted for the HERE SDK (Explore) when showing the map v
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case vectorTiles</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">vectorTiles</span></code></pre>
 </div>
 </div>
 </section>
@@ -676,7 +669,7 @@ Some examples include:</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case other</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">other</span></code></pre>
 </div>
 </div>
 </section>
@@ -702,7 +695,7 @@ This includes a <strong>Network Positioning</strong> transaction count with HRN 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case positioning</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">positioning</span></code></pre>
 </div>
 </div>
 </section>
@@ -718,8 +711,8 @@ This includes a <strong>Network Positioning</strong> transaction count with HRN 
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

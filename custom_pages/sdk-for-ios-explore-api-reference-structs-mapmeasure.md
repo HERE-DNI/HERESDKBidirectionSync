@@ -1,5 +1,5 @@
 ---
-title: "MapMeasure Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-mapmeasure"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasure"
 <!-- MapMeasure.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/MapMeasure"></a>
 <a title="MapMeasure Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasure"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapMeasure</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct MapMeasure : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MapMeasure</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>A map measure.
@@ -67,7 +60,7 @@ Check <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamera">Map
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let kind: MapMeasure.Kind</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">kind</span><span class="p">:</span> <span class="kt">MapMeasure</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure-kind">Kind</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -92,7 +85,7 @@ Check <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamera">Map
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public let value: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">let</span> <span class="nv">value</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -117,7 +110,7 @@ Check <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamera">Map
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(kind: MapMeasure.Kind, value: Double)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">kind</span><span class="p">:</span> <span class="kt">MapMeasure</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure-kind">Kind</a></span><span class="p">,</span> <span class="nv">value</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -174,7 +167,7 @@ Check <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamera">Map
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public enum Kind : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">Kind</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 </section>
@@ -190,8 +183,8 @@ Check <code><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamera">Map
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

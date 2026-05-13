@@ -1,5 +1,5 @@
 ---
-title: "MaxSpeedOnSegment Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-maxspeedonsegment"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-maxspeedonsegment"
 <!-- MaxSpeedOnSegment.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/MaxSpeedOnSegment"></a>
 <a title="MaxSpeedOnSegment Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-maxspeedonsegment"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MaxSpeedOnSegment</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct MaxSpeedOnSegment : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">MaxSpeedOnSegment</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>New base speed for a segment. Affects route calculation and the ETA. Cannot increase base speed on segment.</p>
@@ -73,7 +66,7 @@ due to a new road or similar changes in the real world.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var segment: SegmentReference</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">segment</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-segmentreference">SegmentReference</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -99,7 +92,7 @@ Cannot increase base speed on segment. If the value is greater than the default 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var baseSpeedInMetersPerSecond: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">baseSpeedInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -140,7 +133,7 @@ Cannot increase base speed on segment. If the value is greater than the default 
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(segment: SegmentReference, baseSpeedInMetersPerSecond: Double)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">segment</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-segmentreference">SegmentReference</a></span><span class="p">,</span> <span class="nv">baseSpeedInMetersPerSecond</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -156,8 +149,8 @@ Cannot increase base speed on segment. If the value is greater than the default 
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

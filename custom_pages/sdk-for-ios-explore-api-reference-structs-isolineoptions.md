@@ -1,5 +1,5 @@
 ---
-title: "IsolineOptions Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-isolineoptions"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-isolineoptions"
 <!-- IsolineOptions.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/IsolineOptions"></a>
 <a title="IsolineOptions Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-isolineoptions"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>IsolineOptions</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct IsolineOptions</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">IsolineOptions</span></code></pre>
 </div>
 </div>
 <p>Specifies options for isolines calculation.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-isolineoptions"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var calculationOptions: IsolineOptions.Calculation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">calculationOptions</span><span class="p">:</span> <span class="kt">IsolineOptions</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-isolineoptions-calculation">Calculation</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -92,8 +85,8 @@ Mutually exclusive with <code><a href="../Structs/IsolineOptions.html#/s:7heresd
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>routing_options</code> instead.")
-public var carOptions: CarOptions?</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>routing_options</code> instead.")</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">carOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-caroptions">CarOptions</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -119,8 +112,8 @@ Mutually exclusive with <code><a href="../Structs/IsolineOptions.html#/s:7heresd
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>routing_options</code> instead.")
-public var truckOptions: TruckOptions?</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>routing_options</code> instead.")</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">truckOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-truckoptions">TruckOptions</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -146,8 +139,8 @@ Mutually exclusive with <code><a href="../Structs/IsolineOptions.html#/s:7heresd
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>routing_options</code> instead.")
-public var evCarOptions: EVCarOptions?</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>routing_options</code> instead.")</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">evCarOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evcaroptions">EVCarOptions</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -173,8 +166,8 @@ Mutually exclusive with <code><a href="../Structs/IsolineOptions.html#/s:7heresd
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>routing_options</code> instead.")
-public var evTruckOptions: EVTruckOptions?</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the <code>routing_options</code> instead.")</span>
+<span class="kd">public</span> <span class="k">var</span> <span class="nv">evTruckOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evtruckoptions">EVTruckOptions</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -200,7 +193,7 @@ Mutually exclusive with <code><a href="../Structs/IsolineOptions.html#/s:7heresd
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var routingOptions: RoutingOptions?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">routingOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routingoptions">RoutingOptions</a></span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -226,8 +219,8 @@ with preferences for isoline calculation and car routing options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the constructor with <code>RoutingOptions</code> parameter instead.")
-public init(calculationOptions: IsolineOptions.Calculation, carOptions: CarOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the constructor with <code>RoutingOptions</code> parameter instead.")</span>
+<span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">calculationOptions</span><span class="p">:</span> <span class="kt">IsolineOptions</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-isolineoptions-calculation">Calculation</a></span><span class="p">,</span> <span class="nv">carOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-caroptions">CarOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -285,8 +278,8 @@ with preferences for isoline calculation and truck routing options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the constructor with <code>RoutingOptions</code> parameter instead.")
-public init(calculationOptions: IsolineOptions.Calculation, truckOptions: TruckOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the constructor with <code>RoutingOptions</code> parameter instead.")</span>
+<span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">calculationOptions</span><span class="p">:</span> <span class="kt">IsolineOptions</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-isolineoptions-calculation">Calculation</a></span><span class="p">,</span> <span class="nv">truckOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-truckoptions">TruckOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -344,8 +337,8 @@ with preferences for isoline calculation and electric car routing options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the constructor with <code>RoutingOptions</code> parameter instead.")
-public init(calculationOptions: IsolineOptions.Calculation, evCarOptions: EVCarOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the constructor with <code>RoutingOptions</code> parameter instead.")</span>
+<span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">calculationOptions</span><span class="p">:</span> <span class="kt">IsolineOptions</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-isolineoptions-calculation">Calculation</a></span><span class="p">,</span> <span class="nv">evCarOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evcaroptions">EVCarOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -403,8 +396,8 @@ with preferences for isoline calculation and electric truck routing options.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>@available(*, deprecated, message: "Will be removed in v4.28.0. Use the constructor with <code>RoutingOptions</code> parameter instead.")
-public init(calculationOptions: IsolineOptions.Calculation, evTruckOptions: EVTruckOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">@available(*, deprecated, message: "Will be removed in v4.28.0. Use the constructor with <code>RoutingOptions</code> parameter instead.")</span>
+<span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">calculationOptions</span><span class="p">:</span> <span class="kt">IsolineOptions</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-isolineoptions-calculation">Calculation</a></span><span class="p">,</span> <span class="nv">evTruckOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-evtruckoptions">EVTruckOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -470,7 +463,7 @@ is set to <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(calculationOptions: IsolineOptions.Calculation, routingOptions: RoutingOptions)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">calculationOptions</span><span class="p">:</span> <span class="kt">IsolineOptions</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-isolineoptions-calculation">Calculation</a></span><span class="p">,</span> <span class="nv">routingOptions</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-routingoptions">RoutingOptions</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -529,7 +522,7 @@ Setting at least one limit to <code><a href="../Structs/IsolineOptions/Calculati
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct Calculation</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">Calculation</span></code></pre>
 </div>
 </div>
 </section>
@@ -545,8 +538,8 @@ Setting at least one limit to <code><a href="../Structs/IsolineOptions/Calculati
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

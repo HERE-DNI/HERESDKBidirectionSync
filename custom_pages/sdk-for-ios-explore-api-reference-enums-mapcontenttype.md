@@ -1,5 +1,5 @@
 ---
-title: "MapContentType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-mapcontenttype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-mapcontenttype"
 <!-- MapContentType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/MapContentType"></a>
 <a title="MapContentType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-mapcontenttype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapContentType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum MapContentType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">MapContentType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Content types supported by the map.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-mapcontenttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case rasterImage</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">rasterImage</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-mapcontenttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case line</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">line</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-mapcontenttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case polygon</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">polygon</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-mapcontenttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case point</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">point</span></code></pre>
 </div>
 </div>
 </section>
@@ -157,8 +150,8 @@ slug: "sdk-for-ios-explore-api-reference-enums-mapcontenttype"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

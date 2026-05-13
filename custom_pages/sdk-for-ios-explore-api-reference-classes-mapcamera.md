@@ -1,5 +1,5 @@
 ---
-title: "MapCamera Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcamera"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcamera"
 <!-- MapCamera.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/MapCamera"></a>
 <a title="MapCamera Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapcamera"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>MapCamera</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class MapCamera</code></pre>
-<pre><code>extension MapCamera: NativeBase</code></pre>
-<pre><code>extension MapCamera: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">MapCamera</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCamera</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">MapCamera</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Represents the camera looking onto the map view.</p>
@@ -279,7 +272,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public typealias DryCameraUpdateHandler = (_ cameraState: MapCamera.State?) -&gt; Void</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">DryCameraUpdateHandler</span> <span class="o">=</span> <span class="p">(</span><span class="n">_</span> <span class="nv">cameraState</span><span class="p">:</span> <span class="kt">MapCamera</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamera-state">State</a></span><span class="p">?)</span> <span class="o">-&gt;</span> <span class="kt">Void</span></code></pre>
 </div>
 </div>
 <div>
@@ -323,7 +316,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var state: MapCamera.State { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">state</span><span class="p">:</span> <span class="kt">MapCamera</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamera-state">State</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -362,7 +355,7 @@ are not affected.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var principalPoint: Point2D { get set }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">principalPoint</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point2d">Point2D</a></span> <span class="p">{</span> <span class="k">get</span> <span class="k">set</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -397,7 +390,7 @@ outside of the currently visible area.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var boundingBox: GeoBox? { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">boundingBox</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geobox">GeoBox</a></span><span class="p">?</span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -422,7 +415,7 @@ outside of the currently visible area.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var limits: MapCameraLimits { get }</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">limits</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameralimits">MapCameraLimits</a></span> <span class="p">{</span> <span class="k">get</span> <span class="p">}</span></code></pre>
 </div>
 </div>
 </section>
@@ -448,7 +441,7 @@ outside of the currently visible area.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct State</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">State</span></code></pre>
 </div>
 </div>
 </section>
@@ -479,7 +472,7 @@ distanceToTargetInMeters * distanceFactor
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public struct FarPlaneConfiguration : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">FarPlaneConfiguration</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 </section>
@@ -522,7 +515,7 @@ The minimum distance is clamped to a range of [100, 3000] meters.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setFarPlaneConfiguration(_ configs: [Double : MapCamera.FarPlaneConfiguration])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setFarPlaneConfiguration</span><span class="p">(</span><span class="n">_</span> <span class="nv">configs</span><span class="p">:</span> <span class="p">[</span><span class="kt">Double</span> <span class="p">:</span> <span class="kt">MapCamera</span><span class="o">.</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcamera-farplaneconfiguration">FarPlaneConfiguration</a></span><span class="p">])</span></code></pre>
 </div>
 </div>
 <div>
@@ -568,7 +561,7 @@ every time the map is redrawn with new camera parameters.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func addDelegate(_ delegate: MapCameraDelegate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">addDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-mapcameradelegate">MapCameraDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -614,7 +607,7 @@ currently registered has no effect.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeDelegate(_ delegate: MapCameraDelegate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeDelegate</span><span class="p">(</span><span class="n">_</span> <span class="nv">delegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-mapcameradelegate">MapCameraDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -658,7 +651,7 @@ currently registered has no effect.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func removeDelegates()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">removeDelegates</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -684,7 +677,7 @@ currently registered has no effect.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func applyUpdate(_ cameraUpdate: MapCameraUpdate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">applyUpdate</span><span class="p">(</span><span class="n">_</span> <span class="nv">cameraUpdate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraupdate">MapCameraUpdate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -730,7 +723,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func dryApplyUpdate(_ cameraUpdate: MapCameraUpdate, completion: @escaping MapCamera.DryCameraUpdateHandler)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">dryApplyUpdate</span><span class="p">(</span><span class="n">_</span> <span class="nv">cameraUpdate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraupdate">MapCameraUpdate</a></span><span class="p">,</span> <span class="nv">completion</span><span class="p">:</span> <span class="kd">@escaping</span> <span class="kt">MapCamera</span><span class="o">.</span><span class="kt"><a href="../Classes/MapCamera.html#/s:7heresdk9MapCameraC03DryC13UpdateHandlera">DryCameraUpdateHandler</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -789,7 +782,7 @@ The corresponding delegate of an ongoing animation will be notified about the ca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func startAnimation(_ cameraAnimation: MapCameraAnimation)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">startAnimation</span><span class="p">(</span><span class="n">_</span> <span class="nv">cameraAnimation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraanimation">MapCameraAnimation</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -836,7 +829,7 @@ The corresponding delegate of an ongoing animation will be notified about the ca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func startAnimation(_ cameraAnimation: MapCameraAnimation, animationDelegate: AnimationDelegate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">startAnimation</span><span class="p">(</span><span class="n">_</span> <span class="nv">cameraAnimation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraanimation">MapCameraAnimation</a></span><span class="p">,</span> <span class="nv">animationDelegate</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-animationdelegate">AnimationDelegate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -893,7 +886,7 @@ The corresponding delegate of an ongoing animation will be notified about the ca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func cancelAnimation(_ cameraAnimation: MapCameraAnimation)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">cancelAnimation</span><span class="p">(</span><span class="n">_</span> <span class="nv">cameraAnimation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcameraanimation">MapCameraAnimation</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -938,7 +931,7 @@ The corresponding delegate of an ongoing animation will be notified about the ca
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func cancelAnimations()</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">cancelAnimations</span><span class="p">()</span></code></pre>
 </div>
 </div>
 </section>
@@ -964,7 +957,7 @@ delta values.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func orbitBy(_ delta: GeoOrientationUpdate, around origin: Point2D)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">orbitBy</span><span class="p">(</span><span class="n">_</span> <span class="nv">delta</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geoorientationupdate">GeoOrientationUpdate</a></span><span class="p">,</span> <span class="n">around</span> <span class="nv">origin</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point2d">Point2D</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1030,7 +1023,7 @@ factor needs to be 2^X. To zoom out by X zoom levels, zoom factor needs to be 1/
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func zoomBy(_ factor: Double, around origin: Point2D)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">zoomBy</span><span class="p">(</span><span class="n">_</span> <span class="nv">factor</span><span class="p">:</span> <span class="kt">Double</span><span class="p">,</span> <span class="n">around</span> <span class="nv">origin</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-point2d">Point2D</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1089,7 +1082,7 @@ The zooming occurs around the current target point.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func zoomTo(zoomLevel: Double)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">zoomTo</span><span class="p">(</span><span class="nv">zoomLevel</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1136,7 +1129,7 @@ will consider the target point as being located on the ground.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func lookAt(point target: GeoCoordinates)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">lookAt</span><span class="p">(</span><span class="n">point</span> <span class="nv">target</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1182,7 +1175,7 @@ will consider the target point as being located on the ground.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func lookAt(point target: GeoCoordinates, zoom: MapMeasure)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">lookAt</span><span class="p">(</span><span class="n">point</span> <span class="nv">target</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">zoom</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure">MapMeasure</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1244,7 +1237,7 @@ will consider the target point as being located on the ground.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func lookAt(point target: GeoCoordinates, orientation: GeoOrientationUpdate, zoom: MapMeasure)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">lookAt</span><span class="p">(</span><span class="n">point</span> <span class="nv">target</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geocoordinates">GeoCoordinates</a></span><span class="p">,</span> <span class="nv">orientation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geoorientationupdate">GeoOrientationUpdate</a></span><span class="p">,</span> <span class="nv">zoom</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-mapmeasure">MapMeasure</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1317,7 +1310,7 @@ same orientation as the one supplied to this method.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func lookAt(area target: GeoBox, orientation: GeoOrientationUpdate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">lookAt</span><span class="p">(</span><span class="n">area</span> <span class="nv">target</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geobox">GeoBox</a></span><span class="p">,</span> <span class="nv">orientation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geoorientationupdate">GeoOrientationUpdate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1381,7 +1374,7 @@ view rectangle which is relatively small was passed to the method.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func lookAt(area target: GeoBox, orientation: GeoOrientationUpdate, viewRectangle: Rectangle2D)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">lookAt</span><span class="p">(</span><span class="n">area</span> <span class="nv">target</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geobox">GeoBox</a></span><span class="p">,</span> <span class="nv">orientation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geoorientationupdate">GeoOrientationUpdate</a></span><span class="p">,</span> <span class="nv">viewRectangle</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-rectangle2d">Rectangle2D</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1451,7 +1444,7 @@ area is displayed.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setDistanceToTarget(distanceInMeters: Double)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setDistanceToTarget</span><span class="p">(</span><span class="nv">distanceInMeters</span><span class="p">:</span> <span class="kt">Double</span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1496,7 +1489,7 @@ Minimal distance value is clamped to 100 meters.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public func setOrientationAtTarget(_ orientation: GeoOrientationUpdate)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">func</span> <span class="nf">setOrientationAtTarget</span><span class="p">(</span><span class="n">_</span> <span class="nv">orientation</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-geoorientationupdate">GeoOrientationUpdate</a></span><span class="p">)</span></code></pre>
 </div>
 </div>
 <div>
@@ -1531,8 +1524,8 @@ Minimal distance value is clamped to 100 meters.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

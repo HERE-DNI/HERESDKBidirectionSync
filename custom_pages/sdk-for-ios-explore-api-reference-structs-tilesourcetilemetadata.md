@@ -1,5 +1,5 @@
 ---
-title: "TileSourceTileMetadata Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-tilesourcetilemetadata"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-tilesourcetilemetadata"
 <!-- TileSourceTileMetadata.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/TileSourceTileMetadata"></a>
 <a title="TileSourceTileMetadata Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-tilesourcetilemetadata"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TileSourceTileMetadata</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct TileSourceTileMetadata</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TileSourceTileMetadata</span></code></pre>
 </div>
 </div>
 <p>Tile metadata.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-tilesourcetilemetadata"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var dataVersion: TileSourceDataVersion</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">dataVersion</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tilesourcedataversion">TileSourceDataVersion</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-tilesourcetilemetadata"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var dataExpiryTimestamp: Date</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">dataExpiryTimestamp</span><span class="p">:</span> <span class="kt">Date</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-tilesourcetilemetadata"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(dataVersion: TileSourceDataVersion, dataExpiryTimestamp: Date)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">dataVersion</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-tilesourcedataversion">TileSourceDataVersion</a></span><span class="p">,</span> <span class="nv">dataExpiryTimestamp</span><span class="p">:</span> <span class="kt">Date</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -132,8 +125,8 @@ slug: "sdk-for-ios-explore-api-reference-structs-tilesourcetilemetadata"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

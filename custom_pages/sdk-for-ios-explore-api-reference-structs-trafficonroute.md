@@ -1,5 +1,5 @@
 ---
-title: "TrafficOnRoute Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-trafficonroute"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-trafficonroute"
 <!-- TrafficOnRoute.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/TrafficOnRoute"></a>
 <a title="TrafficOnRoute Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-trafficonroute"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TrafficOnRoute</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct TrafficOnRoute : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TrafficOnRoute</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Traffic information on a route. Information for the already traveled portion of the route is
@@ -68,7 +61,7 @@ be reused.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var lastTraveledSectionIndex: Int32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">lastTraveledSectionIndex</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
 </section>
@@ -94,7 +87,7 @@ traveled section index.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var traveledDistanceOnLastSectionInMeters: Int32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">traveledDistanceOnLastSectionInMeters</span><span class="p">:</span> <span class="kt">Int32</span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ traveled section index.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var trafficSections: [TrafficOnSection]</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">trafficSections</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-trafficonsection">TrafficOnSection</a></span><span class="p">]</span></code></pre>
 </div>
 </div>
 </section>
@@ -144,7 +137,7 @@ traveled section index.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(lastTraveledSectionIndex: Int32 = 0, traveledDistanceOnLastSectionInMeters: Int32 = 0, trafficSections: [TrafficOnSection] = [])</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">lastTraveledSectionIndex</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">traveledDistanceOnLastSectionInMeters</span><span class="p">:</span> <span class="kt">Int32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">trafficSections</span><span class="p">:</span> <span class="p">[</span><span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-trafficonsection">TrafficOnSection</a></span><span class="p">]</span> <span class="o">=</span> <span class="p">[])</span></code></pre>
 </div>
 </div>
 </section>
@@ -160,8 +153,8 @@ traveled section index.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

@@ -1,5 +1,5 @@
 ---
-title: "SearchError Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <!-- SearchError.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/SearchError"></a>
 <a title="SearchError Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>SearchError</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum SearchError : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">SearchError</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Specifies possible errors that may result from a search query.</p>
@@ -66,7 +59,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case authenticationFailed = 1</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">authenticationFailed</span> <span class="o">=</span> <span class="mi">1</span></code></pre>
 </div>
 </div>
 </section>
@@ -91,7 +84,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case maxItemsOutOfRange</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">maxItemsOutOfRange</span></code></pre>
 </div>
 </div>
 </section>
@@ -116,7 +109,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case parsingError</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">parsingError</span></code></pre>
 </div>
 </div>
 </section>
@@ -141,7 +134,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case noResultsFound</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">noResultsFound</span></code></pre>
 </div>
 </div>
 </section>
@@ -166,7 +159,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case httpError</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">httpError</span></code></pre>
 </div>
 </div>
 </section>
@@ -191,7 +184,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case serverUnreachable</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">serverUnreachable</span></code></pre>
 </div>
 </div>
 </section>
@@ -216,7 +209,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case forbidden</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">forbidden</span></code></pre>
 </div>
 </div>
 </section>
@@ -241,7 +234,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case exceededUsageLimit</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">exceededUsageLimit</span></code></pre>
 </div>
 </div>
 </section>
@@ -266,7 +259,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case operationFailed</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">operationFailed</span></code></pre>
 </div>
 </div>
 </section>
@@ -291,7 +284,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case operationCancelled</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">operationCancelled</span></code></pre>
 </div>
 </div>
 </section>
@@ -316,7 +309,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case timedOut</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">timedOut</span></code></pre>
 </div>
 </div>
 </section>
@@ -341,7 +334,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case offline</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">offline</span></code></pre>
 </div>
 </div>
 </section>
@@ -366,7 +359,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case queryTooLong</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">queryTooLong</span></code></pre>
 </div>
 </div>
 </section>
@@ -391,7 +384,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case filterTooLong</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">filterTooLong</span></code></pre>
 </div>
 </div>
 </section>
@@ -416,7 +409,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case proxyAuthenticationFailed</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">proxyAuthenticationFailed</span></code></pre>
 </div>
 </div>
 </section>
@@ -441,7 +434,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case proxyServerUnreachable</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">proxyServerUnreachable</span></code></pre>
 </div>
 </div>
 </section>
@@ -466,7 +459,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case queryEmpty</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">queryEmpty</span></code></pre>
 </div>
 </div>
 </section>
@@ -491,7 +484,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case invalidArea</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">invalidArea</span></code></pre>
 </div>
 </div>
 </section>
@@ -516,7 +509,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case filterEmpty</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">filterEmpty</span></code></pre>
 </div>
 </div>
 </section>
@@ -541,7 +534,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case invalidCorridorPolyline</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">invalidCorridorPolyline</span></code></pre>
 </div>
 </div>
 </section>
@@ -566,7 +559,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case invalidUrl</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">invalidUrl</span></code></pre>
 </div>
 </div>
 </section>
@@ -591,7 +584,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case invalidCustomOptionFormat</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">invalidCustomOptionFormat</span></code></pre>
 </div>
 </div>
 </section>
@@ -616,7 +609,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case invalidTruckClass</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">invalidTruckClass</span></code></pre>
 </div>
 </div>
 </section>
@@ -641,7 +634,7 @@ slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case badRequest</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">badRequest</span></code></pre>
 </div>
 </div>
 </section>
@@ -669,7 +662,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case mapNotReady</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">mapNotReady</span></code></pre>
 </div>
 </div>
 </section>
@@ -697,7 +690,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case layersNotDownloaded</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">layersNotDownloaded</span></code></pre>
 </div>
 </div>
 </section>
@@ -713,8 +706,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

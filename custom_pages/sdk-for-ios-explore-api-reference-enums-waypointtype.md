@@ -1,5 +1,5 @@
 ---
-title: "WaypointType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-enums-waypointtype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-enums-waypointtype"
 <!-- WaypointType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/WaypointType"></a>
 <a title="WaypointType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-enums-waypointtype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>WaypointType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum WaypointType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">WaypointType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Defines if the waypoint is a stop over, or a hint for a desired polyline of a
@@ -69,7 +62,7 @@ necessary.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case stopover</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">stopover</span></code></pre>
 </div>
 </div>
 </section>
@@ -96,7 +89,7 @@ Imprecise inputs such as a map touch location should be represented as a pass th
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case passThrough</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">passThrough</span></code></pre>
 </div>
 </div>
 </section>
@@ -112,8 +105,8 @@ Imprecise inputs such as a map touch location should be represented as a pass th
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

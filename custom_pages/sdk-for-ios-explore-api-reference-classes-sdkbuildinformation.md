@@ -1,5 +1,5 @@
 ---
-title: "SDKBuildInformation Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-sdkbuildinformation"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-sdkbuildinformation"
 <!-- SDKBuildInformation.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/SDKBuildInformation"></a>
 <a title="SDKBuildInformation Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-sdkbuildinformation"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>SDKBuildInformation</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class SDKBuildInformation</code></pre>
-<pre><code>extension SDKBuildInformation: NativeBase</code></pre>
-<pre><code>extension SDKBuildInformation: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">SDKBuildInformation</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">SDKBuildInformation</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">SDKBuildInformation</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>The SDKBuildInformation class is designed to provide information about the SDK build.</p>
@@ -67,7 +60,7 @@ slug: "sdk-for-ios-explore-api-reference-classes-sdkbuildinformation"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func sdkVersion() -&gt; SDKVersion</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">sdkVersion</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-structs-sdkversion">SDKVersion</a></span></code></pre>
 </div>
 </div>
 <div>
@@ -87,8 +80,8 @@ slug: "sdk-for-ios-explore-api-reference-classes-sdkbuildinformation"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

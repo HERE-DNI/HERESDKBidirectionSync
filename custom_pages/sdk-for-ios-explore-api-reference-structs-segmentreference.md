@@ -1,5 +1,5 @@
 ---
-title: "SegmentReference Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-segmentreference"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-segmentreference"
 <!-- SegmentReference.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/SegmentReference"></a>
 <a title="SegmentReference Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-segmentreference"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>SegmentReference</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct SegmentReference : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">SegmentReference</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Reference to a segment id with a travel direction.</p>
@@ -68,7 +61,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var segmentId: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">segmentId</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var travelDirection: TravelDirection</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">travelDirection</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-traveldirection">TravelDirection</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var offsetStart: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">offsetStart</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -143,7 +136,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var offsetEnd: Double</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">offsetEnd</span><span class="p">:</span> <span class="kt">Double</span></code></pre>
 </div>
 </div>
 </section>
@@ -169,7 +162,7 @@ As in HERE Map Content.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var tilePartitionId: UInt32</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">tilePartitionId</span><span class="p">:</span> <span class="kt">UInt32</span></code></pre>
 </div>
 </div>
 </section>
@@ -194,7 +187,7 @@ As in HERE Map Content.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var localId: UInt32?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">localId</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -219,7 +212,7 @@ As in HERE Map Content.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(segmentId: String = "", travelDirection: TravelDirection = TravelDirection.bidirectional, offsetStart: Double = 0.0, offsetEnd: Double = 1.0, tilePartitionId: UInt32 = 0, localId: UInt32? = 0)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">segmentId</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">""</span><span class="p">,</span> <span class="nv">travelDirection</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-traveldirection">TravelDirection</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-traveldirection">TravelDirection</a></span><span class="o">.</span><span class="n">bidirectional</span><span class="p">,</span> <span class="nv">offsetStart</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">0.0</span><span class="p">,</span> <span class="nv">offsetEnd</span><span class="p">:</span> <span class="kt">Double</span> <span class="o">=</span> <span class="mf">1.0</span><span class="p">,</span> <span class="nv">tilePartitionId</span><span class="p">:</span> <span class="kt">UInt32</span> <span class="o">=</span> <span class="mi">0</span><span class="p">,</span> <span class="nv">localId</span><span class="p">:</span> <span class="kt">UInt32</span><span class="p">?</span> <span class="o">=</span> <span class="mi">0</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -244,7 +237,7 @@ As in HERE Map Content.</p>
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func fromString(segmentRef: String) -&gt; SegmentReference?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">fromString</span><span class="p">(</span><span class="nv">segmentRef</span><span class="p">:</span> <span class="kt">String</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">SegmentReference</span><span class="p">?</span></code></pre>
 </div>
 </div>
 <div>
@@ -283,8 +276,8 @@ As in HERE Map Content.</p>
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

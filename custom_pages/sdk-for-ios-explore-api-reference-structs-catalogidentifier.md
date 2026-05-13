@@ -1,5 +1,5 @@
 ---
-title: "CatalogIdentifier Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-catalogidentifier"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-catalogidentifier"
 <!-- CatalogIdentifier.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/CatalogIdentifier"></a>
 <a title="CatalogIdentifier Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-catalogidentifier"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>CatalogIdentifier</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct CatalogIdentifier : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">CatalogIdentifier</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>This class is used to identify any catalog in the HERE platform.</p>
@@ -88,7 +81,7 @@ Use <code><a href="../Structs/CatalogConfiguration.html#/s:7heresdk20CatalogConf
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var hrn: String</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">hrn</span><span class="p">:</span> <span class="kt">String</span></code></pre>
 </div>
 </div>
 </section>
@@ -123,7 +116,7 @@ Note: when <code>CatalogIdentifier</code> created with <code><a href="sdk-for-io
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var version: Int64?</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">version</span><span class="p">:</span> <span class="kt">Int64</span><span class="p">?</span></code></pre>
 </div>
 </div>
 </section>
@@ -148,7 +141,7 @@ Note: when <code>CatalogIdentifier</code> created with <code><a href="sdk-for-io
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(hrn: String = "hrn:here:data::olp-here:ocm", version: Int64? = nil)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">hrn</span><span class="p">:</span> <span class="kt">String</span> <span class="o">=</span> <span class="s">"hrn:here:data::olp-here:ocm"</span><span class="p">,</span> <span class="nv">version</span><span class="p">:</span> <span class="kt">Int64</span><span class="p">?</span> <span class="o">=</span> <span class="kc">nil</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -164,8 +157,8 @@ Note: when <code>CatalogIdentifier</code> created with <code><a href="sdk-for-io
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

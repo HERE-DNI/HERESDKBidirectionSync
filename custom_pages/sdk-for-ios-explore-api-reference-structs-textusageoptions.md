@@ -1,5 +1,5 @@
 ---
-title: "TextUsageOptions Structure Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-textusageoptions"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-textusageoptions"
 <!-- TextUsageOptions.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Struct/TextUsageOptions"></a>
 <a title="TextUsageOptions Structure Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,10 +29,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-textusageoptions"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>TextUsageOptions</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public struct TextUsageOptions : Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">struct</span> <span class="kt">TextUsageOptions</span> <span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Specify whether the text should be used when generating notification.</p>
@@ -67,7 +60,7 @@ Defaults to <code><a href="../Enums/LocalizedTextPreference.html#/s:7heresdk23Lo
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var streetName: LocalizedTextPreference</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">streetName</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-localizedtextpreference">LocalizedTextPreference</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ Defaults to <code><a href="../Enums/LocalizedTextPreference.html#/s:7heresdk23Lo
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var roadNumber: LocalizedTextPreference</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">roadNumber</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-localizedtextpreference">LocalizedTextPreference</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -119,7 +112,7 @@ Defaults to <code><a href="../Enums/LocalizedTextPreference.html#/s:7heresdk23Lo
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public var signpostDirection: LocalizedTextPreference</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">signpostDirection</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-localizedtextpreference">LocalizedTextPreference</a></span></code></pre>
 </div>
 </div>
 </section>
@@ -144,7 +137,7 @@ Defaults to <code><a href="../Enums/LocalizedTextPreference.html#/s:7heresdk23Lo
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public init(streetName: LocalizedTextPreference = LocalizedTextPreference.useAlways, roadNumber: LocalizedTextPreference = LocalizedTextPreference.useAlways, signpostDirection: LocalizedTextPreference = LocalizedTextPreference.useAlways)</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="nf">init</span><span class="p">(</span><span class="nv">streetName</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-localizedtextpreference">LocalizedTextPreference</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-localizedtextpreference">LocalizedTextPreference</a></span><span class="o">.</span><span class="n">useAlways</span><span class="p">,</span> <span class="nv">roadNumber</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-localizedtextpreference">LocalizedTextPreference</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-localizedtextpreference">LocalizedTextPreference</a></span><span class="o">.</span><span class="n">useAlways</span><span class="p">,</span> <span class="nv">signpostDirection</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-localizedtextpreference">LocalizedTextPreference</a></span> <span class="o">=</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-enums-localizedtextpreference">LocalizedTextPreference</a></span><span class="o">.</span><span class="n">useAlways</span><span class="p">)</span></code></pre>
 </div>
 </div>
 </section>
@@ -160,8 +153,8 @@ Defaults to <code><a href="../Enums/LocalizedTextPreference.html#/s:7heresdk23Lo
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

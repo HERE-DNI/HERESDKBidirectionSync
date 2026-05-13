@@ -1,5 +1,5 @@
 ---
-title: "ResultType Enumeration Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-structs-structuredquery-resulttype"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-structs-structuredquery-resulttype"
 <!-- ResultType.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Enum/ResultType"></a>
 <a title="ResultType Enumeration Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-..-index">heresdk</a>
@@ -38,10 +31,10 @@ slug: "sdk-for-ios-explore-api-reference-structs-structuredquery-resulttype"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>ResultType</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public enum ResultType : UInt32, CaseIterable, Codable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">enum</span> <span class="kt">ResultType</span> <span class="p">:</span> <span class="kt">UInt32</span><span class="p">,</span> <span class="kt">CaseIterable</span><span class="p">,</span> <span class="kt">Codable</span></code></pre>
 </div>
 </div>
 <p>Specifies expected result type.</p>
@@ -68,7 +61,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-structuredquery-resulttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case country</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">country</span></code></pre>
 </div>
 </div>
 </section>
@@ -93,7 +86,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-structuredquery-resulttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case city</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">city</span></code></pre>
 </div>
 </div>
 </section>
@@ -118,7 +111,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-structuredquery-resulttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case postalCode</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">postalCode</span></code></pre>
 </div>
 </div>
 </section>
@@ -143,7 +136,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-structuredquery-resulttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case district</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">district</span></code></pre>
 </div>
 </div>
 </section>
@@ -168,7 +161,7 @@ slug: "sdk-for-ios-explore-api-reference-structs-structuredquery-resulttype"
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>case street</code></pre>
+<pre class="highlight swift"><code><span class="k">case</span> <span class="n">street</span></code></pre>
 </div>
 </div>
 </section>
@@ -184,8 +177,8 @@ slug: "sdk-for-ios-explore-api-reference-structs-structuredquery-resulttype"
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `

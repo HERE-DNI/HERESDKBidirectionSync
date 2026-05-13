@@ -1,5 +1,5 @@
 ---
-title: "PointTileDataSource Class Reference"
+title: "Untitled"
 slug: "sdk-for-ios-explore-api-reference-classes-pointtiledatasource"
 ---
 
@@ -9,19 +9,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-pointtiledatasource"
 <!-- PointTileDataSource.html -->
 <!DOCTYPE html>
 
+<html lang="en">
 
-
-
+<body>
 <a class="dashAnchor" name="//apple_ref/swift/Class/PointTileDataSource"></a>
 <a title="PointTileDataSource Class Reference"></a>
-<header>
-<div class="content-wrapper">
-<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
-<div class="header-right">
 
-</div>
-</div>
-</header>
 <div class="content-wrapper">
 <p id="breadcrumbs">
 <a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
@@ -36,12 +29,12 @@ slug: "sdk-for-ios-explore-api-reference-classes-pointtiledatasource"
 <article class="main-content">
 <section>
 <section class="section">
-
+<h1>PointTileDataSource</h1>
 <div class="declaration">
 <div class="language">
-<pre><code>public class PointTileDataSource</code></pre>
-<pre><code>extension PointTileDataSource: NativeBase</code></pre>
-<pre><code>extension PointTileDataSource: Hashable</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">PointTileDataSource</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PointTileDataSource</span><span class="p">:</span> <span class="kt">NativeBase</span></code></pre>
+<pre class="highlight swift"><code><span class="kd">extension</span> <span class="kt">PointTileDataSource</span><span class="p">:</span> <span class="kt">Hashable</span></code></pre>
 </div>
 </div>
 <p>Point tile data source allows the rendering engine access to user managed data sets of
@@ -71,7 +64,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h4>Declaration</h4>
 <div class="language">
 <p class="aside-title">Swift</p>
-<pre><code>public static func create(context: MapContext, name: String, tileSource: PointTileSource) -&gt; PointTileDataSource</code></pre>
+<pre class="highlight swift"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">create</span><span class="p">(</span><span class="nv">context</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-classes-mapcontext">MapContext</a></span><span class="p">,</span> <span class="nv">name</span><span class="p">:</span> <span class="kt">String</span><span class="p">,</span> <span class="nv">tileSource</span><span class="p">:</span> <span class="kt"><a href="sdk-for-ios-explore-api-reference-..-protocols-pointtilesource">PointTileSource</a></span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">PointTileDataSource</span></code></pre>
 </div>
 </div>
 <div>
@@ -134,8 +127,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </section>
 </article>
 </div>
-
-
+</body>
+</html>
 
 </div>
 `
