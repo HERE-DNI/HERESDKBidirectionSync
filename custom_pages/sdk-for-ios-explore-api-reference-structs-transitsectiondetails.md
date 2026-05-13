@@ -1,0 +1,255 @@
+---
+title: "TransitSectionDetails Structure Reference"
+slug: "sdk-for-ios-explore-api-reference-structs-transitsectiondetails"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-ios">
+<!-- TransitSectionDetails.html -->
+<!DOCTYPE html>
+
+
+
+
+<a class="dashAnchor" name="//apple_ref/swift/Struct/TransitSectionDetails"></a>
+<a title="TransitSectionDetails Structure Reference"></a>
+<header>
+<div class="content-wrapper">
+<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
+<div class="header-right">
+
+</div>
+</div>
+</header>
+<div class="content-wrapper">
+<p id="breadcrumbs">
+<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-..-routing">Routing</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+        TransitSectionDetails Structure Reference
+      </p>
+</div>
+<div class="content-wrapper">
+
+<article class="main-content">
+<section>
+<section class="section">
+
+<div class="declaration">
+<div class="language">
+<pre><code>public struct TransitSectionDetails : Hashable</code></pre>
+</div>
+</div>
+<p>Gives the details of a transit section.</p>
+</section>
+<section class="section task-group-section">
+<div class="task-group">
+<ul>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21TransitSectionDetailsV9transportAA0B9TransportVSgvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/transport"></a>
+<a class="token" href="#/s:7heresdk21TransitSectionDetailsV9transportAA0B9TransportVSgvp">transport</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Transit transport information.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var transport: TransitTransport?</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21TransitSectionDetailsV17intermediateStopsSayAA0B4StopVGvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/intermediateStops"></a>
+<a class="token" href="#/s:7heresdk21TransitSectionDetailsV17intermediateStopsSayAA0B4StopVGvp">intermediateStops</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>All the intermediate stops between departure and destination of this section.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var intermediateStops: [TransitStop]</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21TransitSectionDetailsV6agencyAA6AgencyVvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/agency"></a>
+<a class="token" href="#/s:7heresdk21TransitSectionDetailsV6agencyAA6AgencyVvp">agency</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Contains information about a particular agency.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var agency: Agency</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21TransitSectionDetailsV12attributionsSayAA11AttributionVGvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/attributions"></a>
+<a class="token" href="#/s:7heresdk21TransitSectionDetailsV12attributionsSayAA11AttributionVGvp">attributions</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>List of required attributions to display.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var attributions: [Attribution]</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21TransitSectionDetailsV5faresSayAA4FareVGvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/fares"></a>
+<a class="token" href="#/s:7heresdk21TransitSectionDetailsV5faresSayAA4FareVGvp">fares</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>List of tickets to pay for this section of the route.</p>
+<p><strong>Note:</strong> Currently, fare information is not supported and the list will be always empty.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var fares: [Fare]</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21TransitSectionDetailsV9incidentsSayAA0B8IncidentVGvp"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Property/incidents"></a>
+<a class="token" href="#/s:7heresdk21TransitSectionDetailsV9incidentsSayAA0B8IncidentVGvp">incidents</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>A list of all incidents that apply to the section.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public var incidents: [TransitIncident]</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk21TransitSectionDetailsV9transport17intermediateStops6agency12attributions5fares9incidentsAcA0B9TransportVSg_SayAA0B4StopVGAA6AgencyVSayAA11AttributionVGSayAA4FareVGSayAA0B8IncidentVGtcfc"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Method/init(transport:intermediateStops:agency:attributions:fares:incidents:)"></a>
+<a class="token" href="#/s:7heresdk21TransitSectionDetailsV9transport17intermediateStops6agency12attributions5fares9incidentsAcA0B9TransportVSg_SayAA0B4StopVGAA6AgencyVSayAA11AttributionVGSayAA4FareVGSayAA0B8IncidentVGtcfc">init(transport:<wbr/>intermediateStops:<wbr/>agency:<wbr/>attributions:<wbr/>fares:<wbr/>incidents:<wbr/>)</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Creates a new instance.</p>
+<ul>
+<li><p>Parameters</p>
+<ul>
+<li>transport: Transit transport information.</li>
+<li>intermediateStops: All the intermediate stops between departure and destination of this section.</li>
+<li>agency: Contains information about a particular agency.</li>
+<li>attributions: List of required attributions to display.</li>
+<li>fares: List of tickets to pay for this section of the route.</li>
+</ul>
+<p><strong>Note:</strong> Currently, fare information is not supported and the list will be always empty.</p>
+<ul>
+<li>incidents: A list of all incidents that apply to the section.</li>
+</ul></li>
+</ul>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>public init(transport: TransitTransport? = nil, intermediateStops: [TransitStop] = [], agency: Agency, attributions: [Attribution] = [], fares: [Fare] = [], incidents: [TransitIncident] = [])</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</section>
+<section id="footer">
+<p>© 2026 <a class="link" href="" rel="external noopener" target="_blank"></a>. All rights reserved. (Last updated: 2026-04-14)</p>
+<p>Generated by <a class="link" href="https://github.com/realm/jazzy" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a class="link" href="https://realm.io" rel="external noopener" target="_blank">Realm</a> project.</p>
+</section>
+</article>
+</div>
+
+
+
+</div>
+`
+}</HTMLBlock>

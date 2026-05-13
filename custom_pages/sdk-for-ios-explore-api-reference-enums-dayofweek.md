@@ -1,0 +1,242 @@
+---
+title: "DayOfWeek Enumeration Reference"
+slug: "sdk-for-ios-explore-api-reference-enums-dayofweek"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-ios">
+<!-- DayOfWeek.html -->
+<!DOCTYPE html>
+
+
+
+
+<a class="dashAnchor" name="//apple_ref/swift/Enum/DayOfWeek"></a>
+<a title="DayOfWeek Enumeration Reference"></a>
+<header>
+<div class="content-wrapper">
+<p><a href="sdk-for-ios-explore-api-reference-..-index">heresdk Docs</a> (99% documented)</p>
+<div class="header-right">
+
+</div>
+</div>
+</header>
+<div class="content-wrapper">
+<p id="breadcrumbs">
+<a href="sdk-for-ios-explore-api-reference-..-index">heresdk</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+<a href="sdk-for-ios-explore-api-reference-..-search">Search</a>
+<img alt="" id="carat" src="../img/carat.png"/>
+        DayOfWeek Enumeration Reference
+      </p>
+</div>
+<div class="content-wrapper">
+
+<article class="main-content">
+<section>
+<section class="section">
+
+<div class="declaration">
+<div class="language">
+<pre><code>public enum DayOfWeek : UInt32, CaseIterable, Codable</code></pre>
+</div>
+</div>
+<p>Represents the day of the week.
+<strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
+Related APIs may change for new releases without a deprecation process.</p>
+</section>
+<section class="section task-group-section">
+<div class="task-group">
+<ul>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk9DayOfWeekO6mondayyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/monday"></a>
+<a class="token" href="#/s:7heresdk9DayOfWeekO6mondayyA2CmF">monday</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Monday.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>case monday</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk9DayOfWeekO7tuesdayyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/tuesday"></a>
+<a class="token" href="#/s:7heresdk9DayOfWeekO7tuesdayyA2CmF">tuesday</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Tuesday.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>case tuesday</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk9DayOfWeekO9wednesdayyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/wednesday"></a>
+<a class="token" href="#/s:7heresdk9DayOfWeekO9wednesdayyA2CmF">wednesday</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Wednesday.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>case wednesday</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk9DayOfWeekO8thursdayyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/thursday"></a>
+<a class="token" href="#/s:7heresdk9DayOfWeekO8thursdayyA2CmF">thursday</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Thursday.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>case thursday</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk9DayOfWeekO6fridayyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/friday"></a>
+<a class="token" href="#/s:7heresdk9DayOfWeekO6fridayyA2CmF">friday</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Friday.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>case friday</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk9DayOfWeekO8saturdayyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/saturday"></a>
+<a class="token" href="#/s:7heresdk9DayOfWeekO8saturdayyA2CmF">saturday</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Saturday.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>case saturday</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+<li class="item">
+<div>
+<code>
+<a name="/s:7heresdk9DayOfWeekO6sundayyA2CmF"></a>
+<a class="dashAnchor" name="//apple_ref/swift/Element/sunday"></a>
+<a class="token" href="#/s:7heresdk9DayOfWeekO6sundayyA2CmF">sunday</a>
+</code>
+</div>
+<div class="height-container">
+<div class="pointer-container"></div>
+<section class="section">
+<div class="pointer"></div>
+<div class="abstract">
+<p>Sunday.</p>
+</div>
+<div class="declaration">
+<h4>Declaration</h4>
+<div class="language">
+<p class="aside-title">Swift</p>
+<pre><code>case sunday</code></pre>
+</div>
+</div>
+</section>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</section>
+<section id="footer">
+<p>© 2026 <a class="link" href="" rel="external noopener" target="_blank"></a>. All rights reserved. (Last updated: 2026-04-14)</p>
+<p>Generated by <a class="link" href="https://github.com/realm/jazzy" rel="external noopener" target="_blank">jazzy ♪♫ v0.15.2</a>, a <a class="link" href="https://realm.io" rel="external noopener" target="_blank">Realm</a> project.</p>
+</section>
+</article>
+</div>
+
+
+
+</div>
+`
+}</HTMLBlock>
