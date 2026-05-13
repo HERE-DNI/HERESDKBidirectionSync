@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Traffic / TrafficFlowBase"
 slug: "sdk-for-ios-explore-api-reference-protocols-trafficflowbase"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficFlowBase.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -106,6 +104,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapLayerBuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-maplayerbuilder"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapLayerBuilder.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -677,6 +675,5 @@ map layer, but will not keep any previously configured properties.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

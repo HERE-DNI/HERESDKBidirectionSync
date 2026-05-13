@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapContentType"
 slug: "sdk-for-ios-navigate-api-reference-enums-mapcontenttype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapContentType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -153,6 +151,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-mapcontenttype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

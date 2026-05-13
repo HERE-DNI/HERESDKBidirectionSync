@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / IsolineRangeType"
 slug: "sdk-for-ios-navigate-api-reference-enums-isolinerangetype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IsolineRangeType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -132,6 +130,5 @@ Otherwise, the request will fail.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

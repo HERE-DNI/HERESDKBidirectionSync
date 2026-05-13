@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / LanguageCode"
 slug: "sdk-for-ios-navigate-api-reference-enums-languagecode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LanguageCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -2858,6 +2856,5 @@ its ISO 15924 code is used.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

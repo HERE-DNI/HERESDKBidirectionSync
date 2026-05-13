@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / SpeedLimitDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-speedlimitdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SpeedLimitDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -98,6 +96,5 @@ should be implemented in order to receive the speed limit of the current road.</
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

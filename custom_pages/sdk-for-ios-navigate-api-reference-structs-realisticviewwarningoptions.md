@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / RealisticViewWarningOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-realisticviewwarningoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RealisticViewWarningOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -133,6 +131,5 @@ scheme. This option is applicable only to the <code><a href="../Structs/Realisti
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

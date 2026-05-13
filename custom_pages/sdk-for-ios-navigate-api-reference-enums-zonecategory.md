@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / ZoneCategory"
 slug: "sdk-for-ios-navigate-api-reference-enums-zonecategory"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ZoneCategory.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -134,6 +132,5 @@ a higher pricing in rush hours.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

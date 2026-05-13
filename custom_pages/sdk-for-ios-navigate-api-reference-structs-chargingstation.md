@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / ChargingStation"
 slug: "sdk-for-ios-navigate-api-reference-structs-chargingstation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ChargingStation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -240,6 +238,5 @@ from the list specified in the request parameter <code><a href="../Structs/Elect
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

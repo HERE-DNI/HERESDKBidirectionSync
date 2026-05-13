@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / RouteHandle"
 slug: "sdk-for-ios-navigate-api-reference-structs-routehandle"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RouteHandle.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -110,6 +108,5 @@ Using an incompatible <code>RouteHandle</code> results in a <code><a href="sdk-f
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

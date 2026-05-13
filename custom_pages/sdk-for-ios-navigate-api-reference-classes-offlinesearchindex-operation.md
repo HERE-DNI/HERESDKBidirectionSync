@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "OfflineSearchIndex / Operation"
 slug: "sdk-for-ios-navigate-api-reference-classes-offlinesearchindex-operation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Operation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -107,6 +105,5 @@ if persistent map contents have been removed.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

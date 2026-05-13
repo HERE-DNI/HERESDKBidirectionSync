@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing"
 slug: "sdk-for-ios-explore-api-reference-routing"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Routing.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -3765,6 +3763,5 @@ route.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

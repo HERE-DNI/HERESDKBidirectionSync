@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TrafficRadio / TMCPreferredSidsRequest"
 slug: "sdk-for-ios-navigate-api-reference-structs-tmcpreferredsidsrequest"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TMCPreferredSidsRequest.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-tmcpreferredsidsrequest"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

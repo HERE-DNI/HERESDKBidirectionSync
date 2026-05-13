@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TrafficIncident / VehicleRestriction"
 slug: "sdk-for-ios-navigate-api-reference-classes-trafficincident-vehiclerestriction"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VehicleRestriction.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -792,6 +790,5 @@ If the value is <code>nil</code> the lower occupants bound is not specified.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

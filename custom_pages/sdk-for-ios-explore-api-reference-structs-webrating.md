@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / WebRating"
 slug: "sdk-for-ios-explore-api-reference-structs-webrating"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- WebRating.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -178,6 +176,5 @@ slug: "sdk-for-ios-explore-api-reference-structs-webrating"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

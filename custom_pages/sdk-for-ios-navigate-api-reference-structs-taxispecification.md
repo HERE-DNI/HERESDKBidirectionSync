@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Transport / TaxiSpecification"
 slug: "sdk-for-ios-navigate-api-reference-structs-taxispecification"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TaxiSpecification.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -106,6 +104,5 @@ Defaults to <code>true</code>.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / Threading"
 slug: "sdk-for-ios-navigate-api-reference-classes-threading"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Threading.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-threading"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

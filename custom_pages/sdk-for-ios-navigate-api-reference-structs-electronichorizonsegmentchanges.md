@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "ElectronicHorizon / ElectronicHorizonSegmentChanges"
 slug: "sdk-for-ios-navigate-api-reference-structs-electronichorizonsegmentchanges"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ElectronicHorizonSegmentChanges.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -135,6 +133,5 @@ May be empty if no segments were removed.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

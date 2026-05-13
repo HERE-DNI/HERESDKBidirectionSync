@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / SectionNoticeCode"
 slug: "sdk-for-ios-navigate-api-reference-enums-sectionnoticecode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SectionNoticeCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -1069,6 +1067,5 @@ Severity: <code><a href="../Enums/NoticeSeverity.html#/s:7heresdk14NoticeSeverit
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

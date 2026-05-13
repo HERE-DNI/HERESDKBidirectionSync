@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / BloodAlcoholContentLimit"
 slug: "sdk-for-ios-navigate-api-reference-structs-bloodalcoholcontentlimit"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- BloodAlcoholContentLimit.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -154,6 +152,5 @@ all types of drivers.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

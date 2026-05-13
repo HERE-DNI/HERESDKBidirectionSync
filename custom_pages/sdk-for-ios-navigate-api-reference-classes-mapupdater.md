@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / MapUpdater"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapupdater"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapUpdater.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -436,6 +434,5 @@ An empty list in <code><a href="../MapLoader.html#/s:7heresdk26CatalogsUpdateInf
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

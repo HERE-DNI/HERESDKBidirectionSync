@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Positioning"
 slug: "sdk-for-ios-explore-api-reference-positioning"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Positioning.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -98,6 +96,5 @@ slug: "sdk-for-ios-explore-api-reference-positioning"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

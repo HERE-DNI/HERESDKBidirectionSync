@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / ExternalMapDataSourceClient"
 slug: "sdk-for-ios-navigate-api-reference-classes-externalmapdatasourceclient"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ExternalMapDataSourceClient.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -177,6 +175,5 @@ NOTE: Cancelation functionality has not implemented yet!</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

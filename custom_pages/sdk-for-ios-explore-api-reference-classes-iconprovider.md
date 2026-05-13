@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / IconProvider"
 slug: "sdk-for-ios-explore-api-reference-classes-iconprovider"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IconProvider.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -229,6 +227,5 @@ type of road and/or place it is used, or an error code.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

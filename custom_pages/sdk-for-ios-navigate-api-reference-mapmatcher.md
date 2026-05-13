@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapMatcher"
 slug: "sdk-for-ios-navigate-api-reference-mapmatcher"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapMatcher.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -132,6 +130,5 @@ to improve map-matching, then enable the <code>LayerConfiguration.Feature.ADAS</
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

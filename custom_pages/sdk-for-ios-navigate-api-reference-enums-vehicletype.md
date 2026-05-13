@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Transport / VehicleType"
 slug: "sdk-for-ios-navigate-api-reference-enums-vehicletype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VehicleType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -232,6 +230,5 @@ deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

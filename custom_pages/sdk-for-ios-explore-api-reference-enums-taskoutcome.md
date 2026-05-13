@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / TaskOutcome"
 slug: "sdk-for-ios-explore-api-reference-enums-taskoutcome"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TaskOutcome.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-taskoutcome"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

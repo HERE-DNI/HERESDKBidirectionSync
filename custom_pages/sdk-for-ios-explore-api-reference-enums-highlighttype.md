@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / HighlightType"
 slug: "sdk-for-ios-explore-api-reference-enums-highlighttype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- HighlightType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-highlighttype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

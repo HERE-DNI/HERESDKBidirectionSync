@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "PlaceFilter / Ev"
 slug: "sdk-for-ios-explore-api-reference-structs-placefilter-ev"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Ev.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -239,6 +237,5 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

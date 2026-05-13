@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TrafficRadio / TMCServiceInterface"
 slug: "sdk-for-ios-navigate-api-reference-protocols-tmcserviceinterface"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TMCServiceInterface.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -193,6 +191,5 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-tmcserviceinterface"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

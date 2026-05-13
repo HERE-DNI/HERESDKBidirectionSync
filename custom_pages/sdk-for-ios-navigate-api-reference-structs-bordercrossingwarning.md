@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / BorderCrossingWarning"
 slug: "sdk-for-ios-navigate-api-reference-structs-bordercrossingwarning"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- BorderCrossingWarning.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -239,6 +237,5 @@ This field is only populated when crossing into a region with specific commercia
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

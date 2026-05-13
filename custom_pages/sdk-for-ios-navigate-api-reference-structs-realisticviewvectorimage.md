@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / RealisticViewVectorImage"
 slug: "sdk-for-ios-navigate-api-reference-structs-realisticviewvectorimage"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RealisticViewVectorImage.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -135,6 +133,5 @@ Use <code>RealisticViewWarningListener</code> to get notifications with the real
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Transport / BusSpecifications"
 slug: "sdk-for-ios-explore-api-reference-structs-busspecifications"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- BusSpecifications.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -184,6 +182,5 @@ By default, it is not set.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

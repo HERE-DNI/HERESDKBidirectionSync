@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / AuthenticationMode"
 slug: "sdk-for-ios-navigate-api-reference-classes-authenticationmode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AuthenticationMode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -275,6 +273,5 @@ on the main thread of the application.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

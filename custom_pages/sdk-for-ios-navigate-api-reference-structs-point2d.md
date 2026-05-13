@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / Point2D"
 slug: "sdk-for-ios-navigate-api-reference-structs-point2d"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Point2D.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -129,6 +127,5 @@ then (0,0) will mark the top-left corner of the view.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

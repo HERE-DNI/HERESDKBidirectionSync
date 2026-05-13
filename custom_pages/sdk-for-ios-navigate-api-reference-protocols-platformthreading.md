@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / PlatformThreading"
 slug: "sdk-for-ios-navigate-api-reference-protocols-platformthreading"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PlatformThreading.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -224,6 +222,5 @@ to objects whose lifetimes are critical or references should be released at the 
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

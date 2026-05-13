@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapCameraDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-mapcameradelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapCameraDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -98,6 +96,5 @@ camera parameters change.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

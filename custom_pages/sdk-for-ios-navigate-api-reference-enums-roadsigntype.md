@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / RoadSignType"
 slug: "sdk-for-ios-navigate-api-reference-enums-roadsigntype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoadSignType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -1689,6 +1687,5 @@ for cyclists as they allow for safer crossings by minimizing the interaction wit
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / SDKBuildInformation"
 slug: "sdk-for-ios-explore-api-reference-classes-sdkbuildinformation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SDKBuildInformation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -83,6 +81,5 @@ slug: "sdk-for-ios-explore-api-reference-classes-sdkbuildinformation"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

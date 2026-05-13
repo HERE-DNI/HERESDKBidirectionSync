@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / SegmentReference"
 slug: "sdk-for-ios-explore-api-reference-structs-segmentreference"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SegmentReference.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -279,6 +277,5 @@ As in HERE Map Content.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

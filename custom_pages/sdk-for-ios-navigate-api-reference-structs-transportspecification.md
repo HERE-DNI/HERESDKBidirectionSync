@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Transport / TransportSpecification"
 slug: "sdk-for-ios-navigate-api-reference-structs-transportspecification"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TransportSpecification.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -438,6 +436,5 @@ By default, it is not set.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

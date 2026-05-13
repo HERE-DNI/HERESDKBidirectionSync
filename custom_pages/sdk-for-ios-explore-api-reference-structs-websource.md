@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / WebSource"
 slug: "sdk-for-ios-explore-api-reference-structs-websource"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- WebSource.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -154,6 +152,5 @@ and a direct link to the item.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

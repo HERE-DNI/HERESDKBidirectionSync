@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapCameraAnimationFactory"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapcameraanimationfactory"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapCameraAnimationFactory.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -607,6 +605,5 @@ will consider the target point as being located on the ground.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / SpatialTrajectoryData"
 slug: "sdk-for-ios-navigate-api-reference-structs-spatialtrajectorydata"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SpatialTrajectoryData.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -129,6 +127,5 @@ and whether or not it is the last element on the spatial audio trajectory.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

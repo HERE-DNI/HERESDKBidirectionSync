@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / Waypoint"
 slug: "sdk-for-ios-explore-api-reference-structs-waypoint"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Waypoint.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -555,6 +553,5 @@ Relative value in kilograms. Available range: from -40000 to 40000 (inclusive).
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapProjection"
 slug: "sdk-for-ios-navigate-api-reference-enums-mapprojection"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapProjection.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-mapprojection"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

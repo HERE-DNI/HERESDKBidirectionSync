@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / TruckRestrictionsWarningDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-truckrestrictionswarningdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TruckRestrictionsWarningDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -102,6 +100,5 @@ type (<code><a href="../Structs/TruckRestrictionWarning.html#/s:7heresdk23TruckR
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

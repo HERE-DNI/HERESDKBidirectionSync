@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / JunctionsTraversability"
 slug: "sdk-for-ios-navigate-api-reference-enums-junctionstraversability"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- JunctionsTraversability.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -178,6 +176,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-junctionstraversability"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

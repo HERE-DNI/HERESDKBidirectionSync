@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / GeoCoordinates"
 slug: "sdk-for-ios-navigate-api-reference-structs-geocoordinates"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GeoCoordinates.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -466,6 +464,5 @@ Examples: <code>53.43762,-13.65468</code>.
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

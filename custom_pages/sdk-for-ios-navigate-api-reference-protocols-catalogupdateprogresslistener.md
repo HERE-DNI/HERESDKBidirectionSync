@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / CatalogUpdateProgressListener"
 slug: "sdk-for-ios-navigate-api-reference-protocols-catalogupdateprogresslistener"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CatalogUpdateProgressListener.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -233,6 +231,5 @@ It is <code>nil</code> for an operation that succeeds.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

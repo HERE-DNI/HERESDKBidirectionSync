@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / RoutingOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-routingoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoutingOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -357,6 +355,5 @@ set to <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3ca
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

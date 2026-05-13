@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / AngleRange"
 slug: "sdk-for-ios-navigate-api-reference-structs-anglerange"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AngleRange.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -460,6 +458,5 @@ normalized to [0,360).</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

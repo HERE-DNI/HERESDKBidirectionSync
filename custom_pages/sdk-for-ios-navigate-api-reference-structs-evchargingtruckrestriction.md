@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVChargingTruckRestriction"
 slug: "sdk-for-ios-navigate-api-reference-structs-evchargingtruckrestriction"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVChargingTruckRestriction.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -176,6 +174,5 @@ EV charging location is designed to serve.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

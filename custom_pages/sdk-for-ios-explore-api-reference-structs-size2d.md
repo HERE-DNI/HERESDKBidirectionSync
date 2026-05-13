@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / Size2D"
 slug: "sdk-for-ios-explore-api-reference-structs-size2d"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Size2D.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-explore-api-reference-structs-size2d"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

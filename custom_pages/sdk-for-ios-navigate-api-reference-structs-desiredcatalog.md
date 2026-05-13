@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / DesiredCatalog"
 slug: "sdk-for-ios-navigate-api-reference-structs-desiredcatalog"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DesiredCatalog.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -144,6 +142,5 @@ or result in error logs if the desired version is not available.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

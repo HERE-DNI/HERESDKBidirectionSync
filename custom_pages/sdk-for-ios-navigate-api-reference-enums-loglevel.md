@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / LogLevel"
 slug: "sdk-for-ios-navigate-api-reference-enums-loglevel"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LogLevel.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -178,6 +176,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-loglevel"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

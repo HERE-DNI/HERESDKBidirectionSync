@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / RasterDataSourceDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-rasterdatasourcedelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RasterDataSourceDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -122,6 +120,5 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-rasterdatasourcedelegate"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

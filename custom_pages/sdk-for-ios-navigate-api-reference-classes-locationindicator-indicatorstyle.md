@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "LocationIndicator / IndicatorStyle"
 slug: "sdk-for-ios-navigate-api-reference-classes-locationindicator-indicatorstyle"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IndicatorStyle.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -108,6 +106,5 @@ into which the user is moving. This should be preferred for vehicle navigation u
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

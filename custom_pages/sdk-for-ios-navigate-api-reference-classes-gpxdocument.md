@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / GPXDocument"
 slug: "sdk-for-ios-navigate-api-reference-classes-gpxdocument"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GPXDocument.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -349,6 +347,5 @@ For saving the <code><a href="../Classes/GPXDocument.html#/s:7heresdk11GPXDocume
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

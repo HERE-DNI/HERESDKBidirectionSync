@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / OffRoadDestinationReachedDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-offroaddestinationreacheddelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- OffRoadDestinationReachedDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -80,6 +78,5 @@ arrival at the off-road destination.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

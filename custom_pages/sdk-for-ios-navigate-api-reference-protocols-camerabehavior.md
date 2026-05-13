@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / CameraBehavior"
 slug: "sdk-for-ios-navigate-api-reference-protocols-camerabehavior"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CameraBehavior.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -79,6 +77,5 @@ camera behaviors.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / LowSpeedZoneWarningDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-lowspeedzonewarningdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LowSpeedZoneWarningDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -101,6 +99,5 @@ and lastly <code>DistanceType.PASSED</code> when the end of the low speed zone i
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

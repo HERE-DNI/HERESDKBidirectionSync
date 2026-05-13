@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / MetadataType"
 slug: "sdk-for-ios-explore-api-reference-enums-metadatatype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MetadataType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -178,6 +176,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-metadatatype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

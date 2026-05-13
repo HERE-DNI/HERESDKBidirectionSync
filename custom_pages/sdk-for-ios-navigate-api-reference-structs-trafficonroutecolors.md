@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / TrafficOnRouteColors"
 slug: "sdk-for-ios-navigate-api-reference-structs-trafficonroutecolors"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficOnRouteColors.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -154,6 +152,5 @@ ahead of the current location visualization.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

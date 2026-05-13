@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / NetworkSettings"
 slug: "sdk-for-ios-navigate-api-reference-structs-networksettings"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- NetworkSettings.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-networksettings"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / OffRoadProgress"
 slug: "sdk-for-ios-navigate-api-reference-structs-offroadprogress"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- OffRoadProgress.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-offroadprogress"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

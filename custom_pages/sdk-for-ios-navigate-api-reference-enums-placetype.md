@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / PlaceType"
 slug: "sdk-for-ios-navigate-api-reference-enums-placetype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PlaceType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -204,6 +202,5 @@ Note: This type is not supported in offline search.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

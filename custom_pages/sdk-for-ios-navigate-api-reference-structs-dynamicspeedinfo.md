@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / DynamicSpeedInfo"
 slug: "sdk-for-ios-navigate-api-reference-structs-dynamicspeedinfo"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DynamicSpeedInfo.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -184,6 +182,5 @@ Specifically, 0.0 means free traffic and 10.0 means stationary traffic.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

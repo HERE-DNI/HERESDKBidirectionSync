@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / DashPattern"
 slug: "sdk-for-ios-explore-api-reference-structs-dashpattern"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DashPattern.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -207,6 +205,5 @@ This allows for patterns like <code>'  —  —  —  —'</code> or <code>' —
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

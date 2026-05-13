@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / CustomPanningData"
 slug: "sdk-for-ios-navigate-api-reference-structs-custompanningdata"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CustomPanningData.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -198,6 +196,5 @@ and the <code>sweep_azimuth_in_degrees</code> to -95 degrees</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

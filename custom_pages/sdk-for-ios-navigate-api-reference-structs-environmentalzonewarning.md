@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / EnvironmentalZoneWarning"
 slug: "sdk-for-ios-navigate-api-reference-structs-environmentalzonewarning"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EnvironmentalZoneWarning.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -256,6 +254,5 @@ ahead, then <code><a href="../Structs/EnvironmentalZoneWarning.html#/s:7heresdk2
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

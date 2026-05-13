@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / MapMatchedLocation"
 slug: "sdk-for-ios-navigate-api-reference-structs-mapmatchedlocation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapMatchedLocation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -363,6 +361,5 @@ Currently this value is not being provided by the Navigator.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

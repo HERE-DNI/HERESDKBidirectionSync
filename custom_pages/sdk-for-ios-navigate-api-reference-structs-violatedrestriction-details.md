@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "ViolatedRestriction / Details"
 slug: "sdk-for-ios-navigate-api-reference-structs-violatedrestriction-details"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Details.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -706,6 +704,5 @@ exceeds the specified value.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

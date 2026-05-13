@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / TollSystem"
 slug: "sdk-for-ios-navigate-api-reference-structs-tollsystem"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TollSystem.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-tollsystem"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

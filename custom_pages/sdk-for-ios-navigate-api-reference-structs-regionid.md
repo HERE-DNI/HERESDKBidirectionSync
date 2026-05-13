@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / RegionId"
 slug: "sdk-for-ios-navigate-api-reference-structs-regionid"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RegionId.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-regionid"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

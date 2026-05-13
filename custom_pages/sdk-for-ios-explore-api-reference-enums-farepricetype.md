@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / FarePriceType"
 slug: "sdk-for-ios-explore-api-reference-enums-farepricetype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- FarePriceType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-farepricetype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

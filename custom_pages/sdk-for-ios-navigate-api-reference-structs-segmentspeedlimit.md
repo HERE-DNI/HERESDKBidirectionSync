@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / SegmentSpeedLimit"
 slug: "sdk-for-ios-navigate-api-reference-structs-segmentspeedlimit"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SegmentSpeedLimit.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -130,6 +128,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

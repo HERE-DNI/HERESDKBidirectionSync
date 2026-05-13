@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TransitIncident"
 slug: "sdk-for-ios-navigate-api-reference-structs-transitincident"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TransitIncident.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -254,6 +252,5 @@ Disruptions scale from delays to service cancellations.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

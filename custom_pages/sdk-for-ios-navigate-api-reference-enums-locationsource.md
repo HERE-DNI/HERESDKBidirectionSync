@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / LocationSource"
 slug: "sdk-for-ios-navigate-api-reference-enums-locationsource"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LocationSource.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -109,6 +107,5 @@ using integrated GNSS or sensor fusion components.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

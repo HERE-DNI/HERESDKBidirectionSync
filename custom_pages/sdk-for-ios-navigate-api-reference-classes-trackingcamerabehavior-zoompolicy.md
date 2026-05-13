@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TrackingCameraBehavior / ZoomPolicy"
 slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-zoompolicy"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ZoomPolicy.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -204,6 +202,5 @@ to road classifications.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / Rectangle2D"
 slug: "sdk-for-ios-navigate-api-reference-structs-rectangle2d"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Rectangle2D.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -132,6 +130,5 @@ The height expands towards the bottom of the view.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

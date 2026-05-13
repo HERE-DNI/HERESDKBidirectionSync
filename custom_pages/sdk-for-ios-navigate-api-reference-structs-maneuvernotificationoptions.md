@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / ManeuverNotificationOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-maneuvernotificationoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ManeuverNotificationOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -613,6 +611,5 @@ Defaults to <code>true</code>.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

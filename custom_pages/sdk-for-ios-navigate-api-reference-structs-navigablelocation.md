@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / NavigableLocation"
 slug: "sdk-for-ios-navigate-api-reference-structs-navigablelocation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- NavigableLocation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-navigablelocation"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

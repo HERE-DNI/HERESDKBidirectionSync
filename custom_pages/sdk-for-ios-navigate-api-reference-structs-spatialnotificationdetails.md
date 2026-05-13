@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / SpatialNotificationDetails"
 slug: "sdk-for-ios-navigate-api-reference-structs-spatialnotificationdetails"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SpatialNotificationDetails.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -209,6 +207,5 @@ of sound to the cue (so that audio movement and audio duration match).</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

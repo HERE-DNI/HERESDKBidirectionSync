@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / NavigabilityType"
 slug: "sdk-for-ios-navigate-api-reference-enums-navigabilitytype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- NavigabilityType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -109,6 +107,5 @@ This is the default value for most regions.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

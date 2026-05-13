@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / SupplierReference"
 slug: "sdk-for-ios-explore-api-reference-structs-supplierreference"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SupplierReference.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -153,6 +151,5 @@ slug: "sdk-for-ios-explore-api-reference-structs-supplierreference"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

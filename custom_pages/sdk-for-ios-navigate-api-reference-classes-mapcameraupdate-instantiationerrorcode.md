@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapCameraUpdate / InstantiationErrorCode"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapcameraupdate-instantiationerrorcode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- InstantiationErrorCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -81,6 +79,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapcameraupdate-instantiatione
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

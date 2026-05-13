@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapPolyline / DashImageRepresentation"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-dashimagerepresentation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DashImageRepresentation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -344,6 +342,5 @@ It is stretched to fill whole polyline width and length of each dash.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

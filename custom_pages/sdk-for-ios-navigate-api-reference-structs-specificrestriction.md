@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Transport / SpecificRestriction"
 slug: "sdk-for-ios-navigate-api-reference-structs-specificrestriction"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SpecificRestriction.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -138,6 +136,5 @@ Examples:</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

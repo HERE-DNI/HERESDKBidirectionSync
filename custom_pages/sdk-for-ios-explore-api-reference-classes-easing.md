@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / Easing"
 slug: "sdk-for-ios-explore-api-reference-classes-easing"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Easing.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -215,6 +213,5 @@ In order to achieve the same animation precision for animations with different d
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

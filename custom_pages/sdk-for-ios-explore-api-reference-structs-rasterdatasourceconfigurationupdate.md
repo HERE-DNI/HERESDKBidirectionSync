@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / RasterDataSourceConfigurationUpdate"
 slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfigurationupdate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RasterDataSourceConfigurationUpdate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -156,6 +154,5 @@ When not set, no change is made to the current value.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

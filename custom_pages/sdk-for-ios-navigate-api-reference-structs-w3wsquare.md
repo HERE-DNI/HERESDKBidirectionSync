@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / W3WSquare"
 slug: "sdk-for-ios-navigate-api-reference-structs-w3wsquare"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- W3WSquare.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -210,6 +208,5 @@ international waters, Antarctica, some uninhabited islands etc.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

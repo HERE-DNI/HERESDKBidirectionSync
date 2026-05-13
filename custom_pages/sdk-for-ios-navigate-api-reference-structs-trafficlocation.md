@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Traffic / TrafficLocation"
 slug: "sdk-for-ios-navigate-api-reference-structs-trafficlocation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficLocation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -187,6 +185,5 @@ The length can be 0 only if the incident supplier has provided incomplete data.<
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

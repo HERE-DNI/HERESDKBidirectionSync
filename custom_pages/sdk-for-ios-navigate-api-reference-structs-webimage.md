@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / WebImage"
 slug: "sdk-for-ios-navigate-api-reference-structs-webimage"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- WebImage.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -123,6 +121,5 @@ Sets <code><a href="../Structs/WebImage.html#/s:7heresdk8WebImageV6sourceAA0B6So
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

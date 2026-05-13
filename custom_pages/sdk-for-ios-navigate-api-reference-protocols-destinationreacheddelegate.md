@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / DestinationReachedDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-destinationreacheddelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DestinationReachedDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -80,6 +78,5 @@ arrival at the destination.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

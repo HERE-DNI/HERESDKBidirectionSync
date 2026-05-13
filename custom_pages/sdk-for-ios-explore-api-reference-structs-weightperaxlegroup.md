@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Transport / WeightPerAxleGroup"
 slug: "sdk-for-ios-explore-api-reference-structs-weightperaxlegroup"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- WeightPerAxleGroup.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -209,6 +207,5 @@ By default, it is not set.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

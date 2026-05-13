@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueTransportMode"
 slug: "sdk-for-ios-navigate-api-reference-enums-venuetransportmode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueTransportMode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -354,6 +352,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-venuetransportmode"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

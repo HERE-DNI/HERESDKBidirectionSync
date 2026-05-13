@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Positioning / LocationSimulator"
 slug: "sdk-for-ios-navigate-api-reference-classes-locationsimulator"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LocationSimulator.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -327,6 +325,5 @@ Calling this function has no effect when location provider is not started.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

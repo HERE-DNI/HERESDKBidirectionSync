@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / ResponseDetails"
 slug: "sdk-for-ios-navigate-api-reference-structs-responsedetails"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ResponseDetails.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-responsedetails"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

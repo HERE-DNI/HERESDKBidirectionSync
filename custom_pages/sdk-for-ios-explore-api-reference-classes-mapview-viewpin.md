@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapView / ViewPin"
 slug: "sdk-for-ios-explore-api-reference-classes-mapview-viewpin"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ViewPin.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -137,6 +135,5 @@ When not set, the coordinates are interpreted as at ground level.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

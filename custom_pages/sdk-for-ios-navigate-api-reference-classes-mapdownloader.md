@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / MapDownloader"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapdownloader"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapDownloader.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -703,6 +701,5 @@ This includes also data that is currently being downloaded.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

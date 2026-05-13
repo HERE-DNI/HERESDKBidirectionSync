@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / RouteType"
 slug: "sdk-for-ios-explore-api-reference-enums-routetype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RouteType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -232,6 +230,5 @@ See <a href="https://developer.here.com/documentation/here-map-content-schema/de
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

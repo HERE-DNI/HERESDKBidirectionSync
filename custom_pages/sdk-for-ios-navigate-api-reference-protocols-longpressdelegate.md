@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / LongPressDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-longpressdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LongPressDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -110,6 +108,5 @@ Long-press gesture occurs after tapping and holding the finger for a long time o
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / PlaceCategory"
 slug: "sdk-for-ios-navigate-api-reference-classes-placecategory"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PlaceCategory.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -1982,6 +1980,5 @@ That means that when <code>PlaceCategory</code> is constructed directly by the c
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

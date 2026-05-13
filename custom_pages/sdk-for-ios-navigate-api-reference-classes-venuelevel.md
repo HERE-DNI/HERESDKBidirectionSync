@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueLevel"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuelevel"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueLevel.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -932,6 +930,5 @@ If the ‘name’ property is missing in the properties, the string will be empt
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

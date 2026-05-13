@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / FarePassValidityPeriod"
 slug: "sdk-for-ios-navigate-api-reference-structs-farepassvalidityperiod"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- FarePassValidityPeriod.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -129,6 +127,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-farepassvalidityperiod"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

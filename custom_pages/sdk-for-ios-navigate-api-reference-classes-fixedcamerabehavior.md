@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / FixedCameraBehavior"
 slug: "sdk-for-ios-navigate-api-reference-classes-fixedcamerabehavior"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- FixedCameraBehavior.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -223,6 +221,5 @@ used or zero otherwise.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

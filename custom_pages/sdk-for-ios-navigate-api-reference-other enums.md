@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Enumerations"
 slug: "sdk-for-ios-navigate-api-reference-other enums"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Other Enums.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -209,6 +207,5 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

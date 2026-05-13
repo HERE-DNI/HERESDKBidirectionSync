@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / DownloadRegionsStatusListener"
 slug: "sdk-for-ios-navigate-api-reference-protocols-downloadregionsstatuslistener"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DownloadRegionsStatusListener.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -246,6 +244,5 @@ is called by the user.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLayerBuilder / InstantiationErrorCode"
 slug: "sdk-for-ios-explore-api-reference-classes-maplayerbuilder-instantiationerrorcode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- InstantiationErrorCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -105,6 +103,5 @@ slug: "sdk-for-ios-explore-api-reference-classes-maplayerbuilder-instantiationer
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

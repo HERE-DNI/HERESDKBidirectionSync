@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / PolygonPrefetcher"
 slug: "sdk-for-ios-navigate-api-reference-classes-polygonprefetcher"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PolygonPrefetcher.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -241,6 +239,5 @@ in the cache will not be included in the final result.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

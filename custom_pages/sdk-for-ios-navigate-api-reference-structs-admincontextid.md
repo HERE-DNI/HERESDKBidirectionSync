@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Structures / AdminContextId"
 slug: "sdk-for-ios-navigate-api-reference-structs-admincontextid"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AdminContextId.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-admincontextid"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / MapDataLoaderErrorCode"
 slug: "sdk-for-ios-navigate-api-reference-enums-mapdataloadererrorcode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapDataLoaderErrorCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -106,6 +104,5 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

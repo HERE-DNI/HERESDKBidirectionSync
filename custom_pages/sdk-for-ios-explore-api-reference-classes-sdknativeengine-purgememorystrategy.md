@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "SDKNativeEngine / PurgeMemoryStrategy"
 slug: "sdk-for-ios-explore-api-reference-classes-sdknativeengine-purgememorystrategy"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PurgeMemoryStrategy.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -80,6 +78,5 @@ slug: "sdk-for-ios-explore-api-reference-classes-sdknativeengine-purgememorystra
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / PassThroughFeature"
 slug: "sdk-for-ios-navigate-api-reference-enums-passthroughfeature"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PassThroughFeature.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -188,6 +186,5 @@ search information from online services even when offline mode is enabled.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / SegmentData"
 slug: "sdk-for-ios-navigate-api-reference-classes-segmentdata"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SegmentData.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -297,6 +295,5 @@ or the <code>SegmentData</code> is not initialized using <code><a href="../Class
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

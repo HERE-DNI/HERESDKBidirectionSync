@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / POIPaymentDetails"
 slug: "sdk-for-ios-navigate-api-reference-structs-poipaymentdetails"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- POIPaymentDetails.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -136,6 +134,5 @@ not available, it is set to <code>nil</code>.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

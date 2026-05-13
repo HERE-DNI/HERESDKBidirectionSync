@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TransportSpecification / PedestrianBuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-transportspecification-pedestrianbuilder"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PedestrianBuilder.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -160,6 +158,5 @@ from the <code>TransportSpecification.PedestrianBuilder</code> object.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

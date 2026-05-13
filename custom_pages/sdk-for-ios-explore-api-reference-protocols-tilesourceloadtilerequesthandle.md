@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / TileSourceLoadTileRequestHandle"
 slug: "sdk-for-ios-explore-api-reference-protocols-tilesourceloadtilerequesthandle"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TileSourceLoadTileRequestHandle.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -79,6 +77,5 @@ Upon cancellation, the corresponding result handler must be informed.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / TriangleMeshBuilder"
 slug: "sdk-for-ios-navigate-api-reference-classes-trianglemeshbuilder"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TriangleMeshBuilder.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -126,6 +124,5 @@ representing the bottom-left and <code>&lt;1,1&gt;</code> upper-right corner.</p
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

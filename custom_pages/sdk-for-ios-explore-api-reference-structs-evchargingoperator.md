@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVChargingOperator"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingoperator"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVChargingOperator.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -206,6 +204,5 @@ This list may be empty where map coverage is limited or incomplete.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / WallClock"
 slug: "sdk-for-ios-navigate-api-reference-protocols-wallclock"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- WallClock.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -111,6 +109,5 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-wallclock"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

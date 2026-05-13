@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / TollCollectionMethod"
 slug: "sdk-for-ios-navigate-api-reference-enums-tollcollectionmethod"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TollCollectionMethod.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -157,6 +155,5 @@ end of the stretch of toll road that has been traveled.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

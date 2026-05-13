@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / InstalledRegion"
 slug: "sdk-for-ios-navigate-api-reference-structs-installedregion"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- InstalledRegion.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -203,6 +201,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-installedregion"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

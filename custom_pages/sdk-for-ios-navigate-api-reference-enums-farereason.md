@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / FareReason"
 slug: "sdk-for-ios-navigate-api-reference-enums-farereason"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- FareReason.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-farereason"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

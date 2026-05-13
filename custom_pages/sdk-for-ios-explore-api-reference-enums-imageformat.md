@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / ImageFormat"
 slug: "sdk-for-ios-explore-api-reference-enums-imageformat"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ImageFormat.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -104,6 +102,5 @@ been performed on it.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

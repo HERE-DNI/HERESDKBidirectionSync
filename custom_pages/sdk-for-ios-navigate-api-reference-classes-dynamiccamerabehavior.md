@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / DynamicCameraBehavior"
 slug: "sdk-for-ios-navigate-api-reference-classes-dynamiccamerabehavior"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DynamicCameraBehavior.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -112,6 +110,5 @@ of the mapview.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

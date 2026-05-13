@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TollOptions / EmissionType"
 slug: "sdk-for-ios-explore-api-reference-structs-tolloptions-emissiontype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EmissionType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -230,6 +228,5 @@ slug: "sdk-for-ios-explore-api-reference-structs-tolloptions-emissiontype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

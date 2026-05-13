@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / ParameterConfiguration"
 slug: "sdk-for-ios-navigate-api-reference-structs-parameterconfiguration"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ParameterConfiguration.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -107,6 +105,5 @@ to <code><a href="../Enums/TransportMode.html#/s:7heresdk13TransportModeO3caryA2
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

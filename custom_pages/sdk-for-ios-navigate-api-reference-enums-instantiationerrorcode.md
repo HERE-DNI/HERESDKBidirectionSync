@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / InstantiationErrorCode"
 slug: "sdk-for-ios-navigate-api-reference-enums-instantiationerrorcode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- InstantiationErrorCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -388,6 +386,5 @@ Check the corectness of HRNs and versions.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

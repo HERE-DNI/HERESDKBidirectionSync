@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MaterialReflectivity"
 slug: "sdk-for-ios-navigate-api-reference-structs-materialreflectivity"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MaterialReflectivity.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -146,6 +144,5 @@ the diffuse lighting component when lighting is enabled. Default value is 1.0.</
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

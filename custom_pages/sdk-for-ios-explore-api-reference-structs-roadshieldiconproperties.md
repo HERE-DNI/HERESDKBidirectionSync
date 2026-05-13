@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / RoadShieldIconProperties"
 slug: "sdk-for-ios-explore-api-reference-structs-roadshieldiconproperties"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoadShieldIconProperties.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -253,6 +251,5 @@ in reality. It will be in the output road-shield icon.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

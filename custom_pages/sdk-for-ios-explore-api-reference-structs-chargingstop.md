@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / ChargingStop"
 slug: "sdk-for-ios-explore-api-reference-structs-chargingstop"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ChargingStop.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -241,6 +239,5 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

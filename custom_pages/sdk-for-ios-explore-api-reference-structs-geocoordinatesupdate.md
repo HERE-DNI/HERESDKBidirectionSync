@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / GeoCoordinatesUpdate"
 slug: "sdk-for-ios-explore-api-reference-structs-geocoordinatesupdate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GeoCoordinatesUpdate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -312,6 +310,5 @@ NaN value is converted to <code>nil</code>.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVChargingLocation"
 slug: "sdk-for-ios-navigate-api-reference-classes-evcharginglocation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVChargingLocation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -556,6 +554,5 @@ Available only if <code>EVChargingLocationFeature.LOCATION_INFO</code> is includ
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "VenueGeometry / GeometryType"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuegeometry-geometrytype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GeometryType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -180,6 +178,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuegeometry-geometrytype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

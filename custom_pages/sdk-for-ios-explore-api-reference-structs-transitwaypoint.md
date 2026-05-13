@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TransitWaypoint"
 slug: "sdk-for-ios-explore-api-reference-structs-transitwaypoint"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TransitWaypoint.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -129,6 +127,5 @@ affect the generated actions descriptions.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

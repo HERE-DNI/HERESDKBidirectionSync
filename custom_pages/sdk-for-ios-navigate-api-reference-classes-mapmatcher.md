@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapMatcher / MapMatcher"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapmatcher"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapMatcher.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -284,6 +282,5 @@ To improve matching accuracy, it is recommended to provide <code>bearing</code> 
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

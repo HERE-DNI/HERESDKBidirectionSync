@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / HeadlightsRequirement"
 slug: "sdk-for-ios-navigate-api-reference-enums-headlightsrequirement"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- HeadlightsRequirement.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -154,6 +152,5 @@ before sunrise.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

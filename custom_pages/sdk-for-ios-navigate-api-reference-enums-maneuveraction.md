@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / ManeuverAction"
 slug: "sdk-for-ios-navigate-api-reference-enums-maneuveraction"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ManeuverAction.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -1257,6 +1255,5 @@ it needs to be enabled via <code><a href="sdk-for-ios-navigate-api-reference-..-
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

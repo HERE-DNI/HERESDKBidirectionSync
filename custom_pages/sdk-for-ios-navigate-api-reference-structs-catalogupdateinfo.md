@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / CatalogUpdateInfo"
 slug: "sdk-for-ios-navigate-api-reference-structs-catalogupdateinfo"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CatalogUpdateInfo.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -212,6 +210,5 @@ application can compare amount of the free space on the disk with <code>disk_siz
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

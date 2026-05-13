@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / CardinalDirection"
 slug: "sdk-for-ios-navigate-api-reference-enums-cardinaldirection"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CardinalDirection.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -154,6 +152,5 @@ The direction indicates the same information as on the signpost shield text: For
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

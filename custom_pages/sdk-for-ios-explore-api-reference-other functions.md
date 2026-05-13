@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Functions"
 slug: "sdk-for-ios-explore-api-reference-other functions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Other Functions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -100,6 +98,5 @@ slug: "sdk-for-ios-explore-api-reference-other functions"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

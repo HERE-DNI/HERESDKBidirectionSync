@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / EasingFunction"
 slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EasingFunction.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -1078,6 +1076,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-easingfunction"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

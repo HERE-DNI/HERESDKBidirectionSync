@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TruckSpecifications"
 slug: "sdk-for-ios-explore-api-reference-structs-truckspecifications"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TruckSpecifications.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -519,6 +517,5 @@ Note: This parameter is currently used only for the calculation of tolls in regi
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

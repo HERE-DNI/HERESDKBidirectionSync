@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / DoubleTapDelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-doubletapdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DoubleTapDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -98,6 +96,5 @@ Double-tap gesture occurs after double-tapping on the screen.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

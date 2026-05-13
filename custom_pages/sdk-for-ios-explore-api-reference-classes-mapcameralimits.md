@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapCameraLimits"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcameralimits"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapCameraLimits.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -443,6 +441,5 @@ By default, the maximum tilt range for all zoom values is set during initializat
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

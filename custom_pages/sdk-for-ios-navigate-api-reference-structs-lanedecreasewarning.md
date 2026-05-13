@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Structures / LaneDecreaseWarning"
 slug: "sdk-for-ios-navigate-api-reference-structs-lanedecreasewarning"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LaneDecreaseWarning.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -267,6 +265,5 @@ ahead, then <code><a href="../Structs/LaneDecreaseWarning.html#/s:7heresdk19Lane
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "PickMapContentResult / VehicleRestrictionResult"
 slug: "sdk-for-ios-navigate-api-reference-classes-pickmapcontentresult-vehiclerestrictionresult"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VehicleRestrictionResult.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -155,6 +153,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-pickmapcontentresult-vehiclere
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

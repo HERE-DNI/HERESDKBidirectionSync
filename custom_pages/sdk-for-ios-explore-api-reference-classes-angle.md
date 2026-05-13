@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / Angle"
 slug: "sdk-for-ios-explore-api-reference-classes-angle"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Angle.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -201,6 +199,5 @@ slug: "sdk-for-ios-explore-api-reference-classes-angle"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

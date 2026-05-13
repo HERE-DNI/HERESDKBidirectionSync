@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / IconProviderError"
 slug: "sdk-for-ios-explore-api-reference-enums-iconprovidererror"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IconProviderError.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-iconprovidererror"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

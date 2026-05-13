@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / EVCarOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-evcaroptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVCarOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -501,6 +499,5 @@ By default, all providers are used.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "ProxySettings / ProxyType"
 slug: "sdk-for-ios-explore-api-reference-structs-proxysettings-proxytype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ProxyType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -130,6 +128,5 @@ slug: "sdk-for-ios-explore-api-reference-structs-proxysettings-proxytype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

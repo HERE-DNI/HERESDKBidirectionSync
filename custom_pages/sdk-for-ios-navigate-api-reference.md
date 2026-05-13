@@ -5,1026 +5,1022 @@ slug: "sdk-for-ios-navigate-api-reference"
 
 ## Overview
 
-Browse the API reference for the HERE SDK for iOS (Explore).
+Browse the API reference.
 
-## [Core](sdk-for-ios-navigate-api-reference-core)
-
-### Other
-- [Anchor2D](sdk-for-ios-navigate-api-reference-structs-anchor2d)
-- [Anchor2DKeyframe](sdk-for-ios-navigate-api-reference-structs-anchor2dkeyframe)
-- [Angle](sdk-for-ios-navigate-api-reference-classes-angle)
-- [AngleRange](sdk-for-ios-navigate-api-reference-structs-anglerange)
-- [Authentication](sdk-for-ios-navigate-api-reference-classes-authentication)
-- [AuthenticationCompletionHandler](sdk-for-ios-navigate-api-reference-core#/s:7heresdk31AuthenticationCompletionHandlera)
-- [AuthenticationException](sdk-for-ios-navigate-api-reference-core#/s:7heresdk23AuthenticationExceptiona)
-- [AuthenticationMode](sdk-for-ios-navigate-api-reference-classes-authenticationmode)
-- [BrandLogo](sdk-for-ios-navigate-api-reference-structs-brandlogo)
-- [CacheCallbackCompletionHandler](sdk-for-ios-navigate-api-reference-core#/s:7heresdk30CacheCallbackCompletionHandlera)
-- [CardinalDirection](sdk-for-ios-navigate-api-reference-enums-cardinaldirection)
-- [CatalogConfiguration](sdk-for-ios-navigate-api-reference-structs-catalogconfiguration)
-- [CatalogIdentifier](sdk-for-ios-navigate-api-reference-structs-catalogidentifier)
-- [CatalogType](sdk-for-ios-navigate-api-reference-enums-catalogtype)
-- [CatalogUpdateTask](sdk-for-ios-navigate-api-reference-classes-catalogupdatetask)
-- [CatalogVersionHint](sdk-for-ios-navigate-api-reference-classes-catalogversionhint)
-- [CollectionOf](sdk-for-ios-navigate-api-reference-classes-collectionof)
-- [CountryCode](sdk-for-ios-navigate-api-reference-enums-countrycode)
-- [CurrentType](sdk-for-ios-navigate-api-reference-enums-currenttype)
-- [CustomMetadataValue](sdk-for-ios-navigate-api-reference-protocols-custommetadatavalue)
-- [DesiredCatalog](sdk-for-ios-navigate-api-reference-structs-desiredcatalog)
-- [DeviceIdHandle](sdk-for-ios-navigate-api-reference-core#/s:7heresdk14DeviceIdHandlea)
-- [EngineBaseURL](sdk-for-ios-navigate-api-reference-enums-enginebaseurl)
-- [EngineOptions](sdk-for-ios-navigate-api-reference-structs-engineoptions)
-- [ExternalID](sdk-for-ios-navigate-api-reference-structs-externalid)
-- [GeoBox](sdk-for-ios-navigate-api-reference-structs-geobox)
-- [GeoCircle](sdk-for-ios-navigate-api-reference-structs-geocircle)
-- [GeoCoordinates](sdk-for-ios-navigate-api-reference-structs-geocoordinates)
-- [GeoCoordinatesUpdate](sdk-for-ios-navigate-api-reference-structs-geocoordinatesupdate)
-- [GeoCorridor](sdk-for-ios-navigate-api-reference-structs-geocorridor)
-- [GeoOrientation](sdk-for-ios-navigate-api-reference-structs-geoorientation)
-- [GeoOrientationUpdate](sdk-for-ios-navigate-api-reference-structs-geoorientationupdate)
-- [GeoPolygon](sdk-for-ios-navigate-api-reference-structs-geopolygon)
-- [GeoPolyline](sdk-for-ios-navigate-api-reference-structs-geopolyline)
-- [GeoPolylineDirection](sdk-for-ios-navigate-api-reference-enums-geopolylinedirection)
-- [InstantiationError](sdk-for-ios-navigate-api-reference-core#/s:7heresdk18InstantiationErrora)
-- [InstantiationErrorCode](sdk-for-ios-navigate-api-reference-enums-instantiationerrorcode)
-- [IntegerRange](sdk-for-ios-navigate-api-reference-structs-integerrange)
-- [JunctionsTraversability](sdk-for-ios-navigate-api-reference-enums-junctionstraversability)
-- [LanguageCode](sdk-for-ios-navigate-api-reference-enums-languagecode)
-- [LayerConfiguration](sdk-for-ios-navigate-api-reference-structs-layerconfiguration)
-- [– Feature](sdk-for-ios-navigate-api-reference-structs-layerconfiguration-feature)
-- [LocalizedRoadNumber](sdk-for-ios-navigate-api-reference-structs-localizedroadnumber)
-- [LocalizedRoadNumbers](sdk-for-ios-navigate-api-reference-structs-localizedroadnumbers)
-- [LocalizedText](sdk-for-ios-navigate-api-reference-structs-localizedtext)
-- [LocalizedTexts](sdk-for-ios-navigate-api-reference-structs-localizedtexts)
-- [Location](sdk-for-ios-navigate-api-reference-structs-location)
-- [LocationDelegate](sdk-for-ios-navigate-api-reference-protocols-locationdelegate)
-- [LocationSource](sdk-for-ios-navigate-api-reference-enums-locationsource)
-- [LocationTechnology](sdk-for-ios-navigate-api-reference-enums-locationtechnology)
-- [LocationTime](sdk-for-ios-navigate-api-reference-structs-locationtime)
-- [LogAppender](sdk-for-ios-navigate-api-reference-protocols-logappender)
-- [LogControl](sdk-for-ios-navigate-api-reference-classes-logcontrol)
-- [LogLevel](sdk-for-ios-navigate-api-reference-enums-loglevel)
-- [Metadata](sdk-for-ios-navigate-api-reference-classes-metadata)
-- [MetadataType](sdk-for-ios-navigate-api-reference-enums-metadatatype)
-- [NameID](sdk-for-ios-navigate-api-reference-structs-nameid)
-- [NetworkEndpoint](sdk-for-ios-navigate-api-reference-structs-networkendpoint)
-- [NetworkSettings](sdk-for-ios-navigate-api-reference-structs-networksettings)
-- [ParameterConfiguration](sdk-for-ios-navigate-api-reference-structs-parameterconfiguration)
-- [PassThroughFeature](sdk-for-ios-navigate-api-reference-enums-passthroughfeature)
-- [PowerType](sdk-for-ios-navigate-api-reference-enums-powertype)
-- [PedestrianProfile](sdk-for-ios-navigate-api-reference-structs-pedestrianprofile)
-- [PickedPlace](sdk-for-ios-navigate-api-reference-structs-pickedplace)
-- [PlatformThreading](sdk-for-ios-navigate-api-reference-protocols-platformthreading)
-- [Point2D](sdk-for-ios-navigate-api-reference-structs-point2d)
-- [Point3D](sdk-for-ios-navigate-api-reference-structs-point3d)
-- [PolylineSimplificationCompletionHandler](sdk-for-ios-navigate-api-reference-core#/s:7heresdk39PolylineSimplificationCompletionHandlera)
-- [PolylineSimplificationError](sdk-for-ios-navigate-api-reference-enums-polylinesimplificationerror)
-- [PolylineSimplifier](sdk-for-ios-navigate-api-reference-classes-polylinesimplifier)
-- [– Options](sdk-for-ios-navigate-api-reference-classes-polylinesimplifier-options)
-- [ProxySettings](sdk-for-ios-navigate-api-reference-structs-proxysettings)
-- [– ProxyType](sdk-for-ios-navigate-api-reference-structs-proxysettings-proxytype)
-- [– Credentials](sdk-for-ios-navigate-api-reference-structs-proxysettings-credentials)
-- [Rectangle2D](sdk-for-ios-navigate-api-reference-structs-rectangle2d)
-- [RouteType](sdk-for-ios-navigate-api-reference-enums-routetype)
-- [Runnable](sdk-for-ios-navigate-api-reference-protocols-runnable)
-- [SDKBuildInformation](sdk-for-ios-navigate-api-reference-classes-sdkbuildinformation)
-- [SDKCache](sdk-for-ios-navigate-api-reference-classes-sdkcache)
-- [SDKInternalInitializer](sdk-for-ios-navigate-api-reference-classes-sdkinternalinitializer)
-- [SDKLogger](sdk-for-ios-navigate-api-reference-classes-sdklogger)
-- [SDKNativeEngine](sdk-for-ios-navigate-api-reference-classes-sdknativeengine)
-- [– PurgeMemoryStrategy](sdk-for-ios-navigate-api-reference-classes-sdknativeengine-purgememorystrategy)
-- [SDKNativeEngineHolder](sdk-for-ios-navigate-api-reference-core#/c:@M@heresdk@objc(cs)SDKNativeEngineHolder)
-- [SDKOptions](sdk-for-ios-navigate-api-reference-structs-sdkoptions)
-- [SDKVersion](sdk-for-ios-navigate-api-reference-structs-sdkversion)
-- [Size2D](sdk-for-ios-navigate-api-reference-structs-size2d)
-- [String](sdk-for-ios-navigate-api-reference-core#/s:SS)
-- [TaskCompletionHandler](sdk-for-ios-navigate-api-reference-core#/s:7heresdk21TaskCompletionHandlera)
-- [TaskHandle](sdk-for-ios-navigate-api-reference-protocols-taskhandle)
-- [TaskOutcome](sdk-for-ios-navigate-api-reference-enums-taskoutcome)
-- [Threading](sdk-for-ios-navigate-api-reference-classes-threading)
-- [TimeRule](sdk-for-ios-navigate-api-reference-classes-timerule)
-- [TransportProfile](sdk-for-ios-navigate-api-reference-structs-transportprofile)
-- [UIColor](sdk-for-ios-navigate-api-reference-extensions-uicolor)
-- [UnitSystem](sdk-for-ios-navigate-api-reference-enums-unitsystem)
-- [UsageStats](sdk-for-ios-navigate-api-reference-structs-usagestats)
-- [– Feature](sdk-for-ios-navigate-api-reference-structs-usagestats-feature)
-- [– NetworkStats](sdk-for-ios-navigate-api-reference-structs-usagestats-networkstats)
-
-## [ElectronicHorizon](sdk-for-ios-navigate-api-reference-electronichorizon)
+## sdk-for-ios-navigate-api-reference-core
 
 ### Other
-- [ElectronicHorizon](sdk-for-ios-navigate-api-reference-structs-electronichorizon)
-- [ElectronicHorizonDataLoader](sdk-for-ios-navigate-api-reference-classes-electronichorizondataloader)
-- [ElectronicHorizonDataLoaderErrorCode](sdk-for-ios-navigate-api-reference-enums-electronichorizondataloadererrorcode)
-- [ElectronicHorizonDataLoaderResult](sdk-for-ios-navigate-api-reference-structs-electronichorizondataloaderresult)
-- [ElectronicHorizonDataLoadedStatus](sdk-for-ios-navigate-api-reference-enums-electronichorizondataloadedstatus)
-- [ElectronicHorizonDataLoaderStatusDelegate](sdk-for-ios-navigate-api-reference-protocols-electronichorizondataloaderstatusdelegate)
-- [ElectronicHorizonDelegate](sdk-for-ios-navigate-api-reference-protocols-electronichorizondelegate)
-- [ElectronicHorizonEngine](sdk-for-ios-navigate-api-reference-classes-electronichorizonengine)
-- [ElectronicHorizonErrorCode](sdk-for-ios-navigate-api-reference-enums-electronichorizonerrorcode)
-- [ElectronicHorizonOptions](sdk-for-ios-navigate-api-reference-structs-electronichorizonoptions)
-- [ElectronicHorizonPath](sdk-for-ios-navigate-api-reference-structs-electronichorizonpath)
-- [ElectronicHorizonPosition](sdk-for-ios-navigate-api-reference-structs-electronichorizonposition)
-- [ElectronicHorizonSegment](sdk-for-ios-navigate-api-reference-structs-electronichorizonsegment)
-- [ElectronicHorizonSegmentChanges](sdk-for-ios-navigate-api-reference-structs-electronichorizonsegmentchanges)
-- [ElectronicHorizonSegmentId](sdk-for-ios-navigate-api-reference-structs-electronichorizonsegmentid)
-- [ElectronicHorizonUpdate](sdk-for-ios-navigate-api-reference-structs-electronichorizonupdate)
+- Anchor2D
+- Anchor2DKeyframe
+- Angle
+- AngleRange
+- Authentication
+- AuthenticationCompletionHandler
+- AuthenticationException
+- AuthenticationMode
+- BrandLogo
+- CacheCallbackCompletionHandler
+- CardinalDirection
+- CatalogConfiguration
+- CatalogIdentifier
+- CatalogType
+- CatalogUpdateTask
+- CatalogVersionHint
+- CollectionOf
+- CountryCode
+- CurrentType
+- CustomMetadataValue
+- DesiredCatalog
+- DeviceIdHandle
+- EngineBaseURL
+- EngineOptions
+- ExternalID
+- GeoBox
+- GeoCircle
+- GeoCoordinates
+- GeoCoordinatesUpdate
+- GeoCorridor
+- GeoOrientation
+- GeoOrientationUpdate
+- GeoPolygon
+- GeoPolyline
+- GeoPolylineDirection
+- InstantiationError
+- InstantiationErrorCode
+- IntegerRange
+- JunctionsTraversability
+- LanguageCode
+- LayerConfiguration
+- – Feature
+- LocalizedRoadNumber
+- LocalizedRoadNumbers
+- LocalizedText
+- LocalizedTexts
+- Location
+- LocationDelegate
+- LocationSource
+- LocationTechnology
+- LocationTime
+- LogAppender
+- LogControl
+- LogLevel
+- Metadata
+- MetadataType
+- NameID
+- NetworkEndpoint
+- NetworkSettings
+- ParameterConfiguration
+- PassThroughFeature
+- PowerType
+- PedestrianProfile
+- PickedPlace
+- PlatformThreading
+- Point2D
+- Point3D
+- PolylineSimplificationCompletionHandler
+- PolylineSimplificationError
+- PolylineSimplifier
+- – Options
+- ProxySettings
+- – ProxyType
+- – Credentials
+- Rectangle2D
+- RouteType
+- Runnable
+- SDKBuildInformation
+- SDKCache
+- SDKInternalInitializer
+- SDKLogger
+- SDKNativeEngine
+- – PurgeMemoryStrategy
+- SDKNativeEngineHolder
+- SDKOptions
+- SDKVersion
+- Size2D
+- String
+- TaskCompletionHandler
+- TaskHandle
+- TaskOutcome
+- Threading
+- TimeRule
+- TransportProfile
+- UIColor
+- UnitSystem
+- UsageStats
+- – Feature
+- – NetworkStats
 
-## [EV](sdk-for-ios-navigate-api-reference-ev)
+## sdk-for-ios-navigate-api-reference-electronichorizon
 
 ### Other
-- [EVChargingConnectorFormat](sdk-for-ios-navigate-api-reference-enums-evchargingconnectorformat)
-- [EVChargingConnectorType](sdk-for-ios-navigate-api-reference-structs-evchargingconnectortype)
-- [EVSECapability](sdk-for-ios-navigate-api-reference-enums-evsecapability)
-- [EVSEPaymentSupport](sdk-for-ios-navigate-api-reference-enums-evsepaymentsupport)
-- [EVSEState](sdk-for-ios-navigate-api-reference-enums-evsestate)
+- ElectronicHorizon
+- ElectronicHorizonDataLoader
+- ElectronicHorizonDataLoaderErrorCode
+- ElectronicHorizonDataLoaderResult
+- ElectronicHorizonDataLoadedStatus
+- ElectronicHorizonDataLoaderStatusDelegate
+- ElectronicHorizonDelegate
+- ElectronicHorizonEngine
+- ElectronicHorizonErrorCode
+- ElectronicHorizonOptions
+- ElectronicHorizonPath
+- ElectronicHorizonPosition
+- ElectronicHorizonSegment
+- ElectronicHorizonSegmentChanges
+- ElectronicHorizonSegmentId
+- ElectronicHorizonUpdate
 
-## [Positioning](sdk-for-ios-navigate-api-reference-positioning)
+## sdk-for-ios-navigate-api-reference-ev
 
 ### Other
-- [AuthenticationData](sdk-for-ios-navigate-api-reference-structs-authenticationdata)
-- [AuthenticationError](sdk-for-ios-navigate-api-reference-enums-authenticationerror)
-- [ConfirmationStatus](sdk-for-ios-navigate-api-reference-enums-confirmationstatus)
-- [LocationAccuracy](sdk-for-ios-navigate-api-reference-enums-locationaccuracy)
-- [LocationEngineBase](sdk-for-ios-navigate-api-reference-protocols-locationenginebase)
-- [LocationEngineStatus](sdk-for-ios-navigate-api-reference-enums-locationenginestatus)
-- [LocationFeature](sdk-for-ios-navigate-api-reference-enums-locationfeature)
-- [LocationEngine](sdk-for-ios-navigate-api-reference-classes-locationengine)
-- [LocationSimulator](sdk-for-ios-navigate-api-reference-classes-locationsimulator)
-- [LocationSimulatorOptions](sdk-for-ios-navigate-api-reference-structs-locationsimulatoroptions)
-- [LocationStatusDelegate](sdk-for-ios-navigate-api-reference-protocols-locationstatusdelegate)
+- EVChargingConnectorFormat
+- EVChargingConnectorType
+- EVSECapability
+- EVSEPaymentSupport
+- EVSEState
 
-## [MapData](sdk-for-ios-navigate-api-reference-mapdata)
+## sdk-for-ios-navigate-api-reference-positioning
+
+### Other
+- AuthenticationData
+- AuthenticationError
+- ConfirmationStatus
+- LocationAccuracy
+- LocationEngineBase
+- LocationEngineStatus
+- LocationFeature
+- LocationEngine
+- LocationSimulator
+- LocationSimulatorOptions
+- LocationStatusDelegate
+
+## sdk-for-ios-navigate-api-reference-mapdata
 
 ### Structs
-- [TollStructure](sdk-for-ios-navigate-api-reference-structs-tollstructure)
-- [TollStructureManeuver](sdk-for-ios-navigate-api-reference-structs-tollstructuremaneuver)
-- [TollStructureType](sdk-for-ios-navigate-api-reference-enums-tollstructuretype)
+- TollStructure
+- TollStructureManeuver
+- TollStructureType
 
 ### Other
-- [AdministrativeRules](sdk-for-ios-navigate-api-reference-structs-administrativerules)
-- [AdministrativeRulesLoader](sdk-for-ios-navigate-api-reference-classes-administrativerulesloader)
-- [AllowedTransportModes](sdk-for-ios-navigate-api-reference-structs-allowedtransportmodes)
-- [BloodAlcoholContentLimit](sdk-for-ios-navigate-api-reference-structs-bloodalcoholcontentlimit)
-- [Connectivity](sdk-for-ios-navigate-api-reference-structs-connectivity)
-- [DirectedOCMSegmentId](sdk-for-ios-navigate-api-reference-structs-directedocmsegmentid)
-- [DownloadingFileOptions](sdk-for-ios-navigate-api-reference-structs-downloadingfileoptions)
-- [DrivingSide](sdk-for-ios-navigate-api-reference-enums-drivingside)
-- [FileReference](sdk-for-ios-navigate-api-reference-structs-filereference)
-- [FileReferenceType](sdk-for-ios-navigate-api-reference-enums-filereferencetype)
-- [HeadlightsRequirement](sdk-for-ios-navigate-api-reference-enums-headlightsrequirement)
-- [LaneAttribute](sdk-for-ios-navigate-api-reference-structs-laneattribute)
-- [LocalRoadCharacteristic](sdk-for-ios-navigate-api-reference-enums-localroadcharacteristic)
-- [MapDataLoaderError](sdk-for-ios-navigate-api-reference-mapdata#/s:7heresdk18MapDataLoaderErrora)
-- [MapDataLoaderErrorCode](sdk-for-ios-navigate-api-reference-enums-mapdataloadererrorcode)
-- [OCMSegmentId](sdk-for-ios-navigate-api-reference-structs-ocmsegmentid)
-- [ParkingSideRegulation](sdk-for-ios-navigate-api-reference-enums-parkingsideregulation)
-- [PhysicalAttributes](sdk-for-ios-navigate-api-reference-structs-physicalattributes)
-- [PreTripPlanning](sdk-for-ios-navigate-api-reference-structs-pretripplanning)
-- [RailwayCrossing](sdk-for-ios-navigate-api-reference-structs-railwaycrossing)
-- [RailwayCrossingType](sdk-for-ios-navigate-api-reference-enums-railwaycrossingtype)
-- [RoadDivider](sdk-for-ios-navigate-api-reference-enums-roaddivider)
-- [RoadUsages](sdk-for-ios-navigate-api-reference-structs-roadusages)
-- [SegmentConnectivities](sdk-for-ios-navigate-api-reference-structs-segmentconnectivities)
-- [SegmentData](sdk-for-ios-navigate-api-reference-classes-segmentdata)
-- [SegmentDataLoader](sdk-for-ios-navigate-api-reference-classes-segmentdataloader)
-- [SegmentDataLoaderOptions](sdk-for-ios-navigate-api-reference-structs-segmentdataloaderoptions)
-- [SegmentReferenceConverter](sdk-for-ios-navigate-api-reference-classes-segmentreferenceconverter)
-- [SegmentSpanData](sdk-for-ios-navigate-api-reference-classes-segmentspandata)
-- [SegmentSpecialSpeedSituation](sdk-for-ios-navigate-api-reference-structs-segmentspecialspeedsituation)
-- [SegmentSpeedLimit](sdk-for-ios-navigate-api-reference-structs-segmentspeedlimit)
-- [SpecialSpeedType](sdk-for-ios-navigate-api-reference-enums-specialspeedtype)
-- [TollCost](sdk-for-ios-navigate-api-reference-structs-tollcost)
-- [TollPoint](sdk-for-ios-navigate-api-reference-structs-tollpoint)
-- [TollSystem](sdk-for-ios-navigate-api-reference-structs-tollsystem)
-- [TrafficSignal](sdk-for-ios-navigate-api-reference-structs-trafficsignal)
-- [TrafficSignalLocation](sdk-for-ios-navigate-api-reference-enums-trafficsignallocation)
-- [TurnOnRedRegulation](sdk-for-ios-navigate-api-reference-enums-turnonredregulation)
+- AdministrativeRules
+- AdministrativeRulesLoader
+- AllowedTransportModes
+- BloodAlcoholContentLimit
+- Connectivity
+- DirectedOCMSegmentId
+- DownloadingFileOptions
+- DrivingSide
+- FileReference
+- FileReferenceType
+- HeadlightsRequirement
+- LaneAttribute
+- LocalRoadCharacteristic
+- MapDataLoaderError
+- MapDataLoaderErrorCode
+- OCMSegmentId
+- ParkingSideRegulation
+- PhysicalAttributes
+- PreTripPlanning
+- RailwayCrossing
+- RailwayCrossingType
+- RoadDivider
+- RoadUsages
+- SegmentConnectivities
+- SegmentData
+- SegmentDataLoader
+- SegmentDataLoaderOptions
+- SegmentReferenceConverter
+- SegmentSpanData
+- SegmentSpecialSpeedSituation
+- SegmentSpeedLimit
+- SpecialSpeedType
+- TollCost
+- TollPoint
+- TollSystem
+- TrafficSignal
+- TrafficSignalLocation
+- TurnOnRedRegulation
 
-## [MapLoader](sdk-for-ios-navigate-api-reference-maploader)
+## sdk-for-ios-navigate-api-reference-maploader
 
 ### Structs
-- [MapDownloaderConstructionHandle](sdk-for-ios-navigate-api-reference-maploader#/s:7heresdk31MapDownloaderConstructionHandlea)
-- [MapUpdaterConstructionHandler](sdk-for-ios-navigate-api-reference-maploader#/s:7heresdk29MapUpdaterConstructionHandlera)
+- MapDownloaderConstructionHandle
+- MapUpdaterConstructionHandler
 
 ### Other
-- [CatalogUpdateInfo](sdk-for-ios-navigate-api-reference-structs-catalogupdateinfo)
-- [CatalogsUpdateInfoCallback](sdk-for-ios-navigate-api-reference-maploader#/s:7heresdk26CatalogsUpdateInfoCallbacka)
-- [CatalogUpdateProgressListener](sdk-for-ios-navigate-api-reference-protocols-catalogupdateprogresslistener)
-- [CatalogUpdateState](sdk-for-ios-navigate-api-reference-enums-catalogupdatestate)
-- [ClientCertificateRequestType](sdk-for-ios-navigate-api-reference-enums-clientcertificaterequesttype)
-- [CompletionHandler](sdk-for-ios-navigate-api-reference-maploader#/s:7heresdk17CompletionHandlera)
-- [ConfigureConnectionHandle](sdk-for-ios-navigate-api-reference-maploader#/s:7heresdk25ConfigureConnectionHandlea)
-- [DataAttributesBase](sdk-for-ios-navigate-api-reference-protocols-dataattributesbase)
-- [DeleteRegionsCompletionHandler](sdk-for-ios-navigate-api-reference-maploader#/s:7heresdk30DeleteRegionsCompletionHandlera)
-- [DownloadRegionsStatusListener](sdk-for-ios-navigate-api-reference-protocols-downloadregionsstatuslistener)
-- [ExternalMapDataSourceClient](sdk-for-ios-navigate-api-reference-classes-externalmapdatasourceclient)
-- [ExternalMapDataSourceErrorCode](sdk-for-ios-navigate-api-reference-enums-externalmapdatasourceerrorcode)
-- [ExternalMapDataSourceExceptionError](sdk-for-ios-navigate-api-reference-maploader#/s:7heresdk35ExternalMapDataSourceExceptionErrora)
-- [ExternalMapDataSourceServer](sdk-for-ios-navigate-api-reference-classes-externalmapdatasourceserver)
-- [InstalledCatalog](sdk-for-ios-navigate-api-reference-structs-installedcatalog)
-- [InstalledRegion](sdk-for-ios-navigate-api-reference-structs-installedregion)
-- [InstalledRegionStatus](sdk-for-ios-navigate-api-reference-enums-installedregionstatus)
-- [LineData](sdk-for-ios-navigate-api-reference-maploader#/s:7heresdk8LineDataC)
-- [LineDataAccessor](sdk-for-ios-navigate-api-reference-classes-linedataaccessor)
-- [LineDataBuilder](sdk-for-ios-navigate-api-reference-classes-linedatabuilder)
-- [LineDataSource](sdk-for-ios-navigate-api-reference-classes-linedatasource)
-- [LineDataSourceBuilder](sdk-for-ios-navigate-api-reference-classes-linedatasourcebuilder)
-- [MapLoaderError](sdk-for-ios-navigate-api-reference-enums-maploadererror)
-- [MapDownloader](sdk-for-ios-navigate-api-reference-classes-mapdownloader)
-- [MapLoaderException](sdk-for-ios-navigate-api-reference-maploader#/s:7heresdk18MapLoaderExceptiona)
-- [MapDownloaderTask](sdk-for-ios-navigate-api-reference-classes-mapdownloadertask)
-- [MapUpdateProgressListener](sdk-for-ios-navigate-api-reference-protocols-mapupdateprogresslistener)
-- [MapUpdater](sdk-for-ios-navigate-api-reference-classes-mapupdater)
-- [– MapUpdateVersionCommitPolicy](sdk-for-ios-navigate-api-reference-classes-mapupdater-mapupdateversioncommitpolicy)
-- [MapUpdateTask](sdk-for-ios-navigate-api-reference-classes-mapupdatetask)
-- [MapVersionHandle](sdk-for-ios-navigate-api-reference-classes-mapversionhandle)
-- [NavigabilityType](sdk-for-ios-navigate-api-reference-enums-navigabilitytype)
-- [OfflineStorageSizeHandler](sdk-for-ios-navigate-api-reference-maploader#/s:7heresdk25OfflineStorageSizeHandlera)
-- [RepairCompletionHandler](sdk-for-ios-navigate-api-reference-maploader#/s:7heresdk23RepairCompletionHandlera)
-- [PemKeyCertPair](sdk-for-ios-navigate-api-reference-structs-pemkeycertpair)
-- [PersistentMapRepairError](sdk-for-ios-navigate-api-reference-enums-persistentmaprepairerror)
-- [PersistentMapStatus](sdk-for-ios-navigate-api-reference-enums-persistentmapstatus)
-- [Region](sdk-for-ios-navigate-api-reference-structs-region)
-- [RegionId](sdk-for-ios-navigate-api-reference-structs-regionid)
-- [ServerStartedHandle](sdk-for-ios-navigate-api-reference-maploader#/s:7heresdk19ServerStartedHandlea)
-- [SslClientCredentialsOptions](sdk-for-ios-navigate-api-reference-structs-sslclientcredentialsoptions)
-- [SslServerCredentialsOptions](sdk-for-ios-navigate-api-reference-structs-sslservercredentialsoptions)
-- [UpdateStatistics](sdk-for-ios-navigate-api-reference-structs-updatestatistics)
+- CatalogUpdateInfo
+- CatalogsUpdateInfoCallback
+- CatalogUpdateProgressListener
+- CatalogUpdateState
+- ClientCertificateRequestType
+- CompletionHandler
+- ConfigureConnectionHandle
+- DataAttributesBase
+- DeleteRegionsCompletionHandler
+- DownloadRegionsStatusListener
+- ExternalMapDataSourceClient
+- ExternalMapDataSourceErrorCode
+- ExternalMapDataSourceExceptionError
+- ExternalMapDataSourceServer
+- InstalledCatalog
+- InstalledRegion
+- InstalledRegionStatus
+- LineData
+- LineDataAccessor
+- LineDataBuilder
+- LineDataSource
+- LineDataSourceBuilder
+- MapLoaderError
+- MapDownloader
+- MapLoaderException
+- MapDownloaderTask
+- MapUpdateProgressListener
+- MapUpdater
+- – MapUpdateVersionCommitPolicy
+- MapUpdateTask
+- MapVersionHandle
+- NavigabilityType
+- OfflineStorageSizeHandler
+- RepairCompletionHandler
+- PemKeyCertPair
+- PersistentMapRepairError
+- PersistentMapStatus
+- Region
+- RegionId
+- ServerStartedHandle
+- SslClientCredentialsOptions
+- SslServerCredentialsOptions
+- UpdateStatistics
 
-## [MapMatcher](sdk-for-ios-navigate-api-reference-mapmatcher)
-
-### Other
-- [MapMatcher](sdk-for-ios-navigate-api-reference-classes-mapmatcher)
-- [MatchedLocation](sdk-for-ios-navigate-api-reference-structs-matchedlocation)
-
-## [Maps](sdk-for-ios-navigate-api-reference-maps)
+## sdk-for-ios-navigate-api-reference-mapmatcher
 
 ### Other
-- [AnimationDelegate](sdk-for-ios-navigate-api-reference-protocols-animationdelegate)
-- [AnimationState](sdk-for-ios-navigate-api-reference-enums-animationstate)
-- [AssetsManager](sdk-for-ios-navigate-api-reference-classes-assetsmanager)
-- [DataAttributes](sdk-for-ios-navigate-api-reference-classes-dataattributes)
-- [DataAttributesAccessor](sdk-for-ios-navigate-api-reference-classes-dataattributesaccessor)
-- [DataAttributesBuilder](sdk-for-ios-navigate-api-reference-classes-dataattributesbuilder)
-- [DataAttributeValue](sdk-for-ios-navigate-api-reference-classes-dataattributevalue)
-- [– ValueType](sdk-for-ios-navigate-api-reference-classes-dataattributevalue-valuetype)
-- [DashPattern](sdk-for-ios-navigate-api-reference-structs-dashpattern)
-- [DoubleTapDelegate](sdk-for-ios-navigate-api-reference-protocols-doubletapdelegate)
-- [DrawOrderType](sdk-for-ios-navigate-api-reference-enums-drawordertype)
-- [Easing](sdk-for-ios-navigate-api-reference-classes-easing)
-- [– InstantiationErrorCode](sdk-for-ios-navigate-api-reference-classes-easing-instantiationerrorcode)
-- [EasingFunction](sdk-for-ios-navigate-api-reference-enums-easingfunction)
-- [GeoCoordinatesKeyframe](sdk-for-ios-navigate-api-reference-structs-geocoordinateskeyframe)
-- [GeoOrientationKeyframe](sdk-for-ios-navigate-api-reference-structs-geoorientationkeyframe)
-- [GestureState](sdk-for-ios-navigate-api-reference-enums-gesturestate)
-- [GestureType](sdk-for-ios-navigate-api-reference-enums-gesturetype)
-- [Gestures](sdk-for-ios-navigate-api-reference-classes-gestures)
-- [HereMap](sdk-for-ios-navigate-api-reference-classes-heremap)
-- [IconProvider](sdk-for-ios-navigate-api-reference-classes-iconprovider)
-- [IconProviderAssetType](sdk-for-ios-navigate-api-reference-enums-iconproviderassettype)
-- [IconProviderCallback](sdk-for-ios-navigate-api-reference-maps#/s:7heresdk20IconProviderCallbacka)
-- [IconProviderError](sdk-for-ios-navigate-api-reference-enums-iconprovidererror)
-- [ImageFormat](sdk-for-ios-navigate-api-reference-enums-imageformat)
-- [JsonStyleFactory](sdk-for-ios-navigate-api-reference-classes-jsonstylefactory)
-- [– InstantiationErrorCode](sdk-for-ios-navigate-api-reference-classes-jsonstylefactory-instantiationerrorcode)
-- [– InstantiationErrorDetails](sdk-for-ios-navigate-api-reference-classes-jsonstylefactory-instantiationerrordetails)
-- [KeyframeInterpolationMode](sdk-for-ios-navigate-api-reference-enums-keyframeinterpolationmode)
-- [LineCap](sdk-for-ios-navigate-api-reference-enums-linecap)
-- [LineTileDataSource](sdk-for-ios-navigate-api-reference-classes-linetiledatasource)
-- [LineTileSource](sdk-for-ios-navigate-api-reference-protocols-linetilesource)
-- [LineTileSourceLoadResultHandler](sdk-for-ios-navigate-api-reference-protocols-linetilesourceloadresulthandler)
-- [LocationIndicator](sdk-for-ios-navigate-api-reference-classes-locationindicator)
-- [– IndicatorStyle](sdk-for-ios-navigate-api-reference-classes-locationindicator-indicatorstyle)
-- [– MarkerType](sdk-for-ios-navigate-api-reference-classes-locationindicator-markertype)
-- [LongPressDelegate](sdk-for-ios-navigate-api-reference-protocols-longpressdelegate)
-- [MapArrow](sdk-for-ios-navigate-api-reference-classes-maparrow)
-- [MapCamera](sdk-for-ios-navigate-api-reference-classes-mapcamera)
-- [– State](sdk-for-ios-navigate-api-reference-classes-mapcamera-state)
-- [– FarPlaneConfiguration](sdk-for-ios-navigate-api-reference-classes-mapcamera-farplaneconfiguration)
-- [MapCameraAnimation](sdk-for-ios-navigate-api-reference-classes-mapcameraanimation)
-- [– InstantiationErrorCode](sdk-for-ios-navigate-api-reference-classes-mapcameraanimation-instantiationerrorcode)
-- [MapCameraAnimationFactory](sdk-for-ios-navigate-api-reference-classes-mapcameraanimationfactory)
-- [MapCameraDelegate](sdk-for-ios-navigate-api-reference-protocols-mapcameradelegate)
-- [MapCameraKeyframeTrack](sdk-for-ios-navigate-api-reference-classes-mapcamerakeyframetrack)
-- [– InstantiationErrorCode](sdk-for-ios-navigate-api-reference-classes-mapcamerakeyframetrack-instantiationerrorcode)
-- [MapCameraLimits](sdk-for-ios-navigate-api-reference-classes-mapcameralimits)
-- [MapCameraUpdate](sdk-for-ios-navigate-api-reference-classes-mapcameraupdate)
-- [– InstantiationErrorCode](sdk-for-ios-navigate-api-reference-classes-mapcameraupdate-instantiationerrorcode)
-- [MapCameraUpdateFactory](sdk-for-ios-navigate-api-reference-classes-mapcameraupdatefactory)
-- [MapContentCategory](sdk-for-ios-navigate-api-reference-enums-mapcontentcategory)
-- [MapContentSettings](sdk-for-ios-navigate-api-reference-classes-mapcontentsettings)
-- [– TrafficRefreshPeriodErrorCode](sdk-for-ios-navigate-api-reference-classes-mapcontentsettings-trafficrefreshperioderrorcode)
-- [MapContentType](sdk-for-ios-navigate-api-reference-enums-mapcontenttype)
-- [MapContext](sdk-for-ios-navigate-api-reference-classes-mapcontext)
-- [– MemoryManagementStrategy](sdk-for-ios-navigate-api-reference-classes-mapcontext-memorymanagementstrategy)
-- [– MemoryManagementResultCode](sdk-for-ios-navigate-api-reference-classes-mapcontext-memorymanagementresultcode)
-- [– ResourceType](sdk-for-ios-navigate-api-reference-classes-mapcontext-resourcetype)
-- [– FreeResourceSeverity](sdk-for-ios-navigate-api-reference-classes-mapcontext-freeresourceseverity)
-- [– MemoryManagementResult](sdk-for-ios-navigate-api-reference-classes-mapcontext-memorymanagementresult)
-- [– MemoryManagementOptions](sdk-for-ios-navigate-api-reference-classes-mapcontext-memorymanagementoptions)
-- [MapError](sdk-for-ios-navigate-api-reference-enums-maperror)
-- [MapFeatures](sdk-for-ios-navigate-api-reference-structs-mapfeatures)
-- [MapFeatureModes](sdk-for-ios-navigate-api-reference-structs-mapfeaturemodes)
-- [MapIdleDelegate](sdk-for-ios-navigate-api-reference-protocols-mapidledelegate)
-- [MapImage](sdk-for-ios-navigate-api-reference-classes-mapimage)
-- [MapImageOverlay](sdk-for-ios-navigate-api-reference-classes-mapimageoverlay)
-- [MapItemKeyFrameTrack](sdk-for-ios-navigate-api-reference-classes-mapitemkeyframetrack)
-- [– InstantiationErrorCode](sdk-for-ios-navigate-api-reference-classes-mapitemkeyframetrack-instantiationerrorcode)
-- [MapItemRepresentation](sdk-for-ios-navigate-api-reference-maps#/s:7heresdk21MapItemRepresentationC)
-- [MapLayer](sdk-for-ios-navigate-api-reference-classes-maplayer)
-- [MapLayerBuilder](sdk-for-ios-navigate-api-reference-classes-maplayerbuilder)
-- [– InstantiationErrorCode](sdk-for-ios-navigate-api-reference-classes-maplayerbuilder-instantiationerrorcode)
-- [– InstantiationErrorDetails](sdk-for-ios-navigate-api-reference-classes-maplayerbuilder-instantiationerrordetails)
-- [MapLayerPriority](sdk-for-ios-navigate-api-reference-maps#/s:7heresdk16MapLayerPriorityC)
-- [MapLayerPriorityBuilder](sdk-for-ios-navigate-api-reference-classes-maplayerprioritybuilder)
-- [MapLayerMapMeasureDependentStorageLevels](sdk-for-ios-navigate-api-reference-classes-maplayermapmeasuredependentstoragelevels)
-- [MapLayerVisibilityRange](sdk-for-ios-navigate-api-reference-structs-maplayervisibilityrange)
-- [MapMarkerCluster](sdk-for-ios-navigate-api-reference-classes-mapmarkercluster)
-- [– Grouping](sdk-for-ios-navigate-api-reference-classes-mapmarkercluster-grouping)
-- [– ImageStyle](sdk-for-ios-navigate-api-reference-classes-mapmarkercluster-imagestyle)
-- [– CounterStyle](sdk-for-ios-navigate-api-reference-classes-mapmarkercluster-counterstyle)
-- [MapMeasureRange](sdk-for-ios-navigate-api-reference-structs-mapmeasurerange)
-- [MapObjectDescriptor](sdk-for-ios-navigate-api-reference-classes-mapobjectdescriptor)
-- [MapProjection](sdk-for-ios-navigate-api-reference-enums-mapprojection)
-- [MapSceneLights](sdk-for-ios-navigate-api-reference-classes-mapscenelights)
-- [– Category](sdk-for-ios-navigate-api-reference-classes-mapscenelights-category)
-- [– AttributeSettingError](sdk-for-ios-navigate-api-reference-classes-mapscenelights-attributesettingerror)
-- [– Direction](sdk-for-ios-navigate-api-reference-classes-mapscenelights-direction)
-- [MapSceneLoadOptions](sdk-for-ios-navigate-api-reference-maps#/s:7heresdk19MapSceneLoadOptionsC)
-- [MapSceneLoadOptionsBuilder](sdk-for-ios-navigate-api-reference-classes-mapsceneloadoptionsbuilder)
-- [– InstantiationErrorCode](sdk-for-ios-navigate-api-reference-classes-mapsceneloadoptionsbuilder-instantiationerrorcode)
-- [– InstantiationErrorDetails](sdk-for-ios-navigate-api-reference-classes-mapsceneloadoptionsbuilder-instantiationerrordetails)
-- [MapMarker](sdk-for-ios-navigate-api-reference-classes-mapmarker)
-- [– TextStyle](sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle)
-- [MapMarker3D](sdk-for-ios-navigate-api-reference-classes-mapmarker3d)
-- [MapMarker3DModel](sdk-for-ios-navigate-api-reference-classes-mapmarker3dmodel)
-- [– InstantiationErrorCode](sdk-for-ios-navigate-api-reference-classes-mapmarker3dmodel-instantiationerrorcode)
-- [MapMarkerAnimation](sdk-for-ios-navigate-api-reference-classes-mapmarkeranimation)
-- [– InstantiationErrorCode](sdk-for-ios-navigate-api-reference-classes-mapmarkeranimation-instantiationerrorcode)
-- [MapMeasure](sdk-for-ios-navigate-api-reference-structs-mapmeasure)
-- [– Kind](sdk-for-ios-navigate-api-reference-structs-mapmeasure-kind)
-- [MapMeasureDependentRenderSize](sdk-for-ios-navigate-api-reference-structs-mapmeasuredependentrendersize)
-- [– InstantiationErrorCode](sdk-for-ios-navigate-api-reference-structs-mapmeasuredependentrendersize-instantiationerrorcode)
-- [MapPolygon](sdk-for-ios-navigate-api-reference-classes-mappolygon)
-- [MapPolyline](sdk-for-ios-navigate-api-reference-classes-mappolyline)
-- [– Representation](sdk-for-ios-navigate-api-reference-classes-mappolyline-representation)
-- [– DashImageRepresentation](sdk-for-ios-navigate-api-reference-classes-mappolyline-dashimagerepresentation)
-- [– SolidRepresentation](sdk-for-ios-navigate-api-reference-classes-mappolyline-solidrepresentation)
-- [– DashRepresentation](sdk-for-ios-navigate-api-reference-classes-mappolyline-dashrepresentation)
-- [– SolidMultiColorRepresentation](sdk-for-ios-navigate-api-reference-classes-mappolyline-solidmulticolorrepresentation)
-- [MapPolylineAnimation](sdk-for-ios-navigate-api-reference-classes-mappolylineanimation)
-- [– InstantiationErrorCode](sdk-for-ios-navigate-api-reference-classes-mappolylineanimation-instantiationerrorcode)
-- [MapPickResult](sdk-for-ios-navigate-api-reference-classes-mappickresult)
-- [MapScene](sdk-for-ios-navigate-api-reference-classes-mapscene)
-- [– MapPickFilter](sdk-for-ios-navigate-api-reference-classes-mapscene-mappickfilter)
-- [MapScheme](sdk-for-ios-navigate-api-reference-enums-mapscheme)
-- [MapViewBase](sdk-for-ios-navigate-api-reference-protocols-mapviewbase)
-- [MapView](sdk-for-ios-navigate-api-reference-classes-mapview)
-- [– ViewPin](sdk-for-ios-navigate-api-reference-classes-mapview-viewpin)
-- [MapViewLifecycleDelegate](sdk-for-ios-navigate-api-reference-protocols-mapviewlifecycledelegate)
-- [MapViewOptions](sdk-for-ios-navigate-api-reference-structs-mapviewoptions)
-- [MaterialReflectivity](sdk-for-ios-navigate-api-reference-structs-materialreflectivity)
-- [Mesh](sdk-for-ios-navigate-api-reference-maps#/s:7heresdk4MeshC)
-- [MeshBuilder](sdk-for-ios-navigate-api-reference-classes-meshbuilder)
-- [PanDelegate](sdk-for-ios-navigate-api-reference-protocols-pandelegate)
-- [PickMapContentResult](sdk-for-ios-navigate-api-reference-classes-pickmapcontentresult)
-- [– TrafficIncidentResult](sdk-for-ios-navigate-api-reference-classes-pickmapcontentresult-trafficincidentresult)
-- [– VehicleRestrictionResult](sdk-for-ios-navigate-api-reference-classes-pickmapcontentresult-vehiclerestrictionresult)
-- [PickMapItemsResult](sdk-for-ios-navigate-api-reference-classes-pickmapitemsresult)
-- [PinchRotateDelegate](sdk-for-ios-navigate-api-reference-protocols-pinchrotatedelegate)
-- [PointData](sdk-for-ios-navigate-api-reference-maps#/s:7heresdk9PointDataC)
-- [PointDataAccessor](sdk-for-ios-navigate-api-reference-classes-pointdataaccessor)
-- [PointDataBuilder](sdk-for-ios-navigate-api-reference-classes-pointdatabuilder)
-- [PointDataSource](sdk-for-ios-navigate-api-reference-classes-pointdatasource)
-- [PointDataSourceBuilder](sdk-for-ios-navigate-api-reference-classes-pointdatasourcebuilder)
-- [PointTileDataSource](sdk-for-ios-navigate-api-reference-classes-pointtiledatasource)
-- [PointTileSource](sdk-for-ios-navigate-api-reference-protocols-pointtilesource)
-- [PointTileSourceLoadResultHandler](sdk-for-ios-navigate-api-reference-protocols-pointtilesourceloadresulthandler)
-- [Point2DKeyframe](sdk-for-ios-navigate-api-reference-structs-point2dkeyframe)
-- [PolygonData](sdk-for-ios-navigate-api-reference-maps#/s:7heresdk11PolygonDataC)
-- [PolygonDataAccessor](sdk-for-ios-navigate-api-reference-classes-polygondataaccessor)
-- [PolygonDataBuilder](sdk-for-ios-navigate-api-reference-classes-polygondatabuilder)
-- [PolygonDataSource](sdk-for-ios-navigate-api-reference-classes-polygondatasource)
-- [PolygonDataSourceBuilder](sdk-for-ios-navigate-api-reference-classes-polygondatasourcebuilder)
-- [PolygonTileDataSource](sdk-for-ios-navigate-api-reference-classes-polygontiledatasource)
-- [PolygonTileSource](sdk-for-ios-navigate-api-reference-protocols-polygontilesource)
-- [PolygonTileSourceLoadResultHandler](sdk-for-ios-navigate-api-reference-protocols-polygontilesourceloadresulthandler)
-- [QuadMeshBuilder](sdk-for-ios-navigate-api-reference-classes-quadmeshbuilder)
-- [RasterDataSource](sdk-for-ios-navigate-api-reference-classes-rasterdatasource)
-- [RasterDataSourceConfiguration](sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration)
-- [– Provider](sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration-provider)
-- [– Cache](sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration-cache)
-- [RasterDataSourceConfigurationUpdate](sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfigurationupdate)
-- [RasterDataSourceDelegate](sdk-for-ios-navigate-api-reference-protocols-rasterdatasourcedelegate)
-- [RasterDataSourceError](sdk-for-ios-navigate-api-reference-enums-rasterdatasourceerror)
-- [RasterTileSource](sdk-for-ios-navigate-api-reference-protocols-rastertilesource)
-- [RasterTileSourceLoadResultHandler](sdk-for-ios-navigate-api-reference-protocols-rastertilesourceloadresulthandler)
-- [RoadShieldIconProperties](sdk-for-ios-navigate-api-reference-structs-roadshieldiconproperties)
-- [RenderSize](sdk-for-ios-navigate-api-reference-structs-rendersize)
-- [– Unit](sdk-for-ios-navigate-api-reference-structs-rendersize-unit)
-- [ScalarKeyframe](sdk-for-ios-navigate-api-reference-structs-scalarkeyframe)
-- [SDKMapViewInitializer](sdk-for-ios-navigate-api-reference-classes-sdkmapviewinitializer)
-- [ShadowQuality](sdk-for-ios-navigate-api-reference-enums-shadowquality)
-- [Style](sdk-for-ios-navigate-api-reference-classes-style)
-- [TapDelegate](sdk-for-ios-navigate-api-reference-protocols-tapdelegate)
-- [TileGeoBoundsCalculator](sdk-for-ios-navigate-api-reference-classes-tilegeoboundscalculator)
-- [TileSource](sdk-for-ios-navigate-api-reference-protocols-tilesource)
-- [TileSourceDataVersion](sdk-for-ios-navigate-api-reference-structs-tilesourcedataversion)
-- [TileSourceDelegate](sdk-for-ios-navigate-api-reference-protocols-tilesourcedelegate)
-- [TileSourceLoadTileRequestHandle](sdk-for-ios-navigate-api-reference-protocols-tilesourceloadtilerequesthandle)
-- [TileSourceTileMetadata](sdk-for-ios-navigate-api-reference-structs-tilesourcetilemetadata)
-- [TileKey](sdk-for-ios-navigate-api-reference-structs-tilekey)
-- [TileUrlProviderFactory](sdk-for-ios-navigate-api-reference-classes-tileurlproviderfactory)
-- [TileUrlRequestHandler](sdk-for-ios-navigate-api-reference-maps#/s:7heresdk21TileUrlRequestHandlera)
-- [TilingScheme](sdk-for-ios-navigate-api-reference-enums-tilingscheme)
-- [TranslucentMapLayerGroup](sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup)
-- [– ErrorCode](sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup-errorcode)
-- [– ErrorDetails](sdk-for-ios-navigate-api-reference-classes-translucentmaplayergroup-errordetails)
-- [TriangleMeshBuilder](sdk-for-ios-navigate-api-reference-classes-trianglemeshbuilder)
-- [TwoFingerPanDelegate](sdk-for-ios-navigate-api-reference-protocols-twofingerpandelegate)
-- [TwoFingerTapDelegate](sdk-for-ios-navigate-api-reference-protocols-twofingertapdelegate)
-- [VisibilityState](sdk-for-ios-navigate-api-reference-enums-visibilitystate)
-- [VehicleRestrictionIconProperties](sdk-for-ios-navigate-api-reference-structs-vehiclerestrictioniconproperties)
-- [WatermarkStyle](sdk-for-ios-navigate-api-reference-enums-watermarkstyle)
+- MapMatcher
+- MatchedLocation
 
-## [Routing](sdk-for-ios-navigate-api-reference-routing)
+## sdk-for-ios-navigate-api-reference-maps
+
+### Other
+- AnimationDelegate
+- AnimationState
+- AssetsManager
+- DataAttributes
+- DataAttributesAccessor
+- DataAttributesBuilder
+- DataAttributeValue
+- – ValueType
+- DashPattern
+- DoubleTapDelegate
+- DrawOrderType
+- Easing
+- – InstantiationErrorCode
+- EasingFunction
+- GeoCoordinatesKeyframe
+- GeoOrientationKeyframe
+- GestureState
+- GestureType
+- Gestures
+- HereMap
+- IconProvider
+- IconProviderAssetType
+- IconProviderCallback
+- IconProviderError
+- ImageFormat
+- JsonStyleFactory
+- – InstantiationErrorCode
+- – InstantiationErrorDetails
+- KeyframeInterpolationMode
+- LineCap
+- LineTileDataSource
+- LineTileSource
+- LineTileSourceLoadResultHandler
+- LocationIndicator
+- – IndicatorStyle
+- – MarkerType
+- LongPressDelegate
+- MapArrow
+- MapCamera
+- – State
+- – FarPlaneConfiguration
+- MapCameraAnimation
+- – InstantiationErrorCode
+- MapCameraAnimationFactory
+- MapCameraDelegate
+- MapCameraKeyframeTrack
+- – InstantiationErrorCode
+- MapCameraLimits
+- MapCameraUpdate
+- – InstantiationErrorCode
+- MapCameraUpdateFactory
+- MapContentCategory
+- MapContentSettings
+- – TrafficRefreshPeriodErrorCode
+- MapContentType
+- MapContext
+- – MemoryManagementStrategy
+- – MemoryManagementResultCode
+- – ResourceType
+- – FreeResourceSeverity
+- – MemoryManagementResult
+- – MemoryManagementOptions
+- MapError
+- MapFeatures
+- MapFeatureModes
+- MapIdleDelegate
+- MapImage
+- MapImageOverlay
+- MapItemKeyFrameTrack
+- – InstantiationErrorCode
+- MapItemRepresentation
+- MapLayer
+- MapLayerBuilder
+- – InstantiationErrorCode
+- – InstantiationErrorDetails
+- MapLayerPriority
+- MapLayerPriorityBuilder
+- MapLayerMapMeasureDependentStorageLevels
+- MapLayerVisibilityRange
+- MapMarkerCluster
+- – Grouping
+- – ImageStyle
+- – CounterStyle
+- MapMeasureRange
+- MapObjectDescriptor
+- MapProjection
+- MapSceneLights
+- – Category
+- – AttributeSettingError
+- – Direction
+- MapSceneLoadOptions
+- MapSceneLoadOptionsBuilder
+- – InstantiationErrorCode
+- – InstantiationErrorDetails
+- MapMarker
+- – TextStyle
+- MapMarker3D
+- MapMarker3DModel
+- – InstantiationErrorCode
+- MapMarkerAnimation
+- – InstantiationErrorCode
+- MapMeasure
+- – Kind
+- MapMeasureDependentRenderSize
+- – InstantiationErrorCode
+- MapPolygon
+- MapPolyline
+- – Representation
+- – DashImageRepresentation
+- – SolidRepresentation
+- – DashRepresentation
+- – SolidMultiColorRepresentation
+- MapPolylineAnimation
+- – InstantiationErrorCode
+- MapPickResult
+- MapScene
+- – MapPickFilter
+- MapScheme
+- MapViewBase
+- MapView
+- – ViewPin
+- MapViewLifecycleDelegate
+- MapViewOptions
+- MaterialReflectivity
+- Mesh
+- MeshBuilder
+- PanDelegate
+- PickMapContentResult
+- – TrafficIncidentResult
+- – VehicleRestrictionResult
+- PickMapItemsResult
+- PinchRotateDelegate
+- PointData
+- PointDataAccessor
+- PointDataBuilder
+- PointDataSource
+- PointDataSourceBuilder
+- PointTileDataSource
+- PointTileSource
+- PointTileSourceLoadResultHandler
+- Point2DKeyframe
+- PolygonData
+- PolygonDataAccessor
+- PolygonDataBuilder
+- PolygonDataSource
+- PolygonDataSourceBuilder
+- PolygonTileDataSource
+- PolygonTileSource
+- PolygonTileSourceLoadResultHandler
+- QuadMeshBuilder
+- RasterDataSource
+- RasterDataSourceConfiguration
+- – Provider
+- – Cache
+- RasterDataSourceConfigurationUpdate
+- RasterDataSourceDelegate
+- RasterDataSourceError
+- RasterTileSource
+- RasterTileSourceLoadResultHandler
+- RoadShieldIconProperties
+- RenderSize
+- – Unit
+- ScalarKeyframe
+- SDKMapViewInitializer
+- ShadowQuality
+- Style
+- TapDelegate
+- TileGeoBoundsCalculator
+- TileSource
+- TileSourceDataVersion
+- TileSourceDelegate
+- TileSourceLoadTileRequestHandle
+- TileSourceTileMetadata
+- TileKey
+- TileUrlProviderFactory
+- TileUrlRequestHandler
+- TilingScheme
+- TranslucentMapLayerGroup
+- – ErrorCode
+- – ErrorDetails
+- TriangleMeshBuilder
+- TwoFingerPanDelegate
+- TwoFingerTapDelegate
+- VisibilityState
+- VehicleRestrictionIconProperties
+- WatermarkStyle
+
+## sdk-for-ios-navigate-api-reference-routing
 
 ### Classes
-- [FunctionalRoadClass](sdk-for-ios-navigate-api-reference-enums-functionalroadclass)
+- FunctionalRoadClass
 
 ### Protocols
-- [RoutingProtocol](sdk-for-ios-navigate-api-reference-protocols-routingprotocol)
+- RoutingProtocol
 
 ### Other
-- [AccessAttributes](sdk-for-ios-navigate-api-reference-enums-accessattributes)
-- [Agency](sdk-for-ios-navigate-api-reference-structs-agency)
-- [AllowOptions](sdk-for-ios-navigate-api-reference-structs-allowoptions)
-- [Attribution](sdk-for-ios-navigate-api-reference-structs-attribution)
-- [AttributionType](sdk-for-ios-navigate-api-reference-enums-attributiontype)
-- [AvoidanceOptions](sdk-for-ios-navigate-api-reference-structs-avoidanceoptions)
-- [AvoidBoundingBoxAreaOptions](sdk-for-ios-navigate-api-reference-structs-avoidboundingboxareaoptions)
-- [AvoidCorridorAreaOptions](sdk-for-ios-navigate-api-reference-structs-avoidcorridorareaoptions)
-- [AvoidPolygonAreaOptions](sdk-for-ios-navigate-api-reference-structs-avoidpolygonareaoptions)
-- [BatterySpecifications](sdk-for-ios-navigate-api-reference-structs-batteryspecifications)
-- [BicycleOptions](sdk-for-ios-navigate-api-reference-structs-bicycleoptions)
-- [BusOptions](sdk-for-ios-navigate-api-reference-structs-busoptions)
-- [CarOptions](sdk-for-ios-navigate-api-reference-structs-caroptions)
-- [CalculateIndoorRouteCompletionHandler](sdk-for-ios-navigate-api-reference-routing#/s:7heresdk37CalculateIndoorRouteCompletionHandlera)
-- [CalculateIsolineCompletionHandler](sdk-for-ios-navigate-api-reference-routing#/s:7heresdk33CalculateIsolineCompletionHandlera)
-- [CalculateRouteCompletionHandler](sdk-for-ios-navigate-api-reference-routing#/s:7heresdk31CalculateRouteCompletionHandlera)
-- [CalculateTrafficOnRouteCompletionHandler](sdk-for-ios-navigate-api-reference-routing#/s:7heresdk40CalculateTrafficOnRouteCompletionHandlera)
-- [ChargingActionDetails](sdk-for-ios-navigate-api-reference-structs-chargingactiondetails)
-- [ChargingConnectorAttributes](sdk-for-ios-navigate-api-reference-structs-chargingconnectorattributes)
-- [ChargingConnectorType](sdk-for-ios-navigate-api-reference-enums-chargingconnectortype)
-- [– Key](sdk-for-ios-navigate-api-reference-enums-chargingconnectortype-key)
-- [– CodingError](sdk-for-ios-navigate-api-reference-enums-chargingconnectortype-codingerror)
-- [ChargingStation](sdk-for-ios-navigate-api-reference-structs-chargingstation)
-- [ChargingStop](sdk-for-ios-navigate-api-reference-structs-chargingstop)
-- [ChargingSupplyType](sdk-for-ios-navigate-api-reference-enums-chargingsupplytype)
-- [DynamicSpeedInfo](sdk-for-ios-navigate-api-reference-structs-dynamicspeedinfo)
-- [ElectricVehicleOptions](sdk-for-ios-navigate-api-reference-structs-electricvehicleoptions)
-- [EmpiricalConsumptionModel](sdk-for-ios-navigate-api-reference-structs-empiricalconsumptionmodel)
-- [EVCarOptions](sdk-for-ios-navigate-api-reference-structs-evcaroptions)
-- [EVChargingPool](sdk-for-ios-navigate-api-reference-structs-evchargingpool)
-- [EVChargingStation](sdk-for-ios-navigate-api-reference-structs-evchargingstation)
-- [EVConsumptionModel](sdk-for-ios-navigate-api-reference-structs-evconsumptionmodel)
-- [EVMobilityServiceProviderPreferences](sdk-for-ios-navigate-api-reference-structs-evmobilityserviceproviderpreferences)
-- [EVTruckOptions](sdk-for-ios-navigate-api-reference-structs-evtruckoptions)
-- [Fare](sdk-for-ios-navigate-api-reference-structs-fare)
-- [FarePassValidityPeriod](sdk-for-ios-navigate-api-reference-structs-farepassvalidityperiod)
-- [FarePassValidityPeriodType](sdk-for-ios-navigate-api-reference-enums-farepassvalidityperiodtype)
-- [FarePrice](sdk-for-ios-navigate-api-reference-structs-fareprice)
-- [FarePriceType](sdk-for-ios-navigate-api-reference-enums-farepricetype)
-- [FareReason](sdk-for-ios-navigate-api-reference-enums-farereason)
-- [HazardousMaterial](sdk-for-ios-navigate-api-reference-enums-hazardousmaterial)
-- [IndoorAvoidanceOptions](sdk-for-ios-navigate-api-reference-structs-indooravoidanceoptions)
-- [IndoorManeuver](sdk-for-ios-navigate-api-reference-classes-indoormaneuver)
-- [IndoorRouteOptions](sdk-for-ios-navigate-api-reference-structs-indoorrouteoptions)
-- [IndoorRouteStyle](sdk-for-ios-navigate-api-reference-classes-indoorroutestyle)
-- [IndoorRoutingController](sdk-for-ios-navigate-api-reference-classes-indoorroutingcontroller)
-- [IndoorRoutingEngine](sdk-for-ios-navigate-api-reference-classes-indoorroutingengine)
-- [IndoorRoutingError](sdk-for-ios-navigate-api-reference-enums-indoorroutingerror)
-- [IndoorWaypoint](sdk-for-ios-navigate-api-reference-classes-indoorwaypoint)
-- [Isoline](sdk-for-ios-navigate-api-reference-classes-isoline)
-- [IsolineCalculationMode](sdk-for-ios-navigate-api-reference-enums-isolinecalculationmode)
-- [IsolineOptions](sdk-for-ios-navigate-api-reference-structs-isolineoptions)
-- [– Calculation](sdk-for-ios-navigate-api-reference-structs-isolineoptions-calculation)
-- [IsolineRangeType](sdk-for-ios-navigate-api-reference-enums-isolinerangetype)
-- [IsolineRoutingEngine](sdk-for-ios-navigate-api-reference-classes-isolineroutingengine)
-- [LocalizedTextPreference](sdk-for-ios-navigate-api-reference-enums-localizedtextpreference)
-- [Maneuver](sdk-for-ios-navigate-api-reference-classes-maneuver)
-- [ManeuverAction](sdk-for-ios-navigate-api-reference-enums-maneuveraction)
-- [MapDataSize](sdk-for-ios-navigate-api-reference-structs-mapdatasize)
-- [MapDataSizeListener](sdk-for-ios-navigate-api-reference-protocols-mapdatasizelistener)
-- [MapMatchedCoordinates](sdk-for-ios-navigate-api-reference-structs-mapmatchedcoordinates)
-- [MatchSideOfStreet](sdk-for-ios-navigate-api-reference-enums-matchsideofstreet)
-- [MaxAxleGroupWeight](sdk-for-ios-navigate-api-reference-structs-maxaxlegroupweight)
-- [MaxSpeedOnSegment](sdk-for-ios-navigate-api-reference-structs-maxspeedonsegment)
-- [NoticeSeverity](sdk-for-ios-navigate-api-reference-enums-noticeseverity)
-- [OfflineRoutingEngine](sdk-for-ios-navigate-api-reference-classes-offlineroutingengine)
-- [OfflineRoutingEngineOptions](sdk-for-ios-navigate-api-reference-structs-offlineroutingengineoptions)
-- [OptimizationMode](sdk-for-ios-navigate-api-reference-enums-optimizationmode)
-- [PassThroughWaypoint](sdk-for-ios-navigate-api-reference-structs-passthroughwaypoint)
-- [PaymentMethod](sdk-for-ios-navigate-api-reference-enums-paymentmethod)
-- [PedestrianOptions](sdk-for-ios-navigate-api-reference-structs-pedestrianoptions)
-- [PhysicalConsumptionModel](sdk-for-ios-navigate-api-reference-structs-physicalconsumptionmodel)
-- [PolygonPrefetcher](sdk-for-ios-navigate-api-reference-classes-polygonprefetcher)
-- [PostAction](sdk-for-ios-navigate-api-reference-structs-postaction)
-- [PostActionDelegate](sdk-for-ios-navigate-api-reference-protocols-postactiondelegate)
-- [PostActionType](sdk-for-ios-navigate-api-reference-enums-postactiontype)
-- [PreAction](sdk-for-ios-navigate-api-reference-structs-preaction)
-- [PreActionType](sdk-for-ios-navigate-api-reference-enums-preactiontype)
-- [PrefetchStatusListener](sdk-for-ios-navigate-api-reference-protocols-prefetchstatuslistener)
-- [PrivateBusOptions](sdk-for-ios-navigate-api-reference-structs-privatebusoptions)
-- [RefreshRouteOptions](sdk-for-ios-navigate-api-reference-classes-refreshrouteoptions)
-- [RoadAttributes](sdk-for-ios-navigate-api-reference-structs-roadattributes)
-- [RoadAttributesDelegate](sdk-for-ios-navigate-api-reference-protocols-roadattributesdelegate)
-- [RoadFeatures](sdk-for-ios-navigate-api-reference-enums-roadfeatures)
-- [RoadTexts](sdk-for-ios-navigate-api-reference-structs-roadtexts)
-- [Route](sdk-for-ios-navigate-api-reference-classes-route)
-- [RouteHandle](sdk-for-ios-navigate-api-reference-structs-routehandle)
-- [RouteLabel](sdk-for-ios-navigate-api-reference-structs-routelabel)
-- [RouteLabelType](sdk-for-ios-navigate-api-reference-enums-routelabeltype)
-- [RouteOffset](sdk-for-ios-navigate-api-reference-structs-routeoffset)
-- [RouteOptions](sdk-for-ios-navigate-api-reference-structs-routeoptions)
-- [RoutePlace](sdk-for-ios-navigate-api-reference-structs-routeplace)
-- [RoutePlaceDirection](sdk-for-ios-navigate-api-reference-enums-routeplacedirection)
-- [RoutePlaceType](sdk-for-ios-navigate-api-reference-enums-routeplacetype)
-- [RoutePrefetcher](sdk-for-ios-navigate-api-reference-classes-routeprefetcher)
-- [RouteRailwayCrossing](sdk-for-ios-navigate-api-reference-structs-routerailwaycrossing)
-- [RouteRailwayCrossingType](sdk-for-ios-navigate-api-reference-enums-routerailwaycrossingtype)
-- [RouteStop](sdk-for-ios-navigate-api-reference-structs-routestop)
-- [RouteTextOptions](sdk-for-ios-navigate-api-reference-structs-routetextoptions)
-- [RoutingConnectionSettings](sdk-for-ios-navigate-api-reference-structs-routingconnectionsettings)
-- [RoutingEngine](sdk-for-ios-navigate-api-reference-classes-routingengine)
-- [RoutingError](sdk-for-ios-navigate-api-reference-enums-routingerror)
-- [RoutingOptions](sdk-for-ios-navigate-api-reference-structs-routingoptions)
-- [ScooterOptions](sdk-for-ios-navigate-api-reference-structs-scooteroptions)
-- [Section](sdk-for-ios-navigate-api-reference-classes-section)
-- [SectionNotice](sdk-for-ios-navigate-api-reference-structs-sectionnotice)
-- [SectionNoticeCode](sdk-for-ios-navigate-api-reference-enums-sectionnoticecode)
-- [SectionTransportMode](sdk-for-ios-navigate-api-reference-enums-sectiontransportmode)
-- [SegmentReference](sdk-for-ios-navigate-api-reference-structs-segmentreference)
-- [SideOfDestination](sdk-for-ios-navigate-api-reference-enums-sideofdestination)
-- [Signpost](sdk-for-ios-navigate-api-reference-structs-signpost)
-- [SignpostLabel](sdk-for-ios-navigate-api-reference-structs-signpostlabel)
-- [StreetAttributes](sdk-for-ios-navigate-api-reference-enums-streetattributes)
-- [Span](sdk-for-ios-navigate-api-reference-classes-span)
-- [TaxiOptions](sdk-for-ios-navigate-api-reference-structs-taxioptions)
-- [TextUsageOptions](sdk-for-ios-navigate-api-reference-structs-textusageoptions)
-- [Toll](sdk-for-ios-navigate-api-reference-structs-toll)
-- [TollFare](sdk-for-ios-navigate-api-reference-structs-tollfare)
-- [TollFarePass](sdk-for-ios-navigate-api-reference-structs-tollfarepass)
-- [TollOptions](sdk-for-ios-navigate-api-reference-structs-tolloptions)
-- [– VehicleCategory](sdk-for-ios-navigate-api-reference-structs-tolloptions-vehiclecategory)
-- [– EmissionType](sdk-for-ios-navigate-api-reference-structs-tolloptions-emissiontype)
-- [TrafficOnRoute](sdk-for-ios-navigate-api-reference-structs-trafficonroute)
-- [TrafficOnSpan](sdk-for-ios-navigate-api-reference-structs-trafficonspan)
-- [TrafficOnSection](sdk-for-ios-navigate-api-reference-structs-trafficonsection)
-- [TransitDeparture](sdk-for-ios-navigate-api-reference-structs-transitdeparture)
-- [TransitDepartureStatus](sdk-for-ios-navigate-api-reference-enums-transitdeparturestatus)
-- [TransitIncident](sdk-for-ios-navigate-api-reference-structs-transitincident)
-- [TransitIncidentEffect](sdk-for-ios-navigate-api-reference-enums-transitincidenteffect)
-- [TransitIncidentType](sdk-for-ios-navigate-api-reference-enums-transitincidenttype)
-- [TransitMode](sdk-for-ios-navigate-api-reference-enums-transitmode)
-- [TransitModeFilter](sdk-for-ios-navigate-api-reference-enums-transitmodefilter)
-- [TrafficOptimizationMode](sdk-for-ios-navigate-api-reference-enums-trafficoptimizationmode)
-- [TransitRouteOptions](sdk-for-ios-navigate-api-reference-structs-transitrouteoptions)
-- [TransitRoutingEngine](sdk-for-ios-navigate-api-reference-classes-transitroutingengine)
-- [TransitSectionDetails](sdk-for-ios-navigate-api-reference-structs-transitsectiondetails)
-- [TransitStop](sdk-for-ios-navigate-api-reference-structs-transitstop)
-- [TransitTransport](sdk-for-ios-navigate-api-reference-structs-transittransport)
-- [TransitWaypoint](sdk-for-ios-navigate-api-reference-structs-transitwaypoint)
-- [TravelDirection](sdk-for-ios-navigate-api-reference-enums-traveldirection)
-- [TruckOptions](sdk-for-ios-navigate-api-reference-structs-truckoptions)
-- [TruckSpecifications](sdk-for-ios-navigate-api-reference-structs-truckspecifications)
-- [TruckType](sdk-for-ios-navigate-api-reference-enums-trucktype)
-- [TunnelCategory](sdk-for-ios-navigate-api-reference-enums-tunnelcategory)
-- [VehicleRestrictionMaxWeight](sdk-for-ios-navigate-api-reference-structs-vehiclerestrictionmaxweight)
-- [VehicleRestrictionMaxWeightType](sdk-for-ios-navigate-api-reference-enums-vehiclerestrictionmaxweighttype)
-- [VehicleSpecification](sdk-for-ios-navigate-api-reference-structs-vehiclespecification)
-- [– CarBuilder](sdk-for-ios-navigate-api-reference-structs-vehiclespecification-carbuilder)
-- [– TruckBuilder](sdk-for-ios-navigate-api-reference-structs-vehiclespecification-truckbuilder)
-- [– ScooterBuilder](sdk-for-ios-navigate-api-reference-structs-vehiclespecification-scooterbuilder)
-- [– TaxiBuilder](sdk-for-ios-navigate-api-reference-structs-vehiclespecification-taxibuilder)
-- [– BusBuilder](sdk-for-ios-navigate-api-reference-structs-vehiclespecification-busbuilder)
-- [– PrivateBusBuilder](sdk-for-ios-navigate-api-reference-structs-vehiclespecification-privatebusbuilder)
-- [ViolatedRestriction](sdk-for-ios-navigate-api-reference-structs-violatedrestriction)
-- [– Details](sdk-for-ios-navigate-api-reference-structs-violatedrestriction-details)
-- [WalkAttributes](sdk-for-ios-navigate-api-reference-enums-walkattributes)
-- [Waypoint](sdk-for-ios-navigate-api-reference-structs-waypoint)
-- [WaypointType](sdk-for-ios-navigate-api-reference-enums-waypointtype)
-- [ZoneCategory](sdk-for-ios-navigate-api-reference-enums-zonecategory)
+- AccessAttributes
+- Agency
+- AllowOptions
+- Attribution
+- AttributionType
+- AvoidanceOptions
+- AvoidBoundingBoxAreaOptions
+- AvoidCorridorAreaOptions
+- AvoidPolygonAreaOptions
+- BatterySpecifications
+- BicycleOptions
+- BusOptions
+- CarOptions
+- CalculateIndoorRouteCompletionHandler
+- CalculateIsolineCompletionHandler
+- CalculateRouteCompletionHandler
+- CalculateTrafficOnRouteCompletionHandler
+- ChargingActionDetails
+- ChargingConnectorAttributes
+- ChargingConnectorType
+- – Key
+- – CodingError
+- ChargingStation
+- ChargingStop
+- ChargingSupplyType
+- DynamicSpeedInfo
+- ElectricVehicleOptions
+- EmpiricalConsumptionModel
+- EVCarOptions
+- EVChargingPool
+- EVChargingStation
+- EVConsumptionModel
+- EVMobilityServiceProviderPreferences
+- EVTruckOptions
+- Fare
+- FarePassValidityPeriod
+- FarePassValidityPeriodType
+- FarePrice
+- FarePriceType
+- FareReason
+- HazardousMaterial
+- IndoorAvoidanceOptions
+- IndoorManeuver
+- IndoorRouteOptions
+- IndoorRouteStyle
+- IndoorRoutingController
+- IndoorRoutingEngine
+- IndoorRoutingError
+- IndoorWaypoint
+- Isoline
+- IsolineCalculationMode
+- IsolineOptions
+- – Calculation
+- IsolineRangeType
+- IsolineRoutingEngine
+- LocalizedTextPreference
+- Maneuver
+- ManeuverAction
+- MapDataSize
+- MapDataSizeListener
+- MapMatchedCoordinates
+- MatchSideOfStreet
+- MaxAxleGroupWeight
+- MaxSpeedOnSegment
+- NoticeSeverity
+- OfflineRoutingEngine
+- OfflineRoutingEngineOptions
+- OptimizationMode
+- PassThroughWaypoint
+- PaymentMethod
+- PedestrianOptions
+- PhysicalConsumptionModel
+- PolygonPrefetcher
+- PostAction
+- PostActionDelegate
+- PostActionType
+- PreAction
+- PreActionType
+- PrefetchStatusListener
+- PrivateBusOptions
+- RefreshRouteOptions
+- RoadAttributes
+- RoadAttributesDelegate
+- RoadFeatures
+- RoadTexts
+- Route
+- RouteHandle
+- RouteLabel
+- RouteLabelType
+- RouteOffset
+- RouteOptions
+- RoutePlace
+- RoutePlaceDirection
+- RoutePlaceType
+- RoutePrefetcher
+- RouteRailwayCrossing
+- RouteRailwayCrossingType
+- RouteStop
+- RouteTextOptions
+- RoutingConnectionSettings
+- RoutingEngine
+- RoutingError
+- RoutingOptions
+- ScooterOptions
+- Section
+- SectionNotice
+- SectionNoticeCode
+- SectionTransportMode
+- SegmentReference
+- SideOfDestination
+- Signpost
+- SignpostLabel
+- StreetAttributes
+- Span
+- TaxiOptions
+- TextUsageOptions
+- Toll
+- TollFare
+- TollFarePass
+- TollOptions
+- – VehicleCategory
+- – EmissionType
+- TrafficOnRoute
+- TrafficOnSpan
+- TrafficOnSection
+- TransitDeparture
+- TransitDepartureStatus
+- TransitIncident
+- TransitIncidentEffect
+- TransitIncidentType
+- TransitMode
+- TransitModeFilter
+- TrafficOptimizationMode
+- TransitRouteOptions
+- TransitRoutingEngine
+- TransitSectionDetails
+- TransitStop
+- TransitTransport
+- TransitWaypoint
+- TravelDirection
+- TruckOptions
+- TruckSpecifications
+- TruckType
+- TunnelCategory
+- VehicleRestrictionMaxWeight
+- VehicleRestrictionMaxWeightType
+- VehicleSpecification
+- – CarBuilder
+- – TruckBuilder
+- – ScooterBuilder
+- – TaxiBuilder
+- – BusBuilder
+- – PrivateBusBuilder
+- ViolatedRestriction
+- – Details
+- WalkAttributes
+- Waypoint
+- WaypointType
+- ZoneCategory
 
-## [Navigation](sdk-for-ios-navigate-api-reference-navigation)
+## sdk-for-ios-navigate-api-reference-navigation
 
 ### Classes
-- [RoadClassification](sdk-for-ios-navigate-api-reference-enums-roadclassification)
-- [– FunctionalRoadClassZoomPolicyOptions](sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions)
+- RoadClassification
+- – FunctionalRoadClassZoomPolicyOptions
 
 ### Protocols
-- [NavigatorProtocol](sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol)
+- NavigatorProtocol
 
 ### Other
-- [AreaCameraBehavior](sdk-for-ios-navigate-api-reference-classes-areacamerabehavior)
-- [ArrivalNotificationOption](sdk-for-ios-navigate-api-reference-enums-arrivalnotificationoption)
-- [AspectRatio](sdk-for-ios-navigate-api-reference-enums-aspectratio)
-- [AutomotiveCameraBehavior](sdk-for-ios-navigate-api-reference-classes-automotivecamerabehavior)
-- [– OrientationMode](sdk-for-ios-navigate-api-reference-classes-automotivecamerabehavior-orientationmode)
-- [– ActiveCameraType](sdk-for-ios-navigate-api-reference-classes-automotivecamerabehavior-activecameratype)
-- [BorderCrossingType](sdk-for-ios-navigate-api-reference-enums-bordercrossingtype)
-- [BorderCrossingWarning](sdk-for-ios-navigate-api-reference-structs-bordercrossingwarning)
-- [BorderCrossingWarningDelegate](sdk-for-ios-navigate-api-reference-protocols-bordercrossingwarningdelegate)
-- [BorderCrossingWarningOptions](sdk-for-ios-navigate-api-reference-structs-bordercrossingwarningoptions)
-- [CameraBehavior](sdk-for-ios-navigate-api-reference-protocols-camerabehavior)
-- [CurrentSituationLaneView](sdk-for-ios-navigate-api-reference-structs-currentsituationlaneview)
-- [CurrentSituationLaneAssistanceView](sdk-for-ios-navigate-api-reference-structs-currentsituationlaneassistanceview)
-- [CurrentSituationLaneAssistanceViewDelegate](sdk-for-ios-navigate-api-reference-protocols-currentsituationlaneassistanceviewdelegate)
-- [CustomPanningData](sdk-for-ios-navigate-api-reference-structs-custompanningdata)
-- [DangerZoneWarning](sdk-for-ios-navigate-api-reference-structs-dangerzonewarning)
-- [DangerZoneWarningDelegate](sdk-for-ios-navigate-api-reference-protocols-dangerzonewarningdelegate)
-- [DestinationReachedDelegate](sdk-for-ios-navigate-api-reference-protocols-destinationreacheddelegate)
-- [DimensionRestriction](sdk-for-ios-navigate-api-reference-structs-dimensionrestriction)
-- [DimensionRestrictionType](sdk-for-ios-navigate-api-reference-enums-dimensionrestrictiontype)
-- [DirectionInformationUsageOption](sdk-for-ios-navigate-api-reference-enums-directioninformationusageoption)
-- [DistanceType](sdk-for-ios-navigate-api-reference-enums-distancetype)
-- [DividerMarker](sdk-for-ios-navigate-api-reference-enums-dividermarker)
-- [DynamicCameraBehavior](sdk-for-ios-navigate-api-reference-classes-dynamiccamerabehavior)
-- [DynamicRoutingEngine](sdk-for-ios-navigate-api-reference-classes-dynamicroutingengine)
-- [– StartError](sdk-for-ios-navigate-api-reference-classes-dynamicroutingengine-starterror)
-- [DynamicRoutingDelegate](sdk-for-ios-navigate-api-reference-protocols-dynamicroutingdelegate)
-- [DynamicRoutingEngineOptions](sdk-for-ios-navigate-api-reference-structs-dynamicroutingengineoptions)
-- [EnvironmentalZoneWarning](sdk-for-ios-navigate-api-reference-structs-environmentalzonewarning)
-- [EnvironmentalZoneWarningDelegate](sdk-for-ios-navigate-api-reference-protocols-environmentalzonewarningdelegate)
-- [EventText](sdk-for-ios-navigate-api-reference-structs-eventtext)
-- [EventTextDelegate](sdk-for-ios-navigate-api-reference-protocols-eventtextdelegate)
-- [EventTextOptions](sdk-for-ios-navigate-api-reference-structs-eventtextoptions)
-- [FixedCameraBehavior](sdk-for-ios-navigate-api-reference-classes-fixedcamerabehavior)
-- [GeneralWarningRoadSignType](sdk-for-ios-navigate-api-reference-enums-generalwarningroadsigntype)
-- [GPXDocument](sdk-for-ios-navigate-api-reference-classes-gpxdocument)
-- [GPXOptions](sdk-for-ios-navigate-api-reference-structs-gpxoptions)
-- [GPXTrack](sdk-for-ios-navigate-api-reference-classes-gpxtrack)
-- [GPXTrackWriter](sdk-for-ios-navigate-api-reference-classes-gpxtrackwriter)
-- [InterpolatedLocationDelegate](sdk-for-ios-navigate-api-reference-protocols-interpolatedlocationdelegate)
-- [JunctionViewLaneAssistance](sdk-for-ios-navigate-api-reference-structs-junctionviewlaneassistance)
-- [JunctionViewLaneAssistanceDelegate](sdk-for-ios-navigate-api-reference-protocols-junctionviewlaneassistancedelegate)
-- [Lane](sdk-for-ios-navigate-api-reference-structs-lane)
-- [LaneAccess](sdk-for-ios-navigate-api-reference-structs-laneaccess)
-- [LaneDirection](sdk-for-ios-navigate-api-reference-enums-lanedirection)
-- [LaneDirectionCategory](sdk-for-ios-navigate-api-reference-structs-lanedirectioncategory)
-- [LaneMarkings](sdk-for-ios-navigate-api-reference-structs-lanemarkings)
-- [LaneRecommendationState](sdk-for-ios-navigate-api-reference-enums-lanerecommendationstate)
-- [LaneType](sdk-for-ios-navigate-api-reference-structs-lanetype)
-- [LowSpeedZoneWarning](sdk-for-ios-navigate-api-reference-structs-lowspeedzonewarning)
-- [LowSpeedZoneWarningDelegate](sdk-for-ios-navigate-api-reference-protocols-lowspeedzonewarningdelegate)
-- [ManeuverNotificationDetails](sdk-for-ios-navigate-api-reference-structs-maneuvernotificationdetails)
-- [ManeuverNotificationOptions](sdk-for-ios-navigate-api-reference-structs-maneuvernotificationoptions)
-- [ManeuverNotificationTimingOptions](sdk-for-ios-navigate-api-reference-structs-maneuvernotificationtimingoptions)
-- [ManeuverNotificationType](sdk-for-ios-navigate-api-reference-enums-maneuvernotificationtype)
-- [ManeuverProgress](sdk-for-ios-navigate-api-reference-structs-maneuverprogress)
-- [ManeuverViewLaneAssistance](sdk-for-ios-navigate-api-reference-structs-maneuverviewlaneassistance)
-- [ManeuverViewLaneAssistanceDelegate](sdk-for-ios-navigate-api-reference-protocols-maneuverviewlaneassistancedelegate)
-- [MapMatchedLocation](sdk-for-ios-navigate-api-reference-structs-mapmatchedlocation)
-- [Milestone](sdk-for-ios-navigate-api-reference-structs-milestone)
-- [MilestoneStatus](sdk-for-ios-navigate-api-reference-enums-milestonestatus)
-- [MilestoneStatusDelegate](sdk-for-ios-navigate-api-reference-protocols-milestonestatusdelegate)
-- [MilestoneType](sdk-for-ios-navigate-api-reference-enums-milestonetype)
-- [NaturalGuidanceType](sdk-for-ios-navigate-api-reference-enums-naturalguidancetype)
-- [NavigableLocation](sdk-for-ios-navigate-api-reference-structs-navigablelocation)
-- [NavigableLocationDelegate](sdk-for-ios-navigate-api-reference-protocols-navigablelocationdelegate)
-- [Navigator](sdk-for-ios-navigate-api-reference-classes-navigator)
-- [NotificationFormatOption](sdk-for-ios-navigate-api-reference-enums-notificationformatoption)
-- [OffRoadDestinationReachedDelegate](sdk-for-ios-navigate-api-reference-protocols-offroaddestinationreacheddelegate)
-- [OffRoadProgress](sdk-for-ios-navigate-api-reference-structs-offroadprogress)
-- [OffRoadProgressDelegate](sdk-for-ios-navigate-api-reference-protocols-offroadprogressdelegate)
-- [RealisticViewRasterImage](sdk-for-ios-navigate-api-reference-structs-realisticviewrasterimage)
-- [RealisticViewVectorImage](sdk-for-ios-navigate-api-reference-structs-realisticviewvectorimage)
-- [RealisticViewWarning](sdk-for-ios-navigate-api-reference-structs-realisticviewwarning)
-- [RealisticViewWarningDelegate](sdk-for-ios-navigate-api-reference-protocols-realisticviewwarningdelegate)
-- [RealisticViewWarningOptions](sdk-for-ios-navigate-api-reference-structs-realisticviewwarningoptions)
-- [RailwayCrossingWarning](sdk-for-ios-navigate-api-reference-structs-railwaycrossingwarning)
-- [RailwayCrossingWarningDelegate](sdk-for-ios-navigate-api-reference-protocols-railwaycrossingwarningdelegate)
-- [RoadSign](sdk-for-ios-navigate-api-reference-structs-roadsign)
-- [RoadSignCategory](sdk-for-ios-navigate-api-reference-enums-roadsigncategory)
-- [RoadSignType](sdk-for-ios-navigate-api-reference-enums-roadsigntype)
-- [RoadSignWarning](sdk-for-ios-navigate-api-reference-structs-roadsignwarning)
-- [RoadSignWarningDelegate](sdk-for-ios-navigate-api-reference-protocols-roadsignwarningdelegate)
-- [RoadSignWarningOptions](sdk-for-ios-navigate-api-reference-structs-roadsignwarningoptions)
-- [RoadSignVehicleType](sdk-for-ios-navigate-api-reference-enums-roadsignvehicletype)
-- [RoadTextsDelegate](sdk-for-ios-navigate-api-reference-protocols-roadtextsdelegate)
-- [RouteDeviation](sdk-for-ios-navigate-api-reference-structs-routedeviation)
-- [RouteDeviationDelegate](sdk-for-ios-navigate-api-reference-protocols-routedeviationdelegate)
-- [RouteMatchedLocation](sdk-for-ios-navigate-api-reference-structs-routematchedlocation)
-- [RouteProgress](sdk-for-ios-navigate-api-reference-structs-routeprogress)
-- [RouteProgressColors](sdk-for-ios-navigate-api-reference-structs-routeprogresscolors)
-- [RouteProgressDelegate](sdk-for-ios-navigate-api-reference-protocols-routeprogressdelegate)
-- [SafetyCameraType](sdk-for-ios-navigate-api-reference-enums-safetycameratype)
-- [SafetyCameraWarning](sdk-for-ios-navigate-api-reference-structs-safetycamerawarning)
-- [SafetyCameraWarningDelegate](sdk-for-ios-navigate-api-reference-protocols-safetycamerawarningdelegate)
-- [SafetyCameraWarningOptions](sdk-for-ios-navigate-api-reference-structs-safetycamerawarningoptions)
-- [SchoolZoneWarning](sdk-for-ios-navigate-api-reference-structs-schoolzonewarning)
-- [SchoolZoneWarningDelegate](sdk-for-ios-navigate-api-reference-protocols-schoolzonewarningdelegate)
-- [SchoolZoneWarningOptions](sdk-for-ios-navigate-api-reference-structs-schoolzonewarningoptions)
-- [SDKNavigationInitializer](sdk-for-ios-navigate-api-reference-classes-sdknavigationinitializer)
-- [SectionProgress](sdk-for-ios-navigate-api-reference-structs-sectionprogress)
-- [SpatialAudioCuePanning](sdk-for-ios-navigate-api-reference-classes-spatialaudiocuepanning)
-- [SpatialNotificationDetails](sdk-for-ios-navigate-api-reference-structs-spatialnotificationdetails)
-- [SpatialTrajectoryData](sdk-for-ios-navigate-api-reference-structs-spatialtrajectorydata)
-- [SpeedBasedCameraBehavior](sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior)
-- [– ProfileValue](sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior-profilevalue)
-- [SpeedLimit](sdk-for-ios-navigate-api-reference-structs-speedlimit)
-- [SpeedLimitDelegate](sdk-for-ios-navigate-api-reference-protocols-speedlimitdelegate)
-- [SpeedLimitOffset](sdk-for-ios-navigate-api-reference-structs-speedlimitoffset)
-- [SpeedWarningDelegate](sdk-for-ios-navigate-api-reference-protocols-speedwarningdelegate)
-- [SpeedWarningOptions](sdk-for-ios-navigate-api-reference-structs-speedwarningoptions)
-- [SpeedWarningStatus](sdk-for-ios-navigate-api-reference-enums-speedwarningstatus)
-- [TextNotificationType](sdk-for-ios-navigate-api-reference-enums-textnotificationtype)
-- [TimingProfile](sdk-for-ios-navigate-api-reference-enums-timingprofile)
-- [TollBooth](sdk-for-ios-navigate-api-reference-structs-tollbooth)
-- [TollBoothLane](sdk-for-ios-navigate-api-reference-structs-tollboothlane)
-- [TollCollectionMethod](sdk-for-ios-navigate-api-reference-enums-tollcollectionmethod)
-- [TollStop](sdk-for-ios-navigate-api-reference-structs-tollstop)
-- [TollStopWarningDelegate](sdk-for-ios-navigate-api-reference-protocols-tollstopwarningdelegate)
-- [TrackingCameraBehavior](sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior)
-- [– ZoomPolicy](sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-zoompolicy)
-- [– SpeedThreshold](sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-speedthreshold)
-- [– SpeedBasedZoomPolicyOptions](sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-speedbasedzoompolicyoptions)
-- [– ManeuverZoomRange](sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverzoomrange)
-- [– ManeuverRuleOptions](sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverruleoptions)
-- [– ManeuverRule](sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverrule)
-- [– ManeuverModeConfiguration](sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuvermodeconfiguration)
-- [TrafficMergeRoadType](sdk-for-ios-navigate-api-reference-enums-trafficmergeroadtype)
-- [TrafficMergeSide](sdk-for-ios-navigate-api-reference-enums-trafficmergeside)
-- [TrafficMergeWarning](sdk-for-ios-navigate-api-reference-structs-trafficmergewarning)
-- [TrafficMergeWarningDelegate](sdk-for-ios-navigate-api-reference-protocols-trafficmergewarningdelegate)
-- [TrafficMergeWarningOptions](sdk-for-ios-navigate-api-reference-structs-trafficmergewarningoptions)
-- [TrafficOnRouteColors](sdk-for-ios-navigate-api-reference-structs-trafficonroutecolors)
-- [TruckRestrictionWarning](sdk-for-ios-navigate-api-reference-structs-truckrestrictionwarning)
-- [TruckRestrictionsWarningDelegate](sdk-for-ios-navigate-api-reference-protocols-truckrestrictionswarningdelegate)
-- [TruckRestrictionsWarningOptions](sdk-for-ios-navigate-api-reference-structs-truckrestrictionswarningoptions)
-- [VisualNavigator](sdk-for-ios-navigate-api-reference-classes-visualnavigator)
-- [VisualNavigatorColors](sdk-for-ios-navigate-api-reference-classes-visualnavigatorcolors)
-- [WallClock](sdk-for-ios-navigate-api-reference-protocols-wallclock)
-- [WarningNotificationDistances](sdk-for-ios-navigate-api-reference-structs-warningnotificationdistances)
-- [WarningType](sdk-for-ios-navigate-api-reference-enums-warningtype)
-- [WeatherType](sdk-for-ios-navigate-api-reference-enums-weathertype)
-- [WeightRestriction](sdk-for-ios-navigate-api-reference-structs-weightrestriction)
-- [WeightRestrictionType](sdk-for-ios-navigate-api-reference-enums-weightrestrictiontype)
+- AreaCameraBehavior
+- ArrivalNotificationOption
+- AspectRatio
+- AutomotiveCameraBehavior
+- – OrientationMode
+- – ActiveCameraType
+- BorderCrossingType
+- BorderCrossingWarning
+- BorderCrossingWarningDelegate
+- BorderCrossingWarningOptions
+- CameraBehavior
+- CurrentSituationLaneView
+- CurrentSituationLaneAssistanceView
+- CurrentSituationLaneAssistanceViewDelegate
+- CustomPanningData
+- DangerZoneWarning
+- DangerZoneWarningDelegate
+- DestinationReachedDelegate
+- DimensionRestriction
+- DimensionRestrictionType
+- DirectionInformationUsageOption
+- DistanceType
+- DividerMarker
+- DynamicCameraBehavior
+- DynamicRoutingEngine
+- – StartError
+- DynamicRoutingDelegate
+- DynamicRoutingEngineOptions
+- EnvironmentalZoneWarning
+- EnvironmentalZoneWarningDelegate
+- EventText
+- EventTextDelegate
+- EventTextOptions
+- FixedCameraBehavior
+- GeneralWarningRoadSignType
+- GPXDocument
+- GPXOptions
+- GPXTrack
+- GPXTrackWriter
+- InterpolatedLocationDelegate
+- JunctionViewLaneAssistance
+- JunctionViewLaneAssistanceDelegate
+- Lane
+- LaneAccess
+- LaneDirection
+- LaneDirectionCategory
+- LaneMarkings
+- LaneRecommendationState
+- LaneType
+- LowSpeedZoneWarning
+- LowSpeedZoneWarningDelegate
+- ManeuverNotificationDetails
+- ManeuverNotificationOptions
+- ManeuverNotificationTimingOptions
+- ManeuverNotificationType
+- ManeuverProgress
+- ManeuverViewLaneAssistance
+- ManeuverViewLaneAssistanceDelegate
+- MapMatchedLocation
+- Milestone
+- MilestoneStatus
+- MilestoneStatusDelegate
+- MilestoneType
+- NaturalGuidanceType
+- NavigableLocation
+- NavigableLocationDelegate
+- Navigator
+- NotificationFormatOption
+- OffRoadDestinationReachedDelegate
+- OffRoadProgress
+- OffRoadProgressDelegate
+- RealisticViewRasterImage
+- RealisticViewVectorImage
+- RealisticViewWarning
+- RealisticViewWarningDelegate
+- RealisticViewWarningOptions
+- RailwayCrossingWarning
+- RailwayCrossingWarningDelegate
+- RoadSign
+- RoadSignCategory
+- RoadSignType
+- RoadSignWarning
+- RoadSignWarningDelegate
+- RoadSignWarningOptions
+- RoadSignVehicleType
+- RoadTextsDelegate
+- RouteDeviation
+- RouteDeviationDelegate
+- RouteMatchedLocation
+- RouteProgress
+- RouteProgressColors
+- RouteProgressDelegate
+- SafetyCameraType
+- SafetyCameraWarning
+- SafetyCameraWarningDelegate
+- SafetyCameraWarningOptions
+- SchoolZoneWarning
+- SchoolZoneWarningDelegate
+- SchoolZoneWarningOptions
+- SDKNavigationInitializer
+- SectionProgress
+- SpatialAudioCuePanning
+- SpatialNotificationDetails
+- SpatialTrajectoryData
+- SpeedBasedCameraBehavior
+- – ProfileValue
+- SpeedLimit
+- SpeedLimitDelegate
+- SpeedLimitOffset
+- SpeedWarningDelegate
+- SpeedWarningOptions
+- SpeedWarningStatus
+- TextNotificationType
+- TimingProfile
+- TollBooth
+- TollBoothLane
+- TollCollectionMethod
+- TollStop
+- TollStopWarningDelegate
+- TrackingCameraBehavior
+- – ZoomPolicy
+- – SpeedThreshold
+- – SpeedBasedZoomPolicyOptions
+- – ManeuverZoomRange
+- – ManeuverRuleOptions
+- – ManeuverRule
+- – ManeuverModeConfiguration
+- TrafficMergeRoadType
+- TrafficMergeSide
+- TrafficMergeWarning
+- TrafficMergeWarningDelegate
+- TrafficMergeWarningOptions
+- TrafficOnRouteColors
+- TruckRestrictionWarning
+- TruckRestrictionsWarningDelegate
+- TruckRestrictionsWarningOptions
+- VisualNavigator
+- VisualNavigatorColors
+- WallClock
+- WarningNotificationDistances
+- WarningType
+- WeatherType
+- WeightRestriction
+- WeightRestrictionType
 
-## [Search](sdk-for-ios-navigate-api-reference-search)
+## sdk-for-ios-navigate-api-reference-search
 
 ### Structs
-- [StructuredQuery](sdk-for-ios-navigate-api-reference-structs-structuredquery)
+- StructuredQuery
 
 ### Other
-- [Address](sdk-for-ios-navigate-api-reference-structs-address)
-- [AddressType](sdk-for-ios-navigate-api-reference-enums-addresstype)
-- [AddressQuery](sdk-for-ios-navigate-api-reference-structs-addressquery)
-- [AreaType](sdk-for-ios-navigate-api-reference-enums-areatype)
-- [BusinessDetails](sdk-for-ios-navigate-api-reference-structs-businessdetails)
-- [CategoryQuery](sdk-for-ios-navigate-api-reference-structs-categoryquery)
-- [– Area](sdk-for-ios-navigate-api-reference-structs-categoryquery-area)
-- [Contact](sdk-for-ios-navigate-api-reference-structs-contact)
-- [DateRange](sdk-for-ios-navigate-api-reference-structs-daterange)
-- [DayOfWeek](sdk-for-ios-navigate-api-reference-enums-dayofweek)
-- [Details](sdk-for-ios-navigate-api-reference-structs-details)
-- [EmailAddress](sdk-for-ios-navigate-api-reference-structs-emailaddress)
-- [EMobilityServiceProvider](sdk-for-ios-navigate-api-reference-structs-emobilityserviceprovider)
-- [EnergyMix](sdk-for-ios-navigate-api-reference-structs-energymix)
-- [EnergySource](sdk-for-ios-navigate-api-reference-structs-energysource)
-- [EnergySourceType](sdk-for-ios-navigate-api-reference-enums-energysourcetype)
-- [EnvironmentalImpact](sdk-for-ios-navigate-api-reference-structs-environmentalimpact)
-- [EnvironmentalImpactCategory](sdk-for-ios-navigate-api-reference-enums-environmentalimpactcategory)
-- [EVAccessRestrictionReason](sdk-for-ios-navigate-api-reference-enums-evaccessrestrictionreason)
-- [EVAccessType](sdk-for-ios-navigate-api-reference-enums-evaccesstype)
-- [EVChargingConnector](sdk-for-ios-navigate-api-reference-structs-evchargingconnector)
-- [EVChargingConnectorGroup](sdk-for-ios-navigate-api-reference-structs-evchargingconnectorgroup)
-- [EVChargingConnectorReference](sdk-for-ios-navigate-api-reference-structs-evchargingconnectorreference)
-- [EVChargingDurationRange](sdk-for-ios-navigate-api-reference-structs-evchargingdurationrange)
-- [EVChargingLocation](sdk-for-ios-navigate-api-reference-classes-evcharginglocation)
-- [EVChargingLocationFeature](sdk-for-ios-navigate-api-reference-enums-evcharginglocationfeature)
-- [EVChargingOpeningHours](sdk-for-ios-navigate-api-reference-structs-evchargingopeninghours)
-- [EVChargingOpeningHoursException](sdk-for-ios-navigate-api-reference-structs-evchargingopeninghoursexception)
-- [EVChargingOpeningHoursSchedule](sdk-for-ios-navigate-api-reference-structs-evchargingopeninghoursschedule)
-- [EVChargingOperator](sdk-for-ios-navigate-api-reference-structs-evchargingoperator)
-- [EVChargingPoolDetails](sdk-for-ios-navigate-api-reference-structs-evchargingpooldetails)
-- [EVChargingTariff](sdk-for-ios-navigate-api-reference-structs-evchargingtariff)
-- [EVChargingTariffDimension](sdk-for-ios-navigate-api-reference-enums-evchargingtariffdimension)
-- [EVChargingTariffElement](sdk-for-ios-navigate-api-reference-structs-evchargingtariffelement)
-- [EVChargingTariffElementCondition](sdk-for-ios-navigate-api-reference-structs-evchargingtariffelementcondition)
-- [EVChargingTariffPriceComponent](sdk-for-ios-navigate-api-reference-structs-evchargingtariffpricecomponent)
-- [EVChargingTariffRequest](sdk-for-ios-navigate-api-reference-structs-evchargingtariffrequest)
-- [EVChargingTariffType](sdk-for-ios-navigate-api-reference-enums-evchargingtarifftype)
-- [EVChargingTruckRestriction](sdk-for-ios-navigate-api-reference-structs-evchargingtruckrestriction)
-- [EVChargingVehicleCategory](sdk-for-ios-navigate-api-reference-enums-evchargingvehiclecategory)
-- [EVCP3SearchCompletionHandler](sdk-for-ios-navigate-api-reference-search#/s:7heresdk28EVCP3SearchCompletionHandlera)
-- [Evse](sdk-for-ios-navigate-api-reference-structs-evse)
-- [EVSearchEngine](sdk-for-ios-navigate-api-reference-classes-evsearchengine)
-- [EVSearchError](sdk-for-ios-navigate-api-reference-enums-evsearcherror)
-- [EVSearchInterface](sdk-for-ios-navigate-api-reference-protocols-evsearchinterface)
-- [EVSearchOptions](sdk-for-ios-navigate-api-reference-structs-evsearchoptions)
-- [EVSEConnector](sdk-for-ios-navigate-api-reference-structs-evseconnector)
-- [EVSEInfo](sdk-for-ios-navigate-api-reference-structs-evseinfo)
-- [EVSEStatus](sdk-for-ios-navigate-api-reference-enums-evsestatus)
-- [FacilityType](sdk-for-ios-navigate-api-reference-enums-facilitytype)
-- [FuelAdditive](sdk-for-ios-navigate-api-reference-structs-fueladditive)
-- [FuelAdditiveType](sdk-for-ios-navigate-api-reference-enums-fueladditivetype)
-- [FuelStation](sdk-for-ios-navigate-api-reference-structs-fuelstation)
-- [FuelType](sdk-for-ios-navigate-api-reference-enums-fueltype)
-- [GenericFuel](sdk-for-ios-navigate-api-reference-structs-genericfuel)
-- [GeoPlace](sdk-for-ios-navigate-api-reference-structs-geoplace)
-- [HighlightType](sdk-for-ios-navigate-api-reference-enums-highlighttype)
-- [IndexRange](sdk-for-ios-navigate-api-reference-classes-indexrange)
-- [LandlinePhone](sdk-for-ios-navigate-api-reference-structs-landlinephone)
-- [LocationDetails](sdk-for-ios-navigate-api-reference-structs-locationdetails)
-- [MobilePhone](sdk-for-ios-navigate-api-reference-structs-mobilephone)
-- [MyPlaces](sdk-for-ios-navigate-api-reference-classes-myplaces)
-- [OfflineSearchEngine](sdk-for-ios-navigate-api-reference-classes-offlinesearchengine)
-- [OfflineSearchIndex](sdk-for-ios-navigate-api-reference-classes-offlinesearchindex)
-- [– Operation](sdk-for-ios-navigate-api-reference-classes-offlinesearchindex-operation)
-- [– Error](sdk-for-ios-navigate-api-reference-classes-offlinesearchindex-error)
-- [– Options](sdk-for-ios-navigate-api-reference-classes-offlinesearchindex-options)
-- [OfflineSearchIndexListener](sdk-for-ios-navigate-api-reference-protocols-offlinesearchindexlistener)
-- [OpeningHours](sdk-for-ios-navigate-api-reference-structs-openinghours)
-- [ParkingType](sdk-for-ios-navigate-api-reference-enums-parkingtype)
-- [Place](sdk-for-ios-navigate-api-reference-classes-place)
-- [PlaceCategory](sdk-for-ios-navigate-api-reference-classes-placecategory)
-- [PlaceChain](sdk-for-ios-navigate-api-reference-structs-placechain)
-- [PlaceFilter](sdk-for-ios-navigate-api-reference-structs-placefilter)
-- [– Ev](sdk-for-ios-navigate-api-reference-structs-placefilter-ev)
-- [PlaceFoodType](sdk-for-ios-navigate-api-reference-structs-placefoodtype)
-- [PlaceIdQuery](sdk-for-ios-navigate-api-reference-structs-placeidquery)
-- [PlaceIdSearchCompletionHandler](sdk-for-ios-navigate-api-reference-search#/s:7heresdk30PlaceIdSearchCompletionHandlera)
-- [PlaceIdSearchExtendedCompletionHandler](sdk-for-ios-navigate-api-reference-search#/s:7heresdk38PlaceIdSearchExtendedCompletionHandlera)
-- [PlaceSerializationError](sdk-for-ios-navigate-api-reference-enums-placeserializationerror)
-- [PlaceSerializationException](sdk-for-ios-navigate-api-reference-search#/s:7heresdk27PlaceSerializationExceptiona)
-- [PlaceType](sdk-for-ios-navigate-api-reference-enums-placetype)
-- [POIPaymentDetails](sdk-for-ios-navigate-api-reference-structs-poipaymentdetails)
-- [POIPaymentMethod](sdk-for-ios-navigate-api-reference-structs-poipaymentmethod)
-- [ResponseDetails](sdk-for-ios-navigate-api-reference-structs-responsedetails)
-- [ScheduleDetails](sdk-for-ios-navigate-api-reference-structs-scheduledetails)
-- [SearchCompletionHandler](sdk-for-ios-navigate-api-reference-search#/s:7heresdk23SearchCompletionHandlera)
-- [SearchExtendedCompletionHandler](sdk-for-ios-navigate-api-reference-search#/s:7heresdk31SearchExtendedCompletionHandlera)
-- [SearchEngine](sdk-for-ios-navigate-api-reference-classes-searchengine)
-- [SearchError](sdk-for-ios-navigate-api-reference-enums-searcherror)
-- [SearchInterface](sdk-for-ios-navigate-api-reference-protocols-searchinterface)
-- [SearchOptions](sdk-for-ios-navigate-api-reference-structs-searchoptions)
-- [– ResultType](sdk-for-ios-navigate-api-reference-structs-structuredquery-resulttype)
-- [– AddressElements](sdk-for-ios-navigate-api-reference-structs-structuredquery-addresselements)
-- [Suggestion](sdk-for-ios-navigate-api-reference-classes-suggestion)
-- [SuggestionType](sdk-for-ios-navigate-api-reference-enums-suggestiontype)
-- [SuggestCompletionHandler](sdk-for-ios-navigate-api-reference-search#/s:7heresdk24SuggestCompletionHandlera)
-- [SuggestExtendedCompletionHandler](sdk-for-ios-navigate-api-reference-search#/s:7heresdk32SuggestExtendedCompletionHandlera)
-- [SupplierReference](sdk-for-ios-navigate-api-reference-structs-supplierreference)
-- [TextQuery](sdk-for-ios-navigate-api-reference-structs-textquery)
-- [– Area](sdk-for-ios-navigate-api-reference-structs-textquery-area)
-- [TimeOfDayRange](sdk-for-ios-navigate-api-reference-structs-timeofdayrange)
-- [TruckAmenities](sdk-for-ios-navigate-api-reference-structs-truckamenities)
-- [TruckFuel](sdk-for-ios-navigate-api-reference-structs-truckfuel)
-- [WebDetails](sdk-for-ios-navigate-api-reference-structs-webdetails)
-- [WebEditorial](sdk-for-ios-navigate-api-reference-structs-webeditorial)
-- [WebImage](sdk-for-ios-navigate-api-reference-structs-webimage)
-- [WebRating](sdk-for-ios-navigate-api-reference-structs-webrating)
-- [WebsiteAddress](sdk-for-ios-navigate-api-reference-structs-websiteaddress)
-- [WebSource](sdk-for-ios-navigate-api-reference-structs-websource)
-- [W3WSearchEngine](sdk-for-ios-navigate-api-reference-classes-w3wsearchengine)
-- [W3WSearchError](sdk-for-ios-navigate-api-reference-enums-w3wsearcherror)
-- [W3WSquare](sdk-for-ios-navigate-api-reference-structs-w3wsquare)
-- [W3WSearchCompletionHandler](sdk-for-ios-navigate-api-reference-search#/s:7heresdk26W3WSearchCompletionHandlera)
+- Address
+- AddressType
+- AddressQuery
+- AreaType
+- BusinessDetails
+- CategoryQuery
+- – Area
+- Contact
+- DateRange
+- DayOfWeek
+- Details
+- EmailAddress
+- EMobilityServiceProvider
+- EnergyMix
+- EnergySource
+- EnergySourceType
+- EnvironmentalImpact
+- EnvironmentalImpactCategory
+- EVAccessRestrictionReason
+- EVAccessType
+- EVChargingConnector
+- EVChargingConnectorGroup
+- EVChargingConnectorReference
+- EVChargingDurationRange
+- EVChargingLocation
+- EVChargingLocationFeature
+- EVChargingOpeningHours
+- EVChargingOpeningHoursException
+- EVChargingOpeningHoursSchedule
+- EVChargingOperator
+- EVChargingPoolDetails
+- EVChargingTariff
+- EVChargingTariffDimension
+- EVChargingTariffElement
+- EVChargingTariffElementCondition
+- EVChargingTariffPriceComponent
+- EVChargingTariffRequest
+- EVChargingTariffType
+- EVChargingTruckRestriction
+- EVChargingVehicleCategory
+- EVCP3SearchCompletionHandler
+- Evse
+- EVSearchEngine
+- EVSearchError
+- EVSearchInterface
+- EVSearchOptions
+- EVSEConnector
+- EVSEInfo
+- EVSEStatus
+- FacilityType
+- FuelAdditive
+- FuelAdditiveType
+- FuelStation
+- FuelType
+- GenericFuel
+- GeoPlace
+- HighlightType
+- IndexRange
+- LandlinePhone
+- LocationDetails
+- MobilePhone
+- MyPlaces
+- OfflineSearchEngine
+- OfflineSearchIndex
+- – Operation
+- – Error
+- – Options
+- OfflineSearchIndexListener
+- OpeningHours
+- ParkingType
+- Place
+- PlaceCategory
+- PlaceChain
+- PlaceFilter
+- – Ev
+- PlaceFoodType
+- PlaceIdQuery
+- PlaceIdSearchCompletionHandler
+- PlaceIdSearchExtendedCompletionHandler
+- PlaceSerializationError
+- PlaceSerializationException
+- PlaceType
+- POIPaymentDetails
+- POIPaymentMethod
+- ResponseDetails
+- ScheduleDetails
+- SearchCompletionHandler
+- SearchExtendedCompletionHandler
+- SearchEngine
+- SearchError
+- SearchInterface
+- SearchOptions
+- – ResultType
+- – AddressElements
+- Suggestion
+- SuggestionType
+- SuggestCompletionHandler
+- SuggestExtendedCompletionHandler
+- SupplierReference
+- TextQuery
+- – Area
+- TimeOfDayRange
+- TruckAmenities
+- TruckFuel
+- WebDetails
+- WebEditorial
+- WebImage
+- WebRating
+- WebsiteAddress
+- WebSource
+- W3WSearchEngine
+- W3WSearchError
+- W3WSquare
+- W3WSearchCompletionHandler
 
-## [Traffic](sdk-for-ios-navigate-api-reference-traffic)
-
-### Other
-- [TrafficDataProvider](sdk-for-ios-navigate-api-reference-traffic#/s:7heresdk19TrafficDataProviderC)
-- [TrafficEngine](sdk-for-ios-navigate-api-reference-classes-trafficengine)
-- [TrafficFlow](sdk-for-ios-navigate-api-reference-classes-trafficflow)
-- [TrafficFlowBase](sdk-for-ios-navigate-api-reference-protocols-trafficflowbase)
-- [TrafficFlowQueryOptions](sdk-for-ios-navigate-api-reference-structs-trafficflowqueryoptions)
-- [TrafficFlowQueryCompletionHandler](sdk-for-ios-navigate-api-reference-traffic#/s:7heresdk33TrafficFlowQueryCompletionHandlera)
-- [TrafficIncident](sdk-for-ios-navigate-api-reference-classes-trafficincident)
-- [– RestrictedVehicleCategory](sdk-for-ios-navigate-api-reference-classes-trafficincident-restrictedvehiclecategory)
-- [– VehicleRestriction](sdk-for-ios-navigate-api-reference-classes-trafficincident-vehiclerestriction)
-- [TrafficIncidentBase](sdk-for-ios-navigate-api-reference-protocols-trafficincidentbase)
-- [TrafficIncidentCompletionHandler](sdk-for-ios-navigate-api-reference-traffic#/s:7heresdk32TrafficIncidentCompletionHandlera)
-- [TrafficIncidentImpact](sdk-for-ios-navigate-api-reference-enums-trafficincidentimpact)
-- [TrafficIncidentLookupOptions](sdk-for-ios-navigate-api-reference-structs-trafficincidentlookupoptions)
-- [TrafficIncidentOnRoute](sdk-for-ios-navigate-api-reference-classes-trafficincidentonroute)
-- [TrafficIncidentType](sdk-for-ios-navigate-api-reference-enums-trafficincidenttype)
-- [TrafficIncidentsQueryCompletionHandler](sdk-for-ios-navigate-api-reference-traffic#/s:7heresdk38TrafficIncidentsQueryCompletionHandlera)
-- [TrafficIncidentsQueryOptions](sdk-for-ios-navigate-api-reference-structs-trafficincidentsqueryoptions)
-- [TrafficLocation](sdk-for-ios-navigate-api-reference-structs-trafficlocation)
-- [TrafficQueryError](sdk-for-ios-navigate-api-reference-enums-trafficqueryerror)
-- [Traversability](sdk-for-ios-navigate-api-reference-enums-traversability)
-
-## [TrafficRadio](sdk-for-ios-navigate-api-reference-trafficradio)
+## sdk-for-ios-navigate-api-reference-traffic
 
 ### Other
-- [TrafficBroadcast](sdk-for-ios-navigate-api-reference-classes-trafficbroadcast)
-- [TrafficBroadcastParameters](sdk-for-ios-navigate-api-reference-structs-trafficbroadcastparameters)
-- [TMCData](sdk-for-ios-navigate-api-reference-structs-tmcdata)
-- [TMCPreferredSidsRequest](sdk-for-ios-navigate-api-reference-structs-tmcpreferredsidsrequest)
-- [TMCServiceProviderInfo](sdk-for-ios-navigate-api-reference-structs-tmcserviceproviderinfo)
-- [TMCServiceRequest](sdk-for-ios-navigate-api-reference-structs-tmcservicerequest)
-- [TMCServiceInterface](sdk-for-ios-navigate-api-reference-protocols-tmcserviceinterface)
-- [RDSEncryptionKey](sdk-for-ios-navigate-api-reference-structs-rdsencryptionkey)
-- [RDSEncryptionKeysRequest](sdk-for-ios-navigate-api-reference-structs-rdsencryptionkeysrequest)
+- TrafficDataProvider
+- TrafficEngine
+- TrafficFlow
+- TrafficFlowBase
+- TrafficFlowQueryOptions
+- TrafficFlowQueryCompletionHandler
+- TrafficIncident
+- – RestrictedVehicleCategory
+- – VehicleRestriction
+- TrafficIncidentBase
+- TrafficIncidentCompletionHandler
+- TrafficIncidentImpact
+- TrafficIncidentLookupOptions
+- TrafficIncidentOnRoute
+- TrafficIncidentType
+- TrafficIncidentsQueryCompletionHandler
+- TrafficIncidentsQueryOptions
+- TrafficLocation
+- TrafficQueryError
+- Traversability
 
-## [Transport](sdk-for-ios-navigate-api-reference-transport)
+## sdk-for-ios-navigate-api-reference-trafficradio
+
+### Other
+- TrafficBroadcast
+- TrafficBroadcastParameters
+- TMCData
+- TMCPreferredSidsRequest
+- TMCServiceProviderInfo
+- TMCServiceRequest
+- TMCServiceInterface
+- RDSEncryptionKey
+- RDSEncryptionKeysRequest
+
+## sdk-for-ios-navigate-api-reference-transport
 
 ### Classes
-- [TruckClass](sdk-for-ios-navigate-api-reference-enums-truckclass)
+- TruckClass
 
 ### Other
-- [BusSpecifications](sdk-for-ios-navigate-api-reference-structs-busspecifications)
-- [CarSpecifications](sdk-for-ios-navigate-api-reference-structs-carspecifications)
-- [GeneralVehicleSpeedLimits](sdk-for-ios-navigate-api-reference-structs-generalvehiclespeedlimits)
-- [HazardousMaterialRestriction](sdk-for-ios-navigate-api-reference-structs-hazardousmaterialrestriction)
-- [PedestrianSpecification](sdk-for-ios-navigate-api-reference-structs-pedestrianspecification)
-- [RestrictionType](sdk-for-ios-navigate-api-reference-enums-restrictiontype)
-- [ScooterSpecification](sdk-for-ios-navigate-api-reference-structs-scooterspecification)
-- [SpecificRestriction](sdk-for-ios-navigate-api-reference-structs-specificrestriction)
-- [TaxiSpecification](sdk-for-ios-navigate-api-reference-structs-taxispecification)
-- [TimeRestriction](sdk-for-ios-navigate-api-reference-structs-timerestriction)
-- [– Category](sdk-for-ios-navigate-api-reference-structs-timerestriction-category)
-- [TransportMode](sdk-for-ios-navigate-api-reference-enums-transportmode)
-- [TransportSpecification](sdk-for-ios-navigate-api-reference-structs-transportspecification)
-- [– CarBuilder](sdk-for-ios-navigate-api-reference-structs-transportspecification-carbuilder)
-- [– TruckBuilder](sdk-for-ios-navigate-api-reference-structs-transportspecification-truckbuilder)
-- [– PedestrianBuilder](sdk-for-ios-navigate-api-reference-structs-transportspecification-pedestrianbuilder)
-- [– ScooterBuilder](sdk-for-ios-navigate-api-reference-structs-transportspecification-scooterbuilder)
-- [– BicycleBuilder](sdk-for-ios-navigate-api-reference-structs-transportspecification-bicyclebuilder)
-- [– TaxiBuilder](sdk-for-ios-navigate-api-reference-structs-transportspecification-taxibuilder)
-- [– BusBuilder](sdk-for-ios-navigate-api-reference-structs-transportspecification-busbuilder)
-- [– PrivateBusBuilder](sdk-for-ios-navigate-api-reference-structs-transportspecification-privatebusbuilder)
-- [TransportType](sdk-for-ios-navigate-api-reference-enums-transporttype)
-- [TruckCategory](sdk-for-ios-navigate-api-reference-enums-truckcategory)
-- [TruckRoadType](sdk-for-ios-navigate-api-reference-enums-truckroadtype)
-- [TruckFuelType](sdk-for-ios-navigate-api-reference-enums-truckfueltype)
-- [VehicleRestriction](sdk-for-ios-navigate-api-reference-structs-vehiclerestriction)
-- [VehicleType](sdk-for-ios-navigate-api-reference-enums-vehicletype)
-- [VehicleProfile](sdk-for-ios-navigate-api-reference-structs-vehicleprofile)
-- [WeightPerAxleGroup](sdk-for-ios-navigate-api-reference-structs-weightperaxlegroup)
+- BusSpecifications
+- CarSpecifications
+- GeneralVehicleSpeedLimits
+- HazardousMaterialRestriction
+- PedestrianSpecification
+- RestrictionType
+- ScooterSpecification
+- SpecificRestriction
+- TaxiSpecification
+- TimeRestriction
+- – Category
+- TransportMode
+- TransportSpecification
+- – CarBuilder
+- – TruckBuilder
+- – PedestrianBuilder
+- – ScooterBuilder
+- – BicycleBuilder
+- – TaxiBuilder
+- – BusBuilder
+- – PrivateBusBuilder
+- TransportType
+- TruckCategory
+- TruckRoadType
+- TruckFuelType
+- VehicleRestriction
+- VehicleType
+- VehicleProfile
+- WeightPerAxleGroup
 
-## [Venues](sdk-for-ios-navigate-api-reference-venues)
+## sdk-for-ios-navigate-api-reference-venues
 
 ### Classes
-- [– ClassificationStyle](sdk-for-ios-navigate-api-reference-classes-crosswalk-classificationstyle)
+- – ClassificationStyle
 
 ### Other
-- [Crosswalk](sdk-for-ios-navigate-api-reference-classes-crosswalk)
-- [Property](sdk-for-ios-navigate-api-reference-classes-property)
-- [– PropertyType](sdk-for-ios-navigate-api-reference-classes-property-propertytype)
-- [Venue](sdk-for-ios-navigate-api-reference-classes-venue)
-- [VenueDelegate](sdk-for-ios-navigate-api-reference-protocols-venuedelegate)
-- [VenueDrawing](sdk-for-ios-navigate-api-reference-classes-venuedrawing)
-- [VenueDrawingSelectionDelegate](sdk-for-ios-navigate-api-reference-protocols-venuedrawingselectiondelegate)
-- [VenueEngine](sdk-for-ios-navigate-api-reference-classes-venueengine)
-- [VenueEngineInitCompletionHandler](sdk-for-ios-navigate-api-reference-venues#/s:7heresdk32VenueEngineInitCompletionHandlera)
-- [VenueError](sdk-for-ios-navigate-api-reference-venues#/s:7heresdk10VenueErrora)
-- [VenueErrorCode](sdk-for-ios-navigate-api-reference-enums-venueerrorcode)
-- [VenueGeometry](sdk-for-ios-navigate-api-reference-classes-venuegeometry)
-- [– InternalAddress](sdk-for-ios-navigate-api-reference-classes-venuegeometry-internaladdress)
-- [– GeometryType](sdk-for-ios-navigate-api-reference-classes-venuegeometry-geometrytype)
-- [– LookupType](sdk-for-ios-navigate-api-reference-classes-venuegeometry-lookuptype)
-- [VenueGeometryFilterType](sdk-for-ios-navigate-api-reference-enums-venuegeometryfiltertype)
-- [VenueGeometryStyle](sdk-for-ios-navigate-api-reference-classes-venuegeometrystyle)
-- [VenueInfo](sdk-for-ios-navigate-api-reference-classes-venueinfo)
-- [VenueInfoDataList](sdk-for-ios-navigate-api-reference-venues#/s:7heresdk17VenueInfoDataLista)
-- [VenueInfoListListenerDelegate](sdk-for-ios-navigate-api-reference-protocols-venueinfolistlistenerdelegate)
-- [VenueLabelStyle](sdk-for-ios-navigate-api-reference-classes-venuelabelstyle)
-- [VenueLevel](sdk-for-ios-navigate-api-reference-classes-venuelevel)
-- [VenueLevelSelectionDelegate](sdk-for-ios-navigate-api-reference-protocols-venuelevelselectiondelegate)
-- [VenueLifecycleDelegate](sdk-for-ios-navigate-api-reference-protocols-venuelifecycledelegate)
-- [VenueLoadErrorHandler](sdk-for-ios-navigate-api-reference-venues#/s:7heresdk21VenueLoadErrorHandlera)
-- [VenueMap](sdk-for-ios-navigate-api-reference-classes-venuemap)
-- [VenueMapDelegate](sdk-for-ios-navigate-api-reference-protocols-venuemapdelegate)
-- [VenueMapLifecycleDelegate](sdk-for-ios-navigate-api-reference-protocols-venuemaplifecycledelegate)
-- [VenueModel](sdk-for-ios-navigate-api-reference-classes-venuemodel)
-- [VenueSelectionDelegate](sdk-for-ios-navigate-api-reference-protocols-venueselectiondelegate)
-- [VenueService](sdk-for-ios-navigate-api-reference-classes-venueservice)
-- [– VenueOptionalFeature](sdk-for-ios-navigate-api-reference-classes-venueservice-venueoptionalfeature)
-- [VenueServiceDelegate](sdk-for-ios-navigate-api-reference-protocols-venueservicedelegate)
-- [VenueServiceInitStatus](sdk-for-ios-navigate-api-reference-enums-venueserviceinitstatus)
-- [VenueStyle](sdk-for-ios-navigate-api-reference-classes-venuestyle)
-- [VenueTopology](sdk-for-ios-navigate-api-reference-classes-venuetopology)
-- [– AccessCharacteristics](sdk-for-ios-navigate-api-reference-classes-venuetopology-accesscharacteristics)
-- [– TopologyDirectionality](sdk-for-ios-navigate-api-reference-classes-venuetopology-topologydirectionality)
-- [VenueTransportMode](sdk-for-ios-navigate-api-reference-enums-venuetransportmode)
-- [– Key](sdk-for-ios-navigate-api-reference-enums-venuetransportmode-key)
-- [– CodingError](sdk-for-ios-navigate-api-reference-enums-venuetransportmode-codingerror)
+- Crosswalk
+- Property
+- – PropertyType
+- Venue
+- VenueDelegate
+- VenueDrawing
+- VenueDrawingSelectionDelegate
+- VenueEngine
+- VenueEngineInitCompletionHandler
+- VenueError
+- VenueErrorCode
+- VenueGeometry
+- – InternalAddress
+- – GeometryType
+- – LookupType
+- VenueGeometryFilterType
+- VenueGeometryStyle
+- VenueInfo
+- VenueInfoDataList
+- VenueInfoListListenerDelegate
+- VenueLabelStyle
+- VenueLevel
+- VenueLevelSelectionDelegate
+- VenueLifecycleDelegate
+- VenueLoadErrorHandler
+- VenueMap
+- VenueMapDelegate
+- VenueMapLifecycleDelegate
+- VenueModel
+- VenueSelectionDelegate
+- VenueService
+- – VenueOptionalFeature
+- VenueServiceDelegate
+- VenueServiceInitStatus
+- VenueStyle
+- VenueTopology
+- – AccessCharacteristics
+- – TopologyDirectionality
+- VenueTransportMode
+- – Key
+- – CodingError
 
-## [WarnerEngine](sdk-for-ios-navigate-api-reference-warnerengine)
+## sdk-for-ios-navigate-api-reference-warnerengine
 
 ### Other
-- [CustomWarning](sdk-for-ios-navigate-api-reference-structs-customwarning)
-- [CustomWarningProvider](sdk-for-ios-navigate-api-reference-protocols-customwarningprovider)
-- [Warning](sdk-for-ios-navigate-api-reference-structs-warning)
-- [WarnerEngine](sdk-for-ios-navigate-api-reference-classes-warnerengine)
-- [WarningDelegate](sdk-for-ios-navigate-api-reference-protocols-warningdelegate)
-- [WarningOptions](sdk-for-ios-navigate-api-reference-structs-warningoptions)
-- [WarningsRegistry](sdk-for-ios-navigate-api-reference-classes-warningsregistry)
-
-## Support
-
-For questions or feedback, contact HERE.
+- CustomWarning
+- CustomWarningProvider
+- Warning
+- WarnerEngine
+- WarningDelegate
+- WarningOptions
+- WarningsRegistry

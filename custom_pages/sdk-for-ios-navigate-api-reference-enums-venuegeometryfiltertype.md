@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueGeometryFilterType"
 slug: "sdk-for-ios-navigate-api-reference-enums-venuegeometryfiltertype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueGeometryFilterType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -153,6 +151,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-venuegeometryfiltertype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

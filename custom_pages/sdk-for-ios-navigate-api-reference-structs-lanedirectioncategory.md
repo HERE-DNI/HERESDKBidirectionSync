@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / LaneDirectionCategory"
 slug: "sdk-for-ios-navigate-api-reference-structs-lanedirectioncategory"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LaneDirectionCategory.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -307,6 +305,5 @@ lanes mostly never contain a direction category and thus, all members are <code>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

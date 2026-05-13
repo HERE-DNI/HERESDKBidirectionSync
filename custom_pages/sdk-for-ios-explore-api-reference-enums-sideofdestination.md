@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / SideOfDestination"
 slug: "sdk-for-ios-explore-api-reference-enums-sideofdestination"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SideOfDestination.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-sideofdestination"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

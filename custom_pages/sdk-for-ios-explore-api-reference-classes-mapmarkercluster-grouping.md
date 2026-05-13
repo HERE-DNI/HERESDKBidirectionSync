@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapMarkerCluster / Grouping"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-grouping"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Grouping.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -132,6 +130,5 @@ single map marker entry for markers being part of cluster but spread enough not 
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

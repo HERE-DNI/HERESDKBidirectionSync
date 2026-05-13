@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / FarePrice"
 slug: "sdk-for-ios-explore-api-reference-structs-fareprice"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- FarePrice.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -265,6 +263,5 @@ Defaults to 0.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

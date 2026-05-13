@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "StructuredQuery / AddressElements"
 slug: "sdk-for-ios-navigate-api-reference-structs-structuredquery-addresselements"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AddressElements.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -184,6 +182,5 @@ consider providing city along with it.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

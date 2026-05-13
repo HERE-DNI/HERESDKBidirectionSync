@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / OfflineSearchIndexListener"
 slug: "sdk-for-ios-navigate-api-reference-protocols-offlinesearchindexlistener"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- OfflineSearchIndexListener.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -198,6 +196,5 @@ It is <code>nil</code> for an operation that succeeds.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

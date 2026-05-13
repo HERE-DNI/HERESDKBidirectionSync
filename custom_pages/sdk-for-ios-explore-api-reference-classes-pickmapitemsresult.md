@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / PickMapItemsResult"
 slug: "sdk-for-ios-explore-api-reference-classes-pickmapitemsresult"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PickMapItemsResult.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -181,6 +179,5 @@ or individual markers belonging to a cluster at the location of picking.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

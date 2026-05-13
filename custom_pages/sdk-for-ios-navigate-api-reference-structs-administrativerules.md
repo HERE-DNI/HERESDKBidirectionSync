@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / AdministrativeRules"
 slug: "sdk-for-ios-navigate-api-reference-structs-administrativerules"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AdministrativeRules.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -575,6 +573,5 @@ all types of drivers.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

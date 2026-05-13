@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueInfoListListenerDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-venueinfolistlistenerdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueInfoListListenerDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -99,6 +97,5 @@ to add and remove the <code>VenueInfoListListenerDelegate</code>.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / LineCap"
 slug: "sdk-for-ios-explore-api-reference-enums-linecap"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LineCap.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-linecap"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

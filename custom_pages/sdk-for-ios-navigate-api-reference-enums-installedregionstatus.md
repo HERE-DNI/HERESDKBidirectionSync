@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / InstalledRegionStatus"
 slug: "sdk-for-ios-navigate-api-reference-enums-installedregionstatus"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- InstalledRegionStatus.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -108,6 +106,5 @@ resumed with the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ma
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

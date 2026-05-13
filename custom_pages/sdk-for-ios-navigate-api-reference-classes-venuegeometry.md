@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueGeometry"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuegeometry"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueGeometry.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -518,6 +516,5 @@ But each of them will have the same internal address.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

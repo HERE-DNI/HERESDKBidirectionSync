@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "ElectronicHorizon / ElectronicHorizonSegment"
 slug: "sdk-for-ios-navigate-api-reference-structs-electronichorizonsegment"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ElectronicHorizonSegment.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -207,6 +205,5 @@ The list can be empty when no side paths branch off at this segment.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

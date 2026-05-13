@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / PostActionDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-postactiondelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PostActionDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -99,6 +97,5 @@ receive post action notifications.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapMeasureDependentRenderSize"
 slug: "sdk-for-ios-navigate-api-reference-structs-mapmeasuredependentrendersize"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapMeasureDependentRenderSize.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -318,6 +316,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-mapmeasuredependentrendersize"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

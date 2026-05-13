@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / WalkAttributes"
 slug: "sdk-for-ios-explore-api-reference-enums-walkattributes"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- WalkAttributes.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -203,6 +201,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-walkattributes"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

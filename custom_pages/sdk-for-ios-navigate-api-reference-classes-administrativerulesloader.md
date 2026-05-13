@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / AdministrativeRulesLoader"
 slug: "sdk-for-ios-navigate-api-reference-classes-administrativerulesloader"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AdministrativeRulesLoader.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -270,6 +268,5 @@ state.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

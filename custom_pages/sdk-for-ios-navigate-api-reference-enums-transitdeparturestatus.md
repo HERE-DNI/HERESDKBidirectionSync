@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TransitDepartureStatus"
 slug: "sdk-for-ios-navigate-api-reference-enums-transitdeparturestatus"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TransitDepartureStatus.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -155,6 +153,5 @@ additional trip, for example, to replace a broken vehicle or handle detour.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

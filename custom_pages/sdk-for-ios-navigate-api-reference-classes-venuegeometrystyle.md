@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueGeometryStyle"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuegeometrystyle"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueGeometryStyle.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -225,6 +223,5 @@ has not been set for this style.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

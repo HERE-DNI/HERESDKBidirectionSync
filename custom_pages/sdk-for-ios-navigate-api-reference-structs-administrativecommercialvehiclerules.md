@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Structures / AdministrativeCommercialVehicleRules"
 slug: "sdk-for-ios-navigate-api-reference-structs-administrativecommercialvehiclerules"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AdministrativeCommercialVehicleRules.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -182,6 +180,5 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

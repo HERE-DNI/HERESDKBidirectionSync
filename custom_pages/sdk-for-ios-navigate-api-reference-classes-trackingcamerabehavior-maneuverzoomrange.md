@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TrackingCameraBehavior / ManeuverZoomRange"
 slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverzoomrange"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ManeuverZoomRange.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -136,6 +134,5 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

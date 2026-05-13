@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / TimingProfile"
 slug: "sdk-for-ios-navigate-api-reference-enums-timingprofile"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TimingProfile.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -134,6 +132,5 @@ greater than 27.78 meters/second (aproximately 100 kilometer/hour) or no speed l
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

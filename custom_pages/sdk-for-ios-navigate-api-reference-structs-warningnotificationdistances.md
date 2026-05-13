@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / WarningNotificationDistances"
 slug: "sdk-for-ios-navigate-api-reference-structs-warningnotificationdistances"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- WarningNotificationDistances.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -162,6 +160,5 @@ Defaults to 1500 meters.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

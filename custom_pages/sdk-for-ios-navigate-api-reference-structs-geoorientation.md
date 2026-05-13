@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / GeoOrientation"
 slug: "sdk-for-ios-navigate-api-reference-structs-geoorientation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GeoOrientation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -159,6 +157,5 @@ Bearing axis is perpendicular to the ground and passes through the target coordi
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

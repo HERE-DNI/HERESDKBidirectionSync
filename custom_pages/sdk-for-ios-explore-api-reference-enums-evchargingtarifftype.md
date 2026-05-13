@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVChargingTariffType"
 slug: "sdk-for-ios-explore-api-reference-enums-evchargingtarifftype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVChargingTariffType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -130,6 +128,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

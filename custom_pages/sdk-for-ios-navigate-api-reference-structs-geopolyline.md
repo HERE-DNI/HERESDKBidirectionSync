@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / GeoPolyline"
 slug: "sdk-for-ios-navigate-api-reference-structs-geopolyline"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GeoPolyline.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -297,6 +295,5 @@ they may adapt the result to the length of the underlying object described by th
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

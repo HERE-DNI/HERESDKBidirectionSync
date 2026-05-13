@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "ElectronicHorizon / ElectronicHorizonEngine"
 slug: "sdk-for-ios-navigate-api-reference-classes-electronichorizonengine"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ElectronicHorizonEngine.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -311,6 +309,5 @@ intermediate locations are skipped and only the last location is processed.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

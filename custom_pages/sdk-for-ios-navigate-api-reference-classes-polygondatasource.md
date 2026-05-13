@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / PolygonDataSource"
 slug: "sdk-for-ios-navigate-api-reference-classes-polygondatasource"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PolygonDataSource.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -313,6 +311,5 @@ The inspector cannot update the polygon data.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

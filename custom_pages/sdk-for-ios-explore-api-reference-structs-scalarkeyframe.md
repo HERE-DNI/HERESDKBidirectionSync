@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / ScalarKeyframe"
 slug: "sdk-for-ios-explore-api-reference-structs-scalarkeyframe"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ScalarKeyframe.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -161,6 +159,5 @@ Negative duration value gets clamped to 0.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

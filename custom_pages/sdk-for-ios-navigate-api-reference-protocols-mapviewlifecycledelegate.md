@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapViewLifecycleDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-mapviewlifecycledelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapViewLifecycleDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -238,6 +236,5 @@ This should be used to make sure all resources are freed.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

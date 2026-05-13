@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / CatalogUpdateState"
 slug: "sdk-for-ios-navigate-api-reference-enums-catalogupdatestate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CatalogUpdateState.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -156,6 +154,5 @@ Other catalogs will be set to UPDATE_BLOCKED_AS_ANOTHER_PENDING until the update
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

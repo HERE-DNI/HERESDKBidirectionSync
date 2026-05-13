@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Transport / TransportMode"
 slug: "sdk-for-ios-navigate-api-reference-enums-transportmode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TransportMode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -293,6 +291,5 @@ This transport mode does not have the access to the bus-only lane/road.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

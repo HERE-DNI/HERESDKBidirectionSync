@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapContext / MemoryManagementOptions"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MemoryManagementOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -167,6 +165,5 @@ Default value is <code>nil</code>.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

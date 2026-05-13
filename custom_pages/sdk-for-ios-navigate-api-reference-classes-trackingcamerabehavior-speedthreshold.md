@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TrackingCameraBehavior / SpeedThreshold"
 slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-speedthreshold"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SpeedThreshold.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -133,6 +131,5 @@ subject to change without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

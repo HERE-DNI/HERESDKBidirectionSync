@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "OfflineSearchIndex / Options"
 slug: "sdk-for-ios-navigate-api-reference-classes-offlinesearchindex-options"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Options.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -105,6 +103,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-offlinesearchindex-options"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

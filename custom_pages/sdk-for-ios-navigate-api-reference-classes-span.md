@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / Span"
 slug: "sdk-for-ios-navigate-api-reference-classes-span"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Span.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -672,6 +670,5 @@ The results are based on country code and state code of <code>Span</code> object
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

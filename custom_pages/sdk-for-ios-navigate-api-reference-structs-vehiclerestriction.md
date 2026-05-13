@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Transport / VehicleRestriction"
 slug: "sdk-for-ios-navigate-api-reference-structs-vehiclerestriction"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VehicleRestriction.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -346,6 +344,5 @@ Examples:</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

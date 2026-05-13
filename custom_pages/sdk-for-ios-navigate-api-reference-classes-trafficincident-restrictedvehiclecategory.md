@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TrafficIncident / RestrictedVehicleCategory"
 slug: "sdk-for-ios-navigate-api-reference-classes-trafficincident-restrictedvehiclecategory"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RestrictedVehicleCategory.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -386,6 +384,5 @@ that does not operate on rails and is used for the transportation of people or c
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

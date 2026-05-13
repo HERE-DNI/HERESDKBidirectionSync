@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / InterpolatedLocationDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-interpolatedlocationdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- InterpolatedLocationDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -102,6 +100,5 @@ The interpolated locations are only provided between <code><a href="../Classes/V
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

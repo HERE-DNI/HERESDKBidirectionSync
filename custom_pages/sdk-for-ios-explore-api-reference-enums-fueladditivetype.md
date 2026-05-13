@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / FuelAdditiveType"
 slug: "sdk-for-ios-explore-api-reference-enums-fueladditivetype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- FuelAdditiveType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -82,6 +80,5 @@ the NOx emission. AU 32 is also known as ARLA 32 or HWL.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

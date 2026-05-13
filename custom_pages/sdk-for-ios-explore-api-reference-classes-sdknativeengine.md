@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / SDKNativeEngine"
 slug: "sdk-for-ios-explore-api-reference-classes-sdknativeengine"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SDKNativeEngine.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -682,6 +680,5 @@ This device ID is primarily used for tracking Monthly Active Users (MAUs).</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

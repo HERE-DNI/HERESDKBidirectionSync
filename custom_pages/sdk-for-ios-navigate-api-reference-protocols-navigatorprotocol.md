@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / NavigatorProtocol"
 slug: "sdk-for-ios-navigate-api-reference-protocols-navigatorprotocol"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- NavigatorProtocol.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -1696,6 +1694,5 @@ Undocumented options can change their meaning without going through deprecation 
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

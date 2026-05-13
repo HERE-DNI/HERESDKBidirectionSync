@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / RouteMatchedLocation"
 slug: "sdk-for-ios-navigate-api-reference-structs-routematchedlocation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RouteMatchedLocation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -193,6 +191,5 @@ allowing for interpolation between vertices if needed.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

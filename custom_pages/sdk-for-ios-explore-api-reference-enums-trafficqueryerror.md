@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Traffic / TrafficQueryError"
 slug: "sdk-for-ios-explore-api-reference-enums-trafficqueryerror"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficQueryError.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -533,6 +531,5 @@ and client should slow down or wait before sending more requests.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

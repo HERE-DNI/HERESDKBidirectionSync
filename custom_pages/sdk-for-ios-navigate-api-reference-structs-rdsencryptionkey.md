@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TrafficRadio / RDSEncryptionKey"
 slug: "sdk-for-ios-navigate-api-reference-structs-rdsencryptionkey"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RDSEncryptionKey.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -179,6 +177,5 @@ Fields allocation information is described in CEN ISO/CD 14819-6.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

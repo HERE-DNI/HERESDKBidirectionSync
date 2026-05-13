@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "ElectronicHorizon / ElectronicHorizonDataLoaderErrorCode"
 slug: "sdk-for-ios-navigate-api-reference-enums-electronichorizondataloadererrorcode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ElectronicHorizonDataLoaderErrorCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -106,6 +104,5 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

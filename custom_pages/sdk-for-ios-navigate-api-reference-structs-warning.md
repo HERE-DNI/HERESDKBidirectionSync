@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "WarnerEngine / Warning"
 slug: "sdk-for-ios-navigate-api-reference-structs-warning"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Warning.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -201,6 +199,5 @@ to retrieve additional information from a corresponding registry.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

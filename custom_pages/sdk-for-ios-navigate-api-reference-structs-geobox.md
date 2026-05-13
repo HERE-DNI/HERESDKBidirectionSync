@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / GeoBox"
 slug: "sdk-for-ios-navigate-api-reference-structs-geobox"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GeoBox.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -627,6 +625,5 @@ Throws an InstantiationError if it is not possible to create a valid
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

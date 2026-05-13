@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / LocalizedRoadNumber"
 slug: "sdk-for-ios-navigate-api-reference-structs-localizedroadnumber"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LocalizedRoadNumber.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -189,6 +187,5 @@ In case direction is empty, the original localized text will be returned.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

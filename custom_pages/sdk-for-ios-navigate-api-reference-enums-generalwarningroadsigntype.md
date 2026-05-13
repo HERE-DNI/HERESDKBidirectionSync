@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / GeneralWarningRoadSignType"
 slug: "sdk-for-ios-navigate-api-reference-enums-generalwarningroadsigntype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GeneralWarningRoadSignType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -178,6 +176,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-generalwarningroadsigntype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / PassThroughWaypoint"
 slug: "sdk-for-ios-explore-api-reference-structs-passthroughwaypoint"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PassThroughWaypoint.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -129,6 +127,5 @@ slug: "sdk-for-ios-explore-api-reference-structs-passthroughwaypoint"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

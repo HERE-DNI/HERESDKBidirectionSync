@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueEngine"
 slug: "sdk-for-ios-navigate-api-reference-classes-venueengine"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueEngine.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -348,6 +346,5 @@ this method.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

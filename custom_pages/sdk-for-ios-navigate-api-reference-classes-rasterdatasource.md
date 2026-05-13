@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / RasterDataSource"
 slug: "sdk-for-ios-navigate-api-reference-classes-rasterdatasource"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RasterDataSource.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -513,6 +511,5 @@ the strong reference by calling <code><a href="../Classes/RasterDataSource.html#
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

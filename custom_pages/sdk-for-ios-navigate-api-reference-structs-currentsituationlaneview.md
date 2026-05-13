@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / CurrentSituationLaneView"
 slug: "sdk-for-ios-navigate-api-reference-structs-currentsituationlaneview"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CurrentSituationLaneView.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -231,6 +229,5 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

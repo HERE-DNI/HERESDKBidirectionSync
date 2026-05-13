@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / RouteLabel"
 slug: "sdk-for-ios-explore-api-reference-structs-routelabel"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RouteLabel.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -129,6 +127,5 @@ To include route labels in the route response, enable it using <code><a href="..
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

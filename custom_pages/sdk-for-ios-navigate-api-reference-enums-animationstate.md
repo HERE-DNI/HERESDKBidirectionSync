@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / AnimationState"
 slug: "sdk-for-ios-navigate-api-reference-enums-animationstate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AnimationState.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-animationstate"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

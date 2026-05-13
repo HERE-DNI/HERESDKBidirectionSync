@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / ParkingSideRegulation"
 slug: "sdk-for-ios-navigate-api-reference-enums-parkingsideregulation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ParkingSideRegulation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -104,6 +102,5 @@ lane in each.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

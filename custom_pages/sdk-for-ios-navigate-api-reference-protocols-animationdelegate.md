@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / AnimationDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-animationdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AnimationDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -97,6 +95,5 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-animationdelegate"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

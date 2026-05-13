@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / LocationDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-locationdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LocationDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -105,6 +103,5 @@ Invoked on the main thread.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

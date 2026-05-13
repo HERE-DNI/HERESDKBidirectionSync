@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / GenericFuel"
 slug: "sdk-for-ios-explore-api-reference-structs-genericfuel"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GenericFuel.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -131,6 +129,5 @@ The list can be empty when no fuel additives are available or when the informati
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

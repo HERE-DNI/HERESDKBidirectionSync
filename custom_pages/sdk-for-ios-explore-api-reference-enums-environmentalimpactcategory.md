@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EnvironmentalImpactCategory"
 slug: "sdk-for-ios-explore-api-reference-enums-environmentalimpactcategory"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EnvironmentalImpactCategory.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -106,6 +104,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

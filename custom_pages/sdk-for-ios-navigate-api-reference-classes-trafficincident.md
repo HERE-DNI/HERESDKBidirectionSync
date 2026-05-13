@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Traffic / TrafficIncident"
 slug: "sdk-for-ios-navigate-api-reference-classes-trafficincident"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficIncident.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -504,6 +502,5 @@ and at least one of the vehicle properties is under the matching <code><a href="
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

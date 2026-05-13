@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / ExternalMapDataSourceErrorCode"
 slug: "sdk-for-ios-navigate-api-reference-enums-externalmapdatasourceerrorcode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ExternalMapDataSourceErrorCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -208,6 +206,5 @@ Make sense only on client side</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / EVMobilityServiceProviderPreferences"
 slug: "sdk-for-ios-explore-api-reference-structs-evmobilityserviceproviderpreferences"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVMobilityServiceProviderPreferences.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -158,6 +156,5 @@ Defaults to using all available providers with no prioritization.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

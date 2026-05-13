@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / GeoPolygon"
 slug: "sdk-for-ios-explore-api-reference-structs-geopolygon"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GeoPolygon.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -306,6 +304,5 @@ The corner coordinates defined by the <code><a href="sdk-for-ios-explore-api-ref
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

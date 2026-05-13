@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "ElectronicHorizon / ElectronicHorizonSegmentId"
 slug: "sdk-for-ios-navigate-api-reference-structs-electronichorizonsegmentid"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ElectronicHorizonSegmentId.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -134,6 +132,5 @@ In other cases, this value is <code>nil</code>.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

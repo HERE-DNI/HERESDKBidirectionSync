@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / SslServerCredentialsOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-sslservercredentialsoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SslServerCredentialsOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -156,6 +154,5 @@ At least one pair must be provided.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

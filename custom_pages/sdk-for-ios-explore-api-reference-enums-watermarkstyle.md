@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / WatermarkStyle"
 slug: "sdk-for-ios-explore-api-reference-enums-watermarkstyle"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- WatermarkStyle.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -105,6 +103,5 @@ night or satellite based).</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

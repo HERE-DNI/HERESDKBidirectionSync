@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / ChargingSupplyType"
 slug: "sdk-for-ios-explore-api-reference-enums-chargingsupplytype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ChargingSupplyType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingsupplytype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

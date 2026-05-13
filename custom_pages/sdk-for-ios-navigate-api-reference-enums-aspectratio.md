@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / AspectRatio"
 slug: "sdk-for-ios-navigate-api-reference-enums-aspectratio"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AspectRatio.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-aspectratio"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

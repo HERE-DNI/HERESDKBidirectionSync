@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / WebDetails"
 slug: "sdk-for-ios-explore-api-reference-structs-webdetails"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- WebDetails.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -159,6 +157,5 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

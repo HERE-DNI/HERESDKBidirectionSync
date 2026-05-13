@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / EngineOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-engineoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EngineOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -136,6 +134,5 @@ or retrieved via key/secret from a dedicated backend.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / TruckFuel"
 slug: "sdk-for-ios-explore-api-reference-structs-truckfuel"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TruckFuel.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -129,6 +127,5 @@ Note: This is a BETA feature and thus subject to change.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

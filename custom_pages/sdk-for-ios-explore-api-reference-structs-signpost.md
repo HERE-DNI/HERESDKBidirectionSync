@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / Signpost"
 slug: "sdk-for-ios-explore-api-reference-structs-signpost"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Signpost.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-explore-api-reference-structs-signpost"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

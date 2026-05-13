@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / RouteProgress"
 slug: "sdk-for-ios-navigate-api-reference-structs-routeprogress"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RouteProgress.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -238,6 +236,5 @@ destination.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

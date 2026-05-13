@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / RouteTextOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-routetextoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RouteTextOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -156,6 +154,5 @@ Defaults to each attribute as <code><a href="../Enums/LocalizedTextPreference.ht
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

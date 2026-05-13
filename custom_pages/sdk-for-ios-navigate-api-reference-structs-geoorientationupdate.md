@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / GeoOrientationUpdate"
 slug: "sdk-for-ios-navigate-api-reference-structs-geoorientationupdate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GeoOrientationUpdate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -209,6 +207,5 @@ NaN value is converted to <code>nil</code>.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

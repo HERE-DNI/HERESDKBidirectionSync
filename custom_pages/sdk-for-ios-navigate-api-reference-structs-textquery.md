@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / TextQuery"
 slug: "sdk-for-ios-navigate-api-reference-structs-textquery"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TextQuery.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -213,6 +211,5 @@ restricts the results to only POIs.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

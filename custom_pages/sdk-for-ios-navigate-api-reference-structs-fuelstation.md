@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / FuelStation"
 slug: "sdk-for-ios-navigate-api-reference-structs-fuelstation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- FuelStation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -185,6 +183,5 @@ The list can be empty when no truck fuels are offered or when the information is
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

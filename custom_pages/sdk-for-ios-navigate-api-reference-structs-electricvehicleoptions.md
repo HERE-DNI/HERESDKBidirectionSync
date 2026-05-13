@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / ElectricVehicleOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-electricvehicleoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ElectricVehicleOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -277,6 +275,5 @@ By default, it is set to <code>nil</code>.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

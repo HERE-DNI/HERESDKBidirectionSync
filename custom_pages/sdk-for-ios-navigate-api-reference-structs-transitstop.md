@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TransitStop"
 slug: "sdk-for-ios-navigate-api-reference-structs-transitstop"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TransitStop.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -130,6 +128,5 @@ Defaults to <code>nil</code>.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

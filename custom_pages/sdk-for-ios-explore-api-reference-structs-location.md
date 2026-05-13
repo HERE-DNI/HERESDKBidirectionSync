@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / Location"
 slug: "sdk-for-ios-explore-api-reference-structs-location"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Location.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -424,6 +422,5 @@ If it cannot be determined, the value is <code>nil</code>.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

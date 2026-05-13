@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapContext / ResourceType"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapcontext-resourcetype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ResourceType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -80,6 +78,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapcontext-resourcetype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / WarningType"
 slug: "sdk-for-ios-navigate-api-reference-enums-warningtype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- WarningType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -403,6 +401,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-warningtype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

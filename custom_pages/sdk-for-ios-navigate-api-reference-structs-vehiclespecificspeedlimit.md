@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Structures / VehicleSpecificSpeedLimit"
 slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecificspeedlimit"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VehicleSpecificSpeedLimit.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -182,6 +180,5 @@ A <code>nil</code> value means the speed limit is not affected by the BUA overri
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

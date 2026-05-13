@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / Section"
 slug: "sdk-for-ios-navigate-api-reference-classes-section"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Section.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -629,6 +627,5 @@ This area will be set only if <code>origin</code>, <code>destination</code> or <
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

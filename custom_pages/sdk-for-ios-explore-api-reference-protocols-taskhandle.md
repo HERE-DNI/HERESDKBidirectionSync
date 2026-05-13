@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / TaskHandle"
 slug: "sdk-for-ios-explore-api-reference-protocols-taskhandle"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TaskHandle.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -135,6 +133,5 @@ platform dependent reason.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TextStyle / Placement"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle-placement"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Placement.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -282,6 +280,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle-placement"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

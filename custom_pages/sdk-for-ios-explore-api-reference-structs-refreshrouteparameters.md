@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Structures / RefreshRouteParameters"
 slug: "sdk-for-ios-explore-api-reference-structs-refreshrouteparameters"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RefreshRouteParameters.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -371,6 +369,5 @@ would ignore the first part of the section. If it is provided with an invalid st
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

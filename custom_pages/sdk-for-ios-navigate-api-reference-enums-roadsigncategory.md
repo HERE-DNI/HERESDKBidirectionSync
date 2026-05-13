@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / RoadSignCategory"
 slug: "sdk-for-ios-navigate-api-reference-enums-roadsigncategory"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoadSignCategory.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -153,6 +151,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-roadsigncategory"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / SpeedBasedCameraBehavior"
 slug: "sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SpeedBasedCameraBehavior.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -277,6 +275,5 @@ adjacent levels.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

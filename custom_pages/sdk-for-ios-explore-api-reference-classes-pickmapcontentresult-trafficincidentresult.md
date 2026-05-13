@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "PickMapContentResult / TrafficIncidentResult"
 slug: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult-trafficincidentresult"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficIncidentResult.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -243,6 +241,5 @@ for the specified event.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

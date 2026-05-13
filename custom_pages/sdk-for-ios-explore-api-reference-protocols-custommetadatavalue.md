@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / CustomMetadataValue"
 slug: "sdk-for-ios-explore-api-reference-protocols-custommetadatavalue"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CustomMetadataValue.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -87,6 +85,5 @@ The tag is specific to the concrete implementation of the protocol.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / SDKMapViewInitializer"
 slug: "sdk-for-ios-navigate-api-reference-classes-sdkmapviewinitializer"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SDKMapViewInitializer.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -79,6 +77,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-sdkmapviewinitializer"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

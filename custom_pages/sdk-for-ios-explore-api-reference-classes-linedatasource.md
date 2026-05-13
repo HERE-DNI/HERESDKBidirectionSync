@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / LineDataSource"
 slug: "sdk-for-ios-explore-api-reference-classes-linedatasource"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LineDataSource.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -313,6 +311,5 @@ The inspector cannot update the line data.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapContext / MemoryManagementStrategy"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementstrategy"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MemoryManagementStrategy.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -108,6 +106,5 @@ Cache grows when visible data needs more memory and shrinks when usage drops but
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

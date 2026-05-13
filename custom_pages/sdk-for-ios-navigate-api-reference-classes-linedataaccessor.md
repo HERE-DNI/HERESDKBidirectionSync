@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / LineDataAccessor"
 slug: "sdk-for-ios-navigate-api-reference-classes-linedataaccessor"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LineDataAccessor.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -204,6 +202,5 @@ Altitude of the vertices is ignored.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

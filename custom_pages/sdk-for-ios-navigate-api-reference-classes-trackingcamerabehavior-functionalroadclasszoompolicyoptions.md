@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TrackingCameraBehavior / FunctionalRoadClassZoomPolicyOptions"
 slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-functionalroadclasszoompolicyoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- FunctionalRoadClassZoomPolicyOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -136,6 +134,5 @@ subject to change without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

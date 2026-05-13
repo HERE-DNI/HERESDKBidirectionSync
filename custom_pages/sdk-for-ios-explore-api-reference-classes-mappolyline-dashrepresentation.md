@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapPolyline / DashRepresentation"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-dashrepresentation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DashRepresentation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -416,6 +414,5 @@ no color is used.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

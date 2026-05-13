@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / StreetAttributes"
 slug: "sdk-for-ios-explore-api-reference-enums-streetattributes"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- StreetAttributes.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -353,6 +351,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-streetattributes"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "UsageStats / NetworkStats"
 slug: "sdk-for-ios-navigate-api-reference-structs-usagestats-networkstats"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- NetworkStats.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -184,6 +182,5 @@ will be considered as 1 methodCall, and requestCounter is 2.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

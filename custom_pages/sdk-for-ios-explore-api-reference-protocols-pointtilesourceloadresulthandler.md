@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / PointTileSourceLoadResultHandler"
 slug: "sdk-for-ios-explore-api-reference-protocols-pointtilesourceloadresulthandler"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PointTileSourceLoadResultHandler.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -165,6 +163,5 @@ slug: "sdk-for-ios-explore-api-reference-protocols-pointtilesourceloadresulthand
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

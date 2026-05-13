@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / RouteDeviationDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-routedeviationdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RouteDeviationDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -100,6 +98,5 @@ that can be used to decide whether to request a re-route calculation from the ro
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

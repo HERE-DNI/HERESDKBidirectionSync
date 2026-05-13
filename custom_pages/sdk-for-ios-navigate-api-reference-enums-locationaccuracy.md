@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Positioning / LocationAccuracy"
 slug: "sdk-for-ios-navigate-api-reference-enums-locationaccuracy"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LocationAccuracy.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -208,6 +206,5 @@ device battery.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

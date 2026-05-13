@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / IntegerRange"
 slug: "sdk-for-ios-navigate-api-reference-structs-integerrange"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IntegerRange.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-integerrange"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

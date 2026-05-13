@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "VenueTransportMode / CodingError"
 slug: "sdk-for-ios-navigate-api-reference-enums-venuetransportmode-codingerror"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CodingError.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -80,6 +78,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-venuetransportmode-codingerror"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

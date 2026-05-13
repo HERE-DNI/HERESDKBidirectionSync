@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueSelectionDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-venueselectiondelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueSelectionDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -113,6 +111,5 @@ if there was no new selected venue.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

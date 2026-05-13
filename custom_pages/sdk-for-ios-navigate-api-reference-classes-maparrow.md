@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapArrow"
 slug: "sdk-for-ios-navigate-api-reference-classes-maparrow"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapArrow.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -196,6 +194,5 @@ Only <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mapmeasurerang
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

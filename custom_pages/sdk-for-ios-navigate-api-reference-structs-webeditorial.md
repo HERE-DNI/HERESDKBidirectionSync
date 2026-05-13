@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / WebEditorial"
 slug: "sdk-for-ios-navigate-api-reference-structs-webeditorial"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- WebEditorial.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -178,6 +176,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-webeditorial"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

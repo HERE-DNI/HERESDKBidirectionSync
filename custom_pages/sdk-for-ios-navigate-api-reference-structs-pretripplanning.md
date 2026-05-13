@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / PreTripPlanning"
 slug: "sdk-for-ios-navigate-api-reference-structs-pretripplanning"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PreTripPlanning.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -304,6 +302,5 @@ Represented in TimeDomain format in prefix notation that follows the ISO 20524-1
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

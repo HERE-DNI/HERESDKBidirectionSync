@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / NameID"
 slug: "sdk-for-ios-explore-api-reference-structs-nameid"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- NameID.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-explore-api-reference-structs-nameid"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / PaymentMethod"
 slug: "sdk-for-ios-navigate-api-reference-enums-paymentmethod"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PaymentMethod.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -278,6 +276,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-paymentmethod"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / TransportProfile"
 slug: "sdk-for-ios-navigate-api-reference-structs-transportprofile"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TransportProfile.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -130,6 +128,5 @@ This is a BETA feature and thus there can be bugs and unexpected behavior.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

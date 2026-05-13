@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / Isoline"
 slug: "sdk-for-ios-explore-api-reference-classes-isoline"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Isoline.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -245,6 +243,5 @@ only a single polygon is included.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

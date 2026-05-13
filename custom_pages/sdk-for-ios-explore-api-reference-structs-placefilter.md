@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / PlaceFilter"
 slug: "sdk-for-ios-explore-api-reference-structs-placefilter"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PlaceFilter.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -256,6 +254,5 @@ Otherwise will result in <code><a href="../Enums/SearchError.html#/s:7heresdk11S
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

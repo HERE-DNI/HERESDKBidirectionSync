@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / TranslucentMapLayerGroup"
 slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TranslucentMapLayerGroup.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -368,6 +366,5 @@ Example:</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

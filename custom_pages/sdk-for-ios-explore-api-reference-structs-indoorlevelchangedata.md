@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Structures / IndoorLevelChangeData"
 slug: "sdk-for-ios-explore-api-reference-structs-indoorlevelchangedata"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IndoorLevelChangeData.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -129,6 +127,5 @@ a value of -1 means that a user needs to go one level down. The value is never 0
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

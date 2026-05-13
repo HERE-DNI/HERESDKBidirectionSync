@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / SectionTransportMode"
 slug: "sdk-for-ios-explore-api-reference-enums-sectiontransportmode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SectionTransportMode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -335,6 +333,5 @@ This transport mode does not have the access to the bus-only lane/road.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

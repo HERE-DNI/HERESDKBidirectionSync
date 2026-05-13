@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / PlaceFoodType"
 slug: "sdk-for-ios-explore-api-reference-structs-placefoodtype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PlaceFoodType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -157,6 +155,5 @@ Ignored when used in <code><a href="sdk-for-ios-explore-api-reference-..-structs
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

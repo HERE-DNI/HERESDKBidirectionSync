@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / DateRange"
 slug: "sdk-for-ios-explore-api-reference-structs-daterange"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DateRange.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -134,6 +132,5 @@ If absent the element is valid until some other element takes over.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

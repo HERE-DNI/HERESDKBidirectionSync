@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Classes / LocationManager"
 slug: "sdk-for-ios-navigate-api-reference-classes-locationmanager"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LocationManager.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -325,6 +323,5 @@ the caller regains full ownership and responsibility for the <code><a href="sdk-
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

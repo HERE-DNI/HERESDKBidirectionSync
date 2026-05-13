@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Positioning / LocationEngine"
 slug: "sdk-for-ios-navigate-api-reference-classes-locationengine"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LocationEngine.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -893,6 +891,5 @@ When disabled listener calls can originate from any thread.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

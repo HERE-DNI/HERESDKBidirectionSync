@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TrackingCameraBehavior / ManeuverRuleOptions"
 slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-maneuverruleoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ManeuverRuleOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -188,6 +186,5 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

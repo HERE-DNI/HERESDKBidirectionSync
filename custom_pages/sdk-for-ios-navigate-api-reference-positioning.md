@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Positioning"
 slug: "sdk-for-ios-navigate-api-reference-positioning"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Positioning.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -367,6 +365,5 @@ LocationEngine status updates.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

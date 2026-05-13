@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "AutomotiveCameraBehavior / ActiveCameraType"
 slug: "sdk-for-ios-navigate-api-reference-classes-automotivecamerabehavior-activecameratype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ActiveCameraType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -130,6 +128,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-automotivecamerabehavior-activ
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

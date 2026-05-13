@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "ElectronicHorizon / ElectronicHorizonUpdate"
 slug: "sdk-for-ios-navigate-api-reference-structs-electronichorizonupdate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ElectronicHorizonUpdate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -178,6 +176,5 @@ refers to the most recently known horizon.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

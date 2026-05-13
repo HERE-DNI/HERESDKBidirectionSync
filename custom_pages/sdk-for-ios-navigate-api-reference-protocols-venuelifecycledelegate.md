@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueLifecycleDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-venuelifecycledelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueLifecycleDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -143,6 +141,5 @@ to add and remove the <code>VenueLifecycleDelegate</code>.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapContentSettings"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontentsettings"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapContentSettings.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -274,6 +272,5 @@ validity time and the refresh period derived from the refresh period of the traf
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

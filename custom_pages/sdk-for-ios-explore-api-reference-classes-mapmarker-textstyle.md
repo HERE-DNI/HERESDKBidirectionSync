@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapMarker / TextStyle"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TextStyle.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -549,6 +547,5 @@ If empty string is provided, a default font will be used.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

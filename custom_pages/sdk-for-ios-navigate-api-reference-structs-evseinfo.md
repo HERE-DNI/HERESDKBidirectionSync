@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVSEInfo"
 slug: "sdk-for-ios-navigate-api-reference-structs-evseinfo"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVSEInfo.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -357,6 +355,5 @@ This is the ‘technical’ identification of the EVSE, not to be used as ‘hum
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

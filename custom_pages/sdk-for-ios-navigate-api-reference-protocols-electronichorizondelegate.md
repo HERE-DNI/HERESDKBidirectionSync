@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "ElectronicHorizon / ElectronicHorizonDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-electronichorizondelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ElectronicHorizonDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -120,6 +118,5 @@ May be <code>nil</code> if an update could not be produced.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

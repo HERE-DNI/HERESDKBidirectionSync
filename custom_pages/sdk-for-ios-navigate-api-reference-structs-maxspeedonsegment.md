@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / MaxSpeedOnSegment"
 slug: "sdk-for-ios-navigate-api-reference-structs-maxspeedonsegment"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MaxSpeedOnSegment.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -152,6 +150,5 @@ Cannot increase base speed on segment. If the value is greater than the default 
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

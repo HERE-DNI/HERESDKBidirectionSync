@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / FacilityType"
 slug: "sdk-for-ios-navigate-api-reference-enums-facilitytype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- FacilityType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -705,6 +703,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

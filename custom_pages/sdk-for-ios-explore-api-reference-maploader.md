@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader"
 slug: "sdk-for-ios-explore-api-reference-maploader"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapLoader.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -225,6 +223,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

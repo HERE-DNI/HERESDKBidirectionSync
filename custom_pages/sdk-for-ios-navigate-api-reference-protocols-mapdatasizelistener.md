@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / MapDataSizeListener"
 slug: "sdk-for-ios-navigate-api-reference-protocols-mapdatasizelistener"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapDataSizeListener.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -113,6 +111,5 @@ Invoked on the main thread.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapSceneLoadOptionsBuilder / InstantiationErrorCode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder-instantiationerrorcode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- InstantiationErrorCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -80,6 +78,5 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder-inst
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

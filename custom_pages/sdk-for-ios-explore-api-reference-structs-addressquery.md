@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / AddressQuery"
 slug: "sdk-for-ios-explore-api-reference-structs-addressquery"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AddressQuery.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -305,6 +303,5 @@ Not supported in <code>OfflineSearchEngine</code> (only available for the Naviga
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

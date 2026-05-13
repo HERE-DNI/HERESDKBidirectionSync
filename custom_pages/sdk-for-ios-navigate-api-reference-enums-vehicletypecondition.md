@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Enumerations / VehicleTypeCondition"
 slug: "sdk-for-ios-navigate-api-reference-enums-vehicletypecondition"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VehicleTypeCondition.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -553,6 +551,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-vehicletypecondition"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

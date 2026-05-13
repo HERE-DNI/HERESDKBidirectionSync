@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / EventTextDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-eventtextdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EventTextDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -102,6 +100,5 @@ distance.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

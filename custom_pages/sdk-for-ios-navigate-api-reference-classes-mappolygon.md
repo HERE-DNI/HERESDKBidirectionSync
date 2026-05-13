@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapPolygon"
 slug: "sdk-for-ios-navigate-api-reference-classes-mappolygon"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapPolygon.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -426,6 +424,5 @@ Negative values are clamped to zero.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

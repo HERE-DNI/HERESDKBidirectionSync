@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / AttributionType"
 slug: "sdk-for-ios-navigate-api-reference-enums-attributiontype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AttributionType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-attributiontype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

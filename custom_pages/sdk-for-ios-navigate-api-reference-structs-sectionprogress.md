@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / SectionProgress"
 slug: "sdk-for-ios-navigate-api-reference-structs-sectionprogress"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SectionProgress.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -166,6 +164,5 @@ Defaults to 0 seconds.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

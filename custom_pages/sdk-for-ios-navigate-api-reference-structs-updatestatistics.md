@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / UpdateStatistics"
 slug: "sdk-for-ios-navigate-api-reference-structs-updatestatistics"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- UpdateStatistics.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -129,6 +127,5 @@ monitor and analyze the reliability of binary patch updates.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

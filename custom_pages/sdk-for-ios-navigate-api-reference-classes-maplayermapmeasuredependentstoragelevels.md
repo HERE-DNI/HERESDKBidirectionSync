@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapLayerMapMeasureDependentStorageLevels"
 slug: "sdk-for-ios-navigate-api-reference-classes-maplayermapmeasuredependentstoragelevels"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapLayerMapMeasureDependentStorageLevels.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -111,6 +109,5 @@ The value will be clamped to a range of -3 to 3.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

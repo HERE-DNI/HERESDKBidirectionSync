@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TrackingCameraBehavior / SpeedBasedZoomPolicyOptions"
 slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior-speedbasedzoompolicyoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SpeedBasedZoomPolicyOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -137,6 +135,5 @@ subject to change without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

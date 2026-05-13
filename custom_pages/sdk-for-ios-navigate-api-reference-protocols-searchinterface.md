@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / SearchInterface"
 slug: "sdk-for-ios-navigate-api-reference-protocols-searchinterface"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SearchInterface.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -590,6 +588,5 @@ Complete details can be obtained by searching with <code><a href="sdk-for-ios-na
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

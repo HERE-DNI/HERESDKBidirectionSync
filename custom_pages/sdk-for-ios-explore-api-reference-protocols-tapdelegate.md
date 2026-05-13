@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / TapDelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-tapdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TapDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -98,6 +96,5 @@ Tap gesture occurs after tapping on the screen.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / EVTruckOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-evtruckoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVTruckOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -466,6 +464,5 @@ for the vehicle on a given route.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

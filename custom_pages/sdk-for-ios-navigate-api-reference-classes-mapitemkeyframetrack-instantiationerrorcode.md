@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapItemKeyFrameTrack / InstantiationErrorCode"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapitemkeyframetrack-instantiationerrorcode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- InstantiationErrorCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -106,6 +104,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapitemkeyframetrack-instantia
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

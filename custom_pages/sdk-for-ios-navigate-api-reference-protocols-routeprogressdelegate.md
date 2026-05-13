@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / RouteProgressDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-routeprogressdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RouteProgressDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -98,6 +96,5 @@ about the route progress from <code><a href="sdk-for-ios-navigate-api-reference-
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

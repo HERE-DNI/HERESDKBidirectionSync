@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / LaneAccess"
 slug: "sdk-for-ios-navigate-api-reference-structs-laneaccess"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LaneAccess.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -336,6 +334,5 @@ motorcycles.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapMarkerAnimation"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapmarkeranimation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapMarkerAnimation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -158,6 +156,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapmarkeranimation"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

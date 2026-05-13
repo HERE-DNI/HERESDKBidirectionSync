@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / HereMap"
 slug: "sdk-for-ios-navigate-api-reference-classes-heremap"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- HereMap.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -181,6 +179,5 @@ The caller is responsible for releasing the strong reference by calling
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

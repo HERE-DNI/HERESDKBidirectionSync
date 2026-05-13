@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / OpeningHours"
 slug: "sdk-for-ios-explore-api-reference-structs-openinghours"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- OpeningHours.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -181,6 +179,5 @@ This data is not available in offline search.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

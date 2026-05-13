@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / PolylineSimplificationError"
 slug: "sdk-for-ios-explore-api-reference-enums-polylinesimplificationerror"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PolylineSimplificationError.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -81,6 +79,5 @@ invoking <code>cancel(...)</code>.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

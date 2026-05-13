@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Classes / IndoorSectionDetails"
 slug: "sdk-for-ios-explore-api-reference-classes-indoorsectiondetails"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IndoorSectionDetails.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -130,6 +128,5 @@ slug: "sdk-for-ios-explore-api-reference-classes-indoorsectiondetails"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

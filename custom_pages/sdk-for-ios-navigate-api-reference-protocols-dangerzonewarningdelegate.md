@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / DangerZoneWarningDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-dangerzonewarningdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DangerZoneWarningDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -97,6 +95,5 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-dangerzonewarningdelegate"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

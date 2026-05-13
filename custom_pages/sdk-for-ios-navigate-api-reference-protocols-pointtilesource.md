@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / PointTileSource"
 slug: "sdk-for-ios-navigate-api-reference-protocols-pointtilesource"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PointTileSource.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -303,6 +301,5 @@ Upon completion, the handler gets informed.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

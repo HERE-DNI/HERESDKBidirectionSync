@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / BorderCrossingType"
 slug: "sdk-for-ios-navigate-api-reference-enums-bordercrossingtype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- BorderCrossingType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-bordercrossingtype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

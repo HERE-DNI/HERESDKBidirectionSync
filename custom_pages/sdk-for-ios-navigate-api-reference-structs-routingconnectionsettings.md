@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / RoutingConnectionSettings"
 slug: "sdk-for-ios-navigate-api-reference-structs-routingconnectionsettings"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoutingConnectionSettings.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -211,6 +209,5 @@ By default, the max amount of retries is 3.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

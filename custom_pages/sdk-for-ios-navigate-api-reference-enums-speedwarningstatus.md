@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / SpeedWarningStatus"
 slug: "sdk-for-ios-navigate-api-reference-enums-speedwarningstatus"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SpeedWarningStatus.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -112,6 +110,5 @@ speed limit. See `SpeedLimitListener.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

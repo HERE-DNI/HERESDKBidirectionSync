@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / LineTileSource"
 slug: "sdk-for-ios-navigate-api-reference-protocols-linetilesource"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LineTileSource.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -304,6 +302,5 @@ Upon completion, the handler gets informed.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

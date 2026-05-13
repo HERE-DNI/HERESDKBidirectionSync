@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / TollStop"
 slug: "sdk-for-ios-navigate-api-reference-structs-tollstop"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TollStop.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -203,6 +201,5 @@ one event with an empty list afterwards.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

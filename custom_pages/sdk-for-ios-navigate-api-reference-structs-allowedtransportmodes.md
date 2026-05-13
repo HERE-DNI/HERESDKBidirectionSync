@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / AllowedTransportModes"
 slug: "sdk-for-ios-navigate-api-reference-structs-allowedtransportmodes"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AllowedTransportModes.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -257,6 +255,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

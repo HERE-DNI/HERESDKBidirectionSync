@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVChargingTariffRequest"
 slug: "sdk-for-ios-navigate-api-reference-structs-evchargingtariffrequest"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVChargingTariffRequest.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -130,6 +128,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

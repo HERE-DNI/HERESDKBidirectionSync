@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Structures / IndoorRoutePlace"
 slug: "sdk-for-ios-navigate-api-reference-structs-indoorrouteplace"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IndoorRoutePlace.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -203,6 +201,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-indoorrouteplace"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

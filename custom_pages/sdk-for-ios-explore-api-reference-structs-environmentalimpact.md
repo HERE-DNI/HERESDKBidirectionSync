@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EnvironmentalImpact"
 slug: "sdk-for-ios-explore-api-reference-structs-environmentalimpact"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EnvironmentalImpact.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -131,6 +129,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

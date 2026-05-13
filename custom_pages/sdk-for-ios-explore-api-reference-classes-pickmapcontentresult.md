@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / PickMapContentResult"
 slug: "sdk-for-ios-explore-api-reference-classes-pickmapcontentresult"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PickMapContentResult.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -135,6 +133,5 @@ Description of incident is currently not present in our map data, so
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

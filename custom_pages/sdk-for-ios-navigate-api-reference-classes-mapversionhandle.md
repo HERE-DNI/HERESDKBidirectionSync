@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / MapVersionHandle"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapversionhandle"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapVersionHandle.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -114,6 +112,5 @@ In case map version has single element to it, separator is not used.
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

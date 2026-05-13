@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / KeyframeInterpolationMode"
 slug: "sdk-for-ios-explore-api-reference-enums-keyframeinterpolationmode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- KeyframeInterpolationMode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-keyframeinterpolationmode"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

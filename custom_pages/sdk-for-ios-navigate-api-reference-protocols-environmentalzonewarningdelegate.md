@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / EnvironmentalZoneWarningDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-environmentalzonewarningdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EnvironmentalZoneWarningDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -97,6 +95,5 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-environmentalzonewarningdele
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

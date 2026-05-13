@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / SafetyCameraWarningOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-safetycamerawarningoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SafetyCameraWarningOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -106,6 +104,5 @@ By default text notifications are enabled.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

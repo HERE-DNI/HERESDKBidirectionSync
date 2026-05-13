@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / NaturalGuidanceType"
 slug: "sdk-for-ios-navigate-api-reference-enums-naturalguidancetype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- NaturalGuidanceType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-naturalguidancetype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

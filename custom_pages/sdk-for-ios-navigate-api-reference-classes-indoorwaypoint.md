@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / IndoorWaypoint"
 slug: "sdk-for-ios-navigate-api-reference-classes-indoorwaypoint"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IndoorWaypoint.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -242,6 +240,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-indoorwaypoint"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

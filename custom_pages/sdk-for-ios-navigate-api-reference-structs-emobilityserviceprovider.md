@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EMobilityServiceProvider"
 slug: "sdk-for-ios-navigate-api-reference-structs-emobilityserviceprovider"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EMobilityServiceProvider.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -131,6 +129,5 @@ It can be used for filtering when searching for EV charging stations.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

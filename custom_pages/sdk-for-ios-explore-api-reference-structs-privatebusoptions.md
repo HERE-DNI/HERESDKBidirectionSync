@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / PrivateBusOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-privatebusoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PrivateBusOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -368,6 +366,5 @@ Example usage: “7”, when the license plate of a vehicle looks like “B-ET-1
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

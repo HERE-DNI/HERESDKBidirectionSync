@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TrafficRadio"
 slug: "sdk-for-ios-navigate-api-reference-trafficradio"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficRadio.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -294,6 +292,5 @@ Fields allocation information is described in CEN ISO/CD 14819-6.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

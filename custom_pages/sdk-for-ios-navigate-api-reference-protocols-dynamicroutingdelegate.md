@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / DynamicRoutingDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-dynamicroutingdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DynamicRoutingDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -176,6 +174,5 @@ a shorter distance, but its now assumed to be longer than the dynamic route.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

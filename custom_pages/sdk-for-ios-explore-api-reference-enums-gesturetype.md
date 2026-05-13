@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / GestureType"
 slug: "sdk-for-ios-explore-api-reference-enums-gesturetype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GestureType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -183,6 +181,5 @@ continuously scales, zooms or rotates the map.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

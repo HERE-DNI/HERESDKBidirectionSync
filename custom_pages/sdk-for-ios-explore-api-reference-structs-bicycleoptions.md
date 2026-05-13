@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / BicycleOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-bicycleoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- BicycleOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -156,6 +154,5 @@ no restrictions are applied.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

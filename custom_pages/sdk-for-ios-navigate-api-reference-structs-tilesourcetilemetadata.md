@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / TileSourceTileMetadata"
 slug: "sdk-for-ios-navigate-api-reference-structs-tilesourcetilemetadata"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TileSourceTileMetadata.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-tilesourcetilemetadata"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

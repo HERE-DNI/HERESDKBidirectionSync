@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / GPXTrack"
 slug: "sdk-for-ios-navigate-api-reference-classes-gpxtrack"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GPXTrack.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -138,6 +136,5 @@ See <a href="https://www.topografix.com/GPX/1/1/#type_wptType">type_wptType</a> 
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

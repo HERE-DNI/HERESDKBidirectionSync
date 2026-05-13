@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / LandlinePhone"
 slug: "sdk-for-ios-navigate-api-reference-structs-landlinephone"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LandlinePhone.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -155,6 +153,5 @@ Otherwise, <code><a href="../Structs/LandlinePhone.html#/s:7heresdk13LandlinePho
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

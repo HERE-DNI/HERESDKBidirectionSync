@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / JunctionViewLaneAssistanceDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-junctionviewlaneassistancedelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- JunctionViewLaneAssistanceDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -99,6 +97,5 @@ See <code><a href="sdk-for-ios-navigate-api-reference-..-structs-junctionviewlan
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

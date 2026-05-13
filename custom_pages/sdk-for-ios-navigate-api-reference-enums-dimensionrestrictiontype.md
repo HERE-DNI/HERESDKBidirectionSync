@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / DimensionRestrictionType"
 slug: "sdk-for-ios-navigate-api-reference-enums-dimensionrestrictiontype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DimensionRestrictionType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-dimensionrestrictiontype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

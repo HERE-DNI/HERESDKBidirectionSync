@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Enumerations / IndoorManeuverActions"
 slug: "sdk-for-ios-navigate-api-reference-enums-indoormaneuveractions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IndoorManeuverActions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -453,6 +451,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-indoormaneuveractions"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core"
 slug: "sdk-for-ios-explore-api-reference-core"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Core.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -2665,6 +2663,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

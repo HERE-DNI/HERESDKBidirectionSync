@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / DividerMarker"
 slug: "sdk-for-ios-navigate-api-reference-enums-dividermarker"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DividerMarker.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -403,6 +401,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-dividermarker"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

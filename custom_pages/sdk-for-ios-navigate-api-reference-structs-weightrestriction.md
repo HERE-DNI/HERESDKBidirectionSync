@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / WeightRestriction"
 slug: "sdk-for-ios-navigate-api-reference-structs-weightrestriction"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- WeightRestriction.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-weightrestriction"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

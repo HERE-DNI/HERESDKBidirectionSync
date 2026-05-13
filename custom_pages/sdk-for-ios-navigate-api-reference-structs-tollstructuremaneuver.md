@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / TollStructureManeuver"
 slug: "sdk-for-ios-navigate-api-reference-structs-tollstructuremaneuver"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TollStructureManeuver.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -183,6 +181,5 @@ Empty if structure applied to all outgoing connected segments.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

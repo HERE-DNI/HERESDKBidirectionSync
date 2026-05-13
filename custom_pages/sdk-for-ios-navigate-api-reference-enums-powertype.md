@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / PowerType"
 slug: "sdk-for-ios-navigate-api-reference-enums-powertype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PowerType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -180,6 +178,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

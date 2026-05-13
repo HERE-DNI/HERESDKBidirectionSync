@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "VenueGeometry / LookupType"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuegeometry-lookuptype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LookupType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -155,6 +153,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuegeometry-lookuptype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

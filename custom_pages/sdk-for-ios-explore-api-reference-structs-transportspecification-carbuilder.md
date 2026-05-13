@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TransportSpecification / CarBuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-transportspecification-carbuilder"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CarBuilder.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -160,6 +158,5 @@ from the <code>TransportSpecification.CarBuilder</code> object.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / Attribution"
 slug: "sdk-for-ios-navigate-api-reference-structs-attribution"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Attribution.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -154,6 +152,5 @@ the entire content of the text attribute will be considered.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

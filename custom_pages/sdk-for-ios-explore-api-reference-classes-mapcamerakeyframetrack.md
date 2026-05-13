@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapCameraKeyframeTrack"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcamerakeyframetrack"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapCameraKeyframeTrack.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -878,6 +876,5 @@ and creation of the keyframe track will fail.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

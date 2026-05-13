@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / TilingScheme"
 slug: "sdk-for-ios-explore-api-reference-enums-tilingscheme"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TilingScheme.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -210,6 +208,5 @@ The coordinates of the tile’s corners are transformed through the equirectangu
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

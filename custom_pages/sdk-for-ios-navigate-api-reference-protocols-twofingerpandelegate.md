@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / TwoFingerPanDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-twofingerpandelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TwoFingerPanDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -135,6 +133,5 @@ and both of them are moving vertically.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

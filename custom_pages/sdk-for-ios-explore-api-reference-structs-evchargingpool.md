@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / EVChargingPool"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingpool"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVChargingPool.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -312,6 +310,5 @@ Only online search fills this field.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

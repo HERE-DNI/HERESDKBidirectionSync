@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "AutomotiveCameraBehavior / OrientationMode"
 slug: "sdk-for-ios-navigate-api-reference-classes-automotivecamerabehavior-orientationmode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- OrientationMode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -134,6 +132,5 @@ rotating the camera to match heading.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

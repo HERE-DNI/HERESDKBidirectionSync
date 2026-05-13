@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / RoutePlace"
 slug: "sdk-for-ios-explore-api-reference-structs-routeplace"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoutePlace.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -367,6 +365,5 @@ Available only if the route was calculated with <code><a href="../Structs/Electr
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

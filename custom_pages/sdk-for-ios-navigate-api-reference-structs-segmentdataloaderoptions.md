@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / SegmentDataLoaderOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-segmentdataloaderoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SegmentDataLoaderOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -474,6 +472,5 @@ Defaults to <code>false</code>.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

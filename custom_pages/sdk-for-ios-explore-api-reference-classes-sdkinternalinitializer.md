@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / SDKInternalInitializer"
 slug: "sdk-for-ios-explore-api-reference-classes-sdkinternalinitializer"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SDKInternalInitializer.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -80,6 +78,5 @@ Usually shouldn’t be used directly.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

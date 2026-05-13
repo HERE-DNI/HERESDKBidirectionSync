@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / DataAttributesBase"
 slug: "sdk-for-ios-navigate-api-reference-protocols-dataattributesbase"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DataAttributesBase.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -468,6 +466,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

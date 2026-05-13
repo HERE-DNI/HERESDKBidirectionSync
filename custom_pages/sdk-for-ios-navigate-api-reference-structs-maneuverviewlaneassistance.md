@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / ManeuverViewLaneAssistance"
 slug: "sdk-for-ios-navigate-api-reference-structs-maneuverviewlaneassistance"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ManeuverViewLaneAssistance.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -155,6 +153,5 @@ are too close to each other.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "ChargingConnectorType / CodingError"
 slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype-codingerror"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CodingError.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -80,6 +78,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype-codingerror
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

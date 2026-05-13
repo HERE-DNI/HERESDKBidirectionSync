@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / Authentication"
 slug: "sdk-for-ios-explore-api-reference-classes-authentication"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Authentication.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -167,6 +165,5 @@ retrieve a secure token. This method operates synchronously.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

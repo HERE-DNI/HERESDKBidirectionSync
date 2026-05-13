@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / SchoolZoneWarning"
 slug: "sdk-for-ios-navigate-api-reference-structs-schoolzonewarning"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SchoolZoneWarning.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -209,6 +207,5 @@ If the field is ‘null’ then the warning is applicable at anytime.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

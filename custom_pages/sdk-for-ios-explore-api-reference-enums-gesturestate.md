@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / GestureState"
 slug: "sdk-for-ios-explore-api-reference-enums-gesturestate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GestureState.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -154,6 +152,5 @@ due to displaying a modal dialog or the app being sent to background.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

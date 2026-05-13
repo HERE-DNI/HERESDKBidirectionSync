@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Traffic / TrafficIncidentOnRoute"
 slug: "sdk-for-ios-navigate-api-reference-classes-trafficincidentonroute"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficIncidentOnRoute.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -216,6 +214,5 @@ The identifier can be changed by the backend due to some events, e.g. changing o
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

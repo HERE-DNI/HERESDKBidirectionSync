@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueMap"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuemap"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueMap.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -1487,6 +1485,5 @@ in the selected <code><a href="sdk-for-ios-navigate-api-reference-..-classes-ven
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

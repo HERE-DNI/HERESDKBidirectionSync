@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TruckOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-truckoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TruckOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -438,6 +436,5 @@ Refer to <code><a href="sdk-for-ios-navigate-api-reference-..-enums-truckroadtyp
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

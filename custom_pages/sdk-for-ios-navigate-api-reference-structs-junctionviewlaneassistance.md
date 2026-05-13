@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / JunctionViewLaneAssistance"
 slug: "sdk-for-ios-navigate-api-reference-structs-junctionviewlaneassistance"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- JunctionViewLaneAssistance.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -166,6 +164,5 @@ one event with an empty list afterwards.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

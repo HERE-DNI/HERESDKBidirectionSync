@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / OfflineRoutingEngineOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-offlineroutingengineoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- OfflineRoutingEngineOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -104,6 +102,5 @@ It is clamped from 1 Megabyte to 256 Megabytes.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

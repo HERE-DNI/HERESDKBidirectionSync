@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapPolyline"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolyline"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapPolyline.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -729,6 +727,5 @@ Does not affect other polylines that might be running this animation.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

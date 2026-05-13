@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / PolygonDataAccessor"
 slug: "sdk-for-ios-navigate-api-reference-classes-polygondataaccessor"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PolygonDataAccessor.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -208,6 +206,5 @@ The visual behaviour for self-intersecting outer boundary is undefined.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

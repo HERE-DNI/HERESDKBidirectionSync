@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / DynamicRoutingEngineOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-dynamicroutingengineoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DynamicRoutingEngineOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -169,6 +167,5 @@ Defaults to 15 minutes.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

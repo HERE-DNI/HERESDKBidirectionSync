@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / Style"
 slug: "sdk-for-ios-navigate-api-reference-classes-style"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Style.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ Only style definitions update is curently supported.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

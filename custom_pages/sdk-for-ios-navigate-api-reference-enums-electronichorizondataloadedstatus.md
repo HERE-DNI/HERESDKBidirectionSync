@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "ElectronicHorizon / ElectronicHorizonDataLoadedStatus"
 slug: "sdk-for-ios-navigate-api-reference-enums-electronichorizondataloadedstatus"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ElectronicHorizonDataLoadedStatus.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -129,6 +127,5 @@ This status can mean that one of the batches was loaded or that a new update is 
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

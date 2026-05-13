@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TollFare"
 slug: "sdk-for-ios-navigate-api-reference-structs-tollfare"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TollFare.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -237,6 +235,5 @@ the documentation available in the <a href="https://www.here.com/docs/bundle/rou
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

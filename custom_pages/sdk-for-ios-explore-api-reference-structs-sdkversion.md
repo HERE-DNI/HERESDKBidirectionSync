@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / SDKVersion"
 slug: "sdk-for-ios-explore-api-reference-structs-sdkversion"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SDKVersion.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -306,6 +304,5 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

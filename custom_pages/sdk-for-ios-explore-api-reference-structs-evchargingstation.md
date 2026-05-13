@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / EVChargingStation"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingstation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVChargingStation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -570,6 +568,5 @@ This field can be <code>nil</code> if data is unavailable.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

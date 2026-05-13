@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / VehicleRestrictionIconProperties"
 slug: "sdk-for-ios-navigate-api-reference-structs-vehiclerestrictioniconproperties"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VehicleRestrictionIconProperties.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -130,6 +128,5 @@ if there is no country specific version of requested icon.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

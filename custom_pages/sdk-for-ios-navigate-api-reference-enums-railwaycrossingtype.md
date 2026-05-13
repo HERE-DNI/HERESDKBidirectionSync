@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / RailwayCrossingType"
 slug: "sdk-for-ios-navigate-api-reference-enums-railwaycrossingtype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RailwayCrossingType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-railwaycrossingtype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

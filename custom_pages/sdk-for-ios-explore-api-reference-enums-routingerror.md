@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / RoutingError"
 slug: "sdk-for-ios-explore-api-reference-enums-routingerror"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoutingError.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -682,6 +680,5 @@ When both, origin and destination, cannot be matched, then the origin waypoint e
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

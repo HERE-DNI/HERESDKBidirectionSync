@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search"
 slug: "sdk-for-ios-explore-api-reference-search"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Search.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -3070,6 +3068,5 @@ and a direct link to the item.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

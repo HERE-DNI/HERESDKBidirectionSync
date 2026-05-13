@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / VehicleRestrictionMaxWeight"
 slug: "sdk-for-ios-explore-api-reference-structs-vehiclerestrictionmaxweight"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VehicleRestrictionMaxWeight.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -129,6 +127,5 @@ along with the specific type of maximum permitted weight restriction.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / TruckRestrictionsWarningOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-truckrestrictionswarningoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TruckRestrictionsWarningOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -106,6 +104,5 @@ of the time restrictions that they might have.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

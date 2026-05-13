@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / IndoorRouteOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-indoorrouteoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IndoorRouteOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -209,6 +207,5 @@ The default speed is 1 meter per second.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

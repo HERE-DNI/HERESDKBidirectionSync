@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Transport / PedestrianSpecification"
 slug: "sdk-for-ios-navigate-api-reference-structs-pedestrianspecification"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PedestrianSpecification.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -105,6 +103,5 @@ Defaults to a speed of 1 meter per second.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

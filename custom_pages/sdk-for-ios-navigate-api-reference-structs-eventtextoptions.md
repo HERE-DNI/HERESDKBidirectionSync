@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / EventTextOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-eventtextoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EventTextOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -105,6 +103,5 @@ an audio cue will be generated and exposed.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

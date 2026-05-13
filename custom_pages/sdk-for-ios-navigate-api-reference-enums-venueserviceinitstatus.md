@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueServiceInitStatus"
 slug: "sdk-for-ios-navigate-api-reference-enums-venueserviceinitstatus"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueServiceInitStatus.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -153,6 +151,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-venueserviceinitstatus"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

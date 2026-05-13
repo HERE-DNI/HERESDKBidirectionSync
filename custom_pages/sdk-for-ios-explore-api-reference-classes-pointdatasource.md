@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / PointDataSource"
 slug: "sdk-for-ios-explore-api-reference-classes-pointdatasource"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PointDataSource.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -314,6 +312,5 @@ The inspector cannot update the point data.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

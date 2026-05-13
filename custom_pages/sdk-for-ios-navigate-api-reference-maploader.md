@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader"
 slug: "sdk-for-ios-navigate-api-reference-maploader"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapLoader.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -1514,6 +1512,5 @@ monitor and analyze the reliability of binary patch updates.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / ManeuverProgress"
 slug: "sdk-for-ios-navigate-api-reference-structs-maneuverprogress"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ManeuverProgress.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -158,6 +156,5 @@ Defaults to 0 seconds.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

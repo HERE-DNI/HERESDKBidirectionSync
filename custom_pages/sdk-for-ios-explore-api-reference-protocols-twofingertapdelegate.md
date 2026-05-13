@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / TwoFingerTapDelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-twofingertapdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TwoFingerTapDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -98,6 +96,5 @@ Two finger tap gesture occurs after tapping on the screen with two fingers.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

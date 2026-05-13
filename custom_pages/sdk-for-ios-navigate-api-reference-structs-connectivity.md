@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / Connectivity"
 slug: "sdk-for-ios-navigate-api-reference-structs-connectivity"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Connectivity.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -130,6 +128,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

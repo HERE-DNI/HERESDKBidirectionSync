@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / IsolineCalculationMode"
 slug: "sdk-for-ios-explore-api-reference-enums-isolinecalculationmode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IsolineCalculationMode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -132,6 +130,5 @@ quality and performance.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

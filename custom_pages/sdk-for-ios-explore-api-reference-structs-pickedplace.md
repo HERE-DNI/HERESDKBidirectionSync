@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / PickedPlace"
 slug: "sdk-for-ios-explore-api-reference-structs-pickedplace"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PickedPlace.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -156,6 +154,5 @@ This is the same String value as <code><a href="../Classes/PlaceCategory.html#/s
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

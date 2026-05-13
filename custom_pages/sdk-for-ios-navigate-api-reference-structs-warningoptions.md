@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "WarnerEngine / WarningOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-warningoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- WarningOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -309,6 +307,5 @@ Set the options for filtering the lane decrease notifications.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

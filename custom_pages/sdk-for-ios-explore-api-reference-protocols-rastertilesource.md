@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / RasterTileSource"
 slug: "sdk-for-ios-explore-api-reference-protocols-rastertilesource"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RasterTileSource.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -303,6 +301,5 @@ Upon completion, the handler gets informed.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

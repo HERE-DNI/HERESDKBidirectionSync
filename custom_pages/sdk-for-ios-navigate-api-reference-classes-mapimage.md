@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapImage"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapimage"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapImage.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -420,6 +418,5 @@ bundle which can optionally be passed in. Currently only PNG or SVG Tiny image r
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

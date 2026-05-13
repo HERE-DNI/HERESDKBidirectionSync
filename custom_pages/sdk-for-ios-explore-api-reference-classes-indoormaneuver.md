@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / IndoorManeuver"
 slug: "sdk-for-ios-explore-api-reference-classes-indoormaneuver"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IndoorManeuver.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -280,6 +278,5 @@ slug: "sdk-for-ios-explore-api-reference-classes-indoormaneuver"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapCameraAnimation"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapcameraanimation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapCameraAnimation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -109,6 +107,5 @@ Creation is done via <code><a href="sdk-for-ios-navigate-api-reference-..-classe
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

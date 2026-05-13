@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TrafficOnSection"
 slug: "sdk-for-ios-navigate-api-reference-structs-trafficonsection"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficOnSection.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -203,6 +201,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-trafficonsection"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

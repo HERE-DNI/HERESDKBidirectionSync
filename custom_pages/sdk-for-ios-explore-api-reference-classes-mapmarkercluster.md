@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapMarkerCluster"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapMarkerCluster.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -508,6 +506,5 @@ which were already added to the map scene will be ignored.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

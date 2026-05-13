@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapView"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapview"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapView.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -1491,6 +1489,5 @@ a memory warning (<code>UIViewController.didReceiveMemoryWarning()</code>)</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / PointDataSourceBuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-pointdatasourcebuilder"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PointDataSourceBuilder.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -274,6 +272,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

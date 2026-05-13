@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / Property"
 slug: "sdk-for-ios-navigate-api-reference-classes-property"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Property.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -187,6 +185,5 @@ Converts the value of the property to a boolean.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

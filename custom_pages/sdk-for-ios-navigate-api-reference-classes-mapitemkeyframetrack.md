@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapItemKeyFrameTrack"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapitemkeyframetrack"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapItemKeyFrameTrack.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -268,6 +266,5 @@ over time.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

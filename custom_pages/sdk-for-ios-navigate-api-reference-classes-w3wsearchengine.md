@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / W3WSearchEngine"
 slug: "sdk-for-ios-navigate-api-reference-classes-w3wsearchengine"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- W3WSearchEngine.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -281,6 +279,5 @@ For Bosnian-Croatian-Montenegrin-Serbian use “oo”. Defaults to “en” (Eng
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

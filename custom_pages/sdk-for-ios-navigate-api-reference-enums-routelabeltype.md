@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / RouteLabelType"
 slug: "sdk-for-ios-navigate-api-reference-enums-routelabeltype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RouteLabelType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-routelabeltype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

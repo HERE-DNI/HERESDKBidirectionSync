@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / StructuredQuery"
 slug: "sdk-for-ios-navigate-api-reference-structs-structuredquery"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- StructuredQuery.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -237,6 +235,5 @@ consider providing city along with it.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

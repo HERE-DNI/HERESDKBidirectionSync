@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / SpeedLimit"
 slug: "sdk-for-ios-navigate-api-reference-structs-speedlimit"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SpeedLimit.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -439,6 +437,5 @@ and <code><a href="../Structs/SpeedLimit.html#/s:7heresdk10SpeedLimitV014optimal
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

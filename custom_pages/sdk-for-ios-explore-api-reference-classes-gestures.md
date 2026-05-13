@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / Gestures"
 slug: "sdk-for-ios-explore-api-reference-classes-gestures"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Gestures.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -327,6 +325,5 @@ gesture.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

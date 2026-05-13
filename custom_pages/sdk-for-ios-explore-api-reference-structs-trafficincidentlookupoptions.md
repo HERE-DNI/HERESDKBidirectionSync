@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Traffic / TrafficIncidentLookupOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-trafficincidentlookupoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficIncidentLookupOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -104,6 +102,5 @@ If the language code is null or not supported then response fields are expected 
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

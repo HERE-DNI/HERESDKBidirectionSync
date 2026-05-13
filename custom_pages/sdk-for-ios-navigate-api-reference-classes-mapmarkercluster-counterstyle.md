@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapMarkerCluster / CounterStyle"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapmarkercluster-counterstyle"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CounterStyle.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -206,6 +204,5 @@ Default value is 99. When this value is changed, it is recommended to adapt <cod
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

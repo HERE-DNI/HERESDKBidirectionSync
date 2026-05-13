@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapViewOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-mapviewoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapViewOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -131,6 +129,5 @@ Alpha value gets ignored and is assumed as 1.0.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

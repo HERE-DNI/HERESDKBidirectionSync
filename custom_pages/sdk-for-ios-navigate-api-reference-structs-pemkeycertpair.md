@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / PemKeyCertPair"
 slug: "sdk-for-ios-navigate-api-reference-structs-pemkeycertpair"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PemKeyCertPair.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -129,6 +127,5 @@ A key/certificate pair in PEM format.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

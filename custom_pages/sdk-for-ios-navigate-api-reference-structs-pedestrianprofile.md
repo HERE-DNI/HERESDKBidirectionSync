@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / PedestrianProfile"
 slug: "sdk-for-ios-navigate-api-reference-structs-pedestrianprofile"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PedestrianProfile.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -106,6 +104,5 @@ By default this value is 1 meter per second.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "VehicleSpecification / PrivateBusBuilder"
 slug: "sdk-for-ios-explore-api-reference-structs-vehiclespecification-privatebusbuilder"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PrivateBusBuilder.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -928,6 +926,5 @@ from the <code>VehicleSpecification.PrivateBusBuilder</code> object.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

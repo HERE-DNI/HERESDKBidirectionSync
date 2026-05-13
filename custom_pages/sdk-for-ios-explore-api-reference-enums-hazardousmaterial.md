@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / HazardousMaterial"
 slug: "sdk-for-ios-explore-api-reference-enums-hazardousmaterial"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- HazardousMaterial.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -329,6 +327,5 @@ can be shipped by the truck.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

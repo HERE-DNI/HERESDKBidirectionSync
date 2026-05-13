@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / SuggestionType"
 slug: "sdk-for-ios-navigate-api-reference-enums-suggestiontype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SuggestionType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-suggestiontype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

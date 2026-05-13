@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TransitModeFilter"
 slug: "sdk-for-ios-explore-api-reference-enums-transitmodefilter"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TransitModeFilter.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-transitmodefilter"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

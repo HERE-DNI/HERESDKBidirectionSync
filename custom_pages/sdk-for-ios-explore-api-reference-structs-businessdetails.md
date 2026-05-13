@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / BusinessDetails"
 slug: "sdk-for-ios-explore-api-reference-structs-businessdetails"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- BusinessDetails.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -155,6 +153,5 @@ valid contracts with HERE.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

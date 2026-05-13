@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapSceneLights / Category"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscenelights-category"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Category.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -135,6 +133,5 @@ However, shadow casting is only affected by the direction of the main light.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

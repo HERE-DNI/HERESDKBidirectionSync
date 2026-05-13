@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / MapDataSize"
 slug: "sdk-for-ios-navigate-api-reference-structs-mapdatasize"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapDataSize.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-mapdatasize"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

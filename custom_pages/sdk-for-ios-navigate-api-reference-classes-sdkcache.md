@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / SDKCache"
 slug: "sdk-for-ios-navigate-api-reference-classes-sdkcache"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SDKCache.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -151,6 +149,5 @@ during ongoing requests initiated by the OfflineSearchEngine or the OfflineRoute
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / LocationTime"
 slug: "sdk-for-ios-navigate-api-reference-structs-locationtime"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LocationTime.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -161,6 +159,5 @@ UTC-05:00, it is -18000.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Structures"
 slug: "sdk-for-ios-explore-api-reference-other structs"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Other Structs.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -151,6 +149,5 @@ specific location on it.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

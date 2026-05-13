@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / TileGeoBoundsCalculator"
 slug: "sdk-for-ios-explore-api-reference-classes-tilegeoboundscalculator"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TileGeoBoundsCalculator.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -152,6 +150,5 @@ provided at this <code>TileGeoBoundsCalculator</code> instance creation.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

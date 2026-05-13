@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Transport / CarSpecifications"
 slug: "sdk-for-ios-explore-api-reference-structs-carspecifications"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CarSpecifications.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -270,6 +268,5 @@ By default, it is not set.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

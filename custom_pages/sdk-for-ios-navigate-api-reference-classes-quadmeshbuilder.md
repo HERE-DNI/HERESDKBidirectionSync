@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / QuadMeshBuilder"
 slug: "sdk-for-ios-navigate-api-reference-classes-quadmeshbuilder"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- QuadMeshBuilder.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -138,6 +136,5 @@ representing the bottom-left and <code>&lt;1,1&gt;</code> upper-right corner.</p
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

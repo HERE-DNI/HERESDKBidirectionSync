@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / CatalogType"
 slug: "sdk-for-ios-navigate-api-reference-enums-catalogtype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CatalogType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -106,6 +104,5 @@ details. In order to load this map you need to enable your credentials with the 
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

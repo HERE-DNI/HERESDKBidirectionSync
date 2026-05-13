@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / CatalogUpdateTask"
 slug: "sdk-for-ios-navigate-api-reference-classes-catalogupdatetask"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CatalogUpdateTask.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -136,6 +134,5 @@ paused state.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / MyPlaces"
 slug: "sdk-for-ios-navigate-api-reference-classes-myplaces"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MyPlaces.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -397,6 +395,5 @@ a clone of the internal list and thus changing it has no effect on the data sour
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / EVConsumptionModel"
 slug: "sdk-for-ios-explore-api-reference-structs-evconsumptionmodel"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVConsumptionModel.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -232,6 +230,5 @@ energy consumption.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

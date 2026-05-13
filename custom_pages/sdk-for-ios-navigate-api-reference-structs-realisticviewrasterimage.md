@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / RealisticViewRasterImage"
 slug: "sdk-for-ios-navigate-api-reference-structs-realisticviewrasterimage"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RealisticViewRasterImage.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -108,6 +106,5 @@ Use <code>RealisticViewWarningListener</code> to get notifications with the real
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

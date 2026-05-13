@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / RailwayCrossing"
 slug: "sdk-for-ios-navigate-api-reference-structs-railwaycrossing"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RailwayCrossing.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -176,6 +174,5 @@ Default value is 0.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

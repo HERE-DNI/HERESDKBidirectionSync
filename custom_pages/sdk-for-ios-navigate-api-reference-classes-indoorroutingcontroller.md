@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / IndoorRoutingController"
 slug: "sdk-for-ios-navigate-api-reference-classes-indoorroutingcontroller"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IndoorRoutingController.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -195,6 +193,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

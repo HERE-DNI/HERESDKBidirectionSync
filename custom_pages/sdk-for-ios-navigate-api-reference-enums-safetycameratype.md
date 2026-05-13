@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / SafetyCameraType"
 slug: "sdk-for-ios-navigate-api-reference-enums-safetycameratype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SafetyCameraType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -228,6 +226,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-safetycameratype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

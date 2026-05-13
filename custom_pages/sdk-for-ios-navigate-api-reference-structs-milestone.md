@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / Milestone"
 slug: "sdk-for-ios-navigate-api-reference-structs-milestone"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Milestone.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -211,6 +209,5 @@ added during route calculation.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

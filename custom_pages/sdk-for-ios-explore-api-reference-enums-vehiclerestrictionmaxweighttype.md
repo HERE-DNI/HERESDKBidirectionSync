@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / VehicleRestrictionMaxWeightType"
 slug: "sdk-for-ios-explore-api-reference-enums-vehiclerestrictionmaxweighttype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VehicleRestrictionMaxWeightType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -157,6 +155,5 @@ A restriction of type <code><a href="../Enums/VehicleRestrictionMaxWeightType.ht
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

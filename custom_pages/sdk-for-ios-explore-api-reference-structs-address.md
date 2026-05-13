@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / Address"
 slug: "sdk-for-ios-explore-api-reference-structs-address"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Address.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -480,6 +478,5 @@ Note: This String can be empty when no data is available.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

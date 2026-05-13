@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapScene"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapscene"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapScene.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -1898,6 +1896,5 @@ calling this method may take slightly longer than calling one of the <code>loadS
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

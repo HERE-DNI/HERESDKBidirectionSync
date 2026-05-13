@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / Suggestion"
 slug: "sdk-for-ios-navigate-api-reference-classes-suggestion"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Suggestion.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -225,6 +223,5 @@ This is not supported in offline search.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

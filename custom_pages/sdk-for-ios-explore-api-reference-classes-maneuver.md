@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / Maneuver"
 slug: "sdk-for-ios-explore-api-reference-classes-maneuver"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Maneuver.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -488,6 +486,5 @@ compromised.
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

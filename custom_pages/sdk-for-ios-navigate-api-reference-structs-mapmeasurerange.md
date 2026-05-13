@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapMeasureRange"
 slug: "sdk-for-ios-navigate-api-reference-structs-mapmeasurerange"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapMeasureRange.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -196,6 +194,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-mapmeasurerange"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

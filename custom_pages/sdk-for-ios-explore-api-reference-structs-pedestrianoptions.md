@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / PedestrianOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-pedestrianoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PedestrianOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -215,6 +213,5 @@ speed is 1 meter per second.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

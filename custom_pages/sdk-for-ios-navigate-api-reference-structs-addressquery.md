@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / AddressQuery"
 slug: "sdk-for-ios-navigate-api-reference-structs-addressquery"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AddressQuery.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -305,6 +303,5 @@ Not supported in <code><a href="sdk-for-ios-navigate-api-reference-..-classes-of
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

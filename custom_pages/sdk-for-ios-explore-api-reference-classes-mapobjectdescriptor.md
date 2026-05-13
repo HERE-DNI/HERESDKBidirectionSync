@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapObjectDescriptor"
 slug: "sdk-for-ios-explore-api-reference-classes-mapobjectdescriptor"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapObjectDescriptor.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -143,6 +141,5 @@ For polygons and polylines <code>nil</code> is returned.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

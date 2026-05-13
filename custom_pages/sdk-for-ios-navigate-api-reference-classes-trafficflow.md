@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Traffic / TrafficFlow"
 slug: "sdk-for-ios-navigate-api-reference-classes-trafficflow"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficFlow.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -310,6 +308,5 @@ A confidence value equal to 0.70 or lower means that the data is derived from hi
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

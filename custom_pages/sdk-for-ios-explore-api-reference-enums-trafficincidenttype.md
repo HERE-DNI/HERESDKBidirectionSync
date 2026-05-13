@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Traffic / TrafficIncidentType"
 slug: "sdk-for-ios-explore-api-reference-enums-trafficincidenttype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficIncidentType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -353,6 +351,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-trafficincidenttype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

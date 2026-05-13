@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / Region"
 slug: "sdk-for-ios-navigate-api-reference-structs-region"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Region.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -238,6 +236,5 @@ A downloadable region will contain the content of all children.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

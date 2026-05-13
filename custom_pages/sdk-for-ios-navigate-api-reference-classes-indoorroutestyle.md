@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / IndoorRouteStyle"
 slug: "sdk-for-ios-navigate-api-reference-classes-indoorroutestyle"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IndoorRouteStyle.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -380,6 +378,5 @@ In the case of 0, the method returns an exit map marker.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

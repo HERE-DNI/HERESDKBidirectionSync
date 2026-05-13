@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / OptimizationMode"
 slug: "sdk-for-ios-navigate-api-reference-enums-optimizationmode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- OptimizationMode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -116,6 +114,5 @@ information, even if a faster route can be achieved by staying on the highway.</
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

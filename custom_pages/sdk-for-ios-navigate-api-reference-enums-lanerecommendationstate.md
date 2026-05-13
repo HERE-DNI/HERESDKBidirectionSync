@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / LaneRecommendationState"
 slug: "sdk-for-ios-navigate-api-reference-enums-lanerecommendationstate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LaneRecommendationState.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -136,6 +134,5 @@ maneuver after the next maneuver.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

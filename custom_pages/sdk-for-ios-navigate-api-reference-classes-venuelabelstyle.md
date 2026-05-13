@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueLabelStyle"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuelabelstyle"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueLabelStyle.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -237,6 +235,5 @@ has not been set for this label style.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

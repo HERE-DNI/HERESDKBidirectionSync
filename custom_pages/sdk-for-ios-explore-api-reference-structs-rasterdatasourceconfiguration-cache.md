@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "RasterDataSourceConfiguration / Cache"
 slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-cache"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Cache.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -140,6 +138,5 @@ Its size is only limited by the total device storage capacity.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

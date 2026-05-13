@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues"
 slug: "sdk-for-ios-navigate-api-reference-venues"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Venues.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -973,6 +971,5 @@ used for enabling routing services.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

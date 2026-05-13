@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / TextNotificationType"
 slug: "sdk-for-ios-navigate-api-reference-enums-textnotificationtype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TextNotificationType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -157,6 +155,5 @@ e.g.“Lane decrease ahead”</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

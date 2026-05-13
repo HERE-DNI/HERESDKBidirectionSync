@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / PrefetchStatusListener"
 slug: "sdk-for-ios-navigate-api-reference-protocols-prefetchstatuslistener"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PrefetchStatusListener.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -146,6 +144,5 @@ It is <code>nil</code> for an operation that succeeds.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

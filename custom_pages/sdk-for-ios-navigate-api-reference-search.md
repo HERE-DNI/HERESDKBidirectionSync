@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search"
 slug: "sdk-for-ios-navigate-api-reference-search"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Search.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -3355,6 +3353,5 @@ has been completed.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

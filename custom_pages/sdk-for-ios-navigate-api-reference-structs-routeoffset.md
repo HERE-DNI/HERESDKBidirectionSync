@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / RouteOffset"
 slug: "sdk-for-ios-navigate-api-reference-structs-routeoffset"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RouteOffset.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -132,6 +130,5 @@ The maximum possible offset is limited by the length of the section and cannot e
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

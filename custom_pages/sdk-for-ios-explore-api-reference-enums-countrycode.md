@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / CountryCode"
 slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CountryCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -6103,6 +6101,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-countrycode"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

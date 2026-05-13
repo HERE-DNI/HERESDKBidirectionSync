@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / RasterDataSourceError"
 slug: "sdk-for-ios-explore-api-reference-enums-rasterdatasourceerror"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RasterDataSourceError.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-rasterdatasourceerror"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

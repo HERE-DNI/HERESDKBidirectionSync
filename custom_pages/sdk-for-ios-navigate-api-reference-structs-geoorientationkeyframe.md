@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / GeoOrientationKeyframe"
 slug: "sdk-for-ios-navigate-api-reference-structs-geoorientationkeyframe"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GeoOrientationKeyframe.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -161,6 +159,5 @@ Negative duration value gets clamped to 0.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

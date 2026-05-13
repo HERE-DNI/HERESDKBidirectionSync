@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVChargingOpeningHoursSchedule"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingopeninghoursschedule"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVChargingOpeningHoursSchedule.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -131,6 +129,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / Crosswalk"
 slug: "sdk-for-ios-navigate-api-reference-classes-crosswalk"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Crosswalk.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -158,6 +156,5 @@ but not necessarily, rectangular and oriented with the shorter dimension in the 
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

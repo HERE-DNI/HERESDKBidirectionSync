@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "StructuredQuery / ResultType"
 slug: "sdk-for-ios-navigate-api-reference-structs-structuredquery-resulttype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ResultType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -180,6 +178,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-structuredquery-resulttype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / RouteOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-routeoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RouteOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -445,6 +443,5 @@ By default, this is set to <code>false</code>.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

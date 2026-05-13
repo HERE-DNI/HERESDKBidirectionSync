@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapMeasure / Kind"
 slug: "sdk-for-ios-navigate-api-reference-structs-mapmeasure-kind"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Kind.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -130,6 +128,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-mapmeasure-kind"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

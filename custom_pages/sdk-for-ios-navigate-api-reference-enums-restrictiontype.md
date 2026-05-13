@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Transport / RestrictionType"
 slug: "sdk-for-ios-navigate-api-reference-enums-restrictiontype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RestrictionType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -382,6 +380,5 @@ for information about axle group.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

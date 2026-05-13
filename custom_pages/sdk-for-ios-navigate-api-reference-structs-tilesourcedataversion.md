@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / TileSourceDataVersion"
 slug: "sdk-for-ios-navigate-api-reference-structs-tilesourcedataversion"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TileSourceDataVersion.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -132,6 +130,5 @@ Describes changes in underlying data that would not require a complete reload
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / TollStructureType"
 slug: "sdk-for-ios-navigate-api-reference-enums-tollstructuretype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TollStructureType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -155,6 +153,5 @@ This enum helps in providing detailed tolling information for routing and naviga
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

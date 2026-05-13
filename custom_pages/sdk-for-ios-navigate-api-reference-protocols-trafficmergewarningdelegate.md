@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / TrafficMergeWarningDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-trafficmergewarningdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficMergeWarningDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -106,6 +104,5 @@ since that is the distance between the first and second warnings.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

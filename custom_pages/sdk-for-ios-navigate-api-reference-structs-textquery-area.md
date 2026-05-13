@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TextQuery / Area"
 slug: "sdk-for-ios-navigate-api-reference-structs-textquery-area"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Area.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -462,6 +460,5 @@ The given list of countries and center define the area that will be used in the 
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

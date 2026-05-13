@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Classes"
 slug: "sdk-for-ios-navigate-api-reference-other classes"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Other Classes.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -105,6 +103,5 @@ behaviors. Related APIs may change in future releases without a deprecation proc
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

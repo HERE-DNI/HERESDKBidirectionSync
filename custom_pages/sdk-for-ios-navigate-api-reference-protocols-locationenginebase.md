@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Positioning / LocationEngineBase"
 slug: "sdk-for-ios-navigate-api-reference-protocols-locationenginebase"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LocationEngineBase.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -650,6 +648,5 @@ method.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

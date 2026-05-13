@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "EV / EVSECapability"
 slug: "sdk-for-ios-explore-api-reference-enums-evsecapability"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVSECapability.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -206,6 +204,5 @@ This is handy when a card and key-fob are given to the EV-driver.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

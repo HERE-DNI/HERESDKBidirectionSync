@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / RenderSize"
 slug: "sdk-for-ios-navigate-api-reference-structs-rendersize"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RenderSize.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -79,6 +77,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-rendersize"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

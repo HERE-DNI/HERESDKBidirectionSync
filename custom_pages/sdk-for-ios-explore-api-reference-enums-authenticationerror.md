@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Positioning / AuthenticationError"
 slug: "sdk-for-ios-explore-api-reference-enums-authenticationerror"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AuthenticationError.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -154,6 +152,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-authenticationerror"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

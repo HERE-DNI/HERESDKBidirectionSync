@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "LayerConfiguration / Feature"
 slug: "sdk-for-ios-explore-api-reference-structs-layerconfiguration-feature"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Feature.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -875,6 +873,5 @@ Feature enables following OCM layer groups:</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

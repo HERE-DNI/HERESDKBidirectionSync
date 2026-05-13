@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / LocalizedTexts"
 slug: "sdk-for-ios-navigate-api-reference-structs-localizedtexts"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LocalizedTexts.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -185,6 +183,5 @@ In case of empty list return <code>nil</code>.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

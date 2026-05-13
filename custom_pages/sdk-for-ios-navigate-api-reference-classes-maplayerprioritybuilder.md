@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapLayerPriorityBuilder"
 slug: "sdk-for-ios-navigate-api-reference-classes-maplayerprioritybuilder"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapLayerPriorityBuilder.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -656,6 +654,5 @@ MapLayerPriority.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

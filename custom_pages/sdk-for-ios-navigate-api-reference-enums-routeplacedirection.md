@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / RoutePlaceDirection"
 slug: "sdk-for-ios-navigate-api-reference-enums-routeplacedirection"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoutePlaceDirection.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-routeplacedirection"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

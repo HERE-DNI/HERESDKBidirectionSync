@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TrafficRadio / TMCData"
 slug: "sdk-for-ios-navigate-api-reference-structs-tmcdata"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TMCData.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -303,6 +301,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-tmcdata"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

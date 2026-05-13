@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVChargingLocationFeature"
 slug: "sdk-for-ios-navigate-api-reference-enums-evcharginglocationfeature"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVChargingLocationFeature.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -240,6 +238,5 @@ Ignored if neither <code><a href="../Enums/EVChargingLocationFeature.html#/s:7he
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

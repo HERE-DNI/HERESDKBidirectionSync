@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / MapUpdateTask"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapupdatetask"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapUpdateTask.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -136,6 +134,5 @@ paused state.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

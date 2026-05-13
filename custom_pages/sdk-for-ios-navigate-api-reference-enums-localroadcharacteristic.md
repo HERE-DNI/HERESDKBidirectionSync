@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / LocalRoadCharacteristic"
 slug: "sdk-for-ios-navigate-api-reference-enums-localroadcharacteristic"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LocalRoadCharacteristic.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -134,6 +132,5 @@ These roads provide the only means of entrance or exit from a POI to a public ro
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

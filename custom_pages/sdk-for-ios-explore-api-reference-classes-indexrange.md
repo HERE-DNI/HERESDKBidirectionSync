@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / IndexRange"
 slug: "sdk-for-ios-explore-api-reference-classes-indexrange"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IndexRange.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -106,6 +104,5 @@ The first character is denoted by a value of 0.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

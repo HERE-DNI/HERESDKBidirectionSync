@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / Runnable"
 slug: "sdk-for-ios-explore-api-reference-protocols-runnable"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Runnable.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -79,6 +77,5 @@ instances are intended to be executed by a thread.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

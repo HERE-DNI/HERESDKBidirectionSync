@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "RasterDataSourceConfiguration / Provider"
 slug: "sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-provider"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Provider.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -213,6 +211,5 @@ appropriate z value of the tile key will be determined.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

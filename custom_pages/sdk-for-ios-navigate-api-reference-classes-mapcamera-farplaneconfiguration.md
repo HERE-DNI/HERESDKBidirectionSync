@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapCamera / FarPlaneConfiguration"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapcamera-farplaneconfiguration"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- FarPlaneConfiguration.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -135,6 +133,5 @@ distanceToTargetInMeters * distanceFactor
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

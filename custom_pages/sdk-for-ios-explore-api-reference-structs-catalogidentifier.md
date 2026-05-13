@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / CatalogIdentifier"
 slug: "sdk-for-ios-explore-api-reference-structs-catalogidentifier"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CatalogIdentifier.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -160,6 +158,5 @@ Note: when <code>CatalogIdentifier</code> created with <code><a href="sdk-for-io
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

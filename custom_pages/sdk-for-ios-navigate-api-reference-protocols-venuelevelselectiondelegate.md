@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueLevelSelectionDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-venuelevelselectiondelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueLevelSelectionDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -136,6 +134,5 @@ if there was no selected level before.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

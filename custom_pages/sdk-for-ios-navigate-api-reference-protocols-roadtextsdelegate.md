@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / RoadTextsDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-roadtextsdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoadTextsDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -99,6 +97,5 @@ texts differs from the previous one already issued.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

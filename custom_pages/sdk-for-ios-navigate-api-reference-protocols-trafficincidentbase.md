@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Traffic / TrafficIncidentBase"
 slug: "sdk-for-ios-navigate-api-reference-protocols-trafficincidentbase"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficIncidentBase.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -178,6 +176,5 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-trafficincidentbase"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

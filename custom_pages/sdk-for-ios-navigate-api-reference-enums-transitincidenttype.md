@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TransitIncidentType"
 slug: "sdk-for-ios-navigate-api-reference-enums-transitincidenttype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TransitIncidentType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -303,6 +301,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-transitincidenttype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

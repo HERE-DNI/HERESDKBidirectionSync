@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / GeoPolylineDirection"
 slug: "sdk-for-ios-navigate-api-reference-enums-geopolylinedirection"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GeoPolylineDirection.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -104,6 +102,5 @@ from the end of <code><a href="../Structs/GeoPolyline.html#/s:7heresdk11GeoPolyl
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

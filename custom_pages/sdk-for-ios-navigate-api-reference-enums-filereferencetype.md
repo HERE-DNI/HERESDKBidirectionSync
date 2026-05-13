@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / FileReferenceType"
 slug: "sdk-for-ios-navigate-api-reference-enums-filereferencetype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- FileReferenceType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -78,6 +76,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-filereferencetype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

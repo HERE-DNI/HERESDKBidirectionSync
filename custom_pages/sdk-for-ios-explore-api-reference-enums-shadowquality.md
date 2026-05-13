@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / ShadowQuality"
 slug: "sdk-for-ios-explore-api-reference-enums-shadowquality"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ShadowQuality.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -179,6 +177,5 @@ maps and the cascade count), which is shared by all views.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

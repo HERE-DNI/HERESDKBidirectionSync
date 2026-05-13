@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / EventText"
 slug: "sdk-for-ios-navigate-api-reference-structs-eventtext"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EventText.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -251,6 +249,5 @@ then this attribute will be <code>nil</code>.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

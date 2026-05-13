@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / TollBoothLane"
 slug: "sdk-for-ios-navigate-api-reference-structs-tollboothlane"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TollBoothLane.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-tollboothlane"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

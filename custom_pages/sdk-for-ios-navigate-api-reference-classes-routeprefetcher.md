@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / RoutePrefetcher"
 slug: "sdk-for-ios-navigate-api-reference-classes-routeprefetcher"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoutePrefetcher.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -343,6 +341,5 @@ of <code>onProgress(...)</code> on the main thread.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

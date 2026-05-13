@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TrafficRadio / TrafficBroadcastParameters"
 slug: "sdk-for-ios-navigate-api-reference-structs-trafficbroadcastparameters"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficBroadcastParameters.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-trafficbroadcastparameters"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

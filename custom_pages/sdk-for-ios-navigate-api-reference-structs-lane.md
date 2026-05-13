@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / Lane"
 slug: "sdk-for-ios-navigate-api-reference-structs-lane"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Lane.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -232,6 +230,5 @@ This is a subset of <code><a href="../Structs/Lane.html#/s:7heresdk4LaneV10direc
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

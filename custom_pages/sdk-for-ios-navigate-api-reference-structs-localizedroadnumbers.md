@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / LocalizedRoadNumbers"
 slug: "sdk-for-ios-navigate-api-reference-structs-localizedroadnumbers"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LocalizedRoadNumbers.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -185,6 +183,5 @@ default or <code>nil</code> if list is empty.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

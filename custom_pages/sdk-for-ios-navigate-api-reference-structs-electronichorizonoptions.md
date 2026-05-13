@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "ElectronicHorizon / ElectronicHorizonOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-electronichorizonoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ElectronicHorizonOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -136,6 +134,5 @@ Segments are removed from the path once they are passed and the distance to them
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

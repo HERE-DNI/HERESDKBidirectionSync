@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / LocalizedText"
 slug: "sdk-for-ios-navigate-api-reference-structs-localizedtext"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LocalizedText.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -129,6 +127,5 @@ If locale is not supported by the platform, <code>nil</code> is returned.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

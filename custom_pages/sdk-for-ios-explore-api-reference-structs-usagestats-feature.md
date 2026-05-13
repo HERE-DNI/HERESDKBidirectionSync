@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "UsageStats / Feature"
 slug: "sdk-for-ios-explore-api-reference-structs-usagestats-feature"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Feature.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -714,6 +712,5 @@ This includes a <strong>Network Positioning</strong> transaction count with HRN 
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

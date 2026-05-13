@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapContext"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapContext.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -422,6 +420,5 @@ completion to pass the return value to the caller.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

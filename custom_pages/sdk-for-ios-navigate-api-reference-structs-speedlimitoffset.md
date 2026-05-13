@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / SpeedLimitOffset"
 slug: "sdk-for-ios-navigate-api-reference-structs-speedlimitoffset"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SpeedLimitOffset.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -155,6 +153,5 @@ Only one of the two offsets is used depending on the current speed limit.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

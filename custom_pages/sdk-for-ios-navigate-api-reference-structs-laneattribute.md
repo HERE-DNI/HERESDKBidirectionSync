@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / LaneAttribute"
 slug: "sdk-for-ios-navigate-api-reference-structs-laneattribute"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LaneAttribute.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -207,6 +205,5 @@ at entry and exit points along a toll road which requires payment (cash, electro
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

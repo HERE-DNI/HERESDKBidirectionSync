@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / DrawOrderType"
 slug: "sdk-for-ios-navigate-api-reference-enums-drawordertype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DrawOrderType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -114,6 +112,5 @@ same draw order.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

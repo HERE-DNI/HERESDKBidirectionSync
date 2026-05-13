@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / LaneType"
 slug: "sdk-for-ios-navigate-api-reference-structs-lanetype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LaneType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -539,6 +537,5 @@ lane markings, signs, buffers or barriers.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

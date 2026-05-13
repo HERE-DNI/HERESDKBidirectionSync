@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / PhysicalAttributes"
 slug: "sdk-for-ios-navigate-api-reference-structs-physicalattributes"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PhysicalAttributes.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -325,6 +323,5 @@ prohibits the use of automobiles.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

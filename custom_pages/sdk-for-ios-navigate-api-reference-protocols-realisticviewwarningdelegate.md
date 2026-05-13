@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / RealisticViewWarningDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-realisticviewwarningdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RealisticViewWarningDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ since that is the distance between the first and second warnings.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

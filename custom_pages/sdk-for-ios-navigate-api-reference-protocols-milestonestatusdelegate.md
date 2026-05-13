@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / MilestoneStatusDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-milestonestatusdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MilestoneStatusDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -111,6 +109,5 @@ arrival at each <code><a href="sdk-for-ios-navigate-api-reference-..-structs-mil
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

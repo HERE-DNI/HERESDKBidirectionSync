@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / RouteStop"
 slug: "sdk-for-ios-navigate-api-reference-structs-routestop"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RouteStop.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -134,6 +132,5 @@ prevents user from using origin location as route stop.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

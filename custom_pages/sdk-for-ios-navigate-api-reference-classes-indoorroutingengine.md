@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / IndoorRoutingEngine"
 slug: "sdk-for-ios-navigate-api-reference-classes-indoorroutingengine"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IndoorRoutingEngine.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -195,6 +193,5 @@ It is always invoked on the main thread.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

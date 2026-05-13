@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / TrafficSignal"
 slug: "sdk-for-ios-navigate-api-reference-structs-trafficsignal"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficSignal.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -156,6 +154,5 @@ An empty list will be returned when signal location is unspecified/unknown.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

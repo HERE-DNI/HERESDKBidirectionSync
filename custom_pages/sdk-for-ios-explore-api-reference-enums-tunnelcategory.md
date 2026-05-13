@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TunnelCategory"
 slug: "sdk-for-ios-explore-api-reference-enums-tunnelcategory"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TunnelCategory.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -161,6 +159,5 @@ waste and samples.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Traffic / Traversability"
 slug: "sdk-for-ios-explore-api-reference-enums-traversability"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Traversability.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-traversability"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

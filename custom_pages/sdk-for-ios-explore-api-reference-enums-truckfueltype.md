@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Transport / TruckFuelType"
 slug: "sdk-for-ios-explore-api-reference-enums-truckfueltype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TruckFuelType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -154,6 +152,5 @@ Note: This is a BETA feature and thus subject to change.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

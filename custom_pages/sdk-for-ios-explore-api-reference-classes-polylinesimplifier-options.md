@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "PolylineSimplifier / Options"
 slug: "sdk-for-ios-explore-api-reference-classes-polylinesimplifier-options"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Options.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -175,6 +173,5 @@ is ignored.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

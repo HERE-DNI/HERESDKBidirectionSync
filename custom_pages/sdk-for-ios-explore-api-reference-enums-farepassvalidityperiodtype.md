@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / FarePassValidityPeriodType"
 slug: "sdk-for-ios-explore-api-reference-enums-farepassvalidityperiodtype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- FarePassValidityPeriodType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -178,6 +176,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-farepassvalidityperiodtype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

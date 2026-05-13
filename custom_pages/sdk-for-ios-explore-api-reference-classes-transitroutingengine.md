@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TransitRoutingEngine"
 slug: "sdk-for-ios-explore-api-reference-classes-transitroutingengine"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TransitRoutingEngine.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -225,6 +223,5 @@ It is always invoked on the main thread.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

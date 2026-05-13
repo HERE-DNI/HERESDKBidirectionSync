@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapPolyline / Representation"
 slug: "sdk-for-ios-navigate-api-reference-classes-mappolyline-representation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Representation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -107,6 +105,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mappolyline-representation"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

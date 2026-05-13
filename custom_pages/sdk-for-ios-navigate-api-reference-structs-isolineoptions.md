@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / IsolineOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-isolineoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IsolineOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -541,6 +539,5 @@ Setting at least one limit to <code><a href="../Structs/IsolineOptions/Calculati
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

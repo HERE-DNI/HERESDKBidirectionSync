@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / AvoidBoundingBoxAreaOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-avoidboundingboxareaoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AvoidBoundingBoxAreaOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -184,6 +182,5 @@ Otherwise route calculation will fail with an [sdk.routing.RoutingError.INVALID_
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

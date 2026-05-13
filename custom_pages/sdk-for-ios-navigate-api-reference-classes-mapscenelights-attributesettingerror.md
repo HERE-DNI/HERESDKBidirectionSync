@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapSceneLights / AttributeSettingError"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapscenelights-attributesettingerror"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AttributeSettingError.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -80,6 +78,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapscenelights-attributesettin
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

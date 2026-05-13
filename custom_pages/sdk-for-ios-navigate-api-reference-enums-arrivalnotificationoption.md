@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / ArrivalNotificationOption"
 slug: "sdk-for-ios-navigate-api-reference-enums-arrivalnotificationoption"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ArrivalNotificationOption.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -153,6 +151,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-arrivalnotificationoption"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

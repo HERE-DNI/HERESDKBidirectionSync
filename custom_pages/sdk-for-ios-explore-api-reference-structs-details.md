@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / Details"
 slug: "sdk-for-ios-explore-api-reference-structs-details"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Details.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -601,6 +599,5 @@ Related APIs may change for new releases without a deprecation process.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

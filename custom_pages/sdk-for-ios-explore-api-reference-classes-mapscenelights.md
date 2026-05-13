@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapSceneLights"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscenelights"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapSceneLights.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -567,6 +565,5 @@ or MapScene is not intitialized.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

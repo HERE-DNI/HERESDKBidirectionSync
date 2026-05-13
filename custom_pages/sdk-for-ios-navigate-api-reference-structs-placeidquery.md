@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / PlaceIdQuery"
 slug: "sdk-for-ios-navigate-api-reference-structs-placeidquery"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PlaceIdQuery.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -122,6 +120,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-placeidquery"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

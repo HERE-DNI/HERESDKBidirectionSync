@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueErrorCode"
 slug: "sdk-for-ios-navigate-api-reference-enums-venueerrorcode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueErrorCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -404,6 +402,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-venueerrorcode"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

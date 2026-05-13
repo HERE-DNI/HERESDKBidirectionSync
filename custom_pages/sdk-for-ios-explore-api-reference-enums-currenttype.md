@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / CurrentType"
 slug: "sdk-for-ios-explore-api-reference-enums-currenttype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CurrentType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-currenttype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

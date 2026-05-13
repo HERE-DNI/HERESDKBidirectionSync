@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / SegmentDataLoader"
 slug: "sdk-for-ios-navigate-api-reference-classes-segmentdataloader"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SegmentDataLoader.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -403,6 +401,5 @@ Throws if it’s not possible to return list of a list of segments.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

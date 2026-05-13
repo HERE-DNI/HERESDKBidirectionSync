@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / RailwayCrossingWarning"
 slug: "sdk-for-ios-navigate-api-reference-structs-railwaycrossingwarning"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RailwayCrossingWarning.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -209,6 +207,5 @@ location.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

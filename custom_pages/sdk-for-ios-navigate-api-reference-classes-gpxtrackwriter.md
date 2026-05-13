@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / GPXTrackWriter"
 slug: "sdk-for-ios-navigate-api-reference-classes-gpxtrackwriter"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GPXTrackWriter.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -220,6 +218,5 @@ Invoked on the main thread.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

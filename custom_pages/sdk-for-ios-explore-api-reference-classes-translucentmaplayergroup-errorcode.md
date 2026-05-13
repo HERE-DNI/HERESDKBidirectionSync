@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TranslucentMapLayerGroup / ErrorCode"
 slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup-errorcode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ErrorCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -80,6 +78,5 @@ slug: "sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup-errorc
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

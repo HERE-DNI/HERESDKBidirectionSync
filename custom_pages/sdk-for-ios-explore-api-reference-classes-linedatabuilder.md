@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / LineDataBuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-linedatabuilder"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LineDataBuilder.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -211,6 +209,5 @@ Altitude of polyline vertices is ignored.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

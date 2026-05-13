@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / RoutingProtocol"
 slug: "sdk-for-ios-explore-api-reference-protocols-routingprotocol"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoutingProtocol.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -1058,6 +1056,5 @@ It is always invoked on the main thread.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

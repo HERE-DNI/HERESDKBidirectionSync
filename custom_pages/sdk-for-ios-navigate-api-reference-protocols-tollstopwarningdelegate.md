@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / TollStopWarningDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-tollstopwarningdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TollStopWarningDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -107,6 +105,5 @@ since that is the distance between the first and second warnings.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

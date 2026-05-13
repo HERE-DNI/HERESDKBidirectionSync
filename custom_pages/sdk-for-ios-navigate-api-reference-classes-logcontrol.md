@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / LogControl"
 slug: "sdk-for-ios-navigate-api-reference-classes-logcontrol"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LogControl.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -299,6 +297,5 @@ in order to do that use <code><a href="../Classes/LogControl.html#/s:7heresdk10L
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

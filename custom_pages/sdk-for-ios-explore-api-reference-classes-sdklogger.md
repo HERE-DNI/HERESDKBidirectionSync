@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / SDKLogger"
 slug: "sdk-for-ios-explore-api-reference-classes-sdklogger"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SDKLogger.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -347,6 +345,5 @@ These logs are under management of <code><a href="sdk-for-ios-explore-api-refere
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

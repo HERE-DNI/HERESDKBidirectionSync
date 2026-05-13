@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / Toll"
 slug: "sdk-for-ios-navigate-api-reference-structs-toll"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Toll.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -164,6 +162,5 @@ is never empty.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

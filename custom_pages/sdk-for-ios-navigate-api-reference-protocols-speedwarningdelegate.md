@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / SpeedWarningDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-speedwarningdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SpeedWarningDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -101,6 +99,5 @@ don’t take into account any temporary special speed limits. See <code>SpeedLim
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

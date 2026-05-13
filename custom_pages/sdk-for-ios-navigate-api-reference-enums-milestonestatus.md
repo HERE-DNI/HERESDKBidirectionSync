@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / MilestoneStatus"
 slug: "sdk-for-ios-navigate-api-reference-enums-milestonestatus"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MilestoneStatus.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-milestonestatus"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

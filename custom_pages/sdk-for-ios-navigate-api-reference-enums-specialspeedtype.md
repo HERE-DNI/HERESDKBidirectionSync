@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / SpecialSpeedType"
 slug: "sdk-for-ios-navigate-api-reference-enums-specialspeedtype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SpecialSpeedType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -330,6 +328,5 @@ speed limit.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

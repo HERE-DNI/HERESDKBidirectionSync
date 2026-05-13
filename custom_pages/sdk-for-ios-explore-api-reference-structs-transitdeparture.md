@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TransitDeparture"
 slug: "sdk-for-ios-explore-api-reference-structs-transitdeparture"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TransitDeparture.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -178,6 +176,5 @@ slug: "sdk-for-ios-explore-api-reference-structs-transitdeparture"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TollOptions / VehicleCategory"
 slug: "sdk-for-ios-explore-api-reference-structs-tolloptions-vehiclecategory"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VehicleCategory.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -81,6 +79,5 @@ or small bus that is used to transport a maximum of 15 passengers.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

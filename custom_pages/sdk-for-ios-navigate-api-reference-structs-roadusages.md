@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / RoadUsages"
 slug: "sdk-for-ios-navigate-api-reference-structs-roadusages"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoadUsages.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -191,6 +189,5 @@ On these roads all traffic has priority over the traffic on the incoming roads.<
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TextStyle / InstantiationErrorCode"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle-instantiationerrorcode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- InstantiationErrorCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -158,6 +156,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapmarker-textstyle-instantiat
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

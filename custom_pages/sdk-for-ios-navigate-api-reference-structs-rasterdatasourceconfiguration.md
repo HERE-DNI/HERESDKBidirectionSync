@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / RasterDataSourceConfiguration"
 slug: "sdk-for-ios-navigate-api-reference-structs-rasterdatasourceconfiguration"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RasterDataSourceConfiguration.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -231,6 +229,5 @@ the configuration.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

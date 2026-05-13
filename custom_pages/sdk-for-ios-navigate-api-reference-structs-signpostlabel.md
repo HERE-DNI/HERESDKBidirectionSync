@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / SignpostLabel"
 slug: "sdk-for-ios-navigate-api-reference-structs-signpostlabel"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SignpostLabel.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -130,6 +128,5 @@ Can be null if the road has no number assigned.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

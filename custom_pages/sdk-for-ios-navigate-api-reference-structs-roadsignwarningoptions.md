@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / RoadSignWarningOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-roadsignwarningoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoadSignWarningOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -205,6 +203,5 @@ road signs are not filtered by vehicle type, which means that you get road sign 
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

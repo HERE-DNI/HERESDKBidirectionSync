@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Crosswalk / ClassificationStyle"
 slug: "sdk-for-ios-navigate-api-reference-classes-crosswalk-classificationstyle"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ClassificationStyle.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -180,6 +178,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-crosswalk-classificationstyle"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

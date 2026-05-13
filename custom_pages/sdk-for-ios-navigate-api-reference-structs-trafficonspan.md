@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TrafficOnSpan"
 slug: "sdk-for-ios-navigate-api-reference-structs-trafficonspan"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficOnSpan.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -307,6 +305,5 @@ in general. Specifically, 0.0 means free traffic and 10.0 means stationary traff
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

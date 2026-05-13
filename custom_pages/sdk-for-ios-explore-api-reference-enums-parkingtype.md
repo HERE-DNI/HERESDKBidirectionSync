@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / ParkingType"
 slug: "sdk-for-ios-explore-api-reference-enums-parkingtype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ParkingType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -205,6 +203,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

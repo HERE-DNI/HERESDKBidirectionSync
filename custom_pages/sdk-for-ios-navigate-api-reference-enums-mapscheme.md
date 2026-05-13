@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapScheme"
 slug: "sdk-for-ios-navigate-api-reference-enums-mapscheme"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapScheme.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -496,6 +494,5 @@ for applications related to hiking, biking, skiing or any outdoor activities.</p
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

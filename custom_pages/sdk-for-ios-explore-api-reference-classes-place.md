@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / Place"
 slug: "sdk-for-ios-explore-api-reference-classes-place"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Place.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -473,6 +471,5 @@ For more details refer to <code><a href="sdk-for-ios-explore-api-reference-..-st
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

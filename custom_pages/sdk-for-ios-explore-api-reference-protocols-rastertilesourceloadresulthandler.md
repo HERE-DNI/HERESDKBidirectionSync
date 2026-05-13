@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / RasterTileSourceLoadResultHandler"
 slug: "sdk-for-ios-explore-api-reference-protocols-rastertilesourceloadresulthandler"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RasterTileSourceLoadResultHandler.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -166,6 +164,5 @@ Supported are images in PNG or JPEG format.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / SchoolZoneWarningDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-schoolzonewarningdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SchoolZoneWarningDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -97,6 +95,5 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-schoolzonewarningdelegate"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

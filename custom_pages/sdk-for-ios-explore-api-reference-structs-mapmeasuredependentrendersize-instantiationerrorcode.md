@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapMeasureDependentRenderSize / InstantiationErrorCode"
 slug: "sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize-instantiationerrorcode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- InstantiationErrorCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -131,6 +129,5 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize-i
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

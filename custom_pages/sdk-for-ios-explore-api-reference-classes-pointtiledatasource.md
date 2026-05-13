@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / PointTileDataSource"
 slug: "sdk-for-ios-explore-api-reference-classes-pointtiledatasource"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PointTileDataSource.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -130,6 +128,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

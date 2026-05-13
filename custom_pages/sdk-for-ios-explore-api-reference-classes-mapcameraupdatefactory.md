@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapCameraUpdateFactory"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcameraupdatefactory"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapCameraUpdateFactory.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -1441,6 +1439,5 @@ when trying to apply such animations.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

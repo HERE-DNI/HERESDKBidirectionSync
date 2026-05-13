@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "DataAttributeValue / ValueType"
 slug: "sdk-for-ios-explore-api-reference-classes-dataattributevalue-valuetype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ValueType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -230,6 +228,5 @@ slug: "sdk-for-ios-explore-api-reference-classes-dataattributevalue-valuetype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

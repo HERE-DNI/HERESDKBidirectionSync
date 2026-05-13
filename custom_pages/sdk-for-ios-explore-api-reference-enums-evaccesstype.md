@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVAccessType"
 slug: "sdk-for-ios-explore-api-reference-enums-evaccesstype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVAccessType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-evaccesstype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

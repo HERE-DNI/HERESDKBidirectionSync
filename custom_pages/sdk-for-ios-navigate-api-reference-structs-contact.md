@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / Contact"
 slug: "sdk-for-ios-navigate-api-reference-structs-contact"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Contact.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -207,6 +205,5 @@ This data is not available in offline search.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

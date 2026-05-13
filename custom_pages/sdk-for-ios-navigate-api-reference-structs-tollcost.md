@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / TollCost"
 slug: "sdk-for-ios-navigate-api-reference-structs-tollcost"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TollCost.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -257,6 +255,5 @@ cost applies.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

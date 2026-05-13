@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapMarker3DModel"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapmarker3dmodel"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapMarker3DModel.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -490,6 +488,5 @@ This color is multiplied with color of texture.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

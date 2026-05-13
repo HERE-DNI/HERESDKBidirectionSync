@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "EV / EVSEState"
 slug: "sdk-for-ios-explore-api-reference-enums-evsestate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVSEState.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -259,6 +257,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

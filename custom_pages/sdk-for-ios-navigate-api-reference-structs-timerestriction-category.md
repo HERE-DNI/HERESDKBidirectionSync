@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TimeRestriction / Category"
 slug: "sdk-for-ios-navigate-api-reference-structs-timerestriction-category"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Category.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -105,6 +103,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-timerestriction-category"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / SchoolZoneWarningOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-schoolzonewarningoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SchoolZoneWarningOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -132,6 +130,5 @@ Defaults to 100 meters.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

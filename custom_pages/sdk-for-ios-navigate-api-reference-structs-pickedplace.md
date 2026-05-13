@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / PickedPlace"
 slug: "sdk-for-ios-navigate-api-reference-structs-pickedplace"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PickedPlace.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -182,6 +180,5 @@ the <code><a href="sdk-for-ios-navigate-api-reference-..-classes-offlinesearchen
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

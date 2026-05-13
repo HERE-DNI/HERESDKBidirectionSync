@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / RoadAttributesDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-roadattributesdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoadAttributesDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -99,6 +97,5 @@ be called at least once for the first road the user is traveling on.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVChargingPoolDetails"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingpooldetails"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVChargingPoolDetails.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -207,6 +205,5 @@ in <code><a href="../Structs/SDKOptions.html#/s:7heresdk10SDKOptionsV18layerConf
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

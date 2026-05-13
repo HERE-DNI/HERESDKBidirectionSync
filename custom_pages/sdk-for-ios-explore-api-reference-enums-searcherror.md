@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / SearchError"
 slug: "sdk-for-ios-explore-api-reference-enums-searcherror"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SearchError.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -709,6 +707,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

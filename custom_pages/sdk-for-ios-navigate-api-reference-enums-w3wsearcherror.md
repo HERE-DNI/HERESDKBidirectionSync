@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / W3WSearchError"
 slug: "sdk-for-ios-navigate-api-reference-enums-w3wsearcherror"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- W3WSearchError.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -430,6 +428,5 @@ version of the SDK. If the problem persists, please report a bug in the SDK.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "WarnerEngine / CustomWarningProvider"
 slug: "sdk-for-ios-navigate-api-reference-protocols-customwarningprovider"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CustomWarningProvider.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -154,6 +152,5 @@ custom warnings. The list may be empty if no warnings apply.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

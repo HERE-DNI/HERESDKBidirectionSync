@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueInfo"
 slug: "sdk-for-ios-navigate-api-reference-classes-venueinfo"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueInfo.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -135,6 +133,5 @@ Integer for Venue.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

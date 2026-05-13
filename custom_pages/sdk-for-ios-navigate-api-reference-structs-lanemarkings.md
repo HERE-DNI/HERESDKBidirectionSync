@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / LaneMarkings"
 slug: "sdk-for-ios-navigate-api-reference-structs-lanemarkings"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LaneMarkings.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -158,6 +156,5 @@ on the left side of the specified lane in the lane driving direction.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "ElectronicHorizon / ElectronicHorizon"
 slug: "sdk-for-ios-navigate-api-reference-structs-electronichorizon"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ElectronicHorizon.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -139,6 +137,5 @@ The list may be empty if none of the <code><a href="sdk-for-ios-navigate-api-ref
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / TruckRestrictionWarning"
 slug: "sdk-for-ios-navigate-api-reference-structs-truckrestrictionwarning"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TruckRestrictionWarning.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -393,6 +391,5 @@ This method only checks that no specific conditions are set for the warning.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

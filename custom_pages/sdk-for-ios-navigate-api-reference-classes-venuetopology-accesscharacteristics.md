@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "VenueTopology / AccessCharacteristics"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuetopology-accesscharacteristics"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AccessCharacteristics.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -109,6 +107,5 @@ and the <code><a href="sdk-for-ios-navigate-api-reference-..-..-classes-venuetop
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

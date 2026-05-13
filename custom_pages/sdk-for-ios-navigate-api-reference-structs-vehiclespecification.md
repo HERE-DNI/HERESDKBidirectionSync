@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / VehicleSpecification"
 slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecification"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VehicleSpecification.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -1404,6 +1402,5 @@ By default, it is not set.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

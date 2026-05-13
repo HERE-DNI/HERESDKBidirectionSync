@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueDrawing"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuedrawing"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueDrawing.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -631,6 +629,5 @@ all topologies are realted to Drawing.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

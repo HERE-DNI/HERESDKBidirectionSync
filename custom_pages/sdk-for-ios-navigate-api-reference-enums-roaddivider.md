@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / RoadDivider"
 slug: "sdk-for-ios-navigate-api-reference-enums-roaddivider"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoadDivider.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -107,6 +105,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

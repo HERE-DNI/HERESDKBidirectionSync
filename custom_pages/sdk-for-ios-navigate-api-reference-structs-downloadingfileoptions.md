@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / DownloadingFileOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-downloadingfileoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DownloadingFileOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-downloadingfileoptions"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

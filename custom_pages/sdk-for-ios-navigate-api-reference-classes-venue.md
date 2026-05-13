@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / Venue"
 slug: "sdk-for-ios-navigate-api-reference-classes-venue"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Venue.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -430,6 +428,5 @@ It can be used to check the status of topology visibility.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

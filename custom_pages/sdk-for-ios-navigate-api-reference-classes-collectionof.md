@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / CollectionOf"
 slug: "sdk-for-ios-navigate-api-reference-classes-collectionof"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CollectionOf.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -197,6 +195,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-collectionof"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

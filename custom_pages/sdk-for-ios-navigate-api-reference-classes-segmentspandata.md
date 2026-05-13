@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / SegmentSpanData"
 slug: "sdk-for-ios-navigate-api-reference-classes-segmentspandata"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SegmentSpanData.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -561,6 +559,5 @@ Will be loaded if <code><a href="../Structs/SegmentDataLoaderOptions.html#/s:7he
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

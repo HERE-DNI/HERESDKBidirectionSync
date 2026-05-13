@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / RefreshRouteOptions"
 slug: "sdk-for-ios-navigate-api-reference-classes-refreshrouteoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RefreshRouteOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -570,6 +568,5 @@ an <code><a href="../Enums/RoutingError.html#/s:7heresdk12RoutingErrorO12noRoute
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

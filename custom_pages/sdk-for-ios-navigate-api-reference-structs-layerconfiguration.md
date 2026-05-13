@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / LayerConfiguration"
 slug: "sdk-for-ios-navigate-api-reference-structs-layerconfiguration"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LayerConfiguration.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -239,6 +237,5 @@ the same data to enable discoverability by name or category. Hence, features mig
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

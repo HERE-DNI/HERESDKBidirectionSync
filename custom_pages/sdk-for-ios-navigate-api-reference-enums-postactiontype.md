@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / PostActionType"
 slug: "sdk-for-ios-navigate-api-reference-enums-postactiontype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PostActionType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -154,6 +152,5 @@ independent of the action of actually charging the vehicle battery.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

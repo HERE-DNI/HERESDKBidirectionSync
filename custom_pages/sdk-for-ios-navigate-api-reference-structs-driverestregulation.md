@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Structures / DriveRestRegulation"
 slug: "sdk-for-ios-navigate-api-reference-structs-driverestregulation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DriveRestRegulation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -180,6 +178,5 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

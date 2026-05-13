@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / SslClientCredentialsOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-sslclientcredentialsoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SslClientCredentialsOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -182,6 +180,5 @@ It must be non-empty for mutual TLS. Else must be set to empty string.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

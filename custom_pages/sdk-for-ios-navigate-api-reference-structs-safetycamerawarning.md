@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / SafetyCameraWarning"
 slug: "sdk-for-ios-navigate-api-reference-structs-safetycamerawarning"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SafetyCameraWarning.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -207,6 +205,5 @@ position on the route, <code><a href="../Enums/DistanceType.html#/s:7heresdk12Di
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

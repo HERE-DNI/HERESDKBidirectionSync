@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "VenueTransportMode / Key"
 slug: "sdk-for-ios-navigate-api-reference-enums-venuetransportmode-key"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Key.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -80,6 +78,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-venuetransportmode-key"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

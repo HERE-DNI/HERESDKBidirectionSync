@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / ChargingActionDetails"
 slug: "sdk-for-ios-explore-api-reference-structs-chargingactiondetails"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ChargingActionDetails.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -159,6 +157,5 @@ Defaults to 0.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

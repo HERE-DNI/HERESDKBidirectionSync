@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapCameraKeyframeTrack / InstantiationErrorCode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcamerakeyframetrack-instantiationerrorcode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- InstantiationErrorCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -107,6 +105,5 @@ This exception is thrown when the first keyframe duration in a list of keyframes
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

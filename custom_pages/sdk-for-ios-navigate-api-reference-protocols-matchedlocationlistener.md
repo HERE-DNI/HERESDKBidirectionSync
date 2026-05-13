@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Protocols / MatchedLocationListener"
 slug: "sdk-for-ios-navigate-api-reference-protocols-matchedlocationlistener"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MatchedLocationListener.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -100,6 +98,5 @@ behaviors. Related APIs may change in future releases without a deprecation proc
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

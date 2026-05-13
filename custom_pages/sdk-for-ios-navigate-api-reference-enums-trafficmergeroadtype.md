@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / TrafficMergeRoadType"
 slug: "sdk-for-ios-navigate-api-reference-enums-trafficmergeroadtype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficMergeRoadType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-trafficmergeroadtype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

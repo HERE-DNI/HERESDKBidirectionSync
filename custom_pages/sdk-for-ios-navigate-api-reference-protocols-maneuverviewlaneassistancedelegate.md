@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / ManeuverViewLaneAssistanceDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-maneuverviewlaneassistancedelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ManeuverViewLaneAssistanceDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -99,6 +97,5 @@ See <code><a href="sdk-for-ios-navigate-api-reference-..-structs-maneuverviewlan
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

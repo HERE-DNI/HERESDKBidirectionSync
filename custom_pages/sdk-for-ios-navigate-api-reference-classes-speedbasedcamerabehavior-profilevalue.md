@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "SpeedBasedCameraBehavior / ProfileValue"
 slug: "sdk-for-ios-navigate-api-reference-classes-speedbasedcamerabehavior-profilevalue"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ProfileValue.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -182,6 +180,5 @@ Note: <code><a href="../../Structs/MapMeasure/Kind.html#/s:7heresdk10MapMeasureV
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

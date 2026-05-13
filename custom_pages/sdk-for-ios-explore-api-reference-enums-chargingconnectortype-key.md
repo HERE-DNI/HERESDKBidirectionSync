@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "ChargingConnectorType / Key"
 slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype-key"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Key.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -80,6 +78,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-chargingconnectortype-key"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

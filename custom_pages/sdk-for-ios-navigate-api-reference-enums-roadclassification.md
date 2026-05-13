@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / RoadClassification"
 slug: "sdk-for-ios-navigate-api-reference-enums-roadclassification"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoadClassification.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -130,6 +128,5 @@ and may change without any deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

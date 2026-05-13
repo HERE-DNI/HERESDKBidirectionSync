@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / TrafficMergeWarningOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-trafficmergewarningoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficMergeWarningOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -155,6 +153,5 @@ Defaults to 1500 meters.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

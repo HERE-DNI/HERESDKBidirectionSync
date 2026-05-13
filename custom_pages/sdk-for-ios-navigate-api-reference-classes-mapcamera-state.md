@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapCamera / State"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapcamera-state"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- State.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -195,6 +193,5 @@ will consider the target point as being located on the ground.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

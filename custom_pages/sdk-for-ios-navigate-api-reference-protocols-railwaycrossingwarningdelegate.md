@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / RailwayCrossingWarningDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-railwaycrossingwarningdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RailwayCrossingWarningDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -105,6 +103,5 @@ set to <code>DistanceType.AHEAD</code> and <code>DistanceType.PASSED</code> when
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

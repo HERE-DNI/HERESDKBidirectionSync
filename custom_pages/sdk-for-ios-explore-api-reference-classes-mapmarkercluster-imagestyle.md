@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapMarkerCluster / ImageStyle"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarkercluster-imagestyle"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ImageStyle.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -211,6 +209,5 @@ to the cluster’s position.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

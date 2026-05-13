@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / CurrentSituationLaneAssistanceView"
 slug: "sdk-for-ios-navigate-api-reference-structs-currentsituationlaneassistanceview"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CurrentSituationLaneAssistanceView.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -122,6 +120,5 @@ countries. Empty list means unavailability of lane data for the current location
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

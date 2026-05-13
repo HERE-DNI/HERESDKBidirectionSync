@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / PolygonTileSource"
 slug: "sdk-for-ios-explore-api-reference-protocols-polygontilesource"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PolygonTileSource.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -304,6 +302,5 @@ Upon completion, the handler gets informed.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

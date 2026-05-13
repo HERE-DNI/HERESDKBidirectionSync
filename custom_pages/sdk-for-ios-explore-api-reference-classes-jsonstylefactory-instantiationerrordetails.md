@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "JsonStyleFactory / InstantiationErrorDetails"
 slug: "sdk-for-ios-explore-api-reference-classes-jsonstylefactory-instantiationerrordetails"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- InstantiationErrorDetails.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -131,6 +129,5 @@ slug: "sdk-for-ios-explore-api-reference-classes-jsonstylefactory-instantiatione
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

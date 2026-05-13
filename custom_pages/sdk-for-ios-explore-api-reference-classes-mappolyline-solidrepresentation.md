@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapPolyline / SolidRepresentation"
 slug: "sdk-for-ios-explore-api-reference-classes-mappolyline-solidrepresentation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SolidRepresentation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -397,6 +395,5 @@ linearly interpolated between values given for these map measures.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

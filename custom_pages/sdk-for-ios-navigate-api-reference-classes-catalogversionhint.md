@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / CatalogVersionHint"
 slug: "sdk-for-ios-navigate-api-reference-classes-catalogversionhint"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CatalogVersionHint.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -184,6 +182,5 @@ clearing the cache) <em>and</em> no installed map data. Otherwise, this call wil
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / Metadata"
 slug: "sdk-for-ios-navigate-api-reference-classes-metadata"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Metadata.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -703,6 +701,5 @@ If the given key already exists, its value will be replaced by the new one.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

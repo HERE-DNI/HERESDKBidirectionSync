@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / RoadAttributes"
 slug: "sdk-for-ios-navigate-api-reference-structs-roadattributes"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoadAttributes.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -404,6 +402,5 @@ a left-hand driving country.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

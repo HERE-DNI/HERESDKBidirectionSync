@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapError"
 slug: "sdk-for-ios-navigate-api-reference-enums-maperror"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapError.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -153,6 +151,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-maperror"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

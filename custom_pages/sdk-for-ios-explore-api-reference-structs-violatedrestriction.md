@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / ViolatedRestriction"
 slug: "sdk-for-ios-explore-api-reference-structs-violatedrestriction"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ViolatedRestriction.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -185,6 +183,5 @@ be set with the maximum allowed height value.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / CatalogConfiguration"
 slug: "sdk-for-ios-navigate-api-reference-structs-catalogconfiguration"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CatalogConfiguration.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -245,6 +243,5 @@ It uses the catalog version that was the latest at the time when the HERE SDK wa
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

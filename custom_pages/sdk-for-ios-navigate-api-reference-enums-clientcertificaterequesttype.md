@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / ClientCertificateRequestType"
 slug: "sdk-for-ios-navigate-api-reference-enums-clientcertificaterequesttype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ClientCertificateRequestType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-clientcertificaterequesttype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

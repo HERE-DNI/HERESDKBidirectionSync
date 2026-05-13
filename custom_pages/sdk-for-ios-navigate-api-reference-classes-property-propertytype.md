@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Property / PropertyType"
 slug: "sdk-for-ios-navigate-api-reference-classes-property-propertytype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PropertyType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -130,6 +128,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-property-propertytype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / DirectionInformationUsageOption"
 slug: "sdk-for-ios-navigate-api-reference-enums-directioninformationusageoption"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DirectionInformationUsageOption.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -135,6 +133,5 @@ maneuver, whilst road number is included in case of highway-related maneuver.
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

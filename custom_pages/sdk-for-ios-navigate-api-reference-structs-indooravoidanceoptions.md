@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / IndoorAvoidanceOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-indooravoidanceoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IndoorAvoidanceOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -105,6 +103,5 @@ these features.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

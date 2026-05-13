@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / GeoCoordinatesKeyframe"
 slug: "sdk-for-ios-navigate-api-reference-structs-geocoordinateskeyframe"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GeoCoordinatesKeyframe.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -162,6 +160,5 @@ Negative duration value gets clamped to 0.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

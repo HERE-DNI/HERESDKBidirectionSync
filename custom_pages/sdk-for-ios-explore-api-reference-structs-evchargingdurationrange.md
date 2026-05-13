@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVChargingDurationRange"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingdurationrange"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVChargingDurationRange.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -133,6 +131,5 @@ If absent the element is valid until end of the charging session or until some o
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

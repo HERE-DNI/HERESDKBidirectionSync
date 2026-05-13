@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVChargingTariffElement"
 slug: "sdk-for-ios-navigate-api-reference-structs-evchargingtariffelement"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVChargingTariffElement.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -150,6 +148,5 @@ condition is typically present for charging sessions that do not meet any of the
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / WeatherType"
 slug: "sdk-for-ios-navigate-api-reference-enums-weathertype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- WeatherType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -153,6 +151,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-weathertype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

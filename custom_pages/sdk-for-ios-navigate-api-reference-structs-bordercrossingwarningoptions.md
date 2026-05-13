@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / BorderCrossingWarningOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-bordercrossingwarningoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- BorderCrossingWarningOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -134,6 +132,5 @@ This is useful for commercial vehicles that need CVR information - they should e
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

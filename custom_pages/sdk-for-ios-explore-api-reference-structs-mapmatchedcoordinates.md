@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / MapMatchedCoordinates"
 slug: "sdk-for-ios-explore-api-reference-structs-mapmatchedcoordinates"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapMatchedCoordinates.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-explore-api-reference-structs-mapmatchedcoordinates"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

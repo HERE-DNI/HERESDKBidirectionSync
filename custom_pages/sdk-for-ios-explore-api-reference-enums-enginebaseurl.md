@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / EngineBaseURL"
 slug: "sdk-for-ios-explore-api-reference-enums-enginebaseurl"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EngineBaseURL.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -298,6 +296,5 @@ query data. You need to ensure that the provided base URL supports all required 
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

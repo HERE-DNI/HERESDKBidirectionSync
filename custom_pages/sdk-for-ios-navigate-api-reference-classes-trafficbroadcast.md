@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TrafficRadio / TrafficBroadcast"
 slug: "sdk-for-ios-navigate-api-reference-classes-trafficbroadcast"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficBroadcast.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -396,6 +394,5 @@ With special case of countryCode parameter = 0</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

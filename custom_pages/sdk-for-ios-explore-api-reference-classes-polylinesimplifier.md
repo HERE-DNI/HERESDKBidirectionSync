@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / PolylineSimplifier"
 slug: "sdk-for-ios-explore-api-reference-classes-polylinesimplifier"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PolylineSimplifier.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -201,6 +199,5 @@ when operation is finished.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

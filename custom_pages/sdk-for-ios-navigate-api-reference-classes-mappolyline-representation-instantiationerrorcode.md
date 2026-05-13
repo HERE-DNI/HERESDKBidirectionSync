@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Representation / InstantiationErrorCode"
 slug: "sdk-for-ios-navigate-api-reference-classes-mappolyline-representation-instantiationerrorcode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- InstantiationErrorCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -83,6 +81,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mappolyline-representation-ins
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

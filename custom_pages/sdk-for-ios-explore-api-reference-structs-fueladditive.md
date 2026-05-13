@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / FuelAdditive"
 slug: "sdk-for-ios-explore-api-reference-structs-fueladditive"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- FuelAdditive.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -155,6 +153,5 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

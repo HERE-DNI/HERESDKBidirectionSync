@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVChargingTariff"
 slug: "sdk-for-ios-explore-api-reference-structs-evchargingtariff"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVChargingTariff.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -257,6 +255,5 @@ charging session. If no condition matches, the element without any condition app
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

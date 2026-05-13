@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "VenueService / VenueOptionalFeature"
 slug: "sdk-for-ios-navigate-api-reference-classes-venueservice-venueoptionalfeature"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueOptionalFeature.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -105,6 +103,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venueservice-venueoptionalfeat
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

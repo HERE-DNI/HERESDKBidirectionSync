@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TaxiOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-taxioptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TaxiOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -319,6 +317,5 @@ before the route destination.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

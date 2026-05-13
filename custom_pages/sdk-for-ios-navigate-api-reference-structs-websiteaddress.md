@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / WebsiteAddress"
 slug: "sdk-for-ios-navigate-api-reference-structs-websiteaddress"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- WebsiteAddress.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -130,6 +128,5 @@ Otherwise, <code><a href="../Structs/WebsiteAddress.html#/s:7heresdk14WebsiteAdd
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

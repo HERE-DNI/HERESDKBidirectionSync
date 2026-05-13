@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TextUsageOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-textusageoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TextUsageOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -156,6 +154,5 @@ Defaults to <code><a href="../Enums/LocalizedTextPreference.html#/s:7heresdk23Lo
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

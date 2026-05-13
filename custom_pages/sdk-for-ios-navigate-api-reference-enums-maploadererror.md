@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / MapLoaderError"
 slug: "sdk-for-ios-navigate-api-reference-enums-maploadererror"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapLoaderError.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -860,6 +858,5 @@ Contact the sales team to get access to the full version.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

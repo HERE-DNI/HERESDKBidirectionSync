@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVSEStatus"
 slug: "sdk-for-ios-navigate-api-reference-enums-evsestatus"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVSEStatus.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -228,6 +226,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-evsestatus"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

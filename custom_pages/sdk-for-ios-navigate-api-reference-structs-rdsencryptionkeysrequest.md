@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "TrafficRadio / RDSEncryptionKeysRequest"
 slug: "sdk-for-ios-navigate-api-reference-structs-rdsencryptionkeysrequest"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RDSEncryptionKeysRequest.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -153,6 +151,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-rdsencryptionkeysrequest"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

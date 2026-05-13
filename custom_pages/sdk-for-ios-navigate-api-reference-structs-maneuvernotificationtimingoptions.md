@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / ManeuverNotificationTimingOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-maneuvernotificationtimingoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ManeuverNotificationTimingOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -799,6 +797,5 @@ routes cannot be calculated with the HERE SDK as highways are forbidden for pede
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

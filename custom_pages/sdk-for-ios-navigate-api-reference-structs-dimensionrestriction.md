@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / DimensionRestriction"
 slug: "sdk-for-ios-navigate-api-reference-structs-dimensionrestriction"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DimensionRestriction.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-dimensionrestriction"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

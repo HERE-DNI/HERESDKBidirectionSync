@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapMarker3DModel / InstantiationErrorCode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel-instantiationerrorcode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- InstantiationErrorCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -81,6 +79,5 @@ slug: "sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel-instantiatione
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

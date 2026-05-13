@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / PolygonTileSourceLoadResultHandler"
 slug: "sdk-for-ios-navigate-api-reference-protocols-polygontilesourceloadresulthandler"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PolygonTileSourceLoadResultHandler.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -165,6 +163,5 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-polygontilesourceloadresulth
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

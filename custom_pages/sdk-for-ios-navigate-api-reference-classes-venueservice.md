@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueService"
 slug: "sdk-for-ios-navigate-api-reference-classes-venueservice"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueService.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -860,6 +858,5 @@ is not removed if it is not present in the list of delegates.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

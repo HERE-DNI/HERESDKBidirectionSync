@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueDrawingSelectionDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-venuedrawingselectiondelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueDrawingSelectionDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -124,6 +122,5 @@ if there was no selected drawing before.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

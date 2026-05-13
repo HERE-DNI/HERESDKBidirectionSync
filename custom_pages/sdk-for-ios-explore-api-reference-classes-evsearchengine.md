@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVSearchEngine"
 slug: "sdk-for-ios-explore-api-reference-classes-evsearchengine"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVSearchEngine.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -244,6 +242,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

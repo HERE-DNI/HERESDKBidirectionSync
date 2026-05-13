@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / TileSource"
 slug: "sdk-for-ios-navigate-api-reference-protocols-tilesource"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TileSource.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -242,6 +240,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Transport / TransportType"
 slug: "sdk-for-ios-navigate-api-reference-enums-transporttype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TransportType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -305,6 +303,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

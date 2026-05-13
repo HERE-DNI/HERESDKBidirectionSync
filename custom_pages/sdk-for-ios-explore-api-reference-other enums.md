@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Enumerations"
 slug: "sdk-for-ios-explore-api-reference-other enums"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Other Enums.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -98,6 +96,5 @@ slug: "sdk-for-ios-explore-api-reference-other enums"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

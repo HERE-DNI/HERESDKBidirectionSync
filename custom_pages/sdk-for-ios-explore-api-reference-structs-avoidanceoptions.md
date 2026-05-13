@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / AvoidanceOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-avoidanceoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AvoidanceOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -388,6 +386,5 @@ Refer to <code><a href="sdk-for-ios-explore-api-reference-..-enums-truckroadtype
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

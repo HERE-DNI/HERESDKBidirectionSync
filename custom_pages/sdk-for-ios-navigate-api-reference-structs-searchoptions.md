@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / SearchOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-searchoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SearchOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -195,6 +193,5 @@ Otherwise, this value is ignored.</li>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

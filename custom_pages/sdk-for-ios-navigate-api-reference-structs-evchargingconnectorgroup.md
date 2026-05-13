@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVChargingConnectorGroup"
 slug: "sdk-for-ios-navigate-api-reference-structs-evchargingconnectorgroup"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVChargingConnectorGroup.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -239,6 +237,5 @@ Available only if <code>EVChargingLocationFeature.TARIFFS</code> is included in
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

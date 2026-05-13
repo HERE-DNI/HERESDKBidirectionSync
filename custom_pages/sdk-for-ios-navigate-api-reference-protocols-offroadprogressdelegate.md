@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / OffRoadProgressDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-offroadprogressdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- OffRoadProgressDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -100,6 +98,5 @@ location is not map-matched.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

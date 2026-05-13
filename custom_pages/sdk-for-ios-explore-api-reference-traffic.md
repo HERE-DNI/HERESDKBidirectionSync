@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Traffic"
 slug: "sdk-for-ios-explore-api-reference-traffic"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Traffic.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -654,6 +652,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

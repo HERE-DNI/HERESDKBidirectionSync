@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / TrackingCameraBehavior"
 slug: "sdk-for-ios-navigate-api-reference-classes-trackingcamerabehavior"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrackingCameraBehavior.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -777,6 +775,5 @@ Defaults to <code>nil</code>.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

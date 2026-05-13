@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / SafetyCameraWarningDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-safetycamerawarningdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SafetyCameraWarningDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -106,6 +104,5 @@ That is a first in first out approach is used when multiple safety cameras are r
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

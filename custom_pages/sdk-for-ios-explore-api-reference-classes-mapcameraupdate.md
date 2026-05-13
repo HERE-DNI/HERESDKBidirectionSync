@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapCameraUpdate"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcameraupdate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapCameraUpdate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -108,6 +106,5 @@ Creation is done via <code><a href="sdk-for-ios-explore-api-reference-..-classes
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

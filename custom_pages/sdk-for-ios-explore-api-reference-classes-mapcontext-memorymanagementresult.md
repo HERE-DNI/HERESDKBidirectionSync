@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapContext / MemoryManagementResult"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementresult"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MemoryManagementResult.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -138,6 +136,5 @@ correct memory limit cannot be calculated, <code>nil</code> value is returned.</
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

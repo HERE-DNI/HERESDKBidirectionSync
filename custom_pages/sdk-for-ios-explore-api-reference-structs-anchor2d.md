@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / Anchor2D"
 slug: "sdk-for-ios-explore-api-reference-structs-anchor2d"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Anchor2D.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -184,6 +182,5 @@ slug: "sdk-for-ios-explore-api-reference-structs-anchor2d"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

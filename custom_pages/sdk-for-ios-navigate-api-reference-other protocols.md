@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Protocols"
 slug: "sdk-for-ios-navigate-api-reference-other protocols"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Other Protocols.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -75,6 +73,5 @@ behaviors. Related APIs may change in future releases without a deprecation proc
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

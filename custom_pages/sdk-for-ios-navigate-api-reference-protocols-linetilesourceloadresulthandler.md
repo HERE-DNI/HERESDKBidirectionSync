@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / LineTileSourceLoadResultHandler"
 slug: "sdk-for-ios-navigate-api-reference-protocols-linetilesourceloadresulthandler"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LineTileSourceLoadResultHandler.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -165,6 +163,5 @@ slug: "sdk-for-ios-navigate-api-reference-protocols-linetilesourceloadresulthand
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

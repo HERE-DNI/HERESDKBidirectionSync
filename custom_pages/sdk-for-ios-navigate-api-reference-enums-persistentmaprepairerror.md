@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / PersistentMapRepairError"
 slug: "sdk-for-ios-navigate-api-reference-enums-persistentmaprepairerror"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PersistentMapRepairError.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -262,6 +260,5 @@ It is recommended, to ask the user if they want to try to download the lost regi
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

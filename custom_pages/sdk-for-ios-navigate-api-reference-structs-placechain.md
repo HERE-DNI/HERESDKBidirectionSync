@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / PlaceChain"
 slug: "sdk-for-ios-navigate-api-reference-structs-placechain"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PlaceChain.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -104,6 +102,5 @@ The complete list of supported chain IDs can be found <a href="https://www.here.
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

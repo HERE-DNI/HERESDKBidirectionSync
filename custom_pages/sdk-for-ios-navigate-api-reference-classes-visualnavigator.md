@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / VisualNavigator"
 slug: "sdk-for-ios-navigate-api-reference-classes-visualnavigator"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VisualNavigator.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -2791,6 +2789,5 @@ are no longer updated.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

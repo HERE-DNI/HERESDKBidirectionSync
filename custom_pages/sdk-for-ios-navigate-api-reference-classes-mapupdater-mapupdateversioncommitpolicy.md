@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapUpdater / MapUpdateVersionCommitPolicy"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapupdater-mapupdateversioncommitpolicy"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapUpdateVersionCommitPolicy.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -131,6 +129,5 @@ they can use all updated regions.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

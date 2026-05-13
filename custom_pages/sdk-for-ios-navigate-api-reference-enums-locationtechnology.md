@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / LocationTechnology"
 slug: "sdk-for-ios-navigate-api-reference-enums-locationtechnology"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LocationTechnology.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -178,6 +176,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-locationtechnology"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

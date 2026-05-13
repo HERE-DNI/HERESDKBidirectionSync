@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / TimeRule"
 slug: "sdk-for-ios-navigate-api-reference-classes-timerule"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TimeRule.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -265,6 +263,5 @@ The brackets {} denotes duration, and the negative sign - represents a past dura
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

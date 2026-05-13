@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapViewBase"
 slug: "sdk-for-ios-explore-api-reference-protocols-mapviewbase"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapViewBase.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -703,6 +701,5 @@ completes.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

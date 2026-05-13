@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapContext / FreeResourceSeverity"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapcontext-freeresourceseverity"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- FreeResourceSeverity.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -105,6 +103,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-mapcontext-freeresourceseverit
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

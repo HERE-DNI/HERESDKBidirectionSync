@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / DistanceType"
 slug: "sdk-for-ios-navigate-api-reference-enums-distancetype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DistanceType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -135,6 +133,5 @@ then a warning with distance type <code>DistanceType.reached</code> will be give
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / NavigableLocationDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-navigablelocationdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- NavigableLocationDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -98,6 +96,5 @@ about the current location from <code><a href="sdk-for-ios-navigate-api-referenc
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

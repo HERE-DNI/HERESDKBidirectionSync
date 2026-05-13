@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / WeightRestrictionType"
 slug: "sdk-for-ios-navigate-api-reference-enums-weightrestrictiontype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- WeightRestrictionType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-weightrestrictiontype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

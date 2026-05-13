@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / OfflineSearchEngine"
 slug: "sdk-for-ios-navigate-api-reference-classes-offlinesearchengine"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- OfflineSearchEngine.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -1017,6 +1015,5 @@ configured successfully.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Enumerations / IndoorLevelChangeFeatures"
 slug: "sdk-for-ios-explore-api-reference-enums-indoorlevelchangefeatures"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- IndoorLevelChangeFeatures.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -278,6 +276,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-indoorlevelchangefeatures"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

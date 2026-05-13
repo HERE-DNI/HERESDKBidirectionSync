@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / MatchSideOfStreet"
 slug: "sdk-for-ios-navigate-api-reference-enums-matchsideofstreet"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MatchSideOfStreet.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -106,6 +104,5 @@ This is the default setting and it is recommended for most use cases.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

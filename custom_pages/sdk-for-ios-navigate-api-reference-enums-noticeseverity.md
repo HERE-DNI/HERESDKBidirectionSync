@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / NoticeSeverity"
 slug: "sdk-for-ios-navigate-api-reference-enums-noticeseverity"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- NoticeSeverity.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -104,6 +102,5 @@ Any associated resource (e.g., route section) must not be used without further e
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

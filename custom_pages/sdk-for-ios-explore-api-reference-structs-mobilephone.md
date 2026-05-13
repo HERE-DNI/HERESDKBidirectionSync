@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / MobilePhone"
 slug: "sdk-for-ios-explore-api-reference-structs-mobilephone"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MobilePhone.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -155,6 +153,5 @@ Otherwise, <code><a href="../Structs/MobilePhone.html#/s:7heresdk11MobilePhoneV1
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

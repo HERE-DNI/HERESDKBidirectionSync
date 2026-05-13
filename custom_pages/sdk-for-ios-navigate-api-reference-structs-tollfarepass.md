@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TollFarePass"
 slug: "sdk-for-ios-navigate-api-reference-structs-tollfarepass"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TollFarePass.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -203,6 +201,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-tollfarepass"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

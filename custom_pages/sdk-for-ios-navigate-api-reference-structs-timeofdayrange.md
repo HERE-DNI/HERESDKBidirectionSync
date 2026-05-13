@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / TimeOfDayRange"
 slug: "sdk-for-ios-navigate-api-reference-structs-timeofdayrange"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TimeOfDayRange.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -133,6 +131,5 @@ The period is exclusive of the given value.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / Anchor2DKeyframe"
 slug: "sdk-for-ios-explore-api-reference-structs-anchor2dkeyframe"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Anchor2DKeyframe.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -161,6 +159,5 @@ Negative duration value gets clamped to 0.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVChargingVehicleCategory"
 slug: "sdk-for-ios-explore-api-reference-enums-evchargingvehiclecategory"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVChargingVehicleCategory.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -133,6 +131,5 @@ semi-trailer trucks, requiring more physical space for parking and maneuvering t
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

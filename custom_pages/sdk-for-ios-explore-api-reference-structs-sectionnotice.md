@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / SectionNotice"
 slug: "sdk-for-ios-explore-api-reference-structs-sectionnotice"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SectionNotice.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -158,6 +156,5 @@ If the section notice is none of the above-mentioned three types, then this will
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TollOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-tolloptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TollOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -237,6 +235,5 @@ Allowed values for CO2 class are 1, 2, 3, 4, or 5, where a lower value generally
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

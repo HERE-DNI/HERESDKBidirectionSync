@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "EV / EVSEPaymentSupport"
 slug: "sdk-for-ios-explore-api-reference-enums-evsepaymentsupport"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVSEPaymentSupport.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -490,6 +488,5 @@ Whenever one or more of those payment types is specified,
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

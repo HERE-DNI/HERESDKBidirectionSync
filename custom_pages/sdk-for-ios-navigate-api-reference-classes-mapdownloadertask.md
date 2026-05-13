@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / MapDownloaderTask"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapdownloadertask"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapDownloaderTask.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -137,6 +135,5 @@ Status of the call will be reported via <code>onResume(...)</code>.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

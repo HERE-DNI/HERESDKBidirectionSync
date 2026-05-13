@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / PointDataBuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-pointdatabuilder"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PointDataBuilder.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -208,6 +206,5 @@ Altitude of coordinates is ignored.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

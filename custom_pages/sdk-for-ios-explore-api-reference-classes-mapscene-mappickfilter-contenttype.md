@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapPickFilter / ContentType"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter-contenttype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ContentType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -144,6 +142,5 @@ those categories that are not hidden and those that are not covered by any custo
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

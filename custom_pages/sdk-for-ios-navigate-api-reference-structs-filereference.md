@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / FileReference"
 slug: "sdk-for-ios-navigate-api-reference-structs-filereference"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- FileReference.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -178,6 +176,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-filereference"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

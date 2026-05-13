@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MeshBuilder"
 slug: "sdk-for-ios-explore-api-reference-classes-meshbuilder"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MeshBuilder.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -299,6 +297,5 @@ counter-clockwise winding.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

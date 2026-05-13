@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / NotificationFormatOption"
 slug: "sdk-for-ios-navigate-api-reference-enums-notificationformatoption"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- NotificationFormatOption.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -110,6 +108,5 @@ about the SSML format.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapPolylineAnimation"
 slug: "sdk-for-ios-navigate-api-reference-classes-mappolylineanimation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapPolylineAnimation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -158,6 +156,5 @@ For starting the animation, see <code><a href="../Classes/MapPolyline.html#/s:7h
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / TileUrlProviderFactory"
 slug: "sdk-for-ios-navigate-api-reference-classes-tileurlproviderfactory"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TileUrlProviderFactory.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -106,6 +104,5 @@ The valid range for X and Y is from 0 to 2^level − 1.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

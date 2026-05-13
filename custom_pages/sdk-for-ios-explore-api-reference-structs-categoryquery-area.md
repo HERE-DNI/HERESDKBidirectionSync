@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "CategoryQuery / Area"
 slug: "sdk-for-ios-explore-api-reference-structs-categoryquery-area"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Area.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -391,6 +389,5 @@ Milan (Italy) and Konstanz (Germany) will have the far away part removed due to 
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

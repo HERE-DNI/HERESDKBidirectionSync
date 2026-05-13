@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / AreaCameraBehavior"
 slug: "sdk-for-ios-navigate-api-reference-classes-areacamerabehavior"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AreaCameraBehavior.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -380,6 +378,5 @@ or it will try to include the current position. Defaults to false.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

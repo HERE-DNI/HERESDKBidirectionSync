@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapFeatureModes"
 slug: "sdk-for-ios-navigate-api-reference-structs-mapfeaturemodes"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapFeatureModes.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -779,6 +777,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

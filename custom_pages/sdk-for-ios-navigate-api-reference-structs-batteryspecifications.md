@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / BatterySpecifications"
 slug: "sdk-for-ios-navigate-api-reference-structs-batteryspecifications"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- BatterySpecifications.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -440,6 +438,5 @@ The provided value must be greater than or equal to 0. By default, it is not set
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

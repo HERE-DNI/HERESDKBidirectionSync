@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / ChargingConnectorAttributes"
 slug: "sdk-for-ios-explore-api-reference-structs-chargingconnectorattributes"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ChargingConnectorAttributes.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -204,6 +202,5 @@ slug: "sdk-for-ios-explore-api-reference-structs-chargingconnectorattributes"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

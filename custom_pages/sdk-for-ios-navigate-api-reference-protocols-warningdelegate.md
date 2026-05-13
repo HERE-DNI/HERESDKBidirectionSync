@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "WarnerEngine / WarningDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-warningdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- WarningDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -104,6 +102,5 @@ This method is invoked whenever a new list of warnings becomes available.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

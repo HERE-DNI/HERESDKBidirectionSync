@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / WaypointType"
 slug: "sdk-for-ios-navigate-api-reference-enums-waypointtype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- WaypointType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -108,6 +106,5 @@ Imprecise inputs such as a map touch location should be represented as a pass th
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / MaxAxleGroupWeight"
 slug: "sdk-for-ios-explore-api-reference-structs-maxaxlegroupweight"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MaxAxleGroupWeight.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-explore-api-reference-structs-maxaxlegroupweight"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

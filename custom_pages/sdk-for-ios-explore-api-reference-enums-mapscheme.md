@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapScheme"
 slug: "sdk-for-ios-explore-api-reference-enums-mapscheme"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapScheme.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -442,6 +440,5 @@ highlighted on top of this map scheme.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

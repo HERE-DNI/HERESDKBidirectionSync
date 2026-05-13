@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "ElectronicHorizon / ElectronicHorizonDataLoaderStatusDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-electronichorizondataloaderstatusdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ElectronicHorizonDataLoaderStatusDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -102,6 +100,5 @@ The key is the level of a <code><a href="sdk-for-ios-navigate-api-reference-..-s
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

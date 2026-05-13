@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / PlaceSerializationError"
 slug: "sdk-for-ios-navigate-api-reference-enums-placeserializationerror"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PlaceSerializationError.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -79,6 +77,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-placeserializationerror"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

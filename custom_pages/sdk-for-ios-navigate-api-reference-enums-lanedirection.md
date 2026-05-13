@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / LaneDirection"
 slug: "sdk-for-ios-navigate-api-reference-enums-lanedirection"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LaneDirection.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -403,6 +401,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-lanedirection"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

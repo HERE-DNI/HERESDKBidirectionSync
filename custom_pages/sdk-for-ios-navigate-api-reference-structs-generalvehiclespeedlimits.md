@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Transport / GeneralVehicleSpeedLimits"
 slug: "sdk-for-ios-navigate-api-reference-structs-generalvehiclespeedlimits"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GeneralVehicleSpeedLimits.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -260,6 +258,5 @@ It is <code>nil</code> if the minimum speed on highways for the country / state 
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

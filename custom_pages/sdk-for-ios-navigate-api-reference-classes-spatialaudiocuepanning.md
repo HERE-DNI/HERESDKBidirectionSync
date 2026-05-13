@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / SpatialAudioCuePanning"
 slug: "sdk-for-ios-navigate-api-reference-classes-spatialaudiocuepanning"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SpatialAudioCuePanning.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -169,6 +167,5 @@ or a new text message has started its angular panning.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

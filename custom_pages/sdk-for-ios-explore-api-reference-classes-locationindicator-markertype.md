@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "LocationIndicator / MarkerType"
 slug: "sdk-for-ios-explore-api-reference-classes-locationindicator-markertype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MarkerType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -159,6 +157,5 @@ in navigation mode.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

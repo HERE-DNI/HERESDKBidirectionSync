@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Positioning / AuthenticationData"
 slug: "sdk-for-ios-explore-api-reference-structs-authenticationdata"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AuthenticationData.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -131,6 +129,5 @@ Defaults to 0 seconds.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

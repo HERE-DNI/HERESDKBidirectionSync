@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / Evse"
 slug: "sdk-for-ios-explore-api-reference-structs-evse"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Evse.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -233,6 +231,5 @@ Example of ID format: <code>DE*ICT*E0001897</code>.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

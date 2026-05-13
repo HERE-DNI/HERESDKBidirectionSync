@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps"
 slug: "sdk-for-ios-explore-api-reference-maps"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Maps.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -4623,6 +4621,5 @@ night or satellite based).</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

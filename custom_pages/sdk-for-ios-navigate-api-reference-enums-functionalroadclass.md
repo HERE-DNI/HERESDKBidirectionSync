@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / FunctionalRoadClass"
 slug: "sdk-for-ios-navigate-api-reference-enums-functionalroadclass"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- FunctionalRoadClass.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -178,6 +176,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-functionalroadclass"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

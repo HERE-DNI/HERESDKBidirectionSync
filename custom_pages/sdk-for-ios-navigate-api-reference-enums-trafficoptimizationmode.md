@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TrafficOptimizationMode"
 slug: "sdk-for-ios-navigate-api-reference-enums-trafficoptimizationmode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficOptimizationMode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -138,6 +136,5 @@ Note that this mode disables traffic-aware routing regardless of other settings.
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

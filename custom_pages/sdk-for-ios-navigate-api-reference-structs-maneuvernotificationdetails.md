@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / ManeuverNotificationDetails"
 slug: "sdk-for-ios-navigate-api-reference-structs-maneuvernotificationdetails"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ManeuverNotificationDetails.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -155,6 +153,5 @@ such as, “Now turn right and then turn left onto Invalidenstrasse”, or not.<
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

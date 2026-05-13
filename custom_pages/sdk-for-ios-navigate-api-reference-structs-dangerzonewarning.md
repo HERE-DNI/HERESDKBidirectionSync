@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / DangerZoneWarning"
 slug: "sdk-for-ios-navigate-api-reference-structs-dangerzonewarning"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DangerZoneWarning.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -190,6 +188,5 @@ ahead, then <code><a href="../Structs/DangerZoneWarning.html#/s:7heresdk17Danger
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

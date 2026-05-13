@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / DayOfWeek"
 slug: "sdk-for-ios-explore-api-reference-enums-dayofweek"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DayOfWeek.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -230,6 +228,5 @@ Related APIs may change for new releases without a deprecation process.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

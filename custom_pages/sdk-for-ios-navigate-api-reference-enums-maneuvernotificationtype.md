@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / ManeuverNotificationType"
 slug: "sdk-for-ios-navigate-api-reference-enums-maneuvernotificationtype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ManeuverNotificationType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -153,6 +151,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-maneuvernotificationtype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

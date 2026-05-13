@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Structures / VehicleSpecificAccess"
 slug: "sdk-for-ios-navigate-api-reference-structs-vehiclespecificaccess"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VehicleSpecificAccess.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -180,6 +178,5 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

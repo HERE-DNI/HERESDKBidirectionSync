@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "OfflineSearchIndex / Error"
 slug: "sdk-for-ios-navigate-api-reference-classes-offlinesearchindex-error"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Error.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -190,6 +188,5 @@ In later case, SDK would finish the latest indexing operation successfully and i
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

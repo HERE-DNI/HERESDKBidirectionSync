@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / GPXOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-gpxoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GPXOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -104,6 +102,5 @@ constant speed of movement. Otherwise, this value will be ignored.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

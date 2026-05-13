@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / RouteProgressColors"
 slug: "sdk-for-ios-navigate-api-reference-structs-routeprogresscolors"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RouteProgressColors.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -203,6 +201,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-routeprogresscolors"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

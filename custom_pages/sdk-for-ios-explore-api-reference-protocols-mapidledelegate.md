@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapIdleDelegate"
 slug: "sdk-for-ios-explore-api-reference-protocols-mapidledelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapIdleDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -109,6 +107,5 @@ will happen aftrwards until <code><a href="../Protocols/MapIdleDelegate.html#/s:
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

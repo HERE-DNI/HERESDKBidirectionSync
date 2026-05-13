@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EmailAddress"
 slug: "sdk-for-ios-navigate-api-reference-structs-emailaddress"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EmailAddress.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -130,6 +128,5 @@ Otherwise, <code><a href="../Structs/EmailAddress.html#/s:7heresdk12EmailAddress
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

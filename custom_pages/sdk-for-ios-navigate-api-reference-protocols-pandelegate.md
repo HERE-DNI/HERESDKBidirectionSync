@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / PanDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-pandelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PanDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -134,6 +132,5 @@ Pan gesture occurs when a finger is moving on the screen.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / TurnOnRedRegulation"
 slug: "sdk-for-ios-navigate-api-reference-enums-turnonredregulation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TurnOnRedRegulation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -105,6 +103,5 @@ otherwise posted.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapData / SegmentSpecialSpeedSituation"
 slug: "sdk-for-ios-navigate-api-reference-structs-segmentspecialspeedsituation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SegmentSpecialSpeedSituation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -174,6 +172,5 @@ May be empty for all special_speed_type values except <code>TIME_DEPENDENT</code
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

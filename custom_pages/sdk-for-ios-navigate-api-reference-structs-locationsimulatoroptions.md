@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Positioning / LocationSimulatorOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-locationsimulatoroptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LocationSimulatorOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -157,6 +155,5 @@ Values less than 1 ms are not acceptable and the interval is raised to this mini
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

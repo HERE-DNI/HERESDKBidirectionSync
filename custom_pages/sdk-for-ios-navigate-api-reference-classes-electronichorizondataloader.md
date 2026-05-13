@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "ElectronicHorizon / ElectronicHorizonDataLoader"
 slug: "sdk-for-ios-navigate-api-reference-classes-electronichorizondataloader"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ElectronicHorizonDataLoader.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -314,6 +312,5 @@ The result contains either the loaded data or an error code.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

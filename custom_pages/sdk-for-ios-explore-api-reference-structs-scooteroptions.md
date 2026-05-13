@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / ScooterOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-scooteroptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ScooterOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -390,6 +388,5 @@ is <code>nil</code>, which means the scooter route calculation ignores all engin
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

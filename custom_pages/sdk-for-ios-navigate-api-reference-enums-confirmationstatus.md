@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Positioning / ConfirmationStatus"
 slug: "sdk-for-ios-navigate-api-reference-enums-confirmationstatus"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- ConfirmationStatus.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -153,6 +151,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-confirmationstatus"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

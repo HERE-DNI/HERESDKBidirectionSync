@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / TrafficMergeWarning"
 slug: "sdk-for-ios-navigate-api-reference-structs-trafficmergewarning"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficMergeWarning.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -235,6 +233,5 @@ the route, <code>DistanceType.REACHED</code> will never be given for this warnin
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

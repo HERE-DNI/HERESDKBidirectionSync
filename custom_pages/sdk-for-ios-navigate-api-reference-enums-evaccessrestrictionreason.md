@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVAccessRestrictionReason"
 slug: "sdk-for-ios-navigate-api-reference-enums-evaccessrestrictionreason"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVAccessRestrictionReason.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -178,6 +176,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-evaccessrestrictionreason"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

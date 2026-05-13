@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / GeoPlace"
 slug: "sdk-for-ios-explore-api-reference-structs-geoplace"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GeoPlace.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -408,6 +406,5 @@ and all properties containing lists will contain empty lists.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

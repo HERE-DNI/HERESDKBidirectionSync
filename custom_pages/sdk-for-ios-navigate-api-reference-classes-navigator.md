@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / Navigator"
 slug: "sdk-for-ios-navigate-api-reference-classes-navigator"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Navigator.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -1964,6 +1962,5 @@ Invoked on the main thread.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

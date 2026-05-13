@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Enumerations / HazardousMaterialType"
 slug: "sdk-for-ios-navigate-api-reference-enums-hazardousmaterialtype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- HazardousMaterialType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -710,6 +708,5 @@ waste and samples.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / PointDataAccessor"
 slug: "sdk-for-ios-navigate-api-reference-classes-pointdataaccessor"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PointDataAccessor.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -203,6 +201,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

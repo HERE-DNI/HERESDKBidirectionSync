@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / GeoCorridor"
 slug: "sdk-for-ios-explore-api-reference-structs-geocorridor"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GeoCorridor.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -205,6 +203,5 @@ any point of the polyline to the closest border of the corridor is always the sa
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

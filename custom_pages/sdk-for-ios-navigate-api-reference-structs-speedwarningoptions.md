@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / SpeedWarningOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-speedwarningoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- SpeedWarningOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-navigate-api-reference-structs-speedwarningoptions"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

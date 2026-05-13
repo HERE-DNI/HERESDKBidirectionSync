@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Enumerations / CommercialVehicleRoadType"
 slug: "sdk-for-ios-navigate-api-reference-enums-commercialvehicleroadtype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CommercialVehicleRoadType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -355,6 +353,5 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

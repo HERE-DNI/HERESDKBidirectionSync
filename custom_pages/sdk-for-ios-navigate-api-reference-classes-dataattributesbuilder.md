@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / DataAttributesBuilder"
 slug: "sdk-for-ios-navigate-api-reference-classes-dataattributesbuilder"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- DataAttributesBuilder.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -471,6 +469,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

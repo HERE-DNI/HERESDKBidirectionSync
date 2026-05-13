@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / LocalizedTextPreference"
 slug: "sdk-for-ios-navigate-api-reference-enums-localizedtextpreference"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LocalizedTextPreference.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -136,6 +134,5 @@ More examples:
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapFeatures"
 slug: "sdk-for-ios-navigate-api-reference-structs-mapfeatures"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapFeatures.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -658,6 +656,5 @@ By default, this map feature is not enabled.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

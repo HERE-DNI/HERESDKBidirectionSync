@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / CategoryQuery"
 slug: "sdk-for-ios-explore-api-reference-structs-categoryquery"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- CategoryQuery.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -577,6 +575,5 @@ Results with a partial match are included in the response.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

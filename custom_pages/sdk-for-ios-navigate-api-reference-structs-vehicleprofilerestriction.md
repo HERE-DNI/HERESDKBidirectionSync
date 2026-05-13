@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Other Structures / VehicleProfileRestriction"
 slug: "sdk-for-ios-navigate-api-reference-structs-vehicleprofilerestriction"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VehicleProfileRestriction.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -205,6 +203,5 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

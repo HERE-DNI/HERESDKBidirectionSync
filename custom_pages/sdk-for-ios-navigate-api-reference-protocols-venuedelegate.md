@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Venues / VenueDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-venuedelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VenueDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -134,6 +132,5 @@ venue loading events in <code><a href="sdk-for-ios-navigate-api-reference-..-cla
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

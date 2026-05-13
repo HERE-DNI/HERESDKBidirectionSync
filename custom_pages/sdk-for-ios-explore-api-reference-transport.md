@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Transport"
 slug: "sdk-for-ios-explore-api-reference-transport"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Transport.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -463,6 +461,5 @@ The provided value must be greater or equal to 0.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

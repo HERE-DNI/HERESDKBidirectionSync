@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVChargingTariffPriceComponent"
 slug: "sdk-for-ios-navigate-api-reference-structs-evchargingtariffpricecomponent"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVChargingTariffPriceComponent.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -185,6 +183,5 @@ Similarly, if step is 100 for energy, then energy is billed in 100 Wh = 0.1 kWh 
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

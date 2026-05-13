@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / RoadSign"
 slug: "sdk-for-ios-navigate-api-reference-structs-roadsign"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoadSign.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -389,6 +387,5 @@ The time information is given as printed on the local road sign.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapSceneLights / Direction"
 slug: "sdk-for-ios-explore-api-reference-classes-mapscenelights-direction"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Direction.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -146,6 +144,5 @@ For instance, (0, -10) is changed to (0, 0) rather than (180, 10).</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

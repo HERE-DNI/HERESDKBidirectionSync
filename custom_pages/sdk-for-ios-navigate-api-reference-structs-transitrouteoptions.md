@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / TransitRouteOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-transitrouteoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TransitRouteOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -349,6 +347,5 @@ as localization, format, and unit system.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

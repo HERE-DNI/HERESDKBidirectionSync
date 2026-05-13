@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Positioning / LocationStatusDelegate"
 slug: "sdk-for-ios-navigate-api-reference-protocols-locationstatusdelegate"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- LocationStatusDelegate.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -147,6 +145,5 @@ for more information.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

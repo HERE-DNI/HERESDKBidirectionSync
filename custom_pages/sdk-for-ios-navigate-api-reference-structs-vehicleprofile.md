@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Transport / VehicleProfile"
 slug: "sdk-for-ios-navigate-api-reference-structs-vehicleprofile"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VehicleProfile.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -377,6 +375,5 @@ consideration for route calculation. By default, it is not set.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

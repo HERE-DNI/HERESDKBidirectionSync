@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / PreActionType"
 slug: "sdk-for-ios-explore-api-reference-enums-preactiontype"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PreActionType.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -103,6 +101,5 @@ slug: "sdk-for-ios-explore-api-reference-enums-preactiontype"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

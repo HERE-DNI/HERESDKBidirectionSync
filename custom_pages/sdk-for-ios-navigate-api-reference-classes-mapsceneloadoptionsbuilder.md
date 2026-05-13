@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapSceneLoadOptionsBuilder"
 slug: "sdk-for-ios-navigate-api-reference-classes-mapsceneloadoptionsbuilder"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapSceneLoadOptionsBuilder.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -485,6 +483,5 @@ Any map scheme set through <code><a href="../Classes/MapSceneLoadOptionsBuilder.
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

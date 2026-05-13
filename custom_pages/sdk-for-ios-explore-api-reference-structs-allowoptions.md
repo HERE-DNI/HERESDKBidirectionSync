@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / AllowOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-allowoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AllowOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -151,6 +149,5 @@ in the vehicle.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

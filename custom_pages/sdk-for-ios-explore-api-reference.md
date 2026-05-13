@@ -5,635 +5,631 @@ slug: "sdk-for-ios-explore-api-reference"
 
 ## Overview
 
-Browse the API reference for the HERE SDK for iOS (Explore).
+Browse the API reference.
 
-## [Core](sdk-for-ios-explore-api-reference-core)
-
-### Other
-- [Anchor2D](sdk-for-ios-explore-api-reference-structs-anchor2d)
-- [Anchor2DKeyframe](sdk-for-ios-explore-api-reference-structs-anchor2dkeyframe)
-- [Angle](sdk-for-ios-explore-api-reference-classes-angle)
-- [AngleRange](sdk-for-ios-explore-api-reference-structs-anglerange)
-- [Authentication](sdk-for-ios-explore-api-reference-classes-authentication)
-- [AuthenticationCompletionHandler](sdk-for-ios-explore-api-reference-core#/s:7heresdk31AuthenticationCompletionHandlera)
-- [AuthenticationException](sdk-for-ios-explore-api-reference-core#/s:7heresdk23AuthenticationExceptiona)
-- [AuthenticationMode](sdk-for-ios-explore-api-reference-classes-authenticationmode)
-- [BrandLogo](sdk-for-ios-explore-api-reference-structs-brandlogo)
-- [CardinalDirection](sdk-for-ios-explore-api-reference-enums-cardinaldirection)
-- [CatalogConfiguration](sdk-for-ios-explore-api-reference-structs-catalogconfiguration)
-- [CatalogIdentifier](sdk-for-ios-explore-api-reference-structs-catalogidentifier)
-- [CatalogType](sdk-for-ios-explore-api-reference-enums-catalogtype)
-- [CatalogVersionHint](sdk-for-ios-explore-api-reference-classes-catalogversionhint)
-- [CollectionOf](sdk-for-ios-explore-api-reference-classes-collectionof)
-- [CountryCode](sdk-for-ios-explore-api-reference-enums-countrycode)
-- [CurrentType](sdk-for-ios-explore-api-reference-enums-currenttype)
-- [CustomMetadataValue](sdk-for-ios-explore-api-reference-protocols-custommetadatavalue)
-- [DesiredCatalog](sdk-for-ios-explore-api-reference-structs-desiredcatalog)
-- [DeviceIdHandle](sdk-for-ios-explore-api-reference-core#/s:7heresdk14DeviceIdHandlea)
-- [EngineBaseURL](sdk-for-ios-explore-api-reference-enums-enginebaseurl)
-- [EngineOptions](sdk-for-ios-explore-api-reference-structs-engineoptions)
-- [ExternalID](sdk-for-ios-explore-api-reference-structs-externalid)
-- [GeoBox](sdk-for-ios-explore-api-reference-structs-geobox)
-- [GeoCircle](sdk-for-ios-explore-api-reference-structs-geocircle)
-- [GeoCoordinates](sdk-for-ios-explore-api-reference-structs-geocoordinates)
-- [GeoCoordinatesUpdate](sdk-for-ios-explore-api-reference-structs-geocoordinatesupdate)
-- [GeoCorridor](sdk-for-ios-explore-api-reference-structs-geocorridor)
-- [GeoOrientation](sdk-for-ios-explore-api-reference-structs-geoorientation)
-- [GeoOrientationUpdate](sdk-for-ios-explore-api-reference-structs-geoorientationupdate)
-- [GeoPolygon](sdk-for-ios-explore-api-reference-structs-geopolygon)
-- [GeoPolyline](sdk-for-ios-explore-api-reference-structs-geopolyline)
-- [GeoPolylineDirection](sdk-for-ios-explore-api-reference-enums-geopolylinedirection)
-- [InstantiationError](sdk-for-ios-explore-api-reference-core#/s:7heresdk18InstantiationErrora)
-- [InstantiationErrorCode](sdk-for-ios-explore-api-reference-enums-instantiationerrorcode)
-- [IntegerRange](sdk-for-ios-explore-api-reference-structs-integerrange)
-- [JunctionsTraversability](sdk-for-ios-explore-api-reference-enums-junctionstraversability)
-- [LanguageCode](sdk-for-ios-explore-api-reference-enums-languagecode)
-- [LayerConfiguration](sdk-for-ios-explore-api-reference-structs-layerconfiguration)
-- [– Feature](sdk-for-ios-explore-api-reference-structs-layerconfiguration-feature)
-- [LocalizedRoadNumber](sdk-for-ios-explore-api-reference-structs-localizedroadnumber)
-- [LocalizedRoadNumbers](sdk-for-ios-explore-api-reference-structs-localizedroadnumbers)
-- [LocalizedText](sdk-for-ios-explore-api-reference-structs-localizedtext)
-- [LocalizedTexts](sdk-for-ios-explore-api-reference-structs-localizedtexts)
-- [Location](sdk-for-ios-explore-api-reference-structs-location)
-- [LocationDelegate](sdk-for-ios-explore-api-reference-protocols-locationdelegate)
-- [LocationSource](sdk-for-ios-explore-api-reference-enums-locationsource)
-- [LocationTechnology](sdk-for-ios-explore-api-reference-enums-locationtechnology)
-- [LocationTime](sdk-for-ios-explore-api-reference-structs-locationtime)
-- [LogAppender](sdk-for-ios-explore-api-reference-protocols-logappender)
-- [LogControl](sdk-for-ios-explore-api-reference-classes-logcontrol)
-- [LogLevel](sdk-for-ios-explore-api-reference-enums-loglevel)
-- [Metadata](sdk-for-ios-explore-api-reference-classes-metadata)
-- [MetadataType](sdk-for-ios-explore-api-reference-enums-metadatatype)
-- [NameID](sdk-for-ios-explore-api-reference-structs-nameid)
-- [NetworkEndpoint](sdk-for-ios-explore-api-reference-structs-networkendpoint)
-- [NetworkSettings](sdk-for-ios-explore-api-reference-structs-networksettings)
-- [ParameterConfiguration](sdk-for-ios-explore-api-reference-structs-parameterconfiguration)
-- [PassThroughFeature](sdk-for-ios-explore-api-reference-enums-passthroughfeature)
-- [PowerType](sdk-for-ios-explore-api-reference-enums-powertype)
-- [PedestrianProfile](sdk-for-ios-explore-api-reference-structs-pedestrianprofile)
-- [PickedPlace](sdk-for-ios-explore-api-reference-structs-pickedplace)
-- [PlatformThreading](sdk-for-ios-explore-api-reference-protocols-platformthreading)
-- [Point2D](sdk-for-ios-explore-api-reference-structs-point2d)
-- [Point3D](sdk-for-ios-explore-api-reference-structs-point3d)
-- [PolylineSimplificationCompletionHandler](sdk-for-ios-explore-api-reference-core#/s:7heresdk39PolylineSimplificationCompletionHandlera)
-- [PolylineSimplificationError](sdk-for-ios-explore-api-reference-enums-polylinesimplificationerror)
-- [PolylineSimplifier](sdk-for-ios-explore-api-reference-classes-polylinesimplifier)
-- [– Options](sdk-for-ios-explore-api-reference-classes-polylinesimplifier-options)
-- [ProxySettings](sdk-for-ios-explore-api-reference-structs-proxysettings)
-- [– ProxyType](sdk-for-ios-explore-api-reference-structs-proxysettings-proxytype)
-- [– Credentials](sdk-for-ios-explore-api-reference-structs-proxysettings-credentials)
-- [Rectangle2D](sdk-for-ios-explore-api-reference-structs-rectangle2d)
-- [RouteType](sdk-for-ios-explore-api-reference-enums-routetype)
-- [Runnable](sdk-for-ios-explore-api-reference-protocols-runnable)
-- [SDKBuildInformation](sdk-for-ios-explore-api-reference-classes-sdkbuildinformation)
-- [SDKInternalInitializer](sdk-for-ios-explore-api-reference-classes-sdkinternalinitializer)
-- [SDKLogger](sdk-for-ios-explore-api-reference-classes-sdklogger)
-- [SDKNativeEngine](sdk-for-ios-explore-api-reference-classes-sdknativeengine)
-- [– PurgeMemoryStrategy](sdk-for-ios-explore-api-reference-classes-sdknativeengine-purgememorystrategy)
-- [SDKNativeEngineHolder](sdk-for-ios-explore-api-reference-core#/c:@M@heresdk@objc(cs)SDKNativeEngineHolder)
-- [SDKOptions](sdk-for-ios-explore-api-reference-structs-sdkoptions)
-- [SDKVersion](sdk-for-ios-explore-api-reference-structs-sdkversion)
-- [Size2D](sdk-for-ios-explore-api-reference-structs-size2d)
-- [String](sdk-for-ios-explore-api-reference-core#/s:SS)
-- [TaskCompletionHandler](sdk-for-ios-explore-api-reference-core#/s:7heresdk21TaskCompletionHandlera)
-- [TaskHandle](sdk-for-ios-explore-api-reference-protocols-taskhandle)
-- [TaskOutcome](sdk-for-ios-explore-api-reference-enums-taskoutcome)
-- [Threading](sdk-for-ios-explore-api-reference-classes-threading)
-- [TimeRule](sdk-for-ios-explore-api-reference-classes-timerule)
-- [TransportProfile](sdk-for-ios-explore-api-reference-structs-transportprofile)
-- [UIColor](sdk-for-ios-explore-api-reference-extensions-uicolor)
-- [UnitSystem](sdk-for-ios-explore-api-reference-enums-unitsystem)
-- [UsageStats](sdk-for-ios-explore-api-reference-structs-usagestats)
-- [– Feature](sdk-for-ios-explore-api-reference-structs-usagestats-feature)
-- [– NetworkStats](sdk-for-ios-explore-api-reference-structs-usagestats-networkstats)
-
-## [EV](sdk-for-ios-explore-api-reference-ev)
+## sdk-for-ios-explore-api-reference-core
 
 ### Other
-- [EVChargingConnectorFormat](sdk-for-ios-explore-api-reference-enums-evchargingconnectorformat)
-- [EVChargingConnectorType](sdk-for-ios-explore-api-reference-structs-evchargingconnectortype)
-- [EVSECapability](sdk-for-ios-explore-api-reference-enums-evsecapability)
-- [EVSEPaymentSupport](sdk-for-ios-explore-api-reference-enums-evsepaymentsupport)
-- [EVSEState](sdk-for-ios-explore-api-reference-enums-evsestate)
+- Anchor2D
+- Anchor2DKeyframe
+- Angle
+- AngleRange
+- Authentication
+- AuthenticationCompletionHandler
+- AuthenticationException
+- AuthenticationMode
+- BrandLogo
+- CardinalDirection
+- CatalogConfiguration
+- CatalogIdentifier
+- CatalogType
+- CatalogVersionHint
+- CollectionOf
+- CountryCode
+- CurrentType
+- CustomMetadataValue
+- DesiredCatalog
+- DeviceIdHandle
+- EngineBaseURL
+- EngineOptions
+- ExternalID
+- GeoBox
+- GeoCircle
+- GeoCoordinates
+- GeoCoordinatesUpdate
+- GeoCorridor
+- GeoOrientation
+- GeoOrientationUpdate
+- GeoPolygon
+- GeoPolyline
+- GeoPolylineDirection
+- InstantiationError
+- InstantiationErrorCode
+- IntegerRange
+- JunctionsTraversability
+- LanguageCode
+- LayerConfiguration
+- – Feature
+- LocalizedRoadNumber
+- LocalizedRoadNumbers
+- LocalizedText
+- LocalizedTexts
+- Location
+- LocationDelegate
+- LocationSource
+- LocationTechnology
+- LocationTime
+- LogAppender
+- LogControl
+- LogLevel
+- Metadata
+- MetadataType
+- NameID
+- NetworkEndpoint
+- NetworkSettings
+- ParameterConfiguration
+- PassThroughFeature
+- PowerType
+- PedestrianProfile
+- PickedPlace
+- PlatformThreading
+- Point2D
+- Point3D
+- PolylineSimplificationCompletionHandler
+- PolylineSimplificationError
+- PolylineSimplifier
+- – Options
+- ProxySettings
+- – ProxyType
+- – Credentials
+- Rectangle2D
+- RouteType
+- Runnable
+- SDKBuildInformation
+- SDKInternalInitializer
+- SDKLogger
+- SDKNativeEngine
+- – PurgeMemoryStrategy
+- SDKNativeEngineHolder
+- SDKOptions
+- SDKVersion
+- Size2D
+- String
+- TaskCompletionHandler
+- TaskHandle
+- TaskOutcome
+- Threading
+- TimeRule
+- TransportProfile
+- UIColor
+- UnitSystem
+- UsageStats
+- – Feature
+- – NetworkStats
 
-## [Positioning](sdk-for-ios-explore-api-reference-positioning)
+## sdk-for-ios-explore-api-reference-ev
 
 ### Other
-- [AuthenticationData](sdk-for-ios-explore-api-reference-structs-authenticationdata)
-- [AuthenticationError](sdk-for-ios-explore-api-reference-enums-authenticationerror)
+- EVChargingConnectorFormat
+- EVChargingConnectorType
+- EVSECapability
+- EVSEPaymentSupport
+- EVSEState
 
-## [MapLoader](sdk-for-ios-explore-api-reference-maploader)
-
-### Other
-- [DataAttributesBase](sdk-for-ios-explore-api-reference-protocols-dataattributesbase)
-- [LineData](sdk-for-ios-explore-api-reference-maploader#/s:7heresdk8LineDataC)
-- [LineDataAccessor](sdk-for-ios-explore-api-reference-classes-linedataaccessor)
-- [LineDataBuilder](sdk-for-ios-explore-api-reference-classes-linedatabuilder)
-- [LineDataSource](sdk-for-ios-explore-api-reference-classes-linedatasource)
-- [LineDataSourceBuilder](sdk-for-ios-explore-api-reference-classes-linedatasourcebuilder)
-
-## [Maps](sdk-for-ios-explore-api-reference-maps)
+## sdk-for-ios-explore-api-reference-positioning
 
 ### Other
-- [AnimationDelegate](sdk-for-ios-explore-api-reference-protocols-animationdelegate)
-- [AnimationState](sdk-for-ios-explore-api-reference-enums-animationstate)
-- [AssetsManager](sdk-for-ios-explore-api-reference-classes-assetsmanager)
-- [DataAttributes](sdk-for-ios-explore-api-reference-classes-dataattributes)
-- [DataAttributesAccessor](sdk-for-ios-explore-api-reference-classes-dataattributesaccessor)
-- [DataAttributesBuilder](sdk-for-ios-explore-api-reference-classes-dataattributesbuilder)
-- [DataAttributeValue](sdk-for-ios-explore-api-reference-classes-dataattributevalue)
-- [– ValueType](sdk-for-ios-explore-api-reference-classes-dataattributevalue-valuetype)
-- [DashPattern](sdk-for-ios-explore-api-reference-structs-dashpattern)
-- [DoubleTapDelegate](sdk-for-ios-explore-api-reference-protocols-doubletapdelegate)
-- [DrawOrderType](sdk-for-ios-explore-api-reference-enums-drawordertype)
-- [Easing](sdk-for-ios-explore-api-reference-classes-easing)
-- [– InstantiationErrorCode](sdk-for-ios-explore-api-reference-classes-easing-instantiationerrorcode)
-- [EasingFunction](sdk-for-ios-explore-api-reference-enums-easingfunction)
-- [GeoCoordinatesKeyframe](sdk-for-ios-explore-api-reference-structs-geocoordinateskeyframe)
-- [GeoOrientationKeyframe](sdk-for-ios-explore-api-reference-structs-geoorientationkeyframe)
-- [GestureState](sdk-for-ios-explore-api-reference-enums-gesturestate)
-- [GestureType](sdk-for-ios-explore-api-reference-enums-gesturetype)
-- [Gestures](sdk-for-ios-explore-api-reference-classes-gestures)
-- [HereMap](sdk-for-ios-explore-api-reference-classes-heremap)
-- [IconProvider](sdk-for-ios-explore-api-reference-classes-iconprovider)
-- [IconProviderAssetType](sdk-for-ios-explore-api-reference-enums-iconproviderassettype)
-- [IconProviderCallback](sdk-for-ios-explore-api-reference-maps#/s:7heresdk20IconProviderCallbacka)
-- [IconProviderError](sdk-for-ios-explore-api-reference-enums-iconprovidererror)
-- [ImageFormat](sdk-for-ios-explore-api-reference-enums-imageformat)
-- [JsonStyleFactory](sdk-for-ios-explore-api-reference-classes-jsonstylefactory)
-- [– InstantiationErrorCode](sdk-for-ios-explore-api-reference-classes-jsonstylefactory-instantiationerrorcode)
-- [– InstantiationErrorDetails](sdk-for-ios-explore-api-reference-classes-jsonstylefactory-instantiationerrordetails)
-- [KeyframeInterpolationMode](sdk-for-ios-explore-api-reference-enums-keyframeinterpolationmode)
-- [LineCap](sdk-for-ios-explore-api-reference-enums-linecap)
-- [LineTileDataSource](sdk-for-ios-explore-api-reference-classes-linetiledatasource)
-- [LineTileSource](sdk-for-ios-explore-api-reference-protocols-linetilesource)
-- [LineTileSourceLoadResultHandler](sdk-for-ios-explore-api-reference-protocols-linetilesourceloadresulthandler)
-- [LocationIndicator](sdk-for-ios-explore-api-reference-classes-locationindicator)
-- [– IndicatorStyle](sdk-for-ios-explore-api-reference-classes-locationindicator-indicatorstyle)
-- [– MarkerType](sdk-for-ios-explore-api-reference-classes-locationindicator-markertype)
-- [LongPressDelegate](sdk-for-ios-explore-api-reference-protocols-longpressdelegate)
-- [MapArrow](sdk-for-ios-explore-api-reference-classes-maparrow)
-- [MapCamera](sdk-for-ios-explore-api-reference-classes-mapcamera)
-- [– State](sdk-for-ios-explore-api-reference-classes-mapcamera-state)
-- [– FarPlaneConfiguration](sdk-for-ios-explore-api-reference-classes-mapcamera-farplaneconfiguration)
-- [MapCameraAnimation](sdk-for-ios-explore-api-reference-classes-mapcameraanimation)
-- [– InstantiationErrorCode](sdk-for-ios-explore-api-reference-classes-mapcameraanimation-instantiationerrorcode)
-- [MapCameraAnimationFactory](sdk-for-ios-explore-api-reference-classes-mapcameraanimationfactory)
-- [MapCameraDelegate](sdk-for-ios-explore-api-reference-protocols-mapcameradelegate)
-- [MapCameraKeyframeTrack](sdk-for-ios-explore-api-reference-classes-mapcamerakeyframetrack)
-- [– InstantiationErrorCode](sdk-for-ios-explore-api-reference-classes-mapcamerakeyframetrack-instantiationerrorcode)
-- [MapCameraLimits](sdk-for-ios-explore-api-reference-classes-mapcameralimits)
-- [MapCameraUpdate](sdk-for-ios-explore-api-reference-classes-mapcameraupdate)
-- [– InstantiationErrorCode](sdk-for-ios-explore-api-reference-classes-mapcameraupdate-instantiationerrorcode)
-- [MapCameraUpdateFactory](sdk-for-ios-explore-api-reference-classes-mapcameraupdatefactory)
-- [MapContentCategory](sdk-for-ios-explore-api-reference-enums-mapcontentcategory)
-- [MapContentSettings](sdk-for-ios-explore-api-reference-classes-mapcontentsettings)
-- [– TrafficRefreshPeriodErrorCode](sdk-for-ios-explore-api-reference-classes-mapcontentsettings-trafficrefreshperioderrorcode)
-- [MapContentType](sdk-for-ios-explore-api-reference-enums-mapcontenttype)
-- [MapContext](sdk-for-ios-explore-api-reference-classes-mapcontext)
-- [– MemoryManagementStrategy](sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementstrategy)
-- [– MemoryManagementResultCode](sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementresultcode)
-- [– ResourceType](sdk-for-ios-explore-api-reference-classes-mapcontext-resourcetype)
-- [– FreeResourceSeverity](sdk-for-ios-explore-api-reference-classes-mapcontext-freeresourceseverity)
-- [– MemoryManagementResult](sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementresult)
-- [– MemoryManagementOptions](sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementoptions)
-- [MapError](sdk-for-ios-explore-api-reference-enums-maperror)
-- [MapFeatures](sdk-for-ios-explore-api-reference-structs-mapfeatures)
-- [MapFeatureModes](sdk-for-ios-explore-api-reference-structs-mapfeaturemodes)
-- [MapIdleDelegate](sdk-for-ios-explore-api-reference-protocols-mapidledelegate)
-- [MapImage](sdk-for-ios-explore-api-reference-classes-mapimage)
-- [MapImageOverlay](sdk-for-ios-explore-api-reference-classes-mapimageoverlay)
-- [MapItemKeyFrameTrack](sdk-for-ios-explore-api-reference-classes-mapitemkeyframetrack)
-- [– InstantiationErrorCode](sdk-for-ios-explore-api-reference-classes-mapitemkeyframetrack-instantiationerrorcode)
-- [MapItemRepresentation](sdk-for-ios-explore-api-reference-maps#/s:7heresdk21MapItemRepresentationC)
-- [MapLayer](sdk-for-ios-explore-api-reference-classes-maplayer)
-- [MapLayerBuilder](sdk-for-ios-explore-api-reference-classes-maplayerbuilder)
-- [– InstantiationErrorCode](sdk-for-ios-explore-api-reference-classes-maplayerbuilder-instantiationerrorcode)
-- [– InstantiationErrorDetails](sdk-for-ios-explore-api-reference-classes-maplayerbuilder-instantiationerrordetails)
-- [MapLayerPriority](sdk-for-ios-explore-api-reference-maps#/s:7heresdk16MapLayerPriorityC)
-- [MapLayerPriorityBuilder](sdk-for-ios-explore-api-reference-classes-maplayerprioritybuilder)
-- [MapLayerMapMeasureDependentStorageLevels](sdk-for-ios-explore-api-reference-classes-maplayermapmeasuredependentstoragelevels)
-- [MapLayerVisibilityRange](sdk-for-ios-explore-api-reference-structs-maplayervisibilityrange)
-- [MapMarkerCluster](sdk-for-ios-explore-api-reference-classes-mapmarkercluster)
-- [– Grouping](sdk-for-ios-explore-api-reference-classes-mapmarkercluster-grouping)
-- [– ImageStyle](sdk-for-ios-explore-api-reference-classes-mapmarkercluster-imagestyle)
-- [– CounterStyle](sdk-for-ios-explore-api-reference-classes-mapmarkercluster-counterstyle)
-- [MapMeasureRange](sdk-for-ios-explore-api-reference-structs-mapmeasurerange)
-- [MapObjectDescriptor](sdk-for-ios-explore-api-reference-classes-mapobjectdescriptor)
-- [MapProjection](sdk-for-ios-explore-api-reference-enums-mapprojection)
-- [MapSceneLights](sdk-for-ios-explore-api-reference-classes-mapscenelights)
-- [– Category](sdk-for-ios-explore-api-reference-classes-mapscenelights-category)
-- [– AttributeSettingError](sdk-for-ios-explore-api-reference-classes-mapscenelights-attributesettingerror)
-- [– Direction](sdk-for-ios-explore-api-reference-classes-mapscenelights-direction)
-- [MapSceneLoadOptions](sdk-for-ios-explore-api-reference-maps#/s:7heresdk19MapSceneLoadOptionsC)
-- [MapSceneLoadOptionsBuilder](sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder)
-- [– InstantiationErrorCode](sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder-instantiationerrorcode)
-- [– InstantiationErrorDetails](sdk-for-ios-explore-api-reference-classes-mapsceneloadoptionsbuilder-instantiationerrordetails)
-- [MapMarker](sdk-for-ios-explore-api-reference-classes-mapmarker)
-- [– TextStyle](sdk-for-ios-explore-api-reference-classes-mapmarker-textstyle)
-- [MapMarker3D](sdk-for-ios-explore-api-reference-classes-mapmarker3d)
-- [MapMarker3DModel](sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel)
-- [– InstantiationErrorCode](sdk-for-ios-explore-api-reference-classes-mapmarker3dmodel-instantiationerrorcode)
-- [MapMarkerAnimation](sdk-for-ios-explore-api-reference-classes-mapmarkeranimation)
-- [– InstantiationErrorCode](sdk-for-ios-explore-api-reference-classes-mapmarkeranimation-instantiationerrorcode)
-- [MapMeasure](sdk-for-ios-explore-api-reference-structs-mapmeasure)
-- [– Kind](sdk-for-ios-explore-api-reference-structs-mapmeasure-kind)
-- [MapMeasureDependentRenderSize](sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize)
-- [– InstantiationErrorCode](sdk-for-ios-explore-api-reference-structs-mapmeasuredependentrendersize-instantiationerrorcode)
-- [MapPolygon](sdk-for-ios-explore-api-reference-classes-mappolygon)
-- [MapPolyline](sdk-for-ios-explore-api-reference-classes-mappolyline)
-- [– Representation](sdk-for-ios-explore-api-reference-classes-mappolyline-representation)
-- [– DashImageRepresentation](sdk-for-ios-explore-api-reference-classes-mappolyline-dashimagerepresentation)
-- [– SolidRepresentation](sdk-for-ios-explore-api-reference-classes-mappolyline-solidrepresentation)
-- [– DashRepresentation](sdk-for-ios-explore-api-reference-classes-mappolyline-dashrepresentation)
-- [– SolidMultiColorRepresentation](sdk-for-ios-explore-api-reference-classes-mappolyline-solidmulticolorrepresentation)
-- [MapPolylineAnimation](sdk-for-ios-explore-api-reference-classes-mappolylineanimation)
-- [– InstantiationErrorCode](sdk-for-ios-explore-api-reference-classes-mappolylineanimation-instantiationerrorcode)
-- [MapPickResult](sdk-for-ios-explore-api-reference-classes-mappickresult)
-- [MapScene](sdk-for-ios-explore-api-reference-classes-mapscene)
-- [– MapPickFilter](sdk-for-ios-explore-api-reference-classes-mapscene-mappickfilter)
-- [MapScheme](sdk-for-ios-explore-api-reference-enums-mapscheme)
-- [MapViewBase](sdk-for-ios-explore-api-reference-protocols-mapviewbase)
-- [MapView](sdk-for-ios-explore-api-reference-classes-mapview)
-- [– ViewPin](sdk-for-ios-explore-api-reference-classes-mapview-viewpin)
-- [MapViewLifecycleDelegate](sdk-for-ios-explore-api-reference-protocols-mapviewlifecycledelegate)
-- [MapViewOptions](sdk-for-ios-explore-api-reference-structs-mapviewoptions)
-- [MaterialReflectivity](sdk-for-ios-explore-api-reference-structs-materialreflectivity)
-- [Mesh](sdk-for-ios-explore-api-reference-maps#/s:7heresdk4MeshC)
-- [MeshBuilder](sdk-for-ios-explore-api-reference-classes-meshbuilder)
-- [PanDelegate](sdk-for-ios-explore-api-reference-protocols-pandelegate)
-- [PickMapContentResult](sdk-for-ios-explore-api-reference-classes-pickmapcontentresult)
-- [– TrafficIncidentResult](sdk-for-ios-explore-api-reference-classes-pickmapcontentresult-trafficincidentresult)
-- [PickMapItemsResult](sdk-for-ios-explore-api-reference-classes-pickmapitemsresult)
-- [PinchRotateDelegate](sdk-for-ios-explore-api-reference-protocols-pinchrotatedelegate)
-- [PointData](sdk-for-ios-explore-api-reference-maps#/s:7heresdk9PointDataC)
-- [PointDataAccessor](sdk-for-ios-explore-api-reference-classes-pointdataaccessor)
-- [PointDataBuilder](sdk-for-ios-explore-api-reference-classes-pointdatabuilder)
-- [PointDataSource](sdk-for-ios-explore-api-reference-classes-pointdatasource)
-- [PointDataSourceBuilder](sdk-for-ios-explore-api-reference-classes-pointdatasourcebuilder)
-- [PointTileDataSource](sdk-for-ios-explore-api-reference-classes-pointtiledatasource)
-- [PointTileSource](sdk-for-ios-explore-api-reference-protocols-pointtilesource)
-- [PointTileSourceLoadResultHandler](sdk-for-ios-explore-api-reference-protocols-pointtilesourceloadresulthandler)
-- [Point2DKeyframe](sdk-for-ios-explore-api-reference-structs-point2dkeyframe)
-- [PolygonData](sdk-for-ios-explore-api-reference-maps#/s:7heresdk11PolygonDataC)
-- [PolygonDataAccessor](sdk-for-ios-explore-api-reference-classes-polygondataaccessor)
-- [PolygonDataBuilder](sdk-for-ios-explore-api-reference-classes-polygondatabuilder)
-- [PolygonDataSource](sdk-for-ios-explore-api-reference-classes-polygondatasource)
-- [PolygonDataSourceBuilder](sdk-for-ios-explore-api-reference-classes-polygondatasourcebuilder)
-- [PolygonTileDataSource](sdk-for-ios-explore-api-reference-classes-polygontiledatasource)
-- [PolygonTileSource](sdk-for-ios-explore-api-reference-protocols-polygontilesource)
-- [PolygonTileSourceLoadResultHandler](sdk-for-ios-explore-api-reference-protocols-polygontilesourceloadresulthandler)
-- [QuadMeshBuilder](sdk-for-ios-explore-api-reference-classes-quadmeshbuilder)
-- [RasterDataSource](sdk-for-ios-explore-api-reference-classes-rasterdatasource)
-- [RasterDataSourceConfiguration](sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration)
-- [– Provider](sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-provider)
-- [– Cache](sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfiguration-cache)
-- [RasterDataSourceConfigurationUpdate](sdk-for-ios-explore-api-reference-structs-rasterdatasourceconfigurationupdate)
-- [RasterDataSourceDelegate](sdk-for-ios-explore-api-reference-protocols-rasterdatasourcedelegate)
-- [RasterDataSourceError](sdk-for-ios-explore-api-reference-enums-rasterdatasourceerror)
-- [RasterTileSource](sdk-for-ios-explore-api-reference-protocols-rastertilesource)
-- [RasterTileSourceLoadResultHandler](sdk-for-ios-explore-api-reference-protocols-rastertilesourceloadresulthandler)
-- [RoadShieldIconProperties](sdk-for-ios-explore-api-reference-structs-roadshieldiconproperties)
-- [RenderSize](sdk-for-ios-explore-api-reference-structs-rendersize)
-- [– Unit](sdk-for-ios-explore-api-reference-structs-rendersize-unit)
-- [ScalarKeyframe](sdk-for-ios-explore-api-reference-structs-scalarkeyframe)
-- [SDKMapViewInitializer](sdk-for-ios-explore-api-reference-classes-sdkmapviewinitializer)
-- [ShadowQuality](sdk-for-ios-explore-api-reference-enums-shadowquality)
-- [Style](sdk-for-ios-explore-api-reference-classes-style)
-- [TapDelegate](sdk-for-ios-explore-api-reference-protocols-tapdelegate)
-- [TileGeoBoundsCalculator](sdk-for-ios-explore-api-reference-classes-tilegeoboundscalculator)
-- [TileSource](sdk-for-ios-explore-api-reference-protocols-tilesource)
-- [TileSourceDataVersion](sdk-for-ios-explore-api-reference-structs-tilesourcedataversion)
-- [TileSourceDelegate](sdk-for-ios-explore-api-reference-protocols-tilesourcedelegate)
-- [TileSourceLoadTileRequestHandle](sdk-for-ios-explore-api-reference-protocols-tilesourceloadtilerequesthandle)
-- [TileSourceTileMetadata](sdk-for-ios-explore-api-reference-structs-tilesourcetilemetadata)
-- [TileKey](sdk-for-ios-explore-api-reference-structs-tilekey)
-- [TileUrlProviderFactory](sdk-for-ios-explore-api-reference-classes-tileurlproviderfactory)
-- [TileUrlRequestHandler](sdk-for-ios-explore-api-reference-maps#/s:7heresdk21TileUrlRequestHandlera)
-- [TilingScheme](sdk-for-ios-explore-api-reference-enums-tilingscheme)
-- [TranslucentMapLayerGroup](sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup)
-- [– ErrorCode](sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup-errorcode)
-- [– ErrorDetails](sdk-for-ios-explore-api-reference-classes-translucentmaplayergroup-errordetails)
-- [TriangleMeshBuilder](sdk-for-ios-explore-api-reference-classes-trianglemeshbuilder)
-- [TwoFingerPanDelegate](sdk-for-ios-explore-api-reference-protocols-twofingerpandelegate)
-- [TwoFingerTapDelegate](sdk-for-ios-explore-api-reference-protocols-twofingertapdelegate)
-- [VisibilityState](sdk-for-ios-explore-api-reference-enums-visibilitystate)
-- [WatermarkStyle](sdk-for-ios-explore-api-reference-enums-watermarkstyle)
+- AuthenticationData
+- AuthenticationError
 
-## [Routing](sdk-for-ios-explore-api-reference-routing)
+## sdk-for-ios-explore-api-reference-maploader
+
+### Other
+- DataAttributesBase
+- LineData
+- LineDataAccessor
+- LineDataBuilder
+- LineDataSource
+- LineDataSourceBuilder
+
+## sdk-for-ios-explore-api-reference-maps
+
+### Other
+- AnimationDelegate
+- AnimationState
+- AssetsManager
+- DataAttributes
+- DataAttributesAccessor
+- DataAttributesBuilder
+- DataAttributeValue
+- – ValueType
+- DashPattern
+- DoubleTapDelegate
+- DrawOrderType
+- Easing
+- – InstantiationErrorCode
+- EasingFunction
+- GeoCoordinatesKeyframe
+- GeoOrientationKeyframe
+- GestureState
+- GestureType
+- Gestures
+- HereMap
+- IconProvider
+- IconProviderAssetType
+- IconProviderCallback
+- IconProviderError
+- ImageFormat
+- JsonStyleFactory
+- – InstantiationErrorCode
+- – InstantiationErrorDetails
+- KeyframeInterpolationMode
+- LineCap
+- LineTileDataSource
+- LineTileSource
+- LineTileSourceLoadResultHandler
+- LocationIndicator
+- – IndicatorStyle
+- – MarkerType
+- LongPressDelegate
+- MapArrow
+- MapCamera
+- – State
+- – FarPlaneConfiguration
+- MapCameraAnimation
+- – InstantiationErrorCode
+- MapCameraAnimationFactory
+- MapCameraDelegate
+- MapCameraKeyframeTrack
+- – InstantiationErrorCode
+- MapCameraLimits
+- MapCameraUpdate
+- – InstantiationErrorCode
+- MapCameraUpdateFactory
+- MapContentCategory
+- MapContentSettings
+- – TrafficRefreshPeriodErrorCode
+- MapContentType
+- MapContext
+- – MemoryManagementStrategy
+- – MemoryManagementResultCode
+- – ResourceType
+- – FreeResourceSeverity
+- – MemoryManagementResult
+- – MemoryManagementOptions
+- MapError
+- MapFeatures
+- MapFeatureModes
+- MapIdleDelegate
+- MapImage
+- MapImageOverlay
+- MapItemKeyFrameTrack
+- – InstantiationErrorCode
+- MapItemRepresentation
+- MapLayer
+- MapLayerBuilder
+- – InstantiationErrorCode
+- – InstantiationErrorDetails
+- MapLayerPriority
+- MapLayerPriorityBuilder
+- MapLayerMapMeasureDependentStorageLevels
+- MapLayerVisibilityRange
+- MapMarkerCluster
+- – Grouping
+- – ImageStyle
+- – CounterStyle
+- MapMeasureRange
+- MapObjectDescriptor
+- MapProjection
+- MapSceneLights
+- – Category
+- – AttributeSettingError
+- – Direction
+- MapSceneLoadOptions
+- MapSceneLoadOptionsBuilder
+- – InstantiationErrorCode
+- – InstantiationErrorDetails
+- MapMarker
+- – TextStyle
+- MapMarker3D
+- MapMarker3DModel
+- – InstantiationErrorCode
+- MapMarkerAnimation
+- – InstantiationErrorCode
+- MapMeasure
+- – Kind
+- MapMeasureDependentRenderSize
+- – InstantiationErrorCode
+- MapPolygon
+- MapPolyline
+- – Representation
+- – DashImageRepresentation
+- – SolidRepresentation
+- – DashRepresentation
+- – SolidMultiColorRepresentation
+- MapPolylineAnimation
+- – InstantiationErrorCode
+- MapPickResult
+- MapScene
+- – MapPickFilter
+- MapScheme
+- MapViewBase
+- MapView
+- – ViewPin
+- MapViewLifecycleDelegate
+- MapViewOptions
+- MaterialReflectivity
+- Mesh
+- MeshBuilder
+- PanDelegate
+- PickMapContentResult
+- – TrafficIncidentResult
+- PickMapItemsResult
+- PinchRotateDelegate
+- PointData
+- PointDataAccessor
+- PointDataBuilder
+- PointDataSource
+- PointDataSourceBuilder
+- PointTileDataSource
+- PointTileSource
+- PointTileSourceLoadResultHandler
+- Point2DKeyframe
+- PolygonData
+- PolygonDataAccessor
+- PolygonDataBuilder
+- PolygonDataSource
+- PolygonDataSourceBuilder
+- PolygonTileDataSource
+- PolygonTileSource
+- PolygonTileSourceLoadResultHandler
+- QuadMeshBuilder
+- RasterDataSource
+- RasterDataSourceConfiguration
+- – Provider
+- – Cache
+- RasterDataSourceConfigurationUpdate
+- RasterDataSourceDelegate
+- RasterDataSourceError
+- RasterTileSource
+- RasterTileSourceLoadResultHandler
+- RoadShieldIconProperties
+- RenderSize
+- – Unit
+- ScalarKeyframe
+- SDKMapViewInitializer
+- ShadowQuality
+- Style
+- TapDelegate
+- TileGeoBoundsCalculator
+- TileSource
+- TileSourceDataVersion
+- TileSourceDelegate
+- TileSourceLoadTileRequestHandle
+- TileSourceTileMetadata
+- TileKey
+- TileUrlProviderFactory
+- TileUrlRequestHandler
+- TilingScheme
+- TranslucentMapLayerGroup
+- – ErrorCode
+- – ErrorDetails
+- TriangleMeshBuilder
+- TwoFingerPanDelegate
+- TwoFingerTapDelegate
+- VisibilityState
+- WatermarkStyle
+
+## sdk-for-ios-explore-api-reference-routing
 
 ### Classes
-- [FunctionalRoadClass](sdk-for-ios-explore-api-reference-enums-functionalroadclass)
+- FunctionalRoadClass
 
 ### Protocols
-- [RoutingProtocol](sdk-for-ios-explore-api-reference-protocols-routingprotocol)
+- RoutingProtocol
 
 ### Other
-- [AccessAttributes](sdk-for-ios-explore-api-reference-enums-accessattributes)
-- [Agency](sdk-for-ios-explore-api-reference-structs-agency)
-- [AllowOptions](sdk-for-ios-explore-api-reference-structs-allowoptions)
-- [Attribution](sdk-for-ios-explore-api-reference-structs-attribution)
-- [AttributionType](sdk-for-ios-explore-api-reference-enums-attributiontype)
-- [AvoidanceOptions](sdk-for-ios-explore-api-reference-structs-avoidanceoptions)
-- [AvoidBoundingBoxAreaOptions](sdk-for-ios-explore-api-reference-structs-avoidboundingboxareaoptions)
-- [AvoidCorridorAreaOptions](sdk-for-ios-explore-api-reference-structs-avoidcorridorareaoptions)
-- [AvoidPolygonAreaOptions](sdk-for-ios-explore-api-reference-structs-avoidpolygonareaoptions)
-- [BatterySpecifications](sdk-for-ios-explore-api-reference-structs-batteryspecifications)
-- [BicycleOptions](sdk-for-ios-explore-api-reference-structs-bicycleoptions)
-- [BusOptions](sdk-for-ios-explore-api-reference-structs-busoptions)
-- [CarOptions](sdk-for-ios-explore-api-reference-structs-caroptions)
-- [CalculateIsolineCompletionHandler](sdk-for-ios-explore-api-reference-routing#/s:7heresdk33CalculateIsolineCompletionHandlera)
-- [CalculateRouteCompletionHandler](sdk-for-ios-explore-api-reference-routing#/s:7heresdk31CalculateRouteCompletionHandlera)
-- [CalculateTrafficOnRouteCompletionHandler](sdk-for-ios-explore-api-reference-routing#/s:7heresdk40CalculateTrafficOnRouteCompletionHandlera)
-- [ChargingActionDetails](sdk-for-ios-explore-api-reference-structs-chargingactiondetails)
-- [ChargingConnectorAttributes](sdk-for-ios-explore-api-reference-structs-chargingconnectorattributes)
-- [ChargingConnectorType](sdk-for-ios-explore-api-reference-enums-chargingconnectortype)
-- [– Key](sdk-for-ios-explore-api-reference-enums-chargingconnectortype-key)
-- [– CodingError](sdk-for-ios-explore-api-reference-enums-chargingconnectortype-codingerror)
-- [ChargingStation](sdk-for-ios-explore-api-reference-structs-chargingstation)
-- [ChargingStop](sdk-for-ios-explore-api-reference-structs-chargingstop)
-- [ChargingSupplyType](sdk-for-ios-explore-api-reference-enums-chargingsupplytype)
-- [DynamicSpeedInfo](sdk-for-ios-explore-api-reference-structs-dynamicspeedinfo)
-- [ElectricVehicleOptions](sdk-for-ios-explore-api-reference-structs-electricvehicleoptions)
-- [EmpiricalConsumptionModel](sdk-for-ios-explore-api-reference-structs-empiricalconsumptionmodel)
-- [EVCarOptions](sdk-for-ios-explore-api-reference-structs-evcaroptions)
-- [EVChargingPool](sdk-for-ios-explore-api-reference-structs-evchargingpool)
-- [EVChargingStation](sdk-for-ios-explore-api-reference-structs-evchargingstation)
-- [EVConsumptionModel](sdk-for-ios-explore-api-reference-structs-evconsumptionmodel)
-- [EVMobilityServiceProviderPreferences](sdk-for-ios-explore-api-reference-structs-evmobilityserviceproviderpreferences)
-- [EVTruckOptions](sdk-for-ios-explore-api-reference-structs-evtruckoptions)
-- [Fare](sdk-for-ios-explore-api-reference-structs-fare)
-- [FarePassValidityPeriod](sdk-for-ios-explore-api-reference-structs-farepassvalidityperiod)
-- [FarePassValidityPeriodType](sdk-for-ios-explore-api-reference-enums-farepassvalidityperiodtype)
-- [FarePrice](sdk-for-ios-explore-api-reference-structs-fareprice)
-- [FarePriceType](sdk-for-ios-explore-api-reference-enums-farepricetype)
-- [FareReason](sdk-for-ios-explore-api-reference-enums-farereason)
-- [HazardousMaterial](sdk-for-ios-explore-api-reference-enums-hazardousmaterial)
-- [IndoorManeuver](sdk-for-ios-explore-api-reference-classes-indoormaneuver)
-- [Isoline](sdk-for-ios-explore-api-reference-classes-isoline)
-- [IsolineCalculationMode](sdk-for-ios-explore-api-reference-enums-isolinecalculationmode)
-- [IsolineOptions](sdk-for-ios-explore-api-reference-structs-isolineoptions)
-- [– Calculation](sdk-for-ios-explore-api-reference-structs-isolineoptions-calculation)
-- [IsolineRangeType](sdk-for-ios-explore-api-reference-enums-isolinerangetype)
-- [IsolineRoutingEngine](sdk-for-ios-explore-api-reference-classes-isolineroutingengine)
-- [LocalizedTextPreference](sdk-for-ios-explore-api-reference-enums-localizedtextpreference)
-- [Maneuver](sdk-for-ios-explore-api-reference-classes-maneuver)
-- [ManeuverAction](sdk-for-ios-explore-api-reference-enums-maneuveraction)
-- [MapMatchedCoordinates](sdk-for-ios-explore-api-reference-structs-mapmatchedcoordinates)
-- [MatchSideOfStreet](sdk-for-ios-explore-api-reference-enums-matchsideofstreet)
-- [MaxAxleGroupWeight](sdk-for-ios-explore-api-reference-structs-maxaxlegroupweight)
-- [MaxSpeedOnSegment](sdk-for-ios-explore-api-reference-structs-maxspeedonsegment)
-- [NoticeSeverity](sdk-for-ios-explore-api-reference-enums-noticeseverity)
-- [OptimizationMode](sdk-for-ios-explore-api-reference-enums-optimizationmode)
-- [PassThroughWaypoint](sdk-for-ios-explore-api-reference-structs-passthroughwaypoint)
-- [PaymentMethod](sdk-for-ios-explore-api-reference-enums-paymentmethod)
-- [PedestrianOptions](sdk-for-ios-explore-api-reference-structs-pedestrianoptions)
-- [PhysicalConsumptionModel](sdk-for-ios-explore-api-reference-structs-physicalconsumptionmodel)
-- [PostAction](sdk-for-ios-explore-api-reference-structs-postaction)
-- [PostActionType](sdk-for-ios-explore-api-reference-enums-postactiontype)
-- [PreAction](sdk-for-ios-explore-api-reference-structs-preaction)
-- [PreActionType](sdk-for-ios-explore-api-reference-enums-preactiontype)
-- [PrivateBusOptions](sdk-for-ios-explore-api-reference-structs-privatebusoptions)
-- [RefreshRouteOptions](sdk-for-ios-explore-api-reference-classes-refreshrouteoptions)
-- [RoadFeatures](sdk-for-ios-explore-api-reference-enums-roadfeatures)
-- [RoadTexts](sdk-for-ios-explore-api-reference-structs-roadtexts)
-- [Route](sdk-for-ios-explore-api-reference-classes-route)
-- [RouteHandle](sdk-for-ios-explore-api-reference-structs-routehandle)
-- [RouteLabel](sdk-for-ios-explore-api-reference-structs-routelabel)
-- [RouteLabelType](sdk-for-ios-explore-api-reference-enums-routelabeltype)
-- [RouteOffset](sdk-for-ios-explore-api-reference-structs-routeoffset)
-- [RouteOptions](sdk-for-ios-explore-api-reference-structs-routeoptions)
-- [RoutePlace](sdk-for-ios-explore-api-reference-structs-routeplace)
-- [RoutePlaceDirection](sdk-for-ios-explore-api-reference-enums-routeplacedirection)
-- [RoutePlaceType](sdk-for-ios-explore-api-reference-enums-routeplacetype)
-- [RouteRailwayCrossing](sdk-for-ios-explore-api-reference-structs-routerailwaycrossing)
-- [RouteRailwayCrossingType](sdk-for-ios-explore-api-reference-enums-routerailwaycrossingtype)
-- [RouteStop](sdk-for-ios-explore-api-reference-structs-routestop)
-- [RouteTextOptions](sdk-for-ios-explore-api-reference-structs-routetextoptions)
-- [RoutingConnectionSettings](sdk-for-ios-explore-api-reference-structs-routingconnectionsettings)
-- [RoutingEngine](sdk-for-ios-explore-api-reference-classes-routingengine)
-- [RoutingError](sdk-for-ios-explore-api-reference-enums-routingerror)
-- [RoutingOptions](sdk-for-ios-explore-api-reference-structs-routingoptions)
-- [ScooterOptions](sdk-for-ios-explore-api-reference-structs-scooteroptions)
-- [Section](sdk-for-ios-explore-api-reference-classes-section)
-- [SectionNotice](sdk-for-ios-explore-api-reference-structs-sectionnotice)
-- [SectionNoticeCode](sdk-for-ios-explore-api-reference-enums-sectionnoticecode)
-- [SectionTransportMode](sdk-for-ios-explore-api-reference-enums-sectiontransportmode)
-- [SegmentReference](sdk-for-ios-explore-api-reference-structs-segmentreference)
-- [SideOfDestination](sdk-for-ios-explore-api-reference-enums-sideofdestination)
-- [Signpost](sdk-for-ios-explore-api-reference-structs-signpost)
-- [SignpostLabel](sdk-for-ios-explore-api-reference-structs-signpostlabel)
-- [StreetAttributes](sdk-for-ios-explore-api-reference-enums-streetattributes)
-- [Span](sdk-for-ios-explore-api-reference-classes-span)
-- [TaxiOptions](sdk-for-ios-explore-api-reference-structs-taxioptions)
-- [TextUsageOptions](sdk-for-ios-explore-api-reference-structs-textusageoptions)
-- [Toll](sdk-for-ios-explore-api-reference-structs-toll)
-- [TollFare](sdk-for-ios-explore-api-reference-structs-tollfare)
-- [TollFarePass](sdk-for-ios-explore-api-reference-structs-tollfarepass)
-- [TollOptions](sdk-for-ios-explore-api-reference-structs-tolloptions)
-- [– VehicleCategory](sdk-for-ios-explore-api-reference-structs-tolloptions-vehiclecategory)
-- [– EmissionType](sdk-for-ios-explore-api-reference-structs-tolloptions-emissiontype)
-- [TrafficOnRoute](sdk-for-ios-explore-api-reference-structs-trafficonroute)
-- [TrafficOnSpan](sdk-for-ios-explore-api-reference-structs-trafficonspan)
-- [TrafficOnSection](sdk-for-ios-explore-api-reference-structs-trafficonsection)
-- [TransitDeparture](sdk-for-ios-explore-api-reference-structs-transitdeparture)
-- [TransitDepartureStatus](sdk-for-ios-explore-api-reference-enums-transitdeparturestatus)
-- [TransitIncident](sdk-for-ios-explore-api-reference-structs-transitincident)
-- [TransitIncidentEffect](sdk-for-ios-explore-api-reference-enums-transitincidenteffect)
-- [TransitIncidentType](sdk-for-ios-explore-api-reference-enums-transitincidenttype)
-- [TransitMode](sdk-for-ios-explore-api-reference-enums-transitmode)
-- [TransitModeFilter](sdk-for-ios-explore-api-reference-enums-transitmodefilter)
-- [TrafficOptimizationMode](sdk-for-ios-explore-api-reference-enums-trafficoptimizationmode)
-- [TransitRouteOptions](sdk-for-ios-explore-api-reference-structs-transitrouteoptions)
-- [TransitRoutingEngine](sdk-for-ios-explore-api-reference-classes-transitroutingengine)
-- [TransitSectionDetails](sdk-for-ios-explore-api-reference-structs-transitsectiondetails)
-- [TransitStop](sdk-for-ios-explore-api-reference-structs-transitstop)
-- [TransitTransport](sdk-for-ios-explore-api-reference-structs-transittransport)
-- [TransitWaypoint](sdk-for-ios-explore-api-reference-structs-transitwaypoint)
-- [TravelDirection](sdk-for-ios-explore-api-reference-enums-traveldirection)
-- [TruckOptions](sdk-for-ios-explore-api-reference-structs-truckoptions)
-- [TruckSpecifications](sdk-for-ios-explore-api-reference-structs-truckspecifications)
-- [TruckType](sdk-for-ios-explore-api-reference-enums-trucktype)
-- [TunnelCategory](sdk-for-ios-explore-api-reference-enums-tunnelcategory)
-- [VehicleRestrictionMaxWeight](sdk-for-ios-explore-api-reference-structs-vehiclerestrictionmaxweight)
-- [VehicleRestrictionMaxWeightType](sdk-for-ios-explore-api-reference-enums-vehiclerestrictionmaxweighttype)
-- [VehicleSpecification](sdk-for-ios-explore-api-reference-structs-vehiclespecification)
-- [– CarBuilder](sdk-for-ios-explore-api-reference-structs-vehiclespecification-carbuilder)
-- [– TruckBuilder](sdk-for-ios-explore-api-reference-structs-vehiclespecification-truckbuilder)
-- [– ScooterBuilder](sdk-for-ios-explore-api-reference-structs-vehiclespecification-scooterbuilder)
-- [– TaxiBuilder](sdk-for-ios-explore-api-reference-structs-vehiclespecification-taxibuilder)
-- [– BusBuilder](sdk-for-ios-explore-api-reference-structs-vehiclespecification-busbuilder)
-- [– PrivateBusBuilder](sdk-for-ios-explore-api-reference-structs-vehiclespecification-privatebusbuilder)
-- [ViolatedRestriction](sdk-for-ios-explore-api-reference-structs-violatedrestriction)
-- [– Details](sdk-for-ios-explore-api-reference-structs-violatedrestriction-details)
-- [WalkAttributes](sdk-for-ios-explore-api-reference-enums-walkattributes)
-- [Waypoint](sdk-for-ios-explore-api-reference-structs-waypoint)
-- [WaypointType](sdk-for-ios-explore-api-reference-enums-waypointtype)
-- [ZoneCategory](sdk-for-ios-explore-api-reference-enums-zonecategory)
+- AccessAttributes
+- Agency
+- AllowOptions
+- Attribution
+- AttributionType
+- AvoidanceOptions
+- AvoidBoundingBoxAreaOptions
+- AvoidCorridorAreaOptions
+- AvoidPolygonAreaOptions
+- BatterySpecifications
+- BicycleOptions
+- BusOptions
+- CarOptions
+- CalculateIsolineCompletionHandler
+- CalculateRouteCompletionHandler
+- CalculateTrafficOnRouteCompletionHandler
+- ChargingActionDetails
+- ChargingConnectorAttributes
+- ChargingConnectorType
+- – Key
+- – CodingError
+- ChargingStation
+- ChargingStop
+- ChargingSupplyType
+- DynamicSpeedInfo
+- ElectricVehicleOptions
+- EmpiricalConsumptionModel
+- EVCarOptions
+- EVChargingPool
+- EVChargingStation
+- EVConsumptionModel
+- EVMobilityServiceProviderPreferences
+- EVTruckOptions
+- Fare
+- FarePassValidityPeriod
+- FarePassValidityPeriodType
+- FarePrice
+- FarePriceType
+- FareReason
+- HazardousMaterial
+- IndoorManeuver
+- Isoline
+- IsolineCalculationMode
+- IsolineOptions
+- – Calculation
+- IsolineRangeType
+- IsolineRoutingEngine
+- LocalizedTextPreference
+- Maneuver
+- ManeuverAction
+- MapMatchedCoordinates
+- MatchSideOfStreet
+- MaxAxleGroupWeight
+- MaxSpeedOnSegment
+- NoticeSeverity
+- OptimizationMode
+- PassThroughWaypoint
+- PaymentMethod
+- PedestrianOptions
+- PhysicalConsumptionModel
+- PostAction
+- PostActionType
+- PreAction
+- PreActionType
+- PrivateBusOptions
+- RefreshRouteOptions
+- RoadFeatures
+- RoadTexts
+- Route
+- RouteHandle
+- RouteLabel
+- RouteLabelType
+- RouteOffset
+- RouteOptions
+- RoutePlace
+- RoutePlaceDirection
+- RoutePlaceType
+- RouteRailwayCrossing
+- RouteRailwayCrossingType
+- RouteStop
+- RouteTextOptions
+- RoutingConnectionSettings
+- RoutingEngine
+- RoutingError
+- RoutingOptions
+- ScooterOptions
+- Section
+- SectionNotice
+- SectionNoticeCode
+- SectionTransportMode
+- SegmentReference
+- SideOfDestination
+- Signpost
+- SignpostLabel
+- StreetAttributes
+- Span
+- TaxiOptions
+- TextUsageOptions
+- Toll
+- TollFare
+- TollFarePass
+- TollOptions
+- – VehicleCategory
+- – EmissionType
+- TrafficOnRoute
+- TrafficOnSpan
+- TrafficOnSection
+- TransitDeparture
+- TransitDepartureStatus
+- TransitIncident
+- TransitIncidentEffect
+- TransitIncidentType
+- TransitMode
+- TransitModeFilter
+- TrafficOptimizationMode
+- TransitRouteOptions
+- TransitRoutingEngine
+- TransitSectionDetails
+- TransitStop
+- TransitTransport
+- TransitWaypoint
+- TravelDirection
+- TruckOptions
+- TruckSpecifications
+- TruckType
+- TunnelCategory
+- VehicleRestrictionMaxWeight
+- VehicleRestrictionMaxWeightType
+- VehicleSpecification
+- – CarBuilder
+- – TruckBuilder
+- – ScooterBuilder
+- – TaxiBuilder
+- – BusBuilder
+- – PrivateBusBuilder
+- ViolatedRestriction
+- – Details
+- WalkAttributes
+- Waypoint
+- WaypointType
+- ZoneCategory
 
-## [Search](sdk-for-ios-explore-api-reference-search)
+## sdk-for-ios-explore-api-reference-search
 
 ### Structs
-- [StructuredQuery](sdk-for-ios-explore-api-reference-structs-structuredquery)
+- StructuredQuery
 
 ### Other
-- [Address](sdk-for-ios-explore-api-reference-structs-address)
-- [AddressType](sdk-for-ios-explore-api-reference-enums-addresstype)
-- [AddressQuery](sdk-for-ios-explore-api-reference-structs-addressquery)
-- [AreaType](sdk-for-ios-explore-api-reference-enums-areatype)
-- [BusinessDetails](sdk-for-ios-explore-api-reference-structs-businessdetails)
-- [CategoryQuery](sdk-for-ios-explore-api-reference-structs-categoryquery)
-- [– Area](sdk-for-ios-explore-api-reference-structs-categoryquery-area)
-- [Contact](sdk-for-ios-explore-api-reference-structs-contact)
-- [DateRange](sdk-for-ios-explore-api-reference-structs-daterange)
-- [DayOfWeek](sdk-for-ios-explore-api-reference-enums-dayofweek)
-- [Details](sdk-for-ios-explore-api-reference-structs-details)
-- [EmailAddress](sdk-for-ios-explore-api-reference-structs-emailaddress)
-- [EMobilityServiceProvider](sdk-for-ios-explore-api-reference-structs-emobilityserviceprovider)
-- [EnergyMix](sdk-for-ios-explore-api-reference-structs-energymix)
-- [EnergySource](sdk-for-ios-explore-api-reference-structs-energysource)
-- [EnergySourceType](sdk-for-ios-explore-api-reference-enums-energysourcetype)
-- [EnvironmentalImpact](sdk-for-ios-explore-api-reference-structs-environmentalimpact)
-- [EnvironmentalImpactCategory](sdk-for-ios-explore-api-reference-enums-environmentalimpactcategory)
-- [EVAccessRestrictionReason](sdk-for-ios-explore-api-reference-enums-evaccessrestrictionreason)
-- [EVAccessType](sdk-for-ios-explore-api-reference-enums-evaccesstype)
-- [EVChargingConnector](sdk-for-ios-explore-api-reference-structs-evchargingconnector)
-- [EVChargingConnectorGroup](sdk-for-ios-explore-api-reference-structs-evchargingconnectorgroup)
-- [EVChargingConnectorReference](sdk-for-ios-explore-api-reference-structs-evchargingconnectorreference)
-- [EVChargingDurationRange](sdk-for-ios-explore-api-reference-structs-evchargingdurationrange)
-- [EVChargingLocation](sdk-for-ios-explore-api-reference-classes-evcharginglocation)
-- [EVChargingLocationFeature](sdk-for-ios-explore-api-reference-enums-evcharginglocationfeature)
-- [EVChargingOpeningHours](sdk-for-ios-explore-api-reference-structs-evchargingopeninghours)
-- [EVChargingOpeningHoursException](sdk-for-ios-explore-api-reference-structs-evchargingopeninghoursexception)
-- [EVChargingOpeningHoursSchedule](sdk-for-ios-explore-api-reference-structs-evchargingopeninghoursschedule)
-- [EVChargingOperator](sdk-for-ios-explore-api-reference-structs-evchargingoperator)
-- [EVChargingPoolDetails](sdk-for-ios-explore-api-reference-structs-evchargingpooldetails)
-- [EVChargingTariff](sdk-for-ios-explore-api-reference-structs-evchargingtariff)
-- [EVChargingTariffDimension](sdk-for-ios-explore-api-reference-enums-evchargingtariffdimension)
-- [EVChargingTariffElement](sdk-for-ios-explore-api-reference-structs-evchargingtariffelement)
-- [EVChargingTariffElementCondition](sdk-for-ios-explore-api-reference-structs-evchargingtariffelementcondition)
-- [EVChargingTariffPriceComponent](sdk-for-ios-explore-api-reference-structs-evchargingtariffpricecomponent)
-- [EVChargingTariffRequest](sdk-for-ios-explore-api-reference-structs-evchargingtariffrequest)
-- [EVChargingTariffType](sdk-for-ios-explore-api-reference-enums-evchargingtarifftype)
-- [EVChargingTruckRestriction](sdk-for-ios-explore-api-reference-structs-evchargingtruckrestriction)
-- [EVChargingVehicleCategory](sdk-for-ios-explore-api-reference-enums-evchargingvehiclecategory)
-- [EVCP3SearchCompletionHandler](sdk-for-ios-explore-api-reference-search#/s:7heresdk28EVCP3SearchCompletionHandlera)
-- [Evse](sdk-for-ios-explore-api-reference-structs-evse)
-- [EVSearchEngine](sdk-for-ios-explore-api-reference-classes-evsearchengine)
-- [EVSearchError](sdk-for-ios-explore-api-reference-enums-evsearcherror)
-- [EVSearchInterface](sdk-for-ios-explore-api-reference-protocols-evsearchinterface)
-- [EVSearchOptions](sdk-for-ios-explore-api-reference-structs-evsearchoptions)
-- [EVSEConnector](sdk-for-ios-explore-api-reference-structs-evseconnector)
-- [EVSEInfo](sdk-for-ios-explore-api-reference-structs-evseinfo)
-- [EVSEStatus](sdk-for-ios-explore-api-reference-enums-evsestatus)
-- [FacilityType](sdk-for-ios-explore-api-reference-enums-facilitytype)
-- [FuelAdditive](sdk-for-ios-explore-api-reference-structs-fueladditive)
-- [FuelAdditiveType](sdk-for-ios-explore-api-reference-enums-fueladditivetype)
-- [FuelStation](sdk-for-ios-explore-api-reference-structs-fuelstation)
-- [FuelType](sdk-for-ios-explore-api-reference-enums-fueltype)
-- [GenericFuel](sdk-for-ios-explore-api-reference-structs-genericfuel)
-- [GeoPlace](sdk-for-ios-explore-api-reference-structs-geoplace)
-- [HighlightType](sdk-for-ios-explore-api-reference-enums-highlighttype)
-- [IndexRange](sdk-for-ios-explore-api-reference-classes-indexrange)
-- [LandlinePhone](sdk-for-ios-explore-api-reference-structs-landlinephone)
-- [LocationDetails](sdk-for-ios-explore-api-reference-structs-locationdetails)
-- [MobilePhone](sdk-for-ios-explore-api-reference-structs-mobilephone)
-- [OpeningHours](sdk-for-ios-explore-api-reference-structs-openinghours)
-- [ParkingType](sdk-for-ios-explore-api-reference-enums-parkingtype)
-- [Place](sdk-for-ios-explore-api-reference-classes-place)
-- [PlaceCategory](sdk-for-ios-explore-api-reference-classes-placecategory)
-- [PlaceChain](sdk-for-ios-explore-api-reference-structs-placechain)
-- [PlaceFilter](sdk-for-ios-explore-api-reference-structs-placefilter)
-- [– Ev](sdk-for-ios-explore-api-reference-structs-placefilter-ev)
-- [PlaceFoodType](sdk-for-ios-explore-api-reference-structs-placefoodtype)
-- [PlaceIdQuery](sdk-for-ios-explore-api-reference-structs-placeidquery)
-- [PlaceIdSearchCompletionHandler](sdk-for-ios-explore-api-reference-search#/s:7heresdk30PlaceIdSearchCompletionHandlera)
-- [PlaceIdSearchExtendedCompletionHandler](sdk-for-ios-explore-api-reference-search#/s:7heresdk38PlaceIdSearchExtendedCompletionHandlera)
-- [PlaceSerializationError](sdk-for-ios-explore-api-reference-enums-placeserializationerror)
-- [PlaceSerializationException](sdk-for-ios-explore-api-reference-search#/s:7heresdk27PlaceSerializationExceptiona)
-- [PlaceType](sdk-for-ios-explore-api-reference-enums-placetype)
-- [POIPaymentDetails](sdk-for-ios-explore-api-reference-structs-poipaymentdetails)
-- [POIPaymentMethod](sdk-for-ios-explore-api-reference-structs-poipaymentmethod)
-- [ResponseDetails](sdk-for-ios-explore-api-reference-structs-responsedetails)
-- [ScheduleDetails](sdk-for-ios-explore-api-reference-structs-scheduledetails)
-- [SearchCompletionHandler](sdk-for-ios-explore-api-reference-search#/s:7heresdk23SearchCompletionHandlera)
-- [SearchExtendedCompletionHandler](sdk-for-ios-explore-api-reference-search#/s:7heresdk31SearchExtendedCompletionHandlera)
-- [SearchEngine](sdk-for-ios-explore-api-reference-classes-searchengine)
-- [SearchError](sdk-for-ios-explore-api-reference-enums-searcherror)
-- [SearchInterface](sdk-for-ios-explore-api-reference-protocols-searchinterface)
-- [SearchOptions](sdk-for-ios-explore-api-reference-structs-searchoptions)
-- [– ResultType](sdk-for-ios-explore-api-reference-structs-structuredquery-resulttype)
-- [– AddressElements](sdk-for-ios-explore-api-reference-structs-structuredquery-addresselements)
-- [Suggestion](sdk-for-ios-explore-api-reference-classes-suggestion)
-- [SuggestionType](sdk-for-ios-explore-api-reference-enums-suggestiontype)
-- [SuggestCompletionHandler](sdk-for-ios-explore-api-reference-search#/s:7heresdk24SuggestCompletionHandlera)
-- [SuggestExtendedCompletionHandler](sdk-for-ios-explore-api-reference-search#/s:7heresdk32SuggestExtendedCompletionHandlera)
-- [SupplierReference](sdk-for-ios-explore-api-reference-structs-supplierreference)
-- [TextQuery](sdk-for-ios-explore-api-reference-structs-textquery)
-- [– Area](sdk-for-ios-explore-api-reference-structs-textquery-area)
-- [TimeOfDayRange](sdk-for-ios-explore-api-reference-structs-timeofdayrange)
-- [TruckAmenities](sdk-for-ios-explore-api-reference-structs-truckamenities)
-- [TruckFuel](sdk-for-ios-explore-api-reference-structs-truckfuel)
-- [WebDetails](sdk-for-ios-explore-api-reference-structs-webdetails)
-- [WebEditorial](sdk-for-ios-explore-api-reference-structs-webeditorial)
-- [WebImage](sdk-for-ios-explore-api-reference-structs-webimage)
-- [WebRating](sdk-for-ios-explore-api-reference-structs-webrating)
-- [WebsiteAddress](sdk-for-ios-explore-api-reference-structs-websiteaddress)
-- [WebSource](sdk-for-ios-explore-api-reference-structs-websource)
+- Address
+- AddressType
+- AddressQuery
+- AreaType
+- BusinessDetails
+- CategoryQuery
+- – Area
+- Contact
+- DateRange
+- DayOfWeek
+- Details
+- EmailAddress
+- EMobilityServiceProvider
+- EnergyMix
+- EnergySource
+- EnergySourceType
+- EnvironmentalImpact
+- EnvironmentalImpactCategory
+- EVAccessRestrictionReason
+- EVAccessType
+- EVChargingConnector
+- EVChargingConnectorGroup
+- EVChargingConnectorReference
+- EVChargingDurationRange
+- EVChargingLocation
+- EVChargingLocationFeature
+- EVChargingOpeningHours
+- EVChargingOpeningHoursException
+- EVChargingOpeningHoursSchedule
+- EVChargingOperator
+- EVChargingPoolDetails
+- EVChargingTariff
+- EVChargingTariffDimension
+- EVChargingTariffElement
+- EVChargingTariffElementCondition
+- EVChargingTariffPriceComponent
+- EVChargingTariffRequest
+- EVChargingTariffType
+- EVChargingTruckRestriction
+- EVChargingVehicleCategory
+- EVCP3SearchCompletionHandler
+- Evse
+- EVSearchEngine
+- EVSearchError
+- EVSearchInterface
+- EVSearchOptions
+- EVSEConnector
+- EVSEInfo
+- EVSEStatus
+- FacilityType
+- FuelAdditive
+- FuelAdditiveType
+- FuelStation
+- FuelType
+- GenericFuel
+- GeoPlace
+- HighlightType
+- IndexRange
+- LandlinePhone
+- LocationDetails
+- MobilePhone
+- OpeningHours
+- ParkingType
+- Place
+- PlaceCategory
+- PlaceChain
+- PlaceFilter
+- – Ev
+- PlaceFoodType
+- PlaceIdQuery
+- PlaceIdSearchCompletionHandler
+- PlaceIdSearchExtendedCompletionHandler
+- PlaceSerializationError
+- PlaceSerializationException
+- PlaceType
+- POIPaymentDetails
+- POIPaymentMethod
+- ResponseDetails
+- ScheduleDetails
+- SearchCompletionHandler
+- SearchExtendedCompletionHandler
+- SearchEngine
+- SearchError
+- SearchInterface
+- SearchOptions
+- – ResultType
+- – AddressElements
+- Suggestion
+- SuggestionType
+- SuggestCompletionHandler
+- SuggestExtendedCompletionHandler
+- SupplierReference
+- TextQuery
+- – Area
+- TimeOfDayRange
+- TruckAmenities
+- TruckFuel
+- WebDetails
+- WebEditorial
+- WebImage
+- WebRating
+- WebsiteAddress
+- WebSource
 
-## [Traffic](sdk-for-ios-explore-api-reference-traffic)
+## sdk-for-ios-explore-api-reference-traffic
 
 ### Other
-- [TrafficDataProvider](sdk-for-ios-explore-api-reference-traffic#/s:7heresdk19TrafficDataProviderC)
-- [TrafficEngine](sdk-for-ios-explore-api-reference-classes-trafficengine)
-- [TrafficFlow](sdk-for-ios-explore-api-reference-classes-trafficflow)
-- [TrafficFlowBase](sdk-for-ios-explore-api-reference-protocols-trafficflowbase)
-- [TrafficFlowQueryOptions](sdk-for-ios-explore-api-reference-structs-trafficflowqueryoptions)
-- [TrafficFlowQueryCompletionHandler](sdk-for-ios-explore-api-reference-traffic#/s:7heresdk33TrafficFlowQueryCompletionHandlera)
-- [TrafficIncident](sdk-for-ios-explore-api-reference-classes-trafficincident)
-- [– RestrictedVehicleCategory](sdk-for-ios-explore-api-reference-classes-trafficincident-restrictedvehiclecategory)
-- [– VehicleRestriction](sdk-for-ios-explore-api-reference-classes-trafficincident-vehiclerestriction)
-- [TrafficIncidentBase](sdk-for-ios-explore-api-reference-protocols-trafficincidentbase)
-- [TrafficIncidentCompletionHandler](sdk-for-ios-explore-api-reference-traffic#/s:7heresdk32TrafficIncidentCompletionHandlera)
-- [TrafficIncidentImpact](sdk-for-ios-explore-api-reference-enums-trafficincidentimpact)
-- [TrafficIncidentLookupOptions](sdk-for-ios-explore-api-reference-structs-trafficincidentlookupoptions)
-- [TrafficIncidentOnRoute](sdk-for-ios-explore-api-reference-classes-trafficincidentonroute)
-- [TrafficIncidentType](sdk-for-ios-explore-api-reference-enums-trafficincidenttype)
-- [TrafficIncidentsQueryCompletionHandler](sdk-for-ios-explore-api-reference-traffic#/s:7heresdk38TrafficIncidentsQueryCompletionHandlera)
-- [TrafficIncidentsQueryOptions](sdk-for-ios-explore-api-reference-structs-trafficincidentsqueryoptions)
-- [TrafficLocation](sdk-for-ios-explore-api-reference-structs-trafficlocation)
-- [TrafficQueryError](sdk-for-ios-explore-api-reference-enums-trafficqueryerror)
-- [Traversability](sdk-for-ios-explore-api-reference-enums-traversability)
+- TrafficDataProvider
+- TrafficEngine
+- TrafficFlow
+- TrafficFlowBase
+- TrafficFlowQueryOptions
+- TrafficFlowQueryCompletionHandler
+- TrafficIncident
+- – RestrictedVehicleCategory
+- – VehicleRestriction
+- TrafficIncidentBase
+- TrafficIncidentCompletionHandler
+- TrafficIncidentImpact
+- TrafficIncidentLookupOptions
+- TrafficIncidentOnRoute
+- TrafficIncidentType
+- TrafficIncidentsQueryCompletionHandler
+- TrafficIncidentsQueryOptions
+- TrafficLocation
+- TrafficQueryError
+- Traversability
 
-## [Transport](sdk-for-ios-explore-api-reference-transport)
+## sdk-for-ios-explore-api-reference-transport
 
 ### Classes
-- [TruckClass](sdk-for-ios-explore-api-reference-enums-truckclass)
+- TruckClass
 
 ### Other
-- [BusSpecifications](sdk-for-ios-explore-api-reference-structs-busspecifications)
-- [CarSpecifications](sdk-for-ios-explore-api-reference-structs-carspecifications)
-- [GeneralVehicleSpeedLimits](sdk-for-ios-explore-api-reference-structs-generalvehiclespeedlimits)
-- [PedestrianSpecification](sdk-for-ios-explore-api-reference-structs-pedestrianspecification)
-- [ScooterSpecification](sdk-for-ios-explore-api-reference-structs-scooterspecification)
-- [TaxiSpecification](sdk-for-ios-explore-api-reference-structs-taxispecification)
-- [TransportMode](sdk-for-ios-explore-api-reference-enums-transportmode)
-- [TransportSpecification](sdk-for-ios-explore-api-reference-structs-transportspecification)
-- [– CarBuilder](sdk-for-ios-explore-api-reference-structs-transportspecification-carbuilder)
-- [– TruckBuilder](sdk-for-ios-explore-api-reference-structs-transportspecification-truckbuilder)
-- [– PedestrianBuilder](sdk-for-ios-explore-api-reference-structs-transportspecification-pedestrianbuilder)
-- [– ScooterBuilder](sdk-for-ios-explore-api-reference-structs-transportspecification-scooterbuilder)
-- [– BicycleBuilder](sdk-for-ios-explore-api-reference-structs-transportspecification-bicyclebuilder)
-- [– TaxiBuilder](sdk-for-ios-explore-api-reference-structs-transportspecification-taxibuilder)
-- [– BusBuilder](sdk-for-ios-explore-api-reference-structs-transportspecification-busbuilder)
-- [– PrivateBusBuilder](sdk-for-ios-explore-api-reference-structs-transportspecification-privatebusbuilder)
-- [TruckCategory](sdk-for-ios-explore-api-reference-enums-truckcategory)
-- [TruckRoadType](sdk-for-ios-explore-api-reference-enums-truckroadtype)
-- [TruckFuelType](sdk-for-ios-explore-api-reference-enums-truckfueltype)
-- [VehicleType](sdk-for-ios-explore-api-reference-enums-vehicletype)
-- [VehicleProfile](sdk-for-ios-explore-api-reference-structs-vehicleprofile)
-- [WeightPerAxleGroup](sdk-for-ios-explore-api-reference-structs-weightperaxlegroup)
-
-## Support
-
-For questions or feedback, contact HERE.
+- BusSpecifications
+- CarSpecifications
+- GeneralVehicleSpeedLimits
+- PedestrianSpecification
+- ScooterSpecification
+- TaxiSpecification
+- TransportMode
+- TransportSpecification
+- – CarBuilder
+- – TruckBuilder
+- – PedestrianBuilder
+- – ScooterBuilder
+- – BicycleBuilder
+- – TaxiBuilder
+- – BusBuilder
+- – PrivateBusBuilder
+- TruckCategory
+- TruckRoadType
+- TruckFuelType
+- VehicleType
+- VehicleProfile
+- WeightPerAxleGroup

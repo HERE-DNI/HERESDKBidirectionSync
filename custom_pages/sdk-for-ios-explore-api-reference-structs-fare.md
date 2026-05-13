@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / Fare"
 slug: "sdk-for-ios-explore-api-reference-structs-fare"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Fare.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -153,6 +151,5 @@ slug: "sdk-for-ios-explore-api-reference-structs-fare"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapLayer"
 slug: "sdk-for-ios-explore-api-reference-classes-maplayer"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapLayer.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -192,6 +190,5 @@ behavior. Related APIs may change for new releases without a deprecation process
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / AssetsManager"
 slug: "sdk-for-ios-explore-api-reference-classes-assetsmanager"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AssetsManager.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -240,6 +238,5 @@ does not contain required character symbol and shall be sorted starting from mos
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

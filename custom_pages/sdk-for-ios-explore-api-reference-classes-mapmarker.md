@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Maps / MapMarker"
 slug: "sdk-for-ios-explore-api-reference-classes-mapmarker"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MapMarker.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -748,6 +746,5 @@ Any ongoing animation of this marker instance will get cancelled.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

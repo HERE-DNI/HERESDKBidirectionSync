@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / RoadTexts"
 slug: "sdk-for-ios-navigate-api-reference-structs-roadtexts"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- RoadTexts.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -130,6 +128,5 @@ Empty if the road has no numbers assigned.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

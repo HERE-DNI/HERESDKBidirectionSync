@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapContext / MemoryManagementResultCode"
 slug: "sdk-for-ios-explore-api-reference-classes-mapcontext-memorymanagementresultcode"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- MemoryManagementResultCode.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -187,6 +185,5 @@ Previous values of video memory and CPU tile cache limits are preserved.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

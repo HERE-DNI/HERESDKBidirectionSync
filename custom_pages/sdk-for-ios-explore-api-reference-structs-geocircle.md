@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Core / GeoCircle"
 slug: "sdk-for-ios-explore-api-reference-structs-geocircle"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- GeoCircle.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -159,6 +157,5 @@ slug: "sdk-for-ios-explore-api-reference-structs-geocircle"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

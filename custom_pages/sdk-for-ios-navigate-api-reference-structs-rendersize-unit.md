@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "RenderSize / Unit"
 slug: "sdk-for-ios-navigate-api-reference-structs-rendersize-unit"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Unit.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -133,6 +131,5 @@ and change on the screen as the map is zoomed in and out.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

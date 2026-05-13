@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Traffic / TrafficIncidentsQueryOptions"
 slug: "sdk-for-ios-navigate-api-reference-structs-trafficincidentsqueryoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TrafficIncidentsQueryOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -208,6 +206,5 @@ If the language code is null or not supported then response fields are expected 
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

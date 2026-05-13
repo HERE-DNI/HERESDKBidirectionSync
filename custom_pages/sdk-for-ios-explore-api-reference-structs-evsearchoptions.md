@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Search / EVSearchOptions"
 slug: "sdk-for-ios-explore-api-reference-structs-evsearchoptions"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- EVSearchOptions.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -133,6 +131,5 @@ If empty, the response contains only ad-hoc tariffs, if available.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

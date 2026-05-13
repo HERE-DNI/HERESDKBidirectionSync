@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation / VisualNavigatorColors"
 slug: "sdk-for-ios-navigate-api-reference-classes-visualnavigatorcolors"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- VisualNavigatorColors.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -271,6 +269,5 @@ For route segments with a jam factor below 4.0 and those behind the current loca
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

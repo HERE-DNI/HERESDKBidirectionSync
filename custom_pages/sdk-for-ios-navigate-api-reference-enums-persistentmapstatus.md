@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "MapLoader / PersistentMapStatus"
 slug: "sdk-for-ios-navigate-api-reference-enums-persistentmapstatus"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- PersistentMapStatus.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -270,6 +268,5 @@ The healing procedure is to clean persistent map with <code>sdk.maploader.MapDow
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

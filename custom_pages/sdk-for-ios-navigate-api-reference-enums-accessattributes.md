@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Routing / AccessAttributes"
 slug: "sdk-for-ios-navigate-api-reference-enums-accessattributes"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- AccessAttributes.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -128,6 +126,5 @@ slug: "sdk-for-ios-navigate-api-reference-enums-accessattributes"
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

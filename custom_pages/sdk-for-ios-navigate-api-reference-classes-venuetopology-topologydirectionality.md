@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "VenueTopology / TopologyDirectionality"
 slug: "sdk-for-ios-navigate-api-reference-classes-venuetopology-topologydirectionality"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- TopologyDirectionality.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -155,6 +153,5 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuetopology-topologydirectio
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

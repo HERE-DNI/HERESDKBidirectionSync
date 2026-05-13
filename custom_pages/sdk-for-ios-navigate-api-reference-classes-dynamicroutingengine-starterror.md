@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "DynamicRoutingEngine / StartError"
 slug: "sdk-for-ios-navigate-api-reference-classes-dynamicroutingengine-starterror"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- StartError.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -209,6 +207,5 @@ on the initial route calculation.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>

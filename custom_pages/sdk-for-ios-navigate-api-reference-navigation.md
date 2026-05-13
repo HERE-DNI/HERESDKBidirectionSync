@@ -1,12 +1,10 @@
 ---
-title: "Untitled"
+title: "Navigation"
 slug: "sdk-for-ios-navigate-api-reference-navigation"
 ---
 
 <HTMLBlock>{
 `
-<div class="sdk-for-ios">
-<!-- Navigation.html -->
 <!DOCTYPE html>
 
 <html lang="en">
@@ -4006,6 +4004,5 @@ the route and the maneuver arrow visualization.</p>
 </body>
 </html>
 
-</div>
 `
 }</HTMLBlock>
