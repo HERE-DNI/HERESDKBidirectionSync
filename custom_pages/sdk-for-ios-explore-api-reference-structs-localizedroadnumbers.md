@@ -165,7 +165,7 @@ default or <code>nil</code> if list is empty.</p>
 </div>
 <div>
 <h4>Return Value</h4>
-<p>The default value or null` if list is empty.</p>
+<p>The default value or null if list is empty.</p>
 </div>
 </section>
 </div>

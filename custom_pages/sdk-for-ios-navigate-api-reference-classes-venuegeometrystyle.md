@@ -197,7 +197,7 @@ slug: "sdk-for-ios-navigate-api-reference-classes-venuegeometrystyle"
 <div class="pointer"></div>
 <div class="abstract">
 <p>The label style name.
-Defaults to`null, if a label style name
+Defaults to null, if a label style name
 has not been set for this style.</p>
 </div>
 <div class="declaration">
