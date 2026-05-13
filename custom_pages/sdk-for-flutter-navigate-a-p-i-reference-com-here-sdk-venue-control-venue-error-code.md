@@ -1,0 +1,427 @@
+---
+title: "VenueErrorCode"
+slug: "sdk-for-flutter-navigate-a-p-i-reference-com-here-sdk-venue-control-venue-error-code"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- index.html -->
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
+    <title>VenueErrorCode</title>
+    <link href="../../../images/logo-icon.svg" rel="icon" type="image/svg">
+    <script>var pathToRoot = "../../../";</script>
+    <script>document.documentElement.classList.replace("no-js","js");</script>
+    <script>const storage = localStorage.getItem("dokka-dark-mode")
+    if (storage == null) {
+        const osDarkSchemePreferred = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
+        if (osDarkSchemePreferred === true) {
+            document.getElementsByTagName("html")[0].classList.add("theme-dark")
+        }
+    } else {
+        const savedDarkMode = JSON.parse(storage)
+        if(savedDarkMode === true) {
+            document.getElementsByTagName("html")[0].classList.add("theme-dark")
+        }
+    }
+    </script>
+<script type="text/javascript" src="https://unpkg.com/kotlin-playground@1/dist/playground.min.js" async="async"></script>
+<script type="text/javascript" src="../../../scripts/sourceset_dependencies.js" async="async"></script>
+<link href="../../../styles/style.css" rel="Stylesheet">
+<link href="../../../styles/main.css" rel="Stylesheet">
+<link href="../../../styles/prism.css" rel="Stylesheet">
+<link href="../../../styles/logo-styles.css" rel="Stylesheet">
+<link href="../../../styles/font-jb-sans-auto.css" rel="Stylesheet">
+<link href="../../../ui-kit/ui-kit.min.css" rel="Stylesheet">
+<script type="text/javascript" src="../../../scripts/clipboard.js" async="async"></script>
+<script type="text/javascript" src="../../../scripts/navigation-loader.js" async="async"></script>
+<script type="text/javascript" src="../../../scripts/platform-content-handler.js" async="async"></script>
+<script type="text/javascript" src="../../../scripts/main.js" defer="defer"></script>
+<script type="text/javascript" src="../../../scripts/prism.js" async="async"></script>
+<script type="text/javascript" src="../../../ui-kit/ui-kit.min.js" defer="defer"></script>
+<script type="text/javascript" src="../../../scripts/symbol-parameters-wrapper_deferred.js" defer="defer"></script>
+</head>
+<body>
+    <div class="root">
+    <nav class="navigation theme-dark" id="navigation-wrapper">
+            <a class="library-name--link" href="../../../index.html">
+                    API Reference
+            </a>
+        <button class="navigation-controls--btn navigation-controls--btn_toc ui-kit_mobile-only" id="toc-toggle"
+                type="button">Toggle table of contents
+        </button>
+        <div class="navigation-controls--break ui-kit_mobile-only"></div>
+        <div class="library-version" id="library-version">
+        </div>
+        <div class="navigation-controls">
+        <div class="filter-section filter-section_loading" id="filter-section">
+                <button class="platform-tag platform-selector jvm-like" data-active=""
+                        data-filter=":modules:dokkaHtml/release">androidJvm</button>
+            <div class="dropdown filter-section--dropdown" data-role="dropdown" id="filter-section-dropdown">
+                <button class="button button_dropdown filter-section--dropdown-toggle" role="combobox"
+                        data-role="dropdown-toggle"
+                        aria-controls="platform-tags-listbox"
+                        aria-haspopup="listbox"
+                        aria-expanded="false"
+                        aria-label="Toggle source sets"
+                ></button>
+                <ul role="listbox" id="platform-tags-listbox" class="dropdown--list" data-role="dropdown-listbox">
+                    <div class="dropdown--header"><span>Platform filter</span>
+                        <button class="button" data-role="dropdown-toggle" aria-label="Close platform filter">
+                            <i class="ui-kit-icon ui-kit-icon_cross"></i>
+                        </button>
+                    </div>
+                        <li role="option" class="dropdown--option platform-selector-option jvm-like" tabindex="0">
+                            <label class="checkbox">
+                                <input type="checkbox" class="checkbox--input" id=":modules:dokkaHtml/release"
+                                       data-filter=":modules:dokkaHtml/release"/>
+                                <span class="checkbox--icon"></span>
+                                androidJvm
+                            </label>
+                        </li>
+                </ul>
+                <div class="dropdown--overlay"></div>
+            </div>
+        </div>
+            <button class="navigation-controls--btn navigation-controls--btn_theme" id="theme-toggle-button"
+                    type="button">Switch theme
+            </button>
+            <div class="navigation-controls--btn navigation-controls--btn_search" id="searchBar" role="button">Search in
+                API
+            </div>
+        </div>
+    </nav>
+        <div id="container">
+            <div class="sidebar" id="leftColumn">
+                <div class="dropdown theme-dark_mobile" data-role="dropdown" id="toc-dropdown">
+                    <ul role="listbox" id="toc-listbox" class="dropdown--list dropdown--list_toc-list"
+                        data-role="dropdown-listbox">
+                        <div class="dropdown--header">
+                            <span>
+                                    API Reference
+                            </span>
+                            <button class="button" data-role="dropdown-toggle" aria-label="Close table of contents">
+                                <i class="ui-kit-icon ui-kit-icon_cross"></i>
+                            </button>
+                        </div>
+                        <div class="sidebar--inner" id="sideMenu"></div>
+                    </ul>
+                    <div class="dropdown--overlay"></div>
+                </div>
+            </div>
+            <div id="main">
+<div class="main-content" data-page-type="classlike" id="content" pageIds="API Reference::com.here.sdk.venue.control/VenueErrorCode///PointingToDeclaration//1617540583">
+  <div class="breadcrumbs"><a href="../../../index.html">API Reference</a><span class="delimiter">/</span><a href="../index.html">com.here.sdk.venue.control</a><span class="delimiter">/</span><span class="current">VenueErrorCode</span></div>
+  <div class="cover ">
+    <h1 class="cover"><span>Venue</span><wbr></wbr><span>Error</span><wbr></wbr><span><span>Code</span></span></h1>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><span class="token keyword">enum </span><a href="index.html">VenueErrorCode</a> : <a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-enum/index.html">Enum</a><span class="token operator">&lt;</span><a href="index.html">VenueErrorCode</a><span class="token operator">&gt; </span></div><p class="paragraph">Specifies possible errors that may occur during loading of indoor maps</p></div></div>
+  </div>
+  <div class="tabbedcontent">
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button><button class="section-tab" data-togglable="ENTRY">Entries</button></div>
+    <div class="tabs-section-body">
+      <div data-togglable="ENTRY">
+        <h2 class="">Entries</h2>
+        <div class="table"><a data-name="878123574%2FClasslikes%2F1617540583" anchor-label="NO_NETWORK" id="878123574%2FClasslikes%2F1617540583" data-filterable-set=":modules:dokkaHtml/release"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-n-o_-n-e-t-w-o-r-k/index.html">NO_NETWORK</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="878123574%2FClasslikes%2F1617540583"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block"><a href="-n-o_-n-e-t-w-o-r-k/index.html">NO_NETWORK</a></div></div><div class="brief "><p class="paragraph">No network</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1220640913%2FClasslikes%2F1617540583" anchor-label="NO_META_DATA_FOUND" id="-1220640913%2FClasslikes%2F1617540583" data-filterable-set=":modules:dokkaHtml/release"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-n-o_-m-e-t-a_-d-a-t-a_-f-o-u-n-d/index.html">NO_META_DATA_FOUND</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1220640913%2FClasslikes%2F1617540583"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block"><a href="-n-o_-m-e-t-a_-d-a-t-a_-f-o-u-n-d/index.html">NO_META_DATA_FOUND</a></div></div><div class="brief "><p class="paragraph">Meta data missing error.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="223408141%2FClasslikes%2F1617540583" anchor-label="HRN_MISSING" id="223408141%2FClasslikes%2F1617540583" data-filterable-set=":modules:dokkaHtml/release"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-h-r-n_-m-i-s-s-i-n-g/index.html">HRN_MISSING</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="223408141%2FClasslikes%2F1617540583"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block"><a href="-h-r-n_-m-i-s-s-i-n-g/index.html">HRN_MISSING</a></div></div><div class="brief "><p class="paragraph">HRN not provided</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="791267727%2FClasslikes%2F1617540583" anchor-label="HRN_MISMATCH" id="791267727%2FClasslikes%2F1617540583" data-filterable-set=":modules:dokkaHtml/release"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-h-r-n_-m-i-s-m-a-t-c-h/index.html">HRN_MISMATCH</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="791267727%2FClasslikes%2F1617540583"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block"><a href="-h-r-n_-m-i-s-m-a-t-c-h/index.html">HRN_MISMATCH</a></div></div><div class="brief "><p class="paragraph">HRN missmatch.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1321439108%2FClasslikes%2F1617540583" anchor-label="NO_DEFAULT_COLLECTION" id="-1321439108%2FClasslikes%2F1617540583" data-filterable-set=":modules:dokkaHtml/release"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-n-o_-d-e-f-a-u-l-t_-c-o-l-l-e-c-t-i-o-n/index.html">NO_DEFAULT_COLLECTION</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1321439108%2FClasslikes%2F1617540583"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block"><a href="-n-o_-d-e-f-a-u-l-t_-c-o-l-l-e-c-t-i-o-n/index.html">NO_DEFAULT_COLLECTION</a></div></div><div class="brief "><p class="paragraph">Default collection missing.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1642046661%2FClasslikes%2F1617540583" anchor-label="MAP_ID_NOT_FOUND" id="-1642046661%2FClasslikes%2F1617540583" data-filterable-set=":modules:dokkaHtml/release"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-m-a-p_-i-d_-n-o-t_-f-o-u-n-d/index.html">MAP_ID_NOT_FOUND</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1642046661%2FClasslikes%2F1617540583"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block"><a href="-m-a-p_-i-d_-n-o-t_-f-o-u-n-d/index.html">MAP_ID_NOT_FOUND</a></div></div><div class="brief "><p class="paragraph">Map ID not found.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-2104141319%2FClasslikes%2F1617540583" anchor-label="MAP_DATA_INCORRECT" id="-2104141319%2FClasslikes%2F1617540583" data-filterable-set=":modules:dokkaHtml/release"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-m-a-p_-d-a-t-a_-i-n-c-o-r-r-e-c-t/index.html">MAP_DATA_INCORRECT</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-2104141319%2FClasslikes%2F1617540583"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block"><a href="-m-a-p_-d-a-t-a_-i-n-c-o-r-r-e-c-t/index.html">MAP_DATA_INCORRECT</a></div></div><div class="brief "><p class="paragraph">Map data incorrect</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-344905443%2FClasslikes%2F1617540583" anchor-label="NO_MAP_IN_COLLECTION" id="-344905443%2FClasslikes%2F1617540583" data-filterable-set=":modules:dokkaHtml/release"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-n-o_-m-a-p_-i-n_-c-o-l-l-e-c-t-i-o-n/index.html">NO_MAP_IN_COLLECTION</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-344905443%2FClasslikes%2F1617540583"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block"><a href="-n-o_-m-a-p_-i-n_-c-o-l-l-e-c-t-i-o-n/index.html">NO_MAP_IN_COLLECTION</a></div></div><div class="brief "><p class="paragraph">No map available in collection</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1513493015%2FClasslikes%2F1617540583" anchor-label="BAD_REQUEST" id="1513493015%2FClasslikes%2F1617540583" data-filterable-set=":modules:dokkaHtml/release"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-b-a-d_-r-e-q-u-e-s-t/index.html">BAD_REQUEST</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1513493015%2FClasslikes%2F1617540583"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block"><a href="-b-a-d_-r-e-q-u-e-s-t/index.html">BAD_REQUEST</a></div></div><div class="brief "><p class="paragraph">Bad request.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1402335987%2FClasslikes%2F1617540583" anchor-label="TOKEN_INVALID" id="1402335987%2FClasslikes%2F1617540583" data-filterable-set=":modules:dokkaHtml/release"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-t-o-k-e-n_-i-n-v-a-l-i-d/index.html">TOKEN_INVALID</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1402335987%2FClasslikes%2F1617540583"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block"><a href="-t-o-k-e-n_-i-n-v-a-l-i-d/index.html">TOKEN_INVALID</a></div></div><div class="brief "><p class="paragraph">Invalid authentication token</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="1827987608%2FClasslikes%2F1617540583" anchor-label="NOT_FOUND" id="1827987608%2FClasslikes%2F1617540583" data-filterable-set=":modules:dokkaHtml/release"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-n-o-t_-f-o-u-n-d/index.html">NOT_FOUND</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1827987608%2FClasslikes%2F1617540583"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block"><a href="-n-o-t_-f-o-u-n-d/index.html">NOT_FOUND</a></div></div><div class="brief "><p class="paragraph">Requested resource not found.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-154856720%2FClasslikes%2F1617540583" anchor-label="INTERNAL_SERVER_ERROR" id="-154856720%2FClasslikes%2F1617540583" data-filterable-set=":modules:dokkaHtml/release"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-i-n-t-e-r-n-a-l_-s-e-r-v-e-r_-e-r-r-o-r/index.html">INTERNAL_SERVER_ERROR</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-154856720%2FClasslikes%2F1617540583"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block"><a href="-i-n-t-e-r-n-a-l_-s-e-r-v-e-r_-e-r-r-o-r/index.html">INTERNAL_SERVER_ERROR</a></div></div><div class="brief "><p class="paragraph">Internal Server error</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-930147896%2FClasslikes%2F1617540583" anchor-label="SERVICE_UNAVAILABLE" id="-930147896%2FClasslikes%2F1617540583" data-filterable-set=":modules:dokkaHtml/release"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-s-e-r-v-i-c-e_-u-n-a-v-a-i-l-a-b-l-e/index.html">SERVICE_UNAVAILABLE</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-930147896%2FClasslikes%2F1617540583"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block"><a href="-s-e-r-v-i-c-e_-u-n-a-v-a-i-l-a-b-l-e/index.html">SERVICE_UNAVAILABLE</a></div></div><div class="brief "><p class="paragraph">Service unavailable</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="361706689%2FClasslikes%2F1617540583" anchor-label="PAYLOAD_TOO_LARGE" id="361706689%2FClasslikes%2F1617540583" data-filterable-set=":modules:dokkaHtml/release"></a>
+          <div class="table-row" data-togglable="ENTRY" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-p-a-y-l-o-a-d_-t-o-o_-l-a-r-g-e/index.html">PAYLOAD_TOO_LARGE</a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="361706689%2FClasslikes%2F1617540583"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block"><a href="-p-a-y-l-o-a-d_-t-o-o_-l-a-r-g-e/index.html">PAYLOAD_TOO_LARGE</a></div></div><div class="brief "><p class="paragraph">Payload too large.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="PROPERTY">
+        <h2 class="">Properties</h2>
+        <div class="table"><a data-name="-967698368%2FProperties%2F1617540583" anchor-label="entries" id="-967698368%2FProperties%2F1617540583" data-filterable-set=":modules:dokkaHtml/release"></a>
+          <div class="table-row" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="entries.html"><span><span>entries</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-967698368%2FProperties%2F1617540583"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><span class="token keyword">val </span><a href="entries.html">entries</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.enums/-enum-entries/index.html">EnumEntries</a><span class="token operator">&lt;</span><a href="index.html">VenueErrorCode</a><span class="token operator">&gt;</span></div><div class="brief "><p class="paragraph">Returns a representation of an immutable list of all enum entries, in the order they're declared.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="218645311%2FProperties%2F1617540583" anchor-label="value" id="218645311%2FProperties%2F1617540583" data-filterable-set=":modules:dokkaHtml/release"></a>
+          <div class="table-row" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="value.html"><span><span>value</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="218645311%2FProperties%2F1617540583"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block"><div class="block"><span class="token annotation builtin">@</span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.jvm/-jvm-field/index.html"><span class="token annotation builtin">JvmField</span></a></div></div><span class="token keyword">val </span><a href="value.html">value</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="FUNCTION">
+        <h2 class="">Functions</h2>
+        <div class="table"><a data-name="-820826788%2FFunctions%2F1617540583" anchor-label="valueOf" id="-820826788%2FFunctions%2F1617540583" data-filterable-set=":modules:dokkaHtml/release"></a>
+          <div class="table-row" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="value-of.html"><span>value</span><wbr></wbr><span><span>Of</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-820826788%2FFunctions%2F1617540583"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><span class="token keyword">fun </span><a href="value-of.html"><span class="token function">valueOf</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">value<span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="index.html">VenueErrorCode</a></div><div class="brief "><p class="paragraph">Returns the enum constant of this type with the specified name. The string must match exactly an identifier used to declare an enum constant in this type. (Extraneous whitespace characters are not permitted.)</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-245675160%2FFunctions%2F1617540583" anchor-label="values" id="-245675160%2FFunctions%2F1617540583" data-filterable-set=":modules:dokkaHtml/release"></a>
+          <div class="table-row" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="values.html"><span><span>values</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-245675160%2FFunctions%2F1617540583"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><span class="token keyword">fun </span><a href="values.html"><span class="token function">values</span></a><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token operator">: </span><a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-array/index.html">Array</a><span class="token operator">&lt;</span><a href="index.html">VenueErrorCode</a><span class="token operator">&gt;</span></div><div class="brief "><p class="paragraph">Returns an array containing the constants of this enum type, in the order they're declared.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    <div class="footer">
+        <a href="#content" id="go-to-top-link" class="footer--button footer--button_go-to-top"></a>
+        <span>© 2026 Copyright</span>
+        <span class="pull-right">
+            <span>Generated by </span>
+            <a class="footer--link footer--link_external" href="https://github.com/Kotlin/dokka">
+                <span>dokka</span>
+            </a>
+        </span>
+    </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+</div>
+`
+}</HTMLBlock>
