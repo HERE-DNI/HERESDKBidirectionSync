@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "estimated"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-fare-price-estimated"
 ---
 

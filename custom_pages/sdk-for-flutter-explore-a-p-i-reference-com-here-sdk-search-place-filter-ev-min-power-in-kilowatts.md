@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "min Power In Kilowatts"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-filter-ev-min-power-in-kilowatts"
 ---
 

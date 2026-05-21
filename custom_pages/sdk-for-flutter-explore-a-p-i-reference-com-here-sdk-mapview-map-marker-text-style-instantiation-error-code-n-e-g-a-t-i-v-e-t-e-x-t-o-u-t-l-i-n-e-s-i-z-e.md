@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "NEGATIVE- TEXT- OUTLINE- SIZE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-marker-text-style-instantiation-error-code-n-e-g-a-t-i-v-e-t-e-x-t-o-u-t-l-i-n-e-s-i-z-e"
 ---
 

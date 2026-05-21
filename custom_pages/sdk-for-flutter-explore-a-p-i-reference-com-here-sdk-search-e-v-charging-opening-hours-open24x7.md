@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "open24x7"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-opening-hours-open24x7"
 ---
 

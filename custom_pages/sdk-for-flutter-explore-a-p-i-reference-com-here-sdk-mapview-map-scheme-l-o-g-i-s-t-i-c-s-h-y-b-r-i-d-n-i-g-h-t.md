@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "LOGISTICS- HYBRID- NIGHT"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-scheme-l-o-g-i-s-t-i-c-s-h-y-b-r-i-d-n-i-g-h-t"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "get Primary Categories"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-details-get-primary-categories"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "LEISURE- AND- OUTDOOR"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-category-companion-l-e-i-s-u-r-e-a-n-d-o-u-t-d-o-o-r"
 ---
 

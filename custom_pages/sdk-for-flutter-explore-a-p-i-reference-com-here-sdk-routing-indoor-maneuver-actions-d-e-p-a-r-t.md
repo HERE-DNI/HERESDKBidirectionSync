@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "DEPART"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-indoor-maneuver-actions-d-e-p-a-r-t"
 ---
 

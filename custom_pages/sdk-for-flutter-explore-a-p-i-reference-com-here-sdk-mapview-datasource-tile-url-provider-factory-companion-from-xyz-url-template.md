@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "from Xyz Url Template"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-datasource-tile-url-provider-factory-companion-from-xyz-url-template"
 ---
 

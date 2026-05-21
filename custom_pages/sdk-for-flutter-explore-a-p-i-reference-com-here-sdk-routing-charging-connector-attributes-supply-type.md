@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "supply Type"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-charging-connector-attributes-supply-type"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "DISABLED- VEHICLE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-traffic-traffic-incident-type-d-i-s-a-b-l-e-d-v-e-h-i-c-l-e"
 ---
 

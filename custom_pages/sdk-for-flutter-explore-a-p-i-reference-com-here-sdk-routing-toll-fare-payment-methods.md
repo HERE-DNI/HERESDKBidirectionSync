@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "payment Methods"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-toll-fare-payment-methods"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "CHIP- CARD"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-ev-e-v-s-e-payment-support-c-h-i-p-c-a-r-d"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "HEAVY- CLASS"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-truck-class-h-e-a-v-y-c-l-a-s-s"
 ---
 

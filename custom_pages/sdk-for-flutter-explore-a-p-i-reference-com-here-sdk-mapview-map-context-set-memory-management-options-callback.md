@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Set Memory Management Options Callback"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-context-set-memory-management-options-callback"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "type Filter"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-traffic-traffic-incidents-query-options-type-filter"
 ---
 

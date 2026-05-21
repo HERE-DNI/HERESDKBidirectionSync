@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "INOPERATIVE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-ev-e-v-s-e-state-i-n-o-p-e-r-a-t-i-v-e"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Power Type"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-power-type"
 ---
 

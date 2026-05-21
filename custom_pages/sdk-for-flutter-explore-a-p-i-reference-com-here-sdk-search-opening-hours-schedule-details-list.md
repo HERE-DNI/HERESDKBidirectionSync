@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "schedule Details List"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-opening-hours-schedule-details-list"
 ---
 

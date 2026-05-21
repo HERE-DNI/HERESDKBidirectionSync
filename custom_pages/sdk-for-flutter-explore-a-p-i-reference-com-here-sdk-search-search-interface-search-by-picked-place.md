@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "search By Picked Place"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-search-interface-search-by-picked-place"
 ---
 

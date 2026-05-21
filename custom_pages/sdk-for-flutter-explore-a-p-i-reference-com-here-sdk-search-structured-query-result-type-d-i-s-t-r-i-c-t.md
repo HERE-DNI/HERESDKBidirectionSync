@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "DISTRICT"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-structured-query-result-type-d-i-s-t-r-i-c-t"
 ---
 

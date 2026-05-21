@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Pinch Rotate Listener"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-gestures-pinch-rotate-listener"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Traffic Refresh Period Exception"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-content-settings-traffic-refresh-period-exception-traffic-refresh-period-exception"
 ---
 

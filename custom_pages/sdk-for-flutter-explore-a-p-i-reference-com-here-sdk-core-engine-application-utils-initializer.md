@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Application Utils Initializer"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-engine-application-utils-initializer"
 ---
 

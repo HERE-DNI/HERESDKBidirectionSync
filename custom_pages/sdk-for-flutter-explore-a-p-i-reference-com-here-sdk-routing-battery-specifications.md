@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Battery Specifications"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-battery-specifications"
 ---
 

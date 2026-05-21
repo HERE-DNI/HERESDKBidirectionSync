@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EHORIZON"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-engine-layer-configuration-feature-e-h-o-r-i-z-o-n"
 ---
 

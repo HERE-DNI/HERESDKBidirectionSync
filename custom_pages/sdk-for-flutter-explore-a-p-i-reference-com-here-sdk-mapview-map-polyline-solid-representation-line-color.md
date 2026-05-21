@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "line Color"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-polyline-solid-representation-line-color"
 ---
 

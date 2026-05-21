@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Memory Management Result"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-context-memory-management-result-memory-management-result"
 ---
 

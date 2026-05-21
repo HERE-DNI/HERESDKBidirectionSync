@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "quad Axle Group In Kilograms"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-weight-per-axle-group-quad-axle-group-in-kilograms"
 ---
 

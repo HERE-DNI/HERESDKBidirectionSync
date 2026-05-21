@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "APPLIED"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-context-memory-management-result-code-a-p-p-l-i-e-d"
 ---
 

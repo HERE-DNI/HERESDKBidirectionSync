@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SIMPLIFICATION- IN- METERS- 14- ZOOM- LEVEL"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-polyline-simplifier-options-companion-s-i-m-p-l-i-f-i-c-a-t-i-o-n-i-n-m-e-t-e-r-s-14-z-o-o-m-l-e-v-e-l"
 ---
 

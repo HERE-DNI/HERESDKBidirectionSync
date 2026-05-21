@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "equals"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-animation-anchor2-d-keyframe-equals"
 ---
 

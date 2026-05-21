@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SMOOTH"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-animation-keyframe-interpolation-mode-s-m-o-o-t-h"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Map Marker3DModel"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-marker3-d-model-map-marker3-d-model"
 ---
 

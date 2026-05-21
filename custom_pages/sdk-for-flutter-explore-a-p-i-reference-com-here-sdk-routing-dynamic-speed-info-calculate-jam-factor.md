@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "calculate Jam Factor"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-dynamic-speed-info-calculate-jam-factor"
 ---
 

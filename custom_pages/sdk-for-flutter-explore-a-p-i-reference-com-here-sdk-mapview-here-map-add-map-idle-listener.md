@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "add Map Idle Listener"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-here-map-add-map-idle-listener"
 ---
 

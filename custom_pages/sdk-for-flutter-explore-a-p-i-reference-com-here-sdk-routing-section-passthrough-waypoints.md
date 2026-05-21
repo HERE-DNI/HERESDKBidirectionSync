@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "passthrough Waypoints"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-section-passthrough-waypoints"
 ---
 

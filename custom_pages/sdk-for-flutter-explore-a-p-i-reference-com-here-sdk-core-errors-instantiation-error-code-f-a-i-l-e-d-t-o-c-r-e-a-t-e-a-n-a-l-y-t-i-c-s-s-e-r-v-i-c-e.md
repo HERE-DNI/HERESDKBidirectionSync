@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "FAILED- TO- CREATE- ANALYTICS- SERVICE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-errors-instantiation-error-code-f-a-i-l-e-d-t-o-c-r-e-a-t-e-a-n-a-l-y-t-i-c-s-s-e-r-v-i-c-e"
 ---
 

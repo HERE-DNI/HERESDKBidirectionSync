@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SHOPPING- HARDWARE- HOUSE- GARDEN"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-category-companion-s-h-o-p-p-i-n-g-h-a-r-d-w-a-r-e-h-o-u-s-e-g-a-r-d-e-n"
 ---
 

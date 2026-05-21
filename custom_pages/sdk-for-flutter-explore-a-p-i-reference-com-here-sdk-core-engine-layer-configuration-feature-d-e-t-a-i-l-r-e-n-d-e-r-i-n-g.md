@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "DETAIL- RENDERING"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-engine-layer-configuration-feature-d-e-t-a-i-l-r-e-n-d-e-r-i-n-g"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Size2D"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-size2-d-size2-d"
 ---
 

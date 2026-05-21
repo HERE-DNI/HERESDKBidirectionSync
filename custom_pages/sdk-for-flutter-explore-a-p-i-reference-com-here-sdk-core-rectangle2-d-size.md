@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "size"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-rectangle2-d-size"
 ---
 

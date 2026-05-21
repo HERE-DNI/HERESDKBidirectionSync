@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "time Zone Offset Seconds"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-time-rule-time-zone-offset-seconds"
 ---
 

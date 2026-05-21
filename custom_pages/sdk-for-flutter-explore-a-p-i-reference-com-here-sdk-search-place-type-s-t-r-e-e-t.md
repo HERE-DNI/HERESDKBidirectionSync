@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "STREET"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-type-s-t-r-e-e-t"
 ---
 

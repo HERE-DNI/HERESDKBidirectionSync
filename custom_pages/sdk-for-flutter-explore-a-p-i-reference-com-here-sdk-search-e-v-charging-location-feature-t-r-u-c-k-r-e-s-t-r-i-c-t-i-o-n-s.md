@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TRUCK- RESTRICTIONS"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-location-feature-t-r-u-c-k-r-e-s-t-r-i-c-t-i-o-n-s"
 ---
 

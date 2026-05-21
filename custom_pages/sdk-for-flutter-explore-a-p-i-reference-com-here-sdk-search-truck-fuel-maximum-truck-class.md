@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "maximum Truck Class"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-truck-fuel-maximum-truck-class"
 ---
 

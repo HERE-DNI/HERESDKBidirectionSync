@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "LOCATION- INFO"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-location-feature-l-o-c-a-t-i-o-n-i-n-f-o"
 ---
 

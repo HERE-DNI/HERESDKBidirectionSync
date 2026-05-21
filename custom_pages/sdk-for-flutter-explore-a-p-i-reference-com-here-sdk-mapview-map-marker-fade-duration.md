@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "fade Duration"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-marker-fade-duration"
 ---
 

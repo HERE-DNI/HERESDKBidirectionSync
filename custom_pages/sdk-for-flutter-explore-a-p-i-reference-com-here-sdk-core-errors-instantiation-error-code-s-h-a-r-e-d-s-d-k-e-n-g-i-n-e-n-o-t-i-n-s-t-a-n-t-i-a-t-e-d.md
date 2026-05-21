@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SHARED- SDK- ENGINE- NOT- INSTANTIATED"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-errors-instantiation-error-code-s-h-a-r-e-d-s-d-k-e-n-g-i-n-e-n-o-t-i-n-s-t-a-n-t-i-a-t-e-d"
 ---
 

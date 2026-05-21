@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "from Default Parameter Configuration"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-pedestrian-options-companion-from-default-parameter-configuration"
 ---
 

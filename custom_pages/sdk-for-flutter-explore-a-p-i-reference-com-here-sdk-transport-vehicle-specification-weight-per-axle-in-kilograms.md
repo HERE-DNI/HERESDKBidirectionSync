@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "weight Per Axle In Kilograms"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-vehicle-specification-weight-per-axle-in-kilograms"
 ---
 

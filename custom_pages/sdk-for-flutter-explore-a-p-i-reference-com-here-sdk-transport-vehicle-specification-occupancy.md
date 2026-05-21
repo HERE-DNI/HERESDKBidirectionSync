@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "occupancy"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-vehicle-specification-occupancy"
 ---
 

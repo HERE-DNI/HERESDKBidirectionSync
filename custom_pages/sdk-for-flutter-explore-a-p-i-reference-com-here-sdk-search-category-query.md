@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Category Query"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-category-query"
 ---
 

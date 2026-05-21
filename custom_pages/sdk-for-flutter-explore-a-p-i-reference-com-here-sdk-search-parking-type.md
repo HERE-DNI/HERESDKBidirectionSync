@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Parking Type"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-parking-type"
 ---
 

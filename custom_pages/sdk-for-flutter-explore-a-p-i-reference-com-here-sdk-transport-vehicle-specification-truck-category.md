@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "truck Category"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-vehicle-specification-truck-category"
 ---
 

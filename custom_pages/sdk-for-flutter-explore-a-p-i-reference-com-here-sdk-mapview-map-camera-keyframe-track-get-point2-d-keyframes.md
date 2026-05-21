@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "get Point2DKeyframes"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-camera-keyframe-track-get-point2-d-keyframes"
 ---
 

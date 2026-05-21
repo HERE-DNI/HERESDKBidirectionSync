@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "RESTAURANT"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-facility-type-r-e-s-t-a-u-r-a-n-t"
 ---
 

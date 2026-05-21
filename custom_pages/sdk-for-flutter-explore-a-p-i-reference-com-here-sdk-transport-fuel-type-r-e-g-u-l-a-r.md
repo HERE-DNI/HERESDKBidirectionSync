@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "REGULAR"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-fuel-type-r-e-g-u-l-a-r"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Map Measure"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-measure"
 ---
 

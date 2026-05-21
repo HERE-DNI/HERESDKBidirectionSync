@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PRIVATE- BUS"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-transport-mode-p-r-i-v-a-t-e-b-u-s"
 ---
 

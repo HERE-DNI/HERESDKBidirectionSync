@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "INDOOR"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-route-place-type-i-n-d-o-o-r"
 ---
 

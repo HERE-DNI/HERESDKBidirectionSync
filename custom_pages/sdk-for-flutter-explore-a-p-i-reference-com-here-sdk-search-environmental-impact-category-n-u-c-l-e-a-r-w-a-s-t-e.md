@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "NUCLEAR- WASTE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-environmental-impact-category-n-u-c-l-e-a-r-w-a-s-t-e"
 ---
 

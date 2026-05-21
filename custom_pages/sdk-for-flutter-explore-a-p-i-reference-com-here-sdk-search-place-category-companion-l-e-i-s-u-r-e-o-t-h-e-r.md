@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "LEISURE- OTHER"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-category-companion-l-e-i-s-u-r-e-o-t-h-e-r"
 ---
 

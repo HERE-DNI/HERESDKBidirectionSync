@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "GBT- DC"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-ev-e-v-charging-connector-type-companion-g-b-t-d-c"
 ---
 

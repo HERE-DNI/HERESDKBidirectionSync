@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Keyframe Interpolation Mode"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-animation-keyframe-interpolation-mode"
 ---
 

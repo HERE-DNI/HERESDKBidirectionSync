@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "get Value Type"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-datasource-data-attributes-base-get-value-type"
 ---
 

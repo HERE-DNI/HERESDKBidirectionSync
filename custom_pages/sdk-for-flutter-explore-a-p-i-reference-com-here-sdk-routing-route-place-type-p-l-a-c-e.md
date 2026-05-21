@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PLACE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-route-place-type-p-l-a-c-e"
 ---
 

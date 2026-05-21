@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Truck Fuel"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-truck-fuel-truck-fuel"
 ---
 

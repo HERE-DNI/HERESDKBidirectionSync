@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "north East Corner"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-geo-box-north-east-corner"
 ---
 

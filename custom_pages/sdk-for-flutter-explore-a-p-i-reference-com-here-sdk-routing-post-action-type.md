@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Post Action Type"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-post-action-type"
 ---
 

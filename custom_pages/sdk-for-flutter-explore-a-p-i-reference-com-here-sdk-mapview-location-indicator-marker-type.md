@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Marker Type"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-location-indicator-marker-type"
 ---
 

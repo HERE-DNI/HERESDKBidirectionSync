@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "is Caravan Restricted"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-traffic-traffic-incident-vehicle-restriction-is-caravan-restricted"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "COUNTRY"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-structured-query-result-type-c-o-u-n-t-r-y"
 ---
 

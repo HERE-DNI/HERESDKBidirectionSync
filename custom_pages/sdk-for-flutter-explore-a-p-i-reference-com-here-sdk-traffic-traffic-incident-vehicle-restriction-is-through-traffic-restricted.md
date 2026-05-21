@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "is Through Traffic Restricted"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-traffic-traffic-incident-vehicle-restriction-is-through-traffic-restricted"
 ---
 

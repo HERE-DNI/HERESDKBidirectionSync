@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "get Shadow Quality"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-view-get-shadow-quality"
 ---
 

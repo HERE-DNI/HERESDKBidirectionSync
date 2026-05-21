@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EDUCATION"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-facility-type-e-d-u-c-a-t-i-o-n"
 ---
 

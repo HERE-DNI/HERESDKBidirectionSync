@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "OUT- QUAD"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-animation-easing-function-o-u-t-q-u-a-d"
 ---
 

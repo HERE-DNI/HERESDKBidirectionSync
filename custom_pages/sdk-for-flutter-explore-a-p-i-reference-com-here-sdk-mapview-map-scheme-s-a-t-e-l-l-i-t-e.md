@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SATELLITE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-scheme-s-a-t-e-l-l-i-t-e"
 ---
 

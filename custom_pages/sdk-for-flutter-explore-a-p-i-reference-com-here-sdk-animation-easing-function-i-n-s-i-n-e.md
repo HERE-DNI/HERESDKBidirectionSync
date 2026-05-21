@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "IN- SINE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-animation-easing-function-i-n-s-i-n-e"
 ---
 

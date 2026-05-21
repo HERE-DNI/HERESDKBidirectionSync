@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "exclude Categories"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-category-query-exclude-categories"
 ---
 

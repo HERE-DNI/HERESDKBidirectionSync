@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "empty Weight In Kilograms"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-vehicle-specification-empty-weight-in-kilograms"
 ---
 

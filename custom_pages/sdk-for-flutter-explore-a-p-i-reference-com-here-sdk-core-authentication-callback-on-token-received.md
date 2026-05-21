@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "on Token Received"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-authentication-callback-on-token-received"
 ---
 

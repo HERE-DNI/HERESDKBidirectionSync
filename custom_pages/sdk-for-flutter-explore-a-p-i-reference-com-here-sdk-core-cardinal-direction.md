@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Cardinal Direction"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-cardinal-direction"
 ---
 

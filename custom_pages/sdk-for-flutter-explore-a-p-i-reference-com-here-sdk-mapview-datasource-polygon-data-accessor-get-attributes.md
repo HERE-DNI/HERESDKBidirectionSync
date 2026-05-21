@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "get Attributes"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-datasource-polygon-data-accessor-get-attributes"
 ---
 

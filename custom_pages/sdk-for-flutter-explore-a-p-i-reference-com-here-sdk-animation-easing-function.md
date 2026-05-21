@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Easing Function"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-animation-easing-function"
 ---
 

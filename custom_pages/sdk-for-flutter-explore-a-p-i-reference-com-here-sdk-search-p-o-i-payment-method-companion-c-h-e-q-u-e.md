@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "CHEQUE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-p-o-i-payment-method-companion-c-h-e-q-u-e"
 ---
 

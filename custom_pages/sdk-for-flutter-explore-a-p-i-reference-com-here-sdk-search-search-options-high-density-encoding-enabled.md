@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "high Density Encoding Enabled"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-search-options-high-density-encoding-enabled"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SQUARE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-line-cap-s-q-u-a-r-e"
 ---
 

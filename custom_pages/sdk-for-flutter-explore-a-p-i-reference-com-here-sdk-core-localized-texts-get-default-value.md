@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "get Default Value"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-localized-texts-get-default-value"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "access Points"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-location-details-access-points"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "max Charging Current In Amperes"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-battery-specifications-max-charging-current-in-amperes"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "LINEAR"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-animation-keyframe-interpolation-mode-l-i-n-e-a-r"
 ---
 

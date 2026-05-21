@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "current Weight Change In Kilograms"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-waypoint-current-weight-change-in-kilograms"
 ---
 

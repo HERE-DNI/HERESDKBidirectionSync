@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "STORE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-facility-type-s-t-o-r-e"
 ---
 

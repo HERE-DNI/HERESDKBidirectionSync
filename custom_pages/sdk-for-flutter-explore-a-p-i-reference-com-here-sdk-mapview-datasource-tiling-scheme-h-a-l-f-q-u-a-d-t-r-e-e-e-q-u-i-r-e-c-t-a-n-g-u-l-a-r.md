@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "HALF- QUAD- TREE- EQUIRECTANGULAR"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-datasource-tiling-scheme-h-a-l-f-q-u-a-d-t-r-e-e-e-q-u-i-r-e-c-t-a-n-g-u-l-a-r"
 ---
 

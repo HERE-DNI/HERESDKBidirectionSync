@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "NATURAL- AND- GEOGRAPHICAL- FOREST- HEALTH- OTHER- VEGETATION"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-category-companion-n-a-t-u-r-a-l-a-n-d-g-e-o-g-r-a-p-h-i-c-a-l-f-o-r-e-s-t-h-e-a-l-t-h-o-t-h-e-r-v-e-g-e-t-a-t-i-o-n"
 ---
 

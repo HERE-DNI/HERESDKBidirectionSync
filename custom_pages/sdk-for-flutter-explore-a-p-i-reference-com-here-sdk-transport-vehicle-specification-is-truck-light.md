@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "is Truck Light"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-vehicle-specification-is-truck-light"
 ---
 

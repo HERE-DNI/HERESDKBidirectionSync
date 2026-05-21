@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "width"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-size2-d-width"
 ---
 

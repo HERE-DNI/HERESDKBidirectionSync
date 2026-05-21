@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVCharging Tariff Price Component"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-price-component-e-v-charging-tariff-price-component"
 ---
 

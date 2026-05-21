@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "INVALID- JSON- STYLE- SYNTAX"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-json-style-factory-instantiation-error-code-i-n-v-a-l-i-d-j-s-o-n-s-t-y-l-e-s-y-n-t-a-x"
 ---
 

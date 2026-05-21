@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "stop Duration"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-route-stop-stop-duration"
 ---
 

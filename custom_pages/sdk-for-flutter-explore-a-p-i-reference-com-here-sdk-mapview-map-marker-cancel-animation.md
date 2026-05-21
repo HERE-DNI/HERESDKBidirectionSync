@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "cancel Animation"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-marker-cancel-animation"
 ---
 

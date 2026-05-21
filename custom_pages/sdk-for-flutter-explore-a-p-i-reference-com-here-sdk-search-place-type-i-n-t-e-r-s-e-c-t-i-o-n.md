@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "INTERSECTION"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-type-i-n-t-e-r-s-e-c-t-i-o-n"
 ---
 

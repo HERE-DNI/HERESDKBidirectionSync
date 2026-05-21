@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Icon Provider"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-icon-provider-icon-provider"
 ---
 

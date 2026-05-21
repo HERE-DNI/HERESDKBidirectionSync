@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SIGHTS- RELIGIOUS- PLACE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-category-companion-s-i-g-h-t-s-r-e-l-i-g-i-o-u-s-p-l-a-c-e"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SOCKS5"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-engine-proxy-settings-proxy-type-s-o-c-k-s5"
 ---
 

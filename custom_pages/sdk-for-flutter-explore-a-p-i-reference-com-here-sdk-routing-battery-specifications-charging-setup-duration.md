@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "charging Setup Duration"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-battery-specifications-charging-setup-duration"
 ---
 

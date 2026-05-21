@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "INTERMEDIATE- CLOSED- EDGE- OPEN"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-traffic-junctions-traversability-i-n-t-e-r-m-e-d-i-a-t-e-c-l-o-s-e-d-e-d-g-e-o-p-e-n"
 ---
 

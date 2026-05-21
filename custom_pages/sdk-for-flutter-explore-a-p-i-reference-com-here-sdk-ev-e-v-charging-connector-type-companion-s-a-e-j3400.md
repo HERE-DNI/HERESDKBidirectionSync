@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SAE- J3400"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-ev-e-v-charging-connector-type-companion-s-a-e-j3400"
 ---
 

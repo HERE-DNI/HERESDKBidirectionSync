@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "OPEN"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-walk-attributes-o-p-e-n"
 ---
 

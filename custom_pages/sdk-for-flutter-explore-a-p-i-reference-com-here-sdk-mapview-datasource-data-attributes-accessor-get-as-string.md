@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "get As String"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-datasource-data-attributes-accessor-get-as-string"
 ---
 

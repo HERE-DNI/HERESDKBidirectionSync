@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "min Course Distance In Meters"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-waypoint-min-course-distance-in-meters"
 ---
 

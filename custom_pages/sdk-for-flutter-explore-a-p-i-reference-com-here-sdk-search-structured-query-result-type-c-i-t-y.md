@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "CITY"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-structured-query-result-type-c-i-t-y"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "IG- LATN- NG"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-language-code-i-g-l-a-t-n-n-g"
 ---
 

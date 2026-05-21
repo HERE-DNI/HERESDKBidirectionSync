@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "IN- OUT- CUBIC"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-animation-easing-function-i-n-o-u-t-c-u-b-i-c"
 ---
 

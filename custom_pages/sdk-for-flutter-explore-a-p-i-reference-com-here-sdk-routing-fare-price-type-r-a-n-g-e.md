@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "RANGE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-fare-price-type-r-a-n-g-e"
 ---
 

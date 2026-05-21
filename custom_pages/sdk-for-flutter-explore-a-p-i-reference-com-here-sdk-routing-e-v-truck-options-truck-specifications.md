@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "truck Specifications"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-e-v-truck-options-truck-specifications"
 ---
 

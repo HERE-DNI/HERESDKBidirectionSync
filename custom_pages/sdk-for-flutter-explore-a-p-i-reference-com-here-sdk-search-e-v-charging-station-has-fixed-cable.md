@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "has Fixed Cable"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-station-has-fixed-cable"
 ---
 

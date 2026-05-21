@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "azimuth"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-scene-lights-direction-azimuth"
 ---
 

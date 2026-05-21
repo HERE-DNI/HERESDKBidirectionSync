@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "CASH"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-payment-method-c-a-s-h"
 ---
 

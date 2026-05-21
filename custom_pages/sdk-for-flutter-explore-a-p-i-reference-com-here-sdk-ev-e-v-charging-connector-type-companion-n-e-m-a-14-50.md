@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "NEMA- 14- 50"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-ev-e-v-charging-connector-type-companion-n-e-m-a-14-50"
 ---
 

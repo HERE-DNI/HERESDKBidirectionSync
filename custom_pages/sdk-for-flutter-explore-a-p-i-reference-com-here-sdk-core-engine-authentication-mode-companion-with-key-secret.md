@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "with Key Secret"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-engine-authentication-mode-companion-with-key-secret"
 ---
 

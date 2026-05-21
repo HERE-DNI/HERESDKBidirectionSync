@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Web Details"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-web-details"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Authentication Error"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-authentication-error"
 ---
 

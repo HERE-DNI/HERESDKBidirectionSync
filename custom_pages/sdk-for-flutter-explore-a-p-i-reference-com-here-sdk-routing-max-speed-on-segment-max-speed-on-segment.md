@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Max Speed On Segment"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-max-speed-on-segment-max-speed-on-segment"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "speed Accuracy In Meters Per Second"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-location-speed-accuracy-in-meters-per-second"
 ---
 

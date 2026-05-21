@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "pedestrian Speed In Meters Per Second"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-transit-route-options-pedestrian-speed-in-meters-per-second"
 ---
 

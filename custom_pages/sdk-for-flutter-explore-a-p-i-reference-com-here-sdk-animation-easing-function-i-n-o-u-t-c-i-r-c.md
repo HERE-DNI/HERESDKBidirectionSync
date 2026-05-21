@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "IN- OUT- CIRC"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-animation-easing-function-i-n-o-u-t-c-i-r-c"
 ---
 

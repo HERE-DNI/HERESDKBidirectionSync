@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "DOUBLE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-metadata-type-d-o-u-b-l-e"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Render Size"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-render-size-render-size"
 ---
 

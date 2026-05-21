@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "enable Default Action"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-gestures-gestures-enable-default-action"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "consumable Power In Kilowatts"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-charging-action-details-consumable-power-in-kilowatts"
 ---
 

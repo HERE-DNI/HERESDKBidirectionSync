@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "map Content Categories To Block"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-polyline-map-content-categories-to-block"
 ---
 

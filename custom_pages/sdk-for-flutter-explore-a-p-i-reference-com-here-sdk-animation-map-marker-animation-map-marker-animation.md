@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Map Marker Animation"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-animation-map-marker-animation-map-marker-animation"
 ---
 

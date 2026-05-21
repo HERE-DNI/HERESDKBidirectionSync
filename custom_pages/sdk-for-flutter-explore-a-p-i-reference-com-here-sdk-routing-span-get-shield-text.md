@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "get Shield Text"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-span-get-shield-text"
 ---
 

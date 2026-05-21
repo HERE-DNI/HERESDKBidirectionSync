@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "max Items"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-search-options-max-items"
 ---
 

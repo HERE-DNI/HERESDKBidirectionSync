@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "INVALID- TRUCK- CLASS"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-search-error-i-n-v-a-l-i-d-t-r-u-c-k-c-l-a-s-s"
 ---
 

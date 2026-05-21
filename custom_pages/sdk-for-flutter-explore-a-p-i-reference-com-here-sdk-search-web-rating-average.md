@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "average"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-web-rating-average"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "co2Class"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-toll-options-co2-class"
 ---
 

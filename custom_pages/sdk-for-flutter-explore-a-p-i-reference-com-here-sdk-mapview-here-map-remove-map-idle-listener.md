@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "remove Map Idle Listener"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-here-map-remove-map-idle-listener"
 ---
 

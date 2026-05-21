@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "max Payload Capacity In Kilograms"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-violated-restriction-details-max-payload-capacity-in-kilograms"
 ---
 

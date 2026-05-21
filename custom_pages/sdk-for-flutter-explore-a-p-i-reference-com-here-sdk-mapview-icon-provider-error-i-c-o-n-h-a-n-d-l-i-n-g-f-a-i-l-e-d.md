@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "ICON- HANDLING- FAILED"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-icon-provider-error-i-c-o-n-h-a-n-d-l-i-n-g-f-a-i-l-e-d"
 ---
 

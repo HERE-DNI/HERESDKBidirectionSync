@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVSEState"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-ev-e-v-s-e-state"
 ---
 

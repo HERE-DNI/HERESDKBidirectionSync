@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "get Text With Direction"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-localized-road-number-get-text-with-direction"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "area Center"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-address-query-area-center"
 ---
 

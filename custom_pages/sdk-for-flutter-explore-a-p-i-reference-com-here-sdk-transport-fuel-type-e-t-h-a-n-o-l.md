@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "ETHANOL"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-fuel-type-e-t-h-a-n-o-l"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Scale Handler"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-gestures-scale-handler"
 ---
 

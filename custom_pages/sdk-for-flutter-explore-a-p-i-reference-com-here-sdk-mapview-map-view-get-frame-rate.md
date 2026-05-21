@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "get Frame Rate"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-view-get-frame-rate"
 ---
 

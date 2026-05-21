@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "AUTH- BY- CAR- PLUG- AND- CHARGE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-ev-e-v-s-e-payment-support-a-u-t-h-b-y-c-a-r-p-l-u-g-a-n-d-c-h-a-r-g-e"
 ---
 

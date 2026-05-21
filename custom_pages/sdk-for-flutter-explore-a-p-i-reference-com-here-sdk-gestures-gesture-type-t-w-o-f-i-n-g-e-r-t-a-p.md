@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TWO- FINGER- TAP"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-gestures-gesture-type-t-w-o-f-i-n-g-e-r-t-a-p"
 ---
 

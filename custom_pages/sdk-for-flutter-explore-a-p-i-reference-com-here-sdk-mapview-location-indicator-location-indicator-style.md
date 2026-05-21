@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "location Indicator Style"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-location-indicator-location-indicator-style"
 ---
 

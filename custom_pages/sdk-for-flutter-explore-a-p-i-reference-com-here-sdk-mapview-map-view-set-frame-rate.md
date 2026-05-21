@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "set Frame Rate"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-view-set-frame-rate"
 ---
 

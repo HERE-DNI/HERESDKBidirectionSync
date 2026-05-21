@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SHOPPING- CLOTHING- AND- ACCESORIES"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-category-companion-s-h-o-p-p-i-n-g-c-l-o-t-h-i-n-g-a-n-d-a-c-c-e-s-o-r-i-e-s"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PIXELS"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-render-size-unit-p-i-x-e-l-s"
 ---
 

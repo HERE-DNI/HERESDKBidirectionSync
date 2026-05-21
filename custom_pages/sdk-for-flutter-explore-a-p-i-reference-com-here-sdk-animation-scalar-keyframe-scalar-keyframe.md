@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Scalar Keyframe"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-animation-scalar-keyframe-scalar-keyframe"
 ---
 

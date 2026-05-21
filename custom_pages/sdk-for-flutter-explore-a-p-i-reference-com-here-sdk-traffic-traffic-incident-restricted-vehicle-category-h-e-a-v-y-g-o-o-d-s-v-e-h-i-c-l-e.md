@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "HEAVY- GOODS- VEHICLE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-traffic-traffic-incident-restricted-vehicle-category-h-e-a-v-y-g-o-o-d-s-v-e-h-i-c-l-e"
 ---
 

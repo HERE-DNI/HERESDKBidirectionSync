@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "of Seconds"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-time-duration-companion-of-seconds"
 ---
 

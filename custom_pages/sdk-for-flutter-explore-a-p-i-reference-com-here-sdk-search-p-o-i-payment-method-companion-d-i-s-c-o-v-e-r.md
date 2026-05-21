@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "DISCOVER"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-p-o-i-payment-method-companion-d-i-s-c-o-v-e-r"
 ---
 

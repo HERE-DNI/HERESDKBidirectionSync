@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Geo Box"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-geo-box-geo-box"
 ---
 

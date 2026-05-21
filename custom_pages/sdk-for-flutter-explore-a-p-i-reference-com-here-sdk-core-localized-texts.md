@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Localized Texts"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-localized-texts"
 ---
 

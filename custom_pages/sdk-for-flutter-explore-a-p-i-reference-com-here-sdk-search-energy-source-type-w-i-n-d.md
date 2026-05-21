@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "WIND"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-energy-source-type-w-i-n-d"
 ---
 

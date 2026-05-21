@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "hazardous Goods Restricted"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-truck-restriction-hazardous-goods-restricted"
 ---
 

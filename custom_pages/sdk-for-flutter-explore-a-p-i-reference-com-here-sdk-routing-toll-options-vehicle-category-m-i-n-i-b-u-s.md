@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MINIBUS"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-toll-options-vehicle-category-m-i-n-i-b-u-s"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "on Fling"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-gestures-fling-handler-on-fling"
 ---
 

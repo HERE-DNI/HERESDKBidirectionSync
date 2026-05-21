@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MEDIUM- CLASS"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-truck-class-m-e-d-i-u-m-c-l-a-s-s"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PEDESTRIAN"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-section-transport-mode-p-e-d-e-s-t-r-i-a-n"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "error Description"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-translucent-map-layer-group-error-details-error-description"
 ---
 

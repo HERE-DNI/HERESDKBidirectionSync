@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "allow Highway"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-scooter-options-allow-highway"
 ---
 

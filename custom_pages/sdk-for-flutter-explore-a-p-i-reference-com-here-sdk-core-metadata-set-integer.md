@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "set Integer"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-metadata-set-integer"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "VIOLATED- CHARGING- STATION- OPENING- HOURS"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-section-notice-code-v-i-o-l-a-t-e-d-c-h-a-r-g-i-n-g-s-t-a-t-i-o-n-o-p-e-n-i-n-g-h-o-u-r-s"
 ---
 

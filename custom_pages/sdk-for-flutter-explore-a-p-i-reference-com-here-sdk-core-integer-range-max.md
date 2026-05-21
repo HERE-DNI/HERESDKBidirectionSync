@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "max"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-integer-range-max"
 ---
 

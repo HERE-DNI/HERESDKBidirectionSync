@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "get Closest Point"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-object-descriptor-get-closest-point"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "segment Hint"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-waypoint-segment-hint"
 ---
 

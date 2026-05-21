@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Catalog Identifier"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-engine-catalog-identifier-catalog-identifier"
 ---
 

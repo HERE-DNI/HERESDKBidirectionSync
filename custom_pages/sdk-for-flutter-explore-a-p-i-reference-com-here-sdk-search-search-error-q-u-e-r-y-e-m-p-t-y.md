@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "QUERY- EMPTY"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-search-error-q-u-e-r-y-e-m-p-t-y"
 ---
 

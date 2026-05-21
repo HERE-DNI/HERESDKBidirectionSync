@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "connector Attributes"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-charging-station-connector-attributes"
 ---
 

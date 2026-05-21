@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "accepted Cash Currencies"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-p-o-i-payment-details-accepted-cash-currencies"
 ---
 

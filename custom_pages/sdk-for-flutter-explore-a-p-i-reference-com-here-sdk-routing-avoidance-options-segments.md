@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "segments"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-avoidance-options-segments"
 ---
 

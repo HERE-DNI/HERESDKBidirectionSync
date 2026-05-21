@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "traversability"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-traffic-traffic-flow-traversability"
 ---
 

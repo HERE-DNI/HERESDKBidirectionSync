@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "min Charge At First Charging Station In Kilowatt Hours"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-battery-specifications-min-charge-at-first-charging-station-in-kilowatt-hours"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "filter Traffic Incidents"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-content-settings-companion-filter-traffic-incidents"
 ---
 

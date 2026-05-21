@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "auxiliary Consumption In Watt Hours Per Second"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-empirical-consumption-model-auxiliary-consumption-in-watt-hours-per-second"
 ---
 

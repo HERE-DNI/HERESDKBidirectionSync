@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "inner Boundaries"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-geo-polygon-inner-boundaries"
 ---
 

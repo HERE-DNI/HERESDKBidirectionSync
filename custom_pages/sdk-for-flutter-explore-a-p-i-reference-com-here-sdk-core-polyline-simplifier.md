@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Polyline Simplifier"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-polyline-simplifier"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "duration"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-animation-geo-coordinates-keyframe-duration"
 ---
 

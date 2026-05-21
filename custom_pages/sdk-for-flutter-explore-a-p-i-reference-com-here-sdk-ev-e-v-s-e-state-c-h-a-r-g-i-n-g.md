@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "CHARGING"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-ev-e-v-s-e-state-c-h-a-r-g-i-n-g"
 ---
 

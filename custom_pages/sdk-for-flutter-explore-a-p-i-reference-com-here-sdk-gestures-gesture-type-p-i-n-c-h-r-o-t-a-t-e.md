@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PINCH- ROTATE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-gestures-gesture-type-p-i-n-c-h-r-o-t-a-t-e"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "is Destination In Incident Area Restricted"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-traffic-traffic-incident-vehicle-restriction-is-destination-in-incident-area-restricted"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "POINT"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-content-type-p-o-i-n-t"
 ---
 

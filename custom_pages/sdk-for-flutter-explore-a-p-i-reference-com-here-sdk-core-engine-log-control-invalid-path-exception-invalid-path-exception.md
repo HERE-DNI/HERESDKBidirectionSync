@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Invalid Path Exception"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-engine-log-control-invalid-path-exception-invalid-path-exception"
 ---
 

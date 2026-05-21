@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "DATA- FOLDER- ACCESS- DENIED"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-errors-instantiation-error-code-d-a-t-a-f-o-l-d-e-r-a-c-c-e-s-s-d-e-n-i-e-d"
 ---
 

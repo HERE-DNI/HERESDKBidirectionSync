@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "DENSITY- INDEPENDENT- PIXELS"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-render-size-unit-d-e-n-s-i-t-y-i-n-d-e-p-e-n-d-e-n-t-p-i-x-e-l-s"
 ---
 

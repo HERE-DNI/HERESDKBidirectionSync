@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVConsumption Model"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-e-v-consumption-model-e-v-consumption-model"
 ---
 

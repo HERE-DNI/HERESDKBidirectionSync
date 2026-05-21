@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SHOPPING- FOOD- AND- DRINK"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-category-companion-s-h-o-p-p-i-n-g-f-o-o-d-a-n-d-d-r-i-n-k"
 ---
 

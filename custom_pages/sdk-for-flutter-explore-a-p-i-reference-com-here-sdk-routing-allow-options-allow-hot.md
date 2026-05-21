@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "allow Hot"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-allow-options-allow-hot"
 ---
 

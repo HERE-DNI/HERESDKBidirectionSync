@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "max Charging Voltage In Volts"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-battery-specifications-max-charging-voltage-in-volts"
 ---
 

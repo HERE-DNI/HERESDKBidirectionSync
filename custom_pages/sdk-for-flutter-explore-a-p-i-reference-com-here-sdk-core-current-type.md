@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Current Type"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-current-type"
 ---
 

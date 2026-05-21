@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "DINERS- CLUB"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-p-o-i-payment-method-companion-d-i-n-e-r-s-c-l-u-b"
 ---
 

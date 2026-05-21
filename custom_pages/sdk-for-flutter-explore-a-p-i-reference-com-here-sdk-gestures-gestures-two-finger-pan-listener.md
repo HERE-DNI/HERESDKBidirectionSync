@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "two Finger Pan Listener"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-gestures-gestures-two-finger-pan-listener"
 ---
 

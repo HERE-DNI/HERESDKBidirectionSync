@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "CHARGING- PREFERENCES"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-ev-e-v-s-e-capability-c-h-a-r-g-i-n-g-p-r-e-f-e-r-e-n-c-e-s"
 ---
 

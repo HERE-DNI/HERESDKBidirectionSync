@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "localized Text"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-signpost-label-localized-text"
 ---
 

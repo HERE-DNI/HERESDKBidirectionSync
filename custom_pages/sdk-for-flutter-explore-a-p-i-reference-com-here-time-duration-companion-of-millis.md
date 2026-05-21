@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "of Millis"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-time-duration-companion-of-millis"
 ---
 

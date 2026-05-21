@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "value Of"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-ev-e-v-charging-connector-format-value-of"
 ---
 

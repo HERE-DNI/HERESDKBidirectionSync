@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "GOING- OUT- ENTERTAINMENT"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-category-companion-g-o-i-n-g-o-u-t-e-n-t-e-r-t-a-i-n-m-e-n-t"
 ---
 

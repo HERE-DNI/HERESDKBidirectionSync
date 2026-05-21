@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PED- TERMINAL"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-ev-e-v-s-e-payment-support-p-e-d-t-e-r-m-i-n-a-l"
 ---
 

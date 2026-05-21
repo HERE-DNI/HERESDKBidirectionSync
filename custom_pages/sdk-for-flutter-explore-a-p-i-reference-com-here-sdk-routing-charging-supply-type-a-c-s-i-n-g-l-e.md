@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "AC- SINGLE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-charging-supply-type-a-c-s-i-n-g-l-e"
 ---
 

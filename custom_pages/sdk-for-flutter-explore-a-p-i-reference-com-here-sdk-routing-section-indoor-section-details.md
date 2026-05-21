@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "indoor Section Details"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-section-indoor-section-details"
 ---
 

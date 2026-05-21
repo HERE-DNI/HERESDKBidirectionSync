@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "get Layer Name"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-object-descriptor-get-layer-name"
 ---
 

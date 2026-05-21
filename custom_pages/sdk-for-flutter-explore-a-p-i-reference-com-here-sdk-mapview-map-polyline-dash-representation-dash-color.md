@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "dash Color"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-polyline-dash-representation-dash-color"
 ---
 

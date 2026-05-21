@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "CELLULAR"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-location-technology-c-e-l-l-u-l-a-r"
 ---
 

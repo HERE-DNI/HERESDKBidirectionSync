@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Geo Polyline"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-geo-polyline-geo-polyline"
 ---
 

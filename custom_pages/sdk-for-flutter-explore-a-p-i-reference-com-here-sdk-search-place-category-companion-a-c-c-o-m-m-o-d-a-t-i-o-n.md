@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "ACCOMMODATION"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-category-companion-a-c-c-o-m-m-o-d-a-t-i-o-n"
 ---
 

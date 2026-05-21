@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVCharging Truck Restriction"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-truck-restriction-e-v-charging-truck-restriction"
 ---
 

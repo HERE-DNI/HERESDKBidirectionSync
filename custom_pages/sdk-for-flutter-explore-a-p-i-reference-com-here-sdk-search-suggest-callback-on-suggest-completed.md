@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "on Suggest Completed"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-suggest-callback-on-suggest-completed"
 ---
 

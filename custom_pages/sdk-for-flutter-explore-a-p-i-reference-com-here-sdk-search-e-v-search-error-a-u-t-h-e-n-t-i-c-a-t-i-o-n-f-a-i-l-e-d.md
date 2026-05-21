@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "AUTHENTICATION- FAILED"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-search-error-a-u-t-h-e-n-t-i-c-a-t-i-o-n-f-a-i-l-e-d"
 ---
 

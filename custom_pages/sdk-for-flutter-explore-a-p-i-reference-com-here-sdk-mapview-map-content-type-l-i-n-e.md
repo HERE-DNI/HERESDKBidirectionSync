@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "LINE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-content-type-l-i-n-e"
 ---
 

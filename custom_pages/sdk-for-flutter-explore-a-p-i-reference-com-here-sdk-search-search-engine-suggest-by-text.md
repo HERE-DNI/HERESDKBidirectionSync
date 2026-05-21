@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "suggest By Text"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-search-engine-suggest-by-text"
 ---
 

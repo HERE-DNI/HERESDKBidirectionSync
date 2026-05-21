@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SHOPPING- ELECTRONICS"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-category-companion-s-h-o-p-p-i-n-g-e-l-e-c-t-r-o-n-i-c-s"
 ---
 

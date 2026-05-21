@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "auxiliary Power Consumption In Watts"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-physical-consumption-model-auxiliary-power-consumption-in-watts"
 ---
 

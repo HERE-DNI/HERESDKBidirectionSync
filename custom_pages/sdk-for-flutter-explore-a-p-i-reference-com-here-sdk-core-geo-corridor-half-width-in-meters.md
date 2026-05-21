@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "half Width In Meters"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-geo-corridor-half-width-in-meters"
 ---
 

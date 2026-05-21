@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "vertical"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-anchor2-d-vertical"
 ---
 

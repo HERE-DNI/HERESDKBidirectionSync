@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "GEO- COORDINATES"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-metadata-type-g-e-o-c-o-o-r-d-i-n-a-t-e-s"
 ---
 

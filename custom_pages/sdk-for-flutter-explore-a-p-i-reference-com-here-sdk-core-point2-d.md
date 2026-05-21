@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Point2D"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-point2-d"
 ---
 

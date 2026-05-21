@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "HTTP"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-engine-proxy-settings-proxy-type-h-t-t-p"
 ---
 

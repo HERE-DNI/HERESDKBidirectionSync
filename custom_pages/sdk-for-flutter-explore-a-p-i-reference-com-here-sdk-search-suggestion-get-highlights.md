@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "get Highlights"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-suggestion-get-highlights"
 ---
 

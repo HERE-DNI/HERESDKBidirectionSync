@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Map Pick Callback"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-view-base-map-pick-callback"
 ---
 

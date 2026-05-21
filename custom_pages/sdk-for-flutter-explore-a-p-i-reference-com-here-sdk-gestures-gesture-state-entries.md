@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "entries"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-gestures-gesture-state-entries"
 ---
 

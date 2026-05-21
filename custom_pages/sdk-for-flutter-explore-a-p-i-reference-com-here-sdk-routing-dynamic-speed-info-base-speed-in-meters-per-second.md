@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "base Speed In Meters Per Second"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-dynamic-speed-info-base-speed-in-meters-per-second"
 ---
 

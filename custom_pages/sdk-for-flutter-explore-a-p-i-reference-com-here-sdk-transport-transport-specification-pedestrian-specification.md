@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "pedestrian Specification"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-transport-specification-pedestrian-specification"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "OFFLINE- SEARCH"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-engine-layer-configuration-feature-o-f-f-l-i-n-e-s-e-a-r-c-h"
 ---
 

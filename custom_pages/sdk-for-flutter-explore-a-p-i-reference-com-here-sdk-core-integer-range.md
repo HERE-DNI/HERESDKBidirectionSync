@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Integer Range"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-integer-range"
 ---
 

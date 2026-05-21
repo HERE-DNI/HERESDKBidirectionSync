@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SHOPPING- HAIR- AND- BEAUTY"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-category-companion-s-h-o-p-p-i-n-g-h-a-i-r-a-n-d-b-e-a-u-t-y"
 ---
 

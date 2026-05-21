@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "get Platform Threading"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-threading-threading-companion-get-platform-threading"
 ---
 

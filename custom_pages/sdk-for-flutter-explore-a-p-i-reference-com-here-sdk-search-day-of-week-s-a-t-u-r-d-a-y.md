@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SATURDAY"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-day-of-week-s-a-t-u-r-d-a-y"
 ---
 

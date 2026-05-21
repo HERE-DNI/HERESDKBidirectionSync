@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Map Content Settings"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-content-settings"
 ---
 

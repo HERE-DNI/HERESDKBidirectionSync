@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "on Screenshot Taken"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-view-take-screenshot-callback-on-screenshot-taken"
 ---
 

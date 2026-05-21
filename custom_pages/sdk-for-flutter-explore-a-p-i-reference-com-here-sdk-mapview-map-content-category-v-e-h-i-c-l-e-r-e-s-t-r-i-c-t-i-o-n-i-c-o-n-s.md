@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "VEHICLE- RESTRICTION- ICONS"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-content-category-v-e-h-i-c-l-e-r-e-s-t-r-i-c-t-i-o-n-i-c-o-n-s"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "double Tap Listener"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-gestures-gestures-double-tap-listener"
 ---
 

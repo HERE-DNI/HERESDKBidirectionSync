@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Search Callback Extended"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-search-callback-extended"
 ---
 

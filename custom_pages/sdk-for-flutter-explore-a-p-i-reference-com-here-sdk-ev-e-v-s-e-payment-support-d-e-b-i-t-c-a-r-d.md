@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "DEBIT- CARD"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-ev-e-v-s-e-payment-support-d-e-b-i-t-c-a-r-d"
 ---
 

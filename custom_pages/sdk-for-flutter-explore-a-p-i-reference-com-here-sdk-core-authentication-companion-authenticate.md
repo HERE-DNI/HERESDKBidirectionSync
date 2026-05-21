@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "authenticate"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-authentication-companion-authenticate"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "is Even Number Plate Restricted"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-traffic-traffic-incident-vehicle-restriction-is-even-number-plate-restricted"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "get Geo Coordinates"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-metadata-get-geo-coordinates"
 ---
 

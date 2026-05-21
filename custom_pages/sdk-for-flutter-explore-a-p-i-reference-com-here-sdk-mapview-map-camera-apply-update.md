@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "apply Update"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-camera-apply-update"
 ---
 

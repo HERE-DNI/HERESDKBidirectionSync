@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "axle Group Type"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-max-axle-group-weight-axle-group-type"
 ---
 

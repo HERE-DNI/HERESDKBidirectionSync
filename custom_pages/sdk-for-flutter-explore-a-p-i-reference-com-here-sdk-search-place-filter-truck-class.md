@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "truck Class"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-filter-truck-class"
 ---
 

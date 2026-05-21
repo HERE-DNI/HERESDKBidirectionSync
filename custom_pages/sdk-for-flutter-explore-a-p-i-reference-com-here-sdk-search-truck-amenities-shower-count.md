@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "shower Count"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-truck-amenities-shower-count"
 ---
 

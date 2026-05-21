@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "get Geo Coordinates"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-view-view-pin-get-geo-coordinates"
 ---
 

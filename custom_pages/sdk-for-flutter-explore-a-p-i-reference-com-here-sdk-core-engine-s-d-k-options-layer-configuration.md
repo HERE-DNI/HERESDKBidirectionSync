@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "layer Configuration"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-engine-s-d-k-options-layer-configuration"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "has Power Supply"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-truck-amenities-has-power-supply"
 ---
 

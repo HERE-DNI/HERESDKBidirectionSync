@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "GOING- OUT- GAMBLING- LOTTERY- BETTING"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-category-companion-g-o-i-n-g-o-u-t-g-a-m-b-l-i-n-g-l-o-t-t-e-r-y-b-e-t-t-i-n-g"
 ---
 

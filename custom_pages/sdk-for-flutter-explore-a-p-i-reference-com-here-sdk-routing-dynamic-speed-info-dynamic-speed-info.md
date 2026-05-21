@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Dynamic Speed Info"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-dynamic-speed-info-dynamic-speed-info"
 ---
 

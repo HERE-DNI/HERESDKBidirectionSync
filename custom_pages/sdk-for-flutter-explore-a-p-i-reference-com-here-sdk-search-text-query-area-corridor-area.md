@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "corridor Area"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-text-query-area-corridor-area"
 ---
 

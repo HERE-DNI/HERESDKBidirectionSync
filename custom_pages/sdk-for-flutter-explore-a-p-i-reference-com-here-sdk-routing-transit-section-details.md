@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Transit Section Details"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-transit-section-details"
 ---
 

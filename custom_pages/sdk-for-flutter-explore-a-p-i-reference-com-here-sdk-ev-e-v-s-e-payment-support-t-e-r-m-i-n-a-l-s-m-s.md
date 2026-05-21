@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TERMINAL- SMS"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-ev-e-v-s-e-payment-support-t-e-r-m-i-n-a-l-s-m-s"
 ---
 

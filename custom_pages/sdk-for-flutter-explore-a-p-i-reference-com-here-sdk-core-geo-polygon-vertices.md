@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "vertices"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-geo-polygon-vertices"
 ---
 

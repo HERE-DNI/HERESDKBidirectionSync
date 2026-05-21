@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Map Features"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-features-map-features"
 ---
 

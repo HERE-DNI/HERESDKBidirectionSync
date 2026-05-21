@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "INVALID- CATALOG- CONFIGURATION"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-errors-instantiation-error-code-i-n-v-a-l-i-d-c-a-t-a-l-o-g-c-o-n-f-i-g-u-r-a-t-i-o-n"
 ---
 

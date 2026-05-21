@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "simplification Tolerance In Meters"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-polyline-simplifier-options-simplification-tolerance-in-meters"
 ---
 

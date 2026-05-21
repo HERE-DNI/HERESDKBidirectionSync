@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "political View"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-engine-s-d-k-options-political-view"
 ---
 

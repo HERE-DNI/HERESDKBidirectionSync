@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "current In Amperes"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-charging-stop-current-in-amperes"
 ---
 

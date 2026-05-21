@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SOCKET"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-ev-e-v-charging-connector-format-s-o-c-k-e-t"
 ---
 

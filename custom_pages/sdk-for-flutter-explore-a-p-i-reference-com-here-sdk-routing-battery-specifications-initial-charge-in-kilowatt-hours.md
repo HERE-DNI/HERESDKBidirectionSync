@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "initial Charge In Kilowatt Hours"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-battery-specifications-initial-charge-in-kilowatt-hours"
 ---
 

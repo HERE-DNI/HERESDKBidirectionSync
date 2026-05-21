@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TRUCK- SERVICE- ATTRIBUTES"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-engine-layer-configuration-feature-t-r-u-c-k-s-e-r-v-i-c-e-a-t-t-r-i-b-u-t-e-s"
 ---
 

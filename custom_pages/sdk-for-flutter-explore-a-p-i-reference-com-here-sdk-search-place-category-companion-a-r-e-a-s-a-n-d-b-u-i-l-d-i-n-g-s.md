@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "AREAS- AND- BUILDINGS"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-category-companion-a-r-e-a-s-a-n-d-b-u-i-l-d-i-n-g-s"
 ---
 

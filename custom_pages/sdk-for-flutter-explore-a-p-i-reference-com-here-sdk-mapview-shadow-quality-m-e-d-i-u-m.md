@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MEDIUM"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-shadow-quality-m-e-d-i-u-m"
 ---
 

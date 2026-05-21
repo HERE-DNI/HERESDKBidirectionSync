@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SIGHTS- MUSEUM"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-category-companion-s-i-g-h-t-s-m-u-s-e-u-m"
 ---
 

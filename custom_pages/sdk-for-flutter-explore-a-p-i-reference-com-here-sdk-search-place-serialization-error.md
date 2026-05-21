@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Place Serialization Error"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-serialization-error"
 ---
 

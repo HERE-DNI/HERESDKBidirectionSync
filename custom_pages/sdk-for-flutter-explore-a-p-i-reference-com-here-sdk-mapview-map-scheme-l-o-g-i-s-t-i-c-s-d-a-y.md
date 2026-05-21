@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "LOGISTICS- DAY"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-scheme-l-o-g-i-s-t-i-c-s-d-a-y"
 ---
 

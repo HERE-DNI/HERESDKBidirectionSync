@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "allow Scooter On Highway"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-scooter-specification-allow-scooter-on-highway"
 ---
 

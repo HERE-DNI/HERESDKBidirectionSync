@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "IEC- 62196- TYPE- 1- COMBO"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-charging-connector-type-i-e-c-62196-t-y-p-e-1-c-o-m-b-o"
 ---
 

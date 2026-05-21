@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "get Preferred Value For Locales"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-localized-texts-get-preferred-value-for-locales"
 ---
 

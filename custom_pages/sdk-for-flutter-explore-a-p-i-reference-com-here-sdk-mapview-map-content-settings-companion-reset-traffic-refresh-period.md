@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "reset Traffic Refresh Period"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-content-settings-companion-reset-traffic-refresh-period"
 ---
 

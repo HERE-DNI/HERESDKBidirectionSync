@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "min Charge At Destination In Kilowatt Hours"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-battery-specifications-min-charge-at-destination-in-kilowatt-hours"
 ---
 

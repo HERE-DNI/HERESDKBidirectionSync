@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Parameter Configuration"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-parameter-configuration-parameter-configuration"
 ---
 

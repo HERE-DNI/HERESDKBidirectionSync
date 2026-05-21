@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "bearing"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-geo-orientation-bearing"
 ---
 

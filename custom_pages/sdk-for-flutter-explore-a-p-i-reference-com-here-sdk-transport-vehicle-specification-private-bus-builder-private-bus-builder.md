@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Private Bus Builder"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-vehicle-specification-private-bus-builder-private-bus-builder"
 ---
 

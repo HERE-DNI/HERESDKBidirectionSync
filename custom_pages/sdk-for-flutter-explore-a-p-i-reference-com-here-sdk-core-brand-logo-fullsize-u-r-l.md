@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "fullsize URL"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-brand-logo-fullsize-u-r-l"
 ---
 

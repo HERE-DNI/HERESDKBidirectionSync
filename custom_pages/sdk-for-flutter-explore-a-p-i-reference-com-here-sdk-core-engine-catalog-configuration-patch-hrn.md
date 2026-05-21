@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "patch Hrn"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-engine-catalog-configuration-patch-hrn"
 ---
 

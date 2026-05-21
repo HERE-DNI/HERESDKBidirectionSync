@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "BOOLEAN"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-datasource-data-attribute-value-value-type-b-o-o-l-e-a-n"
 ---
 

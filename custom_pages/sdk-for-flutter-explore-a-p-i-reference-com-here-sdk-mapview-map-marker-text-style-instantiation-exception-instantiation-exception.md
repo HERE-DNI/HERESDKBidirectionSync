@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Instantiation Exception"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-marker-text-style-instantiation-exception-instantiation-exception"
 ---
 

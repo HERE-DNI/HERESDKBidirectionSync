@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "thumbnail URL"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-brand-logo-thumbnail-u-r-l"
 ---
 

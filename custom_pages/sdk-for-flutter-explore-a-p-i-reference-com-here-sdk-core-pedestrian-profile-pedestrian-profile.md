@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Pedestrian Profile"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-pedestrian-profile-pedestrian-profile"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "truck Amenities"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-details-truck-amenities"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Assets Manager"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-assets-manager"
 ---
 

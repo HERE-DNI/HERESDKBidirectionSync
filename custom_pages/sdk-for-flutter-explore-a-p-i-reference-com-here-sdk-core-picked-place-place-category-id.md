@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "place Category Id"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-picked-place-place-category-id"
 ---
 

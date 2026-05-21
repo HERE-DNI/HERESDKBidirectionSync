@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "INVALID- KEYFRAME- DURATION"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-animation-map-item-key-frame-track-instantiation-error-code-i-n-v-a-l-i-d-k-e-y-f-r-a-m-e-d-u-r-a-t-i-o-n"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "with Current Weight In Kilograms"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-vehicle-specification-bus-builder-with-current-weight-in-kilograms"
 ---
 

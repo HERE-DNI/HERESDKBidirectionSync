@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "HOTEL"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-facility-type-h-o-t-e-l"
 ---
 

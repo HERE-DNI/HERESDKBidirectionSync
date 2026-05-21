@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "client Key File Blob"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-engine-certificate-settings-client-key-file-blob"
 ---
 

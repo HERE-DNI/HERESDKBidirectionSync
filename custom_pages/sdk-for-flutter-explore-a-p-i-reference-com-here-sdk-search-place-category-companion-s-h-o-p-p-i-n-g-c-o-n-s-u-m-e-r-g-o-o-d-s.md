@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SHOPPING- CONSUMER- GOODS"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-category-companion-s-h-o-p-p-i-n-g-c-o-n-s-u-m-e-r-g-o-o-d-s"
 ---
 

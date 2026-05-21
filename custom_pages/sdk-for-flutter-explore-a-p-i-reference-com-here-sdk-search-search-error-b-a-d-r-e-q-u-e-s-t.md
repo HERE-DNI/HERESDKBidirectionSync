@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "BAD- REQUEST"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-search-error-b-a-d-r-e-q-u-e-s-t"
 ---
 

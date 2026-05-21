@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Place Chain"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-chain-place-chain"
 ---
 

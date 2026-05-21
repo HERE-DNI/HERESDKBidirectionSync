@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "envelope Geo Boxes"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-geo-box-companion-envelope-geo-boxes"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "COAL"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-energy-source-type-c-o-a-l"
 ---
 

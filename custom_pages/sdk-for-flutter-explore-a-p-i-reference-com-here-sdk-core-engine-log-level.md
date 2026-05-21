@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Log Level"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-engine-log-level"
 ---
 

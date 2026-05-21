@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "LNG"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-truck-fuel-type-l-n-g"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "power In Kilowatts"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-charging-stop-power-in-kilowatts"
 ---
 

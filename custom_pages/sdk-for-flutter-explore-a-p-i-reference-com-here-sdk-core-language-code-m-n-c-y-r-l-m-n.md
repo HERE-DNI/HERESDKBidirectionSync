@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MN- CYRL- MN"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-language-code-m-n-c-y-r-l-m-n"
 ---
 

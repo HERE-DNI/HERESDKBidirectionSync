@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "get Halo Color"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-location-indicator-get-halo-color"
 ---
 

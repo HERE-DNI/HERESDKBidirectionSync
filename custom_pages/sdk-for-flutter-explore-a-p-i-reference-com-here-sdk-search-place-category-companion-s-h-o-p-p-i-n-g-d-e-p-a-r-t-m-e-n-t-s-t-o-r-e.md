@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SHOPPING- DEPARTMENT- STORE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-category-companion-s-h-o-p-p-i-n-g-d-e-p-a-r-t-m-e-n-t-s-t-o-r-e"
 ---
 

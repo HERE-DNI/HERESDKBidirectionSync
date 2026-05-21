@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "current Weight In Kilograms"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-truck-specifications-current-weight-in-kilograms"
 ---
 

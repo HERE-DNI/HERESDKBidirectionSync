@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "max Current In Amperes"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-connector-max-current-in-amperes"
 ---
 

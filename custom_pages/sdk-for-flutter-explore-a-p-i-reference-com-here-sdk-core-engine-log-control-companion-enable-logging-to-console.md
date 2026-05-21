@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "enable Logging To Console"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-engine-log-control-companion-enable-logging-to-console"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "VEHICLE- WITH- TRAILER"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-traffic-traffic-incident-restricted-vehicle-category-v-e-h-i-c-l-e-w-i-t-h-t-r-a-i-l-e-r"
 ---
 

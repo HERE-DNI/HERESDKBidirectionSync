@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "walk Speed In Meters Per Second"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-pedestrian-options-walk-speed-in-meters-per-second"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "from Bitmap"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-image-factory-from-bitmap"
 ---
 

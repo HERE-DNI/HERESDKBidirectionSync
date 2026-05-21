@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "make My Place"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-geo-place-companion-make-my-place"
 ---
 

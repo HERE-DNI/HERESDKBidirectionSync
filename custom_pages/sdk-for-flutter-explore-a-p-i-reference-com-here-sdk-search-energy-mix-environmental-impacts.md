@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "environmental Impacts"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-energy-mix-environmental-impacts"
 ---
 

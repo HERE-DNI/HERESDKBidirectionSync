@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Polyline Simplification Error"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-polyline-simplification-error"
 ---
 

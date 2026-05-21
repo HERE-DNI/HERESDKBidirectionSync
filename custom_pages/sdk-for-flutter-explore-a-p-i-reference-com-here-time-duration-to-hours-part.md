@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "to Hours Part"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-time-duration-to-hours-part"
 ---
 

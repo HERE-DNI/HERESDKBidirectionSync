@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SIGHTS- LANDMARK- ATTRACTION"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-category-companion-s-i-g-h-t-s-l-a-n-d-m-a-r-k-a-t-t-r-a-c-t-i-o-n"
 ---
 

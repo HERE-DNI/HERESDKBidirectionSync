@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "pixel Scale"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-view-base-pixel-scale"
 ---
 

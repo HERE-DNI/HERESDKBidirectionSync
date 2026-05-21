@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "ANDROID- PAY"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-p-o-i-payment-method-companion-a-n-d-r-o-i-d-p-a-y"
 ---
 

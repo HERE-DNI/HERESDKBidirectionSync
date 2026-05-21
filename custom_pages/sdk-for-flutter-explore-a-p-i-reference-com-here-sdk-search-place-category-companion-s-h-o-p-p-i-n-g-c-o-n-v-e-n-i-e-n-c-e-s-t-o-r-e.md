@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SHOPPING- CONVENIENCE- STORE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-category-companion-s-h-o-p-p-i-n-g-c-o-n-v-e-n-i-e-n-c-e-s-t-o-r-e"
 ---
 

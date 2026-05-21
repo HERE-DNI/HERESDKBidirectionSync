@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "outline Color"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-polygon-outline-color"
 ---
 

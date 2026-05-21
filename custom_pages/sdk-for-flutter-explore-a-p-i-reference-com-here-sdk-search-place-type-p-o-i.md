@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "POI"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-place-type-p-o-i"
 ---
 

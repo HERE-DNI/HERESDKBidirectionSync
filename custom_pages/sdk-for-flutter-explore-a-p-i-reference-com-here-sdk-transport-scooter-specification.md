@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Scooter Specification"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-scooter-specification"
 ---
 

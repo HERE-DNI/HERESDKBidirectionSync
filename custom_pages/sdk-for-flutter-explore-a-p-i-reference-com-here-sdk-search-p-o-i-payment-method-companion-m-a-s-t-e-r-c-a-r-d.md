@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MASTERCARD"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-p-o-i-payment-method-companion-m-a-s-t-e-r-c-a-r-d"
 ---
 

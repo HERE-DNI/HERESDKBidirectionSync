@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "UZ- LATN- UZ"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-language-code-u-z-l-a-t-n-u-z"
 ---
 

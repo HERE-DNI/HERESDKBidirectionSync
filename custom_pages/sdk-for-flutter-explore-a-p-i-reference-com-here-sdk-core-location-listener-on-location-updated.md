@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "on Location Updated"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-location-listener-on-location-updated"
 ---
 

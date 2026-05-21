@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "set Multi Color Gradient Length"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-polyline-solid-multi-color-representation-set-multi-color-gradient-length"
 ---
 

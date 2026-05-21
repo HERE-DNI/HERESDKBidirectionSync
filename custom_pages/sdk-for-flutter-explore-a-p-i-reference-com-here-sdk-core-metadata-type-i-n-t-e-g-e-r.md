@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "INTEGER"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-metadata-type-i-n-t-e-g-e-r"
 ---
 

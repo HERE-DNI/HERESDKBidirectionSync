@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PEDESTRIAN- INACTIVE"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-location-indicator-marker-type-p-e-d-e-s-t-r-i-a-n-i-n-a-c-t-i-v-e"
 ---
 

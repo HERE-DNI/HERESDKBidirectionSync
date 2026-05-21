@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Fare Price Type"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-fare-price-type"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "max Speed Highways In Meters Per Second"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-general-vehicle-speed-limits-max-speed-highways-in-meters-per-second"
 ---
 

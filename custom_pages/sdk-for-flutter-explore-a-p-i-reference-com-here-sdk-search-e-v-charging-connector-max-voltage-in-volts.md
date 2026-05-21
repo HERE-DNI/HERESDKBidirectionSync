@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "max Voltage In Volts"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-connector-max-voltage-in-volts"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SUPERMARKET"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-facility-type-s-u-p-e-r-m-a-r-k-e-t"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "avoided Truck Road Types"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-truck-options-avoided-truck-road-types"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "IN- QUART"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-animation-easing-function-i-n-q-u-a-r-t"
 ---
 

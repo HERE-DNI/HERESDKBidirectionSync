@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "LAYER- CONFIGURATION- MISMATCH"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-errors-instantiation-error-code-l-a-y-e-r-c-o-n-f-i-g-u-r-a-t-i-o-n-m-i-s-m-a-t-c-h"
 ---
 

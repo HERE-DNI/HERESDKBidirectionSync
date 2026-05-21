@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "method Call"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-engine-usage-stats-network-stats-method-call"
 ---
 

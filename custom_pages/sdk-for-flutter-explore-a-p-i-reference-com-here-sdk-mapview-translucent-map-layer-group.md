@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Translucent Map Layer Group"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-translucent-map-layer-group"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "forbidden Hazardous Goods"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-violated-restriction-details-forbidden-hazardous-goods"
 ---
 

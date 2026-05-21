@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Instantiation Error Code"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-map-polyline-representation-instantiation-error-code"
 ---
 

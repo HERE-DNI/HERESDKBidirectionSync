@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "OUT- ELASTIC"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-animation-easing-function-o-u-t-e-l-a-s-t-i-c"
 ---
 

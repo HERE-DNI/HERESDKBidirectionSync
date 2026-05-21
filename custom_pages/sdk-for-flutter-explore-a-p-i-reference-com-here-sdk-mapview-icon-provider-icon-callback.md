@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Icon Callback"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-icon-provider-icon-callback"
 ---
 

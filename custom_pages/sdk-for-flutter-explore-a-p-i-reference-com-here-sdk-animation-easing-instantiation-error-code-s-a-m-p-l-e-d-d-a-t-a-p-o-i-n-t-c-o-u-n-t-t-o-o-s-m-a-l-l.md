@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SAMPLED- DATA- POINT- COUNT- TOO- SMALL"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-animation-easing-instantiation-error-code-s-a-m-p-l-e-d-d-a-t-a-p-o-i-n-t-c-o-u-n-t-t-o-o-s-m-a-l-l"
 ---
 

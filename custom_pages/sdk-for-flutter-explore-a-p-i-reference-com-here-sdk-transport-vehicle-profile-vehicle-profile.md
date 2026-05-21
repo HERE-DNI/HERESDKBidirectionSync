@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Vehicle Profile"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-transport-vehicle-profile-vehicle-profile"
 ---
 

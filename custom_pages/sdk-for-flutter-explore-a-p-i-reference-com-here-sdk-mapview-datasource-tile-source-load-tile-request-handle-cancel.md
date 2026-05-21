@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "cancel"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-mapview-datasource-tile-source-load-tile-request-handle-cancel"
 ---
 

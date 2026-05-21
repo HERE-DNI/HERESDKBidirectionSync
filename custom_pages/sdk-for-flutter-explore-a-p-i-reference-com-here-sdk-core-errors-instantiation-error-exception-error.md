@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "error"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-errors-instantiation-error-exception-error"
 ---
 

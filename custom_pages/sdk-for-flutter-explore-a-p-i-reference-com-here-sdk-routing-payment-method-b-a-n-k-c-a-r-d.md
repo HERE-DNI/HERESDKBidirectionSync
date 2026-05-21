@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "BANK- CARD"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-payment-method-b-a-n-k-c-a-r-d"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "is Restricted Always"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-traffic-traffic-incident-vehicle-restriction-is-restricted-always"
 ---
 

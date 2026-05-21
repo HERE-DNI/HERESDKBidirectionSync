@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "has Idle Reduction System"
 slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-truck-amenities-has-idle-reduction-system"
 ---
 
