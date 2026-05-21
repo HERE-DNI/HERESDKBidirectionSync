@@ -1,0 +1,161 @@
+---
+title: "Untitled"
+slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- index.html -->
+
+<div class="root">
+
+
+
+<div id="main">
+<div class="main-content" data-page-type="classlike" id="content" pageids="API Reference::com.here.sdk.search/EVChargingTariffType///PointingToDeclaration//1617540583">
+<div class="breadcrumbs">/sdk-for-flutter-explore//sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search/EVChargingTariffType</div>
+<div class="cover">
+<h1 class="cover">EVCharging<wbr/>Tariff<wbr/>Type</h1>
+<div class="platform-hinted" data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace">enum /sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type : <a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-enum/index.html">Enum</a>&lt;/sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type&gt; </div><p class="paragraph">Represents the tariff pricing model (adhoc, emsp, or cpo). <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors. Related APIs may change for new releases without a deprecation process.</p></div></div>
+</div>
+<div class="tabbedcontent">
+<div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button><button class="section-tab" data-togglable="ENTRY">Entries</button></div>
+<div class="tabs-section-body">
+<div data-togglable="ENTRY">
+<h2 class="">Entries</h2>
+<div class="table"><a anchor-label="AD_HOC" data-filterable-set=":modules:dokkaHtml/release" data-name="1403737344%2FClasslikes%2F1617540583" id="1403737344%2FClasslikes%2F1617540583"></a>
+<div class="table-row" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release" data-togglable="ENTRY">
+<div class="main-subrow keyValue">
+<div class="">
+<div>/sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type-a-d-h-o-c</div>
+
+<div class="copy-popup-wrapper">Link copied to clipboard</div>
+</div>
+<div>
+<div class="title">
+<div class="platform-hinted" data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block">/sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type-a-d-h-o-c</div></div><div class="brief"><p class="paragraph">Ad-hoc tariff (pay as you go), no subscription required.</p></div></div></div>
+</div>
+</div>
+</div>
+</div>
+<a anchor-label="EMSP" data-filterable-set=":modules:dokkaHtml/release" data-name="-549392315%2FClasslikes%2F1617540583" id="-549392315%2FClasslikes%2F1617540583"></a>
+<div class="table-row" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release" data-togglable="ENTRY">
+<div class="main-subrow keyValue">
+<div class="">
+<div>/sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type-e-m-s-p</div>
+
+<div class="copy-popup-wrapper">Link copied to clipboard</div>
+</div>
+<div>
+<div class="title">
+<div class="platform-hinted" data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block">/sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type-e-m-s-p</div></div><div class="brief"><p class="paragraph">Tariff provided by an eMSP.</p></div></div></div>
+</div>
+</div>
+</div>
+</div>
+<a anchor-label="CPO" data-filterable-set=":modules:dokkaHtml/release" data-name="-436296278%2FClasslikes%2F1617540583" id="-436296278%2FClasslikes%2F1617540583"></a>
+<div class="table-row" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release" data-togglable="ENTRY">
+<div class="main-subrow keyValue">
+<div class="">
+<div>/sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type-c-p-o</div>
+
+<div class="copy-popup-wrapper">Link copied to clipboard</div>
+</div>
+<div>
+<div class="title">
+<div class="platform-hinted" data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block">/sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type-c-p-o</div></div><div class="brief"><p class="paragraph">Tariff provided by a CPO.</p></div></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-togglable="PROPERTY">
+<h2 class="">Properties</h2>
+<div class="table"><a anchor-label="entries" data-filterable-set=":modules:dokkaHtml/release" data-name="-1283272038%2FProperties%2F1617540583" id="-1283272038%2FProperties%2F1617540583"></a>
+<div class="table-row" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+<div class="main-subrow keyValue">
+<div class="">
+<div>/sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type-entries</div>
+
+<div class="copy-popup-wrapper">Link copied to clipboard</div>
+</div>
+<div>
+<div class="title">
+<div class="platform-hinted" data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace">val /sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type-entries: <a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.enums/-enum-entries/index.html">EnumEntries</a>&lt;/sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type&gt;</div><div class="brief"><p class="paragraph">Returns a representation of an immutable list of all enum entries, in the order they're declared.</p></div></div></div>
+</div>
+</div>
+</div>
+</div>
+<a anchor-label="value" data-filterable-set=":modules:dokkaHtml/release" data-name="-134755303%2FProperties%2F1617540583" id="-134755303%2FProperties%2F1617540583"></a>
+<div class="table-row" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+<div class="main-subrow keyValue">
+<div class="">
+<div>/sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type-value</div>
+
+<div class="copy-popup-wrapper">Link copied to clipboard</div>
+</div>
+<div>
+<div class="title">
+<div class="platform-hinted" data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace"><div class="block"><div class="block">@<a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.jvm/-jvm-field/index.html">JvmField</a></div></div>val /sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type-value: <a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-int/index.html">Int</a></div></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-togglable="FUNCTION">
+<h2 class="">Functions</h2>
+<div class="table"><a anchor-label="valueOf" data-filterable-set=":modules:dokkaHtml/release" data-name="1549374786%2FFunctions%2F1617540583" id="1549374786%2FFunctions%2F1617540583"></a>
+<div class="table-row" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+<div class="main-subrow keyValue">
+<div class="">
+<div>/sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type-value-of</div>
+
+<div class="copy-popup-wrapper">Link copied to clipboard</div>
+</div>
+<div>
+<div class="title">
+<div class="platform-hinted" data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace">fun /sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type-value-of(value: <a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-string/index.html">String</a>): /sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type</div><div class="brief"><p class="paragraph">Returns the enum constant of this type with the specified name. The string must match exactly an identifier used to declare an enum constant in this type. (Extraneous whitespace characters are not permitted.)</p></div></div></div>
+</div>
+</div>
+</div>
+</div>
+<a anchor-label="values" data-filterable-set=":modules:dokkaHtml/release" data-name="1683807694%2FFunctions%2F1617540583" id="1683807694%2FFunctions%2F1617540583"></a>
+<div class="table-row" data-filterable-current=":modules:dokkaHtml/release" data-filterable-set=":modules:dokkaHtml/release">
+<div class="main-subrow keyValue">
+<div class="">
+<div>/sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type-values</div>
+
+<div class="copy-popup-wrapper">Link copied to clipboard</div>
+</div>
+<div>
+<div class="title">
+<div class="platform-hinted" data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace">fun /sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type-values(): <a href="https://kotlinlang.org/api/core/kotlin-stdlib/kotlin/-array/index.html">Array</a>&lt;/sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-search-e-v-charging-tariff-type&gt;</div><div class="brief"><p class="paragraph">Returns an array containing the constants of this enum type, in the order they're declared.</p></div></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+<a class="footer--button footer--button_go-to-top" href="#content" id="go-to-top-link"></a>
+© 2026 Copyright
+
+Generated by 
+<a class="footer--link footer--link_external" href="https://github.com/Kotlin/dokka">
+dokka
+</a>
+
+</div>
+</div>
+
+</div>
+
+</div>
+`
+}</HTMLBlock>
