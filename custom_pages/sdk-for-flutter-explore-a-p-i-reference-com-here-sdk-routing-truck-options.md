@@ -17,7 +17,7 @@ slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-truck-option
 <div class="breadcrumbs">/sdk-for-flutter-explore//sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing/TruckOptions</div>
 <div class="cover">
 <h1 class="cover">Truck<wbr/>Options</h1>
-<div class="platform-hinted" data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace">class /sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-truck-options</div><div class="deprecation-content"><h3 class="">Deprecated</h3><p class="paragraph">Will be removed in v4.28.0. Use `RoutingOptions` class instead.</p></div><p class="paragraph">All the options to specify how a truck route should be calculated.</p></div></div>
+<div class="platform-hinted" data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace">class /sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-routing-truck-options</div><div class="deprecation-content"><h3 class="">Deprecated</h3><p class="paragraph">Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.</p></div><p class="paragraph">All the options to specify how a truck route should be calculated.</p></div></div>
 </div>
 <div class="tabbedcontent">
 <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>

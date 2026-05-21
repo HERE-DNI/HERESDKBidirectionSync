@@ -17,7 +17,7 @@ slug: "sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-pedestrian-prof
 <div class="breadcrumbs">/sdk-for-flutter-explore//sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core/PedestrianProfile</div>
 <div class="cover">
 <h1 class="cover">Pedestrian<wbr/>Profile</h1>
-<div class="platform-hinted" data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace">class /sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-pedestrian-profile</div><div class="deprecation-content"><h3 class="">Deprecated</h3><p class="paragraph">Will be removed in v4.28.0. Use `sdk.transport.TransportSpecification` instead.</p></div><p class="paragraph">Contains values of pedestrian profile. This is a BETA feature and thus there can be bugs and unexpected behavior.</p></div></div>
+<div class="platform-hinted" data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":modules:dokkaHtml/release"><div class="symbol monospace">class /sdk-for-flutter-explore-a-p-i-reference-com-here-sdk-core-pedestrian-profile</div><div class="deprecation-content"><h3 class="">Deprecated</h3><p class="paragraph">Will be removed in v4.28.0. Use <code>sdk.transport.TransportSpecification</code> instead.</p></div><p class="paragraph">Contains values of pedestrian profile. This is a BETA feature and thus there can be bugs and unexpected behavior.</p></div></div>
 </div>
 <div class="tabbedcontent">
 <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
