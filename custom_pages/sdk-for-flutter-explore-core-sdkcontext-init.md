@@ -1,0 +1,93 @@
+---
+title: "Untitled"
+slug: "sdk-for-flutter-explore-core-sdkcontext-init"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- init.html -->
+
+<div id="overlay-under-drawer"></div>
+<header id="title">
+menu
+<ol class="breadcrumbs gt-separated dark hidden-xs">
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-sdkcontext-class</li>
+<li class="self-crumb">init static method</li>
+</ol>
+<div class="self-name">init</div>
+<form class="search navbar-right" role="search">
+<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
+</form>
+<div class="toggle" id="theme-button" title="Toggle brightness">
+<label for="theme">
+<input id="theme" type="checkbox" value="light-theme"/>
+
+        dark_mode
+      
+
+        light_mode
+      
+</label>
+</div>
+</header>
+<main>
+<div class="main-content" data-above-sidebar="core/SdkContext-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
+<div>
+<h1>init static method</h1></div>
+<section class="multi-line-signature">
+void
+init(<wbr/>[<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-isolateorigin isolateOrigin = IsolateOrigin.main</li>
+</ol>])
+
+      
+
+    </section>
+<section class="desc markdown">
+<p>Prepares the SDK for use</p>
+<p>Users should call this method once, when the application starts, preferably in the main()
+method.</p>
+<p><code>isolateOrigin</code> The isolate in which the application is executing.  This is IsolateOrigin.main
+by default, and this is suitable for almost all use cases.</p>
+</section>
+<section class="summary source-code" id="source">
+<h2>Implementation</h2>
+<pre class="language-dart"><code class="language-dart">static void init([IsolateOrigin isolateOrigin = IsolateOrigin.main]) {
+  LibraryContext.init(isolateOrigin, nativeLibraryPath: _getLibraryName());
+  SDKDartInfo.version = Platform.version;
+}</code></pre>
+</section>
+</div> 
+<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
+
+<header class="hidden-l" id="header-search-sidebar">
+<form class="search-sidebar" role="search">
+<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
+</form>
+</header>
+<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-core-core-library</li>
+<li>/sdk-for-flutter-explore-core-sdkcontext-class</li>
+<li class="self-crumb">init static method</li>
+</ol>
+<h5>SdkContext class</h5>
+<div id="dartdoc-sidebar-left-content"></div>
+</div>
+<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
+</div>
+</main>
+<footer>
+
+    here_sdk
+      4.26.0
+  
+</footer>
+
+
+
+</div>
+`
+}</HTMLBlock>

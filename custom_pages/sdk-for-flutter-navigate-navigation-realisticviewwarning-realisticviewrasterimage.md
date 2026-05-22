@@ -1,0 +1,88 @@
+---
+title: "Untitled"
+slug: "sdk-for-flutter-navigate-navigation-realisticviewwarning-realisticviewrasterimage"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- realisticViewRasterImage.html -->
+
+<div id="overlay-under-drawer"></div>
+<header id="title">
+menu
+<ol class="breadcrumbs gt-separated dark hidden-xs">
+<li>/sdk-for-flutter-navigate</li>
+<li>/sdk-for-flutter-navigate-navigation-navigation-library</li>
+<li>/sdk-for-flutter-navigate-navigation-realisticviewwarning-class</li>
+<li class="self-crumb">realisticViewRasterImage property</li>
+</ol>
+<div class="self-name">realisticViewRasterImage</div>
+<form class="search navbar-right" role="search">
+<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
+</form>
+<div class="toggle" id="theme-button" title="Toggle brightness">
+<label for="theme">
+<input id="theme" type="checkbox" value="light-theme"/>
+
+        dark_mode
+      
+
+        light_mode
+      
+</label>
+</div>
+</header>
+<main>
+<div class="main-content" data-above-sidebar="navigation/RealisticViewWarning-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
+<div>
+<h1>realisticViewRasterImage property</h1></div>
+<section class="multi-line-signature">
+/sdk-for-flutter-navigate-navigation-realisticviewrasterimage-class?
+        realisticViewRasterImage
+<div class="features">getter/setter pair</div>
+</section>
+<section class="desc markdown">
+<p>The realistic view object for which the warning is given.
+Image resources are stored as raster graphics.
+Within /sdk-for-flutter-navigate-navigation-realisticviewwarning-class, only one type of image, either raster or vector, will be provided.
+If this property is not <code>null</code>, then /sdk-for-flutter-navigate-navigation-realisticviewwarning-realisticviewvectorimage will be <code>null</code>.
+<strong>Note:</strong> Certain countries support only raster images as realistic views. Currently, this is the case
+only for Japan, but in the future, more countries might support this type of realistic views.</p>
+</section>
+<section class="summary source-code" id="source">
+<h2>Implementation</h2>
+<pre class="language-dart"><code class="language-dart">RealisticViewRasterImage? realisticViewRasterImage;</code></pre>
+</section>
+</div> 
+<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
+
+<header class="hidden-l" id="header-search-sidebar">
+<form class="search-sidebar" role="search">
+<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
+</form>
+</header>
+<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
+<li>/sdk-for-flutter-navigate</li>
+<li>/sdk-for-flutter-navigate-navigation-navigation-library</li>
+<li>/sdk-for-flutter-navigate-navigation-realisticviewwarning-class</li>
+<li class="self-crumb">realisticViewRasterImage property</li>
+</ol>
+<h5>RealisticViewWarning class</h5>
+<div id="dartdoc-sidebar-left-content"></div>
+</div>
+<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
+</div>
+</main>
+<footer>
+
+    here_sdk
+      4.26.0
+  
+</footer>
+
+
+
+</div>
+`
+}</HTMLBlock>

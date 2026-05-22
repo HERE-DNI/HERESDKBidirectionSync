@@ -1,0 +1,97 @@
+---
+title: "Untitled"
+slug: "sdk-for-flutter-explore-routing-batteryspecifications-chargingcurve"
+---
+
+<HTMLBlock>{
+`
+<div class="sdk-for-flutter">
+<!-- chargingCurve.html -->
+
+<div id="overlay-under-drawer"></div>
+<header id="title">
+menu
+<ol class="breadcrumbs gt-separated dark hidden-xs">
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-batteryspecifications-class</li>
+<li class="self-crumb">chargingCurve property</li>
+</ol>
+<div class="self-name">chargingCurve</div>
+<form class="search navbar-right" role="search">
+<input autocomplete="off" class="form-control typeahead" disabled="" id="search-box" placeholder="Loading search..." type="text"/>
+</form>
+<div class="toggle" id="theme-button" title="Toggle brightness">
+<label for="theme">
+<input id="theme" type="checkbox" value="light-theme"/>
+
+        dark_mode
+      
+
+        light_mode
+      
+</label>
+</div>
+</header>
+<main>
+<div class="main-content" data-above-sidebar="routing/BatterySpecifications-class-sidebar.html" data-below-sidebar="" id="dartdoc-main-content">
+<div>
+<h1>chargingCurve property</h1></div>
+<section class="multi-line-signature">
+        
+        Map&lt;<wbr/>double, double&gt;
+chargingCurve
+<div class="features">getter/setter pair</div>
+</section>
+<section class="desc markdown">
+<p>Function curve describing the maximum battery charging rate (in kW) at a given charge
+level (in kWh).
+Map keys represent charge levels that are non-negative floating point values
+in units of (kWh).
+Map values represent charging rate values that are positive floating point values
+in units of (kW).
+Given charge levels must cover the entire range of
+[0, /sdk-for-flutter-explore-routing-batteryspecifications-targetchargeinkilowatthours],
+otherwise the /sdk-for-flutter-explore-routing-batteryspecifications-class instance is considered invalid.
+The charging curve is considered piecewise constant instead of being interpolated.
+Defaults to an empty container.
+<strong>Note:</strong>
+For a user-planned /sdk-for-flutter-explore-routing-chargingstop-class, this parameter is also required.
+If one or more values are not set, the route calculation will fail as an invalid parameter error.</p>
+</section>
+<section class="summary source-code" id="source">
+<h2>Implementation</h2>
+<pre class="language-dart"><code class="language-dart">Map&lt;double, double&gt; chargingCurve;</code></pre>
+</section>
+</div> 
+<div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
+
+<header class="hidden-l" id="header-search-sidebar">
+<form class="search-sidebar" role="search">
+<input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
+</form>
+</header>
+<ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
+<li>/sdk-for-flutter-explore</li>
+<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li>/sdk-for-flutter-explore-routing-batteryspecifications-class</li>
+<li class="self-crumb">chargingCurve property</li>
+</ol>
+<h5>BatterySpecifications class</h5>
+<div id="dartdoc-sidebar-left-content"></div>
+</div>
+<div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
+</div>
+</main>
+<footer>
+
+    here_sdk
+      4.26.0
+  
+</footer>
+
+
+
+</div>
+`
+}</HTMLBlock>
