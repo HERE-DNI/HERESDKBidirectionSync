@@ -47,7 +47,7 @@ getMemoryManagementOptions(<wbr/>)
 <section class="desc markdown">
 <p>Returns /sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class. Gets the current memory management options.
 Returns the actual applied memory limits. If the underlying system limits exceed
-int32_t max value (2,147,483,647 KiB or ~2 TiB), the returned value is clamped to int32_t max.</p>
+<code>int32_t</code> max value (2,147,483,647 KiB or ~2 TiB), the returned value is clamped to <code>int32_t</code> max.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
 </section>
