@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "accessRestrictionReasons property"
 slug: "sdk-for-flutter-explore-search-evchargingpool-accessrestrictionreasons"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-search-evchargingpool-accessrestrictionreasons"
 `
 <div class="sdk-for-flutter">
 <!-- accessRestrictionReasons.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -51,9 +51,8 @@ Populated only for offline search and when access is /sdk-for-flutter-explore-se
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">List&lt;EVAccessRestrictionReason&gt; accessRestrictionReasons;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -77,9 +76,7 @@ Populated only for offline search and when access is /sdk-for-flutter-explore-se
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

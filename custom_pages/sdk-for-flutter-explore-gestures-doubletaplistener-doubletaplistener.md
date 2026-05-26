@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "DoubleTapListener constructor"
 slug: "sdk-for-flutter-explore-gestures-doubletaplistener-doubletaplistener"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-gestures-doubletaplistener-doubletaplistener"
 `
 <div class="sdk-for-flutter">
 <!-- DoubleTapListener.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -56,9 +56,8 @@ DoubleTapListener(<wbr/><ol class="parameter-list single-line"> <li>void onDoubl
 
 );</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -82,9 +81,7 @@ DoubleTapListener(<wbr/><ol class="parameter-list single-line"> <li>void onDoubl
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

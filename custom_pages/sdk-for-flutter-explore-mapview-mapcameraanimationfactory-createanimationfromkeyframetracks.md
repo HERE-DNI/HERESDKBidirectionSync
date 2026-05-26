@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "createAnimationFromKeyframeTracks static method"
 slug: "sdk-for-flutter-explore-mapview-mapcameraanimationfactory-createanimationfromkeyframetracks"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapcameraanimationfactory-createanimation
 `
 <div class="sdk-for-flutter">
 <!-- createAnimationFromKeyframeTracks.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -83,9 +83,8 @@ if tilt is not 0.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">static MapCameraAnimation createAnimationFromKeyframeTracks(List&lt;MapCameraKeyframeTrack&gt; tracks) =&gt; $prototype.createAnimationFromKeyframeTracks(tracks);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -109,9 +108,7 @@ if tilt is not 0.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

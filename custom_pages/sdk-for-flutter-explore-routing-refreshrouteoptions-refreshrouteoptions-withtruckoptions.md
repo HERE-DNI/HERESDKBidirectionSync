@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "RefreshRouteOptions.withTruckOptions constructor"
 slug: "sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-withtruckoptions"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-refreshrouteoptions-refreshrouteoptions-w
 `
 <div class="sdk-for-flutter">
 <!-- RefreshRouteOptions.withTruckOptions.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -53,9 +53,8 @@ an /sdk-for-flutter-explore-routing-routingerror error will be triggered.</li>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory RefreshRouteOptions.withTruckOptions(TruckOptions truckOptions) =&gt; $prototype.withTruckOptions(truckOptions);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -79,9 +78,7 @@ an /sdk-for-flutter-explore-routing-routingerror error will be triggered.</li>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

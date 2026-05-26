@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "IsolineOptions class"
 slug: "sdk-for-flutter-explore-routing-isolineoptions-class"
 ---
 
@@ -7,7 +7,30 @@ slug: "sdk-for-flutter-explore-routing-isolineoptions-class"
 `
 <div class="sdk-for-flutter">
 <!-- IsolineOptions-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/IsolineOptions-class.html#constructors">Constructors</a></li>
+<li><a class="deprecated" href="routing/IsolineOptions/IsolineOptions.withCarOptions.html">withCarOptions</a></li>
+<li><a class="deprecated" href="routing/IsolineOptions/IsolineOptions.withEVCarOptions.html">withEVCarOptions</a></li>
+<li><a class="deprecated" href="routing/IsolineOptions/IsolineOptions.withEVTruckOptions.html">withEVTruckOptions</a></li>
+<li><a href="routing/IsolineOptions/IsolineOptions.withRoutingOptions.html">withRoutingOptions</a></li>
+<li><a class="deprecated" href="routing/IsolineOptions/IsolineOptions.withTruckOptions.html">withTruckOptions</a></li>
+<li class="section-title">
+<a href="routing/IsolineOptions-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/IsolineOptions/calculationOptions.html">calculationOptions</a></li>
+<li><a class="deprecated" href="routing/IsolineOptions/carOptions.html">carOptions</a></li>
+<li><a class="deprecated" href="routing/IsolineOptions/evCarOptions.html">evCarOptions</a></li>
+<li><a class="deprecated" href="routing/IsolineOptions/evTruckOptions.html">evTruckOptions</a></li>
+<li class="inherited"><a href="routing/IsolineOptions/hashCode.html">hashCode</a></li>
+<li><a href="routing/IsolineOptions/routingOptions.html">routingOptions</a></li>
+<li class="inherited"><a href="routing/IsolineOptions/runtimeType.html">runtimeType</a></li>
+<li><a class="deprecated" href="routing/IsolineOptions/truckOptions.html">truckOptions</a></li>
+<li class="section-title inherited"><a href="routing/IsolineOptions-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/IsolineOptions/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/IsolineOptions/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="routing/IsolineOptions-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="routing/IsolineOptions/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -195,9 +218,8 @@ Mutually exclusive with /sdk-for-flutter-explore-routing-isolineoptions-caroptio
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -220,9 +242,7 @@ Mutually exclusive with /sdk-for-flutter-explore-routing-isolineoptions-caroptio
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

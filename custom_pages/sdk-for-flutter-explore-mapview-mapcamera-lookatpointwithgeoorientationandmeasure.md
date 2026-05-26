@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "lookAtPointWithGeoOrientationAndMeasure abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapcamera-lookatpointwithgeoorientationandmeasure"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapcamera-lookatpointwithgeoorientationan
 `
 <div class="sdk-for-flutter">
 <!-- lookAtPointWithGeoOrientationAndMeasure.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -71,9 +71,8 @@ zoom level.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">void lookAtPointWithGeoOrientationAndMeasure(GeoCoordinates target, GeoOrientationUpdate orientation, MapMeasure zoom);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -97,9 +96,7 @@ zoom level.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

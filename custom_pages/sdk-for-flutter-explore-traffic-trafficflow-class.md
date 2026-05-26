@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TrafficFlow class abstract"
 slug: "sdk-for-flutter-explore-traffic-trafficflow-class"
 ---
 
@@ -7,7 +7,29 @@ slug: "sdk-for-flutter-explore-traffic-trafficflow-class"
 `
 <div class="sdk-for-flutter">
 <!-- TrafficFlow-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="traffic/TrafficFlow-class.html#constructors">Constructors</a></li>
+<li><a href="traffic/TrafficFlow/TrafficFlow.html">TrafficFlow</a></li>
+<li class="section-title">
+<a href="traffic/TrafficFlow-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="traffic/TrafficFlow/confidence.html">confidence</a></li>
+<li class="inherited"><a href="traffic/TrafficFlowBase/freeFlowSpeedInMetersPerSecond.html">freeFlowSpeedInMetersPerSecond</a></li>
+<li class="inherited"><a href="traffic/TrafficFlowBase/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="traffic/TrafficFlowBase/jamFactor.html">jamFactor</a></li>
+<li><a href="traffic/TrafficFlow/jamTendency.html">jamTendency</a></li>
+<li><a href="traffic/TrafficFlow/junctionsTraversability.html">junctionsTraversability</a></li>
+<li><a href="traffic/TrafficFlow/location.html">location</a></li>
+<li class="inherited"><a href="traffic/TrafficFlowBase/runtimeType.html">runtimeType</a></li>
+<li><a href="traffic/TrafficFlow/speedInMetersPerSecond.html">speedInMetersPerSecond</a></li>
+<li><a href="traffic/TrafficFlow/speedUncappedInMetersPerSecond.html">speedUncappedInMetersPerSecond</a></li>
+<li><a href="traffic/TrafficFlow/traversability.html">traversability</a></li>
+<li class="section-title inherited"><a href="traffic/TrafficFlow-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="traffic/TrafficFlowBase/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="traffic/TrafficFlowBase/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="traffic/TrafficFlow-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="traffic/TrafficFlowBase/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -208,9 +230,8 @@ Gets the traversability of roadway.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -233,9 +254,7 @@ Gets the traversability of roadway.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

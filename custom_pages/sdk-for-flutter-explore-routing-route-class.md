@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Route class abstract"
 slug: "sdk-for-flutter-explore-routing-route-class"
 ---
 
@@ -7,7 +7,37 @@ slug: "sdk-for-flutter-explore-routing-route-class"
 `
 <div class="sdk-for-flutter">
 <!-- Route-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/Route-class.html#constructors">Constructors</a></li>
+<li><a href="routing/Route/Route.html">Route</a></li>
+<li class="section-title">
+<a href="routing/Route-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/Route/boundingBox.html">boundingBox</a></li>
+<li><a href="routing/Route/consumptionInKilowattHours.html">consumptionInKilowattHours</a></li>
+<li><a href="routing/Route/duration.html">duration</a></li>
+<li><a href="routing/Route/geometry.html">geometry</a></li>
+<li class="inherited"><a href="routing/Route/hashCode.html">hashCode</a></li>
+<li><a href="routing/Route/language.html">language</a></li>
+<li><a href="routing/Route/lengthInMeters.html">lengthInMeters</a></li>
+<li><a href="routing/Route/optimizationMode.html">optimizationMode</a></li>
+<li><a href="routing/Route/railwayCrossings.html">railwayCrossings</a></li>
+<li><a href="routing/Route/requestedTransportMode.html">requestedTransportMode</a></li>
+<li><a href="routing/Route/routeHandle.html">routeHandle</a></li>
+<li><a href="routing/Route/routeLabels.html">routeLabels</a></li>
+<li><a href="routing/Route/routingOptions.html">routingOptions</a></li>
+<li class="inherited"><a href="routing/Route/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/Route/sections.html">sections</a></li>
+<li><a href="routing/Route/trafficDelay.html">trafficDelay</a></li>
+<li class="section-title inherited"><a href="routing/Route-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/Route/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/Route/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="routing/Route-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="routing/Route/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="routing/Route-class.html#static-methods">Static methods</a></li>
+<li><a href="routing/Route/deserialize.html">deserialize</a></li>
+<li><a href="routing/Route/serialize.html">serialize</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -276,9 +306,8 @@ indicate that the route can be traversed faster than usual.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -301,9 +330,7 @@ indicate that the route can be traversed faster than usual.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

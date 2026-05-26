@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "setMarker3dModel abstract method"
 slug: "sdk-for-flutter-explore-mapview-locationindicator-setmarker3dmodel"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-locationindicator-setmarker3dmodel"
 `
 <div class="sdk-for-flutter">
 <!-- setMarker3dModel.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -83,9 +83,8 @@ To display a unit qube of 1x1x1 meter as is, please use a scale value of 6.0.</p
 
 void setMarker3dModel(MapMarker3DModel model, double scale, LocationIndicatorMarkerType type);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -109,9 +108,7 @@ void setMarker3dModel(MapMarker3DModel model, double scale, LocationIndicatorMar
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

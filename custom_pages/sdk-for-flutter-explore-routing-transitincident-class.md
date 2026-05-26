@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TransitIncident class"
 slug: "sdk-for-flutter-explore-routing-transitincident-class"
 ---
 
@@ -7,7 +7,27 @@ slug: "sdk-for-flutter-explore-routing-transitincident-class"
 `
 <div class="sdk-for-flutter">
 <!-- TransitIncident-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/TransitIncident-class.html#constructors">Constructors</a></li>
+<li><a href="routing/TransitIncident/TransitIncident.html">TransitIncident</a></li>
+<li class="section-title">
+<a href="routing/TransitIncident-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/TransitIncident/description.html">description</a></li>
+<li><a href="routing/TransitIncident/effect.html">effect</a></li>
+<li><a href="routing/TransitIncident/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="routing/TransitIncident/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/TransitIncident/summary.html">summary</a></li>
+<li><a href="routing/TransitIncident/type.html">type</a></li>
+<li><a href="routing/TransitIncident/url.html">url</a></li>
+<li><a href="routing/TransitIncident/validFrom.html">validFrom</a></li>
+<li><a href="routing/TransitIncident/validUntil.html">validUntil</a></li>
+<li class="section-title inherited"><a href="routing/TransitIncident-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/TransitIncident/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/TransitIncident/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/TransitIncident-class.html#operators">Operators</a></li>
+<li><a href="routing/TransitIncident/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -166,9 +186,8 @@ menu
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -191,9 +210,7 @@ menu
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

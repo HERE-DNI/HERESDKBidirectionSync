@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TransportSpecification class"
 slug: "sdk-for-flutter-explore-transport-transportspecification-class"
 ---
 
@@ -7,7 +7,25 @@ slug: "sdk-for-flutter-explore-transport-transportspecification-class"
 `
 <div class="sdk-for-flutter">
 <!-- TransportSpecification-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="transport/TransportSpecification-class.html#constructors">Constructors</a></li>
+<li><a href="transport/TransportSpecification/TransportSpecification.html">TransportSpecification</a></li>
+<li class="section-title">
+<a href="transport/TransportSpecification-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="transport/TransportSpecification/hashCode.html">hashCode</a></li>
+<li><a href="transport/TransportSpecification/pedestrianSpecification.html">pedestrianSpecification</a></li>
+<li class="inherited"><a href="transport/TransportSpecification/runtimeType.html">runtimeType</a></li>
+<li><a href="transport/TransportSpecification/scooterSpecification.html">scooterSpecification</a></li>
+<li><a href="transport/TransportSpecification/taxiSpecification.html">taxiSpecification</a></li>
+<li><a href="transport/TransportSpecification/transportMode.html">transportMode</a></li>
+<li><a href="transport/TransportSpecification/vehicleSpecification.html">vehicleSpecification</a></li>
+<li class="section-title inherited"><a href="transport/TransportSpecification-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="transport/TransportSpecification/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="transport/TransportSpecification/toString.html">toString</a></li>
+<li class="section-title"><a href="transport/TransportSpecification-class.html#operators">Operators</a></li>
+<li><a href="transport/TransportSpecification/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -159,9 +177,8 @@ By default, it is not set.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -184,9 +201,7 @@ By default, it is not set.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

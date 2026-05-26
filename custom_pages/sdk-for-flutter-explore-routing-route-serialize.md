@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "serialize static method"
 slug: "sdk-for-flutter-explore-routing-route-serialize"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-route-serialize"
 `
 <div class="sdk-for-flutter">
 <!-- serialize.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -58,9 +58,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">static Uint8List? serialize(Route route) =&gt; $prototype.serialize(route);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -84,9 +83,7 @@ Related APIs may change for new releases without a deprecation process.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

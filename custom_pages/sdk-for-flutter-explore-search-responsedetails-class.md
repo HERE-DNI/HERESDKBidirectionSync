@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "ResponseDetails class"
 slug: "sdk-for-flutter-explore-search-responsedetails-class"
 ---
 
@@ -7,7 +7,22 @@ slug: "sdk-for-flutter-explore-search-responsedetails-class"
 `
 <div class="sdk-for-flutter">
 <!-- ResponseDetails-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/ResponseDetails-class.html#constructors">Constructors</a></li>
+<li><a href="search/ResponseDetails/ResponseDetails.html">ResponseDetails</a></li>
+<li class="section-title">
+<a href="search/ResponseDetails-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/ResponseDetails/correlationId.html">correlationId</a></li>
+<li><a href="search/ResponseDetails/hashCode.html">hashCode</a></li>
+<li><a href="search/ResponseDetails/requestId.html">requestId</a></li>
+<li class="inherited"><a href="search/ResponseDetails/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="search/ResponseDetails-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/ResponseDetails/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/ResponseDetails/toString.html">toString</a></li>
+<li class="section-title"><a href="search/ResponseDetails-class.html#operators">Operators</a></li>
+<li><a href="search/ResponseDetails/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -125,9 +140,8 @@ menu
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -150,9 +164,7 @@ menu
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

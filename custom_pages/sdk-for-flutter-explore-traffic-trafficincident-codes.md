@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "codes property"
 slug: "sdk-for-flutter-explore-traffic-trafficincident-codes"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-traffic-trafficincident-codes"
 `
 <div class="sdk-for-flutter">
 <!-- codes.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -52,9 +52,8 @@ Gets the list of standardized codes as categorized in ISO 14819-2:2013 standard 
 <pre class="language-dart"><code class="language-dart">List&lt;int&gt; get codes;</code></pre>
 </section>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -78,9 +77,7 @@ Gets the list of standardized codes as categorized in ISO 14819-2:2013 standard 
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

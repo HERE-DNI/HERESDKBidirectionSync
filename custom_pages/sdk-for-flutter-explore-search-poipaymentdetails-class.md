@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "POIPaymentDetails class"
 slug: "sdk-for-flutter-explore-search-poipaymentdetails-class"
 ---
 
@@ -7,7 +7,22 @@ slug: "sdk-for-flutter-explore-search-poipaymentdetails-class"
 `
 <div class="sdk-for-flutter">
 <!-- POIPaymentDetails-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/POIPaymentDetails-class.html#constructors">Constructors</a></li>
+<li><a href="search/POIPaymentDetails/POIPaymentDetails.html">POIPaymentDetails</a></li>
+<li class="section-title">
+<a href="search/POIPaymentDetails-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/POIPaymentDetails/acceptedCashCurrencies.html">acceptedCashCurrencies</a></li>
+<li><a href="search/POIPaymentDetails/acceptedMethods.html">acceptedMethods</a></li>
+<li><a href="search/POIPaymentDetails/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="search/POIPaymentDetails/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="search/POIPaymentDetails-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/POIPaymentDetails/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/POIPaymentDetails/toString.html">toString</a></li>
+<li class="section-title"><a href="search/POIPaymentDetails-class.html#operators">Operators</a></li>
+<li><a href="search/POIPaymentDetails/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -132,9 +147,8 @@ Currently supported methods are defined in /sdk-for-flutter-explore-search-poipa
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -157,9 +171,7 @@ Currently supported methods are defined in /sdk-for-flutter-explore-search-poipa
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

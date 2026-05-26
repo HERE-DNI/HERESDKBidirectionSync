@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PhysicalConsumptionModel constructor"
 slug: "sdk-for-flutter-explore-routing-physicalconsumptionmodel-physicalconsumptionmodel"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-physicalconsumptionmodel-physicalconsumpt
 `
 <div class="sdk-for-flutter">
 <!-- PhysicalConsumptionModel.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -45,9 +45,8 @@ PhysicalConsumptionModel(<wbr/>)
 <pre class="language-dart"><code class="language-dart">PhysicalConsumptionModel()
   : driveTrainEfficiency = 0.1, recuperationEfficiency = 0.1, auxiliaryPowerConsumptionInWatts = 0.1, frontalAreaInSquareMeters = 0.5, rollingResistanceCoefficient = 0.1, airDragCoefficient = 0.1;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -71,9 +70,7 @@ PhysicalConsumptionModel(<wbr/>)
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

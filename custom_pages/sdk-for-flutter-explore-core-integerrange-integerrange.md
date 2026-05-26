@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "IntegerRange constructor"
 slug: "sdk-for-flutter-explore-core-integerrange-integerrange"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-integerrange-integerrange"
 `
 <div class="sdk-for-flutter">
 <!-- IntegerRange.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -46,9 +46,8 @@ IntegerRange(<wbr/><ol class="parameter-list single-line"> <li>int min</li>
 <pre class="language-dart"><code class="language-dart">IntegerRange(int min)
   : min = min, max = null;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -72,9 +71,7 @@ IntegerRange(<wbr/><ol class="parameter-list single-line"> <li>int min</li>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

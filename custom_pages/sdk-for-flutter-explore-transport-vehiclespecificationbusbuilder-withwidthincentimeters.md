@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "withWidthInCentimeters abstract method"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationbusbuilder-withwidthincentimeters"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationbusbuilder-withwidt
 `
 <div class="sdk-for-flutter">
 <!-- withWidthInCentimeters.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -56,9 +56,8 @@ withWidthInCentimeters(<wbr/><ol class="parameter-list single-line"> <li>int wid
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">VehicleSpecificationBusBuilder withWidthInCentimeters(int widthInCentimeters);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -82,9 +81,7 @@ withWidthInCentimeters(<wbr/><ol class="parameter-list single-line"> <li>int wid
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

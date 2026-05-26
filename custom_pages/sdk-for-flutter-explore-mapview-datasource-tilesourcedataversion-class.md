@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TileSourceDataVersion class"
 slug: "sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class"
 ---
 
@@ -7,7 +7,22 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class"
 `
 <div class="sdk-for-flutter">
 <!-- TileSourceDataVersion-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview.datasource/TileSourceDataVersion-class.html#constructors">Constructors</a></li>
+<li><a href="mapview.datasource/TileSourceDataVersion/TileSourceDataVersion.html">TileSourceDataVersion</a></li>
+<li class="section-title">
+<a href="mapview.datasource/TileSourceDataVersion-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview.datasource/TileSourceDataVersion/hashCode.html">hashCode</a></li>
+<li><a href="mapview.datasource/TileSourceDataVersion/majorVersion.html">majorVersion</a></li>
+<li><a href="mapview.datasource/TileSourceDataVersion/minorVersion.html">minorVersion</a></li>
+<li class="inherited"><a href="mapview.datasource/TileSourceDataVersion/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="mapview.datasource/TileSourceDataVersion-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="mapview.datasource/TileSourceDataVersion/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="mapview.datasource/TileSourceDataVersion/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview.datasource/TileSourceDataVersion-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview.datasource/TileSourceDataVersion/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -128,9 +143,8 @@ Describes changes in underlying data that would not require a complete reload
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -153,9 +167,7 @@ Describes changes in underlying data that would not require a complete reload
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

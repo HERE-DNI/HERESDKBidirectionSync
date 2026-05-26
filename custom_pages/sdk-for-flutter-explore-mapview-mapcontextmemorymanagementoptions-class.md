@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapContextMemoryManagementOptions class"
 slug: "sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapContextMemoryManagementOptions-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/MapContextMemoryManagementOptions-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/MapContextMemoryManagementOptions/MapContextMemoryManagementOptions.html">MapContextMemoryManagementOptions</a></li>
+<li class="section-title">
+<a href="mapview/MapContextMemoryManagementOptions-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview/MapContextMemoryManagementOptions/hashCode.html">hashCode</a></li>
+<li><a href="mapview/MapContextMemoryManagementOptions/memoryManagementStrategy.html">memoryManagementStrategy</a></li>
+<li class="inherited"><a href="mapview/MapContextMemoryManagementOptions/runtimeType.html">runtimeType</a></li>
+<li><a href="mapview/MapContextMemoryManagementOptions/tileCacheMemoryLimitInKiB.html">tileCacheMemoryLimitInKiB</a></li>
+<li><a href="mapview/MapContextMemoryManagementOptions/videoMemoryLimitInKiB.html">videoMemoryLimitInKiB</a></li>
+<li class="section-title inherited"><a href="mapview/MapContextMemoryManagementOptions-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="mapview/MapContextMemoryManagementOptions/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="mapview/MapContextMemoryManagementOptions/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview/MapContextMemoryManagementOptions-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/MapContextMemoryManagementOptions/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -144,9 +160,8 @@ Default value is <code>null</code>.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -169,9 +184,7 @@ Default value is <code>null</code>.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

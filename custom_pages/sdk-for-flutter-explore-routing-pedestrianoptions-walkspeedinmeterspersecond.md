@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "walkSpeedInMetersPerSecond property"
 slug: "sdk-for-flutter-explore-routing-pedestrianoptions-walkspeedinmeterspersecond"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-pedestrianoptions-walkspeedinmeterspersec
 `
 <div class="sdk-for-flutter">
 <!-- walkSpeedInMetersPerSecond.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -55,9 +55,8 @@ speed is 1 meter per second.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">double walkSpeedInMetersPerSecond;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -81,9 +80,7 @@ speed is 1 meter per second.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

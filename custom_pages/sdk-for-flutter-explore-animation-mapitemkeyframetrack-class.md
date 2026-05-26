@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapItemKeyFrameTrack class abstract"
 slug: "sdk-for-flutter-explore-animation-mapitemkeyframetrack-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-animation-mapitemkeyframetrack-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapItemKeyFrameTrack-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="animation/MapItemKeyFrameTrack-class.html#constructors">Constructors</a></li>
+<li><a href="animation/MapItemKeyFrameTrack/MapItemKeyFrameTrack.html">MapItemKeyFrameTrack</a></li>
+<li class="section-title inherited">
+<a href="animation/MapItemKeyFrameTrack-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="animation/MapItemKeyFrameTrack/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="animation/MapItemKeyFrameTrack/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="animation/MapItemKeyFrameTrack-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="animation/MapItemKeyFrameTrack/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="animation/MapItemKeyFrameTrack/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="animation/MapItemKeyFrameTrack-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="animation/MapItemKeyFrameTrack/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="animation/MapItemKeyFrameTrack-class.html#static-methods">Static methods</a></li>
+<li><a href="animation/MapItemKeyFrameTrack/moveToWithEasing.html">moveToWithEasing</a></li>
+<li><a href="animation/MapItemKeyFrameTrack/polylineProgressWithEasing.html">polylineProgressWithEasing</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -135,9 +151,8 @@ see /sdk-for-flutter-explore-animation-mapmarkeranimation-class and /sdk-for-flu
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -160,9 +175,7 @@ see /sdk-for-flutter-explore-animation-mapmarkeranimation-class and /sdk-for-flu
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "VehicleSpecificationCarBuilder class abstract"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class"
 ---
 
@@ -7,7 +7,39 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class"
 `
 <div class="sdk-for-flutter">
 <!-- VehicleSpecificationCarBuilder-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="transport/VehicleSpecificationCarBuilder-class.html#constructors">Constructors</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/VehicleSpecificationCarBuilder.html">VehicleSpecificationCarBuilder</a></li>
+<li class="section-title inherited">
+<a href="transport/VehicleSpecificationCarBuilder-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="transport/VehicleSpecificationCarBuilder/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="transport/VehicleSpecificationCarBuilder/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="transport/VehicleSpecificationCarBuilder-class.html#instance-methods">Methods</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/build.html">build</a></li>
+<li class="inherited"><a href="transport/VehicleSpecificationCarBuilder/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="transport/VehicleSpecificationCarBuilder/toString.html">toString</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/withAxleCount.html">withAxleCount</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/withCurrentWeightInKilograms.html">withCurrentWeightInKilograms</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/withEmptyWeightInKilograms.html">withEmptyWeightInKilograms</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/withEngineSizeInCubicCentimeters.html">withEngineSizeInCubicCentimeters</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/withGrossWeightInKilograms.html">withGrossWeightInKilograms</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/withHeightInCentimeters.html">withHeightInCentimeters</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/withIsCommercial.html">withIsCommercial</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/withKingpinToRearAxleDistanceInCentimeters.html">withKingpinToRearAxleDistanceInCentimeters</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/withLastCharacterOfLicensePlate.html">withLastCharacterOfLicensePlate</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/withLengthInCentimeters.html">withLengthInCentimeters</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/withOccupancy.html">withOccupancy</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/withPayloadCapacityInKilograms.html">withPayloadCapacityInKilograms</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/withTiresCount.html">withTiresCount</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/withTrailerAxleCount.html">withTrailerAxleCount</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/withTrailerCount.html">withTrailerCount</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/withTunnelCategory.html">withTunnelCategory</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/withWeightPerAxleInKilograms.html">withWeightPerAxleInKilograms</a></li>
+<li><a href="transport/VehicleSpecificationCarBuilder/withWidthInCentimeters.html">withWidthInCentimeters</a></li>
+<li class="section-title inherited"><a href="transport/VehicleSpecificationCarBuilder-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="transport/VehicleSpecificationCarBuilder/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -300,9 +332,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -325,9 +356,7 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

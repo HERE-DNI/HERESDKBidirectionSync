@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "AuthenticationData class"
 slug: "sdk-for-flutter-explore-core-authenticationdata-class"
 ---
 
@@ -7,7 +7,22 @@ slug: "sdk-for-flutter-explore-core-authenticationdata-class"
 `
 <div class="sdk-for-flutter">
 <!-- AuthenticationData-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core/AuthenticationData-class.html#constructors">Constructors</a></li>
+<li><a href="core/AuthenticationData/AuthenticationData.html">AuthenticationData</a></li>
+<li class="section-title">
+<a href="core/AuthenticationData-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="core/AuthenticationData/expiryTime.html">expiryTime</a></li>
+<li><a href="core/AuthenticationData/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="core/AuthenticationData/runtimeType.html">runtimeType</a></li>
+<li><a href="core/AuthenticationData/token.html">token</a></li>
+<li class="section-title inherited"><a href="core/AuthenticationData-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="core/AuthenticationData/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core/AuthenticationData/toString.html">toString</a></li>
+<li class="section-title"><a href="core/AuthenticationData-class.html#operators">Operators</a></li>
+<li><a href="core/AuthenticationData/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -127,9 +142,8 @@ Defaults to an empty string.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -152,9 +166,7 @@ Defaults to an empty string.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

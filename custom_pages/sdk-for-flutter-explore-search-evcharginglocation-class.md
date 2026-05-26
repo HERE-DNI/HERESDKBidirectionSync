@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVChargingLocation class abstract"
 slug: "sdk-for-flutter-explore-search-evcharginglocation-class"
 ---
 
@@ -7,7 +7,38 @@ slug: "sdk-for-flutter-explore-search-evcharginglocation-class"
 `
 <div class="sdk-for-flutter">
 <!-- EVChargingLocation-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/EVChargingLocation-class.html#constructors">Constructors</a></li>
+<li><a href="search/EVChargingLocation/EVChargingLocation.html">EVChargingLocation</a></li>
+<li class="section-title">
+<a href="search/EVChargingLocation-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/EVChargingLocation/connectorGroups.html">connectorGroups</a></li>
+<li><a href="search/EVChargingLocation/cpoID.html">cpoID</a></li>
+<li><a href="search/EVChargingLocation/eMobilityServiceProviders.html">eMobilityServiceProviders</a></li>
+<li><a href="search/EVChargingLocation/energyMix.html">energyMix</a></li>
+<li><a href="search/EVChargingLocation/evChargingOperator.html">evChargingOperator</a></li>
+<li><a href="search/EVChargingLocation/evChargingSubOperator.html">evChargingSubOperator</a></li>
+<li><a href="search/EVChargingLocation/evses.html">evses</a></li>
+<li><a href="search/EVChargingLocation/facilityTypes.html">facilityTypes</a></li>
+<li class="inherited"><a href="search/EVChargingLocation/hashCode.html">hashCode</a></li>
+<li><a href="search/EVChargingLocation/id.html">id</a></li>
+<li><a href="search/EVChargingLocation/name.html">name</a></li>
+<li><a href="search/EVChargingLocation/openingHours.html">openingHours</a></li>
+<li><a href="search/EVChargingLocation/parkingType.html">parkingType</a></li>
+<li><a href="search/EVChargingLocation/restrictions.html">restrictions</a></li>
+<li class="inherited"><a href="search/EVChargingLocation/runtimeType.html">runtimeType</a></li>
+<li><a href="search/EVChargingLocation/supportedVehicles.html">supportedVehicles</a></li>
+<li><a href="search/EVChargingLocation/supportPhoneNumber.html">supportPhoneNumber</a></li>
+<li><a href="search/EVChargingLocation/tariffs.html">tariffs</a></li>
+<li><a href="search/EVChargingLocation/timeZone.html">timeZone</a></li>
+<li><a href="search/EVChargingLocation/truckRestrictions.html">truckRestrictions</a></li>
+<li class="section-title inherited"><a href="search/EVChargingLocation-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/EVChargingLocation/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/EVChargingLocation/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="search/EVChargingLocation-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="search/EVChargingLocation/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -317,9 +348,8 @@ Gets the access restrictions for trucks and light commercial vehicles.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -342,9 +372,7 @@ Gets the access restrictions for trucks and light commercial vehicles.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "registerFontWithFallback abstract method"
 slug: "sdk-for-flutter-explore-mapview-assetsmanager-registerfontwithfallback"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-assetsmanager-registerfontwithfallback"
 `
 <div class="sdk-for-flutter">
 <!-- registerFontWithFallback.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -73,9 +73,8 @@ does not contain required character symbol and shall be sorted starting from mos
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">void registerFontWithFallback(String fontName, String fontPath, List&lt;String&gt; fallbackFontFilePaths);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -99,9 +98,7 @@ does not contain required character symbol and shall be sorted starting from mos
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

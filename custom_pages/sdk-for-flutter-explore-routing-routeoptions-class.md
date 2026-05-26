@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "RouteOptions class"
 slug: "sdk-for-flutter-explore-routing-routeoptions-class"
 ---
 
@@ -7,7 +7,31 @@ slug: "sdk-for-flutter-explore-routing-routeoptions-class"
 `
 <div class="sdk-for-flutter">
 <!-- RouteOptions-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/RouteOptions-class.html#constructors">Constructors</a></li>
+<li><a href="routing/RouteOptions/RouteOptions.html">RouteOptions</a></li>
+<li><a href="routing/RouteOptions/RouteOptions.withDefaults.html">withDefaults</a></li>
+<li class="section-title">
+<a href="routing/RouteOptions-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/RouteOptions/alternatives.html">alternatives</a></li>
+<li><a href="routing/RouteOptions/arrivalTime.html">arrivalTime</a></li>
+<li><a href="routing/RouteOptions/departureTime.html">departureTime</a></li>
+<li><a href="routing/RouteOptions/enableRouteHandle.html">enableRouteHandle</a></li>
+<li><a href="routing/RouteOptions/enableRouteLabels.html">enableRouteLabels</a></li>
+<li><a href="routing/RouteOptions/enableTolls.html">enableTolls</a></li>
+<li><a href="routing/RouteOptions/hashCode.html">hashCode</a></li>
+<li><a href="routing/RouteOptions/optimizationMode.html">optimizationMode</a></li>
+<li><a href="routing/RouteOptions/optimizeWaypointsOrder.html">optimizeWaypointsOrder</a></li>
+<li class="inherited"><a href="routing/RouteOptions/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/RouteOptions/speedCapInMetersPerSecond.html">speedCapInMetersPerSecond</a></li>
+<li><a href="routing/RouteOptions/trafficOptimizationMode.html">trafficOptimizationMode</a></li>
+<li class="section-title inherited"><a href="routing/RouteOptions-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/RouteOptions/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/RouteOptions/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/RouteOptions-class.html#operators">Operators</a></li>
+<li><a href="routing/RouteOptions/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -226,9 +250,8 @@ which means that no speed cap is set.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -251,9 +274,7 @@ which means that no speed cap is set.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

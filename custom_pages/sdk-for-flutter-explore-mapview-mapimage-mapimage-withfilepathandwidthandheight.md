@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapImage.withFilePathAndWidthAndHeight constructor"
 slug: "sdk-for-flutter-explore-mapview-mapimage-mapimage-withfilepathandwidthandheight"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapimage-mapimage-withfilepathandwidthand
 `
 <div class="sdk-for-flutter">
 <!-- MapImage.withFilePathAndWidthAndHeight.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -73,9 +73,8 @@ can be deleted by the system while the application is still running.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory MapImage.withFilePathAndWidthAndHeight(String filePath, int width, int height) =&gt; $prototype.withFilePathAndWidthAndHeight(filePath, width, height);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -99,9 +98,7 @@ can be deleted by the system while the application is still running.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

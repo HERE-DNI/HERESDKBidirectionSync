@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Address class"
 slug: "sdk-for-flutter-explore-search-address-class"
 ---
 
@@ -7,7 +7,35 @@ slug: "sdk-for-flutter-explore-search-address-class"
 `
 <div class="sdk-for-flutter">
 <!-- Address-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/Address-class.html#constructors">Constructors</a></li>
+<li><a href="search/Address/Address.html">Address</a></li>
+<li class="section-title">
+<a href="search/Address-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/Address/addressText.html">addressText</a></li>
+<li><a href="search/Address/block.html">block</a></li>
+<li><a href="search/Address/city.html">city</a></li>
+<li><a href="search/Address/country.html">country</a></li>
+<li><a href="search/Address/countryCode.html">countryCode</a></li>
+<li><a href="search/Address/county.html">county</a></li>
+<li><a href="search/Address/district.html">district</a></li>
+<li><a href="search/Address/hashCode.html">hashCode</a></li>
+<li><a href="search/Address/houseNumOrName.html">houseNumOrName</a></li>
+<li><a href="search/Address/postalCode.html">postalCode</a></li>
+<li class="inherited"><a href="search/Address/runtimeType.html">runtimeType</a></li>
+<li><a href="search/Address/state.html">state</a></li>
+<li><a href="search/Address/stateCode.html">stateCode</a></li>
+<li><a href="search/Address/street.html">street</a></li>
+<li><a href="search/Address/subBlock.html">subBlock</a></li>
+<li><a href="search/Address/subdistrict.html">subdistrict</a></li>
+<li><a href="search/Address/type.html">type</a></li>
+<li class="section-title inherited"><a href="search/Address-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/Address/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/Address/toString.html">toString</a></li>
+<li class="section-title"><a href="search/Address-class.html#operators">Operators</a></li>
+<li><a href="search/Address/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -257,9 +285,8 @@ Note: This String can be empty when no data is available.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -282,9 +309,7 @@ Note: This String can be empty when no data is available.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

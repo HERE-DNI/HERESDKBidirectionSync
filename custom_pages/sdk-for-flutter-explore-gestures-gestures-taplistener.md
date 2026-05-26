@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "tapListener property"
 slug: "sdk-for-flutter-explore-gestures-gestures-taplistener"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-gestures-gestures-taplistener"
 `
 <div class="sdk-for-flutter">
 <!-- tapListener.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -65,9 +65,8 @@ Sets a /sdk-for-flutter-explore-gestures-taplistener-class that notifies when a 
 <pre class="language-dart"><code class="language-dart">set tapListener(TapListener? value);</code></pre>
 </section>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -91,9 +90,7 @@ Sets a /sdk-for-flutter-explore-gestures-taplistener-class that notifies when a 
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SDKVersion constructor"
 slug: "sdk-for-flutter-explore-core-engine-sdkversion-sdkversion"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-engine-sdkversion-sdkversion"
 `
 <div class="sdk-for-flutter">
 <!-- SDKVersion.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -67,9 +67,8 @@ SDKVersion(<wbr/><ol class="parameter-list"> <li>String productVariant, </li>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">SDKVersion(this.productVariant, this.versionName, this.versionGeneration, this.versionMajor, this.versionMinor, this.versionPatch, this.versionBuild, this.versionTag, this.backendConfig);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -93,9 +92,7 @@ SDKVersion(<wbr/><ol class="parameter-list"> <li>String productVariant, </li>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

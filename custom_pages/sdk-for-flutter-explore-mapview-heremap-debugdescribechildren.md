@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "debugDescribeChildren method"
 slug: "sdk-for-flutter-explore-mapview-heremap-debugdescribechildren"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-heremap-debugdescribechildren"
 `
 <div class="sdk-for-flutter">
 <!-- debugDescribeChildren.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -69,9 +69,8 @@ descriptions for its child nodes.</li>
 <pre class="language-dart"><code class="language-dart">@protected
 List&lt;DiagnosticsNode&gt; debugDescribeChildren() =&gt; const &lt;DiagnosticsNode&gt;[];</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -95,9 +94,7 @@ List&lt;DiagnosticsNode&gt; debugDescribeChildren() =&gt; const &lt;DiagnosticsN
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

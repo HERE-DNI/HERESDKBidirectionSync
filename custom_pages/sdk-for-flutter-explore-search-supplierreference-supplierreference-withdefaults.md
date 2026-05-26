@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SupplierReference.withDefaults constructor"
 slug: "sdk-for-flutter-explore-search-supplierreference-supplierreference-withdefaults"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-search-supplierreference-supplierreference-withde
 `
 <div class="sdk-for-flutter">
 <!-- SupplierReference.withDefaults.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -48,9 +48,8 @@ SupplierReference.withDefaults(<wbr/>)
 <pre class="language-dart"><code class="language-dart">SupplierReference.withDefaults()
     : supplier = "", id = "";</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -74,9 +73,7 @@ SupplierReference.withDefaults(<wbr/>)
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

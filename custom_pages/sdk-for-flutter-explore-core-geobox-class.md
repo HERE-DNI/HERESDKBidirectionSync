@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "GeoBox class"
 slug: "sdk-for-flutter-explore-core-geobox-class"
 ---
 
@@ -7,7 +7,32 @@ slug: "sdk-for-flutter-explore-core-geobox-class"
 `
 <div class="sdk-for-flutter">
 <!-- GeoBox-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core/GeoBox-class.html#constructors">Constructors</a></li>
+<li><a href="core/GeoBox/GeoBox.html">GeoBox</a></li>
+<li class="section-title">
+<a href="core/GeoBox-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="core/GeoBox/hashCode.html">hashCode</a></li>
+<li><a href="core/GeoBox/northEastCorner.html">northEastCorner</a></li>
+<li class="inherited"><a href="core/GeoBox/runtimeType.html">runtimeType</a></li>
+<li><a href="core/GeoBox/southWestCorner.html">southWestCorner</a></li>
+<li class="section-title"><a href="core/GeoBox-class.html#instance-methods">Methods</a></li>
+<li><a href="core/GeoBox/containsGeoBox.html">containsGeoBox</a></li>
+<li><a href="core/GeoBox/containsGeoCoordinates.html">containsGeoCoordinates</a></li>
+<li><a href="core/GeoBox/envelope.html">envelope</a></li>
+<li><a href="core/GeoBox/expandedBy.html">expandedBy</a></li>
+<li><a href="core/GeoBox/intersection.html">intersection</a></li>
+<li><a href="core/GeoBox/intersects.html">intersects</a></li>
+<li class="inherited"><a href="core/GeoBox/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core/GeoBox/toString.html">toString</a></li>
+<li class="section-title"><a href="core/GeoBox-class.html#operators">Operators</a></li>
+<li><a href="core/GeoBox/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="core/GeoBox-class.html#static-methods">Static methods</a></li>
+<li><a href="core/GeoBox/containingGeoCoordinates.html">containingGeoCoordinates</a></li>
+<li><a href="core/GeoBox/envelopeGeoBoxes.html">envelopeGeoBoxes</a></li>
+<li><a href="core/GeoBox/intersectionGeoBoxes.html">intersectionGeoBoxes</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -239,9 +264,8 @@ GeoBox and the specified <code>GeoBox</code>.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -264,9 +288,7 @@ GeoBox and the specified <code>GeoBox</code>.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

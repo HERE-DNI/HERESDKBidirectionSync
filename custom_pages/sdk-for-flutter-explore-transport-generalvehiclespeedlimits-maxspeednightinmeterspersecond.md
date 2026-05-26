@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "maxSpeedNightInMetersPerSecond property"
 slug: "sdk-for-flutter-explore-transport-generalvehiclespeedlimits-maxspeednightinmeterspersecond"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-transport-generalvehiclespeedlimits-maxspeednight
 `
 <div class="sdk-for-flutter">
 <!-- maxSpeedNightInMetersPerSecond.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -51,9 +51,8 @@ It is <code>null</code> if the general speed limit at night for the country / st
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">double? maxSpeedNightInMetersPerSecond;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -77,9 +76,7 @@ It is <code>null</code> if the general speed limit at night for the country / st
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

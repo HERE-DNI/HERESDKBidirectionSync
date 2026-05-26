@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "add abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-polygondatasource-add"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-datasource-polygondatasource-add"
 `
 <div class="sdk-for-flutter">
 <!-- add.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -55,9 +55,8 @@ add(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-m
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">void add(PolygonData polygon);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -81,9 +80,7 @@ add(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-m
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

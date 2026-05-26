@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "opacity property"
 slug: "sdk-for-flutter-explore-mapview-mapmarker-opacity"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker-opacity"
 `
 <div class="sdk-for-flutter">
 <!-- opacity.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -69,9 +69,8 @@ which means marker is displayed with the default opacity of the image.</p>
 <pre class="language-dart"><code class="language-dart">set opacity(double value);</code></pre>
 </section>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -95,9 +94,7 @@ which means marker is displayed with the default opacity of the image.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

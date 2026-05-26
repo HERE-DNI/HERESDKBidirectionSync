@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TollFarePass class"
 slug: "sdk-for-flutter-explore-routing-tollfarepass-class"
 ---
 
@@ -7,7 +7,25 @@ slug: "sdk-for-flutter-explore-routing-tollfarepass-class"
 `
 <div class="sdk-for-flutter">
 <!-- TollFarePass-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/TollFarePass-class.html#constructors">Constructors</a></li>
+<li><a href="routing/TollFarePass/TollFarePass.html">TollFarePass</a></li>
+<li class="section-title">
+<a href="routing/TollFarePass-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/TollFarePass/hashCode.html">hashCode</a></li>
+<li><a href="routing/TollFarePass/returnJourney.html">returnJourney</a></li>
+<li class="inherited"><a href="routing/TollFarePass/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/TollFarePass/seniorPass.html">seniorPass</a></li>
+<li><a href="routing/TollFarePass/transfers.html">transfers</a></li>
+<li><a href="routing/TollFarePass/travels.html">travels</a></li>
+<li><a href="routing/TollFarePass/validityPeriod.html">validityPeriod</a></li>
+<li class="section-title inherited"><a href="routing/TollFarePass-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/TollFarePass/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/TollFarePass/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/TollFarePass-class.html#operators">Operators</a></li>
+<li><a href="routing/TollFarePass/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -148,9 +166,8 @@ menu
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -173,9 +190,7 @@ menu
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

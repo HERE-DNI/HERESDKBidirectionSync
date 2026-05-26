@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "onTwoFingerPan abstract method"
 slug: "sdk-for-flutter-explore-gestures-twofingerpanlistener-ontwofingerpan"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-gestures-twofingerpanlistener-ontwofingerpan"
 `
 <div class="sdk-for-flutter">
 <!-- onTwoFingerPan.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -69,9 +69,8 @@ onTwoFingerPan(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-ge
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">void onTwoFingerPan(GestureState state, Point2D origin, Point2D translation, double velocity);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -95,9 +94,7 @@ onTwoFingerPan(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-ge
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

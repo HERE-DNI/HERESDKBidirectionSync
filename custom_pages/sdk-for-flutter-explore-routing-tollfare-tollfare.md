@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TollFare constructor"
 slug: "sdk-for-flutter-explore-routing-tollfare-tollfare"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-tollfare-tollfare"
 `
 <div class="sdk-for-flutter">
 <!-- TollFare.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -65,9 +65,8 @@ the documentation available in the <a href="https://www.here.com/docs/bundle/rou
 <pre class="language-dart"><code class="language-dart">TollFare(String currency, double price, List&lt;PaymentMethod&gt; paymentMethods, [TimeRule? timeRule = null, List&lt;String&gt; transponders = const [], TollFarePass? pass = null])
   : currency = currency, price = price, paymentMethods = paymentMethods, timeRule = timeRule, transponders = transponders, pass = pass ?? null;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -91,9 +90,7 @@ the documentation available in the <a href="https://www.here.com/docs/bundle/rou
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

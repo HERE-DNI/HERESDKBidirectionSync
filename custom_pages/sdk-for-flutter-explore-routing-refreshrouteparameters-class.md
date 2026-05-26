@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "RefreshRouteParameters class"
 slug: "sdk-for-flutter-explore-routing-refreshrouteparameters-class"
 ---
 
@@ -7,7 +7,26 @@ slug: "sdk-for-flutter-explore-routing-refreshrouteparameters-class"
 `
 <div class="sdk-for-flutter">
 <!-- RefreshRouteParameters-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/RefreshRouteParameters-class.html#constructors">Constructors</a></li>
+<li><a href="routing/RefreshRouteParameters/RefreshRouteParameters.withRouteHandleAndSectionPosition.html">withRouteHandleAndSectionPosition</a></li>
+<li><a href="routing/RefreshRouteParameters/RefreshRouteParameters.withRouteHandleAndWaypoint.html">withRouteHandleAndWaypoint</a></li>
+<li><a href="routing/RefreshRouteParameters/RefreshRouteParameters.withRouteHandleAndWaypointAndSectionPosition.html">withRouteHandleAndWaypointAndSectionPosition</a></li>
+<li class="section-title">
+<a href="routing/RefreshRouteParameters-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/RefreshRouteParameters/hashCode.html">hashCode</a></li>
+<li><a href="routing/RefreshRouteParameters/routeHandle.html">routeHandle</a></li>
+<li class="inherited"><a href="routing/RefreshRouteParameters/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/RefreshRouteParameters/startingPoint.html">startingPoint</a></li>
+<li><a href="routing/RefreshRouteParameters/startingSectionIndex.html">startingSectionIndex</a></li>
+<li><a href="routing/RefreshRouteParameters/traveledDistanceOnStartingSectionInMeters.html">traveledDistanceOnStartingSectionInMeters</a></li>
+<li class="section-title inherited"><a href="routing/RefreshRouteParameters-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/RefreshRouteParameters/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/RefreshRouteParameters/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/RefreshRouteParameters-class.html#operators">Operators</a></li>
+<li><a href="routing/RefreshRouteParameters/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -170,9 +189,8 @@ would ignore the first part of the section. If it is provided with an invalid st
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -195,9 +213,7 @@ would ignore the first part of the section. If it is provided with an invalid st
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

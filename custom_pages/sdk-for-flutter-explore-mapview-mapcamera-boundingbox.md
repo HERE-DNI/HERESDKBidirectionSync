@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "boundingBox property"
 slug: "sdk-for-flutter-explore-mapview-mapcamera-boundingbox"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapcamera-boundingbox"
 `
 <div class="sdk-for-flutter">
 <!-- boundingBox.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -61,9 +61,8 @@ Gets the current visible map area encompassed in a GeoBox.</p>
 <pre class="language-dart"><code class="language-dart">GeoBox? get boundingBox;</code></pre>
 </section>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -87,9 +86,7 @@ Gets the current visible map area encompassed in a GeoBox.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

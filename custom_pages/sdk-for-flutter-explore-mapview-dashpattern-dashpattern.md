@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "DashPattern constructor"
 slug: "sdk-for-flutter-explore-mapview-dashpattern-dashpattern"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-dashpattern-dashpattern"
 `
 <div class="sdk-for-flutter">
 <!-- DashPattern.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -58,9 +58,8 @@ DashPattern(<wbr/><ol class="parameter-list single-line"> <li>double gapLength, 
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory DashPattern(double gapLength, double dashLength) =&gt; $prototype.$init(gapLength, dashLength);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -84,9 +83,7 @@ DashPattern(<wbr/><ol class="parameter-list single-line"> <li>double gapLength, 
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

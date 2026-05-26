@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "forEach abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-linedatasource-foreach"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-datasource-linedatasource-foreach"
 `
 <div class="sdk-for-flutter">
 <!-- forEach.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -59,9 +59,8 @@ from the process call.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">void forEach(LineDataSourceLineDataProcessor processor);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -85,9 +84,7 @@ from the process call.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

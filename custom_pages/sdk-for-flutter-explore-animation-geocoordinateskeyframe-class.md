@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "GeoCoordinatesKeyframe class"
 slug: "sdk-for-flutter-explore-animation-geocoordinateskeyframe-class"
 ---
 
@@ -7,7 +7,22 @@ slug: "sdk-for-flutter-explore-animation-geocoordinateskeyframe-class"
 `
 <div class="sdk-for-flutter">
 <!-- GeoCoordinatesKeyframe-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="animation/GeoCoordinatesKeyframe-class.html#constructors">Constructors</a></li>
+<li><a href="animation/GeoCoordinatesKeyframe/GeoCoordinatesKeyframe.html">GeoCoordinatesKeyframe</a></li>
+<li class="section-title">
+<a href="animation/GeoCoordinatesKeyframe-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="animation/GeoCoordinatesKeyframe/duration.html">duration</a></li>
+<li><a href="animation/GeoCoordinatesKeyframe/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="animation/GeoCoordinatesKeyframe/runtimeType.html">runtimeType</a></li>
+<li><a href="animation/GeoCoordinatesKeyframe/value.html">value</a></li>
+<li class="section-title inherited"><a href="animation/GeoCoordinatesKeyframe-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="animation/GeoCoordinatesKeyframe/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="animation/GeoCoordinatesKeyframe/toString.html">toString</a></li>
+<li class="section-title"><a href="animation/GeoCoordinatesKeyframe-class.html#operators">Operators</a></li>
+<li><a href="animation/GeoCoordinatesKeyframe/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -138,9 +153,8 @@ Altitude component is ignored.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -163,9 +177,7 @@ Altitude component is ignored.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

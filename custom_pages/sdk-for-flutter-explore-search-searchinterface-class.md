@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SearchInterface class abstract"
 slug: "sdk-for-flutter-explore-search-searchinterface-class"
 ---
 
@@ -7,7 +7,27 @@ slug: "sdk-for-flutter-explore-search-searchinterface-class"
 `
 <div class="sdk-for-flutter">
 <!-- SearchInterface-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/SearchInterface-class.html#constructors">Constructors</a></li>
+<li><a href="search/SearchInterface/SearchInterface.html">SearchInterface</a></li>
+<li class="section-title inherited">
+<a href="search/SearchInterface-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="search/SearchInterface/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="search/SearchInterface/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="search/SearchInterface-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/SearchInterface/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="search/SearchInterface/searchByAddress.html">searchByAddress</a></li>
+<li><a href="search/SearchInterface/searchByCategory.html">searchByCategory</a></li>
+<li><a href="search/SearchInterface/searchByCoordinates.html">searchByCoordinates</a></li>
+<li><a href="search/SearchInterface/searchByPickedPlace.html">searchByPickedPlace</a></li>
+<li><a href="search/SearchInterface/searchByPlaceId.html">searchByPlaceId</a></li>
+<li><a href="search/SearchInterface/searchByText.html">searchByText</a></li>
+<li><a href="search/SearchInterface/suggestByText.html">suggestByText</a></li>
+<li class="inherited"><a href="search/SearchInterface/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="search/SearchInterface-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="search/SearchInterface/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -192,9 +212,8 @@ returns suggestions sorted by relevance.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -217,9 +236,7 @@ returns suggestions sorted by relevance.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PickTrafficIncidentResult class abstract"
 slug: "sdk-for-flutter-explore-mapview-picktrafficincidentresult-class"
 ---
 
@@ -7,7 +7,27 @@ slug: "sdk-for-flutter-explore-mapview-picktrafficincidentresult-class"
 `
 <div class="sdk-for-flutter">
 <!-- PickTrafficIncidentResult-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/PickTrafficIncidentResult-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/PickTrafficIncidentResult/PickTrafficIncidentResult.html">PickTrafficIncidentResult</a></li>
+<li class="section-title">
+<a href="mapview/PickTrafficIncidentResult-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="mapview/PickTrafficIncidentResult/coordinates.html">coordinates</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/description.html">description</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/endTime.html">endTime</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/impact.html">impact</a></li>
+<li><a href="mapview/PickTrafficIncidentResult/originalId.html">originalId</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/runtimeType.html">runtimeType</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/startTime.html">startTime</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/type.html">type</a></li>
+<li class="section-title inherited"><a href="mapview/PickTrafficIncidentResult-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview/PickTrafficIncidentResult-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -191,9 +211,8 @@ Gets the category of the incident.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -216,9 +235,7 @@ Gets the category of the incident.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

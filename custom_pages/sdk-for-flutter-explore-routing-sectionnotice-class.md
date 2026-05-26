@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SectionNotice class"
 slug: "sdk-for-flutter-explore-routing-sectionnotice-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-routing-sectionnotice-class"
 `
 <div class="sdk-for-flutter">
 <!-- SectionNotice-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/SectionNotice-class.html#constructors">Constructors</a></li>
+<li><a href="routing/SectionNotice/SectionNotice.html">SectionNotice</a></li>
+<li class="section-title">
+<a href="routing/SectionNotice-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/SectionNotice/code.html">code</a></li>
+<li><a href="routing/SectionNotice/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="routing/SectionNotice/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/SectionNotice/severity.html">severity</a></li>
+<li><a href="routing/SectionNotice/violatedRestrictions.html">violatedRestrictions</a></li>
+<li class="section-title inherited"><a href="routing/SectionNotice-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/SectionNotice/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/SectionNotice/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/SectionNotice-class.html#operators">Operators</a></li>
+<li><a href="routing/SectionNotice/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -137,9 +153,8 @@ If the section notice is none of the above-mentioned three types, then this will
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -162,9 +177,7 @@ If the section notice is none of the above-mentioned three types, then this will
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

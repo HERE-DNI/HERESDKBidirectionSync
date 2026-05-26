@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Authentication class abstract"
 slug: "sdk-for-flutter-explore-core-authentication-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-core-authentication-class"
 `
 <div class="sdk-for-flutter">
 <!-- Authentication-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core/Authentication-class.html#constructors">Constructors</a></li>
+<li><a href="core/Authentication/Authentication.html">Authentication</a></li>
+<li class="section-title inherited">
+<a href="core/Authentication-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="core/Authentication/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="core/Authentication/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="core/Authentication-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="core/Authentication/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core/Authentication/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="core/Authentication-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="core/Authentication/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="core/Authentication-class.html#static-methods">Static methods</a></li>
+<li><a href="core/Authentication/authenticate.html">authenticate</a></li>
+<li><a href="core/Authentication/authenticateWithSDKNativeEngine.html">authenticateWithSDKNativeEngine</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -135,9 +151,8 @@ retrieve a secure token.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -160,9 +175,7 @@ retrieve a secure token.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

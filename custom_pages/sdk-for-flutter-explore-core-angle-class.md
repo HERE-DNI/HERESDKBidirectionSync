@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Angle class abstract"
 slug: "sdk-for-flutter-explore-core-angle-class"
 ---
 
@@ -7,7 +7,25 @@ slug: "sdk-for-flutter-explore-core-angle-class"
 `
 <div class="sdk-for-flutter">
 <!-- Angle-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core/Angle-class.html#constructors">Constructors</a></li>
+<li><a href="core/Angle/Angle.html">Angle</a></li>
+<li class="section-title">
+<a href="core/Angle-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="core/Angle/degrees.html">degrees</a></li>
+<li class="inherited"><a href="core/Angle/hashCode.html">hashCode</a></li>
+<li><a href="core/Angle/radians.html">radians</a></li>
+<li class="inherited"><a href="core/Angle/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="core/Angle-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="core/Angle/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core/Angle/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="core/Angle-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="core/Angle/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="core/Angle-class.html#static-methods">Static methods</a></li>
+<li><a href="core/Angle/fromDegrees.html">fromDegrees</a></li>
+<li><a href="core/Angle/fromRadians.html">fromRadians</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -150,9 +168,8 @@ Gets the value of this angle in radians.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -175,9 +192,7 @@ Gets the value of this angle in radians.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MaterialReflectivity constructor"
 slug: "sdk-for-flutter-explore-mapview-materialreflectivity-materialreflectivity"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-materialreflectivity-materialreflectivity
 `
 <div class="sdk-for-flutter">
 <!-- MaterialReflectivity.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -45,9 +45,8 @@ MaterialReflectivity(<wbr/>)
 <pre class="language-dart"><code class="language-dart">MaterialReflectivity()
   : ambientFactor = 0.0, diffuseFactor = 1.0;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -71,9 +70,7 @@ MaterialReflectivity(<wbr/>)
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

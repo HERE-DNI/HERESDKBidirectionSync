@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PanListener constructor"
 slug: "sdk-for-flutter-explore-gestures-panlistener-panlistener"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-gestures-panlistener-panlistener"
 `
 <div class="sdk-for-flutter">
 <!-- PanListener.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -59,9 +59,8 @@ PanListener(<wbr/><ol class="parameter-list single-line"> <li>void onPanLambda(<
 
 );</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -85,9 +84,7 @@ PanListener(<wbr/><ol class="parameter-list single-line"> <li>void onPanLambda(<
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

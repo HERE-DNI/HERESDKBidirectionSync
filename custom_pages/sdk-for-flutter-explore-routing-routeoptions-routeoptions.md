@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "RouteOptions constructor"
 slug: "sdk-for-flutter-explore-routing-routeoptions-routeoptions"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-routeoptions-routeoptions"
 `
 <div class="sdk-for-flutter">
 <!-- RouteOptions.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -123,9 +123,8 @@ By default, this is set to <code>false</code>.</li>
 <pre class="language-dart"><code class="language-dart">RouteOptions([OptimizationMode optimizationMode = OptimizationMode.fastest, int alternatives = 0, DateTime? departureTime = null, DateTime? arrivalTime = null, double? speedCapInMetersPerSecond = null, bool enableRouteHandle = false, TrafficOptimizationMode trafficOptimizationMode = TrafficOptimizationMode.timeDependent, bool enableTolls = false, bool optimizeWaypointsOrder = false, bool enableRouteLabels = false])
   : optimizationMode = optimizationMode, alternatives = alternatives, departureTime = departureTime, arrivalTime = arrivalTime, speedCapInMetersPerSecond = speedCapInMetersPerSecond, enableRouteHandle = enableRouteHandle, trafficOptimizationMode = trafficOptimizationMode, enableTolls = enableTolls, optimizeWaypointsOrder = optimizeWaypointsOrder, enableRouteLabels = enableRouteLabels;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -149,9 +148,7 @@ By default, this is set to <code>false</code>.</li>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

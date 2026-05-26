@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SDKVersion class"
 slug: "sdk-for-flutter-explore-core-engine-sdkversion-class"
 ---
 
@@ -7,7 +7,29 @@ slug: "sdk-for-flutter-explore-core-engine-sdkversion-class"
 `
 <div class="sdk-for-flutter">
 <!-- SDKVersion-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core.engine/SDKVersion-class.html#constructors">Constructors</a></li>
+<li><a href="core.engine/SDKVersion/SDKVersion.html">SDKVersion</a></li>
+<li class="section-title">
+<a href="core.engine/SDKVersion-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="core.engine/SDKVersion/backendConfig.html">backendConfig</a></li>
+<li><a href="core.engine/SDKVersion/hashCode.html">hashCode</a></li>
+<li><a href="core.engine/SDKVersion/productVariant.html">productVariant</a></li>
+<li class="inherited"><a href="core.engine/SDKVersion/runtimeType.html">runtimeType</a></li>
+<li><a href="core.engine/SDKVersion/versionBuild.html">versionBuild</a></li>
+<li><a href="core.engine/SDKVersion/versionGeneration.html">versionGeneration</a></li>
+<li><a href="core.engine/SDKVersion/versionMajor.html">versionMajor</a></li>
+<li><a href="core.engine/SDKVersion/versionMinor.html">versionMinor</a></li>
+<li><a href="core.engine/SDKVersion/versionName.html">versionName</a></li>
+<li><a href="core.engine/SDKVersion/versionPatch.html">versionPatch</a></li>
+<li><a href="core.engine/SDKVersion/versionTag.html">versionTag</a></li>
+<li class="section-title inherited"><a href="core.engine/SDKVersion-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="core.engine/SDKVersion/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core.engine/SDKVersion/toString.html">toString</a></li>
+<li class="section-title"><a href="core.engine/SDKVersion-class.html#operators">Operators</a></li>
+<li><a href="core.engine/SDKVersion/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -185,9 +207,8 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -210,9 +231,7 @@ Please note, <code>sdk.core.engine.SDKBuildInformation</code> can be used to get
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

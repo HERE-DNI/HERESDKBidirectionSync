@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVChargingTariffPriceComponent constructor"
 slug: "sdk-for-flutter-explore-search-evchargingtariffpricecomponent-evchargingtariffpricecomponent"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-search-evchargingtariffpricecomponent-evchargingt
 `
 <div class="sdk-for-flutter">
 <!-- EVChargingTariffPriceComponent.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -45,9 +45,8 @@ EVChargingTariffPriceComponent(<wbr/>)
 <pre class="language-dart"><code class="language-dart">EVChargingTariffPriceComponent()
   : dimension = EVChargingTariffDimension.flat, price = 0.0, vat = null, step = null;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -71,9 +70,7 @@ EVChargingTariffPriceComponent(<wbr/>)
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

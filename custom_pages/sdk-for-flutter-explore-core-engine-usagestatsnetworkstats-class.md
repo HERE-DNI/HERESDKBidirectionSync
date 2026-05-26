@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "UsageStatsNetworkStats class"
 slug: "sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-class"
 ---
 
@@ -7,7 +7,24 @@ slug: "sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-class"
 `
 <div class="sdk-for-flutter">
 <!-- UsageStatsNetworkStats-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core.engine/UsageStatsNetworkStats-class.html#constructors">Constructors</a></li>
+<li><a href="core.engine/UsageStatsNetworkStats/UsageStatsNetworkStats.html">UsageStatsNetworkStats</a></li>
+<li class="section-title">
+<a href="core.engine/UsageStatsNetworkStats-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="core.engine/UsageStatsNetworkStats/hashCode.html">hashCode</a></li>
+<li><a href="core.engine/UsageStatsNetworkStats/methodCall.html">methodCall</a></li>
+<li><a href="core.engine/UsageStatsNetworkStats/receivedBytes.html">receivedBytes</a></li>
+<li><a href="core.engine/UsageStatsNetworkStats/requestCounter.html">requestCounter</a></li>
+<li class="inherited"><a href="core.engine/UsageStatsNetworkStats/runtimeType.html">runtimeType</a></li>
+<li><a href="core.engine/UsageStatsNetworkStats/sentBytes.html">sentBytes</a></li>
+<li class="section-title inherited"><a href="core.engine/UsageStatsNetworkStats-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="core.engine/UsageStatsNetworkStats/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core.engine/UsageStatsNetworkStats/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="core.engine/UsageStatsNetworkStats-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="core.engine/UsageStatsNetworkStats/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -144,9 +161,8 @@ will be considered as 1 methodCall, and requestCounter is 2.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -169,9 +185,7 @@ will be considered as 1 methodCall, and requestCounter is 2.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

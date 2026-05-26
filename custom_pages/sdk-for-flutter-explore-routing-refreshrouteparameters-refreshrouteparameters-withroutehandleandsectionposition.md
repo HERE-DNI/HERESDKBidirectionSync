@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "RefreshRouteParameters.withRouteHandleAndSectionPosition constructor"
 slug: "sdk-for-flutter-explore-routing-refreshrouteparameters-refreshrouteparameters-withroutehandleandsectionposition"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-refreshrouteparameters-refreshrouteparame
 `
 <div class="sdk-for-flutter">
 <!-- RefreshRouteParameters.withRouteHandleAndSectionPosition.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -61,9 +61,8 @@ RefreshRouteParameters.withRouteHandleAndSectionPosition(<wbr/><ol class="parame
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory RefreshRouteParameters.withRouteHandleAndSectionPosition(RouteHandle routeHandle, int startingSectionIndex, int traveledDistanceOnStartingSectionInMeters) =&gt; $prototype.withRouteHandleAndSectionPosition(routeHandle, startingSectionIndex, traveledDistanceOnStartingSectionInMeters);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -87,9 +86,7 @@ RefreshRouteParameters.withRouteHandleAndSectionPosition(<wbr/><ol class="parame
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "DataAttributesAccessor class abstract"
 slug: "sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-class"
 ---
 
@@ -7,7 +7,38 @@ slug: "sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-class"
 `
 <div class="sdk-for-flutter">
 <!-- DataAttributesAccessor-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview.datasource/DataAttributesAccessor-class.html#constructors">Constructors</a></li>
+<li><a href="mapview.datasource/DataAttributesAccessor/DataAttributesAccessor.html">DataAttributesAccessor</a></li>
+<li class="section-title inherited">
+<a href="mapview.datasource/DataAttributesAccessor-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview.datasource/DataAttributesBase/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview.datasource/DataAttributesBase/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="mapview.datasource/DataAttributesAccessor-class.html#instance-methods">Methods</a></li>
+<li><a href="mapview.datasource/DataAttributesAccessor/addOrReplace.html">addOrReplace</a></li>
+<li><a href="mapview.datasource/DataAttributesAccessor/addOrReplaceBoolean.html">addOrReplaceBoolean</a></li>
+<li><a href="mapview.datasource/DataAttributesAccessor/addOrReplaceColor.html">addOrReplaceColor</a></li>
+<li><a href="mapview.datasource/DataAttributesAccessor/addOrReplaceDouble.html">addOrReplaceDouble</a></li>
+<li><a href="mapview.datasource/DataAttributesAccessor/addOrReplaceFloat.html">addOrReplaceFloat</a></li>
+<li><a href="mapview.datasource/DataAttributesAccessor/addOrReplaceLong.html">addOrReplaceLong</a></li>
+<li><a href="mapview.datasource/DataAttributesAccessor/addOrReplaceString.html">addOrReplaceString</a></li>
+<li class="inherited"><a href="mapview.datasource/DataAttributesBase/getAsString.html">getAsString</a></li>
+<li class="inherited"><a href="mapview.datasource/DataAttributesBase/getAttributeNames.html">getAttributeNames</a></li>
+<li class="inherited"><a href="mapview.datasource/DataAttributesBase/getBoolean.html">getBoolean</a></li>
+<li class="inherited"><a href="mapview.datasource/DataAttributesBase/getDouble.html">getDouble</a></li>
+<li class="inherited"><a href="mapview.datasource/DataAttributesBase/getFloat.html">getFloat</a></li>
+<li class="inherited"><a href="mapview.datasource/DataAttributesBase/getInt64.html">getInt64</a></li>
+<li class="inherited"><a href="mapview.datasource/DataAttributesBase/getString.html">getString</a></li>
+<li class="inherited"><a href="mapview.datasource/DataAttributesBase/getValue.html">getValue</a></li>
+<li class="inherited"><a href="mapview.datasource/DataAttributesBase/getValueType.html">getValueType</a></li>
+<li class="inherited"><a href="mapview.datasource/DataAttributesBase/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="mapview.datasource/DataAttributesAccessor/remove.html">remove</a></li>
+<li><a href="mapview.datasource/DataAttributesAccessor/removeAll.html">removeAll</a></li>
+<li class="inherited"><a href="mapview.datasource/DataAttributesBase/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview.datasource/DataAttributesAccessor-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview.datasource/DataAttributesBase/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -290,9 +321,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -315,9 +345,7 @@ behavior. Related APIs may change for new releases without a deprecation process
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

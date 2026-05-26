@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "IsolineOptionsCalculation class"
 slug: "sdk-for-flutter-explore-routing-isolineoptionscalculation-class"
 ---
 
@@ -7,7 +7,28 @@ slug: "sdk-for-flutter-explore-routing-isolineoptionscalculation-class"
 `
 <div class="sdk-for-flutter">
 <!-- IsolineOptionsCalculation-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/IsolineOptionsCalculation-class.html#constructors">Constructors</a></li>
+<li><a href="routing/IsolineOptionsCalculation/IsolineOptionsCalculation.withDefaults.html">withDefaults</a></li>
+<li><a href="routing/IsolineOptionsCalculation/IsolineOptionsCalculation.withDefaultsAndCalculationMode.html">withDefaultsAndCalculationMode</a></li>
+<li><a href="routing/IsolineOptionsCalculation/IsolineOptionsCalculation.withDefaultsAndDirection.html">withDefaultsAndDirection</a></li>
+<li><a href="routing/IsolineOptionsCalculation/IsolineOptionsCalculation.withNoDefaults.html">withNoDefaults</a></li>
+<li class="section-title">
+<a href="routing/IsolineOptionsCalculation-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="routing/IsolineOptionsCalculation/hashCode.html">hashCode</a></li>
+<li><a href="routing/IsolineOptionsCalculation/isolineCalculationMode.html">isolineCalculationMode</a></li>
+<li><a href="routing/IsolineOptionsCalculation/isolineDirection.html">isolineDirection</a></li>
+<li><a href="routing/IsolineOptionsCalculation/maxPoints.html">maxPoints</a></li>
+<li><a href="routing/IsolineOptionsCalculation/rangeType.html">rangeType</a></li>
+<li><a href="routing/IsolineOptionsCalculation/rangeValues.html">rangeValues</a></li>
+<li class="inherited"><a href="routing/IsolineOptionsCalculation/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="routing/IsolineOptionsCalculation-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/IsolineOptionsCalculation/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/IsolineOptionsCalculation/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="routing/IsolineOptionsCalculation-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="routing/IsolineOptionsCalculation/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -218,9 +239,8 @@ If empty, /sdk-for-flutter-explore-routing-isolineoptions-class object is consid
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -243,9 +263,7 @@ If empty, /sdk-for-flutter-explore-routing-isolineoptions-class object is consid
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

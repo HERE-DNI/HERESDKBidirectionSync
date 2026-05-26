@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TrafficIncidentVehicleRestriction constructor"
 slug: "sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-trafficincidentvehiclerestriction"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-traffic
 `
 <div class="sdk-for-flutter">
 <!-- TrafficIncidentVehicleRestriction.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -48,9 +48,8 @@ TrafficIncidentVehicleRestriction(<wbr/>)
 <pre class="language-dart"><code class="language-dart">TrafficIncidentVehicleRestriction()
     : isRestrictedAlways = false, isDieselFuelRestricted = false, isPetrolFuelRestricted = false, isLpgFuelRestricted = false, isCaravanRestricted = false, isTrailerRestricted = false, isDrivingWithoutSnowChainsRestricted = false, isDrivingWithoutWinterTyresRestricted = false, isEvenNumberPlateRestricted = false, isOddNumberPlateRestricted = false, isThroughTrafficRestricted = false, isResidentsTrafficRestricted = false, isDestinationInIncidentAreaRestricted = false, isEuro3EmissionStandardRestricted = false, isEuro4EmissionStandardRestricted = false, isEuro5EmissionStandardRestricted = false, restrictedIfGrossWeightMoreThanInKilograms = null, restrictedIfGrossWeightLessThanInKilograms = null, restrictedIfAxleWeightMoreThanInKilograms = null, restrictedIfAxleWeightLessThanInKilograms = null, restrictedIfLongerThanInCentimeters = null, restrictedIfShorterThanInCentimeters = null, restrictedIfHigherThanInCentimeters = null, restrictedIfLowerThanInCentimeters = null, restrictedIfWiderThanInCentimeters = null, restrictedIfNarrowerThanInCentimeters = null, restrictedIfOccupantsMoreThan = null, restrictedIfOccupantsFewerThan = null;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -74,9 +73,7 @@ TrafficIncidentVehicleRestriction(<wbr/>)
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

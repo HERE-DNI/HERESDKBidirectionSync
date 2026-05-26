@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "core.errors library"
 slug: "sdk-for-flutter-explore-core-errors-core-errors-library"
 ---
 
@@ -7,7 +7,12 @@ slug: "sdk-for-flutter-explore-core-errors-core-errors-library"
 `
 <div class="sdk-for-flutter">
 <!-- core.errors-library.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core.errors/core.errors-library.html#enums">Enums</a></li>
+<li><a href="core.errors/InstantiationErrorCode.html">InstantiationErrorCode</a></li>
+<li class="section-title"><a href="core.errors/core.errors-library.html#exceptions">Exceptions</a></li>
+<li><a href="core.errors/InstantiationException-class.html">InstantiationException</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -58,9 +63,8 @@ menu
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -98,9 +102,7 @@ menu
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

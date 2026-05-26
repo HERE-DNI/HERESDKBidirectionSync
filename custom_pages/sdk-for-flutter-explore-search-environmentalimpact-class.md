@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EnvironmentalImpact class"
 slug: "sdk-for-flutter-explore-search-environmentalimpact-class"
 ---
 
@@ -7,7 +7,22 @@ slug: "sdk-for-flutter-explore-search-environmentalimpact-class"
 `
 <div class="sdk-for-flutter">
 <!-- EnvironmentalImpact-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/EnvironmentalImpact-class.html#constructors">Constructors</a></li>
+<li><a href="search/EnvironmentalImpact/EnvironmentalImpact.html">EnvironmentalImpact</a></li>
+<li class="section-title">
+<a href="search/EnvironmentalImpact-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/EnvironmentalImpact/amountInGramPerKilowattHours.html">amountInGramPerKilowattHours</a></li>
+<li><a href="search/EnvironmentalImpact/category.html">category</a></li>
+<li><a href="search/EnvironmentalImpact/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="search/EnvironmentalImpact/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="search/EnvironmentalImpact-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/EnvironmentalImpact/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/EnvironmentalImpact/toString.html">toString</a></li>
+<li class="section-title"><a href="search/EnvironmentalImpact-class.html#operators">Operators</a></li>
+<li><a href="search/EnvironmentalImpact/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -127,9 +142,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -152,9 +166,7 @@ Related APIs may change for new releases without a deprecation process.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

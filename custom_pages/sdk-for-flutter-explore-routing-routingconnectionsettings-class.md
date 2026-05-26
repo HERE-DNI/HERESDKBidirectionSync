@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "RoutingConnectionSettings class"
 slug: "sdk-for-flutter-explore-routing-routingconnectionsettings-class"
 ---
 
@@ -7,7 +7,25 @@ slug: "sdk-for-flutter-explore-routing-routingconnectionsettings-class"
 `
 <div class="sdk-for-flutter">
 <!-- RoutingConnectionSettings-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/RoutingConnectionSettings-class.html#constructors">Constructors</a></li>
+<li><a href="routing/RoutingConnectionSettings/RoutingConnectionSettings.html">RoutingConnectionSettings</a></li>
+<li class="section-title">
+<a href="routing/RoutingConnectionSettings-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/RoutingConnectionSettings/connectionTimeoutRetryIncrease.html">connectionTimeoutRetryIncrease</a></li>
+<li><a href="routing/RoutingConnectionSettings/hashCode.html">hashCode</a></li>
+<li><a href="routing/RoutingConnectionSettings/initialConnectionTimeout.html">initialConnectionTimeout</a></li>
+<li><a href="routing/RoutingConnectionSettings/initialTransferTimeout.html">initialTransferTimeout</a></li>
+<li><a href="routing/RoutingConnectionSettings/maxRetryCount.html">maxRetryCount</a></li>
+<li class="inherited"><a href="routing/RoutingConnectionSettings/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/RoutingConnectionSettings/transferTimeoutRetryIncrease.html">transferTimeoutRetryIncrease</a></li>
+<li class="section-title inherited"><a href="routing/RoutingConnectionSettings-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/RoutingConnectionSettings/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/RoutingConnectionSettings/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/RoutingConnectionSettings-class.html#operators">Operators</a></li>
+<li><a href="routing/RoutingConnectionSettings/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -156,9 +174,8 @@ By default, the initial transfer increment per timeout is 2 seconds.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -181,9 +198,7 @@ By default, the initial transfer increment per timeout is 2 seconds.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

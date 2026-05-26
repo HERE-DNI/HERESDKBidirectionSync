@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "stateCode property"
 slug: "sdk-for-flutter-explore-routing-span-statecode"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-span-statecode"
 `
 <div class="sdk-for-flutter">
 <!-- stateCode.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -58,9 +58,8 @@ it consists of two alphabet letters. The value is <code>null</code> when no data
 <pre class="language-dart"><code class="language-dart">String? get stateCode;</code></pre>
 </section>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -84,9 +83,7 @@ it consists of two alphabet letters. The value is <code>null</code> when no data
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

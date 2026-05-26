@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "loadSceneFromConfigurationFile abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapscene-loadscenefromconfigurationfile"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapscene-loadscenefromconfigurationfile"
 `
 <div class="sdk-for-flutter">
 <!-- loadSceneFromConfigurationFile.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -69,9 +69,8 @@ the paths specified in the main configuration file.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">void loadSceneFromConfigurationFile(String configurationFile, MapSceneLoadSceneCallback? callback);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -95,9 +94,7 @@ the paths specified in the main configuration file.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TrafficIncident class abstract"
 slug: "sdk-for-flutter-explore-traffic-trafficincident-class"
 ---
 
@@ -7,7 +7,35 @@ slug: "sdk-for-flutter-explore-traffic-trafficincident-class"
 `
 <div class="sdk-for-flutter">
 <!-- TrafficIncident-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="traffic/TrafficIncident-class.html#constructors">Constructors</a></li>
+<li><a href="traffic/TrafficIncident/TrafficIncident.html">TrafficIncident</a></li>
+<li class="section-title">
+<a href="traffic/TrafficIncident-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="traffic/TrafficIncident/codes.html">codes</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/description.html">description</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/endTime.html">endTime</a></li>
+<li><a href="traffic/TrafficIncident/entryTime.html">entryTime</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/hashCode.html">hashCode</a></li>
+<li><a href="traffic/TrafficIncident/id.html">id</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/impact.html">impact</a></li>
+<li><a href="traffic/TrafficIncident/isRoadClosed.html">isRoadClosed</a></li>
+<li><a href="traffic/TrafficIncident/junctionsTraversability.html">junctionsTraversability</a></li>
+<li><a href="traffic/TrafficIncident/location.html">location</a></li>
+<li><a href="traffic/TrafficIncident/originalId.html">originalId</a></li>
+<li><a href="traffic/TrafficIncident/parentId.html">parentId</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/runtimeType.html">runtimeType</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/startTime.html">startTime</a></li>
+<li><a href="traffic/TrafficIncident/summary.html">summary</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/type.html">type</a></li>
+<li><a href="traffic/TrafficIncident/vehicleRestrictions.html">vehicleRestrictions</a></li>
+<li class="section-title inherited"><a href="traffic/TrafficIncident-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="traffic/TrafficIncident-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentBase/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -270,9 +298,8 @@ Gets the map of restricted vehicle categories to restrictions.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -295,9 +322,7 @@ Gets the map of restricted vehicle categories to restrictions.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

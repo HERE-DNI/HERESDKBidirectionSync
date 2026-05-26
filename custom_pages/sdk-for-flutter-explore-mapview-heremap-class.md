@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "HereMap class"
 slug: "sdk-for-flutter-explore-mapview-heremap-class"
 ---
 
@@ -7,7 +7,32 @@ slug: "sdk-for-flutter-explore-mapview-heremap-class"
 `
 <div class="sdk-for-flutter">
 <!-- HereMap-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/HereMap-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/HereMap/HereMap.html">HereMap</a></li>
+<li class="section-title">
+<a href="mapview/HereMap-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="mapview/HereMap/gestureRecognizers.html">gestureRecognizers</a></li>
+<li class="inherited"><a href="mapview/HereMap/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview/HereMap/key.html">key</a></li>
+<li><a href="mapview/HereMap/mode.html">mode</a></li>
+<li><a href="mapview/HereMap/onMapCreated.html">onMapCreated</a></li>
+<li class="inherited"><a href="mapview/HereMap/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="mapview/HereMap-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="mapview/HereMap/createElement.html">createElement</a></li>
+<li><a href="mapview/HereMap/createState.html">createState</a></li>
+<li class="inherited"><a href="mapview/HereMap/debugDescribeChildren.html">debugDescribeChildren</a></li>
+<li class="inherited"><a href="mapview/HereMap/debugFillProperties.html">debugFillProperties</a></li>
+<li class="inherited"><a href="mapview/HereMap/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="mapview/HereMap/toDiagnosticsNode.html">toDiagnosticsNode</a></li>
+<li class="inherited"><a href="mapview/HereMap/toString.html">toString</a></li>
+<li class="inherited"><a href="mapview/HereMap/toStringDeep.html">toStringDeep</a></li>
+<li class="inherited"><a href="mapview/HereMap/toStringShallow.html">toStringShallow</a></li>
+<li class="inherited"><a href="mapview/HereMap/toStringShort.html">toStringShort</a></li>
+<li class="section-title inherited"><a href="mapview/HereMap-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/HereMap/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -219,9 +244,8 @@ tools and by <code>DiagnosticsNode.toStringDeep</code>.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -244,9 +268,7 @@ tools and by <code>DiagnosticsNode.toStringDeep</code>.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

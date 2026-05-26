@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "GeoPlace class"
 slug: "sdk-for-flutter-explore-search-geoplace-class"
 ---
 
@@ -7,7 +7,32 @@ slug: "sdk-for-flutter-explore-search-geoplace-class"
 `
 <div class="sdk-for-flutter">
 <!-- GeoPlace-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/GeoPlace-class.html#constructors">Constructors</a></li>
+<li><a href="search/GeoPlace/GeoPlace.html">GeoPlace</a></li>
+<li class="section-title">
+<a href="search/GeoPlace-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/GeoPlace/address.html">address</a></li>
+<li><a href="search/GeoPlace/business.html">business</a></li>
+<li><a href="search/GeoPlace/categories.html">categories</a></li>
+<li><a href="search/GeoPlace/externalIDs.html">externalIDs</a></li>
+<li><a href="search/GeoPlace/hashCode.html">hashCode</a></li>
+<li><a href="search/GeoPlace/location.html">location</a></li>
+<li class="inherited"><a href="search/GeoPlace/runtimeType.html">runtimeType</a></li>
+<li><a href="search/GeoPlace/title.html">title</a></li>
+<li><a href="search/GeoPlace/type.html">type</a></li>
+<li><a href="search/GeoPlace/web.html">web</a></li>
+<li class="section-title"><a href="search/GeoPlace-class.html#instance-methods">Methods</a></li>
+<li><a href="search/GeoPlace/getID.html">getID</a></li>
+<li><a href="search/GeoPlace/isMyPlace.html">isMyPlace</a></li>
+<li class="inherited"><a href="search/GeoPlace/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/GeoPlace/toString.html">toString</a></li>
+<li class="section-title"><a href="search/GeoPlace-class.html#operators">Operators</a></li>
+<li><a href="search/GeoPlace/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="search/GeoPlace-class.html#static-methods">Static methods</a></li>
+<li><a href="search/GeoPlace/makeMyPlace.html">makeMyPlace</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -218,9 +243,8 @@ Note: WebDetails can have default value when no data is available.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -243,9 +267,7 @@ Note: WebDetails can have default value when no data is available.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

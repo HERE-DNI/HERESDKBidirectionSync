@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Point2D class"
 slug: "sdk-for-flutter-explore-core-point2d-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-core-point2d-class"
 `
 <div class="sdk-for-flutter">
 <!-- Point2D-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core/Point2D-class.html#constructors">Constructors</a></li>
+<li><a href="core/Point2D/Point2D.html">Point2D</a></li>
+<li><a href="core/Point2D/Point2D.zero.html">zero</a></li>
+<li class="section-title">
+<a href="core/Point2D-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="core/Point2D/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="core/Point2D/runtimeType.html">runtimeType</a></li>
+<li><a href="core/Point2D/x.html">x</a></li>
+<li><a href="core/Point2D/y.html">y</a></li>
+<li class="section-title inherited"><a href="core/Point2D-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="core/Point2D/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core/Point2D/toString.html">toString</a></li>
+<li class="section-title"><a href="core/Point2D-class.html#operators">Operators</a></li>
+<li><a href="core/Point2D/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -133,9 +149,8 @@ then (0,0) will mark the top-left corner of the view.</p>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -158,9 +173,7 @@ then (0,0) will mark the top-left corner of the view.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

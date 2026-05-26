@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "simplificationInMeters14ZoomLevel property"
 slug: "sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationinmeters14zoomlevel"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationinme
 `
 <div class="sdk-for-flutter">
 <!-- simplificationInMeters14ZoomLevel.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -50,9 +50,8 @@ menu
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">static final int simplificationInMeters14ZoomLevel = 10;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -76,9 +75,7 @@ menu
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

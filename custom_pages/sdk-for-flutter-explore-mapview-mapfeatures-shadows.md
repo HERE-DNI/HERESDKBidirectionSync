@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "shadows property"
 slug: "sdk-for-flutter-explore-mapview-mapfeatures-shadows"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapfeatures-shadows"
 `
 <div class="sdk-for-flutter">
 <!-- shadows.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -63,9 +63,8 @@ By default, this map feature is not enabled.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">static final String shadows = "shadows";</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -89,9 +88,7 @@ By default, this map feature is not enabled.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

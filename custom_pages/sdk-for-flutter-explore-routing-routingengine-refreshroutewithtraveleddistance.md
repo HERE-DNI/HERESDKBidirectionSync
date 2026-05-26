@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "refreshRouteWithTraveledDistance abstract method"
 slug: "sdk-for-flutter-explore-routing-routingengine-refreshroutewithtraveleddistance"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-routingengine-refreshroutewithtraveleddis
 `
 <div class="sdk-for-flutter">
 <!-- refreshRouteWithTraveledDistance.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -101,9 +101,8 @@ It is always invoked on the main thread.</p>
 
 TaskHandle refreshRouteWithTraveledDistance(RouteHandle routeHandle, Waypoint? startingPoint, int? lastTraveledSectionIndex, int? traveledDistanceOnLastSectionInMeters, RefreshRouteOptions refreshRouteOptions, CalculateRouteCallback callback);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -127,9 +126,7 @@ TaskHandle refreshRouteWithTraveledDistance(RouteHandle routeHandle, Waypoint? s
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "ChargingActionDetails class"
 slug: "sdk-for-flutter-explore-routing-chargingactiondetails-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-routing-chargingactiondetails-class"
 `
 <div class="sdk-for-flutter">
 <!-- ChargingActionDetails-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/ChargingActionDetails-class.html#constructors">Constructors</a></li>
+<li><a href="routing/ChargingActionDetails/ChargingActionDetails.html">ChargingActionDetails</a></li>
+<li class="section-title">
+<a href="routing/ChargingActionDetails-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/ChargingActionDetails/arrivalChargeInKilowattHours.html">arrivalChargeInKilowattHours</a></li>
+<li><a href="routing/ChargingActionDetails/consumablePowerInKilowatts.html">consumablePowerInKilowatts</a></li>
+<li><a href="routing/ChargingActionDetails/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="routing/ChargingActionDetails/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/ChargingActionDetails/targetChargeInKilowattHours.html">targetChargeInKilowattHours</a></li>
+<li class="section-title inherited"><a href="routing/ChargingActionDetails-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/ChargingActionDetails/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/ChargingActionDetails/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/ChargingActionDetails-class.html#operators">Operators</a></li>
+<li><a href="routing/ChargingActionDetails/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -138,9 +154,8 @@ Defaults to 0.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -163,9 +178,7 @@ Defaults to 0.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

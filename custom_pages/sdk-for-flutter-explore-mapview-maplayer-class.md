@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapLayer class abstract"
 slug: "sdk-for-flutter-explore-mapview-maplayer-class"
 ---
 
@@ -7,7 +7,24 @@ slug: "sdk-for-flutter-explore-mapview-maplayer-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapLayer-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/MapLayer-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/MapLayer/MapLayer.html">MapLayer</a></li>
+<li class="section-title inherited">
+<a href="mapview/MapLayer-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview/MapLayer/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview/MapLayer/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="mapview/MapLayer-class.html#instance-methods">Methods</a></li>
+<li><a href="mapview/MapLayer/destroy.html">destroy</a></li>
+<li class="inherited"><a href="mapview/MapLayer/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="mapview/MapLayer/setEnabled.html">setEnabled</a></li>
+<li><a href="mapview/MapLayer/setPriority.html">setPriority</a></li>
+<li><a href="mapview/MapLayer/setStyle.html">setStyle</a></li>
+<li class="inherited"><a href="mapview/MapLayer/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview/MapLayer-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/MapLayer/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -149,9 +166,8 @@ gets added to a map. The layer gets removed from the map upon instance destructi
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -174,9 +190,7 @@ gets added to a map. The layer gets removed from the map upon instance destructi
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

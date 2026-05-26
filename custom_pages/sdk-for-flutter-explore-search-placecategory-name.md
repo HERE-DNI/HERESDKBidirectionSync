@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "name property"
 slug: "sdk-for-flutter-explore-search-placecategory-name"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-search-placecategory-name"
 `
 <div class="sdk-for-flutter">
 <!-- name.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -54,9 +54,8 @@ Gets the localised place category name.</p>
 <pre class="language-dart"><code class="language-dart">String? get name;</code></pre>
 </section>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -80,9 +79,7 @@ Gets the localised place category name.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

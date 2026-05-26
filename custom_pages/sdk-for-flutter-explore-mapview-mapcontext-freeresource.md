@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "freeResource abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapcontext-freeresource"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapcontext-freeresource"
 `
 <div class="sdk-for-flutter">
 <!-- freeResource.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -63,9 +63,8 @@ For example, some memory can be freed when the application transitions to the ba
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">void freeResource(MapContextResourceType type, MapContextFreeResourceSeverity severity);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -89,9 +88,7 @@ For example, some memory can be freed when the application transitions to the ba
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

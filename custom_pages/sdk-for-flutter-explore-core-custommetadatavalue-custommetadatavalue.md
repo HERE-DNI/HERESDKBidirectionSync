@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "CustomMetadataValue constructor"
 slug: "sdk-for-flutter-explore-core-custommetadatavalue-custommetadatavalue"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-custommetadatavalue-custommetadatavalue"
 `
 <div class="sdk-for-flutter">
 <!-- CustomMetadataValue.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -58,9 +58,8 @@ to a map item.</p>
 
 );</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -84,9 +83,7 @@ to a map item.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "busSpecifications property"
 slug: "sdk-for-flutter-explore-routing-privatebusoptions-busspecifications"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-privatebusoptions-busspecifications"
 `
 <div class="sdk-for-flutter">
 <!-- busSpecifications.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -57,9 +57,8 @@ The validation of the range is done in the method that takes <code>PrivateBusOpt
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">BusSpecifications busSpecifications;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -83,9 +82,7 @@ The validation of the range is done in the method that takes <code>PrivateBusOpt
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

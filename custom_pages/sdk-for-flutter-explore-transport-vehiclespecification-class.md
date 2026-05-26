@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "VehicleSpecification class"
 slug: "sdk-for-flutter-explore-transport-vehiclespecification-class"
 ---
 
@@ -7,7 +7,43 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecification-class"
 `
 <div class="sdk-for-flutter">
 <!-- VehicleSpecification-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="transport/VehicleSpecification-class.html#constructors">Constructors</a></li>
+<li><a href="transport/VehicleSpecification/VehicleSpecification.html">VehicleSpecification</a></li>
+<li class="section-title">
+<a href="transport/VehicleSpecification-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="transport/VehicleSpecification/axleCount.html">axleCount</a></li>
+<li><a href="transport/VehicleSpecification/currentWeightInKilograms.html">currentWeightInKilograms</a></li>
+<li><a href="transport/VehicleSpecification/emptyWeightInKilograms.html">emptyWeightInKilograms</a></li>
+<li><a href="transport/VehicleSpecification/engineSizeInCubicCentimeters.html">engineSizeInCubicCentimeters</a></li>
+<li><a href="transport/VehicleSpecification/grossWeightInKilograms.html">grossWeightInKilograms</a></li>
+<li><a href="transport/VehicleSpecification/hashCode.html">hashCode</a></li>
+<li><a href="transport/VehicleSpecification/hazardousMaterials.html">hazardousMaterials</a></li>
+<li><a href="transport/VehicleSpecification/heightInCentimeters.html">heightInCentimeters</a></li>
+<li><a href="transport/VehicleSpecification/isCommercial.html">isCommercial</a></li>
+<li><a href="transport/VehicleSpecification/isTruckLight.html">isTruckLight</a></li>
+<li><a href="transport/VehicleSpecification/kingpinToRearAxleDistanceInCentimeters.html">kingpinToRearAxleDistanceInCentimeters</a></li>
+<li><a href="transport/VehicleSpecification/lastCharacterOfLicensePlate.html">lastCharacterOfLicensePlate</a></li>
+<li><a href="transport/VehicleSpecification/lengthInCentimeters.html">lengthInCentimeters</a></li>
+<li><a href="transport/VehicleSpecification/occupancy.html">occupancy</a></li>
+<li><a href="transport/VehicleSpecification/payloadCapacityInKilograms.html">payloadCapacityInKilograms</a></li>
+<li class="inherited"><a href="transport/VehicleSpecification/runtimeType.html">runtimeType</a></li>
+<li><a href="transport/VehicleSpecification/tiresCount.html">tiresCount</a></li>
+<li><a href="transport/VehicleSpecification/trailerAxleCount.html">trailerAxleCount</a></li>
+<li><a href="transport/VehicleSpecification/trailerCount.html">trailerCount</a></li>
+<li><a href="transport/VehicleSpecification/truckCategory.html">truckCategory</a></li>
+<li><a class="deprecated" href="transport/VehicleSpecification/truckType.html">truckType</a></li>
+<li><a href="transport/VehicleSpecification/tunnelCategory.html">tunnelCategory</a></li>
+<li><a href="transport/VehicleSpecification/weightPerAxleGroup.html">weightPerAxleGroup</a></li>
+<li><a href="transport/VehicleSpecification/weightPerAxleInKilograms.html">weightPerAxleInKilograms</a></li>
+<li><a href="transport/VehicleSpecification/widthInCentimeters.html">widthInCentimeters</a></li>
+<li class="section-title inherited"><a href="transport/VehicleSpecification-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="transport/VehicleSpecification/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="transport/VehicleSpecification/toString.html">toString</a></li>
+<li class="section-title"><a href="transport/VehicleSpecification-class.html#operators">Operators</a></li>
+<li><a href="transport/VehicleSpecification/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -344,9 +380,8 @@ By default, it is not set.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -369,9 +404,7 @@ By default, it is not set.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

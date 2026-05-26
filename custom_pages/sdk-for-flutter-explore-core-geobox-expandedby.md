@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "expandedBy method"
 slug: "sdk-for-flutter-explore-core-geobox-expandedby"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-geobox-expandedby"
 `
 <div class="sdk-for-flutter">
 <!-- expandedBy.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -73,9 +73,8 @@ expandedBy(<wbr/><ol class="parameter-list"> <li>double southMeters, </li>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">GeoBox expandedBy(double southMeters, double westMeters, double northMeters, double eastMeters) =&gt; $prototype.expandedBy(this, southMeters, westMeters, northMeters, eastMeters);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -99,9 +98,7 @@ expandedBy(<wbr/><ol class="parameter-list"> <li>double southMeters, </li>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

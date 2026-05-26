@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "endTime property"
 slug: "sdk-for-flutter-explore-traffic-trafficincidentbase-endtime"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-traffic-trafficincidentbase-endtime"
 `
 <div class="sdk-for-flutter">
 <!-- endTime.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -52,9 +52,8 @@ Get the time until which the incident is valid, after this time the incident sho
 <pre class="language-dart"><code class="language-dart">DateTime? get endTime;</code></pre>
 </section>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -78,9 +77,7 @@ Get the time until which the incident is valid, after this time the incident sho
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

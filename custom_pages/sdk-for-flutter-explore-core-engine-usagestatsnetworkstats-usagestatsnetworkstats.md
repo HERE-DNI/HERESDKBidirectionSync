@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "UsageStatsNetworkStats constructor"
 slug: "sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-usagestatsnetworkstats"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-usagestatsnetw
 `
 <div class="sdk-for-flutter">
 <!-- UsageStatsNetworkStats.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -61,9 +61,8 @@ will be considered as 1 methodCall, and requestCounter is 2.</li>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">UsageStatsNetworkStats(this.sentBytes, this.receivedBytes, this.methodCall, this.requestCounter);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -87,9 +86,7 @@ will be considered as 1 methodCall, and requestCounter is 2.</li>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

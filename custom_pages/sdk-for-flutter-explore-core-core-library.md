@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "core library"
 slug: "sdk-for-flutter-explore-core-core-library"
 ---
 
@@ -7,7 +7,67 @@ slug: "sdk-for-flutter-explore-core-core-library"
 `
 <div class="sdk-for-flutter">
 <!-- core-library.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core/core-library.html#classes">Classes</a></li>
+<li><a href="core/Anchor2D-class.html">Anchor2D</a></li>
+<li><a href="core/Angle-class.html">Angle</a></li>
+<li><a href="core/AngleRange-class.html">AngleRange</a></li>
+<li><a href="core/Authentication-class.html">Authentication</a></li>
+<li><a href="core/AuthenticationData-class.html">AuthenticationData</a></li>
+<li><a href="core/BrandLogo-class.html">BrandLogo</a></li>
+<li><a href="core/CustomMetadataValue-class.html">CustomMetadataValue</a></li>
+<li><a href="core/ExternalID-class.html">ExternalID</a></li>
+<li><a href="core/GeoBox-class.html">GeoBox</a></li>
+<li><a href="core/GeoCircle-class.html">GeoCircle</a></li>
+<li><a href="core/GeoCoordinates-class.html">GeoCoordinates</a></li>
+<li><a href="core/GeoCoordinatesUpdate-class.html">GeoCoordinatesUpdate</a></li>
+<li><a href="core/GeoCorridor-class.html">GeoCorridor</a></li>
+<li><a href="core/GeoOrientation-class.html">GeoOrientation</a></li>
+<li><a href="core/GeoOrientationUpdate-class.html">GeoOrientationUpdate</a></li>
+<li><a href="core/GeoPolygon-class.html">GeoPolygon</a></li>
+<li><a href="core/GeoPolyline-class.html">GeoPolyline</a></li>
+<li><a href="core/IntegerRange-class.html">IntegerRange</a></li>
+<li><a href="core/LocalizedText-class.html">LocalizedText</a></li>
+<li><a href="core/LocalizedTexts-class.html">LocalizedTexts</a></li>
+<li><a href="core/Location-class.html">Location</a></li>
+<li><a href="core/LocationListener-class.html">LocationListener</a></li>
+<li><a href="core/LocationTime-class.html">LocationTime</a></li>
+<li><a href="core/Metadata-class.html">Metadata</a></li>
+<li><a href="core/NameID-class.html">NameID</a></li>
+<li><a href="core/NetworkEndpoint-class.html">NetworkEndpoint</a></li>
+<li><a href="core/ParameterConfiguration-class.html">ParameterConfiguration</a></li>
+<li><a class="deprecated" href="core/PedestrianProfile-class.html">PedestrianProfile</a></li>
+<li><a href="core/PickedPlace-class.html">PickedPlace</a></li>
+<li><a href="core/Point2D-class.html">Point2D</a></li>
+<li><a href="core/Point3D-class.html">Point3D</a></li>
+<li><a href="core/PolylineSimplifier-class.html">PolylineSimplifier</a></li>
+<li><a href="core/PolylineSimplifierOptions-class.html">PolylineSimplifierOptions</a></li>
+<li><a href="core/Rectangle2D-class.html">Rectangle2D</a></li>
+<li><a href="core/SdkContext-class.html">SdkContext</a></li>
+<li><a href="core/Size2D-class.html">Size2D</a></li>
+<li><a href="core/TimeRule-class.html">TimeRule</a></li>
+<li><a class="deprecated" href="core/TransportProfile-class.html">TransportProfile</a></li>
+<li class="section-title"><a href="core/core-library.html#enums">Enums</a></li>
+<li><a href="core/AuthenticationError.html">AuthenticationError</a></li>
+<li><a href="core/CardinalDirection.html">CardinalDirection</a></li>
+<li><a href="core/CountryCode.html">CountryCode</a></li>
+<li><a href="core/CurrentType.html">CurrentType</a></li>
+<li><a href="core/GeoPolylineDirection.html">GeoPolylineDirection</a></li>
+<li><a href="core/IsolateOrigin.html">IsolateOrigin</a></li>
+<li><a href="core/LanguageCode.html">LanguageCode</a></li>
+<li><a href="core/LocationSource.html">LocationSource</a></li>
+<li><a href="core/LocationTechnology.html">LocationTechnology</a></li>
+<li><a href="core/MetadataType.html">MetadataType</a></li>
+<li><a href="core/PolylineSimplificationError.html">PolylineSimplificationError</a></li>
+<li><a href="core/PowerType.html">PowerType</a></li>
+<li><a href="core/RouteType.html">RouteType</a></li>
+<li><a href="core/UnitSystem.html">UnitSystem</a></li>
+<li class="section-title"><a href="core/core-library.html#typedefs">Typedefs</a></li>
+<li><a href="core/AuthenticationCallback.html">AuthenticationCallback</a></li>
+<li><a href="core/PolylineSimplificationCallback.html">PolylineSimplificationCallback</a></li>
+<li class="section-title"><a href="core/core-library.html#exceptions">Exceptions</a></li>
+<li><a href="core/AuthenticationExceptionException-class.html">AuthenticationExceptionException</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -403,9 +463,8 @@ from the end of /sdk-for-flutter-explore-core-geopolyline-vertices.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -443,9 +502,7 @@ from the end of /sdk-for-flutter-explore-core-geopolyline-vertices.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

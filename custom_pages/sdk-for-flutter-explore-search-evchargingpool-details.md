@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "details property"
 slug: "sdk-for-flutter-explore-search-evchargingpool-details"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-search-evchargingpool-details"
 `
 <div class="sdk-for-flutter">
 <!-- details.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -51,9 +51,8 @@ for electric vehicles. Only offline search fills this field.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">EVChargingPoolDetails? details;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -77,9 +76,7 @@ for electric vehicles. Only offline search fills this field.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

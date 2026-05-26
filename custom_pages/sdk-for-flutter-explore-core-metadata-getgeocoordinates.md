@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "getGeoCoordinates abstract method"
 slug: "sdk-for-flutter-explore-core-metadata-getgeocoordinates"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-metadata-getgeocoordinates"
 `
 <div class="sdk-for-flutter">
 <!-- getGeoCoordinates.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -56,9 +56,8 @@ getGeoCoordinates(<wbr/><ol class="parameter-list single-line"> <li>String key</
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">GeoCoordinates? getGeoCoordinates(String key);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -82,9 +81,7 @@ getGeoCoordinates(<wbr/><ol class="parameter-list single-line"> <li>String key</
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

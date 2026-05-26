@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "materialReflectivity property"
 slug: "sdk-for-flutter-explore-mapview-locationindicator-materialreflectivity"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-locationindicator-materialreflectivity"
 `
 <div class="sdk-for-flutter">
 <!-- materialReflectivity.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -78,9 +78,8 @@ This value affects also any custom markers set with <code>setMarker3dModel</code
 <pre class="language-dart"><code class="language-dart">set materialReflectivity(MaterialReflectivity? value);</code></pre>
 </section>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -104,9 +103,7 @@ This value affects also any custom markers set with <code>setMarker3dModel</code
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

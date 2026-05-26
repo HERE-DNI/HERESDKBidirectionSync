@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "LocalizedText constructor"
 slug: "sdk-for-flutter-explore-core-localizedtext-localizedtext"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-localizedtext-localizedtext"
 `
 <div class="sdk-for-flutter">
 <!-- LocalizedText.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -54,9 +54,8 @@ If locale is not supported by the platform, <code>null</code> is returned.</li>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">LocalizedText(this.text, this.locale);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -80,9 +79,7 @@ If locale is not supported by the platform, <code>null</code> is returned.</li>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

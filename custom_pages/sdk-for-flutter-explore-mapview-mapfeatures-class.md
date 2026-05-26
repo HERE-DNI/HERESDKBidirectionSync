@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapFeatures class"
 slug: "sdk-for-flutter-explore-mapview-mapfeatures-class"
 ---
 
@@ -7,7 +7,32 @@ slug: "sdk-for-flutter-explore-mapview-mapfeatures-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapFeatures-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/MapFeatures-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/MapFeatures/MapFeatures.html">MapFeatures</a></li>
+<li class="section-title inherited">
+<a href="mapview/MapFeatures-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview/MapFeatures/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview/MapFeatures/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="mapview/MapFeatures-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="mapview/MapFeatures/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="mapview/MapFeatures/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview/MapFeatures-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/MapFeatures/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="mapview/MapFeatures-class.html#static-properties">Static properties</a></li>
+<li><a href="mapview/MapFeatures/ambientOcclusion.html">ambientOcclusion</a></li>
+<li><a href="mapview/MapFeatures/buildingFootprints.html">buildingFootprints</a></li>
+<li><a href="mapview/MapFeatures/congestionZones.html">congestionZones</a></li>
+<li><a href="mapview/MapFeatures/environmentalZones.html">environmentalZones</a></li>
+<li><a href="mapview/MapFeatures/extrudedBuildings.html">extrudedBuildings</a></li>
+<li><a href="mapview/MapFeatures/lowSpeedZones.html">lowSpeedZones</a></li>
+<li><a href="mapview/MapFeatures/roadExitLabels.html">roadExitLabels</a></li>
+<li><a href="mapview/MapFeatures/shadows.html">shadows</a></li>
+<li><a href="mapview/MapFeatures/trafficFlow.html">trafficFlow</a></li>
+<li><a href="mapview/MapFeatures/trafficIncidents.html">trafficIncidents</a></li>
+<li><a href="mapview/MapFeatures/trafficLights.html">trafficLights</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -207,9 +232,8 @@ incidents to be shown.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -232,9 +256,7 @@ incidents to be shown.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

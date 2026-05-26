@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Location.withCoordinates constructor"
 slug: "sdk-for-flutter-explore-core-location-location-withcoordinates"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-location-location-withcoordinates"
 `
 <div class="sdk-for-flutter">
 <!-- Location.withCoordinates.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -54,9 +54,8 @@ The rest of the fields will be initialized to null.</p>
 <pre class="language-dart"><code class="language-dart">Location.withCoordinates(this.coordinates)
     : bearingInDegrees = null, speedInMetersPerSecond = null, time = null, horizontalAccuracyInMeters = null, verticalAccuracyInMeters = null, bearingAccuracyInDegrees = null, speedAccuracyInMetersPerSecond = null, timestampSinceBoot = null, locationTechnology = null, source = null, gnssTime = null, pitchInDegrees = null;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -80,9 +79,7 @@ The rest of the fields will be initialized to null.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

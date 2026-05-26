@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TruckSpecifications.withDefaults constructor"
 slug: "sdk-for-flutter-explore-transport-truckspecifications-truckspecifications-withdefaults"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-transport-truckspecifications-truckspecifications
 `
 <div class="sdk-for-flutter">
 <!-- TruckSpecifications.withDefaults.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -48,9 +48,8 @@ TruckSpecifications.withDefaults(<wbr/>)
 <pre class="language-dart"><code class="language-dart">TruckSpecifications.withDefaults()
     : grossWeightInKilograms = null, currentWeightInKilograms = null, weightPerAxleInKilograms = null, weightPerAxleGroup = null, heightInCentimeters = null, widthInCentimeters = null, lengthInCentimeters = null, axleCount = null, trailerCount = null, truckType = TruckType.straight, isTruckLight = false, payloadCapacityInKilograms = null, trailerAxleCount = null;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -74,9 +73,7 @@ TruckSpecifications.withDefaults(<wbr/>)
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

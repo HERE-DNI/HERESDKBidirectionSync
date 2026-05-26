@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "calculateBicycleRoute abstract method"
 slug: "sdk-for-flutter-explore-routing-routinginterface-calculatebicycleroute"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-routinginterface-calculatebicycleroute"
 `
 <div class="sdk-for-flutter">
 <!-- calculateBicycleRoute.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -83,9 +83,8 @@ It is always invoked on the main thread.</p>
 
 TaskHandle calculateBicycleRoute(List&lt;Waypoint&gt; waypoints, BicycleOptions bicycleOptions, CalculateRouteCallback callback);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -109,9 +108,7 @@ TaskHandle calculateBicycleRoute(List&lt;Waypoint&gt; waypoints, BicycleOptions 
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

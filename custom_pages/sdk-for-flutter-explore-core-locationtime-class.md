@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "LocationTime class"
 slug: "sdk-for-flutter-explore-core-locationtime-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-core-locationtime-class"
 `
 <div class="sdk-for-flutter">
 <!-- LocationTime-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core/LocationTime-class.html#constructors">Constructors</a></li>
+<li><a href="core/LocationTime/LocationTime.html">LocationTime</a></li>
+<li class="section-title">
+<a href="core/LocationTime-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="core/LocationTime/hashCode.html">hashCode</a></li>
+<li><a href="core/LocationTime/localTime.html">localTime</a></li>
+<li class="inherited"><a href="core/LocationTime/runtimeType.html">runtimeType</a></li>
+<li><a href="core/LocationTime/utcOffset.html">utcOffset</a></li>
+<li><a href="core/LocationTime/utcTime.html">utcTime</a></li>
+<li class="section-title inherited"><a href="core/LocationTime-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="core/LocationTime/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core/LocationTime/toString.html">toString</a></li>
+<li class="section-title"><a href="core/LocationTime-class.html#operators">Operators</a></li>
+<li><a href="core/LocationTime/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -152,9 +168,8 @@ the UTC time is "2022-03-23T15:07:31", i.e. one hour behind the local time.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -177,9 +192,7 @@ the UTC time is "2022-03-23T15:07:31", i.e. one hour behind the local time.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

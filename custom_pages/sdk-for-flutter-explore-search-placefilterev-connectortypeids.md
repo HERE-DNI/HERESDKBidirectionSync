@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "connectorTypeIDs property"
 slug: "sdk-for-flutter-explore-search-placefilterev-connectortypeids"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-search-placefilterev-connectortypeids"
 `
 <div class="sdk-for-flutter">
 <!-- connectorTypeIDs.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -53,9 +53,8 @@ For more information on the current connector types, see
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">List&lt;String&gt; connectorTypeIDs;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -79,9 +78,7 @@ For more information on the current connector types, see
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

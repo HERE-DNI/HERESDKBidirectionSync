@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TollOptions class"
 slug: "sdk-for-flutter-explore-routing-tolloptions-class"
 ---
 
@@ -7,7 +7,24 @@ slug: "sdk-for-flutter-explore-routing-tolloptions-class"
 `
 <div class="sdk-for-flutter">
 <!-- TollOptions-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/TollOptions-class.html#constructors">Constructors</a></li>
+<li><a href="routing/TollOptions/TollOptions.html">TollOptions</a></li>
+<li class="section-title">
+<a href="routing/TollOptions-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/TollOptions/co2Class.html">co2Class</a></li>
+<li><a href="routing/TollOptions/emissionType.html">emissionType</a></li>
+<li><a href="routing/TollOptions/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="routing/TollOptions/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/TollOptions/transponders.html">transponders</a></li>
+<li><a href="routing/TollOptions/vehicleCategory.html">vehicleCategory</a></li>
+<li class="section-title inherited"><a href="routing/TollOptions-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/TollOptions/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/TollOptions/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/TollOptions-class.html#operators">Operators</a></li>
+<li><a href="routing/TollOptions/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -147,9 +164,8 @@ are determined from transport mode.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -172,9 +188,7 @@ are determined from transport mode.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

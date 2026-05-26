@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "postActions property"
 slug: "sdk-for-flutter-explore-routing-section-postactions"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-section-postactions"
 `
 <div class="sdk-for-flutter">
 <!-- postActions.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -51,9 +51,8 @@ Gets the post actions that must be done after the arrival at the end of the sect
 <pre class="language-dart"><code class="language-dart">List&lt;PostAction&gt; get postActions;</code></pre>
 </section>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -77,9 +76,7 @@ Gets the post actions that must be done after the arrival at the end of the sect
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

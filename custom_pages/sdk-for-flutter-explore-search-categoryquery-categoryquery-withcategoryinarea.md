@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "CategoryQuery.withCategoryInArea constructor"
 slug: "sdk-for-flutter-explore-search-categoryquery-categoryquery-withcategoryinarea"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-search-categoryquery-categoryquery-withcategoryin
 `
 <div class="sdk-for-flutter">
 <!-- CategoryQuery.withCategoryInArea.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -57,9 +57,8 @@ CategoryQuery.withCategoryInArea(<wbr/><ol class="parameter-list single-line"> <
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory CategoryQuery.withCategoryInArea(PlaceCategory category, CategoryQueryArea area) =&gt; $prototype.withCategoryInArea(category, area);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -83,9 +82,7 @@ CategoryQuery.withCategoryInArea(<wbr/><ol class="parameter-list single-line"> <
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

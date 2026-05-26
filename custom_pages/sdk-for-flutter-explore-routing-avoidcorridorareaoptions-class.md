@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "AvoidCorridorAreaOptions class"
 slug: "sdk-for-flutter-explore-routing-avoidcorridorareaoptions-class"
 ---
 
@@ -7,7 +7,24 @@ slug: "sdk-for-flutter-explore-routing-avoidcorridorareaoptions-class"
 `
 <div class="sdk-for-flutter">
 <!-- AvoidCorridorAreaOptions-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/AvoidCorridorAreaOptions-class.html#constructors">Constructors</a></li>
+<li><a href="routing/AvoidCorridorAreaOptions/AvoidCorridorAreaOptions.html">AvoidCorridorAreaOptions</a></li>
+<li class="section-title">
+<a href="routing/AvoidCorridorAreaOptions-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/AvoidCorridorAreaOptions/avoidCorridorArea.html">avoidCorridorArea</a></li>
+<li><a href="routing/AvoidCorridorAreaOptions/boundingBoxExceptionAreas.html">boundingBoxExceptionAreas</a></li>
+<li><a href="routing/AvoidCorridorAreaOptions/corridorExceptionAreas.html">corridorExceptionAreas</a></li>
+<li><a href="routing/AvoidCorridorAreaOptions/hashCode.html">hashCode</a></li>
+<li><a href="routing/AvoidCorridorAreaOptions/polygonExceptionAreas.html">polygonExceptionAreas</a></li>
+<li class="inherited"><a href="routing/AvoidCorridorAreaOptions/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="routing/AvoidCorridorAreaOptions-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/AvoidCorridorAreaOptions/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/AvoidCorridorAreaOptions/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/AvoidCorridorAreaOptions-class.html#operators">Operators</a></li>
+<li><a href="routing/AvoidCorridorAreaOptions/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -148,9 +165,8 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -173,9 +189,7 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

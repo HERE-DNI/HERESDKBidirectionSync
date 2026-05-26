@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapMarker3D.withScale constructor"
 slug: "sdk-for-flutter-explore-mapview-mapmarker3d-mapmarker3d-withscale"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker3d-mapmarker3d-withscale"
 `
 <div class="sdk-for-flutter">
 <!-- MapMarker3D.withScale.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -68,9 +68,8 @@ above ground. If not set, the 3D marker is placed at ground level.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory MapMarker3D.withScale(GeoCoordinates at, MapMarker3DModel model, double scale) =&gt; $prototype.withScale(at, model, scale);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -94,9 +93,7 @@ above ground. If not set, the 3D marker is placed at ground level.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

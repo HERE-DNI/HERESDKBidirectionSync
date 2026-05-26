@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "destroyLockingProcess static method"
 slug: "sdk-for-flutter-explore-core-engine-lockingprocess-destroylockingprocess"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-engine-lockingprocess-destroylockingprocess"
 `
 <div class="sdk-for-flutter">
 <!-- destroyLockingProcess.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -74,9 +74,8 @@ small amount of time to perform the operation.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">static void destroyLockingProcess(SDKOptions sdkOptions, int maxTimeoutInMilliseconds) =&gt; $prototype.destroyLockingProcess(sdkOptions, maxTimeoutInMilliseconds);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -100,9 +99,7 @@ small amount of time to perform the operation.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

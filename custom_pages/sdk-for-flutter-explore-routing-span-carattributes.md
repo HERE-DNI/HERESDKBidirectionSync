@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "carAttributes property"
 slug: "sdk-for-flutter-explore-routing-span-carattributes"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-span-carattributes"
 `
 <div class="sdk-for-flutter">
 <!-- carAttributes.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -51,9 +51,8 @@ The list of car access attributes on the span.</p>
 <pre class="language-dart"><code class="language-dart">List&lt;AccessAttributes&gt; get carAttributes;</code></pre>
 </section>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -77,9 +76,7 @@ The list of car access attributes on the span.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

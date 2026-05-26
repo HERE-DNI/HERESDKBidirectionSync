@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "fieldOfViewWithEasing static method"
 slug: "sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-fieldofviewwitheasing"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-fieldofviewwitheas
 `
 <div class="sdk-for-flutter">
 <!-- fieldOfViewWithEasing.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -75,9 +75,8 @@ and creation of the keyframe track will fail.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">static MapCameraKeyframeTrack fieldOfViewWithEasing(List&lt;ScalarKeyframe&gt; keyframes, Easing easing, KeyframeInterpolationMode interpolationMode) =&gt; $prototype.fieldOfViewWithEasing(keyframes, easing, interpolationMode);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -101,9 +100,7 @@ and creation of the keyframe track will fail.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

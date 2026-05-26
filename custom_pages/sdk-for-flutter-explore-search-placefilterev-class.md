@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PlaceFilterEv class"
 slug: "sdk-for-flutter-explore-search-placefilterev-class"
 ---
 
@@ -7,7 +7,25 @@ slug: "sdk-for-flutter-explore-search-placefilterev-class"
 `
 <div class="sdk-for-flutter">
 <!-- PlaceFilterEv-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/PlaceFilterEv-class.html#constructors">Constructors</a></li>
+<li><a href="search/PlaceFilterEv/PlaceFilterEv.html">PlaceFilterEv</a></li>
+<li class="section-title">
+<a href="search/PlaceFilterEv-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/PlaceFilterEv/connectorTypeIDs.html">connectorTypeIDs</a></li>
+<li><a href="search/PlaceFilterEv/currentType.html">currentType</a></li>
+<li><a href="search/PlaceFilterEv/eMobilityServiceProviderPartnerIDs.html">eMobilityServiceProviderPartnerIDs</a></li>
+<li><a href="search/PlaceFilterEv/hashCode.html">hashCode</a></li>
+<li><a href="search/PlaceFilterEv/minPowerInKilowatts.html">minPowerInKilowatts</a></li>
+<li class="inherited"><a href="search/PlaceFilterEv/runtimeType.html">runtimeType</a></li>
+<li><a href="search/PlaceFilterEv/supplierNames.html">supplierNames</a></li>
+<li class="section-title inherited"><a href="search/PlaceFilterEv-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/PlaceFilterEv/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/PlaceFilterEv/toString.html">toString</a></li>
+<li class="section-title"><a href="search/PlaceFilterEv-class.html#operators">Operators</a></li>
+<li><a href="search/PlaceFilterEv/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -154,9 +172,8 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -179,9 +196,7 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

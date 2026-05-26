@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SegmentReference constructor"
 slug: "sdk-for-flutter-explore-routing-segmentreference-segmentreference"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-segmentreference-segmentreference"
 `
 <div class="sdk-for-flutter">
 <!-- SegmentReference.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -63,9 +63,8 @@ As in HERE Map Content.</li>
 <pre class="language-dart"><code class="language-dart">SegmentReference([String segmentId = "", TravelDirection travelDirection = TravelDirection.bidirectional, double offsetStart = 0.0, double offsetEnd = 1.0, int tilePartitionId = 0, int? localId = 0])
   : segmentId = segmentId, travelDirection = travelDirection, offsetStart = offsetStart, offsetEnd = offsetEnd, tilePartitionId = tilePartitionId, localId = localId;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -89,9 +88,7 @@ As in HERE Map Content.</li>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

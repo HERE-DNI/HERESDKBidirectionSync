@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "nextRoadTexts property"
 slug: "sdk-for-flutter-explore-routing-maneuver-nextroadtexts"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-maneuver-nextroadtexts"
 `
 <div class="sdk-for-flutter">
 <!-- nextRoadTexts.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -53,9 +53,8 @@ Gets the textual attributes of the next road containing the corresponding road n
 <pre class="language-dart"><code class="language-dart">RoadTexts get nextRoadTexts;</code></pre>
 </section>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -79,9 +78,7 @@ Gets the textual attributes of the next road containing the corresponding road n
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

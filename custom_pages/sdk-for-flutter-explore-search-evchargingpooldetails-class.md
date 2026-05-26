@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVChargingPoolDetails class"
 slug: "sdk-for-flutter-explore-search-evchargingpooldetails-class"
 ---
 
@@ -7,7 +7,25 @@ slug: "sdk-for-flutter-explore-search-evchargingpooldetails-class"
 `
 <div class="sdk-for-flutter">
 <!-- EVChargingPoolDetails-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/EVChargingPoolDetails-class.html#constructors">Constructors</a></li>
+<li><a href="search/EVChargingPoolDetails/EVChargingPoolDetails.html">EVChargingPoolDetails</a></li>
+<li class="section-title">
+<a href="search/EVChargingPoolDetails-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/EVChargingPoolDetails/evChargingOnSite.html">evChargingOnSite</a></li>
+<li><a href="search/EVChargingPoolDetails/evNetwork.html">evNetwork</a></li>
+<li><a href="search/EVChargingPoolDetails/hashCode.html">hashCode</a></li>
+<li><a href="search/EVChargingPoolDetails/ownerInformation.html">ownerInformation</a></li>
+<li><a href="search/EVChargingPoolDetails/reservable.html">reservable</a></li>
+<li class="inherited"><a href="search/EVChargingPoolDetails/runtimeType.html">runtimeType</a></li>
+<li><a href="search/EVChargingPoolDetails/totalNumberOfStations.html">totalNumberOfStations</a></li>
+<li class="section-title inherited"><a href="search/EVChargingPoolDetails-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/EVChargingPoolDetails/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/EVChargingPoolDetails/toString.html">toString</a></li>
+<li class="section-title"><a href="search/EVChargingPoolDetails-class.html#operators">Operators</a></li>
+<li><a href="search/EVChargingPoolDetails/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -150,9 +168,8 @@ Note: Reservable charging stations operate on a first-come/first served basis.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -175,9 +192,7 @@ Note: Reservable charging stations operate on a first-come/first served basis.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

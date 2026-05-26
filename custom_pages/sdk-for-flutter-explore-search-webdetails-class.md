@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "WebDetails class"
 slug: "sdk-for-flutter-explore-search-webdetails-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-search-webdetails-class"
 `
 <div class="sdk-for-flutter">
 <!-- WebDetails-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/WebDetails-class.html#constructors">Constructors</a></li>
+<li><a href="search/WebDetails/WebDetails.html">WebDetails</a></li>
+<li class="section-title">
+<a href="search/WebDetails-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/WebDetails/editorials.html">editorials</a></li>
+<li><a href="search/WebDetails/hashCode.html">hashCode</a></li>
+<li><a href="search/WebDetails/images.html">images</a></li>
+<li><a href="search/WebDetails/ratings.html">ratings</a></li>
+<li class="inherited"><a href="search/WebDetails/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="search/WebDetails-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/WebDetails/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/WebDetails/toString.html">toString</a></li>
+<li class="section-title"><a href="search/WebDetails-class.html#operators">Operators</a></li>
+<li><a href="search/WebDetails/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -139,9 +155,8 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -164,9 +179,7 @@ valid contracts with said suppliers. If the user has no such contracts, the list
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

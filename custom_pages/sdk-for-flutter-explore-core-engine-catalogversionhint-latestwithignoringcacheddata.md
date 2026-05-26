@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "latestWithIgnoringCachedData static method"
 slug: "sdk-for-flutter-explore-core-engine-catalogversionhint-latestwithignoringcacheddata"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-engine-catalogversionhint-latestwithignoring
 `
 <div class="sdk-for-flutter">
 <!-- latestWithIgnoringCachedData.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -77,9 +77,8 @@ clearing the cache) <em>and</em> no installed map data. Otherwise, this call wil
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">static CatalogVersionHint latestWithIgnoringCachedData(bool ignoreCachedData) =&gt; $prototype.latestWithIgnoringCachedData(ignoreCachedData);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -103,9 +102,7 @@ clearing the cache) <em>and</em> no installed map data. Otherwise, this call wil
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

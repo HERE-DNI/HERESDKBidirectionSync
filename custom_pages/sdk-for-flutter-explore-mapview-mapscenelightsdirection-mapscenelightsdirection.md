@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapSceneLightsDirection constructor"
 slug: "sdk-for-flutter-explore-mapview-mapscenelightsdirection-mapscenelightsdirection"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapscenelightsdirection-mapscenelightsdir
 `
 <div class="sdk-for-flutter">
 <!-- MapSceneLightsDirection.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -68,9 +68,8 @@ For instance, (0, -10) is changed to (0, 0) rather than (180, 10).</li>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">MapSceneLightsDirection(this.azimuth, this.altitude);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -94,9 +93,7 @@ For instance, (0, -10) is changed to (0, 0) rather than (180, 10).</li>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

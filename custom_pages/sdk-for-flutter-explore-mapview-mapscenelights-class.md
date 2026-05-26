@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapSceneLights class abstract"
 slug: "sdk-for-flutter-explore-mapview-mapscenelights-class"
 ---
 
@@ -7,7 +7,27 @@ slug: "sdk-for-flutter-explore-mapview-mapscenelights-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapSceneLights-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/MapSceneLights-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/MapSceneLights/MapSceneLights.html">MapSceneLights</a></li>
+<li class="section-title inherited">
+<a href="mapview/MapSceneLights-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview/MapSceneLights/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview/MapSceneLights/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="mapview/MapSceneLights-class.html#instance-methods">Methods</a></li>
+<li><a href="mapview/MapSceneLights/getColor.html">getColor</a></li>
+<li><a href="mapview/MapSceneLights/getDirection.html">getDirection</a></li>
+<li><a href="mapview/MapSceneLights/getIntensity.html">getIntensity</a></li>
+<li class="inherited"><a href="mapview/MapSceneLights/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="mapview/MapSceneLights/reset.html">reset</a></li>
+<li><a href="mapview/MapSceneLights/setColor.html">setColor</a></li>
+<li><a href="mapview/MapSceneLights/setDirection.html">setDirection</a></li>
+<li><a href="mapview/MapSceneLights/setIntensity.html">setIntensity</a></li>
+<li class="inherited"><a href="mapview/MapSceneLights/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview/MapSceneLights-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/MapSceneLights/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -177,9 +197,8 @@ menu
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -202,9 +221,7 @@ menu
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

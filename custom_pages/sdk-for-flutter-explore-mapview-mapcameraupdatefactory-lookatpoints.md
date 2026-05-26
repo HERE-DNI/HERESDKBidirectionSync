@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "lookAtPoints static method"
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatpoints"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatpoints"
 `
 <div class="sdk-for-flutter">
 <!-- lookAtPoints.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -94,9 +94,8 @@ the calculated lookAt target point.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">static MapCameraUpdate lookAtPoints(List&lt;GeoCoordinates&gt; points, Rectangle2D viewRectangle, GeoOrientationUpdate orientation, MapMeasure measureLimit) =&gt; $prototype.lookAtPoints(points, viewRectangle, orientation, measureLimit);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -120,9 +119,7 @@ the calculated lookAt target point.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

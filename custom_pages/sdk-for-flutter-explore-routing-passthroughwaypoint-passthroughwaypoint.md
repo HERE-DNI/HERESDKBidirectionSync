@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PassThroughWaypoint constructor"
 slug: "sdk-for-flutter-explore-routing-passthroughwaypoint-passthroughwaypoint"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-passthroughwaypoint-passthroughwaypoint"
 `
 <div class="sdk-for-flutter">
 <!-- PassThroughWaypoint.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -46,9 +46,8 @@ PassThroughWaypoint(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-f
 <pre class="language-dart"><code class="language-dart">PassThroughWaypoint(RoutePlace place)
   : place = place, offset = null;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -72,9 +71,7 @@ PassThroughWaypoint(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-f
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

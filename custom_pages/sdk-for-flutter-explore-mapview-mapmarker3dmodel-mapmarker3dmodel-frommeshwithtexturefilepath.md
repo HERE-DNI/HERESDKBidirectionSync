@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapMarker3DModel.fromMeshWithTextureFilePath constructor"
 slug: "sdk-for-flutter-explore-mapview-mapmarker3dmodel-mapmarker3dmodel-frommeshwithtexturefilepath"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker3dmodel-mapmarker3dmodel-frommes
 `
 <div class="sdk-for-flutter">
 <!-- MapMarker3DModel.fromMeshWithTextureFilePath.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -58,9 +58,8 @@ MapMarker3DModel.fromMeshWithTextureFilePath(<wbr/><ol class="parameter-list sin
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory MapMarker3DModel.fromMeshWithTextureFilePath(Mesh mesh, String textureFilePath) =&gt; $prototype.fromMeshWithTextureFilePath(mesh, textureFilePath);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -84,9 +83,7 @@ MapMarker3DModel.fromMeshWithTextureFilePath(<wbr/><ol class="parameter-list sin
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

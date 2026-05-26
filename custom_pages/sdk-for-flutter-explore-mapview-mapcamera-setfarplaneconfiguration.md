@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "setFarPlaneConfiguration abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapcamera-setfarplaneconfiguration"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapcamera-setfarplaneconfiguration"
 `
 <div class="sdk-for-flutter">
 <!-- setFarPlaneConfiguration.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -73,9 +73,8 @@ The minimum distance is clamped to a range of [100, 3000] meters.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">void setFarPlaneConfiguration(Map&lt;double, MapCameraFarPlaneConfiguration&gt; configs);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -99,9 +98,7 @@ The minimum distance is clamped to a range of [100, 3000] meters.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

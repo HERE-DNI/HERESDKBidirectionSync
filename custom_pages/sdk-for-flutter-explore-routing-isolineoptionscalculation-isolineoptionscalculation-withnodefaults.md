@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "IsolineOptionsCalculation.withNoDefaults constructor"
 slug: "sdk-for-flutter-explore-routing-isolineoptionscalculation-isolineoptionscalculation-withnodefaults"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-isolineoptionscalculation-isolineoptionsc
 `
 <div class="sdk-for-flutter">
 <!-- IsolineOptionsCalculation.withNoDefaults.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -68,9 +68,8 @@ IsolineOptionsCalculation.withNoDefaults(<wbr/><ol class="parameter-list"> <li>/
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory IsolineOptionsCalculation.withNoDefaults(IsolineRangeType rangeType, List&lt;int&gt; rangeValues, IsolineCalculationMode isolineCalculationMode, int? maxPoints, RoutePlaceDirection isolineDirection) =&gt; $prototype.withNoDefaults(rangeType, rangeValues, isolineCalculationMode, maxPoints, isolineDirection);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -94,9 +93,7 @@ IsolineOptionsCalculation.withNoDefaults(<wbr/><ol class="parameter-list"> <li>/
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

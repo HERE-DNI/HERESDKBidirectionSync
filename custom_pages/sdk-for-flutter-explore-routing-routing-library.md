@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "routing library"
 slug: "sdk-for-flutter-explore-routing-routing-library"
 ---
 
@@ -7,7 +7,149 @@ slug: "sdk-for-flutter-explore-routing-routing-library"
 `
 <div class="sdk-for-flutter">
 <!-- routing-library.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/routing-library.html#classes">Classes</a></li>
+<li><a href="routing/Agency-class.html">Agency</a></li>
+<li><a href="routing/AllowOptions-class.html">AllowOptions</a></li>
+<li><a href="routing/Attribution-class.html">Attribution</a></li>
+<li><a href="routing/AvoidanceOptions-class.html">AvoidanceOptions</a></li>
+<li><a href="routing/AvoidBoundingBoxAreaOptions-class.html">AvoidBoundingBoxAreaOptions</a></li>
+<li><a href="routing/AvoidCorridorAreaOptions-class.html">AvoidCorridorAreaOptions</a></li>
+<li><a href="routing/AvoidPolygonAreaOptions-class.html">AvoidPolygonAreaOptions</a></li>
+<li><a href="routing/BatterySpecifications-class.html">BatterySpecifications</a></li>
+<li><a class="deprecated" href="routing/BicycleOptions-class.html">BicycleOptions</a></li>
+<li><a class="deprecated" href="routing/BusOptions-class.html">BusOptions</a></li>
+<li><a class="deprecated" href="routing/CarOptions-class.html">CarOptions</a></li>
+<li><a href="routing/ChargingActionDetails-class.html">ChargingActionDetails</a></li>
+<li><a href="routing/ChargingConnectorAttributes-class.html">ChargingConnectorAttributes</a></li>
+<li><a href="routing/ChargingStation-class.html">ChargingStation</a></li>
+<li><a href="routing/ChargingStop-class.html">ChargingStop</a></li>
+<li><a href="routing/DynamicSpeedInfo-class.html">DynamicSpeedInfo</a></li>
+<li><a href="routing/ElectricVehicleOptions-class.html">ElectricVehicleOptions</a></li>
+<li><a href="routing/EmpiricalConsumptionModel-class.html">EmpiricalConsumptionModel</a></li>
+<li><a class="deprecated" href="routing/EVCarOptions-class.html">EVCarOptions</a></li>
+<li><a href="routing/EVConsumptionModel-class.html">EVConsumptionModel</a></li>
+<li><a href="routing/EVMobilityServiceProviderPreferences-class.html">EVMobilityServiceProviderPreferences</a></li>
+<li><a class="deprecated" href="routing/EVTruckOptions-class.html">EVTruckOptions</a></li>
+<li><a href="routing/Fare-class.html">Fare</a></li>
+<li><a href="routing/FarePassValidityPeriod-class.html">FarePassValidityPeriod</a></li>
+<li><a href="routing/FarePrice-class.html">FarePrice</a></li>
+<li><a href="routing/IndoorLevelChangeData-class.html">IndoorLevelChangeData</a></li>
+<li><a href="routing/IndoorManeuver-class.html">IndoorManeuver</a></li>
+<li><a href="routing/IndoorRoutePlace-class.html">IndoorRoutePlace</a></li>
+<li><a href="routing/IndoorSectionDetails-class.html">IndoorSectionDetails</a></li>
+<li><a href="routing/IndoorSpaceData-class.html">IndoorSpaceData</a></li>
+<li><a href="routing/Isoline-class.html">Isoline</a></li>
+<li><a href="routing/IsolineOptions-class.html">IsolineOptions</a></li>
+<li><a href="routing/IsolineOptionsCalculation-class.html">IsolineOptionsCalculation</a></li>
+<li><a href="routing/IsolineRoutingEngine-class.html">IsolineRoutingEngine</a></li>
+<li><a href="routing/LocalizedRoadNumber-class.html">LocalizedRoadNumber</a></li>
+<li><a href="routing/LocalizedRoadNumbers-class.html">LocalizedRoadNumbers</a></li>
+<li><a href="routing/Maneuver-class.html">Maneuver</a></li>
+<li><a href="routing/MapMatchedCoordinates-class.html">MapMatchedCoordinates</a></li>
+<li><a href="routing/MaxAxleGroupWeight-class.html">MaxAxleGroupWeight</a></li>
+<li><a href="routing/MaxSpeedOnSegment-class.html">MaxSpeedOnSegment</a></li>
+<li><a href="routing/PassThroughWaypoint-class.html">PassThroughWaypoint</a></li>
+<li><a class="deprecated" href="routing/PedestrianOptions-class.html">PedestrianOptions</a></li>
+<li><a href="routing/PhysicalConsumptionModel-class.html">PhysicalConsumptionModel</a></li>
+<li><a href="routing/PostAction-class.html">PostAction</a></li>
+<li><a href="routing/PreAction-class.html">PreAction</a></li>
+<li><a class="deprecated" href="routing/PrivateBusOptions-class.html">PrivateBusOptions</a></li>
+<li><a class="deprecated" href="routing/RefreshRouteOptions-class.html">RefreshRouteOptions</a></li>
+<li><a href="routing/RefreshRouteParameters-class.html">RefreshRouteParameters</a></li>
+<li><a href="routing/RoadTexts-class.html">RoadTexts</a></li>
+<li><a href="routing/Route-class.html">Route</a></li>
+<li><a href="routing/RouteHandle-class.html">RouteHandle</a></li>
+<li><a href="routing/RouteLabel-class.html">RouteLabel</a></li>
+<li><a href="routing/RouteOffset-class.html">RouteOffset</a></li>
+<li><a href="routing/RouteOptions-class.html">RouteOptions</a></li>
+<li><a href="routing/RoutePlace-class.html">RoutePlace</a></li>
+<li><a href="routing/RouteRailwayCrossing-class.html">RouteRailwayCrossing</a></li>
+<li><a href="routing/RouteStop-class.html">RouteStop</a></li>
+<li><a href="routing/RouteTextOptions-class.html">RouteTextOptions</a></li>
+<li><a href="routing/RoutingConnectionSettings-class.html">RoutingConnectionSettings</a></li>
+<li><a href="routing/RoutingEngine-class.html">RoutingEngine</a></li>
+<li><a href="routing/RoutingInterface-class.html">RoutingInterface</a></li>
+<li><a href="routing/RoutingOptions-class.html">RoutingOptions</a></li>
+<li><a class="deprecated" href="routing/ScooterOptions-class.html">ScooterOptions</a></li>
+<li><a href="routing/Section-class.html">Section</a></li>
+<li><a href="routing/SectionNotice-class.html">SectionNotice</a></li>
+<li><a href="routing/SegmentReference-class.html">SegmentReference</a></li>
+<li><a href="routing/Signpost-class.html">Signpost</a></li>
+<li><a href="routing/SignpostLabel-class.html">SignpostLabel</a></li>
+<li><a href="routing/Span-class.html">Span</a></li>
+<li><a class="deprecated" href="routing/TaxiOptions-class.html">TaxiOptions</a></li>
+<li><a href="routing/TextUsageOptions-class.html">TextUsageOptions</a></li>
+<li><a href="routing/Toll-class.html">Toll</a></li>
+<li><a href="routing/TollFare-class.html">TollFare</a></li>
+<li><a href="routing/TollFarePass-class.html">TollFarePass</a></li>
+<li><a href="routing/TollOptions-class.html">TollOptions</a></li>
+<li><a href="routing/TrafficIncidentOnRoute-class.html">TrafficIncidentOnRoute</a></li>
+<li><a href="routing/TrafficOnRoute-class.html">TrafficOnRoute</a></li>
+<li><a href="routing/TrafficOnSection-class.html">TrafficOnSection</a></li>
+<li><a href="routing/TrafficOnSpan-class.html">TrafficOnSpan</a></li>
+<li><a href="routing/TransitDeparture-class.html">TransitDeparture</a></li>
+<li><a href="routing/TransitIncident-class.html">TransitIncident</a></li>
+<li><a href="routing/TransitRouteOptions-class.html">TransitRouteOptions</a></li>
+<li><a href="routing/TransitRoutingEngine-class.html">TransitRoutingEngine</a></li>
+<li><a href="routing/TransitSectionDetails-class.html">TransitSectionDetails</a></li>
+<li><a href="routing/TransitStop-class.html">TransitStop</a></li>
+<li><a href="routing/TransitTransport-class.html">TransitTransport</a></li>
+<li><a href="routing/TransitWaypoint-class.html">TransitWaypoint</a></li>
+<li><a class="deprecated" href="routing/TruckOptions-class.html">TruckOptions</a></li>
+<li><a href="routing/VehicleRestrictionMaxWeight-class.html">VehicleRestrictionMaxWeight</a></li>
+<li><a href="routing/ViolatedRestriction-class.html">ViolatedRestriction</a></li>
+<li><a href="routing/ViolatedRestrictionDetails-class.html">ViolatedRestrictionDetails</a></li>
+<li><a href="routing/Waypoint-class.html">Waypoint</a></li>
+<li class="section-title"><a href="routing/routing-library.html#enums">Enums</a></li>
+<li><a href="routing/AccessAttributes.html">AccessAttributes</a></li>
+<li><a href="routing/AttributionType.html">AttributionType</a></li>
+<li><a href="routing/ChargingConnectorType.html">ChargingConnectorType</a></li>
+<li><a href="routing/ChargingSupplyType.html">ChargingSupplyType</a></li>
+<li><a href="routing/FarePassValidityPeriodType.html">FarePassValidityPeriodType</a></li>
+<li><a href="routing/FarePriceType.html">FarePriceType</a></li>
+<li><a href="routing/FareReason.html">FareReason</a></li>
+<li><a href="routing/FunctionalRoadClass.html">FunctionalRoadClass</a></li>
+<li><a href="routing/IndoorLevelChangeFeatures.html">IndoorLevelChangeFeatures</a></li>
+<li><a href="routing/IndoorManeuverActions.html">IndoorManeuverActions</a></li>
+<li><a href="routing/IsolineCalculationMode.html">IsolineCalculationMode</a></li>
+<li><a href="routing/IsolineRangeType.html">IsolineRangeType</a></li>
+<li><a href="routing/LocalizedTextPreference.html">LocalizedTextPreference</a></li>
+<li><a href="routing/ManeuverAction.html">ManeuverAction</a></li>
+<li><a href="routing/MatchSideOfStreet.html">MatchSideOfStreet</a></li>
+<li><a href="routing/NoticeSeverity.html">NoticeSeverity</a></li>
+<li><a href="routing/OptimizationMode.html">OptimizationMode</a></li>
+<li><a href="routing/PaymentMethod.html">PaymentMethod</a></li>
+<li><a href="routing/PostActionType.html">PostActionType</a></li>
+<li><a href="routing/PreActionType.html">PreActionType</a></li>
+<li><a href="routing/RoadFeatures.html">RoadFeatures</a></li>
+<li><a href="routing/RouteLabelType.html">RouteLabelType</a></li>
+<li><a href="routing/RoutePlaceDirection.html">RoutePlaceDirection</a></li>
+<li><a href="routing/RoutePlaceType.html">RoutePlaceType</a></li>
+<li><a href="routing/RouteRailwayCrossingType.html">RouteRailwayCrossingType</a></li>
+<li><a href="routing/RoutingError.html">RoutingError</a></li>
+<li><a href="routing/SectionNoticeCode.html">SectionNoticeCode</a></li>
+<li><a href="routing/SectionTransportMode.html">SectionTransportMode</a></li>
+<li><a href="routing/SideOfDestination.html">SideOfDestination</a></li>
+<li><a href="routing/StreetAttributes.html">StreetAttributes</a></li>
+<li><a href="routing/TollOptionsEmissionType.html">TollOptionsEmissionType</a></li>
+<li><a href="routing/TollOptionsVehicleCategory.html">TollOptionsVehicleCategory</a></li>
+<li><a href="routing/TrafficOptimizationMode.html">TrafficOptimizationMode</a></li>
+<li><a href="routing/TransitDepartureStatus.html">TransitDepartureStatus</a></li>
+<li><a href="routing/TransitIncidentEffect.html">TransitIncidentEffect</a></li>
+<li><a href="routing/TransitIncidentType.html">TransitIncidentType</a></li>
+<li><a href="routing/TransitMode.html">TransitMode</a></li>
+<li><a href="routing/TransitModeFilter.html">TransitModeFilter</a></li>
+<li><a href="routing/TravelDirection.html">TravelDirection</a></li>
+<li><a href="routing/VehicleRestrictionMaxWeightType.html">VehicleRestrictionMaxWeightType</a></li>
+<li><a href="routing/WalkAttributes.html">WalkAttributes</a></li>
+<li><a href="routing/WaypointType.html">WaypointType</a></li>
+<li><a href="routing/ZoneCategory.html">ZoneCategory</a></li>
+<li class="section-title"><a href="routing/routing-library.html#typedefs">Typedefs</a></li>
+<li><a href="routing/CalculateIsolineCallback.html">CalculateIsolineCallback</a></li>
+<li><a href="routing/CalculateRouteCallback.html">CalculateRouteCallback</a></li>
+<li><a href="routing/CalculateTrafficOnRouteCallback.html">CalculateTrafficOnRouteCallback</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -902,9 +1044,8 @@ route.
   </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -942,9 +1083,7 @@ route.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "HereMapController class abstract"
 slug: "sdk-for-flutter-explore-mapview-heremapcontroller-class"
 ---
 
@@ -7,7 +7,46 @@ slug: "sdk-for-flutter-explore-mapview-heremapcontroller-class"
 `
 <div class="sdk-for-flutter">
 <!-- HereMapController-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/HereMapController-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/HereMapController/HereMapController.html">HereMapController</a></li>
+<li class="section-title">
+<a href="mapview/HereMapController-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview/MapViewBase/camera.html">camera</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/frameRate.html">frameRate</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/gestures.html">gestures</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/hereMapControllerCore.html">hereMapControllerCore</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/isValid.html">isValid</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/mapContext.html">mapContext</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/mapScene.html">mapScene</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/pixelScale.html">pixelScale</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/runtimeType.html">runtimeType</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/viewportSize.html">viewportSize</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/watermarkSize.html">watermarkSize</a></li>
+<li><a href="mapview/HereMapController/widgetPins.html">widgetPins</a></li>
+<li class="section-title"><a href="mapview/HereMapController-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/addLifecycleListener.html">addLifecycleListener</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/geoToViewCoordinates.html">geoToViewCoordinates</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="mapview/HereMapController/pause.html">pause</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/pick.html">pick</a></li>
+<li><a href="mapview/HereMapController/pinWidget.html">pinWidget</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/removeLifecycleListener.html">removeLifecycleListener</a></li>
+<li><a href="mapview/HereMapController/resume.html">resume</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/setWatermarkLocation.html">setWatermarkLocation</a></li>
+<li><a href="mapview/HereMapController/takeScreenshot.html">takeScreenshot</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/toString.html">toString</a></li>
+<li><a href="mapview/HereMapController/unpinWidget.html">unpinWidget</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/viewToGeoCoordinates.html">viewToGeoCoordinates</a></li>
+<li class="section-title inherited"><a href="mapview/HereMapController-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="mapview/HereMapController-class.html#static-properties">Static properties</a></li>
+<li><a href="mapview/HereMapController/primaryLanguage.html">primaryLanguage</a></li>
+<li><a href="mapview/HereMapController/secondaryLanguage.html">secondaryLanguage</a></li>
+<li><a href="mapview/HereMapController/shadowQuality.html">shadowQuality</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -360,9 +399,8 @@ Note: This feature is in beta state and thus there can be bugs and unexpected be
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -385,9 +423,7 @@ Note: This feature is in beta state and thus there can be bugs and unexpected be
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "BatterySpecifications class"
 slug: "sdk-for-flutter-explore-routing-batteryspecifications-class"
 ---
 
@@ -7,7 +7,33 @@ slug: "sdk-for-flutter-explore-routing-batteryspecifications-class"
 `
 <div class="sdk-for-flutter">
 <!-- BatterySpecifications-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/BatterySpecifications-class.html#constructors">Constructors</a></li>
+<li><a href="routing/BatterySpecifications/BatterySpecifications.html">BatterySpecifications</a></li>
+<li><a href="routing/BatterySpecifications/BatterySpecifications.withDefaults.html">withDefaults</a></li>
+<li class="section-title">
+<a href="routing/BatterySpecifications-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/BatterySpecifications/chargingCurve.html">chargingCurve</a></li>
+<li><a href="routing/BatterySpecifications/chargingSetupDuration.html">chargingSetupDuration</a></li>
+<li><a href="routing/BatterySpecifications/connectorTypes.html">connectorTypes</a></li>
+<li><a href="routing/BatterySpecifications/hashCode.html">hashCode</a></li>
+<li><a href="routing/BatterySpecifications/initialChargeInKilowattHours.html">initialChargeInKilowattHours</a></li>
+<li><a href="routing/BatterySpecifications/maxChargingCurrentInAmperes.html">maxChargingCurrentInAmperes</a></li>
+<li><a href="routing/BatterySpecifications/maxChargingVoltageInVolts.html">maxChargingVoltageInVolts</a></li>
+<li><a href="routing/BatterySpecifications/maxPowerAtLowVoltageInKilowatts.html">maxPowerAtLowVoltageInKilowatts</a></li>
+<li><a href="routing/BatterySpecifications/minChargeAtChargingStationInKilowattHours.html">minChargeAtChargingStationInKilowattHours</a></li>
+<li><a href="routing/BatterySpecifications/minChargeAtDestinationInKilowattHours.html">minChargeAtDestinationInKilowattHours</a></li>
+<li><a href="routing/BatterySpecifications/minChargeAtFirstChargingStationInKilowattHours.html">minChargeAtFirstChargingStationInKilowattHours</a></li>
+<li class="inherited"><a href="routing/BatterySpecifications/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/BatterySpecifications/targetChargeInKilowattHours.html">targetChargeInKilowattHours</a></li>
+<li><a href="routing/BatterySpecifications/totalCapacityInKilowattHours.html">totalCapacityInKilowattHours</a></li>
+<li class="section-title inherited"><a href="routing/BatterySpecifications-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/BatterySpecifications/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/BatterySpecifications/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/BatterySpecifications-class.html#operators">Operators</a></li>
+<li><a href="routing/BatterySpecifications/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -267,9 +293,8 @@ If not set greater than 0, the route calculation will fail as an invalid paramet
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -292,9 +317,7 @@ If not set greater than 0, the route calculation will fail as an invalid paramet
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

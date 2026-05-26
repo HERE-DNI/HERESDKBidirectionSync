@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "operator == method"
 slug: "sdk-for-flutter-explore-routing-batteryspecifications-operator-equals"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-batteryspecifications-operator-equals"
 `
 <div class="sdk-for-flutter">
 <!-- operator_equals.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -100,9 +100,8 @@ bool operator ==(Object other) {
       maxPowerAtLowVoltageInKilowatts == _other.maxPowerAtLowVoltageInKilowatts;
 }</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -126,9 +125,7 @@ bool operator ==(Object other) {
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

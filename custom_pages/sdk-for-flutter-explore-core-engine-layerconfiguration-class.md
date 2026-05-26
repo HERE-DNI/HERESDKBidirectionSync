@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "LayerConfiguration class"
 slug: "sdk-for-flutter-explore-core-engine-layerconfiguration-class"
 ---
 
@@ -7,7 +7,24 @@ slug: "sdk-for-flutter-explore-core-engine-layerconfiguration-class"
 `
 <div class="sdk-for-flutter">
 <!-- LayerConfiguration-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core.engine/LayerConfiguration-class.html#constructors">Constructors</a></li>
+<li><a href="core.engine/LayerConfiguration/LayerConfiguration.html">LayerConfiguration</a></li>
+<li><a href="core.engine/LayerConfiguration/LayerConfiguration.withDefaults.html">withDefaults</a></li>
+<li><a href="core.engine/LayerConfiguration/LayerConfiguration.withDownloadAndPrefetchFeatures.html">withDownloadAndPrefetchFeatures</a></li>
+<li class="section-title">
+<a href="core.engine/LayerConfiguration-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="core.engine/LayerConfiguration/enabledFeatures.html">enabledFeatures</a></li>
+<li><a href="core.engine/LayerConfiguration/hashCode.html">hashCode</a></li>
+<li><a href="core.engine/LayerConfiguration/implicitlyPrefetchedFeatures.html">implicitlyPrefetchedFeatures</a></li>
+<li class="inherited"><a href="core.engine/LayerConfiguration/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="core.engine/LayerConfiguration-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="core.engine/LayerConfiguration/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core.engine/LayerConfiguration/toString.html">toString</a></li>
+<li class="section-title"><a href="core.engine/LayerConfiguration-class.html#operators">Operators</a></li>
+<li><a href="core.engine/LayerConfiguration/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -174,9 +191,8 @@ Implicit map prefetch will download map content for implicit prefetch features w
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -199,9 +215,7 @@ Implicit map prefetch will download map content for implicit prefetch features w
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

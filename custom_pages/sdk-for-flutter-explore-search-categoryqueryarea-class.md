@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "CategoryQueryArea class"
 slug: "sdk-for-flutter-explore-search-categoryqueryarea-class"
 ---
 
@@ -7,7 +7,27 @@ slug: "sdk-for-flutter-explore-search-categoryqueryarea-class"
 `
 <div class="sdk-for-flutter">
 <!-- CategoryQueryArea-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/CategoryQueryArea-class.html#constructors">Constructors</a></li>
+<li><a href="search/CategoryQueryArea/CategoryQueryArea.withBox.html">withBox</a></li>
+<li><a href="search/CategoryQueryArea/CategoryQueryArea.withCenter.html">withCenter</a></li>
+<li><a href="search/CategoryQueryArea/CategoryQueryArea.withCircle.html">withCircle</a></li>
+<li><a href="search/CategoryQueryArea/CategoryQueryArea.withCorridorAndCenter.html">withCorridorAndCenter</a></li>
+<li class="section-title">
+<a href="search/CategoryQueryArea-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/CategoryQueryArea/areaCenter.html">areaCenter</a></li>
+<li><a href="search/CategoryQueryArea/boxArea.html">boxArea</a></li>
+<li><a href="search/CategoryQueryArea/circleArea.html">circleArea</a></li>
+<li><a href="search/CategoryQueryArea/corridorArea.html">corridorArea</a></li>
+<li><a href="search/CategoryQueryArea/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="search/CategoryQueryArea/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="search/CategoryQueryArea-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/CategoryQueryArea/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/CategoryQueryArea/toString.html">toString</a></li>
+<li class="section-title"><a href="search/CategoryQueryArea-class.html#operators">Operators</a></li>
+<li><a href="search/CategoryQueryArea/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -174,9 +194,8 @@ The contained polyline and half-width define the area that will be used in a sea
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -199,9 +218,7 @@ The contained polyline and half-width define the area that will be used in a sea
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

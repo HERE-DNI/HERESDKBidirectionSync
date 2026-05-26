@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "truckType property"
 slug: "sdk-for-flutter-explore-transport-vehiclespecification-trucktype"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecification-trucktype"
 `
 <div class="sdk-for-flutter">
 <!-- truckType.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -58,9 +58,8 @@ Rendering <code>sdk.mapview.TruckProfile</code>: /sdk-for-flutter-explore-transp
 <pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.27.0. Use `VehicleSpecification.truckCategory` instead.")
 TruckType truckType;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -84,9 +83,7 @@ TruckType truckType;</code></pre>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

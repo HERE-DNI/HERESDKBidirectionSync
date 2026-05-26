@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapMarker3DModel class abstract"
 slug: "sdk-for-flutter-explore-mapview-mapmarker3dmodel-class"
 ---
 
@@ -7,7 +7,25 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker3dmodel-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapMarker3DModel-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/MapMarker3DModel-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/MapMarker3DModel/MapMarker3DModel.html">MapMarker3DModel</a></li>
+<li><a href="mapview/MapMarker3DModel/MapMarker3DModel.fromMesh.html">fromMesh</a></li>
+<li><a href="mapview/MapMarker3DModel/MapMarker3DModel.fromMeshWithTextureFilePath.html">fromMeshWithTextureFilePath</a></li>
+<li><a href="mapview/MapMarker3DModel/MapMarker3DModel.fromMeshWithTextureFilePathAndColor.html">fromMeshWithTextureFilePathAndColor</a></li>
+<li><a href="mapview/MapMarker3DModel/MapMarker3DModel.withTextureFilePath.html">withTextureFilePath</a></li>
+<li><a href="mapview/MapMarker3DModel/MapMarker3DModel.withTextureFilePathAndColor.html">withTextureFilePathAndColor</a></li>
+<li class="section-title inherited">
+<a href="mapview/MapMarker3DModel-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview/MapMarker3DModel/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview/MapMarker3DModel/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="mapview/MapMarker3DModel-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="mapview/MapMarker3DModel/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="mapview/MapMarker3DModel/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview/MapMarker3DModel-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/MapMarker3DModel/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -179,9 +197,8 @@ along with the mesh to <code>MapMarker3DModel</code> constructor.</p>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -204,9 +221,7 @@ along with the mesh to <code>MapMarker3DModel</code> constructor.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

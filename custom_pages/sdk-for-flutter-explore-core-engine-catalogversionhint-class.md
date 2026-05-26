@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "CatalogVersionHint class abstract"
 slug: "sdk-for-flutter-explore-core-engine-catalogversionhint-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-core-engine-catalogversionhint-class"
 `
 <div class="sdk-for-flutter">
 <!-- CatalogVersionHint-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core.engine/CatalogVersionHint-class.html#constructors">Constructors</a></li>
+<li><a href="core.engine/CatalogVersionHint/CatalogVersionHint.html">CatalogVersionHint</a></li>
+<li class="section-title inherited">
+<a href="core.engine/CatalogVersionHint-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="core.engine/CatalogVersionHint/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="core.engine/CatalogVersionHint/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="core.engine/CatalogVersionHint-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="core.engine/CatalogVersionHint/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core.engine/CatalogVersionHint/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="core.engine/CatalogVersionHint-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="core.engine/CatalogVersionHint/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="core.engine/CatalogVersionHint-class.html#static-methods">Static methods</a></li>
+<li><a href="core.engine/CatalogVersionHint/latestWithIgnoringCachedData.html">latestWithIgnoringCachedData</a></li>
+<li><a href="core.engine/CatalogVersionHint/specific.html">specific</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -143,9 +159,8 @@ specific version of a catalog, that you want to specify manually.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -168,9 +183,7 @@ specific version of a catalog, that you want to specify manually.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

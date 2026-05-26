@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapImageOverlay class abstract"
 slug: "sdk-for-flutter-explore-mapview-mapimageoverlay-class"
 ---
 
@@ -7,7 +7,25 @@ slug: "sdk-for-flutter-explore-mapview-mapimageoverlay-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapImageOverlay-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/MapImageOverlay-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/MapImageOverlay/MapImageOverlay.html">MapImageOverlay</a></li>
+<li><a href="mapview/MapImageOverlay/MapImageOverlay.withAnchor.html">withAnchor</a></li>
+<li class="section-title">
+<a href="mapview/MapImageOverlay-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="mapview/MapImageOverlay/anchor.html">anchor</a></li>
+<li><a href="mapview/MapImageOverlay/drawOrder.html">drawOrder</a></li>
+<li class="inherited"><a href="mapview/MapImageOverlay/hashCode.html">hashCode</a></li>
+<li><a href="mapview/MapImageOverlay/image.html">image</a></li>
+<li class="inherited"><a href="mapview/MapImageOverlay/runtimeType.html">runtimeType</a></li>
+<li><a href="mapview/MapImageOverlay/viewCoordinates.html">viewCoordinates</a></li>
+<li class="section-title inherited"><a href="mapview/MapImageOverlay-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="mapview/MapImageOverlay/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="mapview/MapImageOverlay/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview/MapImageOverlay-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/MapImageOverlay/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -160,9 +178,8 @@ Gets the view point in pixels on the map viewport where the overlay is drawn.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -185,9 +202,7 @@ Gets the view point in pixels on the map viewport where the overlay is drawn.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

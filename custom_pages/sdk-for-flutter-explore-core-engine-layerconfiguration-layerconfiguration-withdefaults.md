@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "LayerConfiguration.withDefaults constructor"
 slug: "sdk-for-flutter-explore-core-engine-layerconfiguration-layerconfiguration-withdefaults"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-engine-layerconfiguration-layerconfiguration
 `
 <div class="sdk-for-flutter">
 <!-- LayerConfiguration.withDefaults.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -48,9 +48,8 @@ LayerConfiguration.withDefaults(<wbr/>)
 <pre class="language-dart"><code class="language-dart">LayerConfiguration.withDefaults()
     : enabledFeatures = [LayerConfigurationFeature.detailRendering, LayerConfigurationFeature.landmarks3d, LayerConfigurationFeature.navigation, LayerConfigurationFeature.offlineSearch, LayerConfigurationFeature.offlineRouting, LayerConfigurationFeature.rendering], implicitlyPrefetchedFeatures = [LayerConfigurationFeature.navigation], _onDemandImplicitlyPrefetchedFeatures = [LayerConfigurationFeature.detailRendering, LayerConfigurationFeature.navigation, LayerConfigurationFeature.offlineSearch, LayerConfigurationFeature.offlineRouting, LayerConfigurationFeature.rendering, LayerConfigurationFeature.truck, LayerConfigurationFeature.landmarks3d, LayerConfigurationFeature.rdsTraffic, LayerConfigurationFeature.ev, LayerConfigurationFeature.truckServiceAttributes, LayerConfigurationFeature.fuelStationAttributes, LayerConfigurationFeature.offlineBusRouting, LayerConfigurationFeature.junctionView3x4, LayerConfigurationFeature.junctionView16x9, LayerConfigurationFeature.junctionSign3x4, LayerConfigurationFeature.junctionSign3x5, LayerConfigurationFeature.junctionSign4x3, LayerConfigurationFeature.junctionSign5x3, LayerConfigurationFeature.junctionSign16x9, LayerConfigurationFeature.terrain, LayerConfigurationFeature.detailedTerrain, LayerConfigurationFeature.adas, LayerConfigurationFeature.ehorizon];</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -74,9 +73,7 @@ LayerConfiguration.withDefaults(<wbr/>)
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

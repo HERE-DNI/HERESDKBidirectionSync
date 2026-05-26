@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "ChargingStop class"
 slug: "sdk-for-flutter-explore-routing-chargingstop-class"
 ---
 
@@ -7,7 +7,27 @@ slug: "sdk-for-flutter-explore-routing-chargingstop-class"
 `
 <div class="sdk-for-flutter">
 <!-- ChargingStop-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/ChargingStop-class.html#constructors">Constructors</a></li>
+<li><a href="routing/ChargingStop/ChargingStop.html">ChargingStop</a></li>
+<li><a href="routing/ChargingStop/ChargingStop.withDefaults.html">withDefaults</a></li>
+<li class="section-title">
+<a href="routing/ChargingStop-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/ChargingStop/currentInAmperes.html">currentInAmperes</a></li>
+<li><a href="routing/ChargingStop/hashCode.html">hashCode</a></li>
+<li><a href="routing/ChargingStop/maxDuration.html">maxDuration</a></li>
+<li><a href="routing/ChargingStop/minDuration.html">minDuration</a></li>
+<li><a href="routing/ChargingStop/powerInKilowatts.html">powerInKilowatts</a></li>
+<li class="inherited"><a href="routing/ChargingStop/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/ChargingStop/supplyType.html">supplyType</a></li>
+<li><a href="routing/ChargingStop/voltageInVolts.html">voltageInVolts</a></li>
+<li class="section-title inherited"><a href="routing/ChargingStop-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/ChargingStop/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/ChargingStop/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/ChargingStop-class.html#operators">Operators</a></li>
+<li><a href="routing/ChargingStop/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -176,9 +196,8 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -201,9 +220,7 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

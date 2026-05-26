@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "truckAmenities property"
 slug: "sdk-for-flutter-explore-search-details-truckamenities"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-search-details-truckamenities"
 `
 <div class="sdk-for-flutter">
 <!-- truckAmenities.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -66,9 +66,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">TruckAmenities? truckAmenities;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -92,9 +91,7 @@ Related APIs may change for new releases without a deprecation process.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

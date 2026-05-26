@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVChargingOpeningHoursSchedule class"
 slug: "sdk-for-flutter-explore-search-evchargingopeninghoursschedule-class"
 ---
 
@@ -7,7 +7,22 @@ slug: "sdk-for-flutter-explore-search-evchargingopeninghoursschedule-class"
 `
 <div class="sdk-for-flutter">
 <!-- EVChargingOpeningHoursSchedule-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/EVChargingOpeningHoursSchedule-class.html#constructors">Constructors</a></li>
+<li><a href="search/EVChargingOpeningHoursSchedule/EVChargingOpeningHoursSchedule.html">EVChargingOpeningHoursSchedule</a></li>
+<li class="section-title">
+<a href="search/EVChargingOpeningHoursSchedule-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/EVChargingOpeningHoursSchedule/days.html">days</a></li>
+<li><a href="search/EVChargingOpeningHoursSchedule/hashCode.html">hashCode</a></li>
+<li><a href="search/EVChargingOpeningHoursSchedule/periods.html">periods</a></li>
+<li class="inherited"><a href="search/EVChargingOpeningHoursSchedule/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="search/EVChargingOpeningHoursSchedule-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/EVChargingOpeningHoursSchedule/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/EVChargingOpeningHoursSchedule/toString.html">toString</a></li>
+<li class="section-title"><a href="search/EVChargingOpeningHoursSchedule-class.html#operators">Operators</a></li>
+<li><a href="search/EVChargingOpeningHoursSchedule/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -127,9 +142,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -152,9 +166,7 @@ Related APIs may change for new releases without a deprecation process.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

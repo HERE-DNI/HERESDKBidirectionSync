@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "shoppingHairAndBeauty property"
 slug: "sdk-for-flutter-explore-search-placecategory-shoppinghairandbeauty"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-search-placecategory-shoppinghairandbeauty"
 `
 <div class="sdk-for-flutter">
 <!-- shoppingHairAndBeauty.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -51,9 +51,8 @@ Places in this category may also sell hair products and other related cosmetic i
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">static final String shoppingHairAndBeauty = "600-6950";</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -77,9 +76,7 @@ Places in this category may also sell hair products and other related cosmetic i
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

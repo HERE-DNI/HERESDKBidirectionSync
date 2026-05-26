@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "GeoCoordinatesUpdate class"
 slug: "sdk-for-flutter-explore-core-geocoordinatesupdate-class"
 ---
 
@@ -7,7 +7,25 @@ slug: "sdk-for-flutter-explore-core-geocoordinatesupdate-class"
 `
 <div class="sdk-for-flutter">
 <!-- GeoCoordinatesUpdate-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core/GeoCoordinatesUpdate-class.html#constructors">Constructors</a></li>
+<li><a href="core/GeoCoordinatesUpdate/GeoCoordinatesUpdate.html">GeoCoordinatesUpdate</a></li>
+<li><a href="core/GeoCoordinatesUpdate/GeoCoordinatesUpdate.fromGeoCoordinates.html">fromGeoCoordinates</a></li>
+<li><a href="core/GeoCoordinatesUpdate/GeoCoordinatesUpdate.withAltitude.html">withAltitude</a></li>
+<li class="section-title">
+<a href="core/GeoCoordinatesUpdate-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="core/GeoCoordinatesUpdate/altitude.html">altitude</a></li>
+<li><a href="core/GeoCoordinatesUpdate/hashCode.html">hashCode</a></li>
+<li><a href="core/GeoCoordinatesUpdate/latitude.html">latitude</a></li>
+<li><a href="core/GeoCoordinatesUpdate/longitude.html">longitude</a></li>
+<li class="inherited"><a href="core/GeoCoordinatesUpdate/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="core/GeoCoordinatesUpdate-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="core/GeoCoordinatesUpdate/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core/GeoCoordinatesUpdate/toString.html">toString</a></li>
+<li class="section-title"><a href="core/GeoCoordinatesUpdate-class.html#operators">Operators</a></li>
+<li><a href="core/GeoCoordinatesUpdate/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -162,9 +180,8 @@ and alt values.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -187,9 +204,7 @@ and alt values.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

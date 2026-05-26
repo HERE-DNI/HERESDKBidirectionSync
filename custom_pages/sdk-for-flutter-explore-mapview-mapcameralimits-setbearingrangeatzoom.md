@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "setBearingRangeAtZoom abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapcameralimits-setbearingrangeatzoom"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapcameralimits-setbearingrangeatzoom"
 `
 <div class="sdk-for-flutter">
 <!-- setBearingRangeAtZoom.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -66,9 +66,8 @@ By default, the maximum bearing range for all zoom values is set during initiali
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">void setBearingRangeAtZoom(MapMeasure zoom, AngleRange bearingRange);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -92,9 +91,7 @@ By default, the maximum bearing range for all zoom values is set during initiali
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

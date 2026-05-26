@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapImage.withImageDataImageFormatWidthAndHeight constructor"
 slug: "sdk-for-flutter-explore-mapview-mapimage-mapimage-withimagedataimageformatwidthandheight"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapimage-mapimage-withimagedataimageforma
 `
 <div class="sdk-for-flutter">
 <!-- MapImage.withImageDataImageFormatWidthAndHeight.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -67,9 +67,8 @@ see <a href="https://www.w3.org/TR/SVGTiny12">https://www.w3.org/TR/SVGTiny12</a
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory MapImage.withImageDataImageFormatWidthAndHeight(Uint8List imageData, ImageFormat imageFormat, int width, int height) =&gt; $prototype.withImageDataImageFormatWidthAndHeight(imageData, imageFormat, width, height);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -93,9 +92,7 @@ see <a href="https://www.w3.org/TR/SVGTiny12">https://www.w3.org/TR/SVGTiny12</a
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

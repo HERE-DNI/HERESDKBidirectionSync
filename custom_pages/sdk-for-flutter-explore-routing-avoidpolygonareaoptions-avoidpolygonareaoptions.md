@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "AvoidPolygonAreaOptions constructor"
 slug: "sdk-for-flutter-explore-routing-avoidpolygonareaoptions-avoidpolygonareaoptions"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-avoidpolygonareaoptions-avoidpolygonareao
 `
 <div class="sdk-for-flutter">
 <!-- AvoidPolygonAreaOptions.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -46,9 +46,8 @@ AvoidPolygonAreaOptions(<wbr/><ol class="parameter-list single-line"> <li>/sdk-f
 <pre class="language-dart"><code class="language-dart">AvoidPolygonAreaOptions(GeoPolygon avoidPolygonArea)
   : avoidPolygonArea = avoidPolygonArea, boundingBoxExceptionAreas = [], polygonExceptionAreas = [], corridorExceptionAreas = [];</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -72,9 +71,7 @@ AvoidPolygonAreaOptions(<wbr/><ol class="parameter-list single-line"> <li>/sdk-f
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

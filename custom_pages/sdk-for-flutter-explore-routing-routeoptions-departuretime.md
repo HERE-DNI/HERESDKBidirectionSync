@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "departureTime property"
 slug: "sdk-for-flutter-explore-routing-routeoptions-departuretime"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-routeoptions-departuretime"
 `
 <div class="sdk-for-flutter">
 <!-- departureTime.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -60,9 +60,8 @@ when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">DateTime? departureTime;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -86,9 +85,7 @@ when setting the time in areas with different time zones, i.e. 2025-02-04T08:00:
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

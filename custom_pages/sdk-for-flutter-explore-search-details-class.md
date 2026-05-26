@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Details class"
 slug: "sdk-for-flutter-explore-search-details-class"
 ---
 
@@ -7,7 +7,35 @@ slug: "sdk-for-flutter-explore-search-details-class"
 `
 <div class="sdk-for-flutter">
 <!-- Details-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/Details-class.html#constructors">Constructors</a></li>
+<li><a href="search/Details/Details.html">Details</a></li>
+<li><a href="search/Details/Details.withDefaults.html">withDefaults</a></li>
+<li class="section-title">
+<a href="search/Details-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/Details/categories.html">categories</a></li>
+<li><a href="search/Details/contacts.html">contacts</a></li>
+<li><a href="search/Details/editorials.html">editorials</a></li>
+<li><a href="search/Details/evChargingLocation.html">evChargingLocation</a></li>
+<li><a href="search/Details/evChargingPool.html">evChargingPool</a></li>
+<li><a href="search/Details/foodTypes.html">foodTypes</a></li>
+<li><a href="search/Details/fuelStation.html">fuelStation</a></li>
+<li><a href="search/Details/hashCode.html">hashCode</a></li>
+<li><a href="search/Details/images.html">images</a></li>
+<li><a href="search/Details/openingHours.html">openingHours</a></li>
+<li><a href="search/Details/payment.html">payment</a></li>
+<li><a href="search/Details/ratings.html">ratings</a></li>
+<li><a href="search/Details/references.html">references</a></li>
+<li class="inherited"><a href="search/Details/runtimeType.html">runtimeType</a></li>
+<li><a href="search/Details/truckAmenities.html">truckAmenities</a></li>
+<li class="section-title"><a href="search/Details-class.html#instance-methods">Methods</a></li>
+<li><a href="search/Details/getPrimaryCategories.html">getPrimaryCategories</a></li>
+<li class="inherited"><a href="search/Details/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/Details/toString.html">toString</a></li>
+<li class="section-title"><a href="search/Details-class.html#operators">Operators</a></li>
+<li><a href="search/Details/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -250,9 +278,8 @@ is enabled in /sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -275,9 +302,7 @@ is enabled in /sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

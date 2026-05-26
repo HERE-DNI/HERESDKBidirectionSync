@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "isCancelled property"
 slug: "sdk-for-flutter-explore-core-threading-taskhandle-iscancelled"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-threading-taskhandle-iscancelled"
 `
 <div class="sdk-for-flutter">
 <!-- isCancelled.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -52,9 +52,8 @@ Gets a boolean indicating if this task is cancelled.</p>
 <pre class="language-dart"><code class="language-dart">bool get isCancelled;</code></pre>
 </section>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -78,9 +77,7 @@ Gets a boolean indicating if this task is cancelled.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

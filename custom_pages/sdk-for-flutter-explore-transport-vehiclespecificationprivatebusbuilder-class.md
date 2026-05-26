@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "VehicleSpecificationPrivateBusBuilder class abstract"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class"
 ---
 
@@ -7,7 +7,38 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-c
 `
 <div class="sdk-for-flutter">
 <!-- VehicleSpecificationPrivateBusBuilder-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="transport/VehicleSpecificationPrivateBusBuilder-class.html#constructors">Constructors</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/VehicleSpecificationPrivateBusBuilder.html">VehicleSpecificationPrivateBusBuilder</a></li>
+<li class="section-title inherited">
+<a href="transport/VehicleSpecificationPrivateBusBuilder-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="transport/VehicleSpecificationPrivateBusBuilder/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="transport/VehicleSpecificationPrivateBusBuilder/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="transport/VehicleSpecificationPrivateBusBuilder-class.html#instance-methods">Methods</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/build.html">build</a></li>
+<li class="inherited"><a href="transport/VehicleSpecificationPrivateBusBuilder/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="transport/VehicleSpecificationPrivateBusBuilder/toString.html">toString</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/withAxleCount.html">withAxleCount</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/withCurrentWeightInKilograms.html">withCurrentWeightInKilograms</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/withEmptyWeightInKilograms.html">withEmptyWeightInKilograms</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/withEngineSizeInCubicCentimeters.html">withEngineSizeInCubicCentimeters</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/withGrossWeightInKilograms.html">withGrossWeightInKilograms</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/withHeightInCentimeters.html">withHeightInCentimeters</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/withIsCommercial.html">withIsCommercial</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/withLastCharacterOfLicensePlate.html">withLastCharacterOfLicensePlate</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/withLengthInCentimeters.html">withLengthInCentimeters</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/withOccupancy.html">withOccupancy</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/withTiresCount.html">withTiresCount</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/withTrailerAxleCount.html">withTrailerAxleCount</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/withTrailerCount.html">withTrailerCount</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/withTunnelCategory.html">withTunnelCategory</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/withWeightPerAxleGroup.html">withWeightPerAxleGroup</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/withWeightPerAxleInKilograms.html">withWeightPerAxleInKilograms</a></li>
+<li><a href="transport/VehicleSpecificationPrivateBusBuilder/withWidthInCentimeters.html">withWidthInCentimeters</a></li>
+<li class="section-title inherited"><a href="transport/VehicleSpecificationPrivateBusBuilder-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="transport/VehicleSpecificationPrivateBusBuilder/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -290,9 +321,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilde
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -315,9 +345,7 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilde
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

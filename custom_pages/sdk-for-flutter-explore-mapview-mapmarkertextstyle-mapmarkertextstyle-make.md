@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapMarkerTextStyle.make constructor"
 slug: "sdk-for-flutter-explore-mapview-mapmarkertextstyle-mapmarkertextstyle-make"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapmarkertextstyle-mapmarkertextstyle-mak
 `
 <div class="sdk-for-flutter">
 <!-- MapMarkerTextStyle.make.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -80,9 +80,8 @@ Only non-negative values are supported.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory MapMarkerTextStyle.make(double textSize, ui.Color textColor, double textOutlineSize, ui.Color textOutlineColor, List&lt;MapMarkerTextStylePlacement&gt; placements) =&gt; $prototype.make(textSize, textColor, textOutlineSize, textOutlineColor, placements);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -106,9 +105,7 @@ Only non-negative values are supported.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

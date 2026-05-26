@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "IndexRange class abstract"
 slug: "sdk-for-flutter-explore-search-indexrange-class"
 ---
 
@@ -7,7 +7,22 @@ slug: "sdk-for-flutter-explore-search-indexrange-class"
 `
 <div class="sdk-for-flutter">
 <!-- IndexRange-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/IndexRange-class.html#constructors">Constructors</a></li>
+<li><a href="search/IndexRange/IndexRange.html">IndexRange</a></li>
+<li class="section-title">
+<a href="search/IndexRange-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/IndexRange/end.html">end</a></li>
+<li class="inherited"><a href="search/IndexRange/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="search/IndexRange/runtimeType.html">runtimeType</a></li>
+<li><a href="search/IndexRange/start.html">start</a></li>
+<li class="section-title inherited"><a href="search/IndexRange-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/IndexRange/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/IndexRange/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="search/IndexRange-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="search/IndexRange/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -126,9 +141,8 @@ Gets the position of the first character that matches a query.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -151,9 +165,7 @@ Gets the position of the first character that matches a query.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

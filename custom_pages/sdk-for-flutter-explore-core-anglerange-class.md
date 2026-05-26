@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "AngleRange class"
 slug: "sdk-for-flutter-explore-core-anglerange-class"
 ---
 
@@ -7,7 +7,29 @@ slug: "sdk-for-flutter-explore-core-anglerange-class"
 `
 <div class="sdk-for-flutter">
 <!-- AngleRange-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core/AngleRange-class.html#constructors">Constructors</a></li>
+<li><a href="core/AngleRange/AngleRange.html">AngleRange</a></li>
+<li><a href="core/AngleRange/AngleRange.fullCircle.html">fullCircle</a></li>
+<li class="section-title">
+<a href="core/AngleRange-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="core/AngleRange/extent.html">extent</a></li>
+<li><a href="core/AngleRange/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="core/AngleRange/runtimeType.html">runtimeType</a></li>
+<li><a href="core/AngleRange/start.html">start</a></li>
+<li class="section-title"><a href="core/AngleRange-class.html#instance-methods">Methods</a></li>
+<li><a href="core/AngleRange/closestInRange.html">closestInRange</a></li>
+<li><a href="core/AngleRange/inRange.html">inRange</a></li>
+<li><a href="core/AngleRange/max.html">max</a></li>
+<li class="inherited"><a href="core/AngleRange/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core/AngleRange/toString.html">toString</a></li>
+<li class="section-title"><a href="core/AngleRange-class.html#operators">Operators</a></li>
+<li><a href="core/AngleRange/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="core/AngleRange-class.html#static-methods">Static methods</a></li>
+<li><a href="core/AngleRange/fromDirectionDegreesClockwise.html">fromDirectionDegreesClockwise</a></li>
+<li><a href="core/AngleRange/fromMinMaxDegreesClockwise.html">fromMinMaxDegreesClockwise</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -210,9 +232,8 @@ direction and an angular width to extent the range by 50% clockwise and
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -235,9 +256,7 @@ direction and an angular width to extent the range by 50% clockwise and
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

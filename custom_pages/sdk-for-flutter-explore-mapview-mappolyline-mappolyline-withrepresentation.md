@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapPolyline.withRepresentation constructor"
 slug: "sdk-for-flutter-explore-mapview-mappolyline-mappolyline-withrepresentation"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mappolyline-mappolyline-withrepresentatio
 `
 <div class="sdk-for-flutter">
 <!-- MapPolyline.withRepresentation.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -61,9 +61,8 @@ appearance must be done with /sdk-for-flutter-explore-mapview-mappolyline-setrep
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory MapPolyline.withRepresentation(GeoPolyline geometry, MapPolylineRepresentation representation) =&gt; $prototype.withRepresentation(geometry, representation);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -87,9 +86,7 @@ appearance must be done with /sdk-for-flutter-explore-mapview-mappolyline-setrep
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

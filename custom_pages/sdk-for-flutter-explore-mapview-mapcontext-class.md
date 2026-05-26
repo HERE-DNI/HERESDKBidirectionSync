@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapContext class abstract"
 slug: "sdk-for-flutter-explore-mapview-mapcontext-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-mapview-mapcontext-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapContext-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/MapContext-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/MapContext/MapContext.html">MapContext</a></li>
+<li class="section-title inherited">
+<a href="mapview/MapContext-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview/MapContext/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview/MapContext/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="mapview/MapContext-class.html#instance-methods">Methods</a></li>
+<li><a href="mapview/MapContext/freeResource.html">freeResource</a></li>
+<li><a href="mapview/MapContext/getMemoryManagementOptions.html">getMemoryManagementOptions</a></li>
+<li class="inherited"><a href="mapview/MapContext/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="mapview/MapContext/setMemoryManagementOptions.html">setMemoryManagementOptions</a></li>
+<li class="inherited"><a href="mapview/MapContext/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview/MapContext-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/MapContext/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -145,9 +161,8 @@ int32_t max value (2,147,483,647 KiB or ~2 TiB), the returned value is clamped t
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -170,9 +185,7 @@ int32_t max value (2,147,483,647 KiB or ~2 TiB), the returned value is clamped t
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

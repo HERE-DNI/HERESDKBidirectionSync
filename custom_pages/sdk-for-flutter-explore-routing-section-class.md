@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Section class abstract"
 slug: "sdk-for-flutter-explore-routing-section-class"
 ---
 
@@ -7,7 +7,42 @@ slug: "sdk-for-flutter-explore-routing-section-class"
 `
 <div class="sdk-for-flutter">
 <!-- Section-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/Section-class.html#constructors">Constructors</a></li>
+<li><a href="routing/Section/Section.html">Section</a></li>
+<li class="section-title">
+<a href="routing/Section-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/Section/arrivalLocationTime.html">arrivalLocationTime</a></li>
+<li><a href="routing/Section/arrivalPlace.html">arrivalPlace</a></li>
+<li><a href="routing/Section/boundingBox.html">boundingBox</a></li>
+<li><a href="routing/Section/consumptionInKilowattHours.html">consumptionInKilowattHours</a></li>
+<li><a href="routing/Section/departureLocationTime.html">departureLocationTime</a></li>
+<li><a href="routing/Section/departurePlace.html">departurePlace</a></li>
+<li><a href="routing/Section/duration.html">duration</a></li>
+<li><a href="routing/Section/geometry.html">geometry</a></li>
+<li class="inherited"><a href="routing/Section/hashCode.html">hashCode</a></li>
+<li><a href="routing/Section/indoorSectionDetails.html">indoorSectionDetails</a></li>
+<li><a href="routing/Section/lengthInMeters.html">lengthInMeters</a></li>
+<li><a href="routing/Section/maneuvers.html">maneuvers</a></li>
+<li><a href="routing/Section/noThroughRestrictions.html">noThroughRestrictions</a></li>
+<li><a href="routing/Section/passthroughWaypoints.html">passthroughWaypoints</a></li>
+<li><a href="routing/Section/postActions.html">postActions</a></li>
+<li><a href="routing/Section/preActions.html">preActions</a></li>
+<li class="inherited"><a href="routing/Section/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/Section/sectionNotices.html">sectionNotices</a></li>
+<li><a href="routing/Section/sectionTransportMode.html">sectionTransportMode</a></li>
+<li><a href="routing/Section/spans.html">spans</a></li>
+<li><a href="routing/Section/tolls.html">tolls</a></li>
+<li><a href="routing/Section/trafficDelay.html">trafficDelay</a></li>
+<li><a href="routing/Section/trafficIncidents.html">trafficIncidents</a></li>
+<li><a href="routing/Section/transitDetails.html">transitDetails</a></li>
+<li class="section-title inherited"><a href="routing/Section-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/Section/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/Section/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="routing/Section-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="routing/Section/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -337,9 +372,8 @@ Gets the details of a transit section.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -362,9 +396,7 @@ Gets the details of a transit section.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

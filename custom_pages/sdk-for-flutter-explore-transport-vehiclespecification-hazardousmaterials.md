@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "hazardousMaterials property"
 slug: "sdk-for-flutter-explore-transport-vehiclespecification-hazardousmaterials"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecification-hazardousmaterials
 `
 <div class="sdk-for-flutter">
 <!-- hazardousMaterials.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -54,9 +54,8 @@ By default, it is an empty list.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">List&lt;HazardousMaterial&gt; hazardousMaterials;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -80,9 +79,7 @@ By default, it is an empty list.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

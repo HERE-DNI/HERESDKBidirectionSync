@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "VehicleProfile class"
 slug: "sdk-for-flutter-explore-transport-vehicleprofile-class"
 ---
 
@@ -7,7 +7,31 @@ slug: "sdk-for-flutter-explore-transport-vehicleprofile-class"
 `
 <div class="sdk-for-flutter">
 <!-- VehicleProfile-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="transport/VehicleProfile-class.html#constructors">Constructors</a></li>
+<li><a href="transport/VehicleProfile/VehicleProfile.html">VehicleProfile</a></li>
+<li class="section-title">
+<a href="transport/VehicleProfile-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="transport/VehicleProfile/axleCount.html">axleCount</a></li>
+<li><a href="transport/VehicleProfile/grossWeightInKilograms.html">grossWeightInKilograms</a></li>
+<li><a href="transport/VehicleProfile/hashCode.html">hashCode</a></li>
+<li><a href="transport/VehicleProfile/hazardousMaterials.html">hazardousMaterials</a></li>
+<li><a href="transport/VehicleProfile/heightInCentimeters.html">heightInCentimeters</a></li>
+<li><a href="transport/VehicleProfile/lengthInCentimeters.html">lengthInCentimeters</a></li>
+<li class="inherited"><a href="transport/VehicleProfile/runtimeType.html">runtimeType</a></li>
+<li><a href="transport/VehicleProfile/trailerCount.html">trailerCount</a></li>
+<li><a href="transport/VehicleProfile/truckCategory.html">truckCategory</a></li>
+<li><a href="transport/VehicleProfile/tunnelCategory.html">tunnelCategory</a></li>
+<li><a href="transport/VehicleProfile/vehicleType.html">vehicleType</a></li>
+<li><a href="transport/VehicleProfile/weightPerAxleInKilograms.html">weightPerAxleInKilograms</a></li>
+<li><a href="transport/VehicleProfile/widthInCentimeters.html">widthInCentimeters</a></li>
+<li class="section-title inherited"><a href="transport/VehicleProfile-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="transport/VehicleProfile/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="transport/VehicleProfile/toString.html">toString</a></li>
+<li class="section-title"><a href="transport/VehicleProfile-class.html#operators">Operators</a></li>
+<li><a href="transport/VehicleProfile/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -230,9 +254,8 @@ By default, it is not set.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -255,9 +278,7 @@ By default, it is not set.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

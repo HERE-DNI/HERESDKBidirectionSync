@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SearchOptions class"
 slug: "sdk-for-flutter-explore-search-searchoptions-class"
 ---
 
@@ -7,7 +7,24 @@ slug: "sdk-for-flutter-explore-search-searchoptions-class"
 `
 <div class="sdk-for-flutter">
 <!-- SearchOptions-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/SearchOptions-class.html#constructors">Constructors</a></li>
+<li><a href="search/SearchOptions/SearchOptions.html">SearchOptions</a></li>
+<li class="section-title">
+<a href="search/SearchOptions-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/SearchOptions/distributedResults.html">distributedResults</a></li>
+<li><a href="search/SearchOptions/hashCode.html">hashCode</a></li>
+<li><a href="search/SearchOptions/highDensityEncodingEnabled.html">highDensityEncodingEnabled</a></li>
+<li><a href="search/SearchOptions/languageCode.html">languageCode</a></li>
+<li><a href="search/SearchOptions/maxItems.html">maxItems</a></li>
+<li class="inherited"><a href="search/SearchOptions/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="search/SearchOptions-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/SearchOptions/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/SearchOptions/toString.html">toString</a></li>
+<li class="section-title"><a href="search/SearchOptions-class.html#operators">Operators</a></li>
+<li><a href="search/SearchOptions/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -151,9 +168,8 @@ For location search (reverse geocode) by default results limited to 1.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -176,9 +192,7 @@ For location search (reverse geocode) by default results limited to 1.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

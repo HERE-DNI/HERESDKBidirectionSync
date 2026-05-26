@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TransitRoutingEngine class abstract"
 slug: "sdk-for-flutter-explore-routing-transitroutingengine-class"
 ---
 
@@ -7,7 +7,22 @@ slug: "sdk-for-flutter-explore-routing-transitroutingengine-class"
 `
 <div class="sdk-for-flutter">
 <!-- TransitRoutingEngine-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/TransitRoutingEngine-class.html#constructors">Constructors</a></li>
+<li><a href="routing/TransitRoutingEngine/TransitRoutingEngine.html">TransitRoutingEngine</a></li>
+<li><a href="routing/TransitRoutingEngine/TransitRoutingEngine.withSdkEngine.html">withSdkEngine</a></li>
+<li class="section-title inherited">
+<a href="routing/TransitRoutingEngine-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="routing/TransitRoutingEngine/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="routing/TransitRoutingEngine/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="routing/TransitRoutingEngine-class.html#instance-methods">Methods</a></li>
+<li><a href="routing/TransitRoutingEngine/calculateRoute.html">calculateRoute</a></li>
+<li class="inherited"><a href="routing/TransitRoutingEngine/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/TransitRoutingEngine/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="routing/TransitRoutingEngine-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="routing/TransitRoutingEngine/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -131,9 +146,8 @@ estimated time to traverse along the route and maneuver data.</p>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -156,9 +170,7 @@ estimated time to traverse along the route and maneuver data.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

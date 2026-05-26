@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "lookAtDistanceWithEasing static method"
 slug: "sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-lookatdistancewitheasing"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-lookatdistancewith
 `
 <div class="sdk-for-flutter">
 <!-- lookAtDistanceWithEasing.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -82,9 +82,8 @@ and creation of the keyframe track will fail.</p>
 
 static MapCameraKeyframeTrack lookAtDistanceWithEasing(List&lt;ScalarKeyframe&gt; keyframes, Easing easing, KeyframeInterpolationMode interpolationMode) =&gt; $prototype.lookAtDistanceWithEasing(keyframes, easing, interpolationMode);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -108,9 +107,7 @@ static MapCameraKeyframeTrack lookAtDistanceWithEasing(List&lt;ScalarKeyframe&gt
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

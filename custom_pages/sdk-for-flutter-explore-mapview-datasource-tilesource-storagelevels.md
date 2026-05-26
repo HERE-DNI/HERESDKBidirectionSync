@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "storageLevels property"
 slug: "sdk-for-flutter-explore-mapview-datasource-tilesource-storagelevels"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tilesource-storagelevels"
 `
 <div class="sdk-for-flutter">
 <!-- storageLevels.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -52,9 +52,8 @@ Gets the storage levels available for this data source. Supported range [0, 31].
 <pre class="language-dart"><code class="language-dart">List&lt;int&gt; get storageLevels;</code></pre>
 </section>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -78,9 +77,7 @@ Gets the storage levels available for this data source. Supported range [0, 31].
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

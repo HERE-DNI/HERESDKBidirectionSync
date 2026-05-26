@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PolygonDataAccessor class abstract"
 slug: "sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-class"
 ---
 
@@ -7,7 +7,24 @@ slug: "sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-class"
 `
 <div class="sdk-for-flutter">
 <!-- PolygonDataAccessor-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview.datasource/PolygonDataAccessor-class.html#constructors">Constructors</a></li>
+<li><a href="mapview.datasource/PolygonDataAccessor/PolygonDataAccessor.html">PolygonDataAccessor</a></li>
+<li class="section-title inherited">
+<a href="mapview.datasource/PolygonDataAccessor-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview.datasource/PolygonDataAccessor/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview.datasource/PolygonDataAccessor/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="mapview.datasource/PolygonDataAccessor-class.html#instance-methods">Methods</a></li>
+<li><a href="mapview.datasource/PolygonDataAccessor/getAttributes.html">getAttributes</a></li>
+<li><a href="mapview.datasource/PolygonDataAccessor/getGeometry.html">getGeometry</a></li>
+<li class="inherited"><a href="mapview.datasource/PolygonDataAccessor/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="mapview.datasource/PolygonDataAccessor/setAttributes.html">setAttributes</a></li>
+<li><a href="mapview.datasource/PolygonDataAccessor/setGeometry.html">setGeometry</a></li>
+<li class="inherited"><a href="mapview.datasource/PolygonDataAccessor/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview.datasource/PolygonDataAccessor-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview.datasource/PolygonDataAccessor/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -149,9 +166,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -174,9 +190,7 @@ behavior. Related APIs may change for new releases without a deprecation process
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

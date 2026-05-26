@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Span class abstract"
 slug: "sdk-for-flutter-explore-routing-span-class"
 ---
 
@@ -7,7 +7,43 @@ slug: "sdk-for-flutter-explore-routing-span-class"
 `
 <div class="sdk-for-flutter">
 <!-- Span-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/Span-class.html#constructors">Constructors</a></li>
+<li><a href="routing/Span/Span.html">Span</a></li>
+<li class="section-title">
+<a href="routing/Span-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/Span/baseDuration.html">baseDuration</a></li>
+<li><a href="routing/Span/carAttributes.html">carAttributes</a></li>
+<li><a href="routing/Span/consumptionInKilowattHours.html">consumptionInKilowattHours</a></li>
+<li><a href="routing/Span/countryCode.html">countryCode</a></li>
+<li><a href="routing/Span/duration.html">duration</a></li>
+<li><a href="routing/Span/dynamicSpeedInfo.html">dynamicSpeedInfo</a></li>
+<li><a href="routing/Span/functionalRoadClass.html">functionalRoadClass</a></li>
+<li><a href="routing/Span/geometry.html">geometry</a></li>
+<li class="inherited"><a href="routing/Span/hashCode.html">hashCode</a></li>
+<li><a href="routing/Span/lengthInMeters.html">lengthInMeters</a></li>
+<li><a href="routing/Span/noThroughRestrictionsIndexes.html">noThroughRestrictionsIndexes</a></li>
+<li><a href="routing/Span/noticeIndexes.html">noticeIndexes</a></li>
+<li><a href="routing/Span/roadNumbers.html">roadNumbers</a></li>
+<li class="inherited"><a href="routing/Span/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/Span/scooterAttributes.html">scooterAttributes</a></li>
+<li><a href="routing/Span/sectionPolylineOffset.html">sectionPolylineOffset</a></li>
+<li><a href="routing/Span/segmentReference.html">segmentReference</a></li>
+<li><a href="routing/Span/speedLimitInMetersPerSecond.html">speedLimitInMetersPerSecond</a></li>
+<li><a href="routing/Span/stateCode.html">stateCode</a></li>
+<li><a href="routing/Span/streetAttributes.html">streetAttributes</a></li>
+<li><a href="routing/Span/streetNames.html">streetNames</a></li>
+<li><a href="routing/Span/trafficIncidentIndexes.html">trafficIncidentIndexes</a></li>
+<li><a href="routing/Span/truckAttributes.html">truckAttributes</a></li>
+<li><a href="routing/Span/walkAttributes.html">walkAttributes</a></li>
+<li class="section-title"><a href="routing/Span-class.html#instance-methods">Methods</a></li>
+<li><a href="routing/Span/getShieldText.html">getShieldText</a></li>
+<li class="inherited"><a href="routing/Span/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/Span/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="routing/Span-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="routing/Span/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -350,9 +386,8 @@ The list of walk attributes on the span.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -375,9 +410,7 @@ The list of walk attributes on the span.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

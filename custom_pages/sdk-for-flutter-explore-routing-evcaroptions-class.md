@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVCarOptions class"
 slug: "sdk-for-flutter-explore-routing-evcaroptions-class"
 ---
 
@@ -7,7 +7,33 @@ slug: "sdk-for-flutter-explore-routing-evcaroptions-class"
 `
 <div class="sdk-for-flutter">
 <!-- EVCarOptions-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/EVCarOptions-class.html#constructors">Constructors</a></li>
+<li><a href="routing/EVCarOptions/EVCarOptions.html">EVCarOptions</a></li>
+<li class="section-title">
+<a href="routing/EVCarOptions-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/EVCarOptions/allowOptions.html">allowOptions</a></li>
+<li><a href="routing/EVCarOptions/avoidanceOptions.html">avoidanceOptions</a></li>
+<li><a href="routing/EVCarOptions/batterySpecifications.html">batterySpecifications</a></li>
+<li><a href="routing/EVCarOptions/carSpecifications.html">carSpecifications</a></li>
+<li><a href="routing/EVCarOptions/consumptionModel.html">consumptionModel</a></li>
+<li><a href="routing/EVCarOptions/ensureReachability.html">ensureReachability</a></li>
+<li><a href="routing/EVCarOptions/evMobilityServiceProviderPreferences.html">evMobilityServiceProviderPreferences</a></li>
+<li><a href="routing/EVCarOptions/hashCode.html">hashCode</a></li>
+<li><a href="routing/EVCarOptions/lastCharacterOfLicensePlate.html">lastCharacterOfLicensePlate</a></li>
+<li><a href="routing/EVCarOptions/maxSpeedOnSegments.html">maxSpeedOnSegments</a></li>
+<li><a href="routing/EVCarOptions/occupantsNumber.html">occupantsNumber</a></li>
+<li><a href="routing/EVCarOptions/routeOptions.html">routeOptions</a></li>
+<li class="inherited"><a href="routing/EVCarOptions/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/EVCarOptions/textOptions.html">textOptions</a></li>
+<li><a href="routing/EVCarOptions/tollOptions.html">tollOptions</a></li>
+<li class="section-title inherited"><a href="routing/EVCarOptions-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/EVCarOptions/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/EVCarOptions/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/EVCarOptions-class.html#operators">Operators</a></li>
+<li><a href="routing/EVCarOptions/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -260,9 +286,8 @@ such as transponders, vehicle category, and emission type.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -285,9 +310,7 @@ such as transponders, vehicle category, and emission type.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

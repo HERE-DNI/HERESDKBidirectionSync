@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVChargingDurationRange class"
 slug: "sdk-for-flutter-explore-search-evchargingdurationrange-class"
 ---
 
@@ -7,7 +7,22 @@ slug: "sdk-for-flutter-explore-search-evchargingdurationrange-class"
 `
 <div class="sdk-for-flutter">
 <!-- EVChargingDurationRange-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/EVChargingDurationRange-class.html#constructors">Constructors</a></li>
+<li><a href="search/EVChargingDurationRange/EVChargingDurationRange.html">EVChargingDurationRange</a></li>
+<li class="section-title">
+<a href="search/EVChargingDurationRange-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/EVChargingDurationRange/hashCode.html">hashCode</a></li>
+<li><a href="search/EVChargingDurationRange/max.html">max</a></li>
+<li><a href="search/EVChargingDurationRange/min.html">min</a></li>
+<li class="inherited"><a href="search/EVChargingDurationRange/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="search/EVChargingDurationRange-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/EVChargingDurationRange/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/EVChargingDurationRange/toString.html">toString</a></li>
+<li class="section-title"><a href="search/EVChargingDurationRange-class.html#operators">Operators</a></li>
+<li><a href="search/EVChargingDurationRange/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -129,9 +144,8 @@ If absent the element becomes valid as soon as other conditions allow.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -154,9 +168,7 @@ If absent the element becomes valid as soon as other conditions allow.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

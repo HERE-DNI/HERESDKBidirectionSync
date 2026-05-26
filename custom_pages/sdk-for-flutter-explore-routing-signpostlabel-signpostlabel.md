@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SignpostLabel constructor"
 slug: "sdk-for-flutter-explore-routing-signpostlabel-signpostlabel"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-signpostlabel-signpostlabel"
 `
 <div class="sdk-for-flutter">
 <!-- SignpostLabel.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -45,9 +45,8 @@ SignpostLabel(<wbr/>)
 <pre class="language-dart"><code class="language-dart">SignpostLabel()
   : localizedText = null, localizedRoadNumber = null;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -71,9 +70,7 @@ SignpostLabel(<wbr/>)
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

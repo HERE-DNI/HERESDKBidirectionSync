@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "LineDataBuilder class abstract"
 slug: "sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-mapview-datasource-linedatabuilder-class"
 `
 <div class="sdk-for-flutter">
 <!-- LineDataBuilder-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview.datasource/LineDataBuilder-class.html#constructors">Constructors</a></li>
+<li><a href="mapview.datasource/LineDataBuilder/LineDataBuilder.html">LineDataBuilder</a></li>
+<li class="section-title inherited">
+<a href="mapview.datasource/LineDataBuilder-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview.datasource/LineDataBuilder/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview.datasource/LineDataBuilder/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="mapview.datasource/LineDataBuilder-class.html#instance-methods">Methods</a></li>
+<li><a href="mapview.datasource/LineDataBuilder/build.html">build</a></li>
+<li class="inherited"><a href="mapview.datasource/LineDataBuilder/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="mapview.datasource/LineDataBuilder/toString.html">toString</a></li>
+<li><a href="mapview.datasource/LineDataBuilder/withAttributes.html">withAttributes</a></li>
+<li><a href="mapview.datasource/LineDataBuilder/withGeometry.html">withGeometry</a></li>
+<li class="section-title inherited"><a href="mapview.datasource/LineDataBuilder-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview.datasource/LineDataBuilder/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -141,9 +157,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -166,9 +181,7 @@ behavior. Related APIs may change for new releases without a deprecation process
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

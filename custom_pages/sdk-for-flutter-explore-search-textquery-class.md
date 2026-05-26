@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TextQuery class"
 slug: "sdk-for-flutter-explore-search-textquery-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-search-textquery-class"
 `
 <div class="sdk-for-flutter">
 <!-- TextQuery-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/TextQuery-class.html#constructors">Constructors</a></li>
+<li><a href="search/TextQuery/TextQuery.withArea.html">withArea</a></li>
+<li class="section-title">
+<a href="search/TextQuery-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/TextQuery/area.html">area</a></li>
+<li><a href="search/TextQuery/hashCode.html">hashCode</a></li>
+<li><a href="search/TextQuery/placeFilter.html">placeFilter</a></li>
+<li><a href="search/TextQuery/query.html">query</a></li>
+<li class="inherited"><a href="search/TextQuery/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="search/TextQuery-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/TextQuery/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/TextQuery/toString.html">toString</a></li>
+<li class="section-title"><a href="search/TextQuery-class.html#operators">Operators</a></li>
+<li><a href="search/TextQuery/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -135,9 +151,8 @@ Consists of fuel and truck options.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -160,9 +175,7 @@ Consists of fuel and truck options.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

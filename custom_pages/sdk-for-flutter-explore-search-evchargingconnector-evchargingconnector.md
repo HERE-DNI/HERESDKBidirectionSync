@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVChargingConnector constructor"
 slug: "sdk-for-flutter-explore-search-evchargingconnector-evchargingconnector"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-search-evchargingconnector-evchargingconnector"
 `
 <div class="sdk-for-flutter">
 <!-- EVChargingConnector.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -45,9 +45,8 @@ EVChargingConnector(<wbr/>)
 <pre class="language-dart"><code class="language-dart">EVChargingConnector()
   : id = "", connectorType = "", format = EVChargingConnectorFormat.socket, powerType = PowerType.ac1phase, maxVoltageInVolts = 0, maxCurrentInAmperes = 0, maxPowerInWatts = null, termsAndConditionsUrl = null, tariffIndexes = [];</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -71,9 +70,7 @@ EVChargingConnector(<wbr/>)
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

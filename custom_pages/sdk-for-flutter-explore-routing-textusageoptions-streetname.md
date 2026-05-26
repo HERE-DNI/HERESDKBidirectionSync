@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "streetName property"
 slug: "sdk-for-flutter-explore-routing-textusageoptions-streetname"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-textusageoptions-streetname"
 `
 <div class="sdk-for-flutter">
 <!-- streetName.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -50,9 +50,8 @@ Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">LocalizedTextPreference streetName;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -76,9 +75,7 @@ Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

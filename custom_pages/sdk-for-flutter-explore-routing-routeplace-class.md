@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "RoutePlace class"
 slug: "sdk-for-flutter-explore-routing-routeplace-class"
 ---
 
@@ -7,7 +7,32 @@ slug: "sdk-for-flutter-explore-routing-routeplace-class"
 `
 <div class="sdk-for-flutter">
 <!-- RoutePlace-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/RoutePlace-class.html#constructors">Constructors</a></li>
+<li><a href="routing/RoutePlace/RoutePlace.html">RoutePlace</a></li>
+<li class="section-title">
+<a href="routing/RoutePlace-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/RoutePlace/chargeInKilowattHours.html">chargeInKilowattHours</a></li>
+<li><a href="routing/RoutePlace/chargingStation.html">chargingStation</a></li>
+<li><a href="routing/RoutePlace/displayCoordinates.html">displayCoordinates</a></li>
+<li><a href="routing/RoutePlace/hashCode.html">hashCode</a></li>
+<li><a href="routing/RoutePlace/id.html">id</a></li>
+<li><a href="routing/RoutePlace/mapMatchedCoordinates.html">mapMatchedCoordinates</a></li>
+<li><a href="routing/RoutePlace/name.html">name</a></li>
+<li><a href="routing/RoutePlace/originalCoordinates.html">originalCoordinates</a></li>
+<li><a href="routing/RoutePlace/platform.html">platform</a></li>
+<li class="inherited"><a href="routing/RoutePlace/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/RoutePlace/sideOfDestination.html">sideOfDestination</a></li>
+<li><a href="routing/RoutePlace/type.html">type</a></li>
+<li><a href="routing/RoutePlace/waypointIndex.html">waypointIndex</a></li>
+<li class="section-title"><a href="routing/RoutePlace-class.html#instance-methods">Methods</a></li>
+<li><a href="routing/RoutePlace/isOffRoad.html">isOffRoad</a></li>
+<li class="inherited"><a href="routing/RoutePlace/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/RoutePlace/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/RoutePlace-class.html#operators">Operators</a></li>
+<li><a href="routing/RoutePlace/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -217,9 +242,8 @@ route calculation by the system.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -242,9 +266,7 @@ route calculation by the system.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

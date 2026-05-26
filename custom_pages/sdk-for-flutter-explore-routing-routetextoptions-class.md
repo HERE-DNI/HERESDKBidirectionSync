@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "RouteTextOptions class"
 slug: "sdk-for-flutter-explore-routing-routetextoptions-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-routing-routetextoptions-class"
 `
 <div class="sdk-for-flutter">
 <!-- RouteTextOptions-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/RouteTextOptions-class.html#constructors">Constructors</a></li>
+<li><a href="routing/RouteTextOptions/RouteTextOptions.html">RouteTextOptions</a></li>
+<li class="section-title">
+<a href="routing/RouteTextOptions-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/RouteTextOptions/hashCode.html">hashCode</a></li>
+<li><a href="routing/RouteTextOptions/language.html">language</a></li>
+<li class="inherited"><a href="routing/RouteTextOptions/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/RouteTextOptions/textUsageOptions.html">textUsageOptions</a></li>
+<li><a href="routing/RouteTextOptions/unitSystem.html">unitSystem</a></li>
+<li class="section-title inherited"><a href="routing/RouteTextOptions-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/RouteTextOptions/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/RouteTextOptions/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/RouteTextOptions-class.html#operators">Operators</a></li>
+<li><a href="routing/RouteTextOptions/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -135,9 +151,8 @@ units used are based on the language specified in the request. Defaults to metri
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -160,9 +175,7 @@ units used are based on the language specified in the request. Defaults to metri
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

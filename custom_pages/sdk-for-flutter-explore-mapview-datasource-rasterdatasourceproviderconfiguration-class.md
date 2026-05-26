@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "RasterDataSourceProviderConfiguration class"
 slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-class"
 ---
 
@@ -7,7 +7,26 @@ slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfig
 `
 <div class="sdk-for-flutter">
 <!-- RasterDataSourceProviderConfiguration-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview.datasource/RasterDataSourceProviderConfiguration-class.html#constructors">Constructors</a></li>
+<li><a href="mapview.datasource/RasterDataSourceProviderConfiguration/RasterDataSourceProviderConfiguration.Default.html">Default</a></li>
+<li><a href="mapview.datasource/RasterDataSourceProviderConfiguration/RasterDataSourceProviderConfiguration.withDefaults.html">withDefaults</a></li>
+<li class="section-title">
+<a href="mapview.datasource/RasterDataSourceProviderConfiguration-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="mapview.datasource/RasterDataSourceProviderConfiguration/hasAlphaChannel.html">hasAlphaChannel</a></li>
+<li class="inherited"><a href="mapview.datasource/RasterDataSourceProviderConfiguration/hashCode.html">hashCode</a></li>
+<li><a href="mapview.datasource/RasterDataSourceProviderConfiguration/headers.html">headers</a></li>
+<li class="inherited"><a href="mapview.datasource/RasterDataSourceProviderConfiguration/runtimeType.html">runtimeType</a></li>
+<li><a href="mapview.datasource/RasterDataSourceProviderConfiguration/storageLevels.html">storageLevels</a></li>
+<li><a href="mapview.datasource/RasterDataSourceProviderConfiguration/tilingScheme.html">tilingScheme</a></li>
+<li><a href="mapview.datasource/RasterDataSourceProviderConfiguration/urlProvider.html">urlProvider</a></li>
+<li class="section-title inherited"><a href="mapview.datasource/RasterDataSourceProviderConfiguration-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="mapview.datasource/RasterDataSourceProviderConfiguration/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="mapview.datasource/RasterDataSourceProviderConfiguration/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview.datasource/RasterDataSourceProviderConfiguration-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview.datasource/RasterDataSourceProviderConfiguration/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -162,9 +181,8 @@ appropriate z value of the tile key will be determined.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -187,9 +205,7 @@ appropriate z value of the tile key will be determined.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "currentWeightInKilograms property"
 slug: "sdk-for-flutter-explore-transport-truckspecifications-currentweightinkilograms"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-transport-truckspecifications-currentweightinkilo
 `
 <div class="sdk-for-flutter">
 <!-- currentWeightInKilograms.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -52,9 +52,8 @@ it will default to /sdk-for-flutter-explore-transport-truckspecifications-grossw
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">int? currentWeightInKilograms;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -78,9 +77,7 @@ it will default to /sdk-for-flutter-explore-transport-truckspecifications-grossw
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVChargingConnectorType class"
 slug: "sdk-for-flutter-explore-ev-evchargingconnectortype-class"
 ---
 
@@ -7,7 +7,62 @@ slug: "sdk-for-flutter-explore-ev-evchargingconnectortype-class"
 `
 <div class="sdk-for-flutter">
 <!-- EVChargingConnectorType-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="ev/EVChargingConnectorType-class.html#constructors">Constructors</a></li>
+<li><a href="ev/EVChargingConnectorType/EVChargingConnectorType.html">EVChargingConnectorType</a></li>
+<li class="section-title inherited">
+<a href="ev/EVChargingConnectorType-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="ev/EVChargingConnectorType/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="ev/EVChargingConnectorType/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="ev/EVChargingConnectorType-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="ev/EVChargingConnectorType/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="ev/EVChargingConnectorType/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="ev/EVChargingConnectorType-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="ev/EVChargingConnectorType/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="ev/EVChargingConnectorType-class.html#static-properties">Static properties</a></li>
+<li><a href="ev/EVChargingConnectorType/chademo.html">chademo</a></li>
+<li><a href="ev/EVChargingConnectorType/chaoji.html">chaoji</a></li>
+<li><a href="ev/EVChargingConnectorType/domesticA.html">domesticA</a></li>
+<li><a href="ev/EVChargingConnectorType/domesticB.html">domesticB</a></li>
+<li><a href="ev/EVChargingConnectorType/domesticC.html">domesticC</a></li>
+<li><a href="ev/EVChargingConnectorType/domesticD.html">domesticD</a></li>
+<li><a href="ev/EVChargingConnectorType/domesticE.html">domesticE</a></li>
+<li><a href="ev/EVChargingConnectorType/domesticF.html">domesticF</a></li>
+<li><a href="ev/EVChargingConnectorType/domesticG.html">domesticG</a></li>
+<li><a href="ev/EVChargingConnectorType/domesticH.html">domesticH</a></li>
+<li><a href="ev/EVChargingConnectorType/domesticI.html">domesticI</a></li>
+<li><a href="ev/EVChargingConnectorType/domesticJ.html">domesticJ</a></li>
+<li><a href="ev/EVChargingConnectorType/domesticK.html">domesticK</a></li>
+<li><a href="ev/EVChargingConnectorType/domesticL.html">domesticL</a></li>
+<li><a href="ev/EVChargingConnectorType/domesticM.html">domesticM</a></li>
+<li><a href="ev/EVChargingConnectorType/domesticN.html">domesticN</a></li>
+<li><a href="ev/EVChargingConnectorType/domesticO.html">domesticO</a></li>
+<li><a href="ev/EVChargingConnectorType/gbtAc.html">gbtAc</a></li>
+<li><a href="ev/EVChargingConnectorType/gbtDc.html">gbtDc</a></li>
+<li><a href="ev/EVChargingConnectorType/iec603092Single16.html">iec603092Single16</a></li>
+<li><a href="ev/EVChargingConnectorType/iec603092Three16.html">iec603092Three16</a></li>
+<li><a href="ev/EVChargingConnectorType/iec603092Three32.html">iec603092Three32</a></li>
+<li><a href="ev/EVChargingConnectorType/iec603092Three64.html">iec603092Three64</a></li>
+<li><a href="ev/EVChargingConnectorType/iec62196T1.html">iec62196T1</a></li>
+<li><a href="ev/EVChargingConnectorType/iec62196T1Combo.html">iec62196T1Combo</a></li>
+<li><a href="ev/EVChargingConnectorType/iec62196T2.html">iec62196T2</a></li>
+<li><a href="ev/EVChargingConnectorType/iec62196T2Combo.html">iec62196T2Combo</a></li>
+<li><a href="ev/EVChargingConnectorType/iec62196T3a.html">iec62196T3a</a></li>
+<li><a href="ev/EVChargingConnectorType/iec62196T3c.html">iec62196T3c</a></li>
+<li><a href="ev/EVChargingConnectorType/mcs.html">mcs</a></li>
+<li><a href="ev/EVChargingConnectorType/nema1030.html">nema1030</a></li>
+<li><a href="ev/EVChargingConnectorType/nema1050.html">nema1050</a></li>
+<li><a href="ev/EVChargingConnectorType/nema1430.html">nema1430</a></li>
+<li><a href="ev/EVChargingConnectorType/nema1450.html">nema1450</a></li>
+<li><a href="ev/EVChargingConnectorType/nema520.html">nema520</a></li>
+<li><a href="ev/EVChargingConnectorType/nema630.html">nema630</a></li>
+<li><a href="ev/EVChargingConnectorType/nema650.html">nema650</a></li>
+<li><a href="ev/EVChargingConnectorType/pantographBottomUp.html">pantographBottomUp</a></li>
+<li><a href="ev/EVChargingConnectorType/pantographTopDown.html">pantographTopDown</a></li>
+<li><a href="ev/EVChargingConnectorType/saeJ3400.html">saeJ3400</a></li>
+<li><a href="ev/EVChargingConnectorType/teslaR.html">teslaR</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -442,9 +497,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -467,9 +521,7 @@ Related APIs may change for new releases without a deprecation process.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "POIPaymentMethod class"
 slug: "sdk-for-flutter-explore-search-poipaymentmethod-class"
 ---
 
@@ -7,7 +7,37 @@ slug: "sdk-for-flutter-explore-search-poipaymentmethod-class"
 `
 <div class="sdk-for-flutter">
 <!-- POIPaymentMethod-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/POIPaymentMethod-class.html#constructors">Constructors</a></li>
+<li><a href="search/POIPaymentMethod/POIPaymentMethod.html">POIPaymentMethod</a></li>
+<li class="section-title inherited">
+<a href="search/POIPaymentMethod-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="search/POIPaymentMethod/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="search/POIPaymentMethod/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="search/POIPaymentMethod-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/POIPaymentMethod/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/POIPaymentMethod/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="search/POIPaymentMethod-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="search/POIPaymentMethod/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="search/POIPaymentMethod-class.html#static-properties">Static properties</a></li>
+<li><a href="search/POIPaymentMethod/amex.html">amex</a></li>
+<li><a href="search/POIPaymentMethod/ampol.html">ampol</a></li>
+<li><a href="search/POIPaymentMethod/androidPay.html">androidPay</a></li>
+<li><a href="search/POIPaymentMethod/applePay.html">applePay</a></li>
+<li><a href="search/POIPaymentMethod/cash.html">cash</a></li>
+<li><a href="search/POIPaymentMethod/cheque.html">cheque</a></li>
+<li><a href="search/POIPaymentMethod/debitCard.html">debitCard</a></li>
+<li><a href="search/POIPaymentMethod/dinersClub.html">dinersClub</a></li>
+<li><a href="search/POIPaymentMethod/discover.html">discover</a></li>
+<li><a href="search/POIPaymentMethod/dkv.html">dkv</a></li>
+<li><a href="search/POIPaymentMethod/financing.html">financing</a></li>
+<li><a href="search/POIPaymentMethod/mastercard.html">mastercard</a></li>
+<li><a href="search/POIPaymentMethod/motorpass.html">motorpass</a></li>
+<li><a href="search/POIPaymentMethod/paypal.html">paypal</a></li>
+<li><a href="search/POIPaymentMethod/shell.html">shell</a></li>
+<li><a href="search/POIPaymentMethod/visa.html">visa</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -244,9 +274,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -269,9 +298,7 @@ Related APIs may change for new releases without a deprecation process.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

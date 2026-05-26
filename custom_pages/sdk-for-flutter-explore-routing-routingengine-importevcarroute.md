@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "importEVCarRoute abstract method"
 slug: "sdk-for-flutter-explore-routing-routingengine-importevcarroute"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-routingengine-importevcarroute"
 `
 <div class="sdk-for-flutter">
 <!-- importEVCarRoute.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -84,9 +84,8 @@ It is always invoked on the main thread.</p>
 
 TaskHandle importEVCarRoute(List&lt;Location&gt; locations, EVCarOptions evCarOptions, CalculateRouteCallback callback);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -110,9 +109,7 @@ TaskHandle importEVCarRoute(List&lt;Location&gt; locations, EVCarOptions evCarOp
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

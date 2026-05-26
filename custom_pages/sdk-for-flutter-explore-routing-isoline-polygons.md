@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "polygons property"
 slug: "sdk-for-flutter-explore-routing-isoline-polygons"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-isoline-polygons"
 `
 <div class="sdk-for-flutter">
 <!-- polygons.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -57,9 +57,8 @@ only a single polygon is included.</p>
 <pre class="language-dart"><code class="language-dart">List&lt;GeoPolygon&gt; get polygons;</code></pre>
 </section>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -83,9 +82,7 @@ only a single polygon is included.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

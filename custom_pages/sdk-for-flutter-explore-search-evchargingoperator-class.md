@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVChargingOperator class"
 slug: "sdk-for-flutter-explore-search-evchargingoperator-class"
 ---
 
@@ -7,7 +7,25 @@ slug: "sdk-for-flutter-explore-search-evchargingoperator-class"
 `
 <div class="sdk-for-flutter">
 <!-- EVChargingOperator-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/EVChargingOperator-class.html#constructors">Constructors</a></li>
+<li><a href="search/EVChargingOperator/EVChargingOperator.html">EVChargingOperator</a></li>
+<li class="section-title">
+<a href="search/EVChargingOperator-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/EVChargingOperator/eMobilityIDs.html">eMobilityIDs</a></li>
+<li><a href="search/EVChargingOperator/hashCode.html">hashCode</a></li>
+<li><a href="search/EVChargingOperator/logo.html">logo</a></li>
+<li><a href="search/EVChargingOperator/name.html">name</a></li>
+<li><a href="search/EVChargingOperator/partnerID.html">partnerID</a></li>
+<li class="inherited"><a href="search/EVChargingOperator/runtimeType.html">runtimeType</a></li>
+<li><a href="search/EVChargingOperator/website.html">website</a></li>
+<li class="section-title inherited"><a href="search/EVChargingOperator-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/EVChargingOperator/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/EVChargingOperator/toString.html">toString</a></li>
+<li class="section-title"><a href="search/EVChargingOperator-class.html#operators">Operators</a></li>
+<li><a href="search/EVChargingOperator/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -151,9 +169,8 @@ This list may be empty where map coverage is limited or incomplete.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -176,9 +193,7 @@ This list may be empty where map coverage is limited or incomplete.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

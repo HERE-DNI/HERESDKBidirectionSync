@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "RefreshRouteOptions class abstract"
 slug: "sdk-for-flutter-explore-routing-refreshrouteoptions-class"
 ---
 
@@ -7,7 +7,30 @@ slug: "sdk-for-flutter-explore-routing-refreshrouteoptions-class"
 `
 <div class="sdk-for-flutter">
 <!-- RefreshRouteOptions-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/RefreshRouteOptions-class.html#constructors">Constructors</a></li>
+<li><a href="routing/RefreshRouteOptions/RefreshRouteOptions.withBicycleOptions.html">withBicycleOptions</a></li>
+<li><a href="routing/RefreshRouteOptions/RefreshRouteOptions.withBusOptions.html">withBusOptions</a></li>
+<li><a href="routing/RefreshRouteOptions/RefreshRouteOptions.withCarOptions.html">withCarOptions</a></li>
+<li><a href="routing/RefreshRouteOptions/RefreshRouteOptions.withEVCarOptions.html">withEVCarOptions</a></li>
+<li><a href="routing/RefreshRouteOptions/RefreshRouteOptions.withEVTruckOptions.html">withEVTruckOptions</a></li>
+<li><a href="routing/RefreshRouteOptions/RefreshRouteOptions.withPedestrianOptions.html">withPedestrianOptions</a></li>
+<li><a href="routing/RefreshRouteOptions/RefreshRouteOptions.withPrivateBusOptions.html">withPrivateBusOptions</a></li>
+<li><a href="routing/RefreshRouteOptions/RefreshRouteOptions.withScooterOptions.html">withScooterOptions</a></li>
+<li><a href="routing/RefreshRouteOptions/RefreshRouteOptions.withTaxiOptions.html">withTaxiOptions</a></li>
+<li><a href="routing/RefreshRouteOptions/RefreshRouteOptions.withTransportMode.html">withTransportMode</a></li>
+<li><a href="routing/RefreshRouteOptions/RefreshRouteOptions.withTruckOptions.html">withTruckOptions</a></li>
+<li class="section-title inherited">
+<a href="routing/RefreshRouteOptions-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="routing/RefreshRouteOptions/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="routing/RefreshRouteOptions/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="routing/RefreshRouteOptions-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/RefreshRouteOptions/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/RefreshRouteOptions/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="routing/RefreshRouteOptions-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="routing/RefreshRouteOptions/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -200,9 +223,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -225,9 +247,7 @@ Related APIs may change for new releases without a deprecation process.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

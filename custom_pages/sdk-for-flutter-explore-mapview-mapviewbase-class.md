@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapViewBase class abstract"
 slug: "sdk-for-flutter-explore-mapview-mapviewbase-class"
 ---
 
@@ -7,7 +7,36 @@ slug: "sdk-for-flutter-explore-mapview-mapviewbase-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapViewBase-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/MapViewBase-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/MapViewBase/MapViewBase.html">MapViewBase</a></li>
+<li class="section-title">
+<a href="mapview/MapViewBase-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="mapview/MapViewBase/camera.html">camera</a></li>
+<li><a href="mapview/MapViewBase/frameRate.html">frameRate</a></li>
+<li><a href="mapview/MapViewBase/gestures.html">gestures</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/hashCode.html">hashCode</a></li>
+<li><a href="mapview/MapViewBase/hereMapControllerCore.html">hereMapControllerCore</a></li>
+<li><a href="mapview/MapViewBase/isValid.html">isValid</a></li>
+<li><a href="mapview/MapViewBase/mapContext.html">mapContext</a></li>
+<li><a href="mapview/MapViewBase/mapScene.html">mapScene</a></li>
+<li><a href="mapview/MapViewBase/pixelScale.html">pixelScale</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/runtimeType.html">runtimeType</a></li>
+<li><a href="mapview/MapViewBase/viewportSize.html">viewportSize</a></li>
+<li><a href="mapview/MapViewBase/watermarkSize.html">watermarkSize</a></li>
+<li class="section-title"><a href="mapview/MapViewBase-class.html#instance-methods">Methods</a></li>
+<li><a href="mapview/MapViewBase/addLifecycleListener.html">addLifecycleListener</a></li>
+<li><a href="mapview/MapViewBase/geoToViewCoordinates.html">geoToViewCoordinates</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="mapview/MapViewBase/pick.html">pick</a></li>
+<li><a href="mapview/MapViewBase/removeLifecycleListener.html">removeLifecycleListener</a></li>
+<li><a href="mapview/MapViewBase/setWatermarkLocation.html">setWatermarkLocation</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/toString.html">toString</a></li>
+<li><a href="mapview/MapViewBase/viewToGeoCoordinates.html">viewToGeoCoordinates</a></li>
+<li class="section-title inherited"><a href="mapview/MapViewBase-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/MapViewBase/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -270,9 +299,8 @@ Returns the watermark size in physical pixels.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -295,9 +323,7 @@ Returns the watermark size in physical pixels.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "startingPoint property"
 slug: "sdk-for-flutter-explore-routing-refreshrouteparameters-startingpoint"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-refreshrouteparameters-startingpoint"
 `
 <div class="sdk-for-flutter">
 <!-- startingPoint.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -58,9 +58,8 @@ In that case, an application may decide to calculate a new route from scratch.</
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">Waypoint? startingPoint;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -84,9 +83,7 @@ In that case, an application may decide to calculate a new route from scratch.</
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

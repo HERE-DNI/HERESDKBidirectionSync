@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "evCarOptions property"
 slug: "sdk-for-flutter-explore-routing-isolineoptions-evcaroptions"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-isolineoptions-evcaroptions"
 `
 <div class="sdk-for-flutter">
 <!-- evCarOptions.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -56,9 +56,8 @@ Mutually exclusive with /sdk-for-flutter-explore-routing-isolineoptions-caroptio
 <pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the `routing_options` instead.")
 EVCarOptions? evCarOptions;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -82,9 +81,7 @@ EVCarOptions? evCarOptions;</code></pre>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TransitSectionDetails class"
 slug: "sdk-for-flutter-explore-routing-transitsectiondetails-class"
 ---
 
@@ -7,7 +7,26 @@ slug: "sdk-for-flutter-explore-routing-transitsectiondetails-class"
 `
 <div class="sdk-for-flutter">
 <!-- TransitSectionDetails-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/TransitSectionDetails-class.html#constructors">Constructors</a></li>
+<li><a href="routing/TransitSectionDetails/TransitSectionDetails.html">TransitSectionDetails</a></li>
+<li class="section-title">
+<a href="routing/TransitSectionDetails-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/TransitSectionDetails/agency.html">agency</a></li>
+<li><a href="routing/TransitSectionDetails/attributions.html">attributions</a></li>
+<li><a href="routing/TransitSectionDetails/fares.html">fares</a></li>
+<li><a href="routing/TransitSectionDetails/hashCode.html">hashCode</a></li>
+<li><a href="routing/TransitSectionDetails/incidents.html">incidents</a></li>
+<li><a href="routing/TransitSectionDetails/intermediateStops.html">intermediateStops</a></li>
+<li class="inherited"><a href="routing/TransitSectionDetails/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/TransitSectionDetails/transport.html">transport</a></li>
+<li class="section-title inherited"><a href="routing/TransitSectionDetails-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/TransitSectionDetails/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/TransitSectionDetails/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/TransitSectionDetails-class.html#operators">Operators</a></li>
+<li><a href="routing/TransitSectionDetails/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -157,9 +176,8 @@ menu
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -182,9 +200,7 @@ menu
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

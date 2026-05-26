@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "center property"
 slug: "sdk-for-flutter-explore-routing-isoline-center"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-isoline-center"
 `
 <div class="sdk-for-flutter">
 <!-- center.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -53,9 +53,8 @@ Gets the center point that was used to calculate this isoline.</p>
 <pre class="language-dart"><code class="language-dart">MapMatchedCoordinates get center;</code></pre>
 </section>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -79,9 +78,7 @@ Gets the center point that was used to calculate this isoline.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

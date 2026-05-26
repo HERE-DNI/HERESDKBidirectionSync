@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SupplierReference class"
 slug: "sdk-for-flutter-explore-search-supplierreference-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-search-supplierreference-class"
 `
 <div class="sdk-for-flutter">
 <!-- SupplierReference-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/SupplierReference-class.html#constructors">Constructors</a></li>
+<li><a href="search/SupplierReference/SupplierReference.html">SupplierReference</a></li>
+<li><a href="search/SupplierReference/SupplierReference.withDefaults.html">withDefaults</a></li>
+<li class="section-title">
+<a href="search/SupplierReference-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/SupplierReference/hashCode.html">hashCode</a></li>
+<li><a href="search/SupplierReference/id.html">id</a></li>
+<li class="inherited"><a href="search/SupplierReference/runtimeType.html">runtimeType</a></li>
+<li><a href="search/SupplierReference/supplier.html">supplier</a></li>
+<li class="section-title inherited"><a href="search/SupplierReference-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/SupplierReference/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/SupplierReference/toString.html">toString</a></li>
+<li class="section-title"><a href="search/SupplierReference-class.html#operators">Operators</a></li>
+<li><a href="search/SupplierReference/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -131,9 +147,8 @@ menu
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -156,9 +171,7 @@ menu
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

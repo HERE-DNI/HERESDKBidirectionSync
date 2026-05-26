@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "DataAttributeValue class abstract"
 slug: "sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class"
 ---
 
@@ -7,7 +7,35 @@ slug: "sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class"
 `
 <div class="sdk-for-flutter">
 <!-- DataAttributeValue-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview.datasource/DataAttributeValue-class.html#constructors">Constructors</a></li>
+<li><a href="mapview.datasource/DataAttributeValue/DataAttributeValue.withArray.html">withArray</a></li>
+<li><a href="mapview.datasource/DataAttributeValue/DataAttributeValue.withBoolean.html">withBoolean</a></li>
+<li><a href="mapview.datasource/DataAttributeValue/DataAttributeValue.withColor.html">withColor</a></li>
+<li><a href="mapview.datasource/DataAttributeValue/DataAttributeValue.withDouble.html">withDouble</a></li>
+<li><a href="mapview.datasource/DataAttributeValue/DataAttributeValue.withFloat.html">withFloat</a></li>
+<li><a href="mapview.datasource/DataAttributeValue/DataAttributeValue.withInt64.html">withInt64</a></li>
+<li><a href="mapview.datasource/DataAttributeValue/DataAttributeValue.withString.html">withString</a></li>
+<li class="section-title inherited">
+<a href="mapview.datasource/DataAttributeValue-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview.datasource/DataAttributeValue/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview.datasource/DataAttributeValue/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="mapview.datasource/DataAttributeValue-class.html#instance-methods">Methods</a></li>
+<li><a href="mapview.datasource/DataAttributeValue/getArray.html">getArray</a></li>
+<li><a href="mapview.datasource/DataAttributeValue/getAsString.html">getAsString</a></li>
+<li><a href="mapview.datasource/DataAttributeValue/getBoolean.html">getBoolean</a></li>
+<li><a href="mapview.datasource/DataAttributeValue/getColor.html">getColor</a></li>
+<li><a href="mapview.datasource/DataAttributeValue/getDouble.html">getDouble</a></li>
+<li><a href="mapview.datasource/DataAttributeValue/getFloat.html">getFloat</a></li>
+<li><a href="mapview.datasource/DataAttributeValue/getInt64.html">getInt64</a></li>
+<li><a href="mapview.datasource/DataAttributeValue/getString.html">getString</a></li>
+<li><a href="mapview.datasource/DataAttributeValue/getType.html">getType</a></li>
+<li class="inherited"><a href="mapview.datasource/DataAttributeValue/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="mapview.datasource/DataAttributeValue/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview.datasource/DataAttributeValue-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview.datasource/DataAttributeValue/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -244,9 +272,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -269,9 +296,7 @@ behavior. Related APIs may change for new releases without a deprecation process
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

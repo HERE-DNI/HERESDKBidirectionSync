@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PlaceChain constructor"
 slug: "sdk-for-flutter-explore-search-placechain-placechain"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-search-placechain-placechain"
 `
 <div class="sdk-for-flutter">
 <!-- PlaceChain.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -52,9 +52,8 @@ The complete list of supported chain IDs can be found <a href="https://www.here.
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">PlaceChain(this.id);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -78,9 +77,7 @@ The complete list of supported chain IDs can be found <a href="https://www.here.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SDKNativeEngine class abstract"
 slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-class"
 ---
 
@@ -7,7 +7,38 @@ slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-class"
 `
 <div class="sdk-for-flutter">
 <!-- SDKNativeEngine-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core.engine/SDKNativeEngine-class.html#constructors">Constructors</a></li>
+<li><a href="core.engine/SDKNativeEngine/SDKNativeEngine.html">SDKNativeEngine</a></li>
+<li class="section-title">
+<a href="core.engine/SDKNativeEngine-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="core.engine/SDKNativeEngine/hashCode.html">hashCode</a></li>
+<li><a href="core.engine/SDKNativeEngine/isOfflineMode.html">isOfflineMode</a></li>
+<li><a href="core.engine/SDKNativeEngine/options.html">options</a></li>
+<li><a href="core.engine/SDKNativeEngine/passThroughFeatures.html">passThroughFeatures</a></li>
+<li><a href="core.engine/SDKNativeEngine/proxySettings.html">proxySettings</a></li>
+<li class="inherited"><a href="core.engine/SDKNativeEngine/runtimeType.html">runtimeType</a></li>
+<li><a href="core.engine/SDKNativeEngine/sdkUsageStats.html">sdkUsageStats</a></li>
+<li class="section-title"><a href="core.engine/SDKNativeEngine-class.html#instance-methods">Methods</a></li>
+<li><a href="core.engine/SDKNativeEngine/clearPersistentUsageStats.html">clearPersistentUsageStats</a></li>
+<li><a href="core.engine/SDKNativeEngine/clearUsageStatsCache.html">clearUsageStatsCache</a></li>
+<li><a href="core.engine/SDKNativeEngine/dispose.html">dispose</a></li>
+<li><a href="core.engine/SDKNativeEngine/enableUsageStats.html">enableUsageStats</a></li>
+<li><a href="core.engine/SDKNativeEngine/getDeviceId.html">getDeviceId</a></li>
+<li class="inherited"><a href="core.engine/SDKNativeEngine/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="core.engine/SDKNativeEngine/purgeMemoryCaches.html">purgeMemoryCaches</a></li>
+<li><a href="core.engine/SDKNativeEngine/setAccessKeySecret.html">setAccessKeySecret</a></li>
+<li><a href="core.engine/SDKNativeEngine/setAccessScope.html">setAccessScope</a></li>
+<li class="inherited"><a href="core.engine/SDKNativeEngine/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="core.engine/SDKNativeEngine-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="core.engine/SDKNativeEngine/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="core.engine/SDKNativeEngine-class.html#static-properties">Static properties</a></li>
+<li><a href="core.engine/SDKNativeEngine/parameterConfig.html">parameterConfig</a></li>
+<li><a href="core.engine/SDKNativeEngine/sharedInstance.html">sharedInstance</a></li>
+<li class="section-title"><a href="core.engine/SDKNativeEngine-class.html#static-methods">Static methods</a></li>
+<li><a href="core.engine/SDKNativeEngine/makeSharedInstance.html">makeSharedInstance</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -299,9 +330,8 @@ see /sdk-for-flutter-explore-core-engine-sdknativeengine-sharedinstance.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -324,9 +354,7 @@ see /sdk-for-flutter-explore-core-engine-sdknativeengine-sharedinstance.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "setMultiColorGradientLength abstract method"
 slug: "sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-setmulticolorgradientlength"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-
 `
 <div class="sdk-for-flutter">
 <!-- setMultiColorGradientLength.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -70,9 +70,8 @@ Valid value range is [0.0, 1.0]. Out of range values are not supported.</li>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">bool setMultiColorGradientLength(double length);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -96,9 +95,7 @@ Valid value range is [0.0, 1.0]. Out of range values are not supported.</li>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapLayerBuilder class abstract"
 slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-class"
 ---
 
@@ -7,7 +7,29 @@ slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapLayerBuilder-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/MapLayerBuilder-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/MapLayerBuilder/MapLayerBuilder.html">MapLayerBuilder</a></li>
+<li class="section-title inherited">
+<a href="mapview/MapLayerBuilder-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview/MapLayerBuilder/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview/MapLayerBuilder/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="mapview/MapLayerBuilder-class.html#instance-methods">Methods</a></li>
+<li><a href="mapview/MapLayerBuilder/build.html">build</a></li>
+<li><a href="mapview/MapLayerBuilder/forMap.html">forMap</a></li>
+<li class="inherited"><a href="mapview/MapLayerBuilder/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="mapview/MapLayerBuilder/toString.html">toString</a></li>
+<li><a href="mapview/MapLayerBuilder/withDataSource.html">withDataSource</a></li>
+<li><a href="mapview/MapLayerBuilder/withLoadPriority.html">withLoadPriority</a></li>
+<li><a href="mapview/MapLayerBuilder/withMapMeasureDependentStorageLevels.html">withMapMeasureDependentStorageLevels</a></li>
+<li><a href="mapview/MapLayerBuilder/withName.html">withName</a></li>
+<li><a href="mapview/MapLayerBuilder/withPriority.html">withPriority</a></li>
+<li><a href="mapview/MapLayerBuilder/withStyle.html">withStyle</a></li>
+<li><a href="mapview/MapLayerBuilder/withVisibilityRange.html">withVisibilityRange</a></li>
+<li class="section-title inherited"><a href="mapview/MapLayerBuilder-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/MapLayerBuilder/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -267,9 +289,8 @@ of data for the layer.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -292,9 +313,7 @@ of data for the layer.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

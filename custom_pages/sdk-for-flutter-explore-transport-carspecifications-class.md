@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "CarSpecifications class"
 slug: "sdk-for-flutter-explore-transport-carspecifications-class"
 ---
 
@@ -7,7 +7,28 @@ slug: "sdk-for-flutter-explore-transport-carspecifications-class"
 `
 <div class="sdk-for-flutter">
 <!-- CarSpecifications-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="transport/CarSpecifications-class.html#constructors">Constructors</a></li>
+<li><a href="transport/CarSpecifications/CarSpecifications.html">CarSpecifications</a></li>
+<li><a href="transport/CarSpecifications/CarSpecifications.withDefaults.html">withDefaults</a></li>
+<li class="section-title">
+<a href="transport/CarSpecifications-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="transport/CarSpecifications/axleCount.html">axleCount</a></li>
+<li><a href="transport/CarSpecifications/grossWeightInKilograms.html">grossWeightInKilograms</a></li>
+<li><a href="transport/CarSpecifications/hashCode.html">hashCode</a></li>
+<li><a href="transport/CarSpecifications/heightInCentimeters.html">heightInCentimeters</a></li>
+<li><a href="transport/CarSpecifications/lengthInCentimeters.html">lengthInCentimeters</a></li>
+<li class="inherited"><a href="transport/CarSpecifications/runtimeType.html">runtimeType</a></li>
+<li><a href="transport/CarSpecifications/trailerAxleCount.html">trailerAxleCount</a></li>
+<li><a href="transport/CarSpecifications/trailerCount.html">trailerCount</a></li>
+<li><a href="transport/CarSpecifications/widthInCentimeters.html">widthInCentimeters</a></li>
+<li class="section-title inherited"><a href="transport/CarSpecifications-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="transport/CarSpecifications/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="transport/CarSpecifications/toString.html">toString</a></li>
+<li class="section-title"><a href="transport/CarSpecifications-class.html#operators">Operators</a></li>
+<li><a href="transport/CarSpecifications/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -198,9 +219,8 @@ By default, it is not set.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -223,9 +243,7 @@ By default, it is not set.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

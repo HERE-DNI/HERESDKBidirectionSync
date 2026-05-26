@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "sectionPolylineOffset property"
 slug: "sdk-for-flutter-explore-routing-span-sectionpolylineoffset"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-span-sectionpolylineoffset"
 `
 <div class="sdk-for-flutter">
 <!-- sectionPolylineOffset.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -55,9 +55,8 @@ included in the span, because the spans' geometry share a point in the section's
 <pre class="language-dart"><code class="language-dart">int get sectionPolylineOffset;</code></pre>
 </section>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -81,9 +80,7 @@ included in the span, because the spans' geometry share a point in the section's
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

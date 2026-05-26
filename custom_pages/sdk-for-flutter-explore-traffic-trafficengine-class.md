@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TrafficEngine class abstract"
 slug: "sdk-for-flutter-explore-traffic-trafficengine-class"
 ---
 
@@ -7,7 +7,28 @@ slug: "sdk-for-flutter-explore-traffic-trafficengine-class"
 `
 <div class="sdk-for-flutter">
 <!-- TrafficEngine-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="traffic/TrafficEngine-class.html#constructors">Constructors</a></li>
+<li><a href="traffic/TrafficEngine/TrafficEngine.html">TrafficEngine</a></li>
+<li><a href="traffic/TrafficEngine/TrafficEngine.withSdkEngine.html">withSdkEngine</a></li>
+<li class="section-title inherited">
+<a href="traffic/TrafficEngine-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="traffic/TrafficEngine/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="traffic/TrafficEngine/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="traffic/TrafficEngine-class.html#instance-methods">Methods</a></li>
+<li><a href="traffic/TrafficEngine/lookupIncident.html">lookupIncident</a></li>
+<li class="inherited"><a href="traffic/TrafficEngine/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="traffic/TrafficEngine/queryForFlowInBox.html">queryForFlowInBox</a></li>
+<li><a href="traffic/TrafficEngine/queryForFlowInCircle.html">queryForFlowInCircle</a></li>
+<li><a href="traffic/TrafficEngine/queryForFlowInCorridor.html">queryForFlowInCorridor</a></li>
+<li><a href="traffic/TrafficEngine/queryForIncidentsInBox.html">queryForIncidentsInBox</a></li>
+<li><a href="traffic/TrafficEngine/queryForIncidentsInCircle.html">queryForIncidentsInCircle</a></li>
+<li><a href="traffic/TrafficEngine/queryForIncidentsInCorridor.html">queryForIncidentsInCorridor</a></li>
+<li class="inherited"><a href="traffic/TrafficEngine/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="traffic/TrafficEngine-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="traffic/TrafficEngine/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -198,9 +219,8 @@ See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</p>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -223,9 +243,7 @@ See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "VehicleSpecificationScooterBuilder class abstract"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationscooterbuilder-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationscooterbuilder-clas
 `
 <div class="sdk-for-flutter">
 <!-- VehicleSpecificationScooterBuilder-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="transport/VehicleSpecificationScooterBuilder-class.html#constructors">Constructors</a></li>
+<li><a href="transport/VehicleSpecificationScooterBuilder/VehicleSpecificationScooterBuilder.html">VehicleSpecificationScooterBuilder</a></li>
+<li class="section-title inherited">
+<a href="transport/VehicleSpecificationScooterBuilder-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="transport/VehicleSpecificationScooterBuilder/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="transport/VehicleSpecificationScooterBuilder/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="transport/VehicleSpecificationScooterBuilder-class.html#instance-methods">Methods</a></li>
+<li><a href="transport/VehicleSpecificationScooterBuilder/build.html">build</a></li>
+<li class="inherited"><a href="transport/VehicleSpecificationScooterBuilder/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="transport/VehicleSpecificationScooterBuilder/toString.html">toString</a></li>
+<li><a href="transport/VehicleSpecificationScooterBuilder/withEngineSizeInCubicCentimeters.html">withEngineSizeInCubicCentimeters</a></li>
+<li><a href="transport/VehicleSpecificationScooterBuilder/withOccupancy.html">withOccupancy</a></li>
+<li class="section-title inherited"><a href="transport/VehicleSpecificationScooterBuilder-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="transport/VehicleSpecificationScooterBuilder/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -140,9 +156,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationscooterbuilder-c
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -165,9 +180,7 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationscooterbuilder-c
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

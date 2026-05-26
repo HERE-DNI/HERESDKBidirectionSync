@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TaxiSpecification class"
 slug: "sdk-for-flutter-explore-transport-taxispecification-class"
 ---
 
@@ -7,7 +7,21 @@ slug: "sdk-for-flutter-explore-transport-taxispecification-class"
 `
 <div class="sdk-for-flutter">
 <!-- TaxiSpecification-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="transport/TaxiSpecification-class.html#constructors">Constructors</a></li>
+<li><a href="transport/TaxiSpecification/TaxiSpecification.html">TaxiSpecification</a></li>
+<li class="section-title">
+<a href="transport/TaxiSpecification-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="transport/TaxiSpecification/allowDriveThroughTaxiRoads.html">allowDriveThroughTaxiRoads</a></li>
+<li><a href="transport/TaxiSpecification/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="transport/TaxiSpecification/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="transport/TaxiSpecification-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="transport/TaxiSpecification/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="transport/TaxiSpecification/toString.html">toString</a></li>
+<li class="section-title"><a href="transport/TaxiSpecification-class.html#operators">Operators</a></li>
+<li><a href="transport/TaxiSpecification/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -119,9 +133,8 @@ Defaults to <code>true</code>.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -144,9 +157,7 @@ Defaults to <code>true</code>.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

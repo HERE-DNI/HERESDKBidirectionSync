@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "connectorType property"
 slug: "sdk-for-flutter-explore-search-evchargingconnector-connectortype"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-search-evchargingconnector-connectortype"
 `
 <div class="sdk-for-flutter">
 <!-- connectorType.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -51,9 +51,8 @@ Should be one of the constants defined in /sdk-for-flutter-explore-ev-evcharging
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">String connectorType;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -77,9 +76,7 @@ Should be one of the constants defined in /sdk-for-flutter-explore-ev-evcharging
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

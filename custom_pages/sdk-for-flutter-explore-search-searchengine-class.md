@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SearchEngine class abstract"
 slug: "sdk-for-flutter-explore-search-searchengine-class"
 ---
 
@@ -7,7 +7,40 @@ slug: "sdk-for-flutter-explore-search-searchengine-class"
 `
 <div class="sdk-for-flutter">
 <!-- SearchEngine-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/SearchEngine-class.html#constructors">Constructors</a></li>
+<li><a href="search/SearchEngine/SearchEngine.html">SearchEngine</a></li>
+<li><a href="search/SearchEngine/SearchEngine.withSdkEngine.html">withSdkEngine</a></li>
+<li class="section-title inherited">
+<a href="search/SearchEngine-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="search/SearchInterface/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="search/SearchInterface/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="search/SearchEngine-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/SearchInterface/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/SearchInterface/searchByAddress.html">searchByAddress</a></li>
+<li><a href="search/SearchEngine/searchByAddressExtended.html">searchByAddressExtended</a></li>
+<li class="inherited"><a href="search/SearchInterface/searchByCategory.html">searchByCategory</a></li>
+<li><a href="search/SearchEngine/searchByCategoryExtended.html">searchByCategoryExtended</a></li>
+<li class="inherited"><a href="search/SearchInterface/searchByCoordinates.html">searchByCoordinates</a></li>
+<li><a href="search/SearchEngine/searchByCoordinatesExtended.html">searchByCoordinatesExtended</a></li>
+<li><a href="search/SearchEngine/searchByCoordinatesWithRadius.html">searchByCoordinatesWithRadius</a></li>
+<li><a href="search/SearchEngine/searchByCoordinatesWithRadiusExtended.html">searchByCoordinatesWithRadiusExtended</a></li>
+<li class="inherited"><a href="search/SearchInterface/searchByPickedPlace.html">searchByPickedPlace</a></li>
+<li class="inherited"><a href="search/SearchInterface/searchByPlaceId.html">searchByPlaceId</a></li>
+<li><a href="search/SearchEngine/searchByPlaceIdWithLanguageCodeExtended.html">searchByPlaceIdWithLanguageCodeExtended</a></li>
+<li class="inherited"><a href="search/SearchInterface/searchByText.html">searchByText</a></li>
+<li><a href="search/SearchEngine/searchByTextExtended.html">searchByTextExtended</a></li>
+<li><a href="search/SearchEngine/sendRequest.html">sendRequest</a></li>
+<li><a href="search/SearchEngine/sendRequestExtended.html">sendRequestExtended</a></li>
+<li><a href="search/SearchEngine/setCustomOption.html">setCustomOption</a></li>
+<li><a href="search/SearchEngine/setEVInterface.html">setEVInterface</a></li>
+<li class="inherited"><a href="search/SearchInterface/suggestByText.html">suggestByText</a></li>
+<li><a href="search/SearchEngine/suggestExtended.html">suggestExtended</a></li>
+<li class="inherited"><a href="search/SearchInterface/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="search/SearchEngine-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="search/SearchInterface/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -326,9 +359,8 @@ returns candidate suggestions sorted by relevance.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -351,9 +383,7 @@ returns candidate suggestions sorted by relevance.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

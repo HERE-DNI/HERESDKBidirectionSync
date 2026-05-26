@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "GeoPolyline class"
 slug: "sdk-for-flutter-explore-core-geopolyline-class"
 ---
 
@@ -7,7 +7,24 @@ slug: "sdk-for-flutter-explore-core-geopolyline-class"
 `
 <div class="sdk-for-flutter">
 <!-- GeoPolyline-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core/GeoPolyline-class.html#constructors">Constructors</a></li>
+<li><a href="core/GeoPolyline/GeoPolyline.html">GeoPolyline</a></li>
+<li><a href="core/GeoPolyline/GeoPolyline.withGeoBox.html">withGeoBox</a></li>
+<li class="section-title">
+<a href="core/GeoPolyline-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="core/GeoPolyline/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="core/GeoPolyline/runtimeType.html">runtimeType</a></li>
+<li><a href="core/GeoPolyline/vertices.html">vertices</a></li>
+<li class="section-title"><a href="core/GeoPolyline-class.html#instance-methods">Methods</a></li>
+<li><a href="core/GeoPolyline/coordinatesAtOffsetInMeters.html">coordinatesAtOffsetInMeters</a></li>
+<li><a href="core/GeoPolyline/getNearestIndexTo.html">getNearestIndexTo</a></li>
+<li class="inherited"><a href="core/GeoPolyline/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core/GeoPolyline/toString.html">toString</a></li>
+<li class="section-title"><a href="core/GeoPolyline-class.html#operators">Operators</a></li>
+<li><a href="core/GeoPolyline/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -157,9 +174,8 @@ Represents a <code>GeoPolyline</code> as a series of geographic coordinates.</p>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -182,9 +198,7 @@ Represents a <code>GeoPolyline</code> as a series of geographic coordinates.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

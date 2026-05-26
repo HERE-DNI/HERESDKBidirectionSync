@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapMarkerClusterGrouping constructor"
 slug: "sdk-for-flutter-explore-mapview-mapmarkerclustergrouping-mapmarkerclustergrouping"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapmarkerclustergrouping-mapmarkercluster
 `
 <div class="sdk-for-flutter">
 <!-- MapMarkerClusterGrouping.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -53,9 +53,8 @@ MapMarkerClusterGrouping(<wbr/><ol class="parameter-list single-line"> <li>List&
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">MapMarkerClusterGrouping(this.markers, this.parent);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -79,9 +78,7 @@ MapMarkerClusterGrouping(<wbr/><ol class="parameter-list single-line"> <li>List&
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

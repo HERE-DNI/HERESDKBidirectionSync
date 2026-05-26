@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "zoomBy abstract method"
 slug: "sdk-for-flutter-explore-mapview-mapcamera-zoomby"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapcamera-zoomby"
 `
 <div class="sdk-for-flutter">
 <!-- zoomBy.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -71,9 +71,8 @@ factor needs to be 2^X. To zoom out by X zoom levels, zoom factor needs to be 1/
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">void zoomBy(double factor, Point2D origin);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -97,9 +96,7 @@ factor needs to be 2^X. To zoom out by X zoom levels, zoom factor needs to be 1/
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

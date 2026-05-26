@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapLayerPriorityBuilder class abstract"
 slug: "sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class"
 ---
 
@@ -7,7 +7,29 @@ slug: "sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapLayerPriorityBuilder-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/MapLayerPriorityBuilder-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/MapLayerPriorityBuilder/MapLayerPriorityBuilder.html">MapLayerPriorityBuilder</a></li>
+<li class="section-title inherited">
+<a href="mapview/MapLayerPriorityBuilder-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview/MapLayerPriorityBuilder/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview/MapLayerPriorityBuilder/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="mapview/MapLayerPriorityBuilder-class.html#instance-methods">Methods</a></li>
+<li><a href="mapview/MapLayerPriorityBuilder/build.html">build</a></li>
+<li><a href="mapview/MapLayerPriorityBuilder/inGroup.html">inGroup</a></li>
+<li class="inherited"><a href="mapview/MapLayerPriorityBuilder/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="mapview/MapLayerPriorityBuilder/renderedAfterLayer.html">renderedAfterLayer</a></li>
+<li><a href="mapview/MapLayerPriorityBuilder/renderedAfterLayerWithCategory.html">renderedAfterLayerWithCategory</a></li>
+<li><a href="mapview/MapLayerPriorityBuilder/renderedBeforeLayer.html">renderedBeforeLayer</a></li>
+<li><a href="mapview/MapLayerPriorityBuilder/renderedBeforeLayerWithCategory.html">renderedBeforeLayerWithCategory</a></li>
+<li><a href="mapview/MapLayerPriorityBuilder/renderedFirst.html">renderedFirst</a></li>
+<li><a href="mapview/MapLayerPriorityBuilder/renderedLast.html">renderedLast</a></li>
+<li class="inherited"><a href="mapview/MapLayerPriorityBuilder/toString.html">toString</a></li>
+<li><a href="mapview/MapLayerPriorityBuilder/withCategory.html">withCategory</a></li>
+<li class="section-title inherited"><a href="mapview/MapLayerPriorityBuilder-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/MapLayerPriorityBuilder/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -283,9 +305,8 @@ assignment can be done for all types of data: points, lines, polygons.</li>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -308,9 +329,7 @@ assignment can be done for all types of data: points, lines, polygons.</li>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

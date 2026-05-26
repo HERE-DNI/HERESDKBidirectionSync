@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "WidgetPin class abstract"
 slug: "sdk-for-flutter-explore-mapview-widgetpin-class"
 ---
 
@@ -7,7 +7,26 @@ slug: "sdk-for-flutter-explore-mapview-widgetpin-class"
 `
 <div class="sdk-for-flutter">
 <!-- WidgetPin-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/WidgetPin-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/WidgetPin/WidgetPin.html">WidgetPin</a></li>
+<li class="section-title">
+<a href="mapview/WidgetPin-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="mapview/WidgetPin/anchor.html">anchor</a></li>
+<li><a href="mapview/WidgetPin/child.html">child</a></li>
+<li><a href="mapview/WidgetPin/coordinates.html">coordinates</a></li>
+<li class="inherited"><a href="mapview/WidgetPin/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview/WidgetPin/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="mapview/WidgetPin-class.html#instance-methods">Methods</a></li>
+<li><a href="mapview/WidgetPin/makeWidget.html">makeWidget</a></li>
+<li class="inherited"><a href="mapview/WidgetPin/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="mapview/WidgetPin/toString.html">toString</a></li>
+<li><a href="mapview/WidgetPin/unpin.html">unpin</a></li>
+<li><a href="mapview/WidgetPin/updateScreenPosition.html">updateScreenPosition</a></li>
+<li class="section-title inherited"><a href="mapview/WidgetPin-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/WidgetPin/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -170,9 +189,8 @@ Don't use this constructor directly. Instead use /sdk-for-flutter-explore-mapvie
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -195,9 +213,7 @@ Don't use this constructor directly. Instead use /sdk-for-flutter-explore-mapvie
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

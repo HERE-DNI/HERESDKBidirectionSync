@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "WeightPerAxleGroup class"
 slug: "sdk-for-flutter-explore-transport-weightperaxlegroup-class"
 ---
 
@@ -7,7 +7,25 @@ slug: "sdk-for-flutter-explore-transport-weightperaxlegroup-class"
 `
 <div class="sdk-for-flutter">
 <!-- WeightPerAxleGroup-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="transport/WeightPerAxleGroup-class.html#constructors">Constructors</a></li>
+<li><a href="transport/WeightPerAxleGroup/WeightPerAxleGroup.html">WeightPerAxleGroup</a></li>
+<li class="section-title">
+<a href="transport/WeightPerAxleGroup-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="transport/WeightPerAxleGroup/hashCode.html">hashCode</a></li>
+<li><a href="transport/WeightPerAxleGroup/quadAxleGroupInKilograms.html">quadAxleGroupInKilograms</a></li>
+<li><a href="transport/WeightPerAxleGroup/quintAxleGroupInKilograms.html">quintAxleGroupInKilograms</a></li>
+<li class="inherited"><a href="transport/WeightPerAxleGroup/runtimeType.html">runtimeType</a></li>
+<li><a href="transport/WeightPerAxleGroup/singleAxleGroupInKilograms.html">singleAxleGroupInKilograms</a></li>
+<li><a href="transport/WeightPerAxleGroup/tandemAxleGroupInKilograms.html">tandemAxleGroupInKilograms</a></li>
+<li><a href="transport/WeightPerAxleGroup/tripleAxleGroupInKilograms.html">tripleAxleGroupInKilograms</a></li>
+<li class="section-title inherited"><a href="transport/WeightPerAxleGroup-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="transport/WeightPerAxleGroup/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="transport/WeightPerAxleGroup/toString.html">toString</a></li>
+<li class="section-title"><a href="transport/WeightPerAxleGroup-class.html#operators">Operators</a></li>
+<li><a href="transport/WeightPerAxleGroup/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -154,9 +172,8 @@ By default, it is not set.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -179,9 +196,7 @@ By default, it is not set.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

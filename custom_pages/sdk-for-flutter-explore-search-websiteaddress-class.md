@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "WebsiteAddress class"
 slug: "sdk-for-flutter-explore-search-websiteaddress-class"
 ---
 
@@ -7,7 +7,22 @@ slug: "sdk-for-flutter-explore-search-websiteaddress-class"
 `
 <div class="sdk-for-flutter">
 <!-- WebsiteAddress-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/WebsiteAddress-class.html#constructors">Constructors</a></li>
+<li><a href="search/WebsiteAddress/WebsiteAddress.html">WebsiteAddress</a></li>
+<li class="section-title">
+<a href="search/WebsiteAddress-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/WebsiteAddress/address.html">address</a></li>
+<li><a href="search/WebsiteAddress/categories.html">categories</a></li>
+<li><a href="search/WebsiteAddress/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="search/WebsiteAddress/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="search/WebsiteAddress-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/WebsiteAddress/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/WebsiteAddress/toString.html">toString</a></li>
+<li class="section-title"><a href="search/WebsiteAddress-class.html#operators">Operators</a></li>
+<li><a href="search/WebsiteAddress/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -127,9 +142,8 @@ Otherwise, /sdk-for-flutter-explore-search-websiteaddress-address is meant for g
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -152,9 +166,7 @@ Otherwise, /sdk-for-flutter-explore-search-websiteaddress-address is meant for g
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

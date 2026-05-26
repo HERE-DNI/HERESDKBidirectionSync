@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "createRoadShieldIcon method"
 slug: "sdk-for-flutter-explore-mapview-iconprovider-createroadshieldicon"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-iconprovider-createroadshieldicon"
 `
 <div class="sdk-for-flutter">
 <!-- createRoadShieldIcon.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -86,9 +86,8 @@ Related APIs may change for new releases without a deprecation process.</p>
     callback);
 }</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -112,9 +111,7 @@ Related APIs may change for new releases without a deprecation process.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

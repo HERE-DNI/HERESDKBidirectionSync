@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Contact constructor"
 slug: "sdk-for-flutter-explore-search-contact-contact"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-search-contact-contact"
 `
 <div class="sdk-for-flutter">
 <!-- Contact.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -61,9 +61,8 @@ This data is not available in offline search.</li>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">Contact(this.landlinePhones, this.mobilePhones, this.emails, this.websites);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -87,9 +86,7 @@ This data is not available in offline search.</li>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

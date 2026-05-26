@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PlaceFilter class"
 slug: "sdk-for-flutter-explore-search-placefilter-class"
 ---
 
@@ -7,7 +7,24 @@ slug: "sdk-for-flutter-explore-search-placefilter-class"
 `
 <div class="sdk-for-flutter">
 <!-- PlaceFilter-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/PlaceFilter-class.html#constructors">Constructors</a></li>
+<li><a href="search/PlaceFilter/PlaceFilter.html">PlaceFilter</a></li>
+<li class="section-title">
+<a href="search/PlaceFilter-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/PlaceFilter/ev.html">ev</a></li>
+<li><a href="search/PlaceFilter/fuelTypes.html">fuelTypes</a></li>
+<li><a href="search/PlaceFilter/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="search/PlaceFilter/runtimeType.html">runtimeType</a></li>
+<li><a href="search/PlaceFilter/truckClass.html">truckClass</a></li>
+<li><a href="search/PlaceFilter/truckFuelTypes.html">truckFuelTypes</a></li>
+<li class="section-title inherited"><a href="search/PlaceFilter-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/PlaceFilter/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/PlaceFilter/toString.html">toString</a></li>
+<li class="section-title"><a href="search/PlaceFilter-class.html#operators">Operators</a></li>
+<li><a href="search/PlaceFilter/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -153,9 +170,8 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -178,9 +194,7 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

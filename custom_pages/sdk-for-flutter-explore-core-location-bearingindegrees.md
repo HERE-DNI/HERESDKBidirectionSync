@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "bearingInDegrees property"
 slug: "sdk-for-flutter-explore-core-location-bearingindegrees"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-location-bearingindegrees"
 `
 <div class="sdk-for-flutter">
 <!-- bearingInDegrees.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -55,9 +55,8 @@ guaranteed to be in the range [0, 360).</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">double? bearingInDegrees;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -81,9 +80,7 @@ guaranteed to be in the range [0, 360).</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

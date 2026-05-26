@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "BatterySpecifications.withDefaults constructor"
 slug: "sdk-for-flutter-explore-routing-batteryspecifications-batteryspecifications-withdefaults"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-batteryspecifications-batteryspecificatio
 `
 <div class="sdk-for-flutter">
 <!-- BatterySpecifications.withDefaults.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -48,9 +48,8 @@ BatterySpecifications.withDefaults(<wbr/>)
 <pre class="language-dart"><code class="language-dart">BatterySpecifications.withDefaults()
     : totalCapacityInKilowattHours = 0.0, initialChargeInKilowattHours = 0.0, targetChargeInKilowattHours = 0.0, chargingCurve = {}, connectorTypes = [], minChargeAtChargingStationInKilowattHours = 0.0, minChargeAtFirstChargingStationInKilowattHours = null, minChargeAtDestinationInKilowattHours = 0.0, maxChargingVoltageInVolts = null, maxChargingCurrentInAmperes = null, chargingSetupDuration = const Duration(seconds: 0), maxPowerAtLowVoltageInKilowatts = null;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -74,9 +73,7 @@ BatterySpecifications.withDefaults(<wbr/>)
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

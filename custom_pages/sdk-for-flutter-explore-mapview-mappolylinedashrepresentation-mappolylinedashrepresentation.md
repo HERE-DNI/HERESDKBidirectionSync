@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapPolylineDashRepresentation constructor"
 slug: "sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-mappolylinedashrepresentation"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-mappolyline
 `
 <div class="sdk-for-flutter">
 <!-- MapPolylineDashRepresentation.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -80,9 +80,8 @@ linearly interpolated between values given for these map measures.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory MapPolylineDashRepresentation(MapMeasureDependentRenderSize lineWidth, MapMeasureDependentRenderSize dashLength, MapMeasureDependentRenderSize gapLength, ui.Color dashColor) =&gt; $prototype.$init(lineWidth, dashLength, gapLength, dashColor);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -106,9 +105,7 @@ linearly interpolated between values given for these map measures.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

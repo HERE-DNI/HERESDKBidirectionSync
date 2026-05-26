@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVChargingTariffPriceComponent class"
 slug: "sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class"
 ---
 
@@ -7,7 +7,24 @@ slug: "sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class"
 `
 <div class="sdk-for-flutter">
 <!-- EVChargingTariffPriceComponent-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/EVChargingTariffPriceComponent-class.html#constructors">Constructors</a></li>
+<li><a href="search/EVChargingTariffPriceComponent/EVChargingTariffPriceComponent.html">EVChargingTariffPriceComponent</a></li>
+<li class="section-title">
+<a href="search/EVChargingTariffPriceComponent-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/EVChargingTariffPriceComponent/dimension.html">dimension</a></li>
+<li><a href="search/EVChargingTariffPriceComponent/hashCode.html">hashCode</a></li>
+<li><a href="search/EVChargingTariffPriceComponent/price.html">price</a></li>
+<li class="inherited"><a href="search/EVChargingTariffPriceComponent/runtimeType.html">runtimeType</a></li>
+<li><a href="search/EVChargingTariffPriceComponent/step.html">step</a></li>
+<li><a href="search/EVChargingTariffPriceComponent/vat.html">vat</a></li>
+<li class="section-title inherited"><a href="search/EVChargingTariffPriceComponent-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/EVChargingTariffPriceComponent/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/EVChargingTariffPriceComponent/toString.html">toString</a></li>
+<li class="section-title"><a href="search/EVChargingTariffPriceComponent-class.html#operators">Operators</a></li>
+<li><a href="search/EVChargingTariffPriceComponent/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -147,9 +164,8 @@ Similarly, if step is 100 for energy, then energy is billed in 100 Wh = 0.1 kWh 
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -172,9 +188,7 @@ Similarly, if step is 100 for energy, then energy is billed in 100 Wh = 0.1 kWh 
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

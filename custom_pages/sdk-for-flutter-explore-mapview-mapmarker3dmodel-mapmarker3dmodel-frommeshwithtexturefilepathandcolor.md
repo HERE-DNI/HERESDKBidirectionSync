@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapMarker3DModel.fromMeshWithTextureFilePathAndColor constructor"
 slug: "sdk-for-flutter-explore-mapview-mapmarker3dmodel-mapmarker3dmodel-frommeshwithtexturefilepathandcolor"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker3dmodel-mapmarker3dmodel-frommes
 `
 <div class="sdk-for-flutter">
 <!-- MapMarker3DModel.fromMeshWithTextureFilePathAndColor.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -63,9 +63,8 @@ This color is multiplied with color of texture.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory MapMarker3DModel.fromMeshWithTextureFilePathAndColor(Mesh mesh, String textureFilePath, ui.Color color) =&gt; $prototype.fromMeshWithTextureFilePathAndColor(mesh, textureFilePath, color);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -89,9 +88,7 @@ This color is multiplied with color of texture.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

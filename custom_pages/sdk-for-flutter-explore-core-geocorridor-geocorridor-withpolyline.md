@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "GeoCorridor.withPolyline constructor"
 slug: "sdk-for-flutter-explore-core-geocorridor-geocorridor-withpolyline"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-geocorridor-geocorridor-withpolyline"
 `
 <div class="sdk-for-flutter">
 <!-- GeoCorridor.withPolyline.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -51,9 +51,8 @@ GeoCorridor.withPolyline(<wbr/><ol class="parameter-list single-line"> <li>List&
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory GeoCorridor.withPolyline(List&lt;GeoCoordinates&gt; polyline) =&gt; $prototype.withPolyline(polyline);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -77,9 +76,7 @@ GeoCorridor.withPolyline(<wbr/><ol class="parameter-list single-line"> <li>List&
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVSEInfo constructor"
 slug: "sdk-for-flutter-explore-search-evseinfo-evseinfo"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-search-evseinfo-evseinfo"
 `
 <div class="sdk-for-flutter">
 <!-- EVSEInfo.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -45,9 +45,8 @@ EVSEInfo(<wbr/>)
 <pre class="language-dart"><code class="language-dart">EVSEInfo()
   : uid = "", id = null, evseID = null, status = EVSEState.unknown, lastUpdated = DateTime.fromMillisecondsSinceEpoch(0), connectors = [], capabilities = [], floorLevel = null, physicalReference = null, coordinates = null, paymentSupports = [];</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -71,9 +70,7 @@ EVSEInfo(<wbr/>)
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

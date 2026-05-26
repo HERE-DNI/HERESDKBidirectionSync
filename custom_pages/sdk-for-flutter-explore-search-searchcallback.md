@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SearchCallback typedef"
 slug: "sdk-for-flutter-explore-search-searchcallback"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-search-searchcallback"
 `
 <div class="sdk-for-flutter">
 <!-- SearchCallback.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -57,9 +57,8 @@ Both arguments cannot be <code>null</code> at the same time - or not <code>null<
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">typedef SearchCallback = void Function(SearchError? searchError, List&lt;Place&gt;? places);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -82,9 +81,7 @@ Both arguments cannot be <code>null</code> at the same time - or not <code>null<
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

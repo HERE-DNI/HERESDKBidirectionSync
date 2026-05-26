@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "VehicleRestrictionMaxWeight class"
 slug: "sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-class"
 ---
 
@@ -7,7 +7,22 @@ slug: "sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-class"
 `
 <div class="sdk-for-flutter">
 <!-- VehicleRestrictionMaxWeight-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/VehicleRestrictionMaxWeight-class.html#constructors">Constructors</a></li>
+<li><a href="routing/VehicleRestrictionMaxWeight/VehicleRestrictionMaxWeight.html">VehicleRestrictionMaxWeight</a></li>
+<li class="section-title">
+<a href="routing/VehicleRestrictionMaxWeight-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/VehicleRestrictionMaxWeight/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="routing/VehicleRestrictionMaxWeight/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/VehicleRestrictionMaxWeight/type.html">type</a></li>
+<li><a href="routing/VehicleRestrictionMaxWeight/valueInKilograms.html">valueInKilograms</a></li>
+<li class="section-title inherited"><a href="routing/VehicleRestrictionMaxWeight-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/VehicleRestrictionMaxWeight/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/VehicleRestrictionMaxWeight/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/VehicleRestrictionMaxWeight-class.html#operators">Operators</a></li>
+<li><a href="routing/VehicleRestrictionMaxWeight/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -126,9 +141,8 @@ along with the specific type of maximum permitted weight restriction.</p>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -151,9 +165,7 @@ along with the specific type of maximum permitted weight restriction.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

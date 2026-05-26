@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapMarkerClusterCounterStyle constructor"
 slug: "sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-mapmarkerclustercounterstyle"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-mapmarkerclu
 `
 <div class="sdk-for-flutter">
 <!-- MapMarkerClusterCounterStyle.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -45,9 +45,8 @@ MapMarkerClusterCounterStyle(<wbr/>)
 <pre class="language-dart"><code class="language-dart">MapMarkerClusterCounterStyle()
   : textColor = NamedColor.white, fontSize = 20.0, textAnchor = Anchor2D(), maxCountNumber = 99, aboveMaxText = "+99";</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -71,9 +70,7 @@ MapMarkerClusterCounterStyle(<wbr/>)
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

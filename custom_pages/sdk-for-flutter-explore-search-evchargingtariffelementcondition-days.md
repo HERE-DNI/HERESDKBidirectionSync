@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "days property"
 slug: "sdk-for-flutter-explore-search-evchargingtariffelementcondition-days"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-search-evchargingtariffelementcondition-days"
 `
 <div class="sdk-for-flutter">
 <!-- days.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -51,9 +51,8 @@ An example would be to specify lower prices for weekends</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">List&lt;DayOfWeek&gt; days;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -77,9 +76,7 @@ An example would be to specify lower prices for weekends</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

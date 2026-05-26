@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "CatalogConfiguration class"
 slug: "sdk-for-flutter-explore-core-engine-catalogconfiguration-class"
 ---
 
@@ -7,7 +7,26 @@ slug: "sdk-for-flutter-explore-core-engine-catalogconfiguration-class"
 `
 <div class="sdk-for-flutter">
 <!-- CatalogConfiguration-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core.engine/CatalogConfiguration-class.html#constructors">Constructors</a></li>
+<li><a href="core.engine/CatalogConfiguration/CatalogConfiguration.html">CatalogConfiguration</a></li>
+<li class="section-title">
+<a href="core.engine/CatalogConfiguration-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="core.engine/CatalogConfiguration/allowDownload.html">allowDownload</a></li>
+<li><a href="core.engine/CatalogConfiguration/cacheExpirationPeriod.html">cacheExpirationPeriod</a></li>
+<li><a href="core.engine/CatalogConfiguration/catalog.html">catalog</a></li>
+<li><a href="core.engine/CatalogConfiguration/hashCode.html">hashCode</a></li>
+<li><a href="core.engine/CatalogConfiguration/patchHrn.html">patchHrn</a></li>
+<li class="inherited"><a href="core.engine/CatalogConfiguration/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="core.engine/CatalogConfiguration-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="core.engine/CatalogConfiguration/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core.engine/CatalogConfiguration/toString.html">toString</a></li>
+<li class="section-title"><a href="core.engine/CatalogConfiguration-class.html#operators">Operators</a></li>
+<li><a href="core.engine/CatalogConfiguration/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="core.engine/CatalogConfiguration-class.html#static-methods">Static methods</a></li>
+<li><a href="core.engine/CatalogConfiguration/getDefault.html">getDefault</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -173,9 +192,8 @@ If this field is <code>null</code>, then incremental updates are disabled.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -198,9 +216,7 @@ If this field is <code>null</code>, then incremental updates are disabled.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

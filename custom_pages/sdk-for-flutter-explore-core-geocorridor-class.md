@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "GeoCorridor class"
 slug: "sdk-for-flutter-explore-core-geocorridor-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-core-geocorridor-class"
 `
 <div class="sdk-for-flutter">
 <!-- GeoCorridor-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core/GeoCorridor-class.html#constructors">Constructors</a></li>
+<li><a href="core/GeoCorridor/GeoCorridor.html">GeoCorridor</a></li>
+<li><a href="core/GeoCorridor/GeoCorridor.withPolyline.html">withPolyline</a></li>
+<li class="section-title">
+<a href="core/GeoCorridor-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="core/GeoCorridor/halfWidthInMeters.html">halfWidthInMeters</a></li>
+<li><a href="core/GeoCorridor/hashCode.html">hashCode</a></li>
+<li><a href="core/GeoCorridor/polyline.html">polyline</a></li>
+<li class="inherited"><a href="core/GeoCorridor/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="core/GeoCorridor-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="core/GeoCorridor/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core/GeoCorridor/toString.html">toString</a></li>
+<li class="section-title"><a href="core/GeoCorridor-class.html#operators">Operators</a></li>
+<li><a href="core/GeoCorridor/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -145,9 +161,8 @@ any point of the polyline to the closest border of the corridor is always the sa
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -170,9 +185,7 @@ any point of the polyline to the closest border of the corridor is always the sa
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

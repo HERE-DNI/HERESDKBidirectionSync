@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVConsumptionModel class"
 slug: "sdk-for-flutter-explore-routing-evconsumptionmodel-class"
 ---
 
@@ -7,7 +7,25 @@ slug: "sdk-for-flutter-explore-routing-evconsumptionmodel-class"
 `
 <div class="sdk-for-flutter">
 <!-- EVConsumptionModel-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/EVConsumptionModel-class.html#constructors">Constructors</a></li>
+<li><a href="routing/EVConsumptionModel/EVConsumptionModel.html">EVConsumptionModel</a></li>
+<li class="section-title">
+<a href="routing/EVConsumptionModel-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/EVConsumptionModel/ascentConsumptionInWattHoursPerMeter.html">ascentConsumptionInWattHoursPerMeter</a></li>
+<li><a href="routing/EVConsumptionModel/auxiliaryConsumptionInWattHoursPerSecond.html">auxiliaryConsumptionInWattHoursPerSecond</a></li>
+<li><a href="routing/EVConsumptionModel/descentRecoveryInWattHoursPerMeter.html">descentRecoveryInWattHoursPerMeter</a></li>
+<li><a href="routing/EVConsumptionModel/freeFlowSpeedTable.html">freeFlowSpeedTable</a></li>
+<li><a href="routing/EVConsumptionModel/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="routing/EVConsumptionModel/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/EVConsumptionModel/trafficSpeedTable.html">trafficSpeedTable</a></li>
+<li class="section-title inherited"><a href="routing/EVConsumptionModel-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/EVConsumptionModel/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/EVConsumptionModel/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/EVConsumptionModel-class.html#operators">Operators</a></li>
+<li><a href="routing/EVConsumptionModel/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -177,9 +195,8 @@ energy consumption.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -202,9 +219,7 @@ energy consumption.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

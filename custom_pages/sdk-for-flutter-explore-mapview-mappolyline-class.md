@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapPolyline class abstract"
 slug: "sdk-for-flutter-explore-mapview-mappolyline-class"
 ---
 
@@ -7,7 +7,33 @@ slug: "sdk-for-flutter-explore-mapview-mappolyline-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapPolyline-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/MapPolyline-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/MapPolyline/MapPolyline.withRepresentation.html">withRepresentation</a></li>
+<li class="section-title">
+<a href="mapview/MapPolyline-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="mapview/MapPolyline/drawOrder.html">drawOrder</a></li>
+<li><a href="mapview/MapPolyline/drawOrderType.html">drawOrderType</a></li>
+<li><a href="mapview/MapPolyline/geometry.html">geometry</a></li>
+<li class="inherited"><a href="mapview/MapPolyline/hashCode.html">hashCode</a></li>
+<li><a href="mapview/MapPolyline/mapContentCategoriesToBlock.html">mapContentCategoriesToBlock</a></li>
+<li><a href="mapview/MapPolyline/metadata.html">metadata</a></li>
+<li><a href="mapview/MapPolyline/progress.html">progress</a></li>
+<li><a href="mapview/MapPolyline/progressColor.html">progressColor</a></li>
+<li><a href="mapview/MapPolyline/progressGradientLength.html">progressGradientLength</a></li>
+<li><a href="mapview/MapPolyline/progressOutlineColor.html">progressOutlineColor</a></li>
+<li class="inherited"><a href="mapview/MapPolyline/runtimeType.html">runtimeType</a></li>
+<li><a href="mapview/MapPolyline/visibilityRanges.html">visibilityRanges</a></li>
+<li class="section-title"><a href="mapview/MapPolyline-class.html#instance-methods">Methods</a></li>
+<li><a href="mapview/MapPolyline/cancelAnimation.html">cancelAnimation</a></li>
+<li class="inherited"><a href="mapview/MapPolyline/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="mapview/MapPolyline/setRepresentation.html">setRepresentation</a></li>
+<li><a href="mapview/MapPolyline/startAnimation.html">startAnimation</a></li>
+<li class="inherited"><a href="mapview/MapPolyline/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview/MapPolyline-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/MapPolyline/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -234,9 +260,8 @@ ranges. When empty (the default), the map polyline is visible without map measur
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -259,9 +284,7 @@ ranges. When empty (the default), the map polyline is visible without map measur
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SDKDartInfo class abstract"
 slug: "sdk-for-flutter-explore-core-engine-sdkdartinfo-class"
 ---
 
@@ -7,7 +7,22 @@ slug: "sdk-for-flutter-explore-core-engine-sdkdartinfo-class"
 `
 <div class="sdk-for-flutter">
 <!-- SDKDartInfo-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core.engine/SDKDartInfo-class.html#constructors">Constructors</a></li>
+<li><a href="core.engine/SDKDartInfo/SDKDartInfo.html">SDKDartInfo</a></li>
+<li class="section-title inherited">
+<a href="core.engine/SDKDartInfo-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="core.engine/SDKDartInfo/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="core.engine/SDKDartInfo/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="core.engine/SDKDartInfo-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="core.engine/SDKDartInfo/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core.engine/SDKDartInfo/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="core.engine/SDKDartInfo-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="core.engine/SDKDartInfo/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="core.engine/SDKDartInfo-class.html#static-properties">Static properties</a></li>
+<li><a href="core.engine/SDKDartInfo/version.html">version</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -126,9 +141,8 @@ Gets the stored version of the Dart runtime.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -151,9 +165,7 @@ Gets the stored version of the Dart runtime.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

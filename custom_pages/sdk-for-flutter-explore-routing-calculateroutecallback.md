@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "CalculateRouteCallback typedef"
 slug: "sdk-for-flutter-explore-routing-calculateroutecallback"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-calculateroutecallback"
 `
 <div class="sdk-for-flutter">
 <!-- CalculateRouteCallback.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -58,9 +58,8 @@ The second argument is the calculated routes. It is <code>null</code> in case of
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">typedef CalculateRouteCallback = void Function(RoutingError? routingError, List&lt;Route&gt;? routeList);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -83,9 +82,7 @@ The second argument is the calculated routes. It is <code>null</code> in case of
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

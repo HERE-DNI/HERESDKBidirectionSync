@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "maxPoints property"
 slug: "sdk-for-flutter-explore-core-polylinesimplifieroptions-maxpoints"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-polylinesimplifieroptions-maxpoints"
 `
 <div class="sdk-for-flutter">
 <!-- maxPoints.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -58,9 +58,8 @@ will take into account only /sdk-for-flutter-explore-core-polylinesimplifieropti
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">int maxPoints;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -84,9 +83,7 @@ will take into account only /sdk-for-flutter-explore-core-polylinesimplifieropti
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

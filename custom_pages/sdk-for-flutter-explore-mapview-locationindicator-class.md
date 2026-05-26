@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "LocationIndicator class abstract"
 slug: "sdk-for-flutter-explore-mapview-locationindicator-class"
 ---
 
@@ -7,7 +7,34 @@ slug: "sdk-for-flutter-explore-mapview-locationindicator-class"
 `
 <div class="sdk-for-flutter">
 <!-- LocationIndicator-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/LocationIndicator-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/LocationIndicator/LocationIndicator.html">LocationIndicator</a></li>
+<li><a href="mapview/LocationIndicator/LocationIndicator.withMapView.html">withMapView</a></li>
+<li class="section-title">
+<a href="mapview/LocationIndicator-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview/LocationIndicator/hashCode.html">hashCode</a></li>
+<li><a href="mapview/LocationIndicator/isAccuracyVisualized.html">isAccuracyVisualized</a></li>
+<li><a href="mapview/LocationIndicator/isActive.html">isActive</a></li>
+<li><a href="mapview/LocationIndicator/locationIndicatorStyle.html">locationIndicatorStyle</a></li>
+<li><a href="mapview/LocationIndicator/materialReflectivity.html">materialReflectivity</a></li>
+<li><a href="mapview/LocationIndicator/opacity.html">opacity</a></li>
+<li class="inherited"><a href="mapview/LocationIndicator/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="mapview/LocationIndicator-class.html#instance-methods">Methods</a></li>
+<li><a href="mapview/LocationIndicator/disable.html">disable</a></li>
+<li><a href="mapview/LocationIndicator/enable.html">enable</a></li>
+<li><a href="mapview/LocationIndicator/getHaloColor.html">getHaloColor</a></li>
+<li class="inherited"><a href="mapview/LocationIndicator/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="mapview/LocationIndicator/setHaloColor.html">setHaloColor</a></li>
+<li><a class="deprecated" href="mapview/LocationIndicator/setMarker3dModel.html">setMarker3dModel</a></li>
+<li><a href="mapview/LocationIndicator/setMarker3dModelWithRenderSizeUnit.html">setMarker3dModelWithRenderSizeUnit</a></li>
+<li class="inherited"><a href="mapview/LocationIndicator/toString.html">toString</a></li>
+<li><a href="mapview/LocationIndicator/updateLocation.html">updateLocation</a></li>
+<li><a href="mapview/LocationIndicator/updateLocationAndCamera.html">updateLocationAndCamera</a></li>
+<li class="section-title inherited"><a href="mapview/LocationIndicator-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/LocationIndicator/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -258,9 +285,8 @@ Gets the current opacity of the location indicator.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -283,9 +309,7 @@ Gets the current opacity of the location indicator.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

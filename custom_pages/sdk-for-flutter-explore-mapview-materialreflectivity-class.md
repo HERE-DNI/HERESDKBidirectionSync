@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MaterialReflectivity class"
 slug: "sdk-for-flutter-explore-mapview-materialreflectivity-class"
 ---
 
@@ -7,7 +7,22 @@ slug: "sdk-for-flutter-explore-mapview-materialreflectivity-class"
 `
 <div class="sdk-for-flutter">
 <!-- MaterialReflectivity-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/MaterialReflectivity-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/MaterialReflectivity/MaterialReflectivity.html">MaterialReflectivity</a></li>
+<li class="section-title">
+<a href="mapview/MaterialReflectivity-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="mapview/MaterialReflectivity/ambientFactor.html">ambientFactor</a></li>
+<li><a href="mapview/MaterialReflectivity/diffuseFactor.html">diffuseFactor</a></li>
+<li><a href="mapview/MaterialReflectivity/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview/MaterialReflectivity/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="mapview/MaterialReflectivity-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="mapview/MaterialReflectivity/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="mapview/MaterialReflectivity/toString.html">toString</a></li>
+<li class="section-title"><a href="mapview/MaterialReflectivity-class.html#operators">Operators</a></li>
+<li><a href="mapview/MaterialReflectivity/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -143,9 +158,8 @@ the diffuse lighting component when lighting is enabled. Default value is 1.0.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -168,9 +182,7 @@ the diffuse lighting component when lighting is enabled. Default value is 1.0.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

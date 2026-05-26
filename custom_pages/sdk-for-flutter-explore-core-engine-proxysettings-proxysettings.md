@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "ProxySettings constructor"
 slug: "sdk-for-flutter-explore-core-engine-proxysettings-proxysettings"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-engine-proxysettings-proxysettings"
 `
 <div class="sdk-for-flutter">
 <!-- ProxySettings.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -48,9 +48,8 @@ ProxySettings(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter
 <pre class="language-dart"><code class="language-dart">ProxySettings(ProxySettingsProxyType type, io.InternetAddress ipAddress, int port)
   : type = type, ipAddress = ipAddress, networkInterface = "wlan0", port = port, credentials = null;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -74,9 +73,7 @@ ProxySettings(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

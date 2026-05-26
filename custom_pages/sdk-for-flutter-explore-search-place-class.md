@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Place class abstract"
 slug: "sdk-for-flutter-explore-search-place-class"
 ---
 
@@ -7,7 +7,35 @@ slug: "sdk-for-flutter-explore-search-place-class"
 `
 <div class="sdk-for-flutter">
 <!-- Place-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/Place-class.html#constructors">Constructors</a></li>
+<li><a href="search/Place/Place.html">Place</a></li>
+<li class="section-title">
+<a href="search/Place-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/Place/accessPoints.html">accessPoints</a></li>
+<li><a href="search/Place/address.html">address</a></li>
+<li><a href="search/Place/areaType.html">areaType</a></li>
+<li><a href="search/Place/boundingBox.html">boundingBox</a></li>
+<li><a href="search/Place/details.html">details</a></li>
+<li><a href="search/Place/distanceInMeters.html">distanceInMeters</a></li>
+<li><a href="search/Place/geoCoordinates.html">geoCoordinates</a></li>
+<li class="inherited"><a href="search/Place/hashCode.html">hashCode</a></li>
+<li><a href="search/Place/id.html">id</a></li>
+<li><a href="search/Place/isCoordinatesInterpolated.html">isCoordinatesInterpolated</a></li>
+<li><a href="search/Place/placeType.html">placeType</a></li>
+<li><a href="search/Place/politicalView.html">politicalView</a></li>
+<li class="inherited"><a href="search/Place/runtimeType.html">runtimeType</a></li>
+<li><a href="search/Place/title.html">title</a></li>
+<li class="section-title"><a href="search/Place-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/Place/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="search/Place/serializeCompact.html">serializeCompact</a></li>
+<li class="inherited"><a href="search/Place/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="search/Place-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="search/Place/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="search/Place-class.html#static-methods">Static methods</a></li>
+<li><a href="search/Place/deserialize.html">deserialize</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -261,9 +289,8 @@ Gets the localized title for the resource.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -286,9 +313,7 @@ Gets the localized title for the resource.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

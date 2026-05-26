@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapPolylineDashRepresentation class abstract"
 slug: "sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-class"
 ---
 
@@ -7,7 +7,26 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapPolylineDashRepresentation-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/MapPolylineDashRepresentation-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/MapPolylineDashRepresentation/MapPolylineDashRepresentation.html">MapPolylineDashRepresentation</a></li>
+<li><a href="mapview/MapPolylineDashRepresentation/MapPolylineDashRepresentation.withGapColor.html">withGapColor</a></li>
+<li class="section-title">
+<a href="mapview/MapPolylineDashRepresentation-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="mapview/MapPolylineDashRepresentation/dashColor.html">dashColor</a></li>
+<li><a href="mapview/MapPolylineDashRepresentation/dashLength.html">dashLength</a></li>
+<li><a href="mapview/MapPolylineDashRepresentation/gapColor.html">gapColor</a></li>
+<li><a href="mapview/MapPolylineDashRepresentation/gapLength.html">gapLength</a></li>
+<li class="inherited"><a href="mapview/MapItemRepresentation/hashCode.html">hashCode</a></li>
+<li><a href="mapview/MapPolylineDashRepresentation/lineWidth.html">lineWidth</a></li>
+<li class="inherited"><a href="mapview/MapItemRepresentation/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="mapview/MapPolylineDashRepresentation-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="mapview/MapItemRepresentation/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="mapview/MapItemRepresentation/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview/MapPolylineDashRepresentation-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/MapItemRepresentation/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -182,9 +201,8 @@ map measure in the <code>lineWidth</code>.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -207,9 +225,7 @@ map measure in the <code>lineWidth</code>.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

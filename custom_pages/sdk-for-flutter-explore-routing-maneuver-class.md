@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Maneuver class abstract"
 slug: "sdk-for-flutter-explore-routing-maneuver-class"
 ---
 
@@ -7,7 +7,36 @@ slug: "sdk-for-flutter-explore-routing-maneuver-class"
 `
 <div class="sdk-for-flutter">
 <!-- Maneuver-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/Maneuver-class.html#constructors">Constructors</a></li>
+<li><a href="routing/Maneuver/Maneuver.html">Maneuver</a></li>
+<li class="section-title">
+<a href="routing/Maneuver-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/Maneuver/action.html">action</a></li>
+<li><a href="routing/Maneuver/coordinates.html">coordinates</a></li>
+<li><a href="routing/Maneuver/countryCode.html">countryCode</a></li>
+<li><a href="routing/Maneuver/duration.html">duration</a></li>
+<li><a href="routing/Maneuver/exitSignTexts.html">exitSignTexts</a></li>
+<li class="inherited"><a href="routing/Maneuver/hashCode.html">hashCode</a></li>
+<li><a href="routing/Maneuver/intersectionNames.html">intersectionNames</a></li>
+<li><a href="routing/Maneuver/lengthInMeters.html">lengthInMeters</a></li>
+<li><a href="routing/Maneuver/nextRoadTexts.html">nextRoadTexts</a></li>
+<li><a href="routing/Maneuver/offset.html">offset</a></li>
+<li><a href="routing/Maneuver/roadTexts.html">roadTexts</a></li>
+<li><a href="routing/Maneuver/roundaboutAngleInDegrees.html">roundaboutAngleInDegrees</a></li>
+<li class="inherited"><a href="routing/Maneuver/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/Maneuver/sectionIndex.html">sectionIndex</a></li>
+<li><a href="routing/Maneuver/signpost.html">signpost</a></li>
+<li><a href="routing/Maneuver/spanIndex.html">spanIndex</a></li>
+<li><a href="routing/Maneuver/text.html">text</a></li>
+<li><a href="routing/Maneuver/turnAngleInDegrees.html">turnAngleInDegrees</a></li>
+<li class="section-title inherited"><a href="routing/Maneuver-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/Maneuver/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/Maneuver/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="routing/Maneuver-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="routing/Maneuver/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -286,9 +315,8 @@ Gets the angle of the turn component of the maneuver. The value is in degrees an
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -311,9 +339,7 @@ Gets the angle of the turn component of the maneuver. The value is in degrees an
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

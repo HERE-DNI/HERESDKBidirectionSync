@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "CategoryQuery class"
 slug: "sdk-for-flutter-explore-search-categoryquery-class"
 ---
 
@@ -7,7 +7,32 @@ slug: "sdk-for-flutter-explore-search-categoryquery-class"
 `
 <div class="sdk-for-flutter">
 <!-- CategoryQuery-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/CategoryQuery-class.html#constructors">Constructors</a></li>
+<li><a href="search/CategoryQuery/CategoryQuery.withCategoriesAndFilterInArea.html">withCategoriesAndFilterInArea</a></li>
+<li><a href="search/CategoryQuery/CategoryQuery.withCategoriesInArea.html">withCategoriesInArea</a></li>
+<li><a href="search/CategoryQuery/CategoryQuery.withCategoryAndFilterInArea.html">withCategoryAndFilterInArea</a></li>
+<li><a href="search/CategoryQuery/CategoryQuery.withCategoryInArea.html">withCategoryInArea</a></li>
+<li class="section-title">
+<a href="search/CategoryQuery-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/CategoryQuery/area.html">area</a></li>
+<li><a href="search/CategoryQuery/categories.html">categories</a></li>
+<li><a href="search/CategoryQuery/excludeCategories.html">excludeCategories</a></li>
+<li><a href="search/CategoryQuery/excludeChains.html">excludeChains</a></li>
+<li><a href="search/CategoryQuery/excludeFoodTypes.html">excludeFoodTypes</a></li>
+<li><a href="search/CategoryQuery/filter.html">filter</a></li>
+<li><a href="search/CategoryQuery/hashCode.html">hashCode</a></li>
+<li><a href="search/CategoryQuery/includeChains.html">includeChains</a></li>
+<li><a href="search/CategoryQuery/includeFoodTypes.html">includeFoodTypes</a></li>
+<li><a href="search/CategoryQuery/placeFilter.html">placeFilter</a></li>
+<li class="inherited"><a href="search/CategoryQuery/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="search/CategoryQuery-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/CategoryQuery/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/CategoryQuery/toString.html">toString</a></li>
+<li class="section-title"><a href="search/CategoryQuery-class.html#operators">Operators</a></li>
+<li><a href="search/CategoryQuery/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -226,9 +251,8 @@ Consists of fuel and truck options.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -251,9 +275,7 @@ Consists of fuel and truck options.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

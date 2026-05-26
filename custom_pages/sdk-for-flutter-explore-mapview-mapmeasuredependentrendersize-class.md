@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapMeasureDependentRenderSize class"
 slug: "sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class"
 ---
 
@@ -7,7 +7,24 @@ slug: "sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapMeasureDependentRenderSize-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/MapMeasureDependentRenderSize-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/MapMeasureDependentRenderSize/MapMeasureDependentRenderSize.html">MapMeasureDependentRenderSize</a></li>
+<li><a href="mapview/MapMeasureDependentRenderSize/MapMeasureDependentRenderSize.withSingleSize.html">withSingleSize</a></li>
+<li class="section-title">
+<a href="mapview/MapMeasureDependentRenderSize-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="mapview/MapMeasureDependentRenderSize/hashCode.html">hashCode</a></li>
+<li><a href="mapview/MapMeasureDependentRenderSize/measureKind.html">measureKind</a></li>
+<li class="inherited"><a href="mapview/MapMeasureDependentRenderSize/runtimeType.html">runtimeType</a></li>
+<li><a href="mapview/MapMeasureDependentRenderSize/sizes.html">sizes</a></li>
+<li><a href="mapview/MapMeasureDependentRenderSize/sizeUnit.html">sizeUnit</a></li>
+<li class="section-title inherited"><a href="mapview/MapMeasureDependentRenderSize-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="mapview/MapMeasureDependentRenderSize/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="mapview/MapMeasureDependentRenderSize/toString.html">toString</a></li>
+<li class="section-title"><a href="mapview/MapMeasureDependentRenderSize-class.html#operators">Operators</a></li>
+<li><a href="mapview/MapMeasureDependentRenderSize/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -151,9 +168,8 @@ menu
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -176,9 +192,7 @@ menu
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

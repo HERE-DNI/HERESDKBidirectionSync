@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "ChargingStation.withDetails constructor"
 slug: "sdk-for-flutter-explore-routing-chargingstation-chargingstation-withdetails"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-chargingstation-chargingstation-withdetai
 `
 <div class="sdk-for-flutter">
 <!-- ChargingStation.withDetails.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -73,9 +73,8 @@ from the list specified in the request parameter /sdk-for-flutter-explore-routin
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">ChargingStation.withDetails(this.id, this.name, this.connectorAttributes, this.brand, this.chargePointOperator, this.matchingEMobilityServiceProviders);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -99,9 +98,7 @@ from the list specified in the request parameter /sdk-for-flutter-explore-routin
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

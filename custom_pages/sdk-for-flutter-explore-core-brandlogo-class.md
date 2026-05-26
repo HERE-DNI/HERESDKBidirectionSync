@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "BrandLogo class"
 slug: "sdk-for-flutter-explore-core-brandlogo-class"
 ---
 
@@ -7,7 +7,22 @@ slug: "sdk-for-flutter-explore-core-brandlogo-class"
 `
 <div class="sdk-for-flutter">
 <!-- BrandLogo-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core/BrandLogo-class.html#constructors">Constructors</a></li>
+<li><a href="core/BrandLogo/BrandLogo.html">BrandLogo</a></li>
+<li class="section-title">
+<a href="core/BrandLogo-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="core/BrandLogo/fullsizeURL.html">fullsizeURL</a></li>
+<li><a href="core/BrandLogo/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="core/BrandLogo/runtimeType.html">runtimeType</a></li>
+<li><a href="core/BrandLogo/thumbnailURL.html">thumbnailURL</a></li>
+<li class="section-title inherited"><a href="core/BrandLogo-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="core/BrandLogo/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core/BrandLogo/toString.html">toString</a></li>
+<li class="section-title"><a href="core/BrandLogo-class.html#operators">Operators</a></li>
+<li><a href="core/BrandLogo/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -126,9 +141,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -151,9 +165,7 @@ Related APIs may change for new releases without a deprecation process.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

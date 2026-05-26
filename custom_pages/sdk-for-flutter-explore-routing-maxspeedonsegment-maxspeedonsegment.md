@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MaxSpeedOnSegment constructor"
 slug: "sdk-for-flutter-explore-routing-maxspeedonsegment-maxspeedonsegment"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-maxspeedonsegment-maxspeedonsegment"
 `
 <div class="sdk-for-flutter">
 <!-- MaxSpeedOnSegment.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -62,9 +62,8 @@ Cannot increase base speed on segment. If the value is greater than the default 
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">MaxSpeedOnSegment(this.segment, this.baseSpeedInMetersPerSecond);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -88,9 +87,7 @@ Cannot increase base speed on segment. If the value is greater than the default 
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVChargingTruckRestriction class"
 slug: "sdk-for-flutter-explore-search-evchargingtruckrestriction-class"
 ---
 
@@ -7,7 +7,22 @@ slug: "sdk-for-flutter-explore-search-evchargingtruckrestriction-class"
 `
 <div class="sdk-for-flutter">
 <!-- EVChargingTruckRestriction-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/EVChargingTruckRestriction-class.html#constructors">Constructors</a></li>
+<li><a href="search/EVChargingTruckRestriction/EVChargingTruckRestriction.html">EVChargingTruckRestriction</a></li>
+<li class="section-title">
+<a href="search/EVChargingTruckRestriction-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/EVChargingTruckRestriction/hashCode.html">hashCode</a></li>
+<li><a href="search/EVChargingTruckRestriction/hazardousGoodsRestricted.html">hazardousGoodsRestricted</a></li>
+<li class="inherited"><a href="search/EVChargingTruckRestriction/runtimeType.html">runtimeType</a></li>
+<li><a href="search/EVChargingTruckRestriction/truckAccess.html">truckAccess</a></li>
+<li class="section-title inherited"><a href="search/EVChargingTruckRestriction-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/EVChargingTruckRestriction/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/EVChargingTruckRestriction/toString.html">toString</a></li>
+<li class="section-title"><a href="search/EVChargingTruckRestriction-class.html#operators">Operators</a></li>
+<li><a href="search/EVChargingTruckRestriction/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -127,9 +142,8 @@ EV charging location is designed to serve.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -152,9 +166,7 @@ EV charging location is designed to serve.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

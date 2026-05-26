@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "init static method"
 slug: "sdk-for-flutter-explore-core-sdkcontext-init"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-sdkcontext-init"
 `
 <div class="sdk-for-flutter">
 <!-- init.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -59,9 +59,8 @@ by default, and this is suitable for almost all use cases.</p>
   SDKDartInfo.version = Platform.version;
 }</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -85,9 +84,7 @@ by default, and this is suitable for almost all use cases.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

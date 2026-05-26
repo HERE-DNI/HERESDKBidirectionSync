@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TrafficIncidentsQueryOptions class"
 slug: "sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class"
 ---
 
@@ -7,7 +7,25 @@ slug: "sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class"
 `
 <div class="sdk-for-flutter">
 <!-- TrafficIncidentsQueryOptions-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="traffic/TrafficIncidentsQueryOptions-class.html#constructors">Constructors</a></li>
+<li><a href="traffic/TrafficIncidentsQueryOptions/TrafficIncidentsQueryOptions.html">TrafficIncidentsQueryOptions</a></li>
+<li class="section-title">
+<a href="traffic/TrafficIncidentsQueryOptions-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="traffic/TrafficIncidentsQueryOptions/earliestStartTime.html">earliestStartTime</a></li>
+<li><a href="traffic/TrafficIncidentsQueryOptions/hashCode.html">hashCode</a></li>
+<li><a href="traffic/TrafficIncidentsQueryOptions/impactFilter.html">impactFilter</a></li>
+<li><a href="traffic/TrafficIncidentsQueryOptions/languageCode.html">languageCode</a></li>
+<li><a href="traffic/TrafficIncidentsQueryOptions/latestEndTime.html">latestEndTime</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentsQueryOptions/runtimeType.html">runtimeType</a></li>
+<li><a href="traffic/TrafficIncidentsQueryOptions/typeFilter.html">typeFilter</a></li>
+<li class="section-title inherited"><a href="traffic/TrafficIncidentsQueryOptions-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentsQueryOptions/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentsQueryOptions/toString.html">toString</a></li>
+<li class="section-title"><a href="traffic/TrafficIncidentsQueryOptions-class.html#operators">Operators</a></li>
+<li><a href="traffic/TrafficIncidentsQueryOptions/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -154,9 +172,8 @@ If the value is null filtering by the latest end time is not applied.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -179,9 +196,7 @@ If the value is null filtering by the latest end time is not applied.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

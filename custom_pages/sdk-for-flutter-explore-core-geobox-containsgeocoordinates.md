@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "containsGeoCoordinates method"
 slug: "sdk-for-flutter-explore-core-geobox-containsgeocoordinates"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-geobox-containsgeocoordinates"
 `
 <div class="sdk-for-flutter">
 <!-- containsGeoCoordinates.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -57,9 +57,8 @@ containsGeoCoordinates(<wbr/><ol class="parameter-list single-line"> <li>/sdk-fo
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">bool containsGeoCoordinates(GeoCoordinates geoCoordinates) =&gt; $prototype.containsGeoCoordinates(this, geoCoordinates);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -83,9 +82,7 @@ containsGeoCoordinates(<wbr/><ol class="parameter-list single-line"> <li>/sdk-fo
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

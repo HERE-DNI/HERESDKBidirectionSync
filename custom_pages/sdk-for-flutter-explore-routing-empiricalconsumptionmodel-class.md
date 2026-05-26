@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EmpiricalConsumptionModel class"
 slug: "sdk-for-flutter-explore-routing-empiricalconsumptionmodel-class"
 ---
 
@@ -7,7 +7,25 @@ slug: "sdk-for-flutter-explore-routing-empiricalconsumptionmodel-class"
 `
 <div class="sdk-for-flutter">
 <!-- EmpiricalConsumptionModel-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/EmpiricalConsumptionModel-class.html#constructors">Constructors</a></li>
+<li><a href="routing/EmpiricalConsumptionModel/EmpiricalConsumptionModel.html">EmpiricalConsumptionModel</a></li>
+<li class="section-title">
+<a href="routing/EmpiricalConsumptionModel-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/EmpiricalConsumptionModel/ascentConsumptionInWattHoursPerMeter.html">ascentConsumptionInWattHoursPerMeter</a></li>
+<li><a href="routing/EmpiricalConsumptionModel/auxiliaryConsumptionInWattHoursPerSecond.html">auxiliaryConsumptionInWattHoursPerSecond</a></li>
+<li><a href="routing/EmpiricalConsumptionModel/descentRecoveryInWattHoursPerMeter.html">descentRecoveryInWattHoursPerMeter</a></li>
+<li><a href="routing/EmpiricalConsumptionModel/freeFlowSpeedTable.html">freeFlowSpeedTable</a></li>
+<li><a href="routing/EmpiricalConsumptionModel/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="routing/EmpiricalConsumptionModel/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/EmpiricalConsumptionModel/trafficSpeedTable.html">trafficSpeedTable</a></li>
+<li class="section-title inherited"><a href="routing/EmpiricalConsumptionModel-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/EmpiricalConsumptionModel/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/EmpiricalConsumptionModel/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/EmpiricalConsumptionModel-class.html#operators">Operators</a></li>
+<li><a href="routing/EmpiricalConsumptionModel/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -183,9 +201,8 @@ energy consumption.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -208,9 +225,7 @@ energy consumption.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

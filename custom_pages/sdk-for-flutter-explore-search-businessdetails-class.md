@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "BusinessDetails class"
 slug: "sdk-for-flutter-explore-search-businessdetails-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-search-businessdetails-class"
 `
 <div class="sdk-for-flutter">
 <!-- BusinessDetails-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/BusinessDetails-class.html#constructors">Constructors</a></li>
+<li><a href="search/BusinessDetails/BusinessDetails.html">BusinessDetails</a></li>
+<li class="section-title">
+<a href="search/BusinessDetails-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/BusinessDetails/contacts.html">contacts</a></li>
+<li><a href="search/BusinessDetails/evChargingPool.html">evChargingPool</a></li>
+<li><a href="search/BusinessDetails/hashCode.html">hashCode</a></li>
+<li><a href="search/BusinessDetails/openingHours.html">openingHours</a></li>
+<li class="inherited"><a href="search/BusinessDetails/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="search/BusinessDetails-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/BusinessDetails/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/BusinessDetails/toString.html">toString</a></li>
+<li class="section-title"><a href="search/BusinessDetails-class.html#operators">Operators</a></li>
+<li><a href="search/BusinessDetails/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -135,9 +151,8 @@ valid contracts with HERE.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -160,9 +175,7 @@ valid contracts with HERE.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Point3D class"
 slug: "sdk-for-flutter-explore-core-point3d-class"
 ---
 
@@ -7,7 +7,24 @@ slug: "sdk-for-flutter-explore-core-point3d-class"
 `
 <div class="sdk-for-flutter">
 <!-- Point3D-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core/Point3D-class.html#constructors">Constructors</a></li>
+<li><a href="core/Point3D/Point3D.html">Point3D</a></li>
+<li><a href="core/Point3D/Point3D.zero.html">zero</a></li>
+<li class="section-title">
+<a href="core/Point3D-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="core/Point3D/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="core/Point3D/runtimeType.html">runtimeType</a></li>
+<li><a href="core/Point3D/x.html">x</a></li>
+<li><a href="core/Point3D/y.html">y</a></li>
+<li><a href="core/Point3D/z.html">z</a></li>
+<li class="section-title inherited"><a href="core/Point3D-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="core/Point3D/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core/Point3D/toString.html">toString</a></li>
+<li class="section-title"><a href="core/Point3D-class.html#operators">Operators</a></li>
+<li><a href="core/Point3D/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -139,9 +156,8 @@ menu
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -164,9 +180,7 @@ menu
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

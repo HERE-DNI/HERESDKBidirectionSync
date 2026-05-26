@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TrafficIncidentVehicleRestriction class"
 slug: "sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-class"
 ---
 
@@ -7,7 +7,48 @@ slug: "sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-class"
 `
 <div class="sdk-for-flutter">
 <!-- TrafficIncidentVehicleRestriction-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="traffic/TrafficIncidentVehicleRestriction-class.html#constructors">Constructors</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/TrafficIncidentVehicleRestriction.html">TrafficIncidentVehicleRestriction</a></li>
+<li class="section-title">
+<a href="traffic/TrafficIncidentVehicleRestriction-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/hashCode.html">hashCode</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/isCaravanRestricted.html">isCaravanRestricted</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/isDestinationInIncidentAreaRestricted.html">isDestinationInIncidentAreaRestricted</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/isDieselFuelRestricted.html">isDieselFuelRestricted</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/isDrivingWithoutSnowChainsRestricted.html">isDrivingWithoutSnowChainsRestricted</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/isDrivingWithoutWinterTyresRestricted.html">isDrivingWithoutWinterTyresRestricted</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/isEuro3EmissionStandardRestricted.html">isEuro3EmissionStandardRestricted</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/isEuro4EmissionStandardRestricted.html">isEuro4EmissionStandardRestricted</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/isEuro5EmissionStandardRestricted.html">isEuro5EmissionStandardRestricted</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/isEvenNumberPlateRestricted.html">isEvenNumberPlateRestricted</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/isLpgFuelRestricted.html">isLpgFuelRestricted</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/isOddNumberPlateRestricted.html">isOddNumberPlateRestricted</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/isPetrolFuelRestricted.html">isPetrolFuelRestricted</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/isResidentsTrafficRestricted.html">isResidentsTrafficRestricted</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/isRestrictedAlways.html">isRestrictedAlways</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/isThroughTrafficRestricted.html">isThroughTrafficRestricted</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/isTrailerRestricted.html">isTrailerRestricted</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/restrictedIfAxleWeightLessThanInKilograms.html">restrictedIfAxleWeightLessThanInKilograms</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/restrictedIfAxleWeightMoreThanInKilograms.html">restrictedIfAxleWeightMoreThanInKilograms</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/restrictedIfGrossWeightLessThanInKilograms.html">restrictedIfGrossWeightLessThanInKilograms</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/restrictedIfGrossWeightMoreThanInKilograms.html">restrictedIfGrossWeightMoreThanInKilograms</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/restrictedIfHigherThanInCentimeters.html">restrictedIfHigherThanInCentimeters</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/restrictedIfLongerThanInCentimeters.html">restrictedIfLongerThanInCentimeters</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/restrictedIfLowerThanInCentimeters.html">restrictedIfLowerThanInCentimeters</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/restrictedIfNarrowerThanInCentimeters.html">restrictedIfNarrowerThanInCentimeters</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/restrictedIfOccupantsFewerThan.html">restrictedIfOccupantsFewerThan</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/restrictedIfOccupantsMoreThan.html">restrictedIfOccupantsMoreThan</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/restrictedIfShorterThanInCentimeters.html">restrictedIfShorterThanInCentimeters</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/restrictedIfWiderThanInCentimeters.html">restrictedIfWiderThanInCentimeters</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentVehicleRestriction/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="traffic/TrafficIncidentVehicleRestriction-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentVehicleRestriction/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="traffic/TrafficIncidentVehicleRestriction/toString.html">toString</a></li>
+<li class="section-title"><a href="traffic/TrafficIncidentVehicleRestriction-class.html#operators">Operators</a></li>
+<li><a href="traffic/TrafficIncidentVehicleRestriction/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -345,9 +386,8 @@ If the value is <code>null</code> the upper width bound is not specified.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -370,9 +410,7 @@ If the value is <code>null</code> the upper width bound is not specified.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

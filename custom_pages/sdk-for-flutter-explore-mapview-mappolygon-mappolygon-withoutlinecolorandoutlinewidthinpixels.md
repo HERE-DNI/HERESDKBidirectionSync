@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapPolygon.withOutlineColorAndOutlineWidthInPixels constructor"
 slug: "sdk-for-flutter-explore-mapview-mappolygon-mappolygon-withoutlinecolorandoutlinewidthinpixels"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mappolygon-mappolygon-withoutlinecolorand
 `
 <div class="sdk-for-flutter">
 <!-- MapPolygon.withOutlineColorAndOutlineWidthInPixels.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -81,9 +81,8 @@ artifacts.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory MapPolygon.withOutlineColorAndOutlineWidthInPixels(GeoPolygon geometry, ui.Color color, ui.Color outlineColor, double outlineWidthInPixels) =&gt; $prototype.withOutlineColorAndOutlineWidthInPixels(geometry, color, outlineColor, outlineWidthInPixels);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -107,9 +106,7 @@ artifacts.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

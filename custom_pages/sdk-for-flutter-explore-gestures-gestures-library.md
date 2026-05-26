@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "gestures library"
 slug: "sdk-for-flutter-explore-gestures-gestures-library"
 ---
 
@@ -7,7 +7,20 @@ slug: "sdk-for-flutter-explore-gestures-gestures-library"
 `
 <div class="sdk-for-flutter">
 <!-- gestures-library.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="gestures/gestures-library.html#classes">Classes</a></li>
+<li><a href="gestures/DoubleTapListener-class.html">DoubleTapListener</a></li>
+<li><a href="gestures/Gestures-class.html">Gestures</a></li>
+<li><a href="gestures/LongPressListener-class.html">LongPressListener</a></li>
+<li><a href="gestures/PanListener-class.html">PanListener</a></li>
+<li><a href="gestures/PinchRotateListener-class.html">PinchRotateListener</a></li>
+<li><a href="gestures/TapListener-class.html">TapListener</a></li>
+<li><a href="gestures/TwoFingerPanListener-class.html">TwoFingerPanListener</a></li>
+<li><a href="gestures/TwoFingerTapListener-class.html">TwoFingerTapListener</a></li>
+<li class="section-title"><a href="gestures/gestures-library.html#enums">Enums</a></li>
+<li><a href="gestures/GestureState.html">GestureState</a></li>
+<li><a href="gestures/GestureType.html">GestureType</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -106,9 +119,8 @@ menu
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -146,9 +158,7 @@ menu
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

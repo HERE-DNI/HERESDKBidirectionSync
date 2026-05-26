@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "ViolatedRestrictionDetails class"
 slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-class"
 ---
 
@@ -7,7 +7,38 @@ slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-class"
 `
 <div class="sdk-for-flutter">
 <!-- ViolatedRestrictionDetails-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/ViolatedRestrictionDetails-class.html#constructors">Constructors</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/ViolatedRestrictionDetails.html">ViolatedRestrictionDetails</a></li>
+<li class="section-title">
+<a href="routing/ViolatedRestrictionDetails-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/ViolatedRestrictionDetails/forbiddenAxleCount.html">forbiddenAxleCount</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/forbiddenHazardousGoods.html">forbiddenHazardousGoods</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/forbiddenTrailerCount.html">forbiddenTrailerCount</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/forbiddenTruckCategory.html">forbiddenTruckCategory</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/forbiddenTruckRoadTypes.html">forbiddenTruckRoadTypes</a></li>
+<li><a class="deprecated" href="routing/ViolatedRestrictionDetails/forbiddenTruckType.html">forbiddenTruckType</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/hashCode.html">hashCode</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/maxHeightInCentimeters.html">maxHeightInCentimeters</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/maxKingpinToRearAxleDistanceInCentimeters.html">maxKingpinToRearAxleDistanceInCentimeters</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/maxLengthInCentimeters.html">maxLengthInCentimeters</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/maxNumberOfTires.html">maxNumberOfTires</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/maxPayloadCapacityInKilograms.html">maxPayloadCapacityInKilograms</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/maxTunnelCategory.html">maxTunnelCategory</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/maxWeight.html">maxWeight</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/maxWeightPerAxleGroupInKilograms.html">maxWeightPerAxleGroupInKilograms</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/maxWeightPerAxleInKilograms.html">maxWeightPerAxleInKilograms</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/maxWidthInCentimeters.html">maxWidthInCentimeters</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/routingZoneReference.html">routingZoneReference</a></li>
+<li class="inherited"><a href="routing/ViolatedRestrictionDetails/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/timeRule.html">timeRule</a></li>
+<li class="section-title inherited"><a href="routing/ViolatedRestrictionDetails-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/ViolatedRestrictionDetails/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/ViolatedRestrictionDetails/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/ViolatedRestrictionDetails-class.html#operators">Operators</a></li>
+<li><a href="routing/ViolatedRestrictionDetails/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -285,9 +316,8 @@ This property will be set if the /sdk-for-flutter-explore-routing-avoidanceoptio
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -310,9 +340,7 @@ This property will be set if the /sdk-for-flutter-explore-routing-avoidanceoptio
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

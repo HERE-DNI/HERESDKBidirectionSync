@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapPolylineSolidMultiColorRepresentation class abstract"
 slug: "sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-
 `
 <div class="sdk-for-flutter">
 <!-- MapPolylineSolidMultiColorRepresentation-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/MapPolylineSolidMultiColorRepresentation-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/MapPolylineSolidMultiColorRepresentation/MapPolylineSolidMultiColorRepresentation.html">MapPolylineSolidMultiColorRepresentation</a></li>
+<li><a href="mapview/MapPolylineSolidMultiColorRepresentation/MapPolylineSolidMultiColorRepresentation.withOutline.html">withOutline</a></li>
+<li class="section-title inherited">
+<a href="mapview/MapPolylineSolidMultiColorRepresentation-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview/MapItemRepresentation/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview/MapItemRepresentation/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="mapview/MapPolylineSolidMultiColorRepresentation-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="mapview/MapItemRepresentation/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="mapview/MapPolylineSolidMultiColorRepresentation/setMultiColorGradientLength.html">setMultiColorGradientLength</a></li>
+<li><a href="mapview/MapPolylineSolidMultiColorRepresentation/setMultiColors.html">setMultiColors</a></li>
+<li class="inherited"><a href="mapview/MapItemRepresentation/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview/MapPolylineSolidMultiColorRepresentation-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/MapItemRepresentation/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -161,9 +177,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -186,9 +201,7 @@ behavior. Related APIs may change for new releases without a deprecation process
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapScene class abstract"
 slug: "sdk-for-flutter-explore-mapview-mapscene-class"
 ---
 
@@ -7,7 +7,58 @@ slug: "sdk-for-flutter-explore-mapview-mapscene-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapScene-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/MapScene-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/MapScene/MapScene.html">MapScene</a></li>
+<li class="section-title">
+<a href="mapview/MapScene-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview/MapScene/hashCode.html">hashCode</a></li>
+<li><a href="mapview/MapScene/lights.html">lights</a></li>
+<li class="inherited"><a href="mapview/MapScene/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="mapview/MapScene-class.html#instance-methods">Methods</a></li>
+<li><a href="mapview/MapScene/addMapArrow.html">addMapArrow</a></li>
+<li><a href="mapview/MapScene/addMapImageOverlay.html">addMapImageOverlay</a></li>
+<li><a href="mapview/MapScene/addMapMarker.html">addMapMarker</a></li>
+<li><a href="mapview/MapScene/addMapMarker3d.html">addMapMarker3d</a></li>
+<li><a href="mapview/MapScene/addMapMarkerCluster.html">addMapMarkerCluster</a></li>
+<li><a href="mapview/MapScene/addMapMarkers.html">addMapMarkers</a></li>
+<li><a href="mapview/MapScene/addMapMarkers3d.html">addMapMarkers3d</a></li>
+<li><a href="mapview/MapScene/addMapPolygon.html">addMapPolygon</a></li>
+<li><a href="mapview/MapScene/addMapPolygons.html">addMapPolygons</a></li>
+<li><a href="mapview/MapScene/addMapPolyline.html">addMapPolyline</a></li>
+<li><a href="mapview/MapScene/addMapPolylines.html">addMapPolylines</a></li>
+<li><a href="mapview/MapScene/disableFeatures.html">disableFeatures</a></li>
+<li><a href="mapview/MapScene/enableFeatures.html">enableFeatures</a></li>
+<li><a href="mapview/MapScene/getActiveFeatures.html">getActiveFeatures</a></li>
+<li><a href="mapview/MapScene/getSupportedFeatures.html">getSupportedFeatures</a></li>
+<li><a href="mapview/MapScene/loadScene.html">loadScene</a></li>
+<li><a href="mapview/MapScene/loadSceneForMapScheme.html">loadSceneForMapScheme</a></li>
+<li><a href="mapview/MapScene/loadSceneFromConfigurationFile.html">loadSceneFromConfigurationFile</a></li>
+<li><a href="mapview/MapScene/loadSceneFromConfigurationFileWithWatermarkStyle.html">loadSceneFromConfigurationFileWithWatermarkStyle</a></li>
+<li class="inherited"><a href="mapview/MapScene/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="mapview/MapScene/reloadScene.html">reloadScene</a></li>
+<li><a href="mapview/MapScene/removeAllMapItems.html">removeAllMapItems</a></li>
+<li><a href="mapview/MapScene/removeAllMapMarkers.html">removeAllMapMarkers</a></li>
+<li><a href="mapview/MapScene/removeAllMapMarkers3d.html">removeAllMapMarkers3d</a></li>
+<li><a href="mapview/MapScene/removeAllMapPolygons.html">removeAllMapPolygons</a></li>
+<li><a href="mapview/MapScene/removeAllMapPolylines.html">removeAllMapPolylines</a></li>
+<li><a href="mapview/MapScene/removeMapArrow.html">removeMapArrow</a></li>
+<li><a href="mapview/MapScene/removeMapImageOverlay.html">removeMapImageOverlay</a></li>
+<li><a href="mapview/MapScene/removeMapMarker.html">removeMapMarker</a></li>
+<li><a href="mapview/MapScene/removeMapMarker3d.html">removeMapMarker3d</a></li>
+<li><a href="mapview/MapScene/removeMapMarkerCluster.html">removeMapMarkerCluster</a></li>
+<li><a href="mapview/MapScene/removeMapMarkers.html">removeMapMarkers</a></li>
+<li><a href="mapview/MapScene/removeMapMarkers3d.html">removeMapMarkers3d</a></li>
+<li><a href="mapview/MapScene/removeMapPolygon.html">removeMapPolygon</a></li>
+<li><a href="mapview/MapScene/removeMapPolygons.html">removeMapPolygons</a></li>
+<li><a href="mapview/MapScene/removeMapPolyline.html">removeMapPolyline</a></li>
+<li><a href="mapview/MapScene/removeMapPolylines.html">removeMapPolylines</a></li>
+<li><a href="mapview/MapScene/setLayerVisibility.html">setLayerVisibility</a></li>
+<li class="inherited"><a href="mapview/MapScene/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview/MapScene-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/MapScene/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -532,9 +583,8 @@ loaded scene configuration.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -557,9 +607,7 @@ loaded scene configuration.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

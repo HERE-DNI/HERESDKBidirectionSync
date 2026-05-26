@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "BatterySpecifications constructor"
 slug: "sdk-for-flutter-explore-routing-batteryspecifications-batteryspecifications"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-batteryspecifications-batteryspecificatio
 `
 <div class="sdk-for-flutter">
 <!-- BatterySpecifications.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -136,9 +136,8 @@ The provided value must be greater than or equal to 0. By default, it is not set
 <pre class="language-dart"><code class="language-dart">BatterySpecifications([double totalCapacityInKilowattHours = 0.0, double initialChargeInKilowattHours = 0.0, double targetChargeInKilowattHours = 0.0, Map&lt;double, double&gt; chargingCurve = const {}, List&lt;ChargingConnectorType&gt; connectorTypes = const [], double minChargeAtChargingStationInKilowattHours = 0.0, double? minChargeAtFirstChargingStationInKilowattHours = null, double minChargeAtDestinationInKilowattHours = 0.0, double? maxChargingVoltageInVolts = null, double? maxChargingCurrentInAmperes = null, Duration chargingSetupDuration = const Duration(seconds: 0), double? maxPowerAtLowVoltageInKilowatts = null])
   : totalCapacityInKilowattHours = totalCapacityInKilowattHours, initialChargeInKilowattHours = initialChargeInKilowattHours, targetChargeInKilowattHours = targetChargeInKilowattHours, chargingCurve = chargingCurve, connectorTypes = connectorTypes, minChargeAtChargingStationInKilowattHours = minChargeAtChargingStationInKilowattHours, minChargeAtFirstChargingStationInKilowattHours = minChargeAtFirstChargingStationInKilowattHours, minChargeAtDestinationInKilowattHours = minChargeAtDestinationInKilowattHours, maxChargingVoltageInVolts = maxChargingVoltageInVolts, maxChargingCurrentInAmperes = maxChargingCurrentInAmperes, chargingSetupDuration = chargingSetupDuration, maxPowerAtLowVoltageInKilowatts = maxPowerAtLowVoltageInKilowatts;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -162,9 +161,7 @@ The provided value must be greater than or equal to 0. By default, it is not set
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

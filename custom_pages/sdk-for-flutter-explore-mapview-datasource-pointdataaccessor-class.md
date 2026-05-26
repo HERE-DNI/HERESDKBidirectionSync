@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PointDataAccessor class abstract"
 slug: "sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-class"
 ---
 
@@ -7,7 +7,24 @@ slug: "sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-class"
 `
 <div class="sdk-for-flutter">
 <!-- PointDataAccessor-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview.datasource/PointDataAccessor-class.html#constructors">Constructors</a></li>
+<li><a href="mapview.datasource/PointDataAccessor/PointDataAccessor.html">PointDataAccessor</a></li>
+<li class="section-title inherited">
+<a href="mapview.datasource/PointDataAccessor-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview.datasource/PointDataAccessor/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview.datasource/PointDataAccessor/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="mapview.datasource/PointDataAccessor-class.html#instance-methods">Methods</a></li>
+<li><a href="mapview.datasource/PointDataAccessor/getAttributes.html">getAttributes</a></li>
+<li><a href="mapview.datasource/PointDataAccessor/getCoordinates.html">getCoordinates</a></li>
+<li class="inherited"><a href="mapview.datasource/PointDataAccessor/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="mapview.datasource/PointDataAccessor/setAttributes.html">setAttributes</a></li>
+<li><a href="mapview.datasource/PointDataAccessor/setCoordinates.html">setCoordinates</a></li>
+<li class="inherited"><a href="mapview.datasource/PointDataAccessor/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview.datasource/PointDataAccessor-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview.datasource/PointDataAccessor/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -149,9 +166,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -174,9 +190,7 @@ behavior. Related APIs may change for new releases without a deprecation process
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

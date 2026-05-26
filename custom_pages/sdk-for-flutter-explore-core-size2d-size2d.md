@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Size2D constructor"
 slug: "sdk-for-flutter-explore-core-size2d-size2d"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-size2d-size2d"
 `
 <div class="sdk-for-flutter">
 <!-- Size2D.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -53,9 +53,8 @@ Size2D(<wbr/><ol class="parameter-list single-line"> <li>double width, </li>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">Size2D(this.width, this.height);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -79,9 +78,7 @@ Size2D(<wbr/><ol class="parameter-list single-line"> <li>double width, </li>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

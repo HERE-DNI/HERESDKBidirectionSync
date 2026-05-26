@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVChargingTariffElement class"
 slug: "sdk-for-flutter-explore-search-evchargingtariffelement-class"
 ---
 
@@ -7,7 +7,22 @@ slug: "sdk-for-flutter-explore-search-evchargingtariffelement-class"
 `
 <div class="sdk-for-flutter">
 <!-- EVChargingTariffElement-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/EVChargingTariffElement-class.html#constructors">Constructors</a></li>
+<li><a href="search/EVChargingTariffElement/EVChargingTariffElement.html">EVChargingTariffElement</a></li>
+<li class="section-title">
+<a href="search/EVChargingTariffElement-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/EVChargingTariffElement/components.html">components</a></li>
+<li><a href="search/EVChargingTariffElement/condition.html">condition</a></li>
+<li><a href="search/EVChargingTariffElement/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="search/EVChargingTariffElement/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="search/EVChargingTariffElement-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/EVChargingTariffElement/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/EVChargingTariffElement/toString.html">toString</a></li>
+<li class="section-title"><a href="search/EVChargingTariffElement-class.html#operators">Operators</a></li>
+<li><a href="search/EVChargingTariffElement/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -129,9 +144,8 @@ condition is typically present for charging sessions that do not meet any of the
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -154,9 +168,7 @@ condition is typically present for charging sessions that do not meet any of the
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EnergyMix class"
 slug: "sdk-for-flutter-explore-search-energymix-class"
 ---
 
@@ -7,7 +7,25 @@ slug: "sdk-for-flutter-explore-search-energymix-class"
 `
 <div class="sdk-for-flutter">
 <!-- EnergyMix-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/EnergyMix-class.html#constructors">Constructors</a></li>
+<li><a href="search/EnergyMix/EnergyMix.html">EnergyMix</a></li>
+<li class="section-title">
+<a href="search/EnergyMix-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/EnergyMix/energyProduct.html">energyProduct</a></li>
+<li><a href="search/EnergyMix/energySources.html">energySources</a></li>
+<li><a href="search/EnergyMix/environmentalImpacts.html">environmentalImpacts</a></li>
+<li><a href="search/EnergyMix/hashCode.html">hashCode</a></li>
+<li><a href="search/EnergyMix/isGreenEnergy.html">isGreenEnergy</a></li>
+<li class="inherited"><a href="search/EnergyMix/runtimeType.html">runtimeType</a></li>
+<li><a href="search/EnergyMix/supplier.html">supplier</a></li>
+<li class="section-title inherited"><a href="search/EnergyMix-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/EnergyMix/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/EnergyMix/toString.html">toString</a></li>
+<li class="section-title"><a href="search/EnergyMix-class.html#operators">Operators</a></li>
+<li><a href="search/EnergyMix/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -151,9 +169,8 @@ The sum of the percentages over the energy sources should be 100%.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -176,9 +193,7 @@ The sum of the percentages over the energy sources should be 100%.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TransitIncident constructor"
 slug: "sdk-for-flutter-explore-routing-transitincident-transitincident"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-transitincident-transitincident"
 `
 <div class="sdk-for-flutter">
 <!-- TransitIncident.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -63,9 +63,8 @@ TransitIncident(<wbr/><ol class="parameter-list"> <li>String? summary, </li>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">TransitIncident(this.summary, this.description, this.type, this.effect, this.validFrom, this.validUntil, this.url);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -89,9 +88,7 @@ TransitIncident(<wbr/><ol class="parameter-list"> <li>String? summary, </li>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

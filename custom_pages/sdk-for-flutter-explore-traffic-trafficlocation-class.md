@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TrafficLocation class"
 slug: "sdk-for-flutter-explore-traffic-trafficlocation-class"
 ---
 
@@ -7,7 +7,24 @@ slug: "sdk-for-flutter-explore-traffic-trafficlocation-class"
 `
 <div class="sdk-for-flutter">
 <!-- TrafficLocation-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="traffic/TrafficLocation-class.html#constructors">Constructors</a></li>
+<li><a href="traffic/TrafficLocation/TrafficLocation.html">TrafficLocation</a></li>
+<li class="section-title">
+<a href="traffic/TrafficLocation-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="traffic/TrafficLocation/additionalPolylines.html">additionalPolylines</a></li>
+<li><a href="traffic/TrafficLocation/description.html">description</a></li>
+<li><a href="traffic/TrafficLocation/hashCode.html">hashCode</a></li>
+<li><a href="traffic/TrafficLocation/lengthInMeters.html">lengthInMeters</a></li>
+<li><a href="traffic/TrafficLocation/polyline.html">polyline</a></li>
+<li class="inherited"><a href="traffic/TrafficLocation/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="traffic/TrafficLocation-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="traffic/TrafficLocation/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="traffic/TrafficLocation/toString.html">toString</a></li>
+<li class="section-title"><a href="traffic/TrafficLocation-class.html#operators">Operators</a></li>
+<li><a href="traffic/TrafficLocation/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -150,9 +167,8 @@ All others following the gap are present in the <code>additional_polylines</code
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -175,9 +191,7 @@ All others following the gap are present in the <code>additional_polylines</code
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

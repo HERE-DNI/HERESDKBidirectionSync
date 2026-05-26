@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SegmentReference class"
 slug: "sdk-for-flutter-explore-routing-segmentreference-class"
 ---
 
@@ -7,7 +7,29 @@ slug: "sdk-for-flutter-explore-routing-segmentreference-class"
 `
 <div class="sdk-for-flutter">
 <!-- SegmentReference-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/SegmentReference-class.html#constructors">Constructors</a></li>
+<li><a href="routing/SegmentReference/SegmentReference.html">SegmentReference</a></li>
+<li><a href="routing/SegmentReference/SegmentReference.withDefaults.html">withDefaults</a></li>
+<li class="section-title">
+<a href="routing/SegmentReference-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/SegmentReference/hashCode.html">hashCode</a></li>
+<li><a href="routing/SegmentReference/localId.html">localId</a></li>
+<li><a href="routing/SegmentReference/offsetEnd.html">offsetEnd</a></li>
+<li><a href="routing/SegmentReference/offsetStart.html">offsetStart</a></li>
+<li class="inherited"><a href="routing/SegmentReference/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/SegmentReference/segmentId.html">segmentId</a></li>
+<li><a href="routing/SegmentReference/tilePartitionId.html">tilePartitionId</a></li>
+<li><a href="routing/SegmentReference/travelDirection.html">travelDirection</a></li>
+<li class="section-title inherited"><a href="routing/SegmentReference-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/SegmentReference/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/SegmentReference/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/SegmentReference-class.html#operators">Operators</a></li>
+<li><a href="routing/SegmentReference/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="routing/SegmentReference-class.html#static-methods">Static methods</a></li>
+<li><a href="routing/SegmentReference/fromString.html">fromString</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -181,9 +203,8 @@ As in HERE Map Content.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -206,9 +227,7 @@ As in HERE Map Content.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "lookToMatchGeoPointToViewPointWithOrientationMapMeasure static method"
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-looktomatchgeopointtoviewpointwithorientationmapmeasure"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-looktomatchgeopoin
 `
 <div class="sdk-for-flutter">
 <!-- lookToMatchGeoPointToViewPointWithOrientationMapMeasure.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -80,9 +80,8 @@ if the given view point is identical to the principal point.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">static MapCameraUpdate lookToMatchGeoPointToViewPointWithOrientationMapMeasure(GeoCoordinates geoPoint, Point2D viewPoint, GeoOrientationUpdate orientation, MapMeasure measure) =&gt; $prototype.lookToMatchGeoPointToViewPointWithOrientationMapMeasure(geoPoint, viewPoint, orientation, measure);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -106,9 +105,7 @@ if the given view point is identical to the principal point.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

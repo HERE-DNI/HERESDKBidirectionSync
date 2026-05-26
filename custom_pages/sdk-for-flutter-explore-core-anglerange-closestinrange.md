@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "closestInRange method"
 slug: "sdk-for-flutter-explore-core-anglerange-closestinrange"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-anglerange-closestinrange"
 `
 <div class="sdk-for-flutter">
 <!-- closestInRange.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -62,9 +62,8 @@ normalized angle in degree, clockwise from north.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">double closestInRange(double angleClockwiseInDegreesFromNorth) =&gt; $prototype.closestInRange(this, angleClockwiseInDegreesFromNorth);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -88,9 +87,7 @@ normalized angle in degree, clockwise from north.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

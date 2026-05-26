@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TrafficOnSection class"
 slug: "sdk-for-flutter-explore-routing-trafficonsection-class"
 ---
 
@@ -7,7 +7,25 @@ slug: "sdk-for-flutter-explore-routing-trafficonsection-class"
 `
 <div class="sdk-for-flutter">
 <!-- TrafficOnSection-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/TrafficOnSection-class.html#constructors">Constructors</a></li>
+<li><a href="routing/TrafficOnSection/TrafficOnSection.html">TrafficOnSection</a></li>
+<li class="section-title">
+<a href="routing/TrafficOnSection-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/TrafficOnSection/arrivalPlace.html">arrivalPlace</a></li>
+<li><a href="routing/TrafficOnSection/departurePlace.html">departurePlace</a></li>
+<li><a href="routing/TrafficOnSection/geometry.html">geometry</a></li>
+<li><a href="routing/TrafficOnSection/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="routing/TrafficOnSection/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/TrafficOnSection/trafficIncidents.html">trafficIncidents</a></li>
+<li><a href="routing/TrafficOnSection/trafficSpans.html">trafficSpans</a></li>
+<li class="section-title inherited"><a href="routing/TrafficOnSection-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/TrafficOnSection/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/TrafficOnSection/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/TrafficOnSection-class.html#operators">Operators</a></li>
+<li><a href="routing/TrafficOnSection/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -148,9 +166,8 @@ menu
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -173,9 +190,7 @@ menu
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVChargingStation class"
 slug: "sdk-for-flutter-explore-search-evchargingstation-class"
 ---
 
@@ -7,7 +7,38 @@ slug: "sdk-for-flutter-explore-search-evchargingstation-class"
 `
 <div class="sdk-for-flutter">
 <!-- EVChargingStation-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/EVChargingStation-class.html#constructors">Constructors</a></li>
+<li><a href="search/EVChargingStation/EVChargingStation.withDefaults.html">withDefaults</a></li>
+<li class="section-title">
+<a href="search/EVChargingStation-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/EVChargingStation/availableConnectorCount.html">availableConnectorCount</a></li>
+<li><a href="search/EVChargingStation/chargingMode.html">chargingMode</a></li>
+<li><a href="search/EVChargingStation/connectorCount.html">connectorCount</a></li>
+<li><a href="search/EVChargingStation/connectorTypeId.html">connectorTypeId</a></li>
+<li><a href="search/EVChargingStation/connectorTypeName.html">connectorTypeName</a></li>
+<li><a href="search/EVChargingStation/currentRangeInAmperes.html">currentRangeInAmperes</a></li>
+<li><a href="search/EVChargingStation/hasFixedCable.html">hasFixedCable</a></li>
+<li><a href="search/EVChargingStation/hashCode.html">hashCode</a></li>
+<li><a href="search/EVChargingStation/lastUpdated.html">lastUpdated</a></li>
+<li><a href="search/EVChargingStation/maxPowerInKilowatts.html">maxPowerInKilowatts</a></li>
+<li><a href="search/EVChargingStation/occupiedConnectorCount.html">occupiedConnectorCount</a></li>
+<li><a href="search/EVChargingStation/outOfServiceConnectorCount.html">outOfServiceConnectorCount</a></li>
+<li><a href="search/EVChargingStation/phaseCount.html">phaseCount</a></li>
+<li><a href="search/EVChargingStation/physicalReference.html">physicalReference</a></li>
+<li><a href="search/EVChargingStation/powerFeedTypeId.html">powerFeedTypeId</a></li>
+<li><a href="search/EVChargingStation/powerFeedTypeName.html">powerFeedTypeName</a></li>
+<li><a href="search/EVChargingStation/reservedConnectorCount.html">reservedConnectorCount</a></li>
+<li class="inherited"><a href="search/EVChargingStation/runtimeType.html">runtimeType</a></li>
+<li><a href="search/EVChargingStation/supplierName.html">supplierName</a></li>
+<li><a href="search/EVChargingStation/voltageRangeInVolts.html">voltageRangeInVolts</a></li>
+<li class="section-title inherited"><a href="search/EVChargingStation-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/EVChargingStation/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/EVChargingStation/toString.html">toString</a></li>
+<li class="section-title"><a href="search/EVChargingStation-class.html#operators">Operators</a></li>
+<li><a href="search/EVChargingStation/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -295,9 +326,8 @@ This field can be <code>null</code> if data is unavailable.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -320,9 +350,7 @@ This field can be <code>null</code> if data is unavailable.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

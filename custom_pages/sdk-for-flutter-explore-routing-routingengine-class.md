@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "RoutingEngine class abstract"
 slug: "sdk-for-flutter-explore-routing-routingengine-class"
 ---
 
@@ -7,7 +7,67 @@ slug: "sdk-for-flutter-explore-routing-routingengine-class"
 `
 <div class="sdk-for-flutter">
 <!-- RoutingEngine-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/RoutingEngine-class.html#constructors">Constructors</a></li>
+<li><a href="routing/RoutingEngine/RoutingEngine.html">RoutingEngine</a></li>
+<li><a href="routing/RoutingEngine/RoutingEngine.withConnectionSettings.html">withConnectionSettings</a></li>
+<li><a href="routing/RoutingEngine/RoutingEngine.withSdkEngine.html">withSdkEngine</a></li>
+<li><a href="routing/RoutingEngine/RoutingEngine.withSdkEngineAndConnectionSettings.html">withSdkEngineAndConnectionSettings</a></li>
+<li class="section-title inherited">
+<a href="routing/RoutingEngine-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="routing/RoutingInterface/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="routing/RoutingInterface/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="routing/RoutingEngine-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a class="deprecated" href="routing/RoutingInterface/calculateBicycleRoute.html">calculateBicycleRoute</a></li>
+<li class="inherited"><a class="deprecated" href="routing/RoutingInterface/calculateBusRoute.html">calculateBusRoute</a></li>
+<li class="inherited"><a class="deprecated" href="routing/RoutingInterface/calculateCarRoute.html">calculateCarRoute</a></li>
+<li class="inherited"><a class="deprecated" href="routing/RoutingInterface/calculateEVCarRoute.html">calculateEVCarRoute</a></li>
+<li class="inherited"><a class="deprecated" href="routing/RoutingInterface/calculateEVTruckRoute.html">calculateEVTruckRoute</a></li>
+<li class="inherited"><a class="deprecated" href="routing/RoutingInterface/calculatePedestrianRoute.html">calculatePedestrianRoute</a></li>
+<li class="inherited"><a class="deprecated" href="routing/RoutingInterface/calculatePrivateBusRoute.html">calculatePrivateBusRoute</a></li>
+<li class="inherited"><a href="routing/RoutingInterface/calculateRouteWithRoutingOptions.html">calculateRouteWithRoutingOptions</a></li>
+<li class="inherited"><a class="deprecated" href="routing/RoutingInterface/calculateScooterRoute.html">calculateScooterRoute</a></li>
+<li class="inherited"><a class="deprecated" href="routing/RoutingInterface/calculateTaxiRoute.html">calculateTaxiRoute</a></li>
+<li><a href="routing/RoutingEngine/calculateTrafficOnRoute.html">calculateTrafficOnRoute</a></li>
+<li><a href="routing/RoutingEngine/calculateTrafficOnRouteWithCurrentCharge.html">calculateTrafficOnRouteWithCurrentCharge</a></li>
+<li class="inherited"><a class="deprecated" href="routing/RoutingInterface/calculateTruckRoute.html">calculateTruckRoute</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importBicycleRoute.html">importBicycleRoute</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importBicycleRouteWithStops.html">importBicycleRouteWithStops</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importBusRoute.html">importBusRoute</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importBusRouteWithStops.html">importBusRouteWithStops</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importCarRoute.html">importCarRoute</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importCarRouteWithStops.html">importCarRouteWithStops</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importEVCarRoute.html">importEVCarRoute</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importEVCarRouteWithStops.html">importEVCarRouteWithStops</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importEVTruckRoute.html">importEVTruckRoute</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importEVTruckRouteWithStops.html">importEVTruckRouteWithStops</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importPedestrianRoute.html">importPedestrianRoute</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importPedestrianRouteWithStops.html">importPedestrianRouteWithStops</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importPrivateBusRoute.html">importPrivateBusRoute</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importPrivateBusRouteWithStops.html">importPrivateBusRouteWithStops</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importRouteFromHandle.html">importRouteFromHandle</a></li>
+<li><a href="routing/RoutingEngine/importRouteFromHandleWithRoutingOptions.html">importRouteFromHandleWithRoutingOptions</a></li>
+<li><a href="routing/RoutingEngine/importRouteWithRoutingOptions.html">importRouteWithRoutingOptions</a></li>
+<li><a href="routing/RoutingEngine/importRouteWithStopsAndRoutingOptions.html">importRouteWithStopsAndRoutingOptions</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importScooterRoute.html">importScooterRoute</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importScooterRouteWithStops.html">importScooterRouteWithStops</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importTaxiRoute.html">importTaxiRoute</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importTaxiRouteWithStops.html">importTaxiRouteWithStops</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importTruckRoute.html">importTruckRoute</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/importTruckRouteWithStops.html">importTruckRouteWithStops</a></li>
+<li class="inherited"><a href="routing/RoutingInterface/noSuchMethod.html">noSuchMethod</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/refreshRoute.html">refreshRoute</a></li>
+<li><a href="routing/RoutingEngine/refreshRouteWithRouteHandleAndRefreshRouteParameters.html">refreshRouteWithRouteHandleAndRefreshRouteParameters</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/refreshRouteWithRouteHandleAndRoutingOptions.html">refreshRouteWithRouteHandleAndRoutingOptions</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/refreshRouteWithTraveledDistance.html">refreshRouteWithTraveledDistance</a></li>
+<li><a class="deprecated" href="routing/RoutingEngine/refreshRouteWithTraveledDistanceAndRoutingOptions.html">refreshRouteWithTraveledDistanceAndRoutingOptions</a></li>
+<li class="inherited"><a href="routing/RoutingInterface/returnToRouteWithTraveledDistance.html">returnToRouteWithTraveledDistance</a></li>
+<li><a href="routing/RoutingEngine/setCustomOption.html">setCustomOption</a></li>
+<li class="inherited"><a href="routing/RoutingInterface/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="routing/RoutingEngine-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="routing/RoutingInterface/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -600,9 +660,8 @@ the starting point and route metadata based on /sdk-for-flutter-explore-routing-
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -625,9 +684,7 @@ the starting point and route metadata based on /sdk-for-flutter-explore-routing-
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

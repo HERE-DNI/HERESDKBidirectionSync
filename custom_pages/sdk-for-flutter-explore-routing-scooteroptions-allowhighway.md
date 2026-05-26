@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "allowHighway property"
 slug: "sdk-for-flutter-explore-routing-scooteroptions-allowhighway"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-scooteroptions-allowhighway"
 `
 <div class="sdk-for-flutter">
 <!-- allowHighway.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -67,9 +67,8 @@ when no route is found without highway usage, a notice is received.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">bool allowHighway;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -93,9 +92,7 @@ when no route is found without highway usage, a notice is received.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

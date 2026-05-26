@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "search library"
 slug: "sdk-for-flutter-explore-search-search-library"
 ---
 
@@ -7,7 +7,116 @@ slug: "sdk-for-flutter-explore-search-search-library"
 `
 <div class="sdk-for-flutter">
 <!-- search-library.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/search-library.html#classes">Classes</a></li>
+<li><a href="search/Address-class.html">Address</a></li>
+<li><a href="search/AddressQuery-class.html">AddressQuery</a></li>
+<li><a href="search/BusinessDetails-class.html">BusinessDetails</a></li>
+<li><a href="search/CategoryQuery-class.html">CategoryQuery</a></li>
+<li><a href="search/CategoryQueryArea-class.html">CategoryQueryArea</a></li>
+<li><a href="search/Contact-class.html">Contact</a></li>
+<li><a href="search/DateRange-class.html">DateRange</a></li>
+<li><a href="search/Details-class.html">Details</a></li>
+<li><a href="search/EmailAddress-class.html">EmailAddress</a></li>
+<li><a href="search/EMobilityServiceProvider-class.html">EMobilityServiceProvider</a></li>
+<li><a href="search/EnergyMix-class.html">EnergyMix</a></li>
+<li><a href="search/EnergySource-class.html">EnergySource</a></li>
+<li><a href="search/EnvironmentalImpact-class.html">EnvironmentalImpact</a></li>
+<li><a href="search/EVChargingConnector-class.html">EVChargingConnector</a></li>
+<li><a href="search/EVChargingConnectorGroup-class.html">EVChargingConnectorGroup</a></li>
+<li><a href="search/EVChargingConnectorReference-class.html">EVChargingConnectorReference</a></li>
+<li><a href="search/EVChargingDurationRange-class.html">EVChargingDurationRange</a></li>
+<li><a href="search/EVChargingLocation-class.html">EVChargingLocation</a></li>
+<li><a href="search/EVChargingOpeningHours-class.html">EVChargingOpeningHours</a></li>
+<li><a href="search/EVChargingOpeningHoursException-class.html">EVChargingOpeningHoursException</a></li>
+<li><a href="search/EVChargingOpeningHoursSchedule-class.html">EVChargingOpeningHoursSchedule</a></li>
+<li><a href="search/EVChargingOperator-class.html">EVChargingOperator</a></li>
+<li><a href="search/EVChargingPool-class.html">EVChargingPool</a></li>
+<li><a href="search/EVChargingPoolDetails-class.html">EVChargingPoolDetails</a></li>
+<li><a href="search/EVChargingStation-class.html">EVChargingStation</a></li>
+<li><a href="search/EVChargingTariff-class.html">EVChargingTariff</a></li>
+<li><a href="search/EVChargingTariffElement-class.html">EVChargingTariffElement</a></li>
+<li><a href="search/EVChargingTariffElementCondition-class.html">EVChargingTariffElementCondition</a></li>
+<li><a href="search/EVChargingTariffPriceComponent-class.html">EVChargingTariffPriceComponent</a></li>
+<li><a href="search/EVChargingTariffRequest-class.html">EVChargingTariffRequest</a></li>
+<li><a href="search/EVChargingTruckRestriction-class.html">EVChargingTruckRestriction</a></li>
+<li><a href="search/Evse-class.html">Evse</a></li>
+<li><a href="search/EVSearchEngine-class.html">EVSearchEngine</a></li>
+<li><a href="search/EVSearchInterface-class.html">EVSearchInterface</a></li>
+<li><a href="search/EVSearchOptions-class.html">EVSearchOptions</a></li>
+<li><a href="search/EVSEConnector-class.html">EVSEConnector</a></li>
+<li><a href="search/EVSEInfo-class.html">EVSEInfo</a></li>
+<li><a href="search/FuelAdditive-class.html">FuelAdditive</a></li>
+<li><a href="search/FuelStation-class.html">FuelStation</a></li>
+<li><a href="search/GenericFuel-class.html">GenericFuel</a></li>
+<li><a href="search/GeoPlace-class.html">GeoPlace</a></li>
+<li><a href="search/IndexRange-class.html">IndexRange</a></li>
+<li><a href="search/LandlinePhone-class.html">LandlinePhone</a></li>
+<li><a href="search/LocationDetails-class.html">LocationDetails</a></li>
+<li><a href="search/MobilePhone-class.html">MobilePhone</a></li>
+<li><a href="search/OpeningHours-class.html">OpeningHours</a></li>
+<li><a href="search/Place-class.html">Place</a></li>
+<li><a href="search/PlaceCategory-class.html">PlaceCategory</a></li>
+<li><a href="search/PlaceChain-class.html">PlaceChain</a></li>
+<li><a href="search/PlaceFilter-class.html">PlaceFilter</a></li>
+<li><a href="search/PlaceFilterEv-class.html">PlaceFilterEv</a></li>
+<li><a href="search/PlaceFoodType-class.html">PlaceFoodType</a></li>
+<li><a href="search/PlaceIdQuery-class.html">PlaceIdQuery</a></li>
+<li><a href="search/POIPaymentDetails-class.html">POIPaymentDetails</a></li>
+<li><a href="search/POIPaymentMethod-class.html">POIPaymentMethod</a></li>
+<li><a href="search/ResponseDetails-class.html">ResponseDetails</a></li>
+<li><a href="search/ScheduleDetails-class.html">ScheduleDetails</a></li>
+<li><a href="search/SearchEngine-class.html">SearchEngine</a></li>
+<li><a href="search/SearchInterface-class.html">SearchInterface</a></li>
+<li><a href="search/SearchOptions-class.html">SearchOptions</a></li>
+<li><a href="search/StructuredQuery-class.html">StructuredQuery</a></li>
+<li><a href="search/StructuredQueryAddressElements-class.html">StructuredQueryAddressElements</a></li>
+<li><a href="search/Suggestion-class.html">Suggestion</a></li>
+<li><a href="search/SupplierReference-class.html">SupplierReference</a></li>
+<li><a href="search/TextQuery-class.html">TextQuery</a></li>
+<li><a href="search/TextQueryArea-class.html">TextQueryArea</a></li>
+<li><a href="search/TimeOfDayRange-class.html">TimeOfDayRange</a></li>
+<li><a href="search/TruckAmenities-class.html">TruckAmenities</a></li>
+<li><a href="search/TruckFuel-class.html">TruckFuel</a></li>
+<li><a href="search/WebDetails-class.html">WebDetails</a></li>
+<li><a href="search/WebEditorial-class.html">WebEditorial</a></li>
+<li><a href="search/WebImage-class.html">WebImage</a></li>
+<li><a href="search/WebRating-class.html">WebRating</a></li>
+<li><a href="search/WebsiteAddress-class.html">WebsiteAddress</a></li>
+<li><a href="search/WebSource-class.html">WebSource</a></li>
+<li class="section-title"><a href="search/search-library.html#enums">Enums</a></li>
+<li><a href="search/AddressType.html">AddressType</a></li>
+<li><a href="search/AreaType.html">AreaType</a></li>
+<li><a href="search/DayOfWeek.html">DayOfWeek</a></li>
+<li><a href="search/EnergySourceType.html">EnergySourceType</a></li>
+<li><a href="search/EnvironmentalImpactCategory.html">EnvironmentalImpactCategory</a></li>
+<li><a href="search/EVAccessRestrictionReason.html">EVAccessRestrictionReason</a></li>
+<li><a href="search/EVAccessType.html">EVAccessType</a></li>
+<li><a href="search/EVChargingLocationFeature.html">EVChargingLocationFeature</a></li>
+<li><a href="search/EVChargingTariffDimension.html">EVChargingTariffDimension</a></li>
+<li><a href="search/EVChargingTariffType.html">EVChargingTariffType</a></li>
+<li><a href="search/EVChargingVehicleCategory.html">EVChargingVehicleCategory</a></li>
+<li><a href="search/EVSearchError.html">EVSearchError</a></li>
+<li><a href="search/EVSEStatus.html">EVSEStatus</a></li>
+<li><a href="search/FacilityType.html">FacilityType</a></li>
+<li><a href="search/HighlightType.html">HighlightType</a></li>
+<li><a href="search/ParkingType.html">ParkingType</a></li>
+<li><a href="search/PlaceSerializationError.html">PlaceSerializationError</a></li>
+<li><a href="search/PlaceType.html">PlaceType</a></li>
+<li><a href="search/SearchError.html">SearchError</a></li>
+<li><a href="search/StructuredQueryResultType.html">StructuredQueryResultType</a></li>
+<li><a href="search/SuggestionType.html">SuggestionType</a></li>
+<li class="section-title"><a href="search/search-library.html#typedefs">Typedefs</a></li>
+<li><a href="search/EVSearchCallback.html">EVSearchCallback</a></li>
+<li><a href="search/PlaceIdSearchCallback.html">PlaceIdSearchCallback</a></li>
+<li><a href="search/PlaceIdSearchCallbackExtended.html">PlaceIdSearchCallbackExtended</a></li>
+<li><a href="search/SearchCallback.html">SearchCallback</a></li>
+<li><a href="search/SearchCallbackExtended.html">SearchCallbackExtended</a></li>
+<li><a href="search/SuggestCallback.html">SuggestCallback</a></li>
+<li><a href="search/SuggestCallbackExtended.html">SuggestCallbackExtended</a></li>
+<li class="section-title"><a href="search/search-library.html#exceptions">Exceptions</a></li>
+<li><a href="search/PlaceSerializationExceptionException-class.html">PlaceSerializationExceptionException</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -719,9 +828,8 @@ has been completed.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -759,9 +867,7 @@ has been completed.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

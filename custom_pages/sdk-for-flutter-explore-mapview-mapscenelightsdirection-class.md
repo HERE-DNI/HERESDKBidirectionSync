@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapSceneLightsDirection class"
 slug: "sdk-for-flutter-explore-mapview-mapscenelightsdirection-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-mapview-mapscenelightsdirection-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapSceneLightsDirection-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/MapSceneLightsDirection-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/MapSceneLightsDirection/MapSceneLightsDirection.html">MapSceneLightsDirection</a></li>
+<li><a href="mapview/MapSceneLightsDirection/MapSceneLightsDirection.zero.html">zero</a></li>
+<li class="section-title">
+<a href="mapview/MapSceneLightsDirection-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="mapview/MapSceneLightsDirection/altitude.html">altitude</a></li>
+<li><a href="mapview/MapSceneLightsDirection/azimuth.html">azimuth</a></li>
+<li><a href="mapview/MapSceneLightsDirection/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview/MapSceneLightsDirection/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="mapview/MapSceneLightsDirection-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="mapview/MapSceneLightsDirection/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="mapview/MapSceneLightsDirection/toString.html">toString</a></li>
+<li class="section-title"><a href="mapview/MapSceneLightsDirection-class.html#operators">Operators</a></li>
+<li><a href="mapview/MapSceneLightsDirection/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -147,9 +163,8 @@ Thus, 90 degrees corresponds to East, 180 degrees to South, and 270 degrees to W
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -172,9 +187,7 @@ Thus, 90 degrees corresponds to East, 180 degrees to South, and 270 degrees to W
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

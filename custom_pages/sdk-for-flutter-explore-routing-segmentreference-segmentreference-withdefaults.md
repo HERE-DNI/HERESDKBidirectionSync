@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "SegmentReference.withDefaults constructor"
 slug: "sdk-for-flutter-explore-routing-segmentreference-segmentreference-withdefaults"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-segmentreference-segmentreference-withdef
 `
 <div class="sdk-for-flutter">
 <!-- SegmentReference.withDefaults.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -48,9 +48,8 @@ SegmentReference.withDefaults(<wbr/>)
 <pre class="language-dart"><code class="language-dart">SegmentReference.withDefaults()
     : segmentId = "", travelDirection = TravelDirection.bidirectional, offsetStart = 0.0, offsetEnd = 1.0, tilePartitionId = 0, localId = 0;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -74,9 +73,7 @@ SegmentReference.withDefaults(<wbr/>)
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

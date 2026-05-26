@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TextUsageOptions class"
 slug: "sdk-for-flutter-explore-routing-textusageoptions-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-routing-textusageoptions-class"
 `
 <div class="sdk-for-flutter">
 <!-- TextUsageOptions-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/TextUsageOptions-class.html#constructors">Constructors</a></li>
+<li><a href="routing/TextUsageOptions/TextUsageOptions.html">TextUsageOptions</a></li>
+<li class="section-title">
+<a href="routing/TextUsageOptions-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/TextUsageOptions/hashCode.html">hashCode</a></li>
+<li><a href="routing/TextUsageOptions/roadNumber.html">roadNumber</a></li>
+<li class="inherited"><a href="routing/TextUsageOptions/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/TextUsageOptions/signpostDirection.html">signpostDirection</a></li>
+<li><a href="routing/TextUsageOptions/streetName.html">streetName</a></li>
+<li class="section-title inherited"><a href="routing/TextUsageOptions-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/TextUsageOptions/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/TextUsageOptions/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/TextUsageOptions-class.html#operators">Operators</a></li>
+<li><a href="routing/TextUsageOptions/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -135,9 +151,8 @@ Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -160,9 +175,7 @@ Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

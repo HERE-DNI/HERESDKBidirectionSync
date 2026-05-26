@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "confidence property"
 slug: "sdk-for-flutter-explore-traffic-trafficflow-confidence"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-traffic-trafficflow-confidence"
 `
 <div class="sdk-for-flutter">
 <!-- confidence.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -62,9 +62,8 @@ Gets the confidence field value which is normalized value between 0.0 and 1.0.</
 <pre class="language-dart"><code class="language-dart">double? get confidence;</code></pre>
 </section>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -88,9 +87,7 @@ Gets the confidence field value which is normalized value between 0.0 and 1.0.</
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

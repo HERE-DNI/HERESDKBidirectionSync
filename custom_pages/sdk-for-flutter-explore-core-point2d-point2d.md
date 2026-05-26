@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Point2D constructor"
 slug: "sdk-for-flutter-explore-core-point2d-point2d"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-point2d-point2d"
 `
 <div class="sdk-for-flutter">
 <!-- Point2D.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -53,9 +53,8 @@ Point2D(<wbr/><ol class="parameter-list single-line"> <li>double x, </li>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">Point2D(this.x, this.y);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -79,9 +78,7 @@ Point2D(<wbr/><ol class="parameter-list single-line"> <li>double x, </li>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

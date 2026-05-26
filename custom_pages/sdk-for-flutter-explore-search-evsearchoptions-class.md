@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVSearchOptions class"
 slug: "sdk-for-flutter-explore-search-evsearchoptions-class"
 ---
 
@@ -7,7 +7,22 @@ slug: "sdk-for-flutter-explore-search-evsearchoptions-class"
 `
 <div class="sdk-for-flutter">
 <!-- EVSearchOptions-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/EVSearchOptions-class.html#constructors">Constructors</a></li>
+<li><a href="search/EVSearchOptions/EVSearchOptions.html">EVSearchOptions</a></li>
+<li class="section-title">
+<a href="search/EVSearchOptions-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/EVSearchOptions/additionalFeatures.html">additionalFeatures</a></li>
+<li><a href="search/EVSearchOptions/hashCode.html">hashCode</a></li>
+<li><a href="search/EVSearchOptions/requestedTariffs.html">requestedTariffs</a></li>
+<li class="inherited"><a href="search/EVSearchOptions/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="search/EVSearchOptions-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/EVSearchOptions/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/EVSearchOptions/toString.html">toString</a></li>
+<li class="section-title"><a href="search/EVSearchOptions-class.html#operators">Operators</a></li>
+<li><a href="search/EVSearchOptions/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -129,9 +144,8 @@ If empty, the response contains only ad-hoc tariffs, if available.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -154,9 +168,7 @@ If empty, the response contains only ad-hoc tariffs, if available.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapPolylineSolidMultiColorRepresentation.withOutline constructor"
 slug: "sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-mappolylinesolidmulticolorrepresentation-withoutline"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-
 `
 <div class="sdk-for-flutter">
 <!-- MapPolylineSolidMultiColorRepresentation.withOutline.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -120,9 +120,8 @@ Valid value range is [0.0, 1.0]. Out of range values are not supported.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory MapPolylineSolidMultiColorRepresentation.withOutline(MapMeasureDependentRenderSize lineWidth, MapMeasureDependentRenderSize outlineWidth, ui.Color outlineColor, LineCap capShape, List&lt;double&gt; colorStops, List&lt;int&gt; colorIndices, List&lt;ui.Color&gt; colors, double gradientLength) =&gt; $prototype.withOutline(lineWidth, outlineWidth, outlineColor, capShape, colorStops, colorIndices, colors, gradientLength);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -146,9 +145,7 @@ Valid value range is [0.0, 1.0]. Out of range values are not supported.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

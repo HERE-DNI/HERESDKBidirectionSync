@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "CarSpecifications constructor"
 slug: "sdk-for-flutter-explore-transport-carspecifications-carspecifications"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-transport-carspecifications-carspecifications"
 `
 <div class="sdk-for-flutter">
 <!-- CarSpecifications.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -79,9 +79,8 @@ By default, it is not set.</li>
 <pre class="language-dart"><code class="language-dart">CarSpecifications([int? grossWeightInKilograms = null, int? heightInCentimeters = null, int? widthInCentimeters = null, int? lengthInCentimeters = null, int? axleCount = null, int? trailerCount = null, int? trailerAxleCount = null])
   : grossWeightInKilograms = grossWeightInKilograms, heightInCentimeters = heightInCentimeters, widthInCentimeters = widthInCentimeters, lengthInCentimeters = lengthInCentimeters, axleCount = axleCount, trailerCount = trailerCount, trailerAxleCount = trailerAxleCount;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -105,9 +104,7 @@ By default, it is not set.</li>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

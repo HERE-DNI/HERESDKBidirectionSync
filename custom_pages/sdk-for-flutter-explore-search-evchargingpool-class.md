@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "EVChargingPool class"
 slug: "sdk-for-flutter-explore-search-evchargingpool-class"
 ---
 
@@ -7,7 +7,28 @@ slug: "sdk-for-flutter-explore-search-evchargingpool-class"
 `
 <div class="sdk-for-flutter">
 <!-- EVChargingPool-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/EVChargingPool-class.html#constructors">Constructors</a></li>
+<li><a href="search/EVChargingPool/EVChargingPool.html">EVChargingPool</a></li>
+<li class="section-title">
+<a href="search/EVChargingPool-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="search/EVChargingPool/access.html">access</a></li>
+<li><a href="search/EVChargingPool/accessRestrictionReasons.html">accessRestrictionReasons</a></li>
+<li><a href="search/EVChargingPool/chargingStations.html">chargingStations</a></li>
+<li><a href="search/EVChargingPool/cpoId.html">cpoId</a></li>
+<li><a href="search/EVChargingPool/details.html">details</a></li>
+<li><a href="search/EVChargingPool/eMobilityServiceProviders.html">eMobilityServiceProviders</a></li>
+<li><a href="search/EVChargingPool/evseInfo.html">evseInfo</a></li>
+<li><a href="search/EVChargingPool/hashCode.html">hashCode</a></li>
+<li><a href="search/EVChargingPool/id.html">id</a></li>
+<li class="inherited"><a href="search/EVChargingPool/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="search/EVChargingPool-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/EVChargingPool/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/EVChargingPool/toString.html">toString</a></li>
+<li class="section-title"><a href="search/EVChargingPool-class.html#operators">Operators</a></li>
+<li><a href="search/EVChargingPool/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -183,9 +204,8 @@ Only online search fills this field.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -208,9 +228,7 @@ Only online search fills this field.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

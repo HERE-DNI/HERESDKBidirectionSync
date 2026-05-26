@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "HereMapControllerCore class abstract"
 slug: "sdk-for-flutter-explore-mapview-heremapcontrollercore-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-mapview-heremapcontrollercore-class"
 `
 <div class="sdk-for-flutter">
 <!-- HereMapControllerCore-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/HereMapControllerCore-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/HereMapControllerCore/HereMapControllerCore.html">HereMapControllerCore</a></li>
+<li class="section-title">
+<a href="mapview/HereMapControllerCore-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="mapview/HereMapControllerCore/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview/HereMapControllerCore/runtimeType.html">runtimeType</a></li>
+<li><a href="mapview/HereMapControllerCore/style.html">style</a></li>
+<li class="section-title"><a href="mapview/HereMapControllerCore-class.html#instance-methods">Methods</a></li>
+<li><a href="mapview/HereMapControllerCore/addMapIdleListener.html">addMapIdleListener</a></li>
+<li class="inherited"><a href="mapview/HereMapControllerCore/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="mapview/HereMapControllerCore/removeMapIdleListener.html">removeMapIdleListener</a></li>
+<li class="inherited"><a href="mapview/HereMapControllerCore/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview/HereMapControllerCore-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/HereMapControllerCore/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -141,9 +157,8 @@ notifications and notifies it of the current state.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -166,9 +181,7 @@ notifications and notifies it of the current state.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

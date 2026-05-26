@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "persistentMapStoragePath property"
 slug: "sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath"
 `
 <div class="sdk-for-flutter">
 <!-- persistentMapStoragePath.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -60,9 +60,8 @@ When <code>SDKOptions</code> initialized with <code>AuthenticationMode.withToken
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">String persistentMapStoragePath;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -86,9 +85,7 @@ When <code>SDKOptions</code> initialized with <code>AuthenticationMode.withToken
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

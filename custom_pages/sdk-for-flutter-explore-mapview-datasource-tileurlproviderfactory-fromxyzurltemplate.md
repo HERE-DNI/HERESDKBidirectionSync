@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "fromXyzUrlTemplate static method"
 slug: "sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-fromxyzurltemplate"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-fromxyz
 `
 <div class="sdk-for-flutter">
 <!-- fromXyzUrlTemplate.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -59,9 +59,8 @@ The valid range for X and Y is from 0 to 2^level − 1.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">static TileUrlProviderCallback? fromXyzUrlTemplate(String urlTemplate) =&gt; $prototype.fromXyzUrlTemplate(urlTemplate);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -85,9 +84,7 @@ The valid range for X and Y is from 0 to 2^level − 1.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

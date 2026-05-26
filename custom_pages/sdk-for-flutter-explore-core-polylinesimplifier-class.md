@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PolylineSimplifier class abstract"
 slug: "sdk-for-flutter-explore-core-polylinesimplifier-class"
 ---
 
@@ -7,7 +7,21 @@ slug: "sdk-for-flutter-explore-core-polylinesimplifier-class"
 `
 <div class="sdk-for-flutter">
 <!-- PolylineSimplifier-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core/PolylineSimplifier-class.html#constructors">Constructors</a></li>
+<li><a href="core/PolylineSimplifier/PolylineSimplifier.html">PolylineSimplifier</a></li>
+<li class="section-title inherited">
+<a href="core/PolylineSimplifier-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="core/PolylineSimplifier/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="core/PolylineSimplifier/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="core/PolylineSimplifier-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="core/PolylineSimplifier/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="core/PolylineSimplifier/simplify.html">simplify</a></li>
+<li class="inherited"><a href="core/PolylineSimplifier/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="core/PolylineSimplifier-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="core/PolylineSimplifier/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -131,9 +145,8 @@ is huge. Examples of such API are:</p>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -156,9 +169,7 @@ is huge. Examples of such API are:</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

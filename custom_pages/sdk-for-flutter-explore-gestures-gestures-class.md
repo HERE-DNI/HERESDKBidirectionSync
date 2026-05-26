@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Gestures class abstract"
 slug: "sdk-for-flutter-explore-gestures-gestures-class"
 ---
 
@@ -7,7 +7,29 @@ slug: "sdk-for-flutter-explore-gestures-gestures-class"
 `
 <div class="sdk-for-flutter">
 <!-- Gestures-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="gestures/Gestures-class.html#constructors">Constructors</a></li>
+<li><a href="gestures/Gestures/Gestures.html">Gestures</a></li>
+<li class="section-title">
+<a href="gestures/Gestures-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="gestures/Gestures/doubleTapListener.html">doubleTapListener</a></li>
+<li class="inherited"><a href="gestures/Gestures/hashCode.html">hashCode</a></li>
+<li><a href="gestures/Gestures/longPressListener.html">longPressListener</a></li>
+<li><a href="gestures/Gestures/panListener.html">panListener</a></li>
+<li><a href="gestures/Gestures/pinchRotateListener.html">pinchRotateListener</a></li>
+<li class="inherited"><a href="gestures/Gestures/runtimeType.html">runtimeType</a></li>
+<li><a href="gestures/Gestures/tapListener.html">tapListener</a></li>
+<li><a href="gestures/Gestures/twoFingerPanListener.html">twoFingerPanListener</a></li>
+<li><a href="gestures/Gestures/twoFingerTapListener.html">twoFingerTapListener</a></li>
+<li class="section-title"><a href="gestures/Gestures-class.html#instance-methods">Methods</a></li>
+<li><a href="gestures/Gestures/disableDefaultAction.html">disableDefaultAction</a></li>
+<li><a href="gestures/Gestures/enableDefaultAction.html">enableDefaultAction</a></li>
+<li class="inherited"><a href="gestures/Gestures/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="gestures/Gestures/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="gestures/Gestures-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="gestures/Gestures/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -192,9 +214,8 @@ gesture.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -217,9 +238,7 @@ gesture.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

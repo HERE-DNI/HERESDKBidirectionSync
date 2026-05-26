@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "VehicleProfile constructor"
 slug: "sdk-for-flutter-explore-transport-vehicleprofile-vehicleprofile"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-transport-vehicleprofile-vehicleprofile"
 `
 <div class="sdk-for-flutter">
 <!-- VehicleProfile.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -52,9 +52,8 @@ VehicleProfile(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutte
 <pre class="language-dart"><code class="language-dart">VehicleProfile(this.vehicleType)
     : truckCategory = null, trailerCount = 0, hazardousMaterials = [], tunnelCategory = null, axleCount = null, grossWeightInKilograms = null, heightInCentimeters = null, lengthInCentimeters = null, widthInCentimeters = null, weightPerAxleInKilograms = null;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -78,9 +77,7 @@ VehicleProfile(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutte
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

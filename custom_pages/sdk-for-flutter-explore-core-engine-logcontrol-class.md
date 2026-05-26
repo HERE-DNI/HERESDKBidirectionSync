@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "LogControl class abstract"
 slug: "sdk-for-flutter-explore-core-engine-logcontrol-class"
 ---
 
@@ -7,7 +7,26 @@ slug: "sdk-for-flutter-explore-core-engine-logcontrol-class"
 `
 <div class="sdk-for-flutter">
 <!-- LogControl-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core.engine/LogControl-class.html#constructors">Constructors</a></li>
+<li><a href="core.engine/LogControl/LogControl.html">LogControl</a></li>
+<li class="section-title inherited">
+<a href="core.engine/LogControl-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="core.engine/LogControl/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="core.engine/LogControl/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="core.engine/LogControl-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="core.engine/LogControl/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core.engine/LogControl/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="core.engine/LogControl-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="core.engine/LogControl/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="core.engine/LogControl-class.html#static-methods">Static methods</a></li>
+<li><a href="core.engine/LogControl/disableLoggingToConsole.html">disableLoggingToConsole</a></li>
+<li><a href="core.engine/LogControl/enableLoggingToConsole.html">enableLoggingToConsole</a></li>
+<li><a href="core.engine/LogControl/removeAppender.html">removeAppender</a></li>
+<li><a href="core.engine/LogControl/setAppender.html">setAppender</a></li>
+<li><a href="core.engine/LogControl/setCustomAppender.html">setCustomAppender</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -163,9 +182,8 @@ setting a custom log appender to receive log messages from the SDK.</p>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -188,9 +206,7 @@ setting a custom log appender to receive log messages from the SDK.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

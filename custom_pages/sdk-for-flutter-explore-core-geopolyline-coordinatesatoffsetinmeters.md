@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "coordinatesAtOffsetInMeters method"
 slug: "sdk-for-flutter-explore-core-geopolyline-coordinatesatoffsetinmeters"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-geopolyline-coordinatesatoffsetinmeters"
 `
 <div class="sdk-for-flutter">
 <!-- coordinatesAtOffsetInMeters.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -77,9 +77,8 @@ they may adapt the result to the length of the underlying object described by th
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">GeoCoordinates coordinatesAtOffsetInMeters(double offsetInMeters, GeoPolylineDirection direction) =&gt; $prototype.coordinatesAtOffsetInMeters(this, offsetInMeters, direction);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -103,9 +102,7 @@ they may adapt the result to the length of the underlying object described by th
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

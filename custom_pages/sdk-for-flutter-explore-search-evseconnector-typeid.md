@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "typeId property"
 slug: "sdk-for-flutter-explore-search-evseconnector-typeid"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-search-evseconnector-typeid"
 `
 <div class="sdk-for-flutter">
 <!-- typeId.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -51,9 +51,8 @@ see <a href="https://www.here.com/docs/bundle/ev-charge-points-api-developer-gui
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">String? typeId;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -77,9 +76,7 @@ see <a href="https://www.here.com/docs/bundle/ev-charge-points-api-developer-gui
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

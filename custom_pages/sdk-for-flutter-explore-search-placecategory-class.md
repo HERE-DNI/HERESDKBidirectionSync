@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "PlaceCategory class abstract"
 slug: "sdk-for-flutter-explore-search-placecategory-class"
 ---
 
@@ -7,7 +7,95 @@ slug: "sdk-for-flutter-explore-search-placecategory-class"
 `
 <div class="sdk-for-flutter">
 <!-- PlaceCategory-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="search/PlaceCategory-class.html#constructors">Constructors</a></li>
+<li><a href="search/PlaceCategory/PlaceCategory.html">PlaceCategory</a></li>
+<li class="section-title">
+<a href="search/PlaceCategory-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="search/PlaceCategory/hashCode.html">hashCode</a></li>
+<li><a href="search/PlaceCategory/id.html">id</a></li>
+<li><a href="search/PlaceCategory/name.html">name</a></li>
+<li class="inherited"><a href="search/PlaceCategory/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="search/PlaceCategory-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="search/PlaceCategory/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="search/PlaceCategory/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="search/PlaceCategory-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="search/PlaceCategory/operator_equals.html">operator ==</a></li>
+<li class="section-title"><a href="search/PlaceCategory-class.html#static-properties">Static properties</a></li>
+<li><a href="search/PlaceCategory/accommodation.html">accommodation</a></li>
+<li><a href="search/PlaceCategory/accommodationHotelMotel.html">accommodationHotelMotel</a></li>
+<li><a href="search/PlaceCategory/accommodationLodging.html">accommodationLodging</a></li>
+<li><a href="search/PlaceCategory/areasAndBuildings.html">areasAndBuildings</a></li>
+<li><a href="search/PlaceCategory/areasAndBuildingsOutdoorComplex.html">areasAndBuildingsOutdoorComplex</a></li>
+<li><a href="search/PlaceCategory/areasAndBuildingsResidentalOffice.html">areasAndBuildingsResidentalOffice</a></li>
+<li><a href="search/PlaceCategory/businessAndCommercialServices.html">businessAndCommercialServices</a></li>
+<li><a href="search/PlaceCategory/businessAndConsumerServices.html">businessAndConsumerServices</a></li>
+<li><a href="search/PlaceCategory/businessAndServices.html">businessAndServices</a></li>
+<li><a href="search/PlaceCategory/businessAndServicesAtm.html">businessAndServicesAtm</a></li>
+<li><a href="search/PlaceCategory/businessAndServicesBanking.html">businessAndServicesBanking</a></li>
+<li><a href="search/PlaceCategory/businessAndServicesCarDealerSales.html">businessAndServicesCarDealerSales</a></li>
+<li><a href="search/PlaceCategory/businessAndServicesCarRental.html">businessAndServicesCarRental</a></li>
+<li><a href="search/PlaceCategory/businessAndServicesCarRepairServices.html">businessAndServicesCarRepairServices</a></li>
+<li><a href="search/PlaceCategory/businessAndServicesCommunicationMedia.html">businessAndServicesCommunicationMedia</a></li>
+<li><a href="search/PlaceCategory/businessAndServicesEvChargingStation.html">businessAndServicesEvChargingStation</a></li>
+<li><a href="search/PlaceCategory/businessAndServicesFuelingStation.html">businessAndServicesFuelingStation</a></li>
+<li><a href="search/PlaceCategory/businessAndServicesIndustry.html">businessAndServicesIndustry</a></li>
+<li><a href="search/PlaceCategory/businessAndServicesMoneyCash.html">businessAndServicesMoneyCash</a></li>
+<li><a href="search/PlaceCategory/businessAndServicesPetrolGasolineStation.html">businessAndServicesPetrolGasolineStation</a></li>
+<li><a href="search/PlaceCategory/businessAndServicesPoliceFireEmergency.html">businessAndServicesPoliceFireEmergency</a></li>
+<li><a href="search/PlaceCategory/businessAndServicesPostOffice.html">businessAndServicesPostOffice</a></li>
+<li><a href="search/PlaceCategory/businessAndServicesTouristInformation.html">businessAndServicesTouristInformation</a></li>
+<li><a href="search/PlaceCategory/businessAndServicesTruckSemiDealer.html">businessAndServicesTruckSemiDealer</a></li>
+<li><a href="search/PlaceCategory/eatAndDrink.html">eatAndDrink</a></li>
+<li><a href="search/PlaceCategory/eatAndDrinkCoffeeTea.html">eatAndDrinkCoffeeTea</a></li>
+<li><a href="search/PlaceCategory/eatAndDrinkRestaurant.html">eatAndDrinkRestaurant</a></li>
+<li><a href="search/PlaceCategory/facilities.html">facilities</a></li>
+<li><a href="search/PlaceCategory/facilitiesEducation.html">facilitiesEducation</a></li>
+<li><a href="search/PlaceCategory/facilitiesEventSpaces.html">facilitiesEventSpaces</a></li>
+<li><a href="search/PlaceCategory/facilitiesGovernmentCommunitty.html">facilitiesGovernmentCommunitty</a></li>
+<li><a href="search/PlaceCategory/facilitiesHospitalHealthcare.html">facilitiesHospitalHealthcare</a></li>
+<li><a href="search/PlaceCategory/facilitiesLibrary.html">facilitiesLibrary</a></li>
+<li><a href="search/PlaceCategory/facilitiesOther.html">facilitiesOther</a></li>
+<li><a href="search/PlaceCategory/facilitiesParking.html">facilitiesParking</a></li>
+<li><a href="search/PlaceCategory/facilitiesSchool.html">facilitiesSchool</a></li>
+<li><a href="search/PlaceCategory/facilitiesVenueSports.html">facilitiesVenueSports</a></li>
+<li><a href="search/PlaceCategory/goingOutCinema.html">goingOutCinema</a></li>
+<li><a href="search/PlaceCategory/goingOutEntertainment.html">goingOutEntertainment</a></li>
+<li><a href="search/PlaceCategory/goingOutGamblingLotteryBetting.html">goingOutGamblingLotteryBetting</a></li>
+<li><a href="search/PlaceCategory/goingOutNightlife.html">goingOutNightlife</a></li>
+<li><a href="search/PlaceCategory/goingOutTheatreMusicCulture.html">goingOutTheatreMusicCulture</a></li>
+<li><a href="search/PlaceCategory/leisureAndOutdoor.html">leisureAndOutdoor</a></li>
+<li><a href="search/PlaceCategory/leisureOther.html">leisureOther</a></li>
+<li><a href="search/PlaceCategory/leisureOutdoorRecreation.html">leisureOutdoorRecreation</a></li>
+<li><a href="search/PlaceCategory/naturalAndGeographical.html">naturalAndGeographical</a></li>
+<li><a href="search/PlaceCategory/naturalAndGeographicalBodyOfWater.html">naturalAndGeographicalBodyOfWater</a></li>
+<li><a href="search/PlaceCategory/naturalAndGeographicalForestHealthOtherVegetation.html">naturalAndGeographicalForestHealthOtherVegetation</a></li>
+<li><a href="search/PlaceCategory/naturalAndGeographicalMountainOrHill.html">naturalAndGeographicalMountainOrHill</a></li>
+<li><a href="search/PlaceCategory/naturalAndGeographicalOther.html">naturalAndGeographicalOther</a></li>
+<li><a href="search/PlaceCategory/naturalAndGeographicalUnderseaFeature.html">naturalAndGeographicalUnderseaFeature</a></li>
+<li><a href="search/PlaceCategory/shopping.html">shopping</a></li>
+<li><a href="search/PlaceCategory/shoppingBookstore.html">shoppingBookstore</a></li>
+<li><a href="search/PlaceCategory/shoppingClothingAndAccesories.html">shoppingClothingAndAccesories</a></li>
+<li><a href="search/PlaceCategory/shoppingConsumerGoods.html">shoppingConsumerGoods</a></li>
+<li><a href="search/PlaceCategory/shoppingConvenienceStore.html">shoppingConvenienceStore</a></li>
+<li><a href="search/PlaceCategory/shoppingDepartmentStore.html">shoppingDepartmentStore</a></li>
+<li><a href="search/PlaceCategory/shoppingDrugstorePharmacy.html">shoppingDrugstorePharmacy</a></li>
+<li><a href="search/PlaceCategory/shoppingElectronics.html">shoppingElectronics</a></li>
+<li><a href="search/PlaceCategory/shoppingFoodAndDrink.html">shoppingFoodAndDrink</a></li>
+<li><a href="search/PlaceCategory/shoppingHairAndBeauty.html">shoppingHairAndBeauty</a></li>
+<li><a href="search/PlaceCategory/shoppingHardwareHouseGarden.html">shoppingHardwareHouseGarden</a></li>
+<li><a href="search/PlaceCategory/shoppingMallComplex.html">shoppingMallComplex</a></li>
+<li><a href="search/PlaceCategory/sightsAndMuseums.html">sightsAndMuseums</a></li>
+<li><a href="search/PlaceCategory/sightsLandmarkAttraction.html">sightsLandmarkAttraction</a></li>
+<li><a href="search/PlaceCategory/sightsMuseum.html">sightsMuseum</a></li>
+<li><a href="search/PlaceCategory/sightsReligiousPlace.html">sightsReligiousPlace</a></li>
+<li><a href="search/PlaceCategory/transport.html">transport</a></li>
+<li><a href="search/PlaceCategory/transportAirport.html">transportAirport</a></li>
+<li><a href="search/PlaceCategory/transportCargo.html">transportCargo</a></li>
+<li><a href="search/PlaceCategory/transportPublic.html">transportPublic</a></li>
+<li><a href="search/PlaceCategory/transportRestArea.html">transportRestArea</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -724,9 +812,8 @@ including airports, rail yards and seaports.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -749,9 +836,7 @@ including airports, rail yards and seaports.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

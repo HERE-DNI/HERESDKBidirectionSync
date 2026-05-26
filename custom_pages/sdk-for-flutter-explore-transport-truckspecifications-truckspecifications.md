@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TruckSpecifications constructor"
 slug: "sdk-for-flutter-explore-transport-truckspecifications-truckspecifications"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-transport-truckspecifications-truckspecifications
 `
 <div class="sdk-for-flutter">
 <!-- TruckSpecifications.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -125,9 +125,8 @@ Note: This parameter is currently used only for the calculation of tolls in regi
 <pre class="language-dart"><code class="language-dart">TruckSpecifications([int? grossWeightInKilograms = null, int? currentWeightInKilograms = null, int? weightPerAxleInKilograms = null, WeightPerAxleGroup? weightPerAxleGroup = null, int? heightInCentimeters = null, int? widthInCentimeters = null, int? lengthInCentimeters = null, int? axleCount = null, int? trailerCount = null, TruckType truckType = TruckType.straight, bool isTruckLight = false, int? payloadCapacityInKilograms = null, int? trailerAxleCount = null])
   : grossWeightInKilograms = grossWeightInKilograms, currentWeightInKilograms = currentWeightInKilograms, weightPerAxleInKilograms = weightPerAxleInKilograms, weightPerAxleGroup = weightPerAxleGroup ?? null, heightInCentimeters = heightInCentimeters, widthInCentimeters = widthInCentimeters, lengthInCentimeters = lengthInCentimeters, axleCount = axleCount, trailerCount = trailerCount, truckType = truckType, isTruckLight = isTruckLight, payloadCapacityInKilograms = payloadCapacityInKilograms, trailerAxleCount = trailerAxleCount;</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -151,9 +150,7 @@ Note: This parameter is currently used only for the calculation of tolls in regi
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

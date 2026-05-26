@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "IndoorSectionDetails class abstract"
 slug: "sdk-for-flutter-explore-routing-indoorsectiondetails-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-routing-indoorsectiondetails-class"
 `
 <div class="sdk-for-flutter">
 <!-- IndoorSectionDetails-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/IndoorSectionDetails-class.html#constructors">Constructors</a></li>
+<li><a href="routing/IndoorSectionDetails/IndoorSectionDetails.html">IndoorSectionDetails</a></li>
+<li class="section-title">
+<a href="routing/IndoorSectionDetails-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/IndoorSectionDetails/arrivalPlace.html">arrivalPlace</a></li>
+<li><a href="routing/IndoorSectionDetails/departurePlace.html">departurePlace</a></li>
+<li class="inherited"><a href="routing/IndoorSectionDetails/hashCode.html">hashCode</a></li>
+<li><a href="routing/IndoorSectionDetails/indoorManeuvers.html">indoorManeuvers</a></li>
+<li class="inherited"><a href="routing/IndoorSectionDetails/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="routing/IndoorSectionDetails-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/IndoorSectionDetails/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/IndoorSectionDetails/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="routing/IndoorSectionDetails-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="routing/IndoorSectionDetails/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -134,9 +150,8 @@ Gets the list of indoor maneuvers within this indoor section.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -159,9 +174,7 @@ Gets the list of indoor maneuvers within this indoor section.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

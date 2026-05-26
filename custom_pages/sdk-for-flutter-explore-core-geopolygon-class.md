@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "GeoPolygon class"
 slug: "sdk-for-flutter-explore-core-geopolygon-class"
 ---
 
@@ -7,7 +7,25 @@ slug: "sdk-for-flutter-explore-core-geopolygon-class"
 `
 <div class="sdk-for-flutter">
 <!-- GeoPolygon-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core/GeoPolygon-class.html#constructors">Constructors</a></li>
+<li><a href="core/GeoPolygon/GeoPolygon.html">GeoPolygon</a></li>
+<li><a href="core/GeoPolygon/GeoPolygon.withGeoBox.html">withGeoBox</a></li>
+<li><a href="core/GeoPolygon/GeoPolygon.withGeoCircle.html">withGeoCircle</a></li>
+<li><a href="core/GeoPolygon/GeoPolygon.withInnerBoundaries.html">withInnerBoundaries</a></li>
+<li class="section-title">
+<a href="core/GeoPolygon-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="core/GeoPolygon/hashCode.html">hashCode</a></li>
+<li><a href="core/GeoPolygon/innerBoundaries.html">innerBoundaries</a></li>
+<li class="inherited"><a href="core/GeoPolygon/runtimeType.html">runtimeType</a></li>
+<li><a href="core/GeoPolygon/vertices.html">vertices</a></li>
+<li class="section-title inherited"><a href="core/GeoPolygon-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="core/GeoPolygon/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core/GeoPolygon/toString.html">toString</a></li>
+<li class="section-title"><a href="core/GeoPolygon-class.html#operators">Operators</a></li>
+<li><a href="core/GeoPolygon/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -159,9 +177,8 @@ a list of inner boundaries (also known as holes).</p>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -184,9 +201,7 @@ a list of inner boundaries (also known as holes).</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

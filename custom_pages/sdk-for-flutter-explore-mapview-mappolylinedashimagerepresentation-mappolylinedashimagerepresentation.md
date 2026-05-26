@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapPolylineDashImageRepresentation constructor"
 slug: "sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-mappolylinedashimagerepresentation"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-mappol
 `
 <div class="sdk-for-flutter">
 <!-- MapPolylineDashImageRepresentation.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -75,9 +75,8 @@ hence only a single value can be provided per zoom level.</p>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">factory MapPolylineDashImageRepresentation(MapMeasureDependentRenderSize dashLength, MapMeasureDependentRenderSize gapLength, MapMeasureDependentRenderSize dashWidth, MapImage image) =&gt; $prototype.$init(dashLength, gapLength, dashWidth, image);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -101,9 +100,7 @@ hence only a single value can be provided per zoom level.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TaxiOptions class"
 slug: "sdk-for-flutter-explore-routing-taxioptions-class"
 ---
 
@@ -7,7 +7,29 @@ slug: "sdk-for-flutter-explore-routing-taxioptions-class"
 `
 <div class="sdk-for-flutter">
 <!-- TaxiOptions-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="routing/TaxiOptions-class.html#constructors">Constructors</a></li>
+<li><a href="routing/TaxiOptions/TaxiOptions.html">TaxiOptions</a></li>
+<li><a href="routing/TaxiOptions/TaxiOptions.withDefaults.html">withDefaults</a></li>
+<li class="section-title">
+<a href="routing/TaxiOptions-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="routing/TaxiOptions/allowDriveThroughTaxiRoads.html">allowDriveThroughTaxiRoads</a></li>
+<li><a href="routing/TaxiOptions/avoidanceOptions.html">avoidanceOptions</a></li>
+<li><a href="routing/TaxiOptions/carSpecifications.html">carSpecifications</a></li>
+<li><a href="routing/TaxiOptions/hashCode.html">hashCode</a></li>
+<li><a href="routing/TaxiOptions/lastCharacterOfLicensePlate.html">lastCharacterOfLicensePlate</a></li>
+<li><a href="routing/TaxiOptions/maxSpeedOnSegments.html">maxSpeedOnSegments</a></li>
+<li><a href="routing/TaxiOptions/routeOptions.html">routeOptions</a></li>
+<li class="inherited"><a href="routing/TaxiOptions/runtimeType.html">runtimeType</a></li>
+<li><a href="routing/TaxiOptions/textOptions.html">textOptions</a></li>
+<li><a href="routing/TaxiOptions/tollOptions.html">tollOptions</a></li>
+<li class="section-title inherited"><a href="routing/TaxiOptions-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="routing/TaxiOptions/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="routing/TaxiOptions/toString.html">toString</a></li>
+<li class="section-title"><a href="routing/TaxiOptions-class.html#operators">Operators</a></li>
+<li><a href="routing/TaxiOptions/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -203,9 +225,8 @@ such as transponders, vehicle category, and emission type.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -228,9 +249,7 @@ such as transponders, vehicle category, and emission type.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

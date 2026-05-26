@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "MapPolylineDashImageRepresentation class abstract"
 slug: "sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-class"
 ---
 
@@ -7,7 +7,25 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-class"
 `
 <div class="sdk-for-flutter">
 <!-- MapPolylineDashImageRepresentation-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="mapview/MapPolylineDashImageRepresentation-class.html#constructors">Constructors</a></li>
+<li><a href="mapview/MapPolylineDashImageRepresentation/MapPolylineDashImageRepresentation.html">MapPolylineDashImageRepresentation</a></li>
+<li><a href="mapview/MapPolylineDashImageRepresentation/MapPolylineDashImageRepresentation.uniform.html">uniform</a></li>
+<li class="section-title">
+<a href="mapview/MapPolylineDashImageRepresentation-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="mapview/MapPolylineDashImageRepresentation/dashImage.html">dashImage</a></li>
+<li><a href="mapview/MapPolylineDashImageRepresentation/dashLength.html">dashLength</a></li>
+<li><a href="mapview/MapPolylineDashImageRepresentation/dashWidth.html">dashWidth</a></li>
+<li><a href="mapview/MapPolylineDashImageRepresentation/gapLength.html">gapLength</a></li>
+<li class="inherited"><a href="mapview/MapItemRepresentation/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="mapview/MapItemRepresentation/runtimeType.html">runtimeType</a></li>
+<li class="section-title inherited"><a href="mapview/MapPolylineDashImageRepresentation-class.html#instance-methods">Methods</a></li>
+<li class="inherited"><a href="mapview/MapItemRepresentation/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="mapview/MapItemRepresentation/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="mapview/MapPolylineDashImageRepresentation-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="mapview/MapItemRepresentation/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -176,9 +194,8 @@ Gets the map measure dependent length of a gap between dash images.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -201,9 +218,7 @@ Gets the map measure dependent length of a gap between dash images.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

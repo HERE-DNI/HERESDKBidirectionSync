@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "InstantiationException constructor"
 slug: "sdk-for-flutter-explore-core-errors-instantiationexception-instantiationexception"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-errors-instantiationexception-instantiatione
 `
 <div class="sdk-for-flutter">
 <!-- InstantiationException.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -45,9 +45,8 @@ InstantiationException(<wbr/><ol class="parameter-list single-line"> <li>/sdk-fo
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">InstantiationException(this.error);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -71,9 +70,7 @@ InstantiationException(<wbr/><ol class="parameter-list single-line"> <li>/sdk-fo
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

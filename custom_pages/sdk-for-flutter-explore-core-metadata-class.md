@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Metadata class abstract"
 slug: "sdk-for-flutter-explore-core-metadata-class"
 ---
 
@@ -7,7 +7,32 @@ slug: "sdk-for-flutter-explore-core-metadata-class"
 `
 <div class="sdk-for-flutter">
 <!-- Metadata-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core/Metadata-class.html#constructors">Constructors</a></li>
+<li><a href="core/Metadata/Metadata.html">Metadata</a></li>
+<li class="section-title inherited">
+<a href="core/Metadata-class.html#instance-properties">Properties</a>
+</li>
+<li class="inherited"><a href="core/Metadata/hashCode.html">hashCode</a></li>
+<li class="inherited"><a href="core/Metadata/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="core/Metadata-class.html#instance-methods">Methods</a></li>
+<li><a href="core/Metadata/getCustomValue.html">getCustomValue</a></li>
+<li><a href="core/Metadata/getDouble.html">getDouble</a></li>
+<li><a href="core/Metadata/getGeoCoordinates.html">getGeoCoordinates</a></li>
+<li><a href="core/Metadata/getInteger.html">getInteger</a></li>
+<li><a href="core/Metadata/getString.html">getString</a></li>
+<li><a href="core/Metadata/getType.html">getType</a></li>
+<li class="inherited"><a href="core/Metadata/noSuchMethod.html">noSuchMethod</a></li>
+<li><a href="core/Metadata/removeValue.html">removeValue</a></li>
+<li><a href="core/Metadata/setCustomValue.html">setCustomValue</a></li>
+<li><a href="core/Metadata/setDouble.html">setDouble</a></li>
+<li><a href="core/Metadata/setGeoCoordinates.html">setGeoCoordinates</a></li>
+<li><a href="core/Metadata/setInteger.html">setInteger</a></li>
+<li><a href="core/Metadata/setString.html">setString</a></li>
+<li class="inherited"><a href="core/Metadata/toString.html">toString</a></li>
+<li class="section-title inherited"><a href="core/Metadata-class.html#operators">Operators</a></li>
+<li class="inherited"><a href="core/Metadata/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -232,9 +257,8 @@ types by the use of the CustomMetadataValue abstract class.</p>
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -257,9 +281,7 @@ types by the use of the CustomMetadataValue abstract class.</p>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

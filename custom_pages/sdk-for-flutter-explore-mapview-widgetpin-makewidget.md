@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "makeWidget abstract method"
 slug: "sdk-for-flutter-explore-mapview-widgetpin-makewidget"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-widgetpin-makewidget"
 `
 <div class="sdk-for-flutter">
 <!-- makeWidget.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -52,9 +52,8 @@ makeWidget(<wbr/><ol class="parameter-list single-line"> <li>BuildContext contex
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">Widget makeWidget(BuildContext context);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -78,9 +77,7 @@ makeWidget(<wbr/><ol class="parameter-list single-line"> <li>BuildContext contex
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

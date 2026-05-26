@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "withPoint abstract method"
 slug: "sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-withpoint"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-withpoi
 `
 <div class="sdk-for-flutter">
 <!-- withPoint.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -56,9 +56,8 @@ withPoint(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-exp
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">PointDataSourceBuilder withPoint(PointData point);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -82,9 +81,7 @@ withPoint(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-exp
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

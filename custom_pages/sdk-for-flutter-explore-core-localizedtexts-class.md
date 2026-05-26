@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "LocalizedTexts class"
 slug: "sdk-for-flutter-explore-core-localizedtexts-class"
 ---
 
@@ -7,7 +7,23 @@ slug: "sdk-for-flutter-explore-core-localizedtexts-class"
 `
 <div class="sdk-for-flutter">
 <!-- LocalizedTexts-class.html -->
-
+<div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
+<li class="section-title"><a href="core/LocalizedTexts-class.html#constructors">Constructors</a></li>
+<li><a href="core/LocalizedTexts/LocalizedTexts.html">LocalizedTexts</a></li>
+<li class="section-title">
+<a href="core/LocalizedTexts-class.html#instance-properties">Properties</a>
+</li>
+<li><a href="core/LocalizedTexts/hashCode.html">hashCode</a></li>
+<li><a href="core/LocalizedTexts/items.html">items</a></li>
+<li class="inherited"><a href="core/LocalizedTexts/runtimeType.html">runtimeType</a></li>
+<li class="section-title"><a href="core/LocalizedTexts-class.html#instance-methods">Methods</a></li>
+<li><a href="core/LocalizedTexts/getDefaultValue.html">getDefaultValue</a></li>
+<li><a href="core/LocalizedTexts/getPreferredValueForLocales.html">getPreferredValueForLocales</a></li>
+<li class="inherited"><a href="core/LocalizedTexts/noSuchMethod.html">noSuchMethod</a></li>
+<li class="inherited"><a href="core/LocalizedTexts/toString.html">toString</a></li>
+<li class="section-title"><a href="core/LocalizedTexts-class.html#operators">Operators</a></li>
+<li><a href="core/LocalizedTexts/operator_equals.html">operator ==</a></li>
+</ol></div><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -138,9 +154,8 @@ locales.
 </dd>
 </dl>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -163,9 +178,7 @@ locales.
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

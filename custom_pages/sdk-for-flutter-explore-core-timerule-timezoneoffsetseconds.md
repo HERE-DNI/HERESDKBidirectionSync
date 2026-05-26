@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "timeZoneOffsetSeconds property"
 slug: "sdk-for-flutter-explore-core-timerule-timezoneoffsetseconds"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-timerule-timezoneoffsetseconds"
 `
 <div class="sdk-for-flutter">
 <!-- timeZoneOffsetSeconds.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -51,9 +51,8 @@ Gets the value of time zone offset in seconds for the location where the time ru
 <pre class="language-dart"><code class="language-dart">int get timeZoneOffsetSeconds;</code></pre>
 </section>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -77,9 +76,7 @@ Gets the value of time zone offset in seconds for the location where the time ru
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

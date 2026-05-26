@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "setInteger abstract method"
 slug: "sdk-for-flutter-explore-core-metadata-setinteger"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-core-metadata-setinteger"
 `
 <div class="sdk-for-flutter">
 <!-- setInteger.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -62,9 +62,8 @@ setInteger(<wbr/><ol class="parameter-list single-line"> <li>String key, </li>
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">void setInteger(String key, int value);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -88,9 +87,7 @@ setInteger(<wbr/><ol class="parameter-list single-line"> <li>String key, </li>
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>

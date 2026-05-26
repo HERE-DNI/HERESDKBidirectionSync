@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "TransitTransport constructor"
 slug: "sdk-for-flutter-explore-routing-transittransport-transittransport"
 ---
 
@@ -7,7 +7,7 @@ slug: "sdk-for-flutter-explore-routing-transittransport-transittransport"
 `
 <div class="sdk-for-flutter">
 <!-- TransitTransport.html -->
-
+<div class="doc-with-sidebar"><div class="doc-content">
 <div id="overlay-under-drawer"></div>
 <header id="title">
 menu
@@ -61,9 +61,8 @@ TransitTransport(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-
 <h2>Implementation</h2>
 <pre class="language-dart"><code class="language-dart">TransitTransport(this.mode, this.name, this.headsign, this.category, this.color, this.textColor);</code></pre>
 </section>
-</div> 
+</div>
 <div class="sidebar sidebar-offcanvas-left" id="dartdoc-sidebar-left">
-
 <header class="hidden-l" id="header-search-sidebar">
 <form class="search-sidebar" role="search">
 <input autocomplete="off" class="form-control typeahead" disabled="" id="search-sidebar" placeholder="Loading search..." type="text"/>
@@ -87,9 +86,7 @@ TransitTransport(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-
       4.26.0
   
 </footer>
-
-
-
+</div></div>
 </div>
 `
 }</HTMLBlock>
