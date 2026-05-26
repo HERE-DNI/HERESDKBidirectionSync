@@ -62,7 +62,7 @@ This determines also the transportation type.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
-<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the constructor with `RoutingOptions` parameter instead.")
+<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the constructor with RoutingOptions parameter instead.")
 
 factory IsolineOptions.withEVTruckOptions(IsolineOptionsCalculation calculationOptions, EVTruckOptions evTruckOptions) =&gt; $prototype.withEVTruckOptions(calculationOptions, evTruckOptions);</code></pre>
 </section>
