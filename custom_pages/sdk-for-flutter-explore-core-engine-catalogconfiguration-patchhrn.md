@@ -1,10 +1,9 @@
 ---
-title: "patchHrn property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-catalogconfiguration-patchhrn"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- patchHrn.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-catalogconfiguration-patchhrn"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/CatalogConfiguration-class.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</a></li>
 <li class="self-crumb">patchHrn property</li>
 </ol>
 <div class="self-name">patchHrn</div>
@@ -48,7 +47,7 @@ menu
 contained in an entirely separate catalog, called the patch catalog.
 This field indicates the HERE Resource Name (HRN) for the patch catalog.
 When this field is present, the catalog's data as referenced by
-/sdk-for-flutter-explore-core-engine-catalogconfiguration-catalog is merged with data from the patch catalog.
+<a href="../../core.engine/CatalogConfiguration/catalog.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-catalog</a> is merged with data from the patch catalog.
 If this field is <code>null</code>, then incremental updates are disabled.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -63,9 +62,9 @@ If this field is <code>null</code>, then incremental updates are disabled.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/CatalogConfiguration-class.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</a></li>
 <li class="self-crumb">patchHrn property</li>
 </ol>
 <h5>CatalogConfiguration class</h5>
@@ -82,5 +81,4 @@ If this field is <code>null</code>, then incremental updates are disabled.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

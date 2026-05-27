@@ -1,10 +1,9 @@
 ---
-title: "AvoidBoundingBoxAreaOptions class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- AvoidBoundingBoxAreaOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +28,8 @@ slug: "sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">AvoidBoundingBoxAreaOptions class</li>
 </ol>
 <div class="self-name">AvoidBoundingBoxAreaOptions</div>
@@ -60,7 +59,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="AvoidBoundingBoxAreaOptions">
-/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-avoidboundingboxareaoptions(/sdk-for-flutter-explore-core-geobox-class avoidBoundingBoxArea)
+<a href="../routing/AvoidBoundingBoxAreaOptions/AvoidBoundingBoxAreaOptions.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-avoidboundingboxareaoptions</a>(<a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> avoidBoundingBoxArea)
 </dt>
 <dd>
 </dd>
@@ -70,8 +69,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="avoidBoundingBoxArea">
-/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-avoidboundingboxarea
-↔ /sdk-for-flutter-explore-core-geobox-class
+<a href="../routing/AvoidBoundingBoxAreaOptions/avoidBoundingBoxArea.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-avoidboundingboxarea</a>
+↔ <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>
 </dt>
 <dd>
   Area of rectangular shape which routes must not cross. Strictly enforced.
@@ -81,16 +80,16 @@ This avoidance option is not supported for <code>IsolineOptions</code>. If it is
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="boundingBoxExceptionAreas">
-/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-boundingboxexceptionareas
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-core-geobox-class&gt;
+<a href="../routing/AvoidBoundingBoxAreaOptions/boundingBoxExceptionAreas.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-boundingboxexceptionareas</a>
+↔ List&lt;<wbr/><a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>&gt;
 </dt>
 <dd>
   Areas of rectangular shape to exclude from avoidance.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="corridorExceptionAreas">
-/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-corridorexceptionareas
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-core-geocorridor-class&gt;
+<a href="../routing/AvoidBoundingBoxAreaOptions/corridorExceptionAreas.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-corridorexceptionareas</a>
+↔ List&lt;<wbr/><a href="../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a>&gt;
 </dt>
 <dd>
   Areas of corridor shape to exclude from avoidance.
@@ -100,7 +99,7 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-hashcode
+<a href="../routing/AvoidBoundingBoxAreaOptions/hashCode.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-hashcode</a>
 → int
 </dt>
 <dd>
@@ -108,15 +107,15 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="polygonExceptionAreas">
-/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-polygonexceptionareas
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-core-geopolygon-class&gt;
+<a href="../routing/AvoidBoundingBoxAreaOptions/polygonExceptionAreas.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-polygonexceptionareas</a>
+↔ List&lt;<wbr/><a href="../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a>&gt;
 </dt>
 <dd>
   Areas of polygon shape to exclude from avoidance.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-runtimetype
+<a href="../routing/AvoidBoundingBoxAreaOptions/runtimeType.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -129,7 +128,7 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/AvoidBoundingBoxAreaOptions/noSuchMethod.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -138,7 +137,7 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-tostring(<wbr/>)
+<a href="../routing/AvoidBoundingBoxAreaOptions/toString.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -152,7 +151,7 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-operator-equals(<wbr/>Object other)
+<a href="../routing/AvoidBoundingBoxAreaOptions/operator_equals.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -171,8 +170,8 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">AvoidBoundingBoxAreaOptions class</li>
 </ol>
 <h5>routing library</h5>
@@ -189,5 +188,4 @@ Otherwise route calculation will fail with an <code>sdk.routing.RoutingError.INV
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

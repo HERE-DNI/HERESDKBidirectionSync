@@ -1,10 +1,9 @@
 ---
-title: "vehicleProfile property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-transportprofile-vehicleprofile"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- vehicleProfile.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-transportprofile-vehicleprofile"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-transportprofile-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/TransportProfile-class.html">/sdk-for-flutter-explore-core-transportprofile-class</a></li>
 <li class="self-crumb">vehicleProfile property</li>
 </ol>
 <div class="self-name">vehicleProfile</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>vehicleProfile property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-transport-vehicleprofile-class?
+<a class="deprecated" href="../../transport/VehicleProfile-class.html">/sdk-for-flutter-explore-transport-vehicleprofile-class</a>?
         vehicleProfile
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +56,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-transportprofile-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/TransportProfile-class.html">/sdk-for-flutter-explore-core-transportprofile-class</a></li>
 <li class="self-crumb">vehicleProfile property</li>
 </ol>
 <h5>TransportProfile class</h5>
@@ -76,5 +75,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

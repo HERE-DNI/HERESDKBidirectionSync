@@ -1,10 +1,9 @@
 ---
-title: "MapSceneLoadOptionsBuilderInstantiationErrorDetails class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapSceneLoadOptionsBuilderInstantiationErrorDetails-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationer
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapSceneLoadOptionsBuilderInstantiationErrorDetails class</li>
 </ol>
 <div class="self-name">MapSceneLoadOptionsBuilderInstantiationErrorDetails</div>
@@ -52,13 +51,13 @@ menu
 <div>
 <h1>MapSceneLoadOptionsBuilderInstantiationErrorDetails class</h1></div>
 <section class="desc markdown">
-<p>Describes the reason for failing to build a /sdk-for-flutter-explore-mapview-mapsceneloadoptions-class.</p>
+<p>Describes the reason for failing to build a <a href="../mapview/MapSceneLoadOptions-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptions-class</a>.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapSceneLoadOptionsBuilderInstantiationErrorDetails">
-/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-mapsceneloadoptionsbuilderinstantiationerrordetails(/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrorcode errorCode, String? errorDescription)
+<a href="../mapview/MapSceneLoadOptionsBuilderInstantiationErrorDetails/MapSceneLoadOptionsBuilderInstantiationErrorDetails.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-mapsceneloadoptionsbuilderinstantiationerrordetails</a>(<a href="../mapview/MapSceneLoadOptionsBuilderInstantiationErrorCode.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrorcode</a> errorCode, String? errorDescription)
 </dt>
 <dd>
           Creates a new instance.
@@ -69,15 +68,15 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="errorCode">
-/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-errorcode
-↔ /sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrorcode
+<a href="../mapview/MapSceneLoadOptionsBuilderInstantiationErrorDetails/errorCode.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-errorcode</a>
+↔ <a href="../mapview/MapSceneLoadOptionsBuilderInstantiationErrorCode.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrorcode</a>
 </dt>
 <dd>
   The error code.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="errorDescription">
-/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-errordescription
+<a href="../mapview/MapSceneLoadOptionsBuilderInstantiationErrorDetails/errorDescription.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-errordescription</a>
 ↔ String?
 </dt>
 <dd>
@@ -85,7 +84,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-hashcode
+<a href="../mapview/MapSceneLoadOptionsBuilderInstantiationErrorDetails/hashCode.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -93,7 +92,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-runtimetype
+<a href="../mapview/MapSceneLoadOptionsBuilderInstantiationErrorDetails/runtimeType.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -106,7 +105,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapSceneLoadOptionsBuilderInstantiationErrorDetails/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -115,7 +114,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-tostring(<wbr/>)
+<a href="../mapview/MapSceneLoadOptionsBuilderInstantiationErrorDetails/toString.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -129,7 +128,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapSceneLoadOptionsBuilderInstantiationErrorDetails/operator_equals.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilderinstantiationerrordetails-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -147,8 +146,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapSceneLoadOptionsBuilderInstantiationErrorDetails class</li>
 </ol>
 <h5>mapview library</h5>
@@ -165,5 +164,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

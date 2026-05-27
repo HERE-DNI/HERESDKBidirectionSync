@@ -1,10 +1,9 @@
 ---
-title: "InstantiationException constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-errors-instantiationexception-instantiationexception"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- InstantiationException.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-errors-instantiationexception-instantiatione
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-errors-core-errors-library</li>
-<li>/sdk-for-flutter-explore-core-errors-instantiationexception-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.errors/core.errors-library.html">/sdk-for-flutter-explore-core-errors-core-errors-library</a></li>
+<li><a href="../../core.errors/InstantiationException-class.html">/sdk-for-flutter-explore-core-errors-instantiationexception-class</a></li>
 <li class="self-crumb">InstantiationException constructor</li>
 </ol>
 <div class="self-name">InstantiationException</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>InstantiationException constructor</h1></div>
 <section class="multi-line-signature">
-InstantiationException(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-errors-instantiationerrorcode error</li>
+InstantiationException(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.errors/InstantiationErrorCode.html">/sdk-for-flutter-explore-core-errors-instantiationerrorcode</a> error</li>
 </ol>)
     </section>
 <section class="summary source-code" id="source">
@@ -53,9 +52,9 @@ InstantiationException(<wbr/><ol class="parameter-list single-line"> <li>/sdk-fo
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-errors-core-errors-library</li>
-<li>/sdk-for-flutter-explore-core-errors-instantiationexception-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.errors/core.errors-library.html">/sdk-for-flutter-explore-core-errors-core-errors-library</a></li>
+<li><a href="../../core.errors/InstantiationException-class.html">/sdk-for-flutter-explore-core-errors-instantiationexception-class</a></li>
 <li class="self-crumb">InstantiationException constructor</li>
 </ol>
 <h5>InstantiationException class</h5>
@@ -72,5 +71,4 @@ InstantiationException(<wbr/><ol class="parameter-list single-line"> <li>/sdk-fo
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

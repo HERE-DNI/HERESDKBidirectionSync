@@ -1,10 +1,9 @@
 ---
-title: "proxySettings property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-proxysettings"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- proxySettings.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-proxysettings"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
 <li class="self-crumb">proxySettings property</li>
 </ol>
 <div class="self-name">proxySettings</div>
@@ -39,7 +38,7 @@ menu
 <h1>proxySettings property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-engine-proxysettings-class?
+<a href="../../core.engine/ProxySettings-class.html">/sdk-for-flutter-explore-core-engine-proxysettings-class</a>?
 proxySettings
 </section>
 <section class="desc markdown">
@@ -47,7 +46,7 @@ proxySettings
 Defaults to (<code>null</code>), which indicates proxy is not enabled.
 When setting proxy settings, they will immediately be applied and all the pending and fresh requests will use these settings.
 Pass (<code>null</code>) to indicate that proxy should be disabled.
-If proxy is necessary from the start then it's recommended to use /sdk-for-flutter-explore-core-engine-networksettings-proxysettings in /sdk-for-flutter-explore-core-engine-sdkoptions-networksettings.</p>
+If proxy is necessary from the start then it's recommended to use <a href="../../core.engine/NetworkSettings/proxySettings.html">/sdk-for-flutter-explore-core-engine-networksettings-proxysettings</a> in <a href="../../core.engine/SDKOptions/networkSettings.html">/sdk-for-flutter-explore-core-engine-sdkoptions-networksettings</a>.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.
 Gets the current proxy settings.</p>
@@ -60,14 +59,14 @@ Gets the current proxy settings.</p>
 <section id="setter">
 <section class="multi-line-signature">
 void
-proxySettings=(<wbr/>/sdk-for-flutter-explore-core-engine-proxysettings-class? value)
+proxySettings=(<wbr/><a href="../../core.engine/ProxySettings-class.html">/sdk-for-flutter-explore-core-engine-proxysettings-class</a>? value)
 </section>
 <section class="desc markdown">
 <p>Proxy settings of this SDK engine that will be used by HERE SDK network for all requests.
 Defaults to (<code>null</code>), which indicates proxy is not enabled.
 When setting proxy settings, they will immediately be applied and all the pending and fresh requests will use these settings.
 Pass (<code>null</code>) to indicate that proxy should be disabled.
-If proxy is necessary from the start then it's recommended to use /sdk-for-flutter-explore-core-engine-networksettings-proxysettings in /sdk-for-flutter-explore-core-engine-sdkoptions-networksettings.</p>
+If proxy is necessary from the start then it's recommended to use <a href="../../core.engine/NetworkSettings/proxySettings.html">/sdk-for-flutter-explore-core-engine-networksettings-proxysettings</a> in <a href="../../core.engine/SDKOptions/networkSettings.html">/sdk-for-flutter-explore-core-engine-sdkoptions-networksettings</a>.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.
 Sets the proxy settings.</p>
@@ -85,9 +84,9 @@ Sets the proxy settings.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
 <li class="self-crumb">proxySettings property</li>
 </ol>
 <h5>SDKNativeEngine class</h5>
@@ -104,5 +103,4 @@ Sets the proxy settings.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

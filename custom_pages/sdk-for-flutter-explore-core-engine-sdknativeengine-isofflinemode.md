@@ -1,10 +1,9 @@
 ---
-title: "isOfflineMode property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-isofflinemode"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- isOfflineMode.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-isofflinemode"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
 <li class="self-crumb">isOfflineMode property</li>
 </ol>
 <div class="self-name">isOfflineMode</div>
@@ -47,10 +46,10 @@ isOfflineMode
 Sets offline mode for the HERE SDK to offline or online.
 Defaults to false, which means the HERE SDK uses an online connection.
 When enabled, this prevents the HERE SDK from initiating any online connection except for provided pass through features if set.
-See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures.
+See <a href="../../core.engine/SDKNativeEngine/passThroughFeatures.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</a>.
 Note that the flag does not cancel pending requests.
 The mode can be enabled or disabled at any time. In order to fully operate offline, the mode
-needs to be enabled via /sdk-for-flutter-explore-core-engine-sdkoptions-offlinemode.
+needs to be enabled via <a href="../../core.engine/SDKOptions/offlineMode.html">/sdk-for-flutter-explore-core-engine-sdkoptions-offlinemode</a>.
 Initialization of the HERE SDK itself does not require an internet connection.
 Returns <code>true</code> if the HERE SDK uses offline connection mode, otherwise returns <code>false</code>.</p>
 <p>Note: This is a <strong>beta</strong> release of this feature, so there could be a few bugs and unexpected behaviors.
@@ -72,10 +71,10 @@ isOfflineMode=(<wbr/>bool value)
 Sets offline mode for the HERE SDK to offline or online.
 Defaults to false, which means the HERE SDK uses an online connection.
 When enabled, this prevents the HERE SDK from initiating any online connection except for provided pass through features if set.
-See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures.
+See <a href="../../core.engine/SDKNativeEngine/passThroughFeatures.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</a>.
 Note that the flag does not cancel pending requests.
 The mode can be enabled or disabled at any time. In order to fully operate offline, the mode
-needs to be enabled via /sdk-for-flutter-explore-core-engine-sdkoptions-offlinemode.
+needs to be enabled via <a href="../../core.engine/SDKOptions/offlineMode.html">/sdk-for-flutter-explore-core-engine-sdkoptions-offlinemode</a>.
 Initialization of the HERE SDK itself does not require an internet connection.
 Returns <code>true</code> if the HERE SDK uses offline connection mode, otherwise returns <code>false</code>.</p>
 <p>Note: This is a <strong>beta</strong> release of this feature, so there could be a few bugs and unexpected behaviors.
@@ -95,9 +94,9 @@ Sets the offline mode.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
 <li class="self-crumb">isOfflineMode property</li>
 </ol>
 <h5>SDKNativeEngine class</h5>
@@ -114,5 +113,4 @@ Sets the offline mode.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

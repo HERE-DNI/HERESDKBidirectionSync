@@ -1,10 +1,9 @@
 ---
-title: "Span class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-span-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Span-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -48,8 +47,8 @@ slug: "sdk-for-flutter-explore-routing-span-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">Span class</li>
 </ol>
 <div class="self-name">Span</div>
@@ -73,7 +72,7 @@ menu
 <div>
 <h1>Span class abstract</h1></div>
 <section class="desc markdown">
-<p>A span is a part of the /sdk-for-flutter-explore-routing-section-class which is traversable or navigable.</p>
+<p>A span is a part of the <a href="../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a> which is traversable or navigable.</p>
 <p>Each span
 usually has some geometry associated with it.</p>
 </section>
@@ -81,7 +80,7 @@ usually has some geometry associated with it.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Span">
-/sdk-for-flutter-explore-routing-span-span()
+<a href="../routing/Span/Span.html">/sdk-for-flutter-explore-routing-span-span</a>()
 </dt>
 <dd>
 </dd>
@@ -91,21 +90,21 @@ usually has some geometry associated with it.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="baseDuration">
-/sdk-for-flutter-explore-routing-span-baseduration
+<a href="../routing/Span/baseDuration.html">/sdk-for-flutter-explore-routing-span-baseduration</a>
 → Duration
 </dt>
 <dd>
   The time duration necessary to traverse the span, using the speed provided
-in /sdk-for-flutter-explore-routing-span-dynamicspeedinfo without taking into consideration
+in <a href="../routing/Span/dynamicSpeedInfo.html">/sdk-for-flutter-explore-routing-span-dynamicspeedinfo</a> without taking into consideration
 the delays caused by the traffic.
 Gets the time duration necessary to traverse the span, using the speed provided
-in /sdk-for-flutter-explore-routing-span-dynamicspeedinfo without taking into consideration
+in <a href="../routing/Span/dynamicSpeedInfo.html">/sdk-for-flutter-explore-routing-span-dynamicspeedinfo</a> without taking into consideration
 the delays caused by the traffic.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="carAttributes">
-/sdk-for-flutter-explore-routing-span-carattributes
-→ List&lt;<wbr/>/sdk-for-flutter-explore-routing-accessattributes&gt;
+<a href="../routing/Span/carAttributes.html">/sdk-for-flutter-explore-routing-span-carattributes</a>
+→ List&lt;<wbr/><a href="../routing/AccessAttributes.html">/sdk-for-flutter-explore-routing-accessattributes</a>&gt;
 </dt>
 <dd>
   The list of car access attributes on the span.
@@ -113,7 +112,7 @@ The list of car access attributes on the span.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="consumptionInKilowattHours">
-/sdk-for-flutter-explore-routing-span-consumptioninkilowatthours
+<a href="../routing/Span/consumptionInKilowattHours.html">/sdk-for-flutter-explore-routing-span-consumptioninkilowatthours</a>
 → double?
 </dt>
 <dd>
@@ -122,7 +121,7 @@ Gets the power consumption in kilowatt per hour necessary to traverse the span.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="countryCode">
-/sdk-for-flutter-explore-routing-span-countrycode
+<a href="../routing/Span/countryCode.html">/sdk-for-flutter-explore-routing-span-countrycode</a>
 → String?
 </dt>
 <dd>
@@ -131,21 +130,21 @@ Gets the country code of the span. The value is <code>null</code> when no data i
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="duration">
-/sdk-for-flutter-explore-routing-span-duration
+<a href="../routing/Span/duration.html">/sdk-for-flutter-explore-routing-span-duration</a>
 → Duration
 </dt>
 <dd>
   The time duration necessary to traverse the span, using the speed provided
-in /sdk-for-flutter-explore-routing-span-dynamicspeedinfo. This duration takes also into
+in <a href="../routing/Span/dynamicSpeedInfo.html">/sdk-for-flutter-explore-routing-span-dynamicspeedinfo</a>. This duration takes also into
 consideration the delays caused by the traffic.
 Gets the time duration necessary to traverse the span, using the speed provided
-in /sdk-for-flutter-explore-routing-span-dynamicspeedinfo. This duration takes also into
+in <a href="../routing/Span/dynamicSpeedInfo.html">/sdk-for-flutter-explore-routing-span-dynamicspeedinfo</a>. This duration takes also into
 consideration the delays caused by the traffic.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="dynamicSpeedInfo">
-/sdk-for-flutter-explore-routing-span-dynamicspeedinfo
-→ /sdk-for-flutter-explore-routing-dynamicspeedinfo-class?
+<a href="../routing/Span/dynamicSpeedInfo.html">/sdk-for-flutter-explore-routing-span-dynamicspeedinfo</a>
+→ <a href="../routing/DynamicSpeedInfo-class.html">/sdk-for-flutter-explore-routing-dynamicspeedinfo-class</a>?
 </dt>
 <dd>
   The dynamic speed information on the span.
@@ -153,8 +152,8 @@ The dynamic speed information on the span.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="functionalRoadClass">
-/sdk-for-flutter-explore-routing-span-functionalroadclass
-→ /sdk-for-flutter-explore-routing-functionalroadclass?
+<a href="../routing/Span/functionalRoadClass.html">/sdk-for-flutter-explore-routing-span-functionalroadclass</a>
+→ <a href="../routing/FunctionalRoadClass.html">/sdk-for-flutter-explore-routing-functionalroadclass</a>?
 </dt>
 <dd>
   The functional road class of the span.
@@ -162,16 +161,16 @@ Gets the functional road class of the span.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="geometry">
-/sdk-for-flutter-explore-routing-span-geometry
-→ /sdk-for-flutter-explore-core-geopolyline-class
+<a href="../routing/Span/geometry.html">/sdk-for-flutter-explore-routing-span-geometry</a>
+→ <a href="../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a>
 </dt>
 <dd>
-  The /sdk-for-flutter-explore-core-geopolyline-class object representing the polyline of this span.
-Gets the /sdk-for-flutter-explore-core-geopolyline-class object representing the polyline of this span.
+  The <a href="../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a> object representing the polyline of this span.
+Gets the <a href="../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a> object representing the polyline of this span.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-routing-span-hashcode
+<a href="../routing/Span/hashCode.html">/sdk-for-flutter-explore-routing-span-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -179,7 +178,7 @@ Gets the /sdk-for-flutter-explore-core-geopolyline-class object representing the
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="lengthInMeters">
-/sdk-for-flutter-explore-routing-span-lengthinmeters
+<a href="../routing/Span/lengthInMeters.html">/sdk-for-flutter-explore-routing-span-lengthinmeters</a>
 → int
 </dt>
 <dd>
@@ -188,34 +187,34 @@ Gets the length of this span in meters.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="noThroughRestrictionsIndexes">
-/sdk-for-flutter-explore-routing-span-nothroughrestrictionsindexes
+<a href="../routing/Span/noThroughRestrictionsIndexes.html">/sdk-for-flutter-explore-routing-span-nothroughrestrictionsindexes</a>
 → List&lt;<wbr/>int&gt;
 </dt>
 <dd>
-  The list of indexes to /sdk-for-flutter-explore-routing-section-nothroughrestrictions the parent section owns.
+  The list of indexes to <a href="../routing/Section/noThroughRestrictions.html">/sdk-for-flutter-explore-routing-section-nothroughrestrictions</a> the parent section owns.
 In case the list is not empty, the user must judge all the indexed sdk routing noThroughRestriction's
 carefully before proceeding.
-Get the list of indexes to /sdk-for-flutter-explore-routing-section-nothroughrestrictions the parent section owns.
-In case the list is not empty, the user must judge all the indexed /sdk-for-flutter-explore-routing-section-nothroughrestrictions's
+Get the list of indexes to <a href="../routing/Section/noThroughRestrictions.html">/sdk-for-flutter-explore-routing-section-nothroughrestrictions</a> the parent section owns.
+In case the list is not empty, the user must judge all the indexed <a href="../routing/Section/noThroughRestrictions.html">/sdk-for-flutter-explore-routing-section-nothroughrestrictions</a>'s
 carefully before proceeding.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="noticeIndexes">
-/sdk-for-flutter-explore-routing-span-noticeindexes
+<a href="../routing/Span/noticeIndexes.html">/sdk-for-flutter-explore-routing-span-noticeindexes</a>
 → List&lt;<wbr/>int&gt;
 </dt>
 <dd>
-  The list of indexes to /sdk-for-flutter-explore-routing-section-sectionnotices the parent section owns.
-In case the list is not empty, the user must judge all the indexed /sdk-for-flutter-explore-routing-sectionnotice-classs
+  The list of indexes to <a href="../routing/Section/sectionNotices.html">/sdk-for-flutter-explore-routing-section-sectionnotices</a> the parent section owns.
+In case the list is not empty, the user must judge all the indexed <a href="../routing/SectionNotice-class.html">/sdk-for-flutter-explore-routing-sectionnotice-class</a>s
 carefully before proceeding.
-Gets the list of indexes to /sdk-for-flutter-explore-routing-section-sectionnotices the parent section owns.
-In case the list is not empty, the user must judge all the indexed /sdk-for-flutter-explore-routing-sectionnotice-class's
+Gets the list of indexes to <a href="../routing/Section/sectionNotices.html">/sdk-for-flutter-explore-routing-section-sectionnotices</a> the parent section owns.
+In case the list is not empty, the user must judge all the indexed <a href="../routing/SectionNotice-class.html">/sdk-for-flutter-explore-routing-sectionnotice-class</a>'s
 carefully before proceeding.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="roadNumbers">
-/sdk-for-flutter-explore-routing-span-roadnumbers
-→ /sdk-for-flutter-explore-routing-localizedroadnumbers-class
+<a href="../routing/Span/roadNumbers.html">/sdk-for-flutter-explore-routing-span-roadnumbers</a>
+→ <a href="../routing/LocalizedRoadNumbers-class.html">/sdk-for-flutter-explore-routing-localizedroadnumbers-class</a>
 </dt>
 <dd>
   The road numbers on the span enriched with information specific to <em>route numbers</em>
@@ -225,7 +224,7 @@ of a road such as I-10, US-50, or A3, and cardinal direction, if available, and 
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-span-runtimetype
+<a href="../routing/Span/runtimeType.html">/sdk-for-flutter-explore-routing-span-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -233,8 +232,8 @@ of a road such as I-10, US-50, or A3, and cardinal direction, if available, and 
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="scooterAttributes">
-/sdk-for-flutter-explore-routing-span-scooterattributes
-→ List&lt;<wbr/>/sdk-for-flutter-explore-routing-accessattributes&gt;
+<a href="../routing/Span/scooterAttributes.html">/sdk-for-flutter-explore-routing-span-scooterattributes</a>
+→ List&lt;<wbr/><a href="../routing/AccessAttributes.html">/sdk-for-flutter-explore-routing-accessattributes</a>&gt;
 </dt>
 <dd>
   The list of scooter access attributes on the span.
@@ -242,7 +241,7 @@ The list of scooter access attributes on the span.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="sectionPolylineOffset">
-/sdk-for-flutter-explore-routing-span-sectionpolylineoffset
+<a href="../routing/Span/sectionPolylineOffset.html">/sdk-for-flutter-explore-routing-span-sectionpolylineoffset</a>
 → int
 </dt>
 <dd>
@@ -255,8 +254,8 @@ included in the span, because the spans' geometry share a point in the section's
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="segmentReference">
-/sdk-for-flutter-explore-routing-span-segmentreference
-→ /sdk-for-flutter-explore-routing-segmentreference-class
+<a href="../routing/Span/segmentReference.html">/sdk-for-flutter-explore-routing-span-segmentreference</a>
+→ <a href="../routing/SegmentReference-class.html">/sdk-for-flutter-explore-routing-segmentreference-class</a>
 </dt>
 <dd>
   The segment reference of this span.
@@ -264,7 +263,7 @@ Gets the segment reference of this span.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="speedLimitInMetersPerSecond">
-/sdk-for-flutter-explore-routing-span-speedlimitinmeterspersecond
+<a href="../routing/Span/speedLimitInMetersPerSecond.html">/sdk-for-flutter-explore-routing-span-speedlimitinmeterspersecond</a>
 → double?
 </dt>
 <dd>
@@ -273,7 +272,7 @@ Gets the speed limit in meters per second on the span.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="stateCode">
-/sdk-for-flutter-explore-routing-span-statecode
+<a href="../routing/Span/stateCode.html">/sdk-for-flutter-explore-routing-span-statecode</a>
 → String?
 </dt>
 <dd>
@@ -289,8 +288,8 @@ it consists of two alphabet letters. The value is <code>null</code> when no data
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="streetAttributes">
-/sdk-for-flutter-explore-routing-span-streetattributes
-→ List&lt;<wbr/>/sdk-for-flutter-explore-routing-streetattributes&gt;
+<a href="../routing/Span/streetAttributes.html">/sdk-for-flutter-explore-routing-span-streetattributes</a>
+→ List&lt;<wbr/><a href="../routing/StreetAttributes.html">/sdk-for-flutter-explore-routing-streetattributes</a>&gt;
 </dt>
 <dd>
   The list of street attributes on the span.
@@ -298,8 +297,8 @@ The list of street attributes on the span.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="streetNames">
-/sdk-for-flutter-explore-routing-span-streetnames
-→ /sdk-for-flutter-explore-core-localizedtexts-class
+<a href="../routing/Span/streetNames.html">/sdk-for-flutter-explore-routing-span-streetnames</a>
+→ <a href="../core/LocalizedTexts-class.html">/sdk-for-flutter-explore-core-localizedtexts-class</a>
 </dt>
 <dd>
   The street names on the span.
@@ -307,21 +306,21 @@ The street names on the span.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="trafficIncidentIndexes">
-/sdk-for-flutter-explore-routing-span-trafficincidentindexes
+<a href="../routing/Span/trafficIncidentIndexes.html">/sdk-for-flutter-explore-routing-span-trafficincidentindexes</a>
 → List&lt;<wbr/>int&gt;
 </dt>
 <dd>
-  The indexes of traffic incidents from the field /sdk-for-flutter-explore-routing-section-trafficincidents of the parent /sdk-for-flutter-explore-routing-section-class.
-Each matching incident takes at least a whole /sdk-for-flutter-explore-routing-span-geometry.
+  The indexes of traffic incidents from the field <a href="../routing/Section/trafficIncidents.html">/sdk-for-flutter-explore-routing-section-trafficincidents</a> of the parent <a href="../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a>.
+Each matching incident takes at least a whole <a href="../routing/Span/geometry.html">/sdk-for-flutter-explore-routing-span-geometry</a>.
 The same incident can take other spans and an area out of the built route as well.
-The indexes of traffic incidents from the field /sdk-for-flutter-explore-routing-section-trafficincidents of the parent /sdk-for-flutter-explore-routing-section-class.
-Each matching incident takes at least a whole /sdk-for-flutter-explore-routing-span-geometry.
+The indexes of traffic incidents from the field <a href="../routing/Section/trafficIncidents.html">/sdk-for-flutter-explore-routing-section-trafficincidents</a> of the parent <a href="../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a>.
+Each matching incident takes at least a whole <a href="../routing/Span/geometry.html">/sdk-for-flutter-explore-routing-span-geometry</a>.
 The same incident can take other spans and an area out of the built route as well.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="truckAttributes">
-/sdk-for-flutter-explore-routing-span-truckattributes
-→ List&lt;<wbr/>/sdk-for-flutter-explore-routing-accessattributes&gt;
+<a href="../routing/Span/truckAttributes.html">/sdk-for-flutter-explore-routing-span-truckattributes</a>
+→ List&lt;<wbr/><a href="../routing/AccessAttributes.html">/sdk-for-flutter-explore-routing-accessattributes</a>&gt;
 </dt>
 <dd>
   The list of truck access attributes on the span.
@@ -329,8 +328,8 @@ The list of truck access attributes on the span.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="walkAttributes">
-/sdk-for-flutter-explore-routing-span-walkattributes
-→ List&lt;<wbr/>/sdk-for-flutter-explore-routing-walkattributes&gt;
+<a href="../routing/Span/walkAttributes.html">/sdk-for-flutter-explore-routing-span-walkattributes</a>
+→ List&lt;<wbr/><a href="../routing/WalkAttributes.html">/sdk-for-flutter-explore-routing-walkattributes</a>&gt;
 </dt>
 <dd>
   The list of walk attributes on the span.
@@ -343,7 +342,7 @@ The list of walk attributes on the span.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="getShieldText">
-/sdk-for-flutter-explore-routing-span-getshieldtext(<wbr/>/sdk-for-flutter-explore-routing-localizedroadnumber-class roadNumber)
+<a href="../routing/Span/getShieldText.html">/sdk-for-flutter-explore-routing-span-getshieldtext</a>(<wbr/><a href="../routing/LocalizedRoadNumber-class.html">/sdk-for-flutter-explore-routing-localizedroadnumber-class</a> roadNumber)
     → String
 
 </dt>
@@ -353,7 +352,7 @@ The list of walk attributes on the span.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-span-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/Span/noSuchMethod.html">/sdk-for-flutter-explore-routing-span-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -362,7 +361,7 @@ The list of walk attributes on the span.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-span-tostring(<wbr/>)
+<a href="../routing/Span/toString.html">/sdk-for-flutter-explore-routing-span-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -376,7 +375,7 @@ The list of walk attributes on the span.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-routing-span-operator-equals(<wbr/>Object other)
+<a href="../routing/Span/operator_equals.html">/sdk-for-flutter-explore-routing-span-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -394,8 +393,8 @@ The list of walk attributes on the span.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">Span class</li>
 </ol>
 <h5>routing library</h5>
@@ -412,5 +411,4 @@ The list of walk attributes on the span.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

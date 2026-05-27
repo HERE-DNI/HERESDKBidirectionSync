@@ -1,10 +1,9 @@
 ---
-title: "removeMapPolygons abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapscene-removemappolygons"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- removeMapPolygons.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscene-removemappolygons"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
 <li class="self-crumb">removeMapPolygons abstract method</li>
 </ol>
 <div class="self-name">removeMapPolygons</div>
@@ -39,7 +38,7 @@ menu
 <h1>removeMapPolygons abstract method</h1></div>
 <section class="multi-line-signature">
 void
-removeMapPolygons(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mappolygon-class&gt; mapPolygons</li>
+removeMapPolygons(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../mapview/MapPolygon-class.html">/sdk-for-flutter-explore-mapview-mappolygon-class</a>&gt; mapPolygons</li>
 </ol>)
 
       
@@ -63,9 +62,9 @@ removeMapPolygons(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
 <li class="self-crumb">removeMapPolygons abstract method</li>
 </ol>
 <h5>MapScene class</h5>
@@ -82,5 +81,4 @@ removeMapPolygons(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

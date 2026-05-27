@@ -1,10 +1,9 @@
 ---
-title: "POIPaymentMethod class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-poipaymentmethod-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- POIPaymentMethod-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -42,8 +41,8 @@ slug: "sdk-for-flutter-explore-search-poipaymentmethod-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">POIPaymentMethod class</li>
 </ol>
 <div class="self-name">POIPaymentMethod</div>
@@ -68,7 +67,7 @@ menu
 <h1>POIPaymentMethod class</h1></div>
 <section class="desc markdown">
 <p>Holds constants that represent payment methods.</p>
-<p>See /sdk-for-flutter-explore-search-poipaymentdetails-class for usage.</p>
+<p>See <a href="../search/POIPaymentDetails-class.html">/sdk-for-flutter-explore-search-poipaymentdetails-class</a> for usage.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and
 unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
@@ -77,7 +76,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="POIPaymentMethod">
-/sdk-for-flutter-explore-search-poipaymentmethod-poipaymentmethod()
+<a href="../search/POIPaymentMethod/POIPaymentMethod.html">/sdk-for-flutter-explore-search-poipaymentmethod-poipaymentmethod</a>()
 </dt>
 <dd>
 </dd>
@@ -87,7 +86,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-search-poipaymentmethod-hashcode
+<a href="../search/POIPaymentMethod/hashCode.html">/sdk-for-flutter-explore-search-poipaymentmethod-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -95,7 +94,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-poipaymentmethod-runtimetype
+<a href="../search/POIPaymentMethod/runtimeType.html">/sdk-for-flutter-explore-search-poipaymentmethod-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -108,7 +107,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-poipaymentmethod-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/POIPaymentMethod/noSuchMethod.html">/sdk-for-flutter-explore-search-poipaymentmethod-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -117,7 +116,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-poipaymentmethod-tostring(<wbr/>)
+<a href="../search/POIPaymentMethod/toString.html">/sdk-for-flutter-explore-search-poipaymentmethod-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -131,7 +130,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-search-poipaymentmethod-operator-equals(<wbr/>Object other)
+<a href="../search/POIPaymentMethod/operator_equals.html">/sdk-for-flutter-explore-search-poipaymentmethod-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -145,7 +144,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Static Properties</h2>
 <dl class="properties">
 <dt class="property" id="amex">
-/sdk-for-flutter-explore-search-poipaymentmethod-amex
+<a href="../search/POIPaymentMethod/amex.html">/sdk-for-flutter-explore-search-poipaymentmethod-amex</a>
 → String
 </dt>
 <dd>
@@ -153,7 +152,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="ampol">
-/sdk-for-flutter-explore-search-poipaymentmethod-ampol
+<a href="../search/POIPaymentMethod/ampol.html">/sdk-for-flutter-explore-search-poipaymentmethod-ampol</a>
 → String
 </dt>
 <dd>
@@ -161,7 +160,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="androidPay">
-/sdk-for-flutter-explore-search-poipaymentmethod-androidpay
+<a href="../search/POIPaymentMethod/androidPay.html">/sdk-for-flutter-explore-search-poipaymentmethod-androidpay</a>
 → String
 </dt>
 <dd>
@@ -169,7 +168,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="applePay">
-/sdk-for-flutter-explore-search-poipaymentmethod-applepay
+<a href="../search/POIPaymentMethod/applePay.html">/sdk-for-flutter-explore-search-poipaymentmethod-applepay</a>
 → String
 </dt>
 <dd>
@@ -177,7 +176,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="cash">
-/sdk-for-flutter-explore-search-poipaymentmethod-cash
+<a href="../search/POIPaymentMethod/cash.html">/sdk-for-flutter-explore-search-poipaymentmethod-cash</a>
 → String
 </dt>
 <dd>
@@ -185,7 +184,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="cheque">
-/sdk-for-flutter-explore-search-poipaymentmethod-cheque
+<a href="../search/POIPaymentMethod/cheque.html">/sdk-for-flutter-explore-search-poipaymentmethod-cheque</a>
 → String
 </dt>
 <dd>
@@ -193,7 +192,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="debitCard">
-/sdk-for-flutter-explore-search-poipaymentmethod-debitcard
+<a href="../search/POIPaymentMethod/debitCard.html">/sdk-for-flutter-explore-search-poipaymentmethod-debitcard</a>
 → String
 </dt>
 <dd>
@@ -201,7 +200,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="dinersClub">
-/sdk-for-flutter-explore-search-poipaymentmethod-dinersclub
+<a href="../search/POIPaymentMethod/dinersClub.html">/sdk-for-flutter-explore-search-poipaymentmethod-dinersclub</a>
 → String
 </dt>
 <dd>
@@ -209,7 +208,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="discover">
-/sdk-for-flutter-explore-search-poipaymentmethod-discover
+<a href="../search/POIPaymentMethod/discover.html">/sdk-for-flutter-explore-search-poipaymentmethod-discover</a>
 → String
 </dt>
 <dd>
@@ -217,7 +216,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="dkv">
-/sdk-for-flutter-explore-search-poipaymentmethod-dkv
+<a href="../search/POIPaymentMethod/dkv.html">/sdk-for-flutter-explore-search-poipaymentmethod-dkv</a>
 → String
 </dt>
 <dd>
@@ -225,7 +224,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="financing">
-/sdk-for-flutter-explore-search-poipaymentmethod-financing
+<a href="../search/POIPaymentMethod/financing.html">/sdk-for-flutter-explore-search-poipaymentmethod-financing</a>
 → String
 </dt>
 <dd>
@@ -233,7 +232,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="mastercard">
-/sdk-for-flutter-explore-search-poipaymentmethod-mastercard
+<a href="../search/POIPaymentMethod/mastercard.html">/sdk-for-flutter-explore-search-poipaymentmethod-mastercard</a>
 → String
 </dt>
 <dd>
@@ -241,7 +240,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="motorpass">
-/sdk-for-flutter-explore-search-poipaymentmethod-motorpass
+<a href="../search/POIPaymentMethod/motorpass.html">/sdk-for-flutter-explore-search-poipaymentmethod-motorpass</a>
 → String
 </dt>
 <dd>
@@ -249,7 +248,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="paypal">
-/sdk-for-flutter-explore-search-poipaymentmethod-paypal
+<a href="../search/POIPaymentMethod/paypal.html">/sdk-for-flutter-explore-search-poipaymentmethod-paypal</a>
 → String
 </dt>
 <dd>
@@ -257,7 +256,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="shell">
-/sdk-for-flutter-explore-search-poipaymentmethod-shell
+<a href="../search/POIPaymentMethod/shell.html">/sdk-for-flutter-explore-search-poipaymentmethod-shell</a>
 → String
 </dt>
 <dd>
@@ -265,7 +264,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="visa">
-/sdk-for-flutter-explore-search-poipaymentmethod-visa
+<a href="../search/POIPaymentMethod/visa.html">/sdk-for-flutter-explore-search-poipaymentmethod-visa</a>
 → String
 </dt>
 <dd>
@@ -282,8 +281,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">POIPaymentMethod class</li>
 </ol>
 <h5>search library</h5>
@@ -300,5 +299,4 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "getType abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-dataattributevalue-gettype"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- getType.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-dataattributevalue-gettype"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/DataAttributeValue-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class</a></li>
 <li class="self-crumb">getType abstract method</li>
 </ol>
 <div class="self-name">getType</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>getType abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevaluevaluetype
+<a href="../../mapview.datasource/DataAttributeValueValueType.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevaluevaluetype</a>
 getType(<wbr/>)
 
       
@@ -46,7 +45,7 @@ getType(<wbr/>)
     </section>
 <section class="desc markdown">
 <p>Returns the type of the value.</p>
-<p>Returns /sdk-for-flutter-explore-mapview-datasource-dataattributevaluevaluetype. The type of the value.</p>
+<p>Returns <a href="../../mapview.datasource/DataAttributeValueValueType.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevaluevaluetype</a>. The type of the value.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -60,9 +59,9 @@ getType(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/DataAttributeValue-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class</a></li>
 <li class="self-crumb">getType abstract method</li>
 </ol>
 <h5>DataAttributeValue class</h5>
@@ -79,5 +78,4 @@ getType(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

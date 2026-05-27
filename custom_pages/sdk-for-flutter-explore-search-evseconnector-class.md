@@ -1,10 +1,9 @@
 ---
-title: "EVSEConnector class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-evseconnector-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVSEConnector-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +28,8 @@ slug: "sdk-for-flutter-explore-search-evseconnector-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVSEConnector class</li>
 </ol>
 <div class="self-name">EVSEConnector</div>
@@ -60,7 +59,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVSEConnector">
-/sdk-for-flutter-explore-search-evseconnector-evseconnector()
+<a href="../search/EVSEConnector/EVSEConnector.html">/sdk-for-flutter-explore-search-evseconnector-evseconnector</a>()
 </dt>
 <dd>
 </dd>
@@ -70,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="cpoId">
-/sdk-for-flutter-explore-search-evseconnector-cpoid
+<a href="../search/EVSEConnector/cpoId.html">/sdk-for-flutter-explore-search-evseconnector-cpoid</a>
 ↔ String?
 </dt>
 <dd>
@@ -78,7 +77,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-evseconnector-hashcode
+<a href="../search/EVSEConnector/hashCode.html">/sdk-for-flutter-explore-search-evseconnector-hashcode</a>
 → int
 </dt>
 <dd>
@@ -86,7 +85,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="id">
-/sdk-for-flutter-explore-search-evseconnector-id
+<a href="../search/EVSEConnector/id.html">/sdk-for-flutter-explore-search-evseconnector-id</a>
 ↔ String?
 </dt>
 <dd>
@@ -94,7 +93,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxPowerInKilowatts">
-/sdk-for-flutter-explore-search-evseconnector-maxpowerinkilowatts
+<a href="../search/EVSEConnector/maxPowerInKilowatts.html">/sdk-for-flutter-explore-search-evseconnector-maxpowerinkilowatts</a>
 ↔ double?
 </dt>
 <dd>
@@ -102,7 +101,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-evseconnector-runtimetype
+<a href="../search/EVSEConnector/runtimeType.html">/sdk-for-flutter-explore-search-evseconnector-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -110,7 +109,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="typeId">
-/sdk-for-flutter-explore-search-evseconnector-typeid
+<a href="../search/EVSEConnector/typeId.html">/sdk-for-flutter-explore-search-evseconnector-typeid</a>
 ↔ String?
 </dt>
 <dd>
@@ -124,7 +123,7 @@ see <a href="https://www.here.com/docs/bundle/ev-charge-points-api-developer-gui
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-evseconnector-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/EVSEConnector/noSuchMethod.html">/sdk-for-flutter-explore-search-evseconnector-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -133,7 +132,7 @@ see <a href="https://www.here.com/docs/bundle/ev-charge-points-api-developer-gui
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-evseconnector-tostring(<wbr/>)
+<a href="../search/EVSEConnector/toString.html">/sdk-for-flutter-explore-search-evseconnector-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -147,7 +146,7 @@ see <a href="https://www.here.com/docs/bundle/ev-charge-points-api-developer-gui
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-evseconnector-operator-equals(<wbr/>Object other)
+<a href="../search/EVSEConnector/operator_equals.html">/sdk-for-flutter-explore-search-evseconnector-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -166,8 +165,8 @@ see <a href="https://www.here.com/docs/bundle/ev-charge-points-api-developer-gui
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVSEConnector class</li>
 </ol>
 <h5>search library</h5>
@@ -184,5 +183,4 @@ see <a href="https://www.here.com/docs/bundle/ev-charge-points-api-developer-gui
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

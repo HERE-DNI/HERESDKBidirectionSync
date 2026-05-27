@@ -1,10 +1,9 @@
 ---
-title: "addLines abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-linedatasource-addlines"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- addLines.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-linedatasource-addlines"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-linedatasource-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/LineDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-linedatasource-class</a></li>
 <li class="self-crumb">addLines abstract method</li>
 </ol>
 <div class="self-name">addLines</div>
@@ -39,7 +38,7 @@ menu
 <h1>addLines abstract method</h1></div>
 <section class="multi-line-signature">
 void
-addLines(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-datasource-linedata-class&gt; lines</li>
+addLines(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../mapview.datasource/LineData-class.html">/sdk-for-flutter-explore-mapview-datasource-linedata-class</a>&gt; lines</li>
 </ol>)
 
       
@@ -63,9 +62,9 @@ addLines(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-fo
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-linedatasource-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/LineDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-linedatasource-class</a></li>
 <li class="self-crumb">addLines abstract method</li>
 </ol>
 <h5>LineDataSource class</h5>
@@ -82,5 +81,4 @@ addLines(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-fo
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

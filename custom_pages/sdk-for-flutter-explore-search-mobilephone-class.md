@@ -1,10 +1,9 @@
 ---
-title: "MobilePhone class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-mobilephone-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MobilePhone-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-search-mobilephone-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">MobilePhone class</li>
 </ol>
 <div class="self-name">MobilePhone</div>
@@ -59,13 +58,13 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MobilePhone">
-/sdk-for-flutter-explore-search-mobilephone-mobilephone(String phoneNumber, List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt; categories)
+<a href="../search/MobilePhone/MobilePhone.html">/sdk-for-flutter-explore-search-mobilephone-mobilephone</a>(String phoneNumber, List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt; categories)
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="MobilePhone.withDefaults">
-/sdk-for-flutter-explore-search-mobilephone-mobilephone-withdefaults()
+<a href="../search/MobilePhone/MobilePhone.withDefaults.html">/sdk-for-flutter-explore-search-mobilephone-mobilephone-withdefaults</a>()
 </dt>
 <dd>
           Creates a new instance.
@@ -76,17 +75,17 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="categories">
-/sdk-for-flutter-explore-search-mobilephone-categories
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt;
+<a href="../search/MobilePhone/categories.html">/sdk-for-flutter-explore-search-mobilephone-categories</a>
+↔ List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt;
 </dt>
 <dd>
   Categories associated with phone number.
-Note: In case /sdk-for-flutter-explore-search-mobilephone-categories are not empty, then /sdk-for-flutter-explore-search-mobilephone-phonenumber should be used according to given categories.
-Otherwise, /sdk-for-flutter-explore-search-mobilephone-phonenumber is meant for general use.
+Note: In case <a href="../search/MobilePhone/categories.html">/sdk-for-flutter-explore-search-mobilephone-categories</a> are not empty, then <a href="../search/MobilePhone/phoneNumber.html">/sdk-for-flutter-explore-search-mobilephone-phonenumber</a> should be used according to given categories.
+Otherwise, <a href="../search/MobilePhone/phoneNumber.html">/sdk-for-flutter-explore-search-mobilephone-phonenumber</a> is meant for general use.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-mobilephone-hashcode
+<a href="../search/MobilePhone/hashCode.html">/sdk-for-flutter-explore-search-mobilephone-hashcode</a>
 → int
 </dt>
 <dd>
@@ -94,7 +93,7 @@ Otherwise, /sdk-for-flutter-explore-search-mobilephone-phonenumber is meant for 
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="phoneNumber">
-/sdk-for-flutter-explore-search-mobilephone-phonenumber
+<a href="../search/MobilePhone/phoneNumber.html">/sdk-for-flutter-explore-search-mobilephone-phonenumber</a>
 ↔ String
 </dt>
 <dd>
@@ -102,7 +101,7 @@ Otherwise, /sdk-for-flutter-explore-search-mobilephone-phonenumber is meant for 
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-mobilephone-runtimetype
+<a href="../search/MobilePhone/runtimeType.html">/sdk-for-flutter-explore-search-mobilephone-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -115,7 +114,7 @@ Otherwise, /sdk-for-flutter-explore-search-mobilephone-phonenumber is meant for 
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-mobilephone-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/MobilePhone/noSuchMethod.html">/sdk-for-flutter-explore-search-mobilephone-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -124,7 +123,7 @@ Otherwise, /sdk-for-flutter-explore-search-mobilephone-phonenumber is meant for 
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-mobilephone-tostring(<wbr/>)
+<a href="../search/MobilePhone/toString.html">/sdk-for-flutter-explore-search-mobilephone-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -138,7 +137,7 @@ Otherwise, /sdk-for-flutter-explore-search-mobilephone-phonenumber is meant for 
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-mobilephone-operator-equals(<wbr/>Object other)
+<a href="../search/MobilePhone/operator_equals.html">/sdk-for-flutter-explore-search-mobilephone-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -157,8 +156,8 @@ Otherwise, /sdk-for-flutter-explore-search-mobilephone-phonenumber is meant for 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">MobilePhone class</li>
 </ol>
 <h5>search library</h5>
@@ -175,5 +174,4 @@ Otherwise, /sdk-for-flutter-explore-search-mobilephone-phonenumber is meant for 
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

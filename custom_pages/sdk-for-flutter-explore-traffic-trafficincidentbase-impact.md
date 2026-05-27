@@ -1,10 +1,9 @@
 ---
-title: "impact property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-traffic-trafficincidentbase-impact"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- impact.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficincidentbase-impact"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficincidentbase-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficIncidentBase-class.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-class</a></li>
 <li class="self-crumb">impact property</li>
 </ol>
 <div class="self-name">impact</div>
@@ -39,12 +38,12 @@ menu
 <h1>impact property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-traffic-trafficincidentimpact
+<a href="../../traffic/TrafficIncidentImpact.html">/sdk-for-flutter-explore-traffic-trafficincidentimpact</a>
 impact
 </section>
 <section class="desc markdown">
 <p>The impact of the incident.
-The value is /sdk-for-flutter-explore-traffic-trafficincidentimpact if it hasn't been provided by the traffic incidents supplier.
+The value is <a href="../../traffic/TrafficIncidentImpact.html">/sdk-for-flutter-explore-traffic-trafficincidentimpact</a> if it hasn't been provided by the traffic incidents supplier.
 Gets the impact of the incident.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -60,9 +59,9 @@ Gets the impact of the incident.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficincidentbase-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficIncidentBase-class.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-class</a></li>
 <li class="self-crumb">impact property</li>
 </ol>
 <h5>TrafficIncidentBase class</h5>
@@ -79,5 +78,4 @@ Gets the impact of the incident.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "Route class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-route-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Route-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -42,8 +41,8 @@ slug: "sdk-for-flutter-explore-routing-route-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">Route class</li>
 </ol>
 <div class="self-name">Route</div>
@@ -68,7 +67,7 @@ menu
 <h1>Route class abstract</h1></div>
 <section class="desc markdown">
 <p>A route is a path through a road network over which someone travels.</p>
-<p><strong>Note:</strong> Each /sdk-for-flutter-explore-routing-section-class of a route contains a list of /sdk-for-flutter-explore-routing-sectionnotice-class objects
+<p><strong>Note:</strong> Each <a href="../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a> of a route contains a list of <a href="../routing/SectionNotice-class.html">/sdk-for-flutter-explore-routing-sectionnotice-class</a> objects
 that describe <em>potential issues</em> after the route was calculated. If the list is non-empty,
 it is recommended to evaluate possible violations against the requested route options and
 reject the route if deemed necessary.</p>
@@ -77,7 +76,7 @@ reject the route if deemed necessary.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Route">
-/sdk-for-flutter-explore-routing-route-route()
+<a href="../routing/Route/Route.html">/sdk-for-flutter-explore-routing-route-route</a>()
 </dt>
 <dd>
 </dd>
@@ -87,8 +86,8 @@ reject the route if deemed necessary.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="boundingBox">
-/sdk-for-flutter-explore-routing-route-boundingbox
-→ /sdk-for-flutter-explore-core-geobox-class
+<a href="../routing/Route/boundingBox.html">/sdk-for-flutter-explore-routing-route-boundingbox</a>
+→ <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>
 </dt>
 <dd>
   The closest rectangular area where this route fits in.
@@ -96,7 +95,7 @@ Gets the closest rectangular area where this route fits in.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="consumptionInKilowattHours">
-/sdk-for-flutter-explore-routing-route-consumptioninkilowatthours
+<a href="../routing/Route/consumptionInKilowattHours.html">/sdk-for-flutter-explore-routing-route-consumptioninkilowatthours</a>
 → double?
 </dt>
 <dd>
@@ -107,7 +106,7 @@ is an electric vehicle. Note that it can be negative due to energy recuperation.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="duration">
-/sdk-for-flutter-explore-routing-route-duration
+<a href="../routing/Route/duration.html">/sdk-for-flutter-explore-routing-route-duration</a>
 → Duration
 </dt>
 <dd>
@@ -118,18 +117,18 @@ real-time traffic delays if available.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="geometry">
-/sdk-for-flutter-explore-routing-route-geometry
-→ /sdk-for-flutter-explore-core-geopolyline-class
+<a href="../routing/Route/geometry.html">/sdk-for-flutter-explore-routing-route-geometry</a>
+→ <a href="../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a>
 </dt>
 <dd>
-  The /sdk-for-flutter-explore-core-geopolyline-class object representing the polyline of this route. It may not contain the original
+  The <a href="../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a> object representing the polyline of this route. It may not contain the original
 coordinates specified in the request for a route.
-Gets the /sdk-for-flutter-explore-core-geopolyline-class object representing the polyline of this route. It may not contain the original
+Gets the <a href="../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a> object representing the polyline of this route. It may not contain the original
 coordinates specified in the request for a route.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-routing-route-hashcode
+<a href="../routing/Route/hashCode.html">/sdk-for-flutter-explore-routing-route-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -137,8 +136,8 @@ coordinates specified in the request for a route.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="language">
-/sdk-for-flutter-explore-routing-route-language
-→ /sdk-for-flutter-explore-core-languagecode
+<a href="../routing/Route/language.html">/sdk-for-flutter-explore-routing-route-language</a>
+→ <a href="../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>
 </dt>
 <dd>
   Indicates the language requested for all textual information related to this route.
@@ -146,7 +145,7 @@ Gets the language requested for all textual information related to this route.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="lengthInMeters">
-/sdk-for-flutter-explore-routing-route-lengthinmeters
+<a href="../routing/Route/lengthInMeters.html">/sdk-for-flutter-explore-routing-route-lengthinmeters</a>
 → int
 </dt>
 <dd>
@@ -155,8 +154,8 @@ Gets the length of this route in meters.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="optimizationMode">
-/sdk-for-flutter-explore-routing-route-optimizationmode
-→ /sdk-for-flutter-explore-routing-optimizationmode
+<a href="../routing/Route/optimizationMode.html">/sdk-for-flutter-explore-routing-route-optimizationmode</a>
+→ <a href="../routing/OptimizationMode.html">/sdk-for-flutter-explore-routing-optimizationmode</a>
 </dt>
 <dd>
   The optimization mode requested for route calculation.
@@ -164,8 +163,8 @@ Gets the optimization mode requested for route calculation.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="railwayCrossings">
-/sdk-for-flutter-explore-routing-route-railwaycrossings
-→ List&lt;<wbr/>/sdk-for-flutter-explore-routing-routerailwaycrossing-class&gt;
+<a href="../routing/Route/railwayCrossings.html">/sdk-for-flutter-explore-routing-route-railwaycrossings</a>
+→ List&lt;<wbr/><a href="../routing/RouteRailwayCrossing-class.html">/sdk-for-flutter-explore-routing-routerailwaycrossing-class</a>&gt;
 </dt>
 <dd>
   Collection of railway crossings along the route.
@@ -174,8 +173,8 @@ Gets railway crossings.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="requestedTransportMode">
-/sdk-for-flutter-explore-routing-route-requestedtransportmode
-→ /sdk-for-flutter-explore-transport-transportmode
+<a href="../routing/Route/requestedTransportMode.html">/sdk-for-flutter-explore-routing-route-requestedtransportmode</a>
+→ <a href="../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>
 </dt>
 <dd>
   The transport mode requested for route calculation.
@@ -183,19 +182,19 @@ Gets the transport mode requested for route calculation.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="routeHandle">
-/sdk-for-flutter-explore-routing-route-routehandle
-→ /sdk-for-flutter-explore-routing-routehandle-class?
+<a href="../routing/Route/routeHandle.html">/sdk-for-flutter-explore-routing-route-routehandle</a>
+→ <a href="../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a>?
 </dt>
 <dd>
   The route handle of this route. Note that it is provided only if
-/sdk-for-flutter-explore-routing-routeoptions-enableroutehandle is set before route calculation.
+<a href="../routing/RouteOptions/enableRouteHandle.html">/sdk-for-flutter-explore-routing-routeoptions-enableroutehandle</a> is set before route calculation.
 Gets the route handle of this route. Note that it is provided only if
-/sdk-for-flutter-explore-routing-routeoptions-enableroutehandle is set before route calculation.
+<a href="../routing/RouteOptions/enableRouteHandle.html">/sdk-for-flutter-explore-routing-routeoptions-enableroutehandle</a> is set before route calculation.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="routeLabels">
-/sdk-for-flutter-explore-routing-route-routelabels
-→ List&lt;<wbr/>/sdk-for-flutter-explore-routing-routelabel-class&gt;
+<a href="../routing/Route/routeLabels.html">/sdk-for-flutter-explore-routing-route-routelabels</a>
+→ List&lt;<wbr/><a href="../routing/RouteLabel-class.html">/sdk-for-flutter-explore-routing-routelabel-class</a>&gt;
 </dt>
 <dd>
   A collection containing a maximum of 2 <code>RouteLabel</code> instances for the route. It will return an empty list if no labels are available.
@@ -206,8 +205,8 @@ Gets route labels.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="routingOptions">
-/sdk-for-flutter-explore-routing-route-routingoptions
-→ /sdk-for-flutter-explore-routing-routingoptions-class?
+<a href="../routing/Route/routingOptions.html">/sdk-for-flutter-explore-routing-route-routingoptions</a>
+→ <a href="../routing/RoutingOptions-class.html">/sdk-for-flutter-explore-routing-routingoptions-class</a>?
 </dt>
 <dd>
   The set of options used to calculate the route.
@@ -215,7 +214,7 @@ Gets the options used to calculate this route.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-route-runtimetype
+<a href="../routing/Route/runtimeType.html">/sdk-for-flutter-explore-routing-route-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -223,8 +222,8 @@ Gets the options used to calculate this route.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="sections">
-/sdk-for-flutter-explore-routing-route-sections
-→ List&lt;<wbr/>/sdk-for-flutter-explore-routing-section-class&gt;
+<a href="../routing/Route/sections.html">/sdk-for-flutter-explore-routing-route-sections</a>
+→ List&lt;<wbr/><a href="../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a>&gt;
 </dt>
 <dd>
   The sections that make up this route.
@@ -232,7 +231,7 @@ Gets the sections that make up this route.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="trafficDelay">
-/sdk-for-flutter-explore-routing-route-trafficdelay
+<a href="../routing/Route/trafficDelay.html">/sdk-for-flutter-explore-routing-route-trafficdelay</a>
 → Duration
 </dt>
 <dd>
@@ -248,7 +247,7 @@ indicate that the route can be traversed faster than usual.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-route-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/Route/noSuchMethod.html">/sdk-for-flutter-explore-routing-route-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -257,7 +256,7 @@ indicate that the route can be traversed faster than usual.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-route-tostring(<wbr/>)
+<a href="../routing/Route/toString.html">/sdk-for-flutter-explore-routing-route-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -271,7 +270,7 @@ indicate that the route can be traversed faster than usual.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-routing-route-operator-equals(<wbr/>Object other)
+<a href="../routing/Route/operator_equals.html">/sdk-for-flutter-explore-routing-route-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -285,8 +284,8 @@ indicate that the route can be traversed faster than usual.
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="deserialize">
-/sdk-for-flutter-explore-routing-route-deserialize(<wbr/>Uint8List routeData)
-    → /sdk-for-flutter-explore-routing-route-class?
+<a href="../routing/Route/deserialize.html">/sdk-for-flutter-explore-routing-route-deserialize</a>(<wbr/>Uint8List routeData)
+    → <a href="../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a>?
 
 </dt>
 <dd>
@@ -295,7 +294,7 @@ indicate that the route can be traversed faster than usual.
 
 </dd>
 <dt class="callable" id="serialize">
-/sdk-for-flutter-explore-routing-route-serialize(<wbr/>/sdk-for-flutter-explore-routing-route-class route)
+<a href="../routing/Route/serialize.html">/sdk-for-flutter-explore-routing-route-serialize</a>(<wbr/><a href="../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a> route)
     → Uint8List?
 
 </dt>
@@ -314,8 +313,8 @@ indicate that the route can be traversed faster than usual.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">Route class</li>
 </ol>
 <h5>routing library</h5>
@@ -332,5 +331,4 @@ indicate that the route can be traversed faster than usual.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

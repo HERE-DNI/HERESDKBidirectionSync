@@ -1,10 +1,9 @@
 ---
-title: "text property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-openinghours-text"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- text.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-openinghours-text"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-openinghours-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/OpeningHours-class.html">/sdk-for-flutter-explore-search-openinghours-class</a></li>
 <li class="self-crumb">text property</li>
 </ol>
 <div class="self-name">text</div>
@@ -58,9 +57,9 @@ text
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-openinghours-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/OpeningHours-class.html">/sdk-for-flutter-explore-search-openinghours-class</a></li>
 <li class="self-crumb">text property</li>
 </ol>
 <h5>OpeningHours class</h5>
@@ -77,5 +76,4 @@ text
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

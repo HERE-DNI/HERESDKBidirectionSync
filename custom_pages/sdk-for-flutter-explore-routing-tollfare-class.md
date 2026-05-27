@@ -1,10 +1,9 @@
 ---
-title: "TollFare class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-tollfare-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TollFare-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -31,8 +30,8 @@ slug: "sdk-for-flutter-explore-routing-tollfare-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">TollFare class</li>
 </ol>
 <div class="self-name">TollFare</div>
@@ -68,7 +67,7 @@ is only available for the Navigate license. If you're using the
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TollFare">
-/sdk-for-flutter-explore-routing-tollfare-tollfare(String currency, double price, List&lt;<wbr/>/sdk-for-flutter-explore-routing-paymentmethod&gt; paymentMethods, [/sdk-for-flutter-explore-core-timerule-class? timeRule = null, List&lt;<wbr/>String&gt; transponders = const [], /sdk-for-flutter-explore-routing-tollfarepass-class? pass = null])
+<a href="../routing/TollFare/TollFare.html">/sdk-for-flutter-explore-routing-tollfare-tollfare</a>(String currency, double price, List&lt;<wbr/><a href="../routing/PaymentMethod.html">/sdk-for-flutter-explore-routing-paymentmethod</a>&gt; paymentMethods, [<a href="../core/TimeRule-class.html">/sdk-for-flutter-explore-core-timerule-class</a>? timeRule = null, List&lt;<wbr/>String&gt; transponders = const [], <a href="../routing/TollFarePass-class.html">/sdk-for-flutter-explore-routing-tollfarepass-class</a>? pass = null])
 </dt>
 <dd>
           Creates a new instance.
@@ -79,7 +78,7 @@ is only available for the Navigate license. If you're using the
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="currency">
-/sdk-for-flutter-explore-routing-tollfare-currency
+<a href="../routing/TollFare/currency.html">/sdk-for-flutter-explore-routing-tollfare-currency</a>
 ↔ String
 </dt>
 <dd>
@@ -87,7 +86,7 @@ is only available for the Navigate license. If you're using the
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-tollfare-hashcode
+<a href="../routing/TollFare/hashCode.html">/sdk-for-flutter-explore-routing-tollfare-hashcode</a>
 → int
 </dt>
 <dd>
@@ -95,23 +94,23 @@ is only available for the Navigate license. If you're using the
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="pass">
-/sdk-for-flutter-explore-routing-tollfare-pass
-↔ /sdk-for-flutter-explore-routing-tollfarepass-class?
+<a href="../routing/TollFare/pass.html">/sdk-for-flutter-explore-routing-tollfare-pass</a>
+↔ <a href="../routing/TollFarePass-class.html">/sdk-for-flutter-explore-routing-tollfarepass-class</a>?
 </dt>
 <dd>
-  Specifies whether this /sdk-for-flutter-explore-routing-tollfare-class is a multi-travel pass, and its characteristics.
+  Specifies whether this <a href="../routing/TollFare-class.html">/sdk-for-flutter-explore-routing-tollfare-class</a> is a multi-travel pass, and its characteristics.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="paymentMethods">
-/sdk-for-flutter-explore-routing-tollfare-paymentmethods
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-paymentmethod&gt;
+<a href="../routing/TollFare/paymentMethods.html">/sdk-for-flutter-explore-routing-tollfare-paymentmethods</a>
+↔ List&lt;<wbr/><a href="../routing/PaymentMethod.html">/sdk-for-flutter-explore-routing-paymentmethod</a>&gt;
 </dt>
 <dd>
   The list of accepted payment methods like cash and credit card.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="price">
-/sdk-for-flutter-explore-routing-tollfare-price
+<a href="../routing/TollFare/price.html">/sdk-for-flutter-explore-routing-tollfare-price</a>
 ↔ double
 </dt>
 <dd>
@@ -119,7 +118,7 @@ is only available for the Navigate license. If you're using the
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-tollfare-runtimetype
+<a href="../routing/TollFare/runtimeType.html">/sdk-for-flutter-explore-routing-tollfare-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -127,8 +126,8 @@ is only available for the Navigate license. If you're using the
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="timeRule">
-/sdk-for-flutter-explore-routing-tollfare-timerule
-↔ /sdk-for-flutter-explore-core-timerule-class?
+<a href="../routing/TollFare/timeRule.html">/sdk-for-flutter-explore-routing-tollfare-timerule</a>
+↔ <a href="../core/TimeRule-class.html">/sdk-for-flutter-explore-core-timerule-class</a>?
 </dt>
 <dd>
   The time domain when this fare is valid.
@@ -138,7 +137,7 @@ the documentation available in the <a href="https://www.here.com/docs/bundle/rou
 <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="transponders">
-/sdk-for-flutter-explore-routing-tollfare-transponders
+<a href="../routing/TollFare/transponders.html">/sdk-for-flutter-explore-routing-tollfare-transponders</a>
 ↔ List&lt;<wbr/>String&gt;
 </dt>
 <dd>
@@ -151,7 +150,7 @@ the documentation available in the <a href="https://www.here.com/docs/bundle/rou
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-tollfare-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/TollFare/noSuchMethod.html">/sdk-for-flutter-explore-routing-tollfare-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -160,7 +159,7 @@ the documentation available in the <a href="https://www.here.com/docs/bundle/rou
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-tollfare-tostring(<wbr/>)
+<a href="../routing/TollFare/toString.html">/sdk-for-flutter-explore-routing-tollfare-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -174,7 +173,7 @@ the documentation available in the <a href="https://www.here.com/docs/bundle/rou
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-tollfare-operator-equals(<wbr/>Object other)
+<a href="../routing/TollFare/operator_equals.html">/sdk-for-flutter-explore-routing-tollfare-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -193,8 +192,8 @@ the documentation available in the <a href="https://www.here.com/docs/bundle/rou
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">TollFare class</li>
 </ol>
 <h5>routing library</h5>
@@ -211,5 +210,4 @@ the documentation available in the <a href="https://www.here.com/docs/bundle/rou
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

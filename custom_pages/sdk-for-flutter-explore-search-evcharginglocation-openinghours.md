@@ -1,10 +1,9 @@
 ---
-title: "openingHours property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evcharginglocation-openinghours"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- openingHours.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evcharginglocation-openinghours"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evcharginglocation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a></li>
 <li class="self-crumb">openingHours property</li>
 </ol>
 <div class="self-name">openingHours</div>
@@ -39,7 +38,7 @@ menu
 <h1>openingHours property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-search-evchargingopeninghours-class?
+<a href="../../search/EVChargingOpeningHours-class.html">/sdk-for-flutter-explore-search-evchargingopeninghours-class</a>?
 openingHours
 </section>
 <section class="desc markdown">
@@ -61,9 +60,9 @@ Gets the times when the EVSEs at the charging location can be accessed for charg
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evcharginglocation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a></li>
 <li class="self-crumb">openingHours property</li>
 </ol>
 <h5>EVChargingLocation class</h5>
@@ -80,5 +79,4 @@ Gets the times when the EVSEs at the charging location can be accessed for charg
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

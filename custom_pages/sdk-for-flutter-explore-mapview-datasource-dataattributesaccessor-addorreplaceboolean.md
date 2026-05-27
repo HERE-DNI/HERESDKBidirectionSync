@@ -1,10 +1,9 @@
 ---
-title: "addOrReplaceBoolean abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-addorreplaceboolean"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- addOrReplaceBoolean.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-addorre
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/DataAttributesAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-class</a></li>
 <li class="self-crumb">addOrReplaceBoolean abstract method</li>
 </ol>
 <div class="self-name">addOrReplaceBoolean</div>
@@ -69,9 +68,9 @@ addOrReplaceBoolean(<wbr/><ol class="parameter-list single-line"> <li>String nam
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/DataAttributesAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-class</a></li>
 <li class="self-crumb">addOrReplaceBoolean abstract method</li>
 </ol>
 <h5>DataAttributesAccessor class</h5>
@@ -88,5 +87,4 @@ addOrReplaceBoolean(<wbr/><ol class="parameter-list single-line"> <li>String nam
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

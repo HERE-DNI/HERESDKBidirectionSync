@@ -1,10 +1,9 @@
 ---
-title: "create static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-polygontiledatasource-create"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- create.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-polygontiledatasource-create"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-polygontiledatasource-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/PolygonTileDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-polygontiledatasource-class</a></li>
 <li class="self-crumb">create static method</li>
 </ol>
 <div class="self-name">create</div>
@@ -38,17 +37,17 @@ menu
 <div>
 <h1>create static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-datasource-polygontiledatasource-class
-create(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapcontext-class context, </li>
+<a href="../../mapview.datasource/PolygonTileDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-polygontiledatasource-class</a>
+create(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> context, </li>
 <li>String name, </li>
-<li>/sdk-for-flutter-explore-mapview-datasource-polygontilesource-class tileSource</li>
+<li><a href="../../mapview.datasource/PolygonTileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-polygontilesource-class</a> tileSource</li>
 </ol>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Creates a named /sdk-for-flutter-explore-mapview-datasource-polygontiledatasource-class in the given context over a given /sdk-for-flutter-explore-mapview-datasource-polygontilesource-class.</p>
+<p>Creates a named <a href="../../mapview.datasource/PolygonTileDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-polygontiledatasource-class</a> in the given context over a given <a href="../../mapview.datasource/PolygonTileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-polygontilesource-class</a>.</p>
 <ul>
 <li>
 <p><code>context</code> Map context to associate the data source with.</p>
@@ -60,7 +59,7 @@ create(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explor
 <p><code>tileSource</code> The source of tile data.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-datasource-polygontiledatasource-class. Instance of the data source created with given name and tile source.</p>
+<p>Returns <a href="../../mapview.datasource/PolygonTileDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-polygontiledatasource-class</a>. Instance of the data source created with given name and tile source.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -74,9 +73,9 @@ create(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explor
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-polygontiledatasource-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/PolygonTileDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-polygontiledatasource-class</a></li>
 <li class="self-crumb">create static method</li>
 </ol>
 <h5>PolygonTileDataSource class</h5>
@@ -93,5 +92,4 @@ create(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explor
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

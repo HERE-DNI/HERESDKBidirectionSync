@@ -1,10 +1,9 @@
 ---
-title: "vehicleRestrictions property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-traffic-trafficincident-vehiclerestrictions"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- vehicleRestrictions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficincident-vehiclerestrictions"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficincident-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficIncident-class.html">/sdk-for-flutter-explore-traffic-trafficincident-class</a></li>
 <li class="self-crumb">vehicleRestrictions property</li>
 </ol>
 <div class="self-name">vehicleRestrictions</div>
@@ -39,7 +38,7 @@ menu
 <h1>vehicleRestrictions property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-Map&lt;<wbr/>/sdk-for-flutter-explore-traffic-trafficincidentrestrictedvehiclecategory, /sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-class&gt;
+Map&lt;<wbr/><a href="../../traffic/TrafficIncidentRestrictedVehicleCategory.html">/sdk-for-flutter-explore-traffic-trafficincidentrestrictedvehiclecategory</a>, <a href="../../traffic/TrafficIncidentVehicleRestriction-class.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-class</a>&gt;
 vehicleRestrictions
 </section>
 <section class="desc markdown">
@@ -61,9 +60,9 @@ Gets the map of restricted vehicle categories to restrictions.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficincident-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficIncident-class.html">/sdk-for-flutter-explore-traffic-trafficincident-class</a></li>
 <li class="self-crumb">vehicleRestrictions property</li>
 </ol>
 <h5>TrafficIncident class</h5>
@@ -80,5 +79,4 @@ Gets the map of restricted vehicle categories to restrictions.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

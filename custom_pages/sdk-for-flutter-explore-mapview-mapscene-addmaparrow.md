@@ -1,10 +1,9 @@
 ---
-title: "addMapArrow abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapscene-addmaparrow"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- addMapArrow.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscene-addmaparrow"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
 <li class="self-crumb">addMapArrow abstract method</li>
 </ol>
 <div class="self-name">addMapArrow</div>
@@ -39,7 +38,7 @@ menu
 <h1>addMapArrow abstract method</h1></div>
 <section class="multi-line-signature">
 void
-addMapArrow(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-maparrow-class mapArrow</li>
+addMapArrow(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapArrow-class.html">/sdk-for-flutter-explore-mapview-maparrow-class</a> mapArrow</li>
 </ol>)
 
       
@@ -53,7 +52,7 @@ Due to technical limitations using the MapArrow API to add a very large number o
 Adding this many arrows has a negative impact on the performance leading to stuttering of the
 app and lower frame rates.
 To work around this limitation add only map items which are in the current camera viewport.
-A guide on how to achieve this can be found towards the end of the /sdk-for-flutter-explore-mapview-mapscene-class class doc.</p>
+A guide on how to achieve this can be found towards the end of the <a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a> class doc.</p>
 <ul>
 <li><code>mapArrow</code> The map arrow to be added to this map scene.</li>
 </ul>
@@ -70,9 +69,9 @@ A guide on how to achieve this can be found towards the end of the /sdk-for-flut
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
 <li class="self-crumb">addMapArrow abstract method</li>
 </ol>
 <h5>MapScene class</h5>
@@ -89,5 +88,4 @@ A guide on how to achieve this can be found towards the end of the /sdk-for-flut
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

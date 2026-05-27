@@ -1,10 +1,9 @@
 ---
-title: "purgeMemoryCaches abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-purgememorycaches"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- purgeMemoryCaches.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-purgememorycaches"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
 <li class="self-crumb">purgeMemoryCaches abstract method</li>
 </ol>
 <div class="self-name">purgeMemoryCaches</div>
@@ -39,7 +38,7 @@ menu
 <h1>purgeMemoryCaches abstract method</h1></div>
 <section class="multi-line-signature">
 void
-purgeMemoryCaches(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-engine-sdknativeenginepurgememorystrategy strategy</li>
+purgeMemoryCaches(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.engine/SDKNativeEnginePurgeMemoryStrategy.html">/sdk-for-flutter-explore-core-engine-sdknativeenginepurgememorystrategy</a> strategy</li>
 </ol>)
 
       
@@ -64,9 +63,9 @@ purgeMemoryCaches(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
 <li class="self-crumb">purgeMemoryCaches abstract method</li>
 </ol>
 <h5>SDKNativeEngine class</h5>
@@ -83,5 +82,4 @@ purgeMemoryCaches(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

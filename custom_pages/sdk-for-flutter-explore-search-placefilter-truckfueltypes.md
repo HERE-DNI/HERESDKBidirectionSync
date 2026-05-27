@@ -1,10 +1,9 @@
 ---
-title: "truckFuelTypes property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-placefilter-truckfueltypes"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- truckFuelTypes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-placefilter-truckfueltypes"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-placefilter-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/PlaceFilter-class.html">/sdk-for-flutter-explore-search-placefilter-class</a></li>
 <li class="self-crumb">truckFuelTypes property</li>
 </ol>
 <div class="self-name">truckFuelTypes</div>
@@ -39,13 +38,13 @@ menu
 <h1>truckFuelTypes property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-transport-truckfueltype&gt;
+        List&lt;<wbr/><a href="../../transport/TruckFuelType.html">/sdk-for-flutter-explore-transport-truckfueltype</a>&gt;
 truckFuelTypes
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>The list of /sdk-for-flutter-explore-transport-truckfueltype elements that should be used to find only
-the /sdk-for-flutter-explore-search-fuelstation-class search results that support all of them.
+<p>The list of <a href="../../transport/TruckFuelType.html">/sdk-for-flutter-explore-transport-truckfueltype</a> elements that should be used to find only
+the <a href="../../search/FuelStation-class.html">/sdk-for-flutter-explore-search-fuelstation-class</a> search results that support all of them.
 Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code> (only available for the Navigate license).</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
@@ -62,9 +61,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-placefilter-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/PlaceFilter-class.html">/sdk-for-flutter-explore-search-placefilter-class</a></li>
 <li class="self-crumb">truckFuelTypes property</li>
 </ol>
 <h5>PlaceFilter class</h5>
@@ -81,5 +80,4 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "EVChargingStation class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-evchargingstation-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVChargingStation-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -43,8 +42,8 @@ slug: "sdk-for-flutter-explore-search-evchargingstation-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVChargingStation class</li>
 </ol>
 <div class="self-name">EVChargingStation</div>
@@ -70,17 +69,17 @@ menu
 <section class="desc markdown">
 <p>Group of connectors for electric vehicles (EVs), defined by a common charging connector type and
 maximum power level.</p>
-<p>Use /sdk-for-flutter-explore-search-placecategory-businessandservicesevchargingstation to find stations.
+<p>Use <a href="../search/PlaceCategory/businessAndServicesEvChargingStation.html">/sdk-for-flutter-explore-search-placecategory-businessandservicesevchargingstation</a> to find stations.
 In the <code>Details</code> of a <code>Place</code> result you can find the list of found pools containing stations,
 if any.</p>
-<p>For offline EV rich attributes, enable /sdk-for-flutter-explore-core-engine-layerconfigurationfeature
-in /sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration.</p>
+<p>For offline EV rich attributes, enable <a href="../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a>
+in <a href="../core.engine/SDKOptions/layerConfiguration.html">/sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration</a>.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVChargingStation.withDefaults">
-/sdk-for-flutter-explore-search-evchargingstation-evchargingstation-withdefaults()
+<a href="../search/EVChargingStation/EVChargingStation.withDefaults.html">/sdk-for-flutter-explore-search-evchargingstation-evchargingstation-withdefaults</a>()
 </dt>
 <dd>
           Creates a new instance.
@@ -91,7 +90,7 @@ in /sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="availableConnectorCount">
-/sdk-for-flutter-explore-search-evchargingstation-availableconnectorcount
+<a href="../search/EVChargingStation/availableConnectorCount.html">/sdk-for-flutter-explore-search-evchargingstation-availableconnectorcount</a>
 ↔ int?
 </dt>
 <dd>
@@ -100,7 +99,7 @@ This field is always <code>null</code> for offline search using the <code>Offlin
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="chargingMode">
-/sdk-for-flutter-explore-search-evchargingstation-chargingmode
+<a href="../search/EVChargingStation/chargingMode.html">/sdk-for-flutter-explore-search-evchargingstation-chargingmode</a>
 ↔ String?
 </dt>
 <dd>
@@ -110,7 +109,7 @@ This field can be <code>null</code> if data is unavailable.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="connectorCount">
-/sdk-for-flutter-explore-search-evchargingstation-connectorcount
+<a href="../search/EVChargingStation/connectorCount.html">/sdk-for-flutter-explore-search-evchargingstation-connectorcount</a>
 ↔ int?
 </dt>
 <dd>
@@ -119,7 +118,7 @@ This field can be <code>null</code> if data is unavailable.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="connectorTypeId">
-/sdk-for-flutter-explore-search-evchargingstation-connectortypeid
+<a href="../search/EVChargingStation/connectorTypeId.html">/sdk-for-flutter-explore-search-evchargingstation-connectortypeid</a>
 ↔ String?
 </dt>
 <dd>
@@ -130,7 +129,7 @@ This field is always <code>null</code> for offline search using the <code>Offlin
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="connectorTypeName">
-/sdk-for-flutter-explore-search-evchargingstation-connectortypename
+<a href="../search/EVChargingStation/connectorTypeName.html">/sdk-for-flutter-explore-search-evchargingstation-connectortypename</a>
 ↔ String?
 </dt>
 <dd>
@@ -142,7 +141,7 @@ This field can be <code>null</code> if data is unavailable.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="currentRangeInAmperes">
-/sdk-for-flutter-explore-search-evchargingstation-currentrangeinamperes
+<a href="../search/EVChargingStation/currentRangeInAmperes.html">/sdk-for-flutter-explore-search-evchargingstation-currentrangeinamperes</a>
 ↔ String?
 </dt>
 <dd>
@@ -153,7 +152,7 @@ This field can be <code>null</code> if data is unavailable.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hasFixedCable">
-/sdk-for-flutter-explore-search-evchargingstation-hasfixedcable
+<a href="../search/EVChargingStation/hasFixedCable.html">/sdk-for-flutter-explore-search-evchargingstation-hasfixedcable</a>
 ↔ bool?
 </dt>
 <dd>
@@ -163,7 +162,7 @@ This field can be <code>null</code> if data is unavailable.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-evchargingstation-hashcode
+<a href="../search/EVChargingStation/hashCode.html">/sdk-for-flutter-explore-search-evchargingstation-hashcode</a>
 → int
 </dt>
 <dd>
@@ -171,7 +170,7 @@ This field can be <code>null</code> if data is unavailable.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="lastUpdated">
-/sdk-for-flutter-explore-search-evchargingstation-lastupdated
+<a href="../search/EVChargingStation/lastUpdated.html">/sdk-for-flutter-explore-search-evchargingstation-lastupdated</a>
 ↔ DateTime?
 </dt>
 <dd>
@@ -180,7 +179,7 @@ This field is always <code>null</code> for offline search using the <code>Offlin
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxPowerInKilowatts">
-/sdk-for-flutter-explore-search-evchargingstation-maxpowerinkilowatts
+<a href="../search/EVChargingStation/maxPowerInKilowatts.html">/sdk-for-flutter-explore-search-evchargingstation-maxpowerinkilowatts</a>
 ↔ double?
 </dt>
 <dd>
@@ -189,7 +188,7 @@ This field can be <code>null</code> if data is unavailable.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="occupiedConnectorCount">
-/sdk-for-flutter-explore-search-evchargingstation-occupiedconnectorcount
+<a href="../search/EVChargingStation/occupiedConnectorCount.html">/sdk-for-flutter-explore-search-evchargingstation-occupiedconnectorcount</a>
 ↔ int?
 </dt>
 <dd>
@@ -198,7 +197,7 @@ This field is always <code>null</code> for offline search using the <code>Offlin
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="outOfServiceConnectorCount">
-/sdk-for-flutter-explore-search-evchargingstation-outofserviceconnectorcount
+<a href="../search/EVChargingStation/outOfServiceConnectorCount.html">/sdk-for-flutter-explore-search-evchargingstation-outofserviceconnectorcount</a>
 ↔ int?
 </dt>
 <dd>
@@ -207,7 +206,7 @@ This field is always <code>null</code> for offline search using the <code>Offlin
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="phaseCount">
-/sdk-for-flutter-explore-search-evchargingstation-phasecount
+<a href="../search/EVChargingStation/phaseCount.html">/sdk-for-flutter-explore-search-evchargingstation-phasecount</a>
 ↔ int?
 </dt>
 <dd>
@@ -216,7 +215,7 @@ This field can be <code>null</code> if data is unavailable.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="physicalReference">
-/sdk-for-flutter-explore-search-evchargingstation-physicalreference
+<a href="../search/EVChargingStation/physicalReference.html">/sdk-for-flutter-explore-search-evchargingstation-physicalreference</a>
 ↔ String?
 </dt>
 <dd>
@@ -226,7 +225,7 @@ This field can be <code>null</code> if data is unavailable.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="powerFeedTypeId">
-/sdk-for-flutter-explore-search-evchargingstation-powerfeedtypeid
+<a href="../search/EVChargingStation/powerFeedTypeId.html">/sdk-for-flutter-explore-search-evchargingstation-powerfeedtypeid</a>
 ↔ String?
 </dt>
 <dd>
@@ -237,7 +236,7 @@ This field is always <code>null</code> for offline search using the <code>Offlin
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="powerFeedTypeName">
-/sdk-for-flutter-explore-search-evchargingstation-powerfeedtypename
+<a href="../search/EVChargingStation/powerFeedTypeName.html">/sdk-for-flutter-explore-search-evchargingstation-powerfeedtypename</a>
 ↔ String?
 </dt>
 <dd>
@@ -250,7 +249,7 @@ This field can be <code>null</code> if data is unavailable.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="reservedConnectorCount">
-/sdk-for-flutter-explore-search-evchargingstation-reservedconnectorcount
+<a href="../search/EVChargingStation/reservedConnectorCount.html">/sdk-for-flutter-explore-search-evchargingstation-reservedconnectorcount</a>
 ↔ int?
 </dt>
 <dd>
@@ -259,7 +258,7 @@ This field is always <code>null</code> for offline search using the <code>Offlin
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-evchargingstation-runtimetype
+<a href="../search/EVChargingStation/runtimeType.html">/sdk-for-flutter-explore-search-evchargingstation-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -267,7 +266,7 @@ This field is always <code>null</code> for offline search using the <code>Offlin
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="supplierName">
-/sdk-for-flutter-explore-search-evchargingstation-suppliername
+<a href="../search/EVChargingStation/supplierName.html">/sdk-for-flutter-explore-search-evchargingstation-suppliername</a>
 ↔ String?
 </dt>
 <dd>
@@ -276,7 +275,7 @@ This field is always <code>null</code> for offline search using the <code>Offlin
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="voltageRangeInVolts">
-/sdk-for-flutter-explore-search-evchargingstation-voltagerangeinvolts
+<a href="../search/EVChargingStation/voltageRangeInVolts.html">/sdk-for-flutter-explore-search-evchargingstation-voltagerangeinvolts</a>
 ↔ String?
 </dt>
 <dd>
@@ -292,7 +291,7 @@ This field can be <code>null</code> if data is unavailable.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-evchargingstation-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/EVChargingStation/noSuchMethod.html">/sdk-for-flutter-explore-search-evchargingstation-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -301,7 +300,7 @@ This field can be <code>null</code> if data is unavailable.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-evchargingstation-tostring(<wbr/>)
+<a href="../search/EVChargingStation/toString.html">/sdk-for-flutter-explore-search-evchargingstation-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -315,7 +314,7 @@ This field can be <code>null</code> if data is unavailable.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-evchargingstation-operator-equals(<wbr/>Object other)
+<a href="../search/EVChargingStation/operator_equals.html">/sdk-for-flutter-explore-search-evchargingstation-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -334,8 +333,8 @@ This field can be <code>null</code> if data is unavailable.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVChargingStation class</li>
 </ol>
 <h5>search library</h5>
@@ -352,5 +351,4 @@ This field can be <code>null</code> if data is unavailable.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

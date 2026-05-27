@@ -1,10 +1,9 @@
 ---
-title: "withDisabledFeatures abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-withdisabledfeatures"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withDisabledFeatures.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-withdisabledfe
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapSceneLoadOptionsBuilder-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</a></li>
 <li class="self-crumb">withDisabledFeatures abstract method</li>
 </ol>
 <div class="self-name">withDisabledFeatures</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>withDisabledFeatures abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class
+<a href="../../mapview/MapSceneLoadOptionsBuilder-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</a>
 withDisabledFeatures(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>String&gt; disabledFeatures</li>
 </ol>)
 
@@ -50,7 +49,7 @@ withDisabledFeatures(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<
 <ul>
 <li><code>disabledFeatures</code> Features to disable.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class. This class instance.</p>
+<p>Returns <a href="../../mapview/MapSceneLoadOptionsBuilder-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</a>. This class instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +63,9 @@ withDisabledFeatures(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapSceneLoadOptionsBuilder-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</a></li>
 <li class="self-crumb">withDisabledFeatures abstract method</li>
 </ol>
 <h5>MapSceneLoadOptionsBuilder class</h5>
@@ -83,5 +82,4 @@ withDisabledFeatures(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

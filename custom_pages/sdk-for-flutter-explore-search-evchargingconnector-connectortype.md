@@ -1,10 +1,9 @@
 ---
-title: "connectorType property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evchargingconnector-connectortype"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- connectorType.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evchargingconnector-connectortype"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingconnector-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingConnector-class.html">/sdk-for-flutter-explore-search-evchargingconnector-class</a></li>
 <li class="self-crumb">connectorType property</li>
 </ol>
 <div class="self-name">connectorType</div>
@@ -45,7 +44,7 @@ menu
 </section>
 <section class="desc markdown">
 <p>Standardized type of the connector.
-Should be one of the constants defined in /sdk-for-flutter-explore-ev-evchargingconnectortype-class.</p>
+Should be one of the constants defined in <a href="../../ev/EVChargingConnectorType-class.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-class</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +58,9 @@ Should be one of the constants defined in /sdk-for-flutter-explore-ev-evcharging
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingconnector-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingConnector-class.html">/sdk-for-flutter-explore-search-evchargingconnector-class</a></li>
 <li class="self-crumb">connectorType property</li>
 </ol>
 <h5>EVChargingConnector class</h5>
@@ -78,5 +77,4 @@ Should be one of the constants defined in /sdk-for-flutter-explore-ev-evcharging
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

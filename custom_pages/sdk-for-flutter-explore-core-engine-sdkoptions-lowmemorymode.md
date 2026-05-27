@@ -1,10 +1,9 @@
 ---
-title: "lowMemoryMode property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-sdkoptions-lowmemorymode"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- lowMemoryMode.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdkoptions-lowmemorymode"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
 <li class="self-crumb">lowMemoryMode property</li>
 </ol>
 <div class="self-name">lowMemoryMode</div>
@@ -47,7 +46,7 @@ menu
 <p>If an application runs in a memory-constrained environment, enable this option to reduce the HERE SDK's memory footprint.
 When set to <code>true</code> configures internal memory caches to consume less memory.
 Reduction in cache sizes also reduces performance of the HERE SDK.
-In order to release memory occupied by internal caches see /sdk-for-flutter-explore-core-engine-sdknativeengine-purgememorycaches.</p>
+In order to release memory occupied by internal caches see <a href="../../core.engine/SDKNativeEngine/purgeMemoryCaches.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-purgememorycaches</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -61,9 +60,9 @@ In order to release memory occupied by internal caches see /sdk-for-flutter-expl
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
 <li class="self-crumb">lowMemoryMode property</li>
 </ol>
 <h5>SDKOptions class</h5>
@@ -80,5 +79,4 @@ In order to release memory occupied by internal caches see /sdk-for-flutter-expl
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

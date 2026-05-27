@@ -1,10 +1,9 @@
 ---
-title: "id property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-suggestion-id"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- id.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-suggestion-id"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-suggestion-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/Suggestion-class.html">/sdk-for-flutter-explore-search-suggestion-class</a></li>
 <li class="self-crumb">id property</li>
 </ol>
 <div class="self-name">id</div>
@@ -44,12 +43,12 @@ id
 </section>
 <section class="desc markdown">
 <p>The unique id of suggested item. It can be used to query further information.
-For online search, suggestion of type /sdk-for-flutter-explore-search-suggestiontype
+For online search, suggestion of type <a href="../../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a>
 will have Suggestion.id same as Place.id.
-For offline search, only suggestion of type /sdk-for-flutter-explore-search-suggestiontype,
+For offline search, only suggestion of type <a href="../../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a>,
 will have this property filled with identifier number of an associated chain.
 For example, the chain ID "8778" corresponds to the chain name "ABC Shop".
-For other types, /sdk-for-flutter-explore-search-suggestiontype and /sdk-for-flutter-explore-search-suggestiontype
+For other types, <a href="../../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a> and <a href="../../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a>
 this property will be null.
 Gets the suggested item id.</p>
 </section>
@@ -66,9 +65,9 @@ Gets the suggested item id.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-suggestion-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/Suggestion-class.html">/sdk-for-flutter-explore-search-suggestion-class</a></li>
 <li class="self-crumb">id property</li>
 </ol>
 <h5>Suggestion class</h5>
@@ -85,5 +84,4 @@ Gets the suggested item id.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "RasterDataSourceProviderConfiguration.Default constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-rasterdatasourceproviderconfiguration-default"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- RasterDataSourceProviderConfiguration.Default.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfig
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/RasterDataSourceProviderConfiguration-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-class</a></li>
 <li class="self-crumb">RasterDataSourceProviderConfiguration.Default constructor</li>
 </ol>
 <div class="self-name">RasterDataSourceProviderConfiguration.Default</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>RasterDataSourceProviderConfiguration.Default constructor</h1></div>
 <section class="multi-line-signature">
-RasterDataSourceProviderConfiguration.Default(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback urlProvider, </li>
-<li>/sdk-for-flutter-explore-mapview-datasource-tilingscheme tilingScheme, </li>
+RasterDataSourceProviderConfiguration.Default(<wbr/><ol class="parameter-list"> <li><a href="../../mapview.datasource/TileUrlProviderCallback.html">/sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback</a> urlProvider, </li>
+<li><a href="../../mapview.datasource/TilingScheme.html">/sdk-for-flutter-explore-mapview-datasource-tilingscheme</a> tilingScheme, </li>
 <li>List&lt;<wbr/>int&gt; storageLevels, </li>
 <li>bool hasAlphaChannel, </li>
 <li>Map&lt;<wbr/>String, String&gt;? headers, </li>
@@ -75,9 +74,9 @@ appropriate z value of the tile key will be determined.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/RasterDataSourceProviderConfiguration-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-class</a></li>
 <li class="self-crumb">RasterDataSourceProviderConfiguration.Default constructor</li>
 </ol>
 <h5>RasterDataSourceProviderConfiguration class</h5>
@@ -94,5 +93,4 @@ appropriate z value of the tile key will be determined.</li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

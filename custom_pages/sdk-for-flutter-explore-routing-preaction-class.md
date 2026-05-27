@@ -1,10 +1,9 @@
 ---
-title: "PreAction class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-preaction-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PreAction-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-routing-preaction-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">PreAction class</li>
 </ol>
 <div class="self-name">PreAction</div>
@@ -59,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PreAction">
-/sdk-for-flutter-explore-routing-preaction-preaction()
+<a href="../routing/PreAction/PreAction.html">/sdk-for-flutter-explore-routing-preaction-preaction</a>()
 </dt>
 <dd>
 </dd>
@@ -69,16 +68,16 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="action">
-/sdk-for-flutter-explore-routing-preaction-action
-↔ /sdk-for-flutter-explore-routing-preactiontype
+<a href="../routing/PreAction/action.html">/sdk-for-flutter-explore-routing-preaction-action</a>
+↔ <a href="../routing/PreActionType.html">/sdk-for-flutter-explore-routing-preactiontype</a>
 </dt>
 <dd>
   Type of this action.
-Defaults to /sdk-for-flutter-explore-routing-preactiontype.
+Defaults to <a href="../routing/PreActionType.html">/sdk-for-flutter-explore-routing-preactiontype</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="duration">
-/sdk-for-flutter-explore-routing-preaction-duration
+<a href="../routing/PreAction/duration.html">/sdk-for-flutter-explore-routing-preaction-duration</a>
 ↔ Duration
 </dt>
 <dd>
@@ -87,7 +86,7 @@ Defaults to 0 seconds.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-preaction-hashcode
+<a href="../routing/PreAction/hashCode.html">/sdk-for-flutter-explore-routing-preaction-hashcode</a>
 → int
 </dt>
 <dd>
@@ -95,7 +94,7 @@ Defaults to 0 seconds.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-preaction-runtimetype
+<a href="../routing/PreAction/runtimeType.html">/sdk-for-flutter-explore-routing-preaction-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -108,7 +107,7 @@ Defaults to 0 seconds.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-preaction-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/PreAction/noSuchMethod.html">/sdk-for-flutter-explore-routing-preaction-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -117,7 +116,7 @@ Defaults to 0 seconds.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-preaction-tostring(<wbr/>)
+<a href="../routing/PreAction/toString.html">/sdk-for-flutter-explore-routing-preaction-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -131,7 +130,7 @@ Defaults to 0 seconds.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-preaction-operator-equals(<wbr/>Object other)
+<a href="../routing/PreAction/operator_equals.html">/sdk-for-flutter-explore-routing-preaction-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -150,8 +149,8 @@ Defaults to 0 seconds.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">PreAction class</li>
 </ol>
 <h5>routing library</h5>
@@ -168,5 +167,4 @@ Defaults to 0 seconds.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

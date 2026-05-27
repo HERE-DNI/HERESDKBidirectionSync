@@ -1,10 +1,9 @@
 ---
-title: "filter property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-categoryquery-filter"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- filter.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-categoryquery-filter"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-categoryquery-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/CategoryQuery-class.html">/sdk-for-flutter-explore-search-categoryquery-class</a></li>
 <li class="self-crumb">filter property</li>
 </ol>
 <div class="self-name">filter</div>
@@ -61,9 +60,9 @@ and results will be based on other parameters provided.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-categoryquery-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/CategoryQuery-class.html">/sdk-for-flutter-explore-search-categoryquery-class</a></li>
 <li class="self-crumb">filter property</li>
 </ol>
 <h5>CategoryQuery class</h5>
@@ -80,5 +79,4 @@ and results will be based on other parameters provided.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "withOccupancy abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withoccupancy"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withOccupancy.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withoccu
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a></li>
 <li class="self-crumb">withOccupancy abstract method</li>
 </ol>
 <div class="self-name">withOccupancy</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>withOccupancy abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
+<a href="../../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 withOccupancy(<wbr/><ol class="parameter-list single-line"> <li>int occupancy</li>
 </ol>)
 
@@ -50,7 +49,7 @@ withOccupancy(<wbr/><ol class="parameter-list single-line"> <li>int occupancy</l
 <ul>
 <li><code>occupancy</code> The vehicle occupants number.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class. The /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class object with the vehicle occupants number set to the new value.</p>
+<p>Returns <a href="../../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>. The <a href="../../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a> object with the vehicle occupants number set to the new value.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +63,9 @@ withOccupancy(<wbr/><ol class="parameter-list single-line"> <li>int occupancy</l
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a></li>
 <li class="self-crumb">withOccupancy abstract method</li>
 </ol>
 <h5>VehicleSpecificationCarBuilder class</h5>
@@ -83,5 +82,4 @@ withOccupancy(<wbr/><ol class="parameter-list single-line"> <li>int occupancy</l
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

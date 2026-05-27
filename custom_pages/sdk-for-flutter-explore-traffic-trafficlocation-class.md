@@ -1,10 +1,9 @@
 ---
-title: "TrafficLocation class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-traffic-trafficlocation-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TrafficLocation-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +28,8 @@ slug: "sdk-for-flutter-explore-traffic-trafficlocation-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
 <li class="self-crumb">TrafficLocation class</li>
 </ol>
 <div class="self-name">TrafficLocation</div>
@@ -60,7 +59,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TrafficLocation">
-/sdk-for-flutter-explore-traffic-trafficlocation-trafficlocation(/sdk-for-flutter-explore-core-geopolyline-class polyline, List&lt;<wbr/>/sdk-for-flutter-explore-core-geopolyline-class&gt; additionalPolylines, int lengthInMeters)
+<a href="../traffic/TrafficLocation/TrafficLocation.html">/sdk-for-flutter-explore-traffic-trafficlocation-trafficlocation</a>(<a href="../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a> polyline, List&lt;<wbr/><a href="../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a>&gt; additionalPolylines, int lengthInMeters)
 </dt>
 <dd>
           Creates a new instance.
@@ -71,8 +70,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="additionalPolylines">
-/sdk-for-flutter-explore-traffic-trafficlocation-additionalpolylines
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-core-geopolyline-class&gt;
+<a href="../traffic/TrafficLocation/additionalPolylines.html">/sdk-for-flutter-explore-traffic-trafficlocation-additionalpolylines</a>
+↔ List&lt;<wbr/><a href="../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a>&gt;
 </dt>
 <dd>
   List of polylines that were not included in continuous polyline.
@@ -80,20 +79,20 @@ Use this to fill any gaps in the continuous polyline.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="description">
-/sdk-for-flutter-explore-traffic-trafficlocation-description
+<a href="../traffic/TrafficLocation/description.html">/sdk-for-flutter-explore-traffic-trafficlocation-description</a>
 ↔ String
 </dt>
 <dd>
   The description of the location.
 In general, the language can't be bound to the description.
 Usually, the language is one of the local languages of the incident region.
-Note: A localizable description of the incident is part of /sdk-for-flutter-explore-traffic-trafficincidentbase-description.
+Note: A localizable description of the incident is part of <a href="../traffic/TrafficIncidentBase/description.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-description</a>.
 This description describes only the location where the incident occurred.
 Defaults to an empty string.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-traffic-trafficlocation-hashcode
+<a href="../traffic/TrafficLocation/hashCode.html">/sdk-for-flutter-explore-traffic-trafficlocation-hashcode</a>
 → int
 </dt>
 <dd>
@@ -101,7 +100,7 @@ Defaults to an empty string.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="lengthInMeters">
-/sdk-for-flutter-explore-traffic-trafficlocation-lengthinmeters
+<a href="../traffic/TrafficLocation/lengthInMeters.html">/sdk-for-flutter-explore-traffic-trafficlocation-lengthinmeters</a>
 ↔ int
 </dt>
 <dd>
@@ -110,8 +109,8 @@ The length can be 0 only if the incident supplier has provided incomplete data.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="polyline">
-/sdk-for-flutter-explore-traffic-trafficlocation-polyline
-↔ /sdk-for-flutter-explore-core-geopolyline-class
+<a href="../traffic/TrafficLocation/polyline.html">/sdk-for-flutter-explore-traffic-trafficlocation-polyline</a>
+↔ <a href="../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a>
 </dt>
 <dd>
   The polyline representing the traffic entity shape.
@@ -120,7 +119,7 @@ All others following the gap are present in the <code>additional_polylines</code
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-traffic-trafficlocation-runtimetype
+<a href="../traffic/TrafficLocation/runtimeType.html">/sdk-for-flutter-explore-traffic-trafficlocation-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -133,7 +132,7 @@ All others following the gap are present in the <code>additional_polylines</code
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-traffic-trafficlocation-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../traffic/TrafficLocation/noSuchMethod.html">/sdk-for-flutter-explore-traffic-trafficlocation-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -142,7 +141,7 @@ All others following the gap are present in the <code>additional_polylines</code
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-traffic-trafficlocation-tostring(<wbr/>)
+<a href="../traffic/TrafficLocation/toString.html">/sdk-for-flutter-explore-traffic-trafficlocation-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -156,7 +155,7 @@ All others following the gap are present in the <code>additional_polylines</code
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-traffic-trafficlocation-operator-equals(<wbr/>Object other)
+<a href="../traffic/TrafficLocation/operator_equals.html">/sdk-for-flutter-explore-traffic-trafficlocation-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -175,8 +174,8 @@ All others following the gap are present in the <code>additional_polylines</code
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
 <li class="self-crumb">TrafficLocation class</li>
 </ol>
 <h5>traffic library</h5>
@@ -193,5 +192,4 @@ All others following the gap are present in the <code>additional_polylines</code
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

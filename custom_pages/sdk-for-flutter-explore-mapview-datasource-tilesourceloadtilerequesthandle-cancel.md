@@ -1,10 +1,9 @@
 ---
-title: "cancel abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-cancel"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- cancel.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandl
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/TileSourceLoadTileRequestHandle-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class</a></li>
 <li class="self-crumb">cancel abstract method</li>
 </ol>
 <div class="self-name">cancel</div>
@@ -60,9 +59,9 @@ cancel(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/TileSourceLoadTileRequestHandle-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class</a></li>
 <li class="self-crumb">cancel abstract method</li>
 </ol>
 <h5>TileSourceLoadTileRequestHandle class</h5>
@@ -79,5 +78,4 @@ cancel(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

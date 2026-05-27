@@ -1,10 +1,9 @@
 ---
-title: "domesticA property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-ev-evchargingconnectortype-domestica"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- domesticA.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-ev-evchargingconnectortype-domestica"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-ev-ev-library</li>
-<li>/sdk-for-flutter-explore-ev-evchargingconnectortype-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../ev/ev-library.html">/sdk-for-flutter-explore-ev-ev-library</a></li>
+<li><a href="../../ev/EVChargingConnectorType-class.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-class</a></li>
 <li class="self-crumb">domesticA property</li>
 </ol>
 <div class="self-name">domesticA</div>
@@ -58,9 +57,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-ev-ev-library</li>
-<li>/sdk-for-flutter-explore-ev-evchargingconnectortype-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../ev/ev-library.html">/sdk-for-flutter-explore-ev-ev-library</a></li>
+<li><a href="../../ev/EVChargingConnectorType-class.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-class</a></li>
 <li class="self-crumb">domesticA property</li>
 </ol>
 <h5>EVChargingConnectorType class</h5>
@@ -77,5 +76,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "ChargingConnectorAttributes constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-chargingconnectorattributes-chargingconnectorattributes"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- ChargingConnectorAttributes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-chargingconnectorattributes-chargingconne
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-chargingconnectorattributes-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/ChargingConnectorAttributes-class.html">/sdk-for-flutter-explore-routing-chargingconnectorattributes-class</a></li>
 <li class="self-crumb">ChargingConnectorAttributes constructor</li>
 </ol>
 <div class="self-name">ChargingConnectorAttributes</div>
@@ -41,8 +40,8 @@ menu
 ChargingConnectorAttributes(<wbr/><ol class="parameter-list"> <li>double powerInKilowatts, </li>
 <li>double? currentInAmperes, </li>
 <li>double? voltageInVolts, </li>
-<li>/sdk-for-flutter-explore-routing-chargingsupplytype? supplyType, </li>
-<li>/sdk-for-flutter-explore-routing-chargingconnectortype? connectorType, </li>
+<li><a href="../../routing/ChargingSupplyType.html">/sdk-for-flutter-explore-routing-chargingsupplytype</a>? supplyType, </li>
+<li><a href="../../routing/ChargingConnectorType.html">/sdk-for-flutter-explore-routing-chargingconnectortype</a>? connectorType, </li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -67,9 +66,9 @@ ChargingConnectorAttributes(<wbr/><ol class="parameter-list"> <li>double powerIn
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-chargingconnectorattributes-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/ChargingConnectorAttributes-class.html">/sdk-for-flutter-explore-routing-chargingconnectorattributes-class</a></li>
 <li class="self-crumb">ChargingConnectorAttributes constructor</li>
 </ol>
 <h5>ChargingConnectorAttributes class</h5>
@@ -86,5 +85,4 @@ ChargingConnectorAttributes(<wbr/><ol class="parameter-list"> <li>double powerIn
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "PointDataSourceBuilder class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PointDataSourceBuilder-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +28,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">PointDataSourceBuilder class</li>
 </ol>
 <div class="self-name">PointDataSourceBuilder</div>
@@ -62,7 +61,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PointDataSourceBuilder">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-pointdatasourcebuilder(/sdk-for-flutter-explore-mapview-mapcontext-class context)
+<a href="../mapview.datasource/PointDataSourceBuilder/PointDataSourceBuilder.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-pointdatasourcebuilder</a>(<a href="../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> context)
 </dt>
 <dd>
           Creates a data source builder instance in the given context.
@@ -74,7 +73,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-hashcode
+<a href="../mapview.datasource/PointDataSourceBuilder/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -82,7 +81,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-runtimetype
+<a href="../mapview.datasource/PointDataSourceBuilder/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -95,9 +94,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="build">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-build(<wbr/>)
-    → /sdk-for-flutter-explore-mapview-datasource-pointdatasource-class
-
+<a href="../mapview.datasource/PointDataSourceBuilder/build.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-build</a>(<wbr/>)
+    → <a href="../mapview.datasource/PointDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-class</a>
 </dt>
 <dd>
   Builds a PointDataSource instance and resets the builder instance.
@@ -105,7 +103,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview.datasource/PointDataSourceBuilder/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -114,7 +112,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-tostring(<wbr/>)
+<a href="../mapview.datasource/PointDataSourceBuilder/toString.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -123,9 +121,8 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="withName">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-withname(<wbr/>String dataSourceName)
-    → /sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class
-
+<a href="../mapview.datasource/PointDataSourceBuilder/withName.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-withname</a>(<wbr/>String dataSourceName)
+    → <a href="../mapview.datasource/PointDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class</a>
 </dt>
 <dd>
   Configures the builder to use the given name for data source.
@@ -133,9 +130,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="withPoint">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-withpoint(<wbr/>/sdk-for-flutter-explore-mapview-datasource-pointdata-class point)
-    → /sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class
-
+<a href="../mapview.datasource/PointDataSourceBuilder/withPoint.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-withpoint</a>(<wbr/><a href="../mapview.datasource/PointData-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdata-class</a> point)
+    → <a href="../mapview.datasource/PointDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class</a>
 </dt>
 <dd>
   Configures the builder to insert the given point in the data source.
@@ -143,9 +139,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="withPoints">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-withpoints(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-datasource-pointdata-class&gt; points)
-    → /sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class
-
+<a href="../mapview.datasource/PointDataSourceBuilder/withPoints.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-withpoints</a>(<wbr/>List&lt;<wbr/><a href="../mapview.datasource/PointData-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdata-class</a>&gt; points)
+    → <a href="../mapview.datasource/PointDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-class</a>
 </dt>
 <dd>
   Configures the builder to insert the given points in the data source.
@@ -158,7 +153,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-operator-equals(<wbr/>Object other)
+<a href="../mapview.datasource/PointDataSourceBuilder/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcebuilder-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -176,8 +171,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">PointDataSourceBuilder class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -194,5 +189,4 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

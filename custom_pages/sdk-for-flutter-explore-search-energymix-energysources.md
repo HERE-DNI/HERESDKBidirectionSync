@@ -1,10 +1,9 @@
 ---
-title: "energySources property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-energymix-energysources"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- energySources.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-energymix-energysources"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-energymix-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EnergyMix-class.html">/sdk-for-flutter-explore-search-energymix-class</a></li>
 <li class="self-crumb">energySources property</li>
 </ol>
 <div class="self-name">energySources</div>
@@ -39,7 +38,7 @@ menu
 <h1>energySources property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-search-energysource-class&gt;
+        List&lt;<wbr/><a href="../../search/EnergySource-class.html">/sdk-for-flutter-explore-search-energysource-class</a>&gt;
 energySources
 <div class="features">getter/setter pair</div>
 </section>
@@ -59,9 +58,9 @@ The sum of the percentages over the energy sources should be 100%.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-energymix-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EnergyMix-class.html">/sdk-for-flutter-explore-search-energymix-class</a></li>
 <li class="self-crumb">energySources property</li>
 </ol>
 <h5>EnergyMix class</h5>
@@ -78,5 +77,4 @@ The sum of the percentages over the energy sources should be 100%.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

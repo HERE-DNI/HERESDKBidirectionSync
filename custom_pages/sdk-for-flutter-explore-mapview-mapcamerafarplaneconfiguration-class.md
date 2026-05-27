@@ -1,10 +1,9 @@
 ---
-title: "MapCameraFarPlaneConfiguration class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mapcamerafarplaneconfiguration-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapCameraFarPlaneConfiguration-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-mapview-mapcamerafarplaneconfiguration-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapCameraFarPlaneConfiguration class</li>
 </ol>
 <div class="self-name">MapCameraFarPlaneConfiguration</div>
@@ -63,7 +62,7 @@ distanceToTargetInMeters * distanceFactor
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapCameraFarPlaneConfiguration">
-/sdk-for-flutter-explore-mapview-mapcamerafarplaneconfiguration-mapcamerafarplaneconfiguration(double distanceFactor, double minDistanceInMeters)
+<a href="../mapview/MapCameraFarPlaneConfiguration/MapCameraFarPlaneConfiguration.html">/sdk-for-flutter-explore-mapview-mapcamerafarplaneconfiguration-mapcamerafarplaneconfiguration</a>(double distanceFactor, double minDistanceInMeters)
 </dt>
 <dd>
           Creates a new instance.
@@ -74,7 +73,7 @@ distanceToTargetInMeters * distanceFactor
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="distanceFactor">
-/sdk-for-flutter-explore-mapview-mapcamerafarplaneconfiguration-distancefactor
+<a href="../mapview/MapCameraFarPlaneConfiguration/distanceFactor.html">/sdk-for-flutter-explore-mapview-mapcamerafarplaneconfiguration-distancefactor</a>
 ↔ double
 </dt>
 <dd>
@@ -82,7 +81,7 @@ distanceToTargetInMeters * distanceFactor
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-mapview-mapcamerafarplaneconfiguration-hashcode
+<a href="../mapview/MapCameraFarPlaneConfiguration/hashCode.html">/sdk-for-flutter-explore-mapview-mapcamerafarplaneconfiguration-hashcode</a>
 → int
 </dt>
 <dd>
@@ -90,7 +89,7 @@ distanceToTargetInMeters * distanceFactor
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="minDistanceInMeters">
-/sdk-for-flutter-explore-mapview-mapcamerafarplaneconfiguration-mindistanceinmeters
+<a href="../mapview/MapCameraFarPlaneConfiguration/minDistanceInMeters.html">/sdk-for-flutter-explore-mapview-mapcamerafarplaneconfiguration-mindistanceinmeters</a>
 ↔ double
 </dt>
 <dd>
@@ -98,7 +97,7 @@ distanceToTargetInMeters * distanceFactor
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mapcamerafarplaneconfiguration-runtimetype
+<a href="../mapview/MapCameraFarPlaneConfiguration/runtimeType.html">/sdk-for-flutter-explore-mapview-mapcamerafarplaneconfiguration-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -111,7 +110,7 @@ distanceToTargetInMeters * distanceFactor
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mapcamerafarplaneconfiguration-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapCameraFarPlaneConfiguration/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapcamerafarplaneconfiguration-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -120,7 +119,7 @@ distanceToTargetInMeters * distanceFactor
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mapcamerafarplaneconfiguration-tostring(<wbr/>)
+<a href="../mapview/MapCameraFarPlaneConfiguration/toString.html">/sdk-for-flutter-explore-mapview-mapcamerafarplaneconfiguration-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -134,7 +133,7 @@ distanceToTargetInMeters * distanceFactor
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-mapview-mapcamerafarplaneconfiguration-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapCameraFarPlaneConfiguration/operator_equals.html">/sdk-for-flutter-explore-mapview-mapcamerafarplaneconfiguration-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -153,8 +152,8 @@ distanceToTargetInMeters * distanceFactor
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapCameraFarPlaneConfiguration class</li>
 </ol>
 <h5>mapview library</h5>
@@ -171,5 +170,4 @@ distanceToTargetInMeters * distanceFactor
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

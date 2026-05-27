@@ -1,10 +1,9 @@
 ---
-title: "Point2D constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-point2d-point2d"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Point2D.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-point2d-point2d"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-point2d-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a></li>
 <li class="self-crumb">Point2D constructor</li>
 </ol>
 <div class="self-name">Point2D</div>
@@ -61,9 +60,9 @@ Point2D(<wbr/><ol class="parameter-list single-line"> <li>double x, </li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-point2d-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a></li>
 <li class="self-crumb">Point2D constructor</li>
 </ol>
 <h5>Point2D class</h5>
@@ -80,5 +79,4 @@ Point2D(<wbr/><ol class="parameter-list single-line"> <li>double x, </li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

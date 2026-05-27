@@ -1,10 +1,9 @@
 ---
-title: "MapPolyline class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mappolyline-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapPolyline-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -38,8 +37,8 @@ slug: "sdk-for-flutter-explore-mapview-mappolyline-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapPolyline class</li>
 </ol>
 <div class="self-name">MapPolyline</div>
@@ -64,14 +63,14 @@ menu
 <h1>MapPolyline class abstract</h1></div>
 <section class="desc markdown">
 <p>A visual representation of a line on the map.</p>
-<p>The geometry to be visualized is represented by an instance of /sdk-for-flutter-explore-core-geopolyline-class.</p>
+<p>The geometry to be visualized is represented by an instance of <a href="../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a>.</p>
 <p>Altitude component of <code>GeoPolyline</code>'s vertices is ignored.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapPolyline.withRepresentation">
-/sdk-for-flutter-explore-mapview-mappolyline-mappolyline-withrepresentation(/sdk-for-flutter-explore-core-geopolyline-class geometry, /sdk-for-flutter-explore-mapview-mappolylinerepresentation-class representation)
+<a href="../mapview/MapPolyline/MapPolyline.withRepresentation.html">/sdk-for-flutter-explore-mapview-mappolyline-mappolyline-withrepresentation</a>(<a href="../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a> geometry, <a href="../mapview/MapPolylineRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</a> representation)
 </dt>
 <dd>
           Creates a new <code>MapPolyline</code> instance with a specified visual representation.
@@ -83,7 +82,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="drawOrder">
-/sdk-for-flutter-explore-mapview-mappolyline-draworder
+<a href="../mapview/MapPolyline/drawOrder.html">/sdk-for-flutter-explore-mapview-mappolyline-draworder</a>
 ↔ int
 </dt>
 <dd>
@@ -92,8 +91,8 @@ Gets the draw order of the polyline.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="drawOrderType">
-/sdk-for-flutter-explore-mapview-mappolyline-drawordertype
-↔ /sdk-for-flutter-explore-mapview-drawordertype
+<a href="../mapview/MapPolyline/drawOrderType.html">/sdk-for-flutter-explore-mapview-mappolyline-drawordertype</a>
+↔ <a href="../mapview/DrawOrderType.html">/sdk-for-flutter-explore-mapview-drawordertype</a>
 </dt>
 <dd>
   The draw order type of the polyline.
@@ -101,8 +100,8 @@ Gets the draw order type of the polyline.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="geometry">
-/sdk-for-flutter-explore-mapview-mappolyline-geometry
-↔ /sdk-for-flutter-explore-core-geopolyline-class
+<a href="../mapview/MapPolyline/geometry.html">/sdk-for-flutter-explore-mapview-mappolyline-geometry</a>
+↔ <a href="../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a>
 </dt>
 <dd>
   The list of vertices that represent the geometry of the polyline.
@@ -110,7 +109,7 @@ Gets the geometry of the polyline.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-mappolyline-hashcode
+<a href="../mapview/MapPolyline/hashCode.html">/sdk-for-flutter-explore-mapview-mappolyline-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -118,8 +117,8 @@ Gets the geometry of the polyline.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="mapContentCategoriesToBlock">
-/sdk-for-flutter-explore-mapview-mappolyline-mapcontentcategoriestoblock
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapcontentcategory&gt;
+<a href="../mapview/MapPolyline/mapContentCategoriesToBlock.html">/sdk-for-flutter-explore-mapview-mappolyline-mapcontentcategoriestoblock</a>
+↔ List&lt;<wbr/><a href="../mapview/MapContentCategory.html">/sdk-for-flutter-explore-mapview-mapcontentcategory</a>&gt;
 </dt>
 <dd>
   List of map content categories this polyline should block.
@@ -127,8 +126,8 @@ Gets list of map content categories this polyline should block.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="metadata">
-/sdk-for-flutter-explore-mapview-mappolyline-metadata
-↔ /sdk-for-flutter-explore-core-metadata-class?
+<a href="../mapview/MapPolyline/metadata.html">/sdk-for-flutter-explore-mapview-mappolyline-metadata</a>
+↔ <a href="../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a>?
 </dt>
 <dd>
   The <code>Metadata</code> instance attached to this polyline.
@@ -137,7 +136,7 @@ This will be <code>null</code> if nothing has been attached before.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="progress">
-/sdk-for-flutter-explore-mapview-mappolyline-progress
+<a href="../mapview/MapPolyline/progress.html">/sdk-for-flutter-explore-mapview-mappolyline-progress</a>
 ↔ double
 </dt>
 <dd>
@@ -147,7 +146,7 @@ Gets the progress of the polyline, 0 by default.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="progressColor">
-/sdk-for-flutter-explore-mapview-mappolyline-progresscolor
+<a href="../mapview/MapPolyline/progressColor.html">/sdk-for-flutter-explore-mapview-mappolyline-progresscolor</a>
 ↔ Color
 </dt>
 <dd>
@@ -156,8 +155,8 @@ Gets the progress color of the polyline, opaque white by default.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="progressGradientLength">
-/sdk-for-flutter-explore-mapview-mappolyline-progressgradientlength
-↔ /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class
+<a href="../mapview/MapPolyline/progressGradientLength.html">/sdk-for-flutter-explore-mapview-mappolyline-progressgradientlength</a>
+↔ <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a>
 </dt>
 <dd>
   The maximum gradient length between <code>MapPolyline.lineColor' and 'MapPolyline.progressColor</code> in zoom level dependent pixels.
@@ -165,7 +164,7 @@ Gets the maximum gradient length between <code>MapPolyline.lineColor' and 'MapPo
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="progressOutlineColor">
-/sdk-for-flutter-explore-mapview-mappolyline-progressoutlinecolor
+<a href="../mapview/MapPolyline/progressOutlineColor.html">/sdk-for-flutter-explore-mapview-mappolyline-progressoutlinecolor</a>
 ↔ Color
 </dt>
 <dd>
@@ -174,7 +173,7 @@ Gets the progress outline color of the polyline, opaque white by default.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mappolyline-runtimetype
+<a href="../mapview/MapPolyline/runtimeType.html">/sdk-for-flutter-explore-mapview-mappolyline-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -182,8 +181,8 @@ Gets the progress outline color of the polyline, opaque white by default.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="visibilityRanges">
-/sdk-for-flutter-explore-mapview-mappolyline-visibilityranges
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmeasurerange-class&gt;
+<a href="../mapview/MapPolyline/visibilityRanges.html">/sdk-for-flutter-explore-mapview-mappolyline-visibilityranges</a>
+↔ List&lt;<wbr/><a href="../mapview/MapMeasureRange-class.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-class</a>&gt;
 </dt>
 <dd>
   The list of visibility ranges. The map polyline is visible only inside these map measure ranges.
@@ -197,7 +196,7 @@ ranges. When empty (the default), the map polyline is visible without map measur
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="cancelAnimation">
-/sdk-for-flutter-explore-mapview-mappolyline-cancelanimation(<wbr/>/sdk-for-flutter-explore-animation-mappolylineanimation-class animation)
+<a href="../mapview/MapPolyline/cancelAnimation.html">/sdk-for-flutter-explore-mapview-mappolyline-cancelanimation</a>(<wbr/><a href="../animation/MapPolylineAnimation-class.html">/sdk-for-flutter-explore-animation-mappolylineanimation-class</a> animation)
     → void
 
 </dt>
@@ -207,7 +206,7 @@ ranges. When empty (the default), the map polyline is visible without map measur
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mappolyline-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapPolyline/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mappolyline-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -216,7 +215,7 @@ ranges. When empty (the default), the map polyline is visible without map measur
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="setRepresentation">
-/sdk-for-flutter-explore-mapview-mappolyline-setrepresentation(<wbr/>/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class representation)
+<a href="../mapview/MapPolyline/setRepresentation.html">/sdk-for-flutter-explore-mapview-mappolyline-setrepresentation</a>(<wbr/><a href="../mapview/MapPolylineRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</a> representation)
     → void
 
 </dt>
@@ -226,7 +225,7 @@ ranges. When empty (the default), the map polyline is visible without map measur
 
 </dd>
 <dt class="callable" id="startAnimation">
-/sdk-for-flutter-explore-mapview-mappolyline-startanimation(<wbr/>/sdk-for-flutter-explore-animation-mappolylineanimation-class animation, /sdk-for-flutter-explore-animation-animationlistener-class listener)
+<a href="../mapview/MapPolyline/startAnimation.html">/sdk-for-flutter-explore-mapview-mappolyline-startanimation</a>(<wbr/><a href="../animation/MapPolylineAnimation-class.html">/sdk-for-flutter-explore-animation-mappolylineanimation-class</a> animation, <a href="../animation/AnimationListener-class.html">/sdk-for-flutter-explore-animation-animationlistener-class</a> listener)
     → void
 
 </dt>
@@ -236,7 +235,7 @@ ranges. When empty (the default), the map polyline is visible without map measur
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mappolyline-tostring(<wbr/>)
+<a href="../mapview/MapPolyline/toString.html">/sdk-for-flutter-explore-mapview-mappolyline-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -250,7 +249,7 @@ ranges. When empty (the default), the map polyline is visible without map measur
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-mappolyline-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapPolyline/operator_equals.html">/sdk-for-flutter-explore-mapview-mappolyline-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -268,8 +267,8 @@ ranges. When empty (the default), the map polyline is visible without map measur
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapPolyline class</li>
 </ol>
 <h5>mapview library</h5>
@@ -286,5 +285,4 @@ ranges. When empty (the default), the map polyline is visible without map measur
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

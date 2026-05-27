@@ -1,10 +1,9 @@
 ---
-title: "forbiddenTrailerCount property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddentrailercount"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- forbiddenTrailerCount.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddentrail
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a></li>
 <li class="self-crumb">forbiddenTrailerCount property</li>
 </ol>
 <div class="self-name">forbiddenTrailerCount</div>
@@ -38,13 +37,13 @@ menu
 <div>
 <h1>forbiddenTrailerCount property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-integerrange-class?
+<a href="../../core/IntegerRange-class.html">/sdk-for-flutter-explore-core-integerrange-class</a>?
         forbiddenTrailerCount
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Constrains the restriction to trucks with number of trailer within specified range during the trip.
-This property will be set if the /sdk-for-flutter-explore-transport-vehiclespecification-trailercount
+This property will be set if the <a href="../../transport/VehicleSpecification/trailerCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-trailercount</a>
 is within this range.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -59,9 +58,9 @@ is within this range.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a></li>
 <li class="self-crumb">forbiddenTrailerCount property</li>
 </ol>
 <h5>ViolatedRestrictionDetails class</h5>
@@ -78,5 +77,4 @@ is within this range.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "SupplierReference class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-supplierreference-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- SupplierReference-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-search-supplierreference-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">SupplierReference class</li>
 </ol>
 <div class="self-name">SupplierReference</div>
@@ -59,13 +58,13 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="SupplierReference">
-/sdk-for-flutter-explore-search-supplierreference-supplierreference(String supplier, String id)
+<a href="../search/SupplierReference/SupplierReference.html">/sdk-for-flutter-explore-search-supplierreference-supplierreference</a>(String supplier, String id)
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="SupplierReference.withDefaults">
-/sdk-for-flutter-explore-search-supplierreference-supplierreference-withdefaults()
+<a href="../search/SupplierReference/SupplierReference.withDefaults.html">/sdk-for-flutter-explore-search-supplierreference-supplierreference-withdefaults</a>()
 </dt>
 <dd>
           Creates a new instance.
@@ -76,7 +75,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-supplierreference-hashcode
+<a href="../search/SupplierReference/hashCode.html">/sdk-for-flutter-explore-search-supplierreference-hashcode</a>
 → int
 </dt>
 <dd>
@@ -84,7 +83,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="id">
-/sdk-for-flutter-explore-search-supplierreference-id
+<a href="../search/SupplierReference/id.html">/sdk-for-flutter-explore-search-supplierreference-id</a>
 ↔ String
 </dt>
 <dd>
@@ -92,7 +91,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-supplierreference-runtimetype
+<a href="../search/SupplierReference/runtimeType.html">/sdk-for-flutter-explore-search-supplierreference-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -100,7 +99,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="supplier">
-/sdk-for-flutter-explore-search-supplierreference-supplier
+<a href="../search/SupplierReference/supplier.html">/sdk-for-flutter-explore-search-supplierreference-supplier</a>
 ↔ String
 </dt>
 <dd>
@@ -113,7 +112,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-supplierreference-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/SupplierReference/noSuchMethod.html">/sdk-for-flutter-explore-search-supplierreference-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -122,7 +121,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-supplierreference-tostring(<wbr/>)
+<a href="../search/SupplierReference/toString.html">/sdk-for-flutter-explore-search-supplierreference-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -136,7 +135,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-supplierreference-operator-equals(<wbr/>Object other)
+<a href="../search/SupplierReference/operator_equals.html">/sdk-for-flutter-explore-search-supplierreference-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -155,8 +154,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">SupplierReference class</li>
 </ol>
 <h5>search library</h5>
@@ -173,5 +172,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

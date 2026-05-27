@@ -1,10 +1,9 @@
 ---
-title: "textAnchor property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-textanchor"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- textAnchor.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-textanchor"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMarkerClusterCounterStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-class</a></li>
 <li class="self-crumb">textAnchor property</li>
 </ol>
 <div class="self-name">textAnchor</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>textAnchor property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-anchor2d-class
+<a href="../../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a>
 textAnchor
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +56,9 @@ textAnchor
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMarkerClusterCounterStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-class</a></li>
 <li class="self-crumb">textAnchor property</li>
 </ol>
 <h5>MapMarkerClusterCounterStyle class</h5>
@@ -76,5 +75,4 @@ textAnchor
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

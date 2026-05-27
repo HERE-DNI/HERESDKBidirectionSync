@@ -1,10 +1,9 @@
 ---
-title: "debugDescribeChildren method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-heremap-debugdescribechildren"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- debugDescribeChildren.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-heremap-debugdescribechildren"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-heremap-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/HereMap-class.html">/sdk-for-flutter-explore-mapview-heremap-class</a></li>
 <li class="self-crumb">debugDescribeChildren method</li>
 </ol>
 <div class="self-name">debugDescribeChildren</div>
@@ -77,9 +76,9 @@ List&lt;DiagnosticsNode&gt; debugDescribeChildren() =&gt; const &lt;DiagnosticsN
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-heremap-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/HereMap-class.html">/sdk-for-flutter-explore-mapview-heremap-class</a></li>
 <li class="self-crumb">debugDescribeChildren method</li>
 </ol>
 <h5>HereMap class</h5>
@@ -96,5 +95,4 @@ List&lt;DiagnosticsNode&gt; debugDescribeChildren() =&gt; const &lt;DiagnosticsN
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

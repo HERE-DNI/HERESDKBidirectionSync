@@ -1,10 +1,9 @@
 ---
-title: "CategoryQuery.withCategoriesInArea constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-categoryquery-categoryquery-withcategoriesinarea"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- CategoryQuery.withCategoriesInArea.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-categoryquery-categoryquery-withcategories
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-categoryquery-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/CategoryQuery-class.html">/sdk-for-flutter-explore-search-categoryquery-class</a></li>
 <li class="self-crumb">CategoryQuery.withCategoriesInArea factory constructor</li>
 </ol>
 <div class="self-name">CategoryQuery.withCategoriesInArea</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>CategoryQuery.withCategoriesInArea constructor</h1></div>
 <section class="multi-line-signature">
-CategoryQuery.withCategoriesInArea(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt; categories, </li>
-<li>/sdk-for-flutter-explore-search-categoryqueryarea-class area</li>
+CategoryQuery.withCategoriesInArea(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt; categories, </li>
+<li><a href="../../search/CategoryQueryArea-class.html">/sdk-for-flutter-explore-search-categoryqueryarea-class</a> area</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -65,9 +64,9 @@ CategoryQuery.withCategoriesInArea(<wbr/><ol class="parameter-list single-line">
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-categoryquery-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/CategoryQuery-class.html">/sdk-for-flutter-explore-search-categoryquery-class</a></li>
 <li class="self-crumb">CategoryQuery.withCategoriesInArea factory constructor</li>
 </ol>
 <h5>CategoryQuery class</h5>
@@ -84,5 +83,4 @@ CategoryQuery.withCategoriesInArea(<wbr/><ol class="parameter-list single-line">
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

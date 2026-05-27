@@ -1,10 +1,9 @@
 ---
-title: "BusinessDetails class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-businessdetails-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- BusinessDetails-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-search-businessdetails-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">BusinessDetails class</li>
 </ol>
 <div class="self-name">BusinessDetails</div>
@@ -59,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="BusinessDetails">
-/sdk-for-flutter-explore-search-businessdetails-businessdetails()
+<a href="../search/BusinessDetails/BusinessDetails.html">/sdk-for-flutter-explore-search-businessdetails-businessdetails</a>()
 </dt>
 <dd>
           Creates a new instance.
@@ -70,16 +69,16 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="contacts">
-/sdk-for-flutter-explore-search-businessdetails-contacts
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-contact-class&gt;
+<a href="../search/BusinessDetails/contacts.html">/sdk-for-flutter-explore-search-businessdetails-contacts</a>
+↔ List&lt;<wbr/><a href="../search/Contact-class.html">/sdk-for-flutter-explore-search-contact-class</a>&gt;
 </dt>
 <dd>
   The list of contact information of the place.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="evChargingPool">
-/sdk-for-flutter-explore-search-businessdetails-evchargingpool
-↔ /sdk-for-flutter-explore-search-evchargingpool-class?
+<a href="../search/BusinessDetails/evChargingPool.html">/sdk-for-flutter-explore-search-businessdetails-evchargingpool</a>
+↔ <a href="../search/EVChargingPool-class.html">/sdk-for-flutter-explore-search-evchargingpool-class</a>?
 </dt>
 <dd>
   EV charging pool details. It is available only for a place that is a charging pool
@@ -88,7 +87,7 @@ valid contracts with HERE.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-businessdetails-hashcode
+<a href="../search/BusinessDetails/hashCode.html">/sdk-for-flutter-explore-search-businessdetails-hashcode</a>
 → int
 </dt>
 <dd>
@@ -96,15 +95,15 @@ valid contracts with HERE.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="openingHours">
-/sdk-for-flutter-explore-search-businessdetails-openinghours
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-openinghours-class&gt;
+<a href="../search/BusinessDetails/openingHours.html">/sdk-for-flutter-explore-search-businessdetails-openinghours</a>
+↔ List&lt;<wbr/><a href="../search/OpeningHours-class.html">/sdk-for-flutter-explore-search-openinghours-class</a>&gt;
 </dt>
 <dd>
   The list of opening hours information of the place (not available in result of suggest request).
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-businessdetails-runtimetype
+<a href="../search/BusinessDetails/runtimeType.html">/sdk-for-flutter-explore-search-businessdetails-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -117,7 +116,7 @@ valid contracts with HERE.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-businessdetails-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/BusinessDetails/noSuchMethod.html">/sdk-for-flutter-explore-search-businessdetails-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -126,7 +125,7 @@ valid contracts with HERE.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-businessdetails-tostring(<wbr/>)
+<a href="../search/BusinessDetails/toString.html">/sdk-for-flutter-explore-search-businessdetails-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -140,7 +139,7 @@ valid contracts with HERE.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-businessdetails-operator-equals(<wbr/>Object other)
+<a href="../search/BusinessDetails/operator_equals.html">/sdk-for-flutter-explore-search-businessdetails-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -159,8 +158,8 @@ valid contracts with HERE.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">BusinessDetails class</li>
 </ol>
 <h5>search library</h5>
@@ -177,5 +176,4 @@ valid contracts with HERE.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

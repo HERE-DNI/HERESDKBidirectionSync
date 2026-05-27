@@ -1,10 +1,9 @@
 ---
-title: "withHazardousMaterials abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-withhazardousmaterials"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withHazardousMaterials.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-withha
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a></li>
 <li class="self-crumb">withHazardousMaterials abstract method</li>
 </ol>
 <div class="self-name">withHazardousMaterials</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>withHazardousMaterials abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class
-withHazardousMaterials(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-transport-hazardousmaterial&gt; hazardousMaterials</li>
+<a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a>
+withHazardousMaterials(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../transport/HazardousMaterial.html">/sdk-for-flutter-explore-transport-hazardousmaterial</a>&gt; hazardousMaterials</li>
 </ol>)
 
       
@@ -50,7 +49,7 @@ withHazardousMaterials(<wbr/><ol class="parameter-list single-line"> <li>List&lt
 <ul>
 <li><code>hazardousMaterials</code> The hazardous materials transported in the vehicle.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class. The /sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class object with the hazardous materiales transported in the vehicle set
+<p>Returns <a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a>. The <a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a> object with the hazardous materiales transported in the vehicle set
 to the new value.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -65,9 +64,9 @@ to the new value.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a></li>
 <li class="self-crumb">withHazardousMaterials abstract method</li>
 </ol>
 <h5>VehicleSpecificationTruckBuilder class</h5>
@@ -84,5 +83,4 @@ to the new value.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

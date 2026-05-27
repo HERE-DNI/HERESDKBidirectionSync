@@ -1,10 +1,9 @@
 ---
-title: "coordinates property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-widgetpin-coordinates"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- coordinates.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-widgetpin-coordinates"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-widgetpin-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a></li>
 <li class="self-crumb">coordinates property</li>
 </ol>
 <div class="self-name">coordinates</div>
@@ -39,11 +38,11 @@ menu
 <h1>coordinates property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-geocoordinates-class
+<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 coordinates
 </section>
 <section class="desc markdown">
-<p>Gets geographical location of the /sdk-for-flutter-explore-mapview-widgetpin-class.</p>
+<p>Gets geographical location of the <a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -53,10 +52,10 @@ coordinates
 <section id="setter">
 <section class="multi-line-signature">
 void
-coordinates=(<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class newCoords)
+coordinates=(<wbr/><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> newCoords)
 </section>
 <section class="desc markdown">
-<p>Changes geographical location of the /sdk-for-flutter-explore-mapview-widgetpin-class.</p>
+<p>Changes geographical location of the <a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a>.</p>
 <p>The altitude component of the coordinates, if set, is interpreted as above sea level.
 When not set, the coordinates are interpreted as at ground level.</p>
 </section>
@@ -73,9 +72,9 @@ When not set, the coordinates are interpreted as at ground level.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-widgetpin-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a></li>
 <li class="self-crumb">coordinates property</li>
 </ol>
 <h5>WidgetPin class</h5>
@@ -92,5 +91,4 @@ When not set, the coordinates are interpreted as at ground level.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

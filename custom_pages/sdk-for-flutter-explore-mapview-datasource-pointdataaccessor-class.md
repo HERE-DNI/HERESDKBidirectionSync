@@ -1,10 +1,9 @@
 ---
-title: "PointDataAccessor class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PointDataAccessor-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +28,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">PointDataAccessor class</li>
 </ol>
 <div class="self-name">PointDataAccessor</div>
@@ -62,7 +61,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PointDataAccessor">
-/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-pointdataaccessor()
+<a href="../mapview.datasource/PointDataAccessor/PointDataAccessor.html">/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-pointdataaccessor</a>()
 </dt>
 <dd>
 </dd>
@@ -72,7 +71,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-hashcode
+<a href="../mapview.datasource/PointDataAccessor/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -80,7 +79,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-runtimetype
+<a href="../mapview.datasource/PointDataAccessor/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -93,9 +92,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="getAttributes">
-/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-getattributes(<wbr/>)
-    → /sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-class
-
+<a href="../mapview.datasource/PointDataAccessor/getAttributes.html">/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-getattributes</a>(<wbr/>)
+    → <a href="../mapview.datasource/DataAttributesAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-class</a>
 </dt>
 <dd>
   Gets point attributes accessor.
@@ -103,9 +101,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="getCoordinates">
-/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-getcoordinates(<wbr/>)
-    → /sdk-for-flutter-explore-core-geocoordinates-class
-
+<a href="../mapview.datasource/PointDataAccessor/getCoordinates.html">/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-getcoordinates</a>(<wbr/>)
+    → <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 </dt>
 <dd>
   Gets point coordinates.
@@ -113,7 +110,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview.datasource/PointDataAccessor/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -122,7 +119,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="setAttributes">
-/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-setattributes(<wbr/>/sdk-for-flutter-explore-mapview-datasource-dataattributes-class attributes)
+<a href="../mapview.datasource/PointDataAccessor/setAttributes.html">/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-setattributes</a>(<wbr/><a href="../mapview.datasource/DataAttributes-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributes-class</a> attributes)
     → void
 
 </dt>
@@ -132,7 +129,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="setCoordinates">
-/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-setcoordinates(<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class position)
+<a href="../mapview.datasource/PointDataAccessor/setCoordinates.html">/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-setcoordinates</a>(<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> position)
     → void
 
 </dt>
@@ -142,7 +139,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-tostring(<wbr/>)
+<a href="../mapview.datasource/PointDataAccessor/toString.html">/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -156,7 +153,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-operator-equals(<wbr/>Object other)
+<a href="../mapview.datasource/PointDataAccessor/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-pointdataaccessor-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -174,8 +171,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">PointDataAccessor class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -192,5 +189,4 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

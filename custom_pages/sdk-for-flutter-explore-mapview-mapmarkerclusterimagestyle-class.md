@@ -1,10 +1,9 @@
 ---
-title: "MapMarkerClusterImageStyle class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapMarkerClusterImageStyle-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapMarkerClusterImageStyle class</li>
 </ol>
 <div class="self-name">MapMarkerClusterImageStyle</div>
@@ -69,14 +68,14 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapMarkerClusterImageStyle">
-/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-mapmarkerclusterimagestyle(/sdk-for-flutter-explore-mapview-mapimage-class image)
+<a href="../mapview/MapMarkerClusterImageStyle/MapMarkerClusterImageStyle.html">/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-mapmarkerclusterimagestyle</a>(<a href="../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a> image)
 </dt>
 <dd>
           Creates a marker cluster image representation with default anchor.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="MapMarkerClusterImageStyle.withAnchor">
-/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-mapmarkerclusterimagestyle-withanchor(/sdk-for-flutter-explore-mapview-mapimage-class image, /sdk-for-flutter-explore-core-anchor2d-class anchor)
+<a href="../mapview/MapMarkerClusterImageStyle/MapMarkerClusterImageStyle.withAnchor.html">/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-mapmarkerclusterimagestyle-withanchor</a>(<a href="../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a> image, <a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a> anchor)
 </dt>
 <dd>
           Creates a cluster marker image style using a map image with anchor.
@@ -88,8 +87,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="anchor">
-/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-anchor
-→ /sdk-for-flutter-explore-core-anchor2d-class
+<a href="../mapview/MapMarkerClusterImageStyle/anchor.html">/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-anchor</a>
+→ <a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a>
 </dt>
 <dd>
   The anchor point for the marker image which specifies the position offset relative
@@ -97,7 +96,7 @@ to the cluster's position.
   <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-hashcode
+<a href="../mapview/MapMarkerClusterImageStyle/hashCode.html">/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -105,15 +104,15 @@ to the cluster's position.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="image">
-/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-image
-→ /sdk-for-flutter-explore-mapview-mapimage-class
+<a href="../mapview/MapMarkerClusterImageStyle/image.html">/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-image</a>
+→ <a href="../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a>
 </dt>
 <dd>
   The map image for the cluster marker.
   <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-runtimetype
+<a href="../mapview/MapMarkerClusterImageStyle/runtimeType.html">/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -126,7 +125,7 @@ to the cluster's position.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapMarkerClusterImageStyle/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -135,7 +134,7 @@ to the cluster's position.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-tostring(<wbr/>)
+<a href="../mapview/MapMarkerClusterImageStyle/toString.html">/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -149,7 +148,7 @@ to the cluster's position.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapMarkerClusterImageStyle/operator_equals.html">/sdk-for-flutter-explore-mapview-mapmarkerclusterimagestyle-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -167,8 +166,8 @@ to the cluster's position.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapMarkerClusterImageStyle class</li>
 </ol>
 <h5>mapview library</h5>
@@ -185,5 +184,4 @@ to the cluster's position.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

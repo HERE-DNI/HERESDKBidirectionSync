@@ -1,10 +1,9 @@
 ---
-title: "sectionNotices property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-section-sectionnotices"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- sectionNotices.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-section-sectionnotices"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-section-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a></li>
 <li class="self-crumb">sectionNotices property</li>
 </ol>
 <div class="self-name">sectionNotices</div>
@@ -39,7 +38,7 @@ menu
 <h1>sectionNotices property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-List&lt;<wbr/>/sdk-for-flutter-explore-routing-sectionnotice-class&gt;
+List&lt;<wbr/><a href="../../routing/SectionNotice-class.html">/sdk-for-flutter-explore-routing-sectionnotice-class</a>&gt;
 sectionNotices
 </section>
 <section class="desc markdown">
@@ -65,9 +64,9 @@ for the violation. The user must judge all the notices carefully before proceedi
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-section-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a></li>
 <li class="self-crumb">sectionNotices property</li>
 </ol>
 <h5>Section class</h5>
@@ -84,5 +83,4 @@ for the violation. The user must judge all the notices carefully before proceedi
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

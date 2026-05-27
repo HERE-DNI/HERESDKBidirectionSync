@@ -1,10 +1,9 @@
 ---
-title: "Isoline class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-isoline-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Isoline-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +28,8 @@ slug: "sdk-for-flutter-explore-routing-isoline-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">Isoline class</li>
 </ol>
 <div class="self-name">Isoline</div>
@@ -59,13 +58,13 @@ menu
 the center and any point on the edges of the polygon can be travelled within the
 given range restriction. The edges of the polygon are not guaranteed to be on the road as
 all reachable road endpoints are smoothened to fit into one polygon shape. This
-process can be influenced by setting /sdk-for-flutter-explore-routing-isolineoptionscalculation-maxpoints.</p>
+process can be influenced by setting <a href="../routing/IsolineOptionsCalculation/maxPoints.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-maxpoints</a>.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Isoline">
-/sdk-for-flutter-explore-routing-isoline-isoline(/sdk-for-flutter-explore-routing-isolinerangetype rangeType, double rangeValue, /sdk-for-flutter-explore-routing-mapmatchedcoordinates-class center, List&lt;<wbr/>/sdk-for-flutter-explore-core-geopolygon-class&gt; polygons)
+<a href="../routing/Isoline/Isoline.html">/sdk-for-flutter-explore-routing-isoline-isoline</a>(<a href="../routing/IsolineRangeType.html">/sdk-for-flutter-explore-routing-isolinerangetype</a> rangeType, double rangeValue, <a href="../routing/MapMatchedCoordinates-class.html">/sdk-for-flutter-explore-routing-mapmatchedcoordinates-class</a> center, List&lt;<wbr/><a href="../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a>&gt; polygons)
 </dt>
 <dd>
           Constructs an isoline instance.
@@ -77,8 +76,8 @@ process can be influenced by setting /sdk-for-flutter-explore-routing-isolineopt
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="center">
-/sdk-for-flutter-explore-routing-isoline-center
-→ /sdk-for-flutter-explore-routing-mapmatchedcoordinates-class
+<a href="../routing/Isoline/center.html">/sdk-for-flutter-explore-routing-isoline-center</a>
+→ <a href="../routing/MapMatchedCoordinates-class.html">/sdk-for-flutter-explore-routing-mapmatchedcoordinates-class</a>
 </dt>
 <dd>
   The center point that was used to calculate this isoline.
@@ -88,7 +87,7 @@ Gets the center point that was used to calculate this isoline.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-routing-isoline-hashcode
+<a href="../routing/Isoline/hashCode.html">/sdk-for-flutter-explore-routing-isoline-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -96,8 +95,8 @@ Gets the center point that was used to calculate this isoline.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="polygons">
-/sdk-for-flutter-explore-routing-isoline-polygons
-→ List&lt;<wbr/>/sdk-for-flutter-explore-core-geopolygon-class&gt;
+<a href="../routing/Isoline/polygons.html">/sdk-for-flutter-explore-routing-isoline-polygons</a>
+→ List&lt;<wbr/><a href="../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a>&gt;
 </dt>
 <dd>
   A list of polygons that belong to this isoline. An isoline can consist of multiple
@@ -111,8 +110,8 @@ only a single polygon is included.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="rangeType">
-/sdk-for-flutter-explore-routing-isoline-rangetype
-→ /sdk-for-flutter-explore-routing-isolinerangetype
+<a href="../routing/Isoline/rangeType.html">/sdk-for-flutter-explore-routing-isoline-rangetype</a>
+→ <a href="../routing/IsolineRangeType.html">/sdk-for-flutter-explore-routing-isolinerangetype</a>
 </dt>
 <dd>
   Specifies the type of the restriction that was used to calculate this isoline.
@@ -120,7 +119,7 @@ Gets the type of the restriction that was used to calculate this isoline.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="rangeValue">
-/sdk-for-flutter-explore-routing-isoline-rangevalue
+<a href="../routing/Isoline/rangeValue.html">/sdk-for-flutter-explore-routing-isoline-rangevalue</a>
 → double
 </dt>
 <dd>
@@ -129,7 +128,7 @@ Gets the numerical value of the restriction that was used to calculate this isol
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-isoline-runtimetype
+<a href="../routing/Isoline/runtimeType.html">/sdk-for-flutter-explore-routing-isoline-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -142,7 +141,7 @@ Gets the numerical value of the restriction that was used to calculate this isol
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-isoline-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/Isoline/noSuchMethod.html">/sdk-for-flutter-explore-routing-isoline-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -151,7 +150,7 @@ Gets the numerical value of the restriction that was used to calculate this isol
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-isoline-tostring(<wbr/>)
+<a href="../routing/Isoline/toString.html">/sdk-for-flutter-explore-routing-isoline-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -165,7 +164,7 @@ Gets the numerical value of the restriction that was used to calculate this isol
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-routing-isoline-operator-equals(<wbr/>Object other)
+<a href="../routing/Isoline/operator_equals.html">/sdk-for-flutter-explore-routing-isoline-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -183,8 +182,8 @@ Gets the numerical value of the restriction that was used to calculate this isol
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">Isoline class</li>
 </ol>
 <h5>routing library</h5>
@@ -201,5 +200,4 @@ Gets the numerical value of the restriction that was used to calculate this isol
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "withTrailerAxleCount abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-withtraileraxlecount"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withTrailerAxleCount.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-withtra
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</a></li>
 <li class="self-crumb">withTrailerAxleCount abstract method</li>
 </ol>
 <div class="self-name">withTrailerAxleCount</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>withTrailerAxleCount abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class
+<a href="../../transport/VehicleSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</a>
 withTrailerAxleCount(<wbr/><ol class="parameter-list single-line"> <li>int trailerAxleCount</li>
 </ol>)
 
@@ -50,7 +49,7 @@ withTrailerAxleCount(<wbr/><ol class="parameter-list single-line"> <li>int trail
 <ul>
 <li><code>trailerAxleCount</code> The vehicle trailer axle count.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class. The /sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class object with the trailer axle count set to the new value.</p>
+<p>Returns <a href="../../transport/VehicleSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</a>. The <a href="../../transport/VehicleSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</a> object with the trailer axle count set to the new value.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +63,9 @@ withTrailerAxleCount(<wbr/><ol class="parameter-list single-line"> <li>int trail
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</a></li>
 <li class="self-crumb">withTrailerAxleCount abstract method</li>
 </ol>
 <h5>VehicleSpecificationTaxiBuilder class</h5>
@@ -83,5 +82,4 @@ withTrailerAxleCount(<wbr/><ol class="parameter-list single-line"> <li>int trail
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

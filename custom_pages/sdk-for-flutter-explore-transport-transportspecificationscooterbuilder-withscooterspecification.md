@@ -1,10 +1,9 @@
 ---
-title: "withScooterSpecification abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-withscooterspecification"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withScooterSpecification.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-wi
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/TransportSpecificationScooterBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-class</a></li>
 <li class="self-crumb">withScooterSpecification abstract method</li>
 </ol>
 <div class="self-name">withScooterSpecification</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>withScooterSpecification abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-class
-withScooterSpecification(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-transport-scooterspecification-class scooterSpecification</li>
+<a href="../../transport/TransportSpecificationScooterBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-class</a>
+withScooterSpecification(<wbr/><ol class="parameter-list single-line"> <li><a href="../../transport/ScooterSpecification-class.html">/sdk-for-flutter-explore-transport-scooterspecification-class</a> scooterSpecification</li>
 </ol>)
 
       
@@ -50,7 +49,7 @@ withScooterSpecification(<wbr/><ol class="parameter-list single-line"> <li>/sdk-
 <ul>
 <li><code>scooterSpecification</code> The scooter specification.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-class. The /sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-class object with the scooter specification set to the new value.</p>
+<p>Returns <a href="../../transport/TransportSpecificationScooterBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-class</a>. The <a href="../../transport/TransportSpecificationScooterBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-class</a> object with the scooter specification set to the new value.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +63,9 @@ withScooterSpecification(<wbr/><ol class="parameter-list single-line"> <li>/sdk-
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/TransportSpecificationScooterBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-class</a></li>
 <li class="self-crumb">withScooterSpecification abstract method</li>
 </ol>
 <h5>TransportSpecificationScooterBuilder class</h5>
@@ -83,5 +82,4 @@ withScooterSpecification(<wbr/><ol class="parameter-list single-line"> <li>/sdk-
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

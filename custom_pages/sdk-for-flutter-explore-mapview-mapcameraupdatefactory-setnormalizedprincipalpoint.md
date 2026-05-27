@@ -1,10 +1,9 @@
 ---
-title: "setNormalizedPrincipalPoint static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-setnormalizedprincipalpoint"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- setNormalizedPrincipalPoint.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-setnormalizedprinc
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraUpdateFactory-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</a></li>
 <li class="self-crumb">setNormalizedPrincipalPoint static method</li>
 </ol>
 <div class="self-name">setNormalizedPrincipalPoint</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>setNormalizedPrincipalPoint static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-mapcameraupdate-class
-setNormalizedPrincipalPoint(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-anchor2d-class principalPoint</li>
+<a href="../../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+setNormalizedPrincipalPoint(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a> principalPoint</li>
 </ol>)
 
       
@@ -54,7 +53,7 @@ intersects the image plane - default is (0.5, 0.5)).</p>
 <ul>
 <li><code>principalPoint</code> Principal point in normalized screen coordinates.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-mapcameraupdate-class. MapCameraUpdate instance.</p>
+<p>Returns <a href="../../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>. MapCameraUpdate instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -68,9 +67,9 @@ intersects the image plane - default is (0.5, 0.5)).</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraUpdateFactory-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</a></li>
 <li class="self-crumb">setNormalizedPrincipalPoint static method</li>
 </ol>
 <h5>MapCameraUpdateFactory class</h5>
@@ -87,5 +86,4 @@ intersects the image plane - default is (0.5, 0.5)).</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

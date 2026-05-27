@@ -1,10 +1,9 @@
 ---
-title: "principalPointWithEasing static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-principalpointwitheasing"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- principalPointWithEasing.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-principalpointwith
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraKeyframeTrack-class.html">/sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-class</a></li>
 <li class="self-crumb">principalPointWithEasing static method</li>
 </ol>
 <div class="self-name">principalPointWithEasing</div>
@@ -38,10 +37,10 @@ menu
 <div>
 <h1>principalPointWithEasing static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-class
-principalPointWithEasing(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-animation-point2dkeyframe-class&gt; keyframes, </li>
-<li>/sdk-for-flutter-explore-animation-easing-class easing, </li>
-<li>/sdk-for-flutter-explore-animation-keyframeinterpolationmode interpolationMode</li>
+<a href="../../mapview/MapCameraKeyframeTrack-class.html">/sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-class</a>
+principalPointWithEasing(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../animation/Point2DKeyframe-class.html">/sdk-for-flutter-explore-animation-point2dkeyframe-class</a>&gt; keyframes, </li>
+<li><a href="../../animation/Easing-class.html">/sdk-for-flutter-explore-animation-easing-class</a> easing, </li>
+<li><a href="../../animation/KeyframeInterpolationMode.html">/sdk-for-flutter-explore-animation-keyframeinterpolationmode</a> interpolationMode</li>
 </ol>)
 
       
@@ -70,8 +69,8 @@ and creation of the keyframe track will fail.</p>
 <p><code>interpolationMode</code> The type of interpolation done between keyframe values.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-class. A keyframe track over the principal point.</p>
-<p>Throws /sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationexception-class. Indicates an instantiation issue.</p>
+<p>Returns <a href="../../mapview/MapCameraKeyframeTrack-class.html">/sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-class</a>. A keyframe track over the principal point.</p>
+<p>Throws <a href="../../mapview/MapCameraKeyframeTrackInstantiationException-class.html">/sdk-for-flutter-explore-mapview-mapcamerakeyframetrackinstantiationexception-class</a>. Indicates an instantiation issue.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -85,9 +84,9 @@ and creation of the keyframe track will fail.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraKeyframeTrack-class.html">/sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-class</a></li>
 <li class="self-crumb">principalPointWithEasing static method</li>
 </ol>
 <h5>MapCameraKeyframeTrack class</h5>
@@ -104,5 +103,4 @@ and creation of the keyframe track will fail.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

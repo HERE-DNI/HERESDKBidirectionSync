@@ -1,10 +1,9 @@
 ---
-title: "PassThroughWaypoint class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-passthroughwaypoint-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PassThroughWaypoint-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-routing-passthroughwaypoint-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">PassThroughWaypoint class</li>
 </ol>
 <div class="self-name">PassThroughWaypoint</div>
@@ -54,13 +53,13 @@ menu
 <section class="desc markdown">
 <p>This structure provides all the information for a passthrough waypoint.</p>
 <p>The location information and offset of the waypoint are stored in
-<code>PassThroughWaypoint.place</code> and /sdk-for-flutter-explore-routing-passthroughwaypoint-offset respectively.</p>
+<code>PassThroughWaypoint.place</code> and <a href="../routing/PassThroughWaypoint/offset.html">/sdk-for-flutter-explore-routing-passthroughwaypoint-offset</a> respectively.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PassThroughWaypoint">
-/sdk-for-flutter-explore-routing-passthroughwaypoint-passthroughwaypoint(/sdk-for-flutter-explore-routing-routeplace-class place)
+<a href="../routing/PassThroughWaypoint/PassThroughWaypoint.html">/sdk-for-flutter-explore-routing-passthroughwaypoint-passthroughwaypoint</a>(<a href="../routing/RoutePlace-class.html">/sdk-for-flutter-explore-routing-routeplace-class</a> place)
 </dt>
 <dd>
 </dd>
@@ -70,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-passthroughwaypoint-hashcode
+<a href="../routing/PassThroughWaypoint/hashCode.html">/sdk-for-flutter-explore-routing-passthroughwaypoint-hashcode</a>
 → int
 </dt>
 <dd>
@@ -78,23 +77,23 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="offset">
-/sdk-for-flutter-explore-routing-passthroughwaypoint-offset
+<a href="../routing/PassThroughWaypoint/offset.html">/sdk-for-flutter-explore-routing-passthroughwaypoint-offset</a>
 ↔ int?
 </dt>
 <dd>
-  Index over /sdk-for-flutter-explore-routing-section-geometry where the passthrough waypoint is located.
+  Index over <a href="../routing/Section/geometry.html">/sdk-for-flutter-explore-routing-section-geometry</a> where the passthrough waypoint is located.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="place">
-/sdk-for-flutter-explore-routing-passthroughwaypoint-place
-↔ /sdk-for-flutter-explore-routing-routeplace-class
+<a href="../routing/PassThroughWaypoint/place.html">/sdk-for-flutter-explore-routing-passthroughwaypoint-place</a>
+↔ <a href="../routing/RoutePlace-class.html">/sdk-for-flutter-explore-routing-routeplace-class</a>
 </dt>
 <dd>
   The location information of passthrough waypoint.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-passthroughwaypoint-runtimetype
+<a href="../routing/PassThroughWaypoint/runtimeType.html">/sdk-for-flutter-explore-routing-passthroughwaypoint-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -107,7 +106,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-passthroughwaypoint-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/PassThroughWaypoint/noSuchMethod.html">/sdk-for-flutter-explore-routing-passthroughwaypoint-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -116,7 +115,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-passthroughwaypoint-tostring(<wbr/>)
+<a href="../routing/PassThroughWaypoint/toString.html">/sdk-for-flutter-explore-routing-passthroughwaypoint-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -130,7 +129,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-passthroughwaypoint-operator-equals(<wbr/>Object other)
+<a href="../routing/PassThroughWaypoint/operator_equals.html">/sdk-for-flutter-explore-routing-passthroughwaypoint-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -149,8 +148,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">PassThroughWaypoint class</li>
 </ol>
 <h5>routing library</h5>
@@ -167,5 +166,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

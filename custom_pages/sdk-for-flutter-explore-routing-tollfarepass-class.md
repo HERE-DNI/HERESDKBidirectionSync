@@ -1,10 +1,9 @@
 ---
-title: "TollFarePass class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-tollfarepass-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TollFarePass-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-routing-tollfarepass-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">TollFarePass class</li>
 </ol>
 <div class="self-name">TollFarePass</div>
@@ -55,13 +54,13 @@ menu
 <div>
 <h1>TollFarePass class</h1></div>
 <section class="desc markdown">
-<p>/sdk-for-flutter-explore-routing-tollfare-class multi-travel pass characteristics.</p>
+<p><a href="../routing/TollFare-class.html">/sdk-for-flutter-explore-routing-tollfare-class</a> multi-travel pass characteristics.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TollFarePass">
-/sdk-for-flutter-explore-routing-tollfarepass-tollfarepass()
+<a href="../routing/TollFarePass/TollFarePass.html">/sdk-for-flutter-explore-routing-tollfarepass-tollfarepass</a>()
 </dt>
 <dd>
 </dd>
@@ -71,7 +70,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-tollfarepass-hashcode
+<a href="../routing/TollFarePass/hashCode.html">/sdk-for-flutter-explore-routing-tollfarepass-hashcode</a>
 → int
 </dt>
 <dd>
@@ -79,7 +78,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="returnJourney">
-/sdk-for-flutter-explore-routing-tollfarepass-returnjourney
+<a href="../routing/TollFarePass/returnJourney.html">/sdk-for-flutter-explore-routing-tollfarepass-returnjourney</a>
 ↔ bool?
 </dt>
 <dd>
@@ -87,7 +86,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-tollfarepass-runtimetype
+<a href="../routing/TollFarePass/runtimeType.html">/sdk-for-flutter-explore-routing-tollfarepass-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -95,7 +94,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="seniorPass">
-/sdk-for-flutter-explore-routing-tollfarepass-seniorpass
+<a href="../routing/TollFarePass/seniorPass.html">/sdk-for-flutter-explore-routing-tollfarepass-seniorpass</a>
 ↔ bool?
 </dt>
 <dd>
@@ -103,7 +102,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="transfers">
-/sdk-for-flutter-explore-routing-tollfarepass-transfers
+<a href="../routing/TollFarePass/transfers.html">/sdk-for-flutter-explore-routing-tollfarepass-transfers</a>
 ↔ int?
 </dt>
 <dd>
@@ -111,7 +110,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="travels">
-/sdk-for-flutter-explore-routing-tollfarepass-travels
+<a href="../routing/TollFarePass/travels.html">/sdk-for-flutter-explore-routing-tollfarepass-travels</a>
 ↔ int?
 </dt>
 <dd>
@@ -119,8 +118,8 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="validityPeriod">
-/sdk-for-flutter-explore-routing-tollfarepass-validityperiod
-↔ /sdk-for-flutter-explore-routing-farepassvalidityperiod-class?
+<a href="../routing/TollFarePass/validityPeriod.html">/sdk-for-flutter-explore-routing-tollfarepass-validityperiod</a>
+↔ <a href="../routing/FarePassValidityPeriod-class.html">/sdk-for-flutter-explore-routing-farepassvalidityperiod-class</a>?
 </dt>
 <dd>
   Specifies a temporal validity period for a pass.
@@ -132,7 +131,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-tollfarepass-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/TollFarePass/noSuchMethod.html">/sdk-for-flutter-explore-routing-tollfarepass-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -141,7 +140,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-tollfarepass-tostring(<wbr/>)
+<a href="../routing/TollFarePass/toString.html">/sdk-for-flutter-explore-routing-tollfarepass-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -155,7 +154,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-tollfarepass-operator-equals(<wbr/>Object other)
+<a href="../routing/TollFarePass/operator_equals.html">/sdk-for-flutter-explore-routing-tollfarepass-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -174,8 +173,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">TollFarePass class</li>
 </ol>
 <h5>routing library</h5>
@@ -192,5 +191,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

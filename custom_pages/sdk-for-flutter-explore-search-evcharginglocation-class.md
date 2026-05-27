@@ -1,10 +1,9 @@
 ---
-title: "EVChargingLocation class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-evcharginglocation-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVChargingLocation-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -43,8 +42,8 @@ slug: "sdk-for-flutter-explore-search-evcharginglocation-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVChargingLocation class</li>
 </ol>
 <div class="self-name">EVChargingLocation</div>
@@ -90,7 +89,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVChargingLocation">
-/sdk-for-flutter-explore-search-evcharginglocation-evcharginglocation()
+<a href="../search/EVChargingLocation/EVChargingLocation.html">/sdk-for-flutter-explore-search-evcharginglocation-evcharginglocation</a>()
 </dt>
 <dd>
 </dd>
@@ -100,8 +99,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="connectorGroups">
-/sdk-for-flutter-explore-search-evcharginglocation-connectorgroups
-→ List&lt;<wbr/>/sdk-for-flutter-explore-search-evchargingconnectorgroup-class&gt;
+<a href="../search/EVChargingLocation/connectorGroups.html">/sdk-for-flutter-explore-search-evcharginglocation-connectorgroups</a>
+→ List&lt;<wbr/><a href="../search/EVChargingConnectorGroup-class.html">/sdk-for-flutter-explore-search-evchargingconnectorgroup-class</a>&gt;
 </dt>
 <dd>
   Connector groups for the location.
@@ -112,7 +111,7 @@ Gets the connector groups for the location.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="cpoID">
-/sdk-for-flutter-explore-search-evcharginglocation-cpoid
+<a href="../search/EVChargingLocation/cpoID.html">/sdk-for-flutter-explore-search-evcharginglocation-cpoid</a>
 → String?
 </dt>
 <dd>
@@ -125,8 +124,8 @@ Gets the CPO's own ID for the location.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="eMobilityServiceProviders">
-/sdk-for-flutter-explore-search-evcharginglocation-emobilityserviceproviders
-→ List&lt;<wbr/>/sdk-for-flutter-explore-search-evchargingoperator-class&gt;
+<a href="../search/EVChargingLocation/eMobilityServiceProviders.html">/sdk-for-flutter-explore-search-evcharginglocation-emobilityserviceproviders</a>
+→ List&lt;<wbr/><a href="../search/EVChargingOperator-class.html">/sdk-for-flutter-explore-search-evchargingoperator-class</a>&gt;
 </dt>
 <dd>
   eMSPs with a roaming agreement enabling access to the EV charging location.
@@ -136,8 +135,8 @@ Gets the list of eMSPs with a roaming agreement enabling access to the EV chargi
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="energyMix">
-/sdk-for-flutter-explore-search-evcharginglocation-energymix
-→ /sdk-for-flutter-explore-search-energymix-class?
+<a href="../search/EVChargingLocation/energyMix.html">/sdk-for-flutter-explore-search-evcharginglocation-energymix</a>
+→ <a href="../search/EnergyMix-class.html">/sdk-for-flutter-explore-search-energymix-class</a>?
 </dt>
 <dd>
   Details on the energy supplied at the charging location.
@@ -147,8 +146,8 @@ Gets the details on the energy supplied at the charging location.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="evChargingOperator">
-/sdk-for-flutter-explore-search-evcharginglocation-evchargingoperator
-→ /sdk-for-flutter-explore-search-evchargingoperator-class?
+<a href="../search/EVChargingLocation/evChargingOperator.html">/sdk-for-flutter-explore-search-evcharginglocation-evchargingoperator</a>
+→ <a href="../search/EVChargingOperator-class.html">/sdk-for-flutter-explore-search-evchargingoperator-class</a>?
 </dt>
 <dd>
   Operator of the charging point, if available.
@@ -156,8 +155,8 @@ Gets the operator of the charging point, if available.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="evChargingSubOperator">
-/sdk-for-flutter-explore-search-evcharginglocation-evchargingsuboperator
-→ /sdk-for-flutter-explore-search-evchargingoperator-class?
+<a href="../search/EVChargingLocation/evChargingSubOperator.html">/sdk-for-flutter-explore-search-evcharginglocation-evchargingsuboperator</a>
+→ <a href="../search/EVChargingOperator-class.html">/sdk-for-flutter-explore-search-evchargingoperator-class</a>?
 </dt>
 <dd>
   Suboperator of the charging point, if available.
@@ -165,8 +164,8 @@ Gets the suboperator of the charging point, if available.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="evses">
-/sdk-for-flutter-explore-search-evcharginglocation-evses
-→ List&lt;<wbr/>/sdk-for-flutter-explore-search-evseinfo-class&gt;
+<a href="../search/EVChargingLocation/evses.html">/sdk-for-flutter-explore-search-evcharginglocation-evses</a>
+→ List&lt;<wbr/><a href="../search/EVSEInfo-class.html">/sdk-for-flutter-explore-search-evseinfo-class</a>&gt;
 </dt>
 <dd>
   List of EVSEs at the charging station.
@@ -176,8 +175,8 @@ Gets the list of EVSEs at the charging station.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="facilityTypes">
-/sdk-for-flutter-explore-search-evcharginglocation-facilitytypes
-→ List&lt;<wbr/>/sdk-for-flutter-explore-search-facilitytype&gt;
+<a href="../search/EVChargingLocation/facilityTypes.html">/sdk-for-flutter-explore-search-evcharginglocation-facilitytypes</a>
+→ List&lt;<wbr/><a href="../search/FacilityType.html">/sdk-for-flutter-explore-search-facilitytype</a>&gt;
 </dt>
 <dd>
   Facilities available at the charging location, for example hotel, wifi, parking lot etc.
@@ -188,7 +187,7 @@ hotel, wifi, parking lot etc.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-search-evcharginglocation-hashcode
+<a href="../search/EVChargingLocation/hashCode.html">/sdk-for-flutter-explore-search-evcharginglocation-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -196,7 +195,7 @@ hotel, wifi, parking lot etc.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="id">
-/sdk-for-flutter-explore-search-evcharginglocation-id
+<a href="../search/EVChargingLocation/id.html">/sdk-for-flutter-explore-search-evcharginglocation-id</a>
 → String
 </dt>
 <dd>
@@ -205,7 +204,7 @@ Gets the unique identifier of the charging location.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="name">
-/sdk-for-flutter-explore-search-evcharginglocation-name
+<a href="../search/EVChargingLocation/name.html">/sdk-for-flutter-explore-search-evcharginglocation-name</a>
 → String?
 </dt>
 <dd>
@@ -214,8 +213,8 @@ Gets the display name of the charging location, if available.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="openingHours">
-/sdk-for-flutter-explore-search-evcharginglocation-openinghours
-→ /sdk-for-flutter-explore-search-evchargingopeninghours-class?
+<a href="../search/EVChargingLocation/openingHours.html">/sdk-for-flutter-explore-search-evcharginglocation-openinghours</a>
+→ <a href="../search/EVChargingOpeningHours-class.html">/sdk-for-flutter-explore-search-evchargingopeninghours-class</a>?
 </dt>
 <dd>
   The times when the EVSEs at the charging location can be accessed for charging.
@@ -225,8 +224,8 @@ Gets the times when the EVSEs at the charging location can be accessed for charg
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="parkingType">
-/sdk-for-flutter-explore-search-evcharginglocation-parkingtype
-→ /sdk-for-flutter-explore-search-parkingtype?
+<a href="../search/EVChargingLocation/parkingType.html">/sdk-for-flutter-explore-search-evcharginglocation-parkingtype</a>
+→ <a href="../search/ParkingType.html">/sdk-for-flutter-explore-search-parkingtype</a>?
 </dt>
 <dd>
   The type of parking at the charging location.
@@ -236,8 +235,8 @@ Gets the type of parking at the charging location.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="restrictions">
-/sdk-for-flutter-explore-search-evcharginglocation-restrictions
-→ List&lt;<wbr/>/sdk-for-flutter-explore-search-evaccessrestrictionreason&gt;
+<a href="../search/EVChargingLocation/restrictions.html">/sdk-for-flutter-explore-search-evcharginglocation-restrictions</a>
+→ List&lt;<wbr/><a href="../search/EVAccessRestrictionReason.html">/sdk-for-flutter-explore-search-evaccessrestrictionreason</a>&gt;
 </dt>
 <dd>
   Reason(s) for restricted access.
@@ -245,7 +244,7 @@ Gets the list of restrictions.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-evcharginglocation-runtimetype
+<a href="../search/EVChargingLocation/runtimeType.html">/sdk-for-flutter-explore-search-evcharginglocation-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -253,8 +252,8 @@ Gets the list of restrictions.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="supportedVehicles">
-/sdk-for-flutter-explore-search-evcharginglocation-supportedvehicles
-→ List&lt;<wbr/>/sdk-for-flutter-explore-search-evchargingvehiclecategory&gt;
+<a href="../search/EVChargingLocation/supportedVehicles.html">/sdk-for-flutter-explore-search-evcharginglocation-supportedvehicles</a>
+→ List&lt;<wbr/><a href="../search/EVChargingVehicleCategory.html">/sdk-for-flutter-explore-search-evchargingvehiclecategory</a>&gt;
 </dt>
 <dd>
   List of vehicle categories this charging location can support. For example, the same location
@@ -266,7 +265,7 @@ the same location can be suitable for charging passenger cars and motorcycles.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="supportPhoneNumber">
-/sdk-for-flutter-explore-search-evcharginglocation-supportphonenumber
+<a href="../search/EVChargingLocation/supportPhoneNumber.html">/sdk-for-flutter-explore-search-evcharginglocation-supportphonenumber</a>
 → String?
 </dt>
 <dd>
@@ -277,8 +276,8 @@ Gets the phone number that EV drivers should call when need assistance at the ch
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="tariffs">
-/sdk-for-flutter-explore-search-evcharginglocation-tariffs
-→ List&lt;<wbr/>/sdk-for-flutter-explore-search-evchargingtariff-class&gt;
+<a href="../search/EVChargingLocation/tariffs.html">/sdk-for-flutter-explore-search-evcharginglocation-tariffs</a>
+→ List&lt;<wbr/><a href="../search/EVChargingTariff-class.html">/sdk-for-flutter-explore-search-evchargingtariff-class</a>&gt;
 </dt>
 <dd>
   List of tariffs or price plans for the connectors of the charging station.
@@ -287,7 +286,7 @@ and/or connector groups, by indexes to this list.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="timeZone">
-/sdk-for-flutter-explore-search-evcharginglocation-timezone
+<a href="../search/EVChargingLocation/timeZone.html">/sdk-for-flutter-explore-search-evcharginglocation-timezone</a>
 → String?
 </dt>
 <dd>
@@ -298,8 +297,8 @@ Gets the time zone of the charging location. Based on IANA tzdata's TZ-values.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="truckRestrictions">
-/sdk-for-flutter-explore-search-evcharginglocation-truckrestrictions
-→ /sdk-for-flutter-explore-search-evchargingtruckrestriction-class?
+<a href="../search/EVChargingLocation/truckRestrictions.html">/sdk-for-flutter-explore-search-evcharginglocation-truckrestrictions</a>
+→ <a href="../search/EVChargingTruckRestriction-class.html">/sdk-for-flutter-explore-search-evchargingtruckrestriction-class</a>?
 </dt>
 <dd>
   Access restrictions for trucks and light commercial vehicles.
@@ -315,7 +314,7 @@ Gets the access restrictions for trucks and light commercial vehicles.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-evcharginglocation-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/EVChargingLocation/noSuchMethod.html">/sdk-for-flutter-explore-search-evcharginglocation-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -324,7 +323,7 @@ Gets the access restrictions for trucks and light commercial vehicles.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-evcharginglocation-tostring(<wbr/>)
+<a href="../search/EVChargingLocation/toString.html">/sdk-for-flutter-explore-search-evcharginglocation-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -338,7 +337,7 @@ Gets the access restrictions for trucks and light commercial vehicles.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-search-evcharginglocation-operator-equals(<wbr/>Object other)
+<a href="../search/EVChargingLocation/operator_equals.html">/sdk-for-flutter-explore-search-evcharginglocation-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -356,8 +355,8 @@ Gets the access restrictions for trucks and light commercial vehicles.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVChargingLocation class</li>
 </ol>
 <h5>search library</h5>
@@ -374,5 +373,4 @@ Gets the access restrictions for trucks and light commercial vehicles.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

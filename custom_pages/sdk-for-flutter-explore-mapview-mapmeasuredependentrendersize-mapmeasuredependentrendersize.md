@@ -1,10 +1,9 @@
 ---
-title: "MapMeasureDependentRenderSize constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-mapmeasuredependentrendersize"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapMeasureDependentRenderSize.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-mapmeasured
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a></li>
 <li class="self-crumb">MapMeasureDependentRenderSize factory constructor</li>
 </ol>
 <div class="self-name">MapMeasureDependentRenderSize</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>MapMeasureDependentRenderSize constructor</h1></div>
 <section class="multi-line-signature">
-MapMeasureDependentRenderSize(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapmeasurekind measureKind, </li>
-<li>/sdk-for-flutter-explore-mapview-rendersizeunit sizeUnit, </li>
+MapMeasureDependentRenderSize(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> measureKind, </li>
+<li><a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> sizeUnit, </li>
 <li>Map&lt;<wbr/>double, double&gt; sizes</li>
 </ol>)
     </section>
@@ -57,7 +56,7 @@ MapMeasureDependentRenderSize(<wbr/><ol class="parameter-list single-line"> <li>
 <p><code>sizes</code> The dictionary describing the size (value) per map measure (key).</p>
 </li>
 </ul>
-<p>Throws /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersizeinstantiationexception-class. Instantiation error if <code>sizes</code> map is empty or contains negative keys or values.</p>
+<p>Throws <a href="../../mapview/MapMeasureDependentRenderSizeInstantiationException-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersizeinstantiationexception-class</a>. Instantiation error if <code>sizes</code> map is empty or contains negative keys or values.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -71,9 +70,9 @@ MapMeasureDependentRenderSize(<wbr/><ol class="parameter-list single-line"> <li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a></li>
 <li class="self-crumb">MapMeasureDependentRenderSize factory constructor</li>
 </ol>
 <h5>MapMeasureDependentRenderSize class</h5>
@@ -90,5 +89,4 @@ MapMeasureDependentRenderSize(<wbr/><ol class="parameter-list single-line"> <li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

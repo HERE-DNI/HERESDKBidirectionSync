@@ -1,10 +1,9 @@
 ---
-title: "widgetPins property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-heremapcontroller-widgetpins"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- widgetPins.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-heremapcontroller-widgetpins"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-heremapcontroller-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/HereMapController-class.html">/sdk-for-flutter-explore-mapview-heremapcontroller-class</a></li>
 <li class="self-crumb">widgetPins property</li>
 </ol>
 <div class="self-name">widgetPins</div>
@@ -39,7 +38,7 @@ menu
 <h1>widgetPins property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-List&lt;<wbr/>/sdk-for-flutter-explore-mapview-widgetpin-class&gt;
+List&lt;<wbr/><a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a>&gt;
 widgetPins
 </section>
 <section class="desc markdown">
@@ -58,9 +57,9 @@ widgetPins
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-heremapcontroller-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/HereMapController-class.html">/sdk-for-flutter-explore-mapview-heremapcontroller-class</a></li>
 <li class="self-crumb">widgetPins property</li>
 </ol>
 <h5>HereMapController class</h5>
@@ -77,5 +76,4 @@ widgetPins
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

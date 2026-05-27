@@ -1,10 +1,9 @@
 ---
-title: "DoubleTapListener class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-gestures-doubletaplistener-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- DoubleTapListener-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-gestures-doubletaplistener-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
 <li class="self-crumb">DoubleTapListener class</li>
 </ol>
 <div class="self-name">DoubleTapListener</div>
@@ -58,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="DoubleTapListener">
-/sdk-for-flutter-explore-gestures-doubletaplistener-doubletaplistener(void onDoubleTapLambda(/sdk-for-flutter-explore-core-point2d-class))
+<a href="../gestures/DoubleTapListener/DoubleTapListener.html">/sdk-for-flutter-explore-gestures-doubletaplistener-doubletaplistener</a>(void onDoubleTapLambda(<a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>))
 </dt>
 <dd>
           Abstract class for handling double tap gestures.
@@ -70,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-gestures-doubletaplistener-hashcode
+<a href="../gestures/DoubleTapListener/hashCode.html">/sdk-for-flutter-explore-gestures-doubletaplistener-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -78,7 +77,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-gestures-doubletaplistener-runtimetype
+<a href="../gestures/DoubleTapListener/runtimeType.html">/sdk-for-flutter-explore-gestures-doubletaplistener-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -91,7 +90,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-gestures-doubletaplistener-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../gestures/DoubleTapListener/noSuchMethod.html">/sdk-for-flutter-explore-gestures-doubletaplistener-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -100,7 +99,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="onDoubleTap">
-/sdk-for-flutter-explore-gestures-doubletaplistener-ondoubletap(<wbr/>/sdk-for-flutter-explore-core-point2d-class origin)
+<a href="../gestures/DoubleTapListener/onDoubleTap.html">/sdk-for-flutter-explore-gestures-doubletaplistener-ondoubletap</a>(<wbr/><a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> origin)
     → void
 
 </dt>
@@ -110,7 +109,7 @@ menu
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-gestures-doubletaplistener-tostring(<wbr/>)
+<a href="../gestures/DoubleTapListener/toString.html">/sdk-for-flutter-explore-gestures-doubletaplistener-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -124,7 +123,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-gestures-doubletaplistener-operator-equals(<wbr/>Object other)
+<a href="../gestures/DoubleTapListener/operator_equals.html">/sdk-for-flutter-explore-gestures-doubletaplistener-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -142,8 +141,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
 <li class="self-crumb">DoubleTapListener class</li>
 </ol>
 <h5>gestures library</h5>
@@ -160,5 +159,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

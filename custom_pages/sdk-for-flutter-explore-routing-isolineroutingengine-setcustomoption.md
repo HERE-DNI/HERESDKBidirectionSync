@@ -1,10 +1,9 @@
 ---
-title: "setCustomOption abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-isolineroutingengine-setcustomoption"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- setCustomOption.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-isolineroutingengine-setcustomoption"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-isolineroutingengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/IsolineRoutingEngine-class.html">/sdk-for-flutter-explore-routing-isolineroutingengine-class</a></li>
 <li class="self-crumb">setCustomOption abstract method</li>
 </ol>
 <div class="self-name">setCustomOption</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>setCustomOption abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-routing-routingerror?
+<a href="../../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a>?
 setCustomOption(<wbr/><ol class="parameter-list single-line"> <li>String name, </li>
 <li>String? value</li>
 </ol>)
@@ -63,7 +62,7 @@ otherwise the query will callback with the error <code>RoutingError.INTERNAL_ERR
 <p><code>value</code> An option value. If the value is <code>null</code>, the option will be removed. The option value must be a non-empty string.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-routing-routingerror. An optional error of setting the option.</p>
+<p>Returns <a href="../../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a>. An optional error of setting the option.</p>
 <p>It's <code>null</code> if the option has been set successfully.
 It's <code>RoutingError.INVALID_PARAMETER</code> if the input name and/or value haven't passed internal validation.</p>
 </section>
@@ -79,9 +78,9 @@ It's <code>RoutingError.INVALID_PARAMETER</code> if the input name and/or value 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-isolineroutingengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/IsolineRoutingEngine-class.html">/sdk-for-flutter-explore-routing-isolineroutingengine-class</a></li>
 <li class="self-crumb">setCustomOption abstract method</li>
 </ol>
 <h5>IsolineRoutingEngine class</h5>
@@ -98,5 +97,4 @@ It's <code>RoutingError.INVALID_PARAMETER</code> if the input name and/or value 
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

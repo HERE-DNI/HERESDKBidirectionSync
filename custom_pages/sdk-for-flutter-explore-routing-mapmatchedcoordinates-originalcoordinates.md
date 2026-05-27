@@ -1,10 +1,9 @@
 ---
-title: "originalCoordinates property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-mapmatchedcoordinates-originalcoordinates"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- originalCoordinates.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-mapmatchedcoordinates-originalcoordinates
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-mapmatchedcoordinates-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/MapMatchedCoordinates-class.html">/sdk-for-flutter-explore-routing-mapmatchedcoordinates-class</a></li>
 <li class="self-crumb">originalCoordinates property</li>
 </ol>
 <div class="self-name">originalCoordinates</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>originalCoordinates property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-geocoordinates-class
+<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 originalCoordinates
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +56,9 @@ originalCoordinates
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-mapmatchedcoordinates-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/MapMatchedCoordinates-class.html">/sdk-for-flutter-explore-routing-mapmatchedcoordinates-class</a></li>
 <li class="self-crumb">originalCoordinates property</li>
 </ol>
 <h5>MapMatchedCoordinates class</h5>
@@ -76,5 +75,4 @@ originalCoordinates
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

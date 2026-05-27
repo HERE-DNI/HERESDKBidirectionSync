@@ -1,10 +1,9 @@
 ---
-title: "AuthenticationData constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-authenticationdata-authenticationdata"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- AuthenticationData.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-authenticationdata-authenticationdata"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-authenticationdata-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/AuthenticationData-class.html">/sdk-for-flutter-explore-core-authenticationdata-class</a></li>
 <li class="self-crumb">AuthenticationData constructor</li>
 </ol>
 <div class="self-name">AuthenticationData</div>
@@ -53,9 +52,9 @@ AuthenticationData(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-authenticationdata-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/AuthenticationData-class.html">/sdk-for-flutter-explore-core-authenticationdata-class</a></li>
 <li class="self-crumb">AuthenticationData constructor</li>
 </ol>
 <h5>AuthenticationData class</h5>
@@ -72,5 +71,4 @@ AuthenticationData(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

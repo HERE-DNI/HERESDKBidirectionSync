@@ -1,10 +1,9 @@
 ---
-title: "DataAttributeValue.withFloat constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-dataattributevalue-dataattributevalue-withfloat"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- DataAttributeValue.withFloat.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-dataattributevalue-dataattribu
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/DataAttributeValue-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class</a></li>
 <li class="self-crumb">DataAttributeValue.withFloat factory constructor</li>
 </ol>
 <div class="self-name">DataAttributeValue.withFloat</div>
@@ -59,9 +58,9 @@ DataAttributeValue.withFloat(<wbr/><ol class="parameter-list single-line"> <li>d
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/DataAttributeValue-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class</a></li>
 <li class="self-crumb">DataAttributeValue.withFloat factory constructor</li>
 </ol>
 <h5>DataAttributeValue class</h5>
@@ -78,5 +77,4 @@ DataAttributeValue.withFloat(<wbr/><ol class="parameter-list single-line"> <li>d
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

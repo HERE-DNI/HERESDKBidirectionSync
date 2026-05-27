@@ -1,10 +1,9 @@
 ---
-title: "routeOffset property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-routerailwaycrossing-routeoffset"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- routeOffset.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-routerailwaycrossing-routeoffset"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routerailwaycrossing-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RouteRailwayCrossing-class.html">/sdk-for-flutter-explore-routing-routerailwaycrossing-class</a></li>
 <li class="self-crumb">routeOffset property</li>
 </ol>
 <div class="self-name">routeOffset</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>routeOffset property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-routing-routeoffset-class
+<a href="../../routing/RouteOffset-class.html">/sdk-for-flutter-explore-routing-routeoffset-class</a>
 routeOffset
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +56,9 @@ routeOffset
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routerailwaycrossing-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RouteRailwayCrossing-class.html">/sdk-for-flutter-explore-routing-routerailwaycrossing-class</a></li>
 <li class="self-crumb">routeOffset property</li>
 </ol>
 <h5>RouteRailwayCrossing class</h5>
@@ -76,5 +75,4 @@ routeOffset
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

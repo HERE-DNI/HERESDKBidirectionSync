@@ -1,10 +1,9 @@
 ---
-title: "MapLayerBuilder class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapLayerBuilder-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -34,8 +33,8 @@ slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapLayerBuilder class</li>
 </ol>
 <div class="self-name">MapLayerBuilder</div>
@@ -131,7 +130,7 @@ assignment can be done for all types of content: point, line, polygon.</li>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapLayerBuilder">
-/sdk-for-flutter-explore-mapview-maplayerbuilder-maplayerbuilder()
+<a href="../mapview/MapLayerBuilder/MapLayerBuilder.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-maplayerbuilder</a>()
 </dt>
 <dd>
           Creates an instance of the layer builder interface.
@@ -143,7 +142,7 @@ assignment can be done for all types of content: point, line, polygon.</li>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-maplayerbuilder-hashcode
+<a href="../mapview/MapLayerBuilder/hashCode.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -151,7 +150,7 @@ assignment can be done for all types of content: point, line, polygon.</li>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-maplayerbuilder-runtimetype
+<a href="../mapview/MapLayerBuilder/runtimeType.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -164,9 +163,8 @@ assignment can be done for all types of content: point, line, polygon.</li>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="build">
-/sdk-for-flutter-explore-mapview-maplayerbuilder-build(<wbr/>)
-    → /sdk-for-flutter-explore-mapview-maplayer-class
-
+<a href="../mapview/MapLayerBuilder/build.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-build</a>(<wbr/>)
+    → <a href="../mapview/MapLayer-class.html">/sdk-for-flutter-explore-mapview-maplayer-class</a>
 </dt>
 <dd>
   Constructs, registers and configures a new map layer showing specified content type
@@ -175,9 +173,8 @@ according to the configured parameters.
 
 </dd>
 <dt class="callable" id="forMap">
-/sdk-for-flutter-explore-mapview-maplayerbuilder-formap(<wbr/>/sdk-for-flutter-explore-mapview-heremapcontrollercore-class targetMap)
-    → /sdk-for-flutter-explore-mapview-maplayerbuilder-class
-
+<a href="../mapview/MapLayerBuilder/forMap.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-formap</a>(<wbr/><a href="../mapview/HereMapControllerCore-class.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-class</a> targetMap)
+    → <a href="../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>
 </dt>
 <dd>
   Configures the builder to display a layer in the given map.
@@ -185,7 +182,7 @@ according to the configured parameters.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-maplayerbuilder-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapLayerBuilder/noSuchMethod.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -194,7 +191,7 @@ according to the configured parameters.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-maplayerbuilder-tostring(<wbr/>)
+<a href="../mapview/MapLayerBuilder/toString.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -203,9 +200,8 @@ according to the configured parameters.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="withDataSource">
-/sdk-for-flutter-explore-mapview-maplayerbuilder-withdatasource(<wbr/>String dataSourceName, /sdk-for-flutter-explore-mapview-mapcontenttype contentType)
-    → /sdk-for-flutter-explore-mapview-maplayerbuilder-class
-
+<a href="../mapview/MapLayerBuilder/withDataSource.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-withdatasource</a>(<wbr/>String dataSourceName, <a href="../mapview/MapContentType.html">/sdk-for-flutter-explore-mapview-mapcontenttype</a> contentType)
+    → <a href="../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>
 </dt>
 <dd>
   Configures the builder to use a data source with the given name as the source
@@ -214,9 +210,8 @@ of data for the layer.
 
 </dd>
 <dt class="callable" id="withLoadPriority">
-/sdk-for-flutter-explore-mapview-maplayerbuilder-withloadpriority(<wbr/>double loadPriority)
-    → /sdk-for-flutter-explore-mapview-maplayerbuilder-class
-
+<a href="../mapview/MapLayerBuilder/withLoadPriority.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-withloadpriority</a>(<wbr/>double loadPriority)
+    → <a href="../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>
 </dt>
 <dd>
   Configures the builder to set the layer load priority.
@@ -224,9 +219,8 @@ of data for the layer.
 
 </dd>
 <dt class="callable" id="withMapMeasureDependentStorageLevels">
-/sdk-for-flutter-explore-mapview-maplayerbuilder-withmapmeasuredependentstoragelevels(<wbr/>/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class mapLayerMapMeasureDependentStorageLevels)
-    → /sdk-for-flutter-explore-mapview-maplayerbuilder-class
-
+<a href="../mapview/MapLayerBuilder/withMapMeasureDependentStorageLevels.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-withmapmeasuredependentstoragelevels</a>(<wbr/><a href="../mapview/MapLayerMapMeasureDependentStorageLevels-class.html">/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class</a> mapLayerMapMeasureDependentStorageLevels)
+    → <a href="../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>
 </dt>
 <dd>
   Applies a mapping from the map measure to the storage level.
@@ -234,9 +228,8 @@ of data for the layer.
 
 </dd>
 <dt class="callable" id="withName">
-/sdk-for-flutter-explore-mapview-maplayerbuilder-withname(<wbr/>String name)
-    → /sdk-for-flutter-explore-mapview-maplayerbuilder-class
-
+<a href="../mapview/MapLayerBuilder/withName.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-withname</a>(<wbr/>String name)
+    → <a href="../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>
 </dt>
 <dd>
   Configures builder to use the given name as a layer name.
@@ -244,9 +237,8 @@ of data for the layer.
 
 </dd>
 <dt class="callable" id="withPriority">
-/sdk-for-flutter-explore-mapview-maplayerbuilder-withpriority(<wbr/>/sdk-for-flutter-explore-mapview-maplayerpriority-class priority)
-    → /sdk-for-flutter-explore-mapview-maplayerbuilder-class
-
+<a href="../mapview/MapLayerBuilder/withPriority.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-withpriority</a>(<wbr/><a href="../mapview/MapLayerPriority-class.html">/sdk-for-flutter-explore-mapview-maplayerpriority-class</a> priority)
+    → <a href="../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>
 </dt>
 <dd>
   Configures the builder to set the MapLayerPriority to be used by the layer.
@@ -254,9 +246,8 @@ of data for the layer.
 
 </dd>
 <dt class="callable" id="withStyle">
-/sdk-for-flutter-explore-mapview-maplayerbuilder-withstyle(<wbr/>/sdk-for-flutter-explore-mapview-style-class style)
-    → /sdk-for-flutter-explore-mapview-maplayerbuilder-class
-
+<a href="../mapview/MapLayerBuilder/withStyle.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-withstyle</a>(<wbr/><a href="../mapview/Style-class.html">/sdk-for-flutter-explore-mapview-style-class</a> style)
+    → <a href="../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>
 </dt>
 <dd>
   Configures the builder to use a style.
@@ -264,9 +255,8 @@ of data for the layer.
 
 </dd>
 <dt class="callable" id="withVisibilityRange">
-/sdk-for-flutter-explore-mapview-maplayerbuilder-withvisibilityrange(<wbr/>/sdk-for-flutter-explore-mapview-maplayervisibilityrange-class visibilityRange)
-    → /sdk-for-flutter-explore-mapview-maplayerbuilder-class
-
+<a href="../mapview/MapLayerBuilder/withVisibilityRange.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-withvisibilityrange</a>(<wbr/><a href="../mapview/MapLayerVisibilityRange-class.html">/sdk-for-flutter-explore-mapview-maplayervisibilityrange-class</a> visibilityRange)
+    → <a href="../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>
 </dt>
 <dd>
   Configures the builder to set the layer visible in the given zoom levels range.
@@ -279,7 +269,7 @@ of data for the layer.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-maplayerbuilder-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapLayerBuilder/operator_equals.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -297,8 +287,8 @@ of data for the layer.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapLayerBuilder class</li>
 </ol>
 <h5>mapview library</h5>
@@ -315,5 +305,4 @@ of data for the layer.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

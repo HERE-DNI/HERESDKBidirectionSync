@@ -1,10 +1,9 @@
 ---
-title: "index property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-gestures-gesturetype"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- index.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-gestures-gesturetype"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-gesturetype</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/GestureType.html">/sdk-for-flutter-explore-gestures-gesturetype</a></li>
 <li class="self-crumb">index property</li>
 </ol>
 <div class="self-name">index</div>
@@ -64,9 +63,9 @@ enumerated type's static <code>values</code> list.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-gesturetype</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/GestureType.html">/sdk-for-flutter-explore-gestures-gesturetype</a></li>
 <li class="self-crumb">index property</li>
 </ol>
 <h5>GestureType enum</h5>
@@ -83,5 +82,4 @@ enumerated type's static <code>values</code> list.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

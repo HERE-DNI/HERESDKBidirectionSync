@@ -1,10 +1,9 @@
 ---
-title: "MapPolylineSolidMultiColorRepresentation.withOutline constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-mappolylinesolidmulticolorrepresentation-withoutline"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapPolylineSolidMultiColorRepresentation.withOutline.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolylineSolidMultiColorRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-class</a></li>
 <li class="self-crumb">MapPolylineSolidMultiColorRepresentation.withOutline factory constructor</li>
 </ol>
 <div class="self-name">MapPolylineSolidMultiColorRepresentation.withOutline</div>
@@ -38,10 +37,10 @@ menu
 <div>
 <h1>MapPolylineSolidMultiColorRepresentation.withOutline constructor</h1></div>
 <section class="multi-line-signature">
-MapPolylineSolidMultiColorRepresentation.withOutline(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class lineWidth, </li>
-<li>/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class outlineWidth, </li>
+MapPolylineSolidMultiColorRepresentation.withOutline(<wbr/><ol class="parameter-list"> <li><a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> lineWidth, </li>
+<li><a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> outlineWidth, </li>
 <li>Color outlineColor, </li>
-<li>/sdk-for-flutter-explore-mapview-linecap capShape, </li>
+<li><a href="../../mapview/LineCap.html">/sdk-for-flutter-explore-mapview-linecap</a> capShape, </li>
 <li>List&lt;<wbr/>double&gt; colorStops, </li>
 <li>List&lt;<wbr/>int&gt; colorIndices, </li>
 <li>List&lt;<wbr/>Color&gt; colors, </li>
@@ -64,8 +63,8 @@ and <code>outlineWidth</code>, the value is constant and equal to the width give
 the biggest map measure in the <code>lineWidth</code> and <code>outlineWidth</code>.</p>
 <p>At map measures between two nearest given map measure is
 linearly interpolated between width values given for these map measures.</p>
-<p>For /sdk-for-flutter-explore-mapview-mapmeasurekind only /sdk-for-flutter-explore-mapview-mapmeasurekind is supported.</p>
-<p>For /sdk-for-flutter-explore-mapview-rendersizeunit only /sdk-for-flutter-explore-mapview-rendersizeunit is supported.</p>
+<p>For <a href="../../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> only <a href="../../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> is supported.</p>
+<p>For <a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> only <a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> is supported.</p>
 <p><code>lineWidth</code> must not be 0 (<code>lineWidth.sizes</code> with all values set to 0.0).</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
@@ -114,7 +113,7 @@ For this smallest segment gradient length is applied as-is, for all other segmen
 smallest segment's size to other segment size ratio.</p>
 <p>Length of '0.0' is the default value which means blending will not be applied.
 Valid value range is [0.0, 1.0]. Out of range values are not supported.</p>
-<p>Throws /sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-class. In case of invalid input parameters.</p>
+<p>Throws <a href="../../mapview/MapPolylineRepresentationInstantiationException-class.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-class</a>. In case of invalid input parameters.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -128,9 +127,9 @@ Valid value range is [0.0, 1.0]. Out of range values are not supported.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolylineSolidMultiColorRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-class</a></li>
 <li class="self-crumb">MapPolylineSolidMultiColorRepresentation.withOutline factory constructor</li>
 </ol>
 <h5>MapPolylineSolidMultiColorRepresentation class</h5>
@@ -147,5 +146,4 @@ Valid value range is [0.0, 1.0]. Out of range values are not supported.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

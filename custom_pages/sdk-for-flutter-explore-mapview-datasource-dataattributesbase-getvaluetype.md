@@ -1,10 +1,9 @@
 ---
-title: "getValueType abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getvaluetype"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- getValueType.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-dataattributesbase-getvaluetyp
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/DataAttributesBase-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-class</a></li>
 <li class="self-crumb">getValueType abstract method</li>
 </ol>
 <div class="self-name">getValueType</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>getValueType abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevaluevaluetype?
+<a href="../../mapview.datasource/DataAttributeValueValueType.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevaluevaluetype</a>?
 getValueType(<wbr/><ol class="parameter-list single-line"> <li>String name</li>
 </ol>)
 
@@ -50,7 +49,7 @@ getValueType(<wbr/><ol class="parameter-list single-line"> <li>String name</li>
 <ul>
 <li><code>name</code> Attribute name.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-datasource-dataattributevaluevaluetype. Attribute value type or <code>null</code> if it is not contained.</p>
+<p>Returns <a href="../../mapview.datasource/DataAttributeValueValueType.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevaluevaluetype</a>. Attribute value type or <code>null</code> if it is not contained.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +63,9 @@ getValueType(<wbr/><ol class="parameter-list single-line"> <li>String name</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/DataAttributesBase-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbase-class</a></li>
 <li class="self-crumb">getValueType abstract method</li>
 </ol>
 <h5>DataAttributesBase class</h5>
@@ -83,5 +82,4 @@ getValueType(<wbr/><ol class="parameter-list single-line"> <li>String name</li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "trafficSpans property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-trafficonsection-trafficspans"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- trafficSpans.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-trafficonsection-trafficspans"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-trafficonsection-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TrafficOnSection-class.html">/sdk-for-flutter-explore-routing-trafficonsection-class</a></li>
 <li class="self-crumb">trafficSpans property</li>
 </ol>
 <div class="self-name">trafficSpans</div>
@@ -39,7 +38,7 @@ menu
 <h1>trafficSpans property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-routing-trafficonspan-class&gt;
+        List&lt;<wbr/><a href="../../routing/TrafficOnSpan-class.html">/sdk-for-flutter-explore-routing-trafficonspan-class</a>&gt;
 trafficSpans
 <div class="features">getter/setter pair</div>
 </section>
@@ -58,9 +57,9 @@ trafficSpans
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-trafficonsection-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TrafficOnSection-class.html">/sdk-for-flutter-explore-routing-trafficonsection-class</a></li>
 <li class="self-crumb">trafficSpans property</li>
 </ol>
 <h5>TrafficOnSection class</h5>
@@ -77,5 +76,4 @@ trafficSpans
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

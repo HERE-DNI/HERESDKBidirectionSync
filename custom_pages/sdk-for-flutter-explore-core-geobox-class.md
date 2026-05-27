@@ -1,10 +1,9 @@
 ---
-title: "GeoBox class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-geobox-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- GeoBox-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -37,8 +36,8 @@ slug: "sdk-for-flutter-explore-core-geobox-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">GeoBox class</li>
 </ol>
 <div class="self-name">GeoBox</div>
@@ -84,7 +83,7 @@ latitude of the <code>GeoBox.northEastCorner</code>.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="GeoBox">
-/sdk-for-flutter-explore-core-geobox-geobox(/sdk-for-flutter-explore-core-geocoordinates-class southWestCorner, /sdk-for-flutter-explore-core-geocoordinates-class northEastCorner)
+<a href="../core/GeoBox/GeoBox.html">/sdk-for-flutter-explore-core-geobox-geobox</a>(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> southWestCorner, <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> northEastCorner)
 </dt>
 <dd>
           Creates a new instance.
@@ -96,7 +95,7 @@ latitude of the <code>GeoBox.northEastCorner</code>.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-core-geobox-hashcode
+<a href="../core/GeoBox/hashCode.html">/sdk-for-flutter-explore-core-geobox-hashcode</a>
 → int
 </dt>
 <dd>
@@ -104,15 +103,15 @@ latitude of the <code>GeoBox.northEastCorner</code>.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="northEastCorner">
-/sdk-for-flutter-explore-core-geobox-northeastcorner
-→ /sdk-for-flutter-explore-core-geocoordinates-class
+<a href="../core/GeoBox/northEastCorner.html">/sdk-for-flutter-explore-core-geobox-northeastcorner</a>
+→ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 </dt>
 <dd>
   North east corner coordinates.
   <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-geobox-runtimetype
+<a href="../core/GeoBox/runtimeType.html">/sdk-for-flutter-explore-core-geobox-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -120,8 +119,8 @@ latitude of the <code>GeoBox.northEastCorner</code>.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="southWestCorner">
-/sdk-for-flutter-explore-core-geobox-southwestcorner
-→ /sdk-for-flutter-explore-core-geocoordinates-class
+<a href="../core/GeoBox/southWestCorner.html">/sdk-for-flutter-explore-core-geobox-southwestcorner</a>
+→ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 </dt>
 <dd>
   South west corner coordinates.
@@ -133,7 +132,7 @@ latitude of the <code>GeoBox.northEastCorner</code>.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="containsGeoBox">
-/sdk-for-flutter-explore-core-geobox-containsgeobox(<wbr/>/sdk-for-flutter-explore-core-geobox-class geoBox)
+<a href="../core/GeoBox/containsGeoBox.html">/sdk-for-flutter-explore-core-geobox-containsgeobox</a>(<wbr/><a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> geoBox)
     → bool
 
 </dt>
@@ -143,7 +142,7 @@ latitude of the <code>GeoBox.northEastCorner</code>.</p>
 
 </dd>
 <dt class="callable" id="containsGeoCoordinates">
-/sdk-for-flutter-explore-core-geobox-containsgeocoordinates(<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class geoCoordinates)
+<a href="../core/GeoBox/containsGeoCoordinates.html">/sdk-for-flutter-explore-core-geobox-containsgeocoordinates</a>(<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> geoCoordinates)
     → bool
 
 </dt>
@@ -153,9 +152,8 @@ latitude of the <code>GeoBox.northEastCorner</code>.</p>
 
 </dd>
 <dt class="callable" id="envelope">
-/sdk-for-flutter-explore-core-geobox-envelope(<wbr/>/sdk-for-flutter-explore-core-geobox-class geoBox)
-    → /sdk-for-flutter-explore-core-geobox-class
-
+<a href="../core/GeoBox/envelope.html">/sdk-for-flutter-explore-core-geobox-envelope</a>(<wbr/><a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> geoBox)
+    → <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>
 </dt>
 <dd>
   Envelopes two <code>GeoBox</code> areas by returning the smallest <code>GeoBox</code> covering both this
@@ -164,9 +162,8 @@ GeoBox and the specified <code>GeoBox</code>.
 
 </dd>
 <dt class="callable" id="expandedBy">
-/sdk-for-flutter-explore-core-geobox-expandedby(<wbr/>double southMeters, double westMeters, double northMeters, double eastMeters)
-    → /sdk-for-flutter-explore-core-geobox-class
-
+<a href="../core/GeoBox/expandedBy.html">/sdk-for-flutter-explore-core-geobox-expandedby</a>(<wbr/>double southMeters, double westMeters, double northMeters, double eastMeters)
+    → <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>
 </dt>
 <dd>
   Creates a <code>GeoBox</code> which is expanded by a fixed distance.
@@ -174,17 +171,17 @@ GeoBox and the specified <code>GeoBox</code>.
 
 </dd>
 <dt class="callable" id="intersection">
-/sdk-for-flutter-explore-core-geobox-intersection(<wbr/>/sdk-for-flutter-explore-core-geobox-class geoBox)
-    → List&lt;<wbr/>/sdk-for-flutter-explore-core-geobox-class&gt;
+<a href="../core/GeoBox/intersection.html">/sdk-for-flutter-explore-core-geobox-intersection</a>(<wbr/><a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> geoBox)
+    → List&lt;<wbr/><a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>&gt;
 
 </dt>
 <dd>
-  Computes the intersection with the passed /sdk-for-flutter-explore-core-geobox-class.
+  Computes the intersection with the passed <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>.
   
 
 </dd>
 <dt class="callable" id="intersects">
-/sdk-for-flutter-explore-core-geobox-intersects(<wbr/>/sdk-for-flutter-explore-core-geobox-class geoBox)
+<a href="../core/GeoBox/intersects.html">/sdk-for-flutter-explore-core-geobox-intersects</a>(<wbr/><a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> geoBox)
     → bool
 
 </dt>
@@ -194,7 +191,7 @@ GeoBox and the specified <code>GeoBox</code>.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-geobox-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/GeoBox/noSuchMethod.html">/sdk-for-flutter-explore-core-geobox-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -203,7 +200,7 @@ GeoBox and the specified <code>GeoBox</code>.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-geobox-tostring(<wbr/>)
+<a href="../core/GeoBox/toString.html">/sdk-for-flutter-explore-core-geobox-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -217,7 +214,7 @@ GeoBox and the specified <code>GeoBox</code>.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-core-geobox-operator-equals(<wbr/>Object other)
+<a href="../core/GeoBox/operator_equals.html">/sdk-for-flutter-explore-core-geobox-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -232,8 +229,8 @@ GeoBox and the specified <code>GeoBox</code>.
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="containingGeoCoordinates">
-/sdk-for-flutter-explore-core-geobox-containinggeocoordinates(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt; geoCoordinates)
-    → /sdk-for-flutter-explore-core-geobox-class?
+<a href="../core/GeoBox/containingGeoCoordinates.html">/sdk-for-flutter-explore-core-geobox-containinggeocoordinates</a>(<wbr/>List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt; geoCoordinates)
+    → <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>?
 
 </dt>
 <dd>
@@ -242,8 +239,8 @@ GeoBox and the specified <code>GeoBox</code>.
 
 </dd>
 <dt class="callable" id="envelopeGeoBoxes">
-/sdk-for-flutter-explore-core-geobox-envelopegeoboxes(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-core-geobox-class&gt; geoBoxes)
-    → /sdk-for-flutter-explore-core-geobox-class?
+<a href="../core/GeoBox/envelopeGeoBoxes.html">/sdk-for-flutter-explore-core-geobox-envelopegeoboxes</a>(<wbr/>List&lt;<wbr/><a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>&gt; geoBoxes)
+    → <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>?
 
 </dt>
 <dd>
@@ -253,12 +250,12 @@ GeoBox and the specified <code>GeoBox</code>.
 
 </dd>
 <dt class="callable" id="intersectionGeoBoxes">
-/sdk-for-flutter-explore-core-geobox-intersectiongeoboxes(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-core-geobox-class&gt; geoBoxes)
-    → List&lt;<wbr/>/sdk-for-flutter-explore-core-geobox-class&gt;
+<a href="../core/GeoBox/intersectionGeoBoxes.html">/sdk-for-flutter-explore-core-geobox-intersectiongeoboxes</a>(<wbr/>List&lt;<wbr/><a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>&gt; geoBoxes)
+    → List&lt;<wbr/><a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>&gt;
 
 </dt>
 <dd>
-  Computes intersection of list of /sdk-for-flutter-explore-core-geobox-class instances.
+  Computes intersection of list of <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> instances.
   
 
 </dd>
@@ -272,8 +269,8 @@ GeoBox and the specified <code>GeoBox</code>.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">GeoBox class</li>
 </ol>
 <h5>core library</h5>
@@ -290,5 +287,4 @@ GeoBox and the specified <code>GeoBox</code>.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "maxSpeedNightInMetersPerSecond property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-generalvehiclespeedlimits-maxspeednightinmeterspersecond"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- maxSpeedNightInMetersPerSecond.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-generalvehiclespeedlimits-maxspeednight
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/GeneralVehicleSpeedLimits-class.html">/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-class</a></li>
 <li class="self-crumb">maxSpeedNightInMetersPerSecond property</li>
 </ol>
 <div class="self-name">maxSpeedNightInMetersPerSecond</div>
@@ -59,9 +58,9 @@ It is <code>null</code> if the general speed limit at night for the country / st
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/GeneralVehicleSpeedLimits-class.html">/sdk-for-flutter-explore-transport-generalvehiclespeedlimits-class</a></li>
 <li class="self-crumb">maxSpeedNightInMetersPerSecond property</li>
 </ol>
 <h5>GeneralVehicleSpeedLimits class</h5>
@@ -78,5 +77,4 @@ It is <code>null</code> if the general speed limit at night for the country / st
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "id property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-placechain-id"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- id.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-placechain-id"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-placechain-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/PlaceChain-class.html">/sdk-for-flutter-explore-search-placechain-class</a></li>
 <li class="self-crumb">id property</li>
 </ol>
 <div class="self-name">id</div>
@@ -59,9 +58,9 @@ The complete list of supported chain IDs can be found <a href="https://www.here.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-placechain-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/PlaceChain-class.html">/sdk-for-flutter-explore-search-placechain-class</a></li>
 <li class="self-crumb">id property</li>
 </ol>
 <h5>PlaceChain class</h5>
@@ -78,5 +77,4 @@ The complete list of supported chain IDs can be found <a href="https://www.here.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

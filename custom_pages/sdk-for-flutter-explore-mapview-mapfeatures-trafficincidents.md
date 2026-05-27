@@ -1,10 +1,9 @@
 ---
-title: "trafficIncidents property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapfeatures-trafficincidents"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- trafficIncidents.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapfeatures-trafficincidents"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapfeatures-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapFeatures-class.html">/sdk-for-flutter-explore-mapview-mapfeatures-class</a></li>
 <li class="self-crumb">trafficIncidents property</li>
 </ol>
 <div class="self-name">trafficIncidents</div>
@@ -50,9 +49,9 @@ incidents to be shown.</p>
 the live traffic incidents can still be shown in offline mode by enabling
 pass-through feature for traffic incidents on <code>sdk.core.engine.SDKNativeEngine</code>.
 See <code>sdk.core.engine.SDKNativeEngine.pass_through_features</code> for details.</p>
-<p>Supports only one mode: /sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficincidentsall.</p>
-<p>Not supported for /sdk-for-flutter-explore-mapview-mapscheme, /sdk-for-flutter-explore-mapview-mapscheme
-and /sdk-for-flutter-explore-mapview-mapscheme.
+<p>Supports only one mode: <a href="../../mapview/MapFeatureModes/trafficIncidentsAll.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-trafficincidentsall</a>.</p>
+<p>Not supported for <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>, <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>
+and <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>.
 By default, this map feature is not enabled.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -67,9 +66,9 @@ By default, this map feature is not enabled.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapfeatures-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapFeatures-class.html">/sdk-for-flutter-explore-mapview-mapfeatures-class</a></li>
 <li class="self-crumb">trafficIncidents property</li>
 </ol>
 <h5>MapFeatures class</h5>
@@ -86,5 +85,4 @@ By default, this map feature is not enabled.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

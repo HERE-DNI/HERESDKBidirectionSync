@@ -1,10 +1,9 @@
 ---
-title: "TransportSpecificationScooterBuilder constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-transportspecificationscooterbuilder"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TransportSpecificationScooterBuilder.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-tr
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/TransportSpecificationScooterBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-class</a></li>
 <li class="self-crumb">TransportSpecificationScooterBuilder factory constructor</li>
 </ol>
 <div class="self-name">TransportSpecificationScooterBuilder</div>
@@ -55,9 +54,9 @@ TransportSpecificationScooterBuilder(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/TransportSpecificationScooterBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationscooterbuilder-class</a></li>
 <li class="self-crumb">TransportSpecificationScooterBuilder factory constructor</li>
 </ol>
 <h5>TransportSpecificationScooterBuilder class</h5>
@@ -74,5 +73,4 @@ TransportSpecificationScooterBuilder(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

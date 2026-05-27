@@ -1,10 +1,9 @@
 ---
-title: "setMarker3dModel abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-locationindicator-setmarker3dmodel"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- setMarker3dModel.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-locationindicator-setmarker3dmodel"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-locationindicator-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/LocationIndicator-class.html">/sdk-for-flutter-explore-mapview-locationindicator-class</a></li>
 <li class="self-crumb">setMarker3dModel abstract method</li>
 </ol>
 <div class="self-name">setMarker3dModel</div>
@@ -40,13 +39,13 @@ menu
 <section class="multi-line-signature">
 <div>
 <ol class="annotation-list">
-<li>@Deprecated("Will be removed in v4.27.0. Please use the <code>setMarker3dModelWithRenderSizeUnit</code> instead.")</li>
+<li>@Deprecated("Will be removed in v4.27.0. Please use the `setMarker3dModelWithRenderSizeUnit` instead.")</li>
 </ol>
 </div>
 void
-setMarker3dModel(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class model, </li>
+setMarker3dModel(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapMarker3DModel-class.html">/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</a> model, </li>
 <li>double scale, </li>
-<li>/sdk-for-flutter-explore-mapview-locationindicatormarkertype type</li>
+<li><a href="../../mapview/LocationIndicatorMarkerType.html">/sdk-for-flutter-explore-mapview-locationindicatormarkertype</a> type</li>
 </ol>)
 
       
@@ -67,7 +66,7 @@ created from obj files are supported. Those created from mesh will be ignored.</
 <p><code>scale</code> The scaling which will be applied to the marker model. As the size of the
 location marker should be aligned on devices with different resolutions the
 scale factor is applied relative to the ppi value and thus differs from the
-scale which is passed to /sdk-for-flutter-explore-mapview-mapmarker3d-class objects.
+scale which is passed to <a href="../../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a> objects.
 Meter is used for the unit of the map marker 3d model coordinate system.
 For historical reason, the scale factor is internally devided by 6.
 To display a unit qube of 1x1x1 meter as is, please use a scale value of 6.0.</p>
@@ -91,9 +90,9 @@ void setMarker3dModel(MapMarker3DModel model, double scale, LocationIndicatorMar
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-locationindicator-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/LocationIndicator-class.html">/sdk-for-flutter-explore-mapview-locationindicator-class</a></li>
 <li class="self-crumb">setMarker3dModel abstract method</li>
 </ol>
 <h5>LocationIndicator class</h5>
@@ -110,5 +109,4 @@ void setMarker3dModel(MapMarker3DModel model, double scale, LocationIndicatorMar
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

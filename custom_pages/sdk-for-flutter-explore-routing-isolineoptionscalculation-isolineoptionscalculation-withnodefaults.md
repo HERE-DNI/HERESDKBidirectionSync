@@ -1,10 +1,9 @@
 ---
-title: "IsolineOptionsCalculation.withNoDefaults constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-isolineoptionscalculation-isolineoptionscalculation-withnodefaults"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- IsolineOptionsCalculation.withNoDefaults.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-isolineoptionscalculation-isolineoptionsc
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/IsolineOptionsCalculation-class.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</a></li>
 <li class="self-crumb">IsolineOptionsCalculation.withNoDefaults factory constructor</li>
 </ol>
 <div class="self-name">IsolineOptionsCalculation.withNoDefaults</div>
@@ -38,11 +37,11 @@ menu
 <div>
 <h1>IsolineOptionsCalculation.withNoDefaults constructor</h1></div>
 <section class="multi-line-signature">
-IsolineOptionsCalculation.withNoDefaults(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-routing-isolinerangetype rangeType, </li>
+IsolineOptionsCalculation.withNoDefaults(<wbr/><ol class="parameter-list"> <li><a href="../../routing/IsolineRangeType.html">/sdk-for-flutter-explore-routing-isolinerangetype</a> rangeType, </li>
 <li>List&lt;<wbr/>int&gt; rangeValues, </li>
-<li>/sdk-for-flutter-explore-routing-isolinecalculationmode isolineCalculationMode, </li>
+<li><a href="../../routing/IsolineCalculationMode.html">/sdk-for-flutter-explore-routing-isolinecalculationmode</a> isolineCalculationMode, </li>
 <li>int? maxPoints, </li>
-<li>/sdk-for-flutter-explore-routing-routeplacedirection isolineDirection, </li>
+<li><a href="../../routing/RoutePlaceDirection.html">/sdk-for-flutter-explore-routing-routeplacedirection</a> isolineDirection, </li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -76,9 +75,9 @@ IsolineOptionsCalculation.withNoDefaults(<wbr/><ol class="parameter-list"> <li>/
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/IsolineOptionsCalculation-class.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</a></li>
 <li class="self-crumb">IsolineOptionsCalculation.withNoDefaults factory constructor</li>
 </ol>
 <h5>IsolineOptionsCalculation class</h5>
@@ -95,5 +94,4 @@ IsolineOptionsCalculation.withNoDefaults(<wbr/><ol class="parameter-list"> <li>/
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

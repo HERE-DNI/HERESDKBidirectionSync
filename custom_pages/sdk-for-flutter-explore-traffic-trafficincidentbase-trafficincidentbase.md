@@ -1,10 +1,9 @@
 ---
-title: "TrafficIncidentBase constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-traffic-trafficincidentbase-trafficincidentbase"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TrafficIncidentBase.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficincidentbase-trafficincidentbase"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficincidentbase-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficIncidentBase-class.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-class</a></li>
 <li class="self-crumb">TrafficIncidentBase factory constructor</li>
 </ol>
 <div class="self-name">TrafficIncidentBase</div>
@@ -38,9 +37,9 @@ menu
 <div>
 <h1>TrafficIncidentBase constructor</h1></div>
 <section class="multi-line-signature">
-TrafficIncidentBase(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-traffic-trafficincidentimpact impactGetLambda(), </li>
-<li>/sdk-for-flutter-explore-traffic-trafficincidenttype typeGetLambda(), </li>
-<li>/sdk-for-flutter-explore-core-localizedtext-class descriptionGetLambda(), </li>
+TrafficIncidentBase(<wbr/><ol class="parameter-list"> <li><a href="../../traffic/TrafficIncidentImpact.html">/sdk-for-flutter-explore-traffic-trafficincidentimpact</a> impactGetLambda(), </li>
+<li><a href="../../traffic/TrafficIncidentType.html">/sdk-for-flutter-explore-traffic-trafficincidenttype</a> typeGetLambda(), </li>
+<li><a href="../../core/LocalizedText-class.html">/sdk-for-flutter-explore-core-localizedtext-class</a> descriptionGetLambda(), </li>
 <li>DateTime? startTimeGetLambda(), </li>
 <li>DateTime? endTimeGetLambda(), </li>
 </ol>)
@@ -72,9 +71,9 @@ TrafficIncidentBase(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explo
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficincidentbase-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficIncidentBase-class.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-class</a></li>
 <li class="self-crumb">TrafficIncidentBase factory constructor</li>
 </ol>
 <h5>TrafficIncidentBase class</h5>
@@ -91,5 +90,4 @@ TrafficIncidentBase(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explo
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

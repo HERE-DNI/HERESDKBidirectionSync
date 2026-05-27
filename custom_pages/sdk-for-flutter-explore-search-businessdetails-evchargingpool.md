@@ -1,10 +1,9 @@
 ---
-title: "evChargingPool property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-businessdetails-evchargingpool"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- evChargingPool.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-businessdetails-evchargingpool"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-businessdetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/BusinessDetails-class.html">/sdk-for-flutter-explore-search-businessdetails-class</a></li>
 <li class="self-crumb">evChargingPool property</li>
 </ol>
 <div class="self-name">evChargingPool</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>evChargingPool property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-search-evchargingpool-class?
+<a href="../../search/EVChargingPool-class.html">/sdk-for-flutter-explore-search-evchargingpool-class</a>?
         evChargingPool
 <div class="features">getter/setter pair</div>
 </section>
@@ -59,9 +58,9 @@ valid contracts with HERE.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-businessdetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/BusinessDetails-class.html">/sdk-for-flutter-explore-search-businessdetails-class</a></li>
 <li class="self-crumb">evChargingPool property</li>
 </ol>
 <h5>BusinessDetails class</h5>
@@ -78,5 +77,4 @@ valid contracts with HERE.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

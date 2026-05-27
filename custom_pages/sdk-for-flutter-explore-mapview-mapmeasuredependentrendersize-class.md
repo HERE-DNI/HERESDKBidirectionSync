@@ -1,10 +1,9 @@
 ---
-title: "MapMeasureDependentRenderSize class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapMeasureDependentRenderSize-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +28,8 @@ slug: "sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapMeasureDependentRenderSize class</li>
 </ol>
 <div class="self-name">MapMeasureDependentRenderSize</div>
@@ -70,14 +69,14 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapMeasureDependentRenderSize">
-/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-mapmeasuredependentrendersize(/sdk-for-flutter-explore-mapview-mapmeasurekind measureKind, /sdk-for-flutter-explore-mapview-rendersizeunit sizeUnit, Map&lt;<wbr/>double, double&gt; sizes)
+<a href="../mapview/MapMeasureDependentRenderSize/MapMeasureDependentRenderSize.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-mapmeasuredependentrendersize</a>(<a href="../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> measureKind, <a href="../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> sizeUnit, Map&lt;<wbr/>double, double&gt; sizes)
 </dt>
 <dd>
           Constructs a <code>MapMeasureDependentRenderSize</code> from given parameters.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="MapMeasureDependentRenderSize.withSingleSize">
-/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-mapmeasuredependentrendersize-withsinglesize(/sdk-for-flutter-explore-mapview-rendersizeunit sizeUnit, double size)
+<a href="../mapview/MapMeasureDependentRenderSize/MapMeasureDependentRenderSize.withSingleSize.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-mapmeasuredependentrendersize-withsinglesize</a>(<a href="../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> sizeUnit, double size)
 </dt>
 <dd>
           Constructs a <code>MapMeasureDependentRenderSize</code> from single size value which is constant across all map measures.
@@ -89,7 +88,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-hashcode
+<a href="../mapview/MapMeasureDependentRenderSize/hashCode.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-hashcode</a>
 → int
 </dt>
 <dd>
@@ -97,15 +96,15 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="measureKind">
-/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-measurekind
-→ /sdk-for-flutter-explore-mapview-mapmeasurekind
+<a href="../mapview/MapMeasureDependentRenderSize/measureKind.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-measurekind</a>
+→ <a href="../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a>
 </dt>
 <dd>
-  The unit used for the key in /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizes.
+  The unit used for the key in <a href="../mapview/MapMeasureDependentRenderSize/sizes.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizes</a>.
   <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-runtimetype
+<a href="../mapview/MapMeasureDependentRenderSize/runtimeType.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -113,7 +112,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="sizes">
-/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizes
+<a href="../mapview/MapMeasureDependentRenderSize/sizes.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizes</a>
 → Map&lt;<wbr/>double, double&gt;
 </dt>
 <dd>
@@ -121,11 +120,11 @@ menu
   <div class="features">final</div>
 </dd>
 <dt class="property" id="sizeUnit">
-/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizeunit
-→ /sdk-for-flutter-explore-mapview-rendersizeunit
+<a href="../mapview/MapMeasureDependentRenderSize/sizeUnit.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizeunit</a>
+→ <a href="../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a>
 </dt>
 <dd>
-  The unit used for the value in /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizes.
+  The unit used for the value in <a href="../mapview/MapMeasureDependentRenderSize/sizes.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizes</a>.
   <div class="features">final</div>
 </dd>
 </dl>
@@ -134,7 +133,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapMeasureDependentRenderSize/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -143,7 +142,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-tostring(<wbr/>)
+<a href="../mapview/MapMeasureDependentRenderSize/toString.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -157,7 +156,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapMeasureDependentRenderSize/operator_equals.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -176,8 +175,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapMeasureDependentRenderSize class</li>
 </ol>
 <h5>mapview library</h5>
@@ -194,5 +193,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "y property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-point2d-y"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- y.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-point2d-y"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-point2d-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a></li>
 <li class="self-crumb">y property</li>
 </ol>
 <div class="self-name">y</div>
@@ -58,9 +57,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-point2d-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a></li>
 <li class="self-crumb">y property</li>
 </ol>
 <h5>Point2D class</h5>
@@ -77,5 +76,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

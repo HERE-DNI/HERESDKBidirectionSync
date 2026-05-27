@@ -1,10 +1,9 @@
 ---
-title: "index property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-traffic-trafficincidenttype"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- index.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficincidenttype"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficincidenttype</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficIncidentType.html">/sdk-for-flutter-explore-traffic-trafficincidenttype</a></li>
 <li class="self-crumb">index property</li>
 </ol>
 <div class="self-name">index</div>
@@ -64,9 +63,9 @@ enumerated type's static <code>values</code> list.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficincidenttype</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficIncidentType.html">/sdk-for-flutter-explore-traffic-trafficincidenttype</a></li>
 <li class="self-crumb">index property</li>
 </ol>
 <h5>TrafficIncidentType enum</h5>
@@ -83,5 +82,4 @@ enumerated type's static <code>values</code> list.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

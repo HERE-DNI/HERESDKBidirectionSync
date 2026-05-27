@@ -1,10 +1,9 @@
 ---
-title: "VehicleSpecificationCarBuilder class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- VehicleSpecificationCarBuilder-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -44,8 +43,8 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
 <li class="self-crumb">VehicleSpecificationCarBuilder class</li>
 </ol>
 <div class="self-name">VehicleSpecificationCarBuilder</div>
@@ -69,13 +68,13 @@ menu
 <div>
 <h1>VehicleSpecificationCarBuilder class abstract</h1></div>
 <section class="desc markdown">
-<p>This class constructs a /sdk-for-flutter-explore-transport-vehiclespecification-class for a car.</p>
+<p>This class constructs a <a href="../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a> for a car.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="VehicleSpecificationCarBuilder">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-vehiclespecificationcarbuilder()
+<a href="../transport/VehicleSpecificationCarBuilder/VehicleSpecificationCarBuilder.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-vehiclespecificationcarbuilder</a>()
 </dt>
 <dd>
           Creates a new instance of this class.
@@ -87,7 +86,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-hashcode
+<a href="../transport/VehicleSpecificationCarBuilder/hashCode.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -95,7 +94,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-runtimetype
+<a href="../transport/VehicleSpecificationCarBuilder/runtimeType.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -108,18 +107,17 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="build">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-build(<wbr/>)
-    → /sdk-for-flutter-explore-transport-vehiclespecification-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/build.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-build</a>(<wbr/>)
+    → <a href="../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a>
 </dt>
 <dd>
-  Builds the /sdk-for-flutter-explore-transport-vehiclespecification-class object for /sdk-for-flutter-explore-transport-transportmode with the specifications taken
-from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class object.
+  Builds the <a href="../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a> object for <a href="../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> with the specifications taken
+from the <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a> object.
   
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../transport/VehicleSpecificationCarBuilder/noSuchMethod.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -128,7 +126,7 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-tostring(<wbr/>)
+<a href="../transport/VehicleSpecificationCarBuilder/toString.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -137,9 +135,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="withAxleCount">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withaxlecount(<wbr/>int axleCount)
-    → /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/withAxleCount.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withaxlecount</a>(<wbr/>int axleCount)
+    → <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 </dt>
 <dd>
   Sets the vehicle axle count.
@@ -147,9 +144,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 
 </dd>
 <dt class="callable" id="withCurrentWeightInKilograms">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withcurrentweightinkilograms(<wbr/>int currentWeightInKilograms)
-    → /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/withCurrentWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withcurrentweightinkilograms</a>(<wbr/>int currentWeightInKilograms)
+    → <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 </dt>
 <dd>
   Sets the vehicle current weight in kilograms.
@@ -157,9 +153,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 
 </dd>
 <dt class="callable" id="withEmptyWeightInKilograms">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withemptyweightinkilograms(<wbr/>int emptyWeightInKilograms)
-    → /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/withEmptyWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withemptyweightinkilograms</a>(<wbr/>int emptyWeightInKilograms)
+    → <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 </dt>
 <dd>
   Sets the vehicle empty weight in kilograms.
@@ -167,9 +162,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 
 </dd>
 <dt class="callable" id="withEngineSizeInCubicCentimeters">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withenginesizeincubiccentimeters(<wbr/>int engineSizeInCubicCentimeters)
-    → /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/withEngineSizeInCubicCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withenginesizeincubiccentimeters</a>(<wbr/>int engineSizeInCubicCentimeters)
+    → <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 </dt>
 <dd>
   Sets the vehicle engine size in cubic centimeters.
@@ -177,9 +171,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 
 </dd>
 <dt class="callable" id="withGrossWeightInKilograms">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withgrossweightinkilograms(<wbr/>int grossWeightInKilograms)
-    → /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/withGrossWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withgrossweightinkilograms</a>(<wbr/>int grossWeightInKilograms)
+    → <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 </dt>
 <dd>
   Sets the vehicle gross weight in kilograms.
@@ -187,9 +180,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 
 </dd>
 <dt class="callable" id="withHeightInCentimeters">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withheightincentimeters(<wbr/>int heightInCentimeters)
-    → /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/withHeightInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withheightincentimeters</a>(<wbr/>int heightInCentimeters)
+    → <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 </dt>
 <dd>
   Sets the vehicle height in centimeters.
@@ -197,9 +189,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 
 </dd>
 <dt class="callable" id="withIsCommercial">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withiscommercial(<wbr/>bool isCommercial)
-    → /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/withIsCommercial.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withiscommercial</a>(<wbr/>bool isCommercial)
+    → <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 </dt>
 <dd>
   Sets the vehicle is commercial flag.
@@ -207,9 +198,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 
 </dd>
 <dt class="callable" id="withKingpinToRearAxleDistanceInCentimeters">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withkingpintorearaxledistanceincentimeters(<wbr/>int length)
-    → /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/withKingpinToRearAxleDistanceInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withkingpintorearaxledistanceincentimeters</a>(<wbr/>int length)
+    → <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 </dt>
 <dd>
   Sets the vehicle kingpin to rear axle distance.
@@ -217,9 +207,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 
 </dd>
 <dt class="callable" id="withLastCharacterOfLicensePlate">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withlastcharacteroflicenseplate(<wbr/>String lastCharacterOfLicensePlate)
-    → /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/withLastCharacterOfLicensePlate.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withlastcharacteroflicenseplate</a>(<wbr/>String lastCharacterOfLicensePlate)
+    → <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 </dt>
 <dd>
   Sets the vehicle last character of the license plate.
@@ -227,9 +216,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 
 </dd>
 <dt class="callable" id="withLengthInCentimeters">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withlengthincentimeters(<wbr/>int lengthInCentimeters)
-    → /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/withLengthInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withlengthincentimeters</a>(<wbr/>int lengthInCentimeters)
+    → <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 </dt>
 <dd>
   Sets the vehicle length in centimeters.
@@ -237,9 +225,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 
 </dd>
 <dt class="callable" id="withOccupancy">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withoccupancy(<wbr/>int occupancy)
-    → /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/withOccupancy.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withoccupancy</a>(<wbr/>int occupancy)
+    → <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 </dt>
 <dd>
   Sets the vehicle occupants number.
@@ -247,9 +234,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 
 </dd>
 <dt class="callable" id="withPayloadCapacityInKilograms">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withpayloadcapacityinkilograms(<wbr/>int payloadCapacityInKilograms)
-    → /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/withPayloadCapacityInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withpayloadcapacityinkilograms</a>(<wbr/>int payloadCapacityInKilograms)
+    → <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 </dt>
 <dd>
   Sets the vehicle payload capacity in kilograms.
@@ -257,9 +243,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 
 </dd>
 <dt class="callable" id="withTiresCount">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withtirescount(<wbr/>int tiresCount)
-    → /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/withTiresCount.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withtirescount</a>(<wbr/>int tiresCount)
+    → <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 </dt>
 <dd>
   Sets the vehicle tires count.
@@ -267,9 +252,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 
 </dd>
 <dt class="callable" id="withTrailerAxleCount">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withtraileraxlecount(<wbr/>int trailerAxleCount)
-    → /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/withTrailerAxleCount.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withtraileraxlecount</a>(<wbr/>int trailerAxleCount)
+    → <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 </dt>
 <dd>
   Sets the vehicle trailer axle count.
@@ -277,9 +261,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 
 </dd>
 <dt class="callable" id="withTrailerCount">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withtrailercount(<wbr/>int trailerCount)
-    → /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/withTrailerCount.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withtrailercount</a>(<wbr/>int trailerCount)
+    → <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 </dt>
 <dd>
   Sets the vehicle trailer count.
@@ -287,9 +270,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 
 </dd>
 <dt class="callable" id="withTunnelCategory">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withtunnelcategory(<wbr/>/sdk-for-flutter-explore-transport-tunnelcategory tunnelCategory)
-    → /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/withTunnelCategory.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withtunnelcategory</a>(<wbr/><a href="../transport/TunnelCategory.html">/sdk-for-flutter-explore-transport-tunnelcategory</a> tunnelCategory)
+    → <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 </dt>
 <dd>
   Sets the vehicle tunnel category.
@@ -297,9 +279,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 
 </dd>
 <dt class="callable" id="withWeightPerAxleInKilograms">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withweightperaxleinkilograms(<wbr/>int weightPerAxleInKilograms)
-    → /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/withWeightPerAxleInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withweightperaxleinkilograms</a>(<wbr/>int weightPerAxleInKilograms)
+    → <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 </dt>
 <dd>
   Sets the vehicle weight per axle in kilograms.
@@ -307,9 +288,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 
 </dd>
 <dt class="callable" id="withWidthInCentimeters">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withwidthincentimeters(<wbr/>int widthInCentimeters)
-    → /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
-
+<a href="../transport/VehicleSpecificationCarBuilder/withWidthInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-withwidthincentimeters</a>(<wbr/>int widthInCentimeters)
+    → <a href="../transport/VehicleSpecificationCarBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class</a>
 </dt>
 <dd>
   Sets the vehicle width in centimeters.
@@ -322,7 +302,7 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-operator-equals(<wbr/>Object other)
+<a href="../transport/VehicleSpecificationCarBuilder/operator_equals.html">/sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -340,8 +320,8 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
 <li class="self-crumb">VehicleSpecificationCarBuilder class</li>
 </ol>
 <h5>transport library</h5>
@@ -358,5 +338,4 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationcarbuilder-class
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

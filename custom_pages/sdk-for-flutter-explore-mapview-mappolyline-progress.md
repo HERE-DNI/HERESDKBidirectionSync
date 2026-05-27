@@ -1,10 +1,9 @@
 ---
-title: "progress property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mappolyline-progress"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- progress.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolyline-progress"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolyline-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a></li>
 <li class="self-crumb">progress property</li>
 </ol>
 <div class="self-name">progress</div>
@@ -80,9 +79,9 @@ optional dash pattern.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolyline-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a></li>
 <li class="self-crumb">progress property</li>
 </ol>
 <h5>MapPolyline class</h5>
@@ -99,5 +98,4 @@ optional dash pattern.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "allowOptions property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-truckoptions-allowoptions"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- allowOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-truckoptions-allowoptions"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-truckoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TruckOptions-class.html">/sdk-for-flutter-explore-routing-truckoptions-class</a></li>
 <li class="self-crumb">allowOptions property</li>
 </ol>
 <div class="self-name">allowOptions</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>allowOptions property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-routing-allowoptions-class
+<a href="../../routing/AllowOptions-class.html">/sdk-for-flutter-explore-routing-allowoptions-class</a>
 allowOptions
 <div class="features">getter/setter pair</div>
 </section>
@@ -58,9 +57,9 @@ no options are opt in.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-truckoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TruckOptions-class.html">/sdk-for-flutter-explore-routing-truckoptions-class</a></li>
 <li class="self-crumb">allowOptions property</li>
 </ol>
 <h5>TruckOptions class</h5>
@@ -77,5 +76,4 @@ no options are opt in.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

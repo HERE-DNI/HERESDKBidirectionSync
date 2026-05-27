@@ -1,10 +1,9 @@
 ---
-title: "getPreferredValueForLocales method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-localizedtexts-getpreferredvalueforlocales"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- getPreferredValueForLocales.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-localizedtexts-getpreferredvalueforlocales"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-localizedtexts-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/LocalizedTexts-class.html">/sdk-for-flutter-explore-core-localizedtexts-class</a></li>
 <li class="self-crumb">getPreferredValueForLocales method</li>
 </ol>
 <div class="self-name">getPreferredValueForLocales</div>
@@ -68,9 +67,9 @@ In case of empty list returns <code>null</code>.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-localizedtexts-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/LocalizedTexts-class.html">/sdk-for-flutter-explore-core-localizedtexts-class</a></li>
 <li class="self-crumb">getPreferredValueForLocales method</li>
 </ol>
 <h5>LocalizedTexts class</h5>
@@ -87,5 +86,4 @@ In case of empty list returns <code>null</code>.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

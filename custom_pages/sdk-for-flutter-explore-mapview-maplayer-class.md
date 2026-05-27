@@ -1,10 +1,9 @@
 ---
-title: "MapLayer class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-maplayer-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapLayer-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +28,8 @@ slug: "sdk-for-flutter-explore-mapview-maplayer-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapLayer class</li>
 </ol>
 <div class="self-name">MapLayer</div>
@@ -55,14 +54,14 @@ menu
 <h1>MapLayer class abstract</h1></div>
 <section class="desc markdown">
 <p>Interface for managing a map layer.</p>
-<p>A map layer can be created by using the /sdk-for-flutter-explore-mapview-maplayerbuilder-class. At creation, the layer
+<p>A map layer can be created by using the <a href="../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>. At creation, the layer
 gets added to a map. The layer gets removed from the map upon instance destruction.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapLayer">
-/sdk-for-flutter-explore-mapview-maplayer-maplayer()
+<a href="../mapview/MapLayer/MapLayer.html">/sdk-for-flutter-explore-mapview-maplayer-maplayer</a>()
 </dt>
 <dd>
 </dd>
@@ -72,7 +71,7 @@ gets added to a map. The layer gets removed from the map upon instance destructi
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-maplayer-hashcode
+<a href="../mapview/MapLayer/hashCode.html">/sdk-for-flutter-explore-mapview-maplayer-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -80,7 +79,7 @@ gets added to a map. The layer gets removed from the map upon instance destructi
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-maplayer-runtimetype
+<a href="../mapview/MapLayer/runtimeType.html">/sdk-for-flutter-explore-mapview-maplayer-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -93,7 +92,7 @@ gets added to a map. The layer gets removed from the map upon instance destructi
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="destroy">
-/sdk-for-flutter-explore-mapview-maplayer-destroy(<wbr/>)
+<a href="../mapview/MapLayer/destroy.html">/sdk-for-flutter-explore-mapview-maplayer-destroy</a>(<wbr/>)
     → void
 
 </dt>
@@ -103,7 +102,7 @@ gets added to a map. The layer gets removed from the map upon instance destructi
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-maplayer-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapLayer/noSuchMethod.html">/sdk-for-flutter-explore-mapview-maplayer-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -112,7 +111,7 @@ gets added to a map. The layer gets removed from the map upon instance destructi
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="setEnabled">
-/sdk-for-flutter-explore-mapview-maplayer-setenabled(<wbr/>bool enable)
+<a href="../mapview/MapLayer/setEnabled.html">/sdk-for-flutter-explore-mapview-maplayer-setenabled</a>(<wbr/>bool enable)
     → void
 
 </dt>
@@ -122,7 +121,7 @@ gets added to a map. The layer gets removed from the map upon instance destructi
 
 </dd>
 <dt class="callable" id="setPriority">
-/sdk-for-flutter-explore-mapview-maplayer-setpriority(<wbr/>/sdk-for-flutter-explore-mapview-maplayerpriority-class priority)
+<a href="../mapview/MapLayer/setPriority.html">/sdk-for-flutter-explore-mapview-maplayer-setpriority</a>(<wbr/><a href="../mapview/MapLayerPriority-class.html">/sdk-for-flutter-explore-mapview-maplayerpriority-class</a> priority)
     → void
 
 </dt>
@@ -132,7 +131,7 @@ gets added to a map. The layer gets removed from the map upon instance destructi
 
 </dd>
 <dt class="callable" id="setStyle">
-/sdk-for-flutter-explore-mapview-maplayer-setstyle(<wbr/>/sdk-for-flutter-explore-mapview-style-class style)
+<a href="../mapview/MapLayer/setStyle.html">/sdk-for-flutter-explore-mapview-maplayer-setstyle</a>(<wbr/><a href="../mapview/Style-class.html">/sdk-for-flutter-explore-mapview-style-class</a> style)
     → void
 
 </dt>
@@ -142,7 +141,7 @@ gets added to a map. The layer gets removed from the map upon instance destructi
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-maplayer-tostring(<wbr/>)
+<a href="../mapview/MapLayer/toString.html">/sdk-for-flutter-explore-mapview-maplayer-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -156,7 +155,7 @@ gets added to a map. The layer gets removed from the map upon instance destructi
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-maplayer-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapLayer/operator_equals.html">/sdk-for-flutter-explore-mapview-maplayer-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -174,8 +173,8 @@ gets added to a map. The layer gets removed from the map upon instance destructi
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapLayer class</li>
 </ol>
 <h5>mapview library</h5>
@@ -192,5 +191,4 @@ gets added to a map. The layer gets removed from the map upon instance destructi
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

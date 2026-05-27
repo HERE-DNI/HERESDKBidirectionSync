@@ -1,10 +1,9 @@
 ---
-title: "TransportProfile class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-transportprofile-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TransportProfile-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-core-transportprofile-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">TransportProfile class</li>
 </ol>
 <div class="self-name">TransportProfile</div>
@@ -60,7 +59,7 @@ menu
 <dt>Annotations</dt>
 <dd>
 <ul class="annotation-list clazz-relationships">
-<li>@Deprecated("Will be removed in v4.28.0. Use <code>TransportSpecification</code> instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use `TransportSpecification` instead.")</li>
 </ul>
 </dd>
 </dl>
@@ -69,7 +68,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TransportProfile">
-/sdk-for-flutter-explore-core-transportprofile-transportprofile()
+<a href="../core/TransportProfile/TransportProfile.html">/sdk-for-flutter-explore-core-transportprofile-transportprofile</a>()
 </dt>
 <dd>
 </dd>
@@ -79,7 +78,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-core-transportprofile-hashcode
+<a href="../core/TransportProfile/hashCode.html">/sdk-for-flutter-explore-core-transportprofile-hashcode</a>
 → int
 </dt>
 <dd>
@@ -87,15 +86,15 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="pedestrianProfile">
-/sdk-for-flutter-explore-core-transportprofile-pedestrianprofile
-↔ /sdk-for-flutter-explore-core-pedestrianprofile-class
+<a href="../core/TransportProfile/pedestrianProfile.html">/sdk-for-flutter-explore-core-transportprofile-pedestrianprofile</a>
+↔ <a class="deprecated" href="../core/PedestrianProfile-class.html">/sdk-for-flutter-explore-core-pedestrianprofile-class</a>
 </dt>
 <dd>
   Defines the pedestrian profile.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-transportprofile-runtimetype
+<a href="../core/TransportProfile/runtimeType.html">/sdk-for-flutter-explore-core-transportprofile-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -103,8 +102,8 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="vehicleProfile">
-/sdk-for-flutter-explore-core-transportprofile-vehicleprofile
-↔ /sdk-for-flutter-explore-transport-vehicleprofile-class?
+<a href="../core/TransportProfile/vehicleProfile.html">/sdk-for-flutter-explore-core-transportprofile-vehicleprofile</a>
+↔ <a class="deprecated" href="../transport/VehicleProfile-class.html">/sdk-for-flutter-explore-transport-vehicleprofile-class</a>?
 </dt>
 <dd>
   Defines the vehicle profile.
@@ -116,7 +115,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-transportprofile-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/TransportProfile/noSuchMethod.html">/sdk-for-flutter-explore-core-transportprofile-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -125,7 +124,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-transportprofile-tostring(<wbr/>)
+<a href="../core/TransportProfile/toString.html">/sdk-for-flutter-explore-core-transportprofile-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -139,7 +138,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-core-transportprofile-operator-equals(<wbr/>Object other)
+<a href="../core/TransportProfile/operator_equals.html">/sdk-for-flutter-explore-core-transportprofile-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -158,8 +157,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">TransportProfile class</li>
 </ol>
 <h5>core library</h5>
@@ -176,5 +175,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

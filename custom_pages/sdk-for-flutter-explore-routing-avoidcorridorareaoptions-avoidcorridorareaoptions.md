@@ -1,10 +1,9 @@
 ---
-title: "AvoidCorridorAreaOptions constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-avoidcorridorareaoptions-avoidcorridorareaoptions"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- AvoidCorridorAreaOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-avoidcorridorareaoptions-avoidcorridorare
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-avoidcorridorareaoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/AvoidCorridorAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidcorridorareaoptions-class</a></li>
 <li class="self-crumb">AvoidCorridorAreaOptions constructor</li>
 </ol>
 <div class="self-name">AvoidCorridorAreaOptions</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>AvoidCorridorAreaOptions constructor</h1></div>
 <section class="multi-line-signature">
-AvoidCorridorAreaOptions(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geocorridor-class avoidCorridorArea</li>
+AvoidCorridorAreaOptions(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a> avoidCorridorArea</li>
 </ol>)
     </section>
 <section class="summary source-code" id="source">
@@ -54,9 +53,9 @@ AvoidCorridorAreaOptions(<wbr/><ol class="parameter-list single-line"> <li>/sdk-
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-avoidcorridorareaoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/AvoidCorridorAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidcorridorareaoptions-class</a></li>
 <li class="self-crumb">AvoidCorridorAreaOptions constructor</li>
 </ol>
 <h5>AvoidCorridorAreaOptions class</h5>
@@ -73,5 +72,4 @@ AvoidCorridorAreaOptions(<wbr/><ol class="parameter-list single-line"> <li>/sdk-
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

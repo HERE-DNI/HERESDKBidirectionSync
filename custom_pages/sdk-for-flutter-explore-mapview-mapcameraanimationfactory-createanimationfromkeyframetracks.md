@@ -1,10 +1,9 @@
 ---
-title: "createAnimationFromKeyframeTracks static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapcameraanimationfactory-createanimationfromkeyframetracks"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- createAnimationFromKeyframeTracks.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcameraanimationfactory-createanimation
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcameraanimationfactory-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraAnimationFactory-class.html">/sdk-for-flutter-explore-mapview-mapcameraanimationfactory-class</a></li>
 <li class="self-crumb">createAnimationFromKeyframeTracks static method</li>
 </ol>
 <div class="self-name">createAnimationFromKeyframeTracks</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>createAnimationFromKeyframeTracks static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-mapcameraanimation-class
-createAnimationFromKeyframeTracks(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-class&gt; tracks</li>
+<a href="../../mapview/MapCameraAnimation-class.html">/sdk-for-flutter-explore-mapview-mapcameraanimation-class</a>
+createAnimationFromKeyframeTracks(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../mapview/MapCameraKeyframeTrack-class.html">/sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-class</a>&gt; tracks</li>
 </ol>)
 
       
@@ -76,8 +75,8 @@ if tilt is not 0.</p>
 <p><code>tracks</code> The list of tracks</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-mapcameraanimation-class. MapCameraAnimation instance</p>
-<p>Throws /sdk-for-flutter-explore-mapview-mapcameraanimationinstantiationexception-class. Indicates an instantiation issue.</p>
+<p>Returns <a href="../../mapview/MapCameraAnimation-class.html">/sdk-for-flutter-explore-mapview-mapcameraanimation-class</a>. MapCameraAnimation instance</p>
+<p>Throws <a href="../../mapview/MapCameraAnimationInstantiationException-class.html">/sdk-for-flutter-explore-mapview-mapcameraanimationinstantiationexception-class</a>. Indicates an instantiation issue.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -91,9 +90,9 @@ if tilt is not 0.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcameraanimationfactory-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraAnimationFactory-class.html">/sdk-for-flutter-explore-mapview-mapcameraanimationfactory-class</a></li>
 <li class="self-crumb">createAnimationFromKeyframeTracks static method</li>
 </ol>
 <h5>MapCameraAnimationFactory class</h5>
@@ -110,5 +109,4 @@ if tilt is not 0.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

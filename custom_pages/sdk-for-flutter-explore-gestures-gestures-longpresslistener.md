@@ -1,10 +1,9 @@
 ---
-title: "longPressListener property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-gestures-gestures-longpresslistener"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- longPressListener.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-gestures-gestures-longpresslistener"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a></li>
 <li class="self-crumb">longPressListener property</li>
 </ol>
 <div class="self-name">longPressListener</div>
@@ -39,12 +38,12 @@ menu
 <h1>longPressListener property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-gestures-longpresslistener-class?
+<a href="../../gestures/LongPressListener-class.html">/sdk-for-flutter-explore-gestures-longpresslistener-class</a>?
 longPressListener
 </section>
 <section class="desc markdown">
-<p>/sdk-for-flutter-explore-gestures-longpresslistener-class that notifies when a long-press gesture occurs.
-Gets a /sdk-for-flutter-explore-gestures-longpresslistener-class that notifies when a long-press gesture occurs. /sdk-for-flutter-explore-gestures-gestures-class holds a strong reference to the listener.</p>
+<p><a href="../../gestures/LongPressListener-class.html">/sdk-for-flutter-explore-gestures-longpresslistener-class</a> that notifies when a long-press gesture occurs.
+Gets a <a href="../../gestures/LongPressListener-class.html">/sdk-for-flutter-explore-gestures-longpresslistener-class</a> that notifies when a long-press gesture occurs. <a href="../../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a> holds a strong reference to the listener.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -54,11 +53,11 @@ Gets a /sdk-for-flutter-explore-gestures-longpresslistener-class that notifies w
 <section id="setter">
 <section class="multi-line-signature">
 void
-longPressListener=(<wbr/>/sdk-for-flutter-explore-gestures-longpresslistener-class? value)
+longPressListener=(<wbr/><a href="../../gestures/LongPressListener-class.html">/sdk-for-flutter-explore-gestures-longpresslistener-class</a>? value)
 </section>
 <section class="desc markdown">
-<p>/sdk-for-flutter-explore-gestures-longpresslistener-class that notifies when a long-press gesture occurs.
-Sets a /sdk-for-flutter-explore-gestures-longpresslistener-class that notifies when a long-press gesture occurs.</p>
+<p><a href="../../gestures/LongPressListener-class.html">/sdk-for-flutter-explore-gestures-longpresslistener-class</a> that notifies when a long-press gesture occurs.
+Sets a <a href="../../gestures/LongPressListener-class.html">/sdk-for-flutter-explore-gestures-longpresslistener-class</a> that notifies when a long-press gesture occurs.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -73,9 +72,9 @@ Sets a /sdk-for-flutter-explore-gestures-longpresslistener-class that notifies w
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a></li>
 <li class="self-crumb">longPressListener property</li>
 </ol>
 <h5>Gestures class</h5>
@@ -92,5 +91,4 @@ Sets a /sdk-for-flutter-explore-gestures-longpresslistener-class that notifies w
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

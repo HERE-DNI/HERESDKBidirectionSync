@@ -1,10 +1,9 @@
 ---
-title: "destroyLockingProcess static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-lockingprocess-destroylockingprocess"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- destroyLockingProcess.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-lockingprocess-destroylockingprocess"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-lockingprocess-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/LockingProcess-class.html">/sdk-for-flutter-explore-core-engine-lockingprocess-class</a></li>
 <li class="self-crumb">destroyLockingProcess static method</li>
 </ol>
 <div class="self-name">destroyLockingProcess</div>
@@ -39,7 +38,7 @@ menu
 <h1>destroyLockingProcess static method</h1></div>
 <section class="multi-line-signature">
 void
-destroyLockingProcess(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-engine-sdkoptions-class sdkOptions, </li>
+destroyLockingProcess(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a> sdkOptions, </li>
 <li>int maxTimeoutInMilliseconds</li>
 </ol>)
 
@@ -52,7 +51,7 @@ destroyLockingProcess(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for
 current process. If cache is locked by a different process then the HERE SDK
 makes a few attempts to kill the locking application during the specified timeout.
 If it fails to kill the application, it attempts to remove the cache at
-/sdk-for-flutter-explore-core-engine-sdkoptions-cachepath. This function can be used before creating a SDKNativeEngine,
+<a href="../../core.engine/SDKOptions/cachePath.html">/sdk-for-flutter-explore-core-engine-sdkoptions-cachepath</a>. This function can be used before creating a SDKNativeEngine,
 i.e.</p>
 <pre class="language-dart"><code>final options = SDKOptions(...);
 LockingProcess.destroyLockingProcess(options, 300);
@@ -82,9 +81,9 @@ small amount of time to perform the operation.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-lockingprocess-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/LockingProcess-class.html">/sdk-for-flutter-explore-core-engine-lockingprocess-class</a></li>
 <li class="self-crumb">destroyLockingProcess static method</li>
 </ol>
 <h5>LockingProcess class</h5>
@@ -101,5 +100,4 @@ small amount of time to perform the operation.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

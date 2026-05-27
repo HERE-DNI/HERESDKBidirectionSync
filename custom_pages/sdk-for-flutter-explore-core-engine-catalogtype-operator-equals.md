@@ -1,10 +1,9 @@
 ---
-title: "operator == method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-catalogtype-operator-equals"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- operator_equals.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-catalogtype-operator-equals"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-catalogtype</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/CatalogType.html">/sdk-for-flutter-explore-core-engine-catalogtype</a></li>
 <li class="self-crumb">operator == method</li>
 </ol>
 <div class="self-name">operator ==</div>
@@ -85,9 +84,9 @@ the <code>hashCode</code> method as well to maintain consistency.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-catalogtype</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/CatalogType.html">/sdk-for-flutter-explore-core-engine-catalogtype</a></li>
 <li class="self-crumb">operator == method</li>
 </ol>
 <h5>CatalogType enum</h5>
@@ -104,5 +103,4 @@ the <code>hashCode</code> method as well to maintain consistency.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

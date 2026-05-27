@@ -1,10 +1,9 @@
 ---
-title: "onTwoFingerTap abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-gestures-twofingertaplistener-ontwofingertap"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- onTwoFingerTap.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-gestures-twofingertaplistener-ontwofingertap"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-twofingertaplistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/TwoFingerTapListener-class.html">/sdk-for-flutter-explore-gestures-twofingertaplistener-class</a></li>
 <li class="self-crumb">onTwoFingerTap abstract method</li>
 </ol>
 <div class="self-name">onTwoFingerTap</div>
@@ -39,7 +38,7 @@ menu
 <h1>onTwoFingerTap abstract method</h1></div>
 <section class="multi-line-signature">
 void
-onTwoFingerTap(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-point2d-class origin</li>
+onTwoFingerTap(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> origin</li>
 </ol>)
 
       
@@ -63,9 +62,9 @@ onTwoFingerTap(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutte
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-twofingertaplistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/TwoFingerTapListener-class.html">/sdk-for-flutter-explore-gestures-twofingertaplistener-class</a></li>
 <li class="self-crumb">onTwoFingerTap abstract method</li>
 </ol>
 <h5>TwoFingerTapListener class</h5>
@@ -82,5 +81,4 @@ onTwoFingerTap(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutte
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

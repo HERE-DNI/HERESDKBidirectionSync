@@ -1,10 +1,9 @@
 ---
-title: "originalId property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-picktrafficincidentresult-originalid"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- originalId.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-picktrafficincidentresult-originalid"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-picktrafficincidentresult-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/PickTrafficIncidentResult-class.html">/sdk-for-flutter-explore-mapview-picktrafficincidentresult-class</a></li>
 <li class="self-crumb">originalId property</li>
 </ol>
 <div class="self-name">originalId</div>
@@ -61,9 +60,9 @@ Gets the unique traffic event ID.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-picktrafficincidentresult-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/PickTrafficIncidentResult-class.html">/sdk-for-flutter-explore-mapview-picktrafficincidentresult-class</a></li>
 <li class="self-crumb">originalId property</li>
 </ol>
 <h5>PickTrafficIncidentResult class</h5>
@@ -80,5 +79,4 @@ Gets the unique traffic event ID.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

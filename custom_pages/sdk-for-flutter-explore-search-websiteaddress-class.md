@@ -1,10 +1,9 @@
 ---
-title: "WebsiteAddress class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-websiteaddress-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- WebsiteAddress-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-search-websiteaddress-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">WebsiteAddress class</li>
 </ol>
 <div class="self-name">WebsiteAddress</div>
@@ -58,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="WebsiteAddress">
-/sdk-for-flutter-explore-search-websiteaddress-websiteaddress(String address, List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt; categories)
+<a href="../search/WebsiteAddress/WebsiteAddress.html">/sdk-for-flutter-explore-search-websiteaddress-websiteaddress</a>(String address, List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt; categories)
 </dt>
 <dd>
           Creates a new instance.
@@ -69,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="address">
-/sdk-for-flutter-explore-search-websiteaddress-address
+<a href="../search/WebsiteAddress/address.html">/sdk-for-flutter-explore-search-websiteaddress-address</a>
 ↔ String
 </dt>
 <dd>
@@ -77,17 +76,17 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="categories">
-/sdk-for-flutter-explore-search-websiteaddress-categories
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt;
+<a href="../search/WebsiteAddress/categories.html">/sdk-for-flutter-explore-search-websiteaddress-categories</a>
+↔ List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt;
 </dt>
 <dd>
   Categories associated with website address.
-Note: In case /sdk-for-flutter-explore-search-websiteaddress-categories are not empty, then /sdk-for-flutter-explore-search-websiteaddress-address should be used according to given categories.
-Otherwise, /sdk-for-flutter-explore-search-websiteaddress-address is meant for general use.
+Note: In case <a href="../search/WebsiteAddress/categories.html">/sdk-for-flutter-explore-search-websiteaddress-categories</a> are not empty, then <a href="../search/WebsiteAddress/address.html">/sdk-for-flutter-explore-search-websiteaddress-address</a> should be used according to given categories.
+Otherwise, <a href="../search/WebsiteAddress/address.html">/sdk-for-flutter-explore-search-websiteaddress-address</a> is meant for general use.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-websiteaddress-hashcode
+<a href="../search/WebsiteAddress/hashCode.html">/sdk-for-flutter-explore-search-websiteaddress-hashcode</a>
 → int
 </dt>
 <dd>
@@ -95,7 +94,7 @@ Otherwise, /sdk-for-flutter-explore-search-websiteaddress-address is meant for g
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-websiteaddress-runtimetype
+<a href="../search/WebsiteAddress/runtimeType.html">/sdk-for-flutter-explore-search-websiteaddress-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -108,7 +107,7 @@ Otherwise, /sdk-for-flutter-explore-search-websiteaddress-address is meant for g
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-websiteaddress-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/WebsiteAddress/noSuchMethod.html">/sdk-for-flutter-explore-search-websiteaddress-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -117,7 +116,7 @@ Otherwise, /sdk-for-flutter-explore-search-websiteaddress-address is meant for g
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-websiteaddress-tostring(<wbr/>)
+<a href="../search/WebsiteAddress/toString.html">/sdk-for-flutter-explore-search-websiteaddress-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -131,7 +130,7 @@ Otherwise, /sdk-for-flutter-explore-search-websiteaddress-address is meant for g
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-websiteaddress-operator-equals(<wbr/>Object other)
+<a href="../search/WebsiteAddress/operator_equals.html">/sdk-for-flutter-explore-search-websiteaddress-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -150,8 +149,8 @@ Otherwise, /sdk-for-flutter-explore-search-websiteaddress-address is meant for g
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">WebsiteAddress class</li>
 </ol>
 <h5>search library</h5>
@@ -168,5 +167,4 @@ Otherwise, /sdk-for-flutter-explore-search-websiteaddress-address is meant for g
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

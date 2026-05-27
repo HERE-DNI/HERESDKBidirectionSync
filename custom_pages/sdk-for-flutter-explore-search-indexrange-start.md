@@ -1,10 +1,9 @@
 ---
-title: "start property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-indexrange-start"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- start.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-indexrange-start"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-indexrange-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/IndexRange-class.html">/sdk-for-flutter-explore-search-indexrange-class</a></li>
 <li class="self-crumb">start property</li>
 </ol>
 <div class="self-name">start</div>
@@ -59,9 +58,9 @@ Gets the position of the first character that matches a query.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-indexrange-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/IndexRange-class.html">/sdk-for-flutter-explore-search-indexrange-class</a></li>
 <li class="self-crumb">start property</li>
 </ol>
 <h5>IndexRange class</h5>
@@ -78,5 +77,4 @@ Gets the position of the first character that matches a query.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "PlaceChain class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-placechain-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PlaceChain-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-search-placechain-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">PlaceChain class</li>
 </ol>
 <div class="self-name">PlaceChain</div>
@@ -57,7 +56,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PlaceChain">
-/sdk-for-flutter-explore-search-placechain-placechain(String id)
+<a href="../search/PlaceChain/PlaceChain.html">/sdk-for-flutter-explore-search-placechain-placechain</a>(String id)
 </dt>
 <dd>
           Creates a new instance.
@@ -68,7 +67,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-placechain-hashcode
+<a href="../search/PlaceChain/hashCode.html">/sdk-for-flutter-explore-search-placechain-hashcode</a>
 → int
 </dt>
 <dd>
@@ -76,7 +75,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="id">
-/sdk-for-flutter-explore-search-placechain-id
+<a href="../search/PlaceChain/id.html">/sdk-for-flutter-explore-search-placechain-id</a>
 ↔ String
 </dt>
 <dd>
@@ -85,7 +84,7 @@ The complete list of supported chain IDs can be found <a href="https://www.here.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-placechain-runtimetype
+<a href="../search/PlaceChain/runtimeType.html">/sdk-for-flutter-explore-search-placechain-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -98,7 +97,7 @@ The complete list of supported chain IDs can be found <a href="https://www.here.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-placechain-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/PlaceChain/noSuchMethod.html">/sdk-for-flutter-explore-search-placechain-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -107,7 +106,7 @@ The complete list of supported chain IDs can be found <a href="https://www.here.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-placechain-tostring(<wbr/>)
+<a href="../search/PlaceChain/toString.html">/sdk-for-flutter-explore-search-placechain-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -121,7 +120,7 @@ The complete list of supported chain IDs can be found <a href="https://www.here.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-placechain-operator-equals(<wbr/>Object other)
+<a href="../search/PlaceChain/operator_equals.html">/sdk-for-flutter-explore-search-placechain-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -140,8 +139,8 @@ The complete list of supported chain IDs can be found <a href="https://www.here.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">PlaceChain class</li>
 </ol>
 <h5>search library</h5>
@@ -158,5 +157,4 @@ The complete list of supported chain IDs can be found <a href="https://www.here.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

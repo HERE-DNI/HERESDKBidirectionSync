@@ -1,10 +1,9 @@
 ---
-title: "GeoPolygon.withInnerBoundaries constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-geopolygon-geopolygon-withinnerboundaries"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- GeoPolygon.withInnerBoundaries.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-geopolygon-geopolygon-withinnerboundaries"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geopolygon-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a></li>
 <li class="self-crumb">GeoPolygon.withInnerBoundaries factory constructor</li>
 </ol>
 <div class="self-name">GeoPolygon.withInnerBoundaries</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>GeoPolygon.withInnerBoundaries constructor</h1></div>
 <section class="multi-line-signature">
-GeoPolygon.withInnerBoundaries(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt; vertices, </li>
-<li>List&lt;<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt;&gt; innerBoundaries</li>
+GeoPolygon.withInnerBoundaries(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt; vertices, </li>
+<li>List&lt;<wbr/>List&lt;<wbr/><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt;&gt; innerBoundaries</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -53,7 +52,7 @@ GeoPolygon.withInnerBoundaries(<wbr/><ol class="parameter-list single-line"> <li
 <p><code>innerBoundaries</code> List of polygon inner boundaries (holes), each in counterclockwise order.</p>
 </li>
 </ul>
-<p>Throws /sdk-for-flutter-explore-core-errors-instantiationexception-class. Instantiation error.</p>
+<p>Throws <a href="../../core.errors/InstantiationException-class.html">/sdk-for-flutter-explore-core-errors-instantiationexception-class</a>. Instantiation error.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -67,9 +66,9 @@ GeoPolygon.withInnerBoundaries(<wbr/><ol class="parameter-list single-line"> <li
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geopolygon-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a></li>
 <li class="self-crumb">GeoPolygon.withInnerBoundaries factory constructor</li>
 </ol>
 <h5>GeoPolygon class</h5>
@@ -86,5 +85,4 @@ GeoPolygon.withInnerBoundaries(<wbr/><ol class="parameter-list single-line"> <li
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

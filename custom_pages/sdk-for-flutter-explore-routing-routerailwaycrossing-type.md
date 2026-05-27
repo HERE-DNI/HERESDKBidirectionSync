@@ -1,10 +1,9 @@
 ---
-title: "type property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-routerailwaycrossing-type"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- type.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-routerailwaycrossing-type"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routerailwaycrossing-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RouteRailwayCrossing-class.html">/sdk-for-flutter-explore-routing-routerailwaycrossing-class</a></li>
 <li class="self-crumb">type property</li>
 </ol>
 <div class="self-name">type</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>type property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-routing-routerailwaycrossingtype
+<a href="../../routing/RouteRailwayCrossingType.html">/sdk-for-flutter-explore-routing-routerailwaycrossingtype</a>
 type
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +56,9 @@ type
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routerailwaycrossing-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RouteRailwayCrossing-class.html">/sdk-for-flutter-explore-routing-routerailwaycrossing-class</a></li>
 <li class="self-crumb">type property</li>
 </ol>
 <h5>RouteRailwayCrossing class</h5>
@@ -76,5 +75,4 @@ type
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

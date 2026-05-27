@@ -1,10 +1,9 @@
 ---
-title: "EVSearchOptions class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-evsearchoptions-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVSearchOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-search-evsearchoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVSearchOptions class</li>
 </ol>
 <div class="self-name">EVSearchOptions</div>
@@ -60,7 +59,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVSearchOptions">
-/sdk-for-flutter-explore-search-evsearchoptions-evsearchoptions()
+<a href="../search/EVSearchOptions/EVSearchOptions.html">/sdk-for-flutter-explore-search-evsearchoptions-evsearchoptions</a>()
 </dt>
 <dd>
 </dd>
@@ -70,16 +69,16 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="additionalFeatures">
-/sdk-for-flutter-explore-search-evsearchoptions-additionalfeatures
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-evcharginglocationfeature&gt;
+<a href="../search/EVSearchOptions/additionalFeatures.html">/sdk-for-flutter-explore-search-evsearchoptions-additionalfeatures</a>
+↔ List&lt;<wbr/><a href="../search/EVChargingLocationFeature.html">/sdk-for-flutter-explore-search-evcharginglocationfeature</a>&gt;
 </dt>
 <dd>
-  List of additional optional features to be returned in /sdk-for-flutter-explore-search-evcharginglocation-class.
+  List of additional optional features to be returned in <a href="../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a>.
 If empty, only minimal set of the required features will be returned.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-evsearchoptions-hashcode
+<a href="../search/EVSearchOptions/hashCode.html">/sdk-for-flutter-explore-search-evsearchoptions-hashcode</a>
 → int
 </dt>
 <dd>
@@ -87,17 +86,17 @@ If empty, only minimal set of the required features will be returned.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="requestedTariffs">
-/sdk-for-flutter-explore-search-evsearchoptions-requestedtariffs
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-evchargingtariffrequest-class&gt;
+<a href="../search/EVSearchOptions/requestedTariffs.html">/sdk-for-flutter-explore-search-evsearchoptions-requestedtariffs</a>
+↔ List&lt;<wbr/><a href="../search/EVChargingTariffRequest-class.html">/sdk-for-flutter-explore-search-evchargingtariffrequest-class</a>&gt;
 </dt>
 <dd>
   List of tariff search options.
-This parameter is effective only if the /sdk-for-flutter-explore-search-evsearchoptions-additionalfeatures contains /sdk-for-flutter-explore-search-evcharginglocationfeature.
+This parameter is effective only if the <a href="../search/EVSearchOptions/additionalFeatures.html">/sdk-for-flutter-explore-search-evsearchoptions-additionalfeatures</a> contains <a href="../search/EVChargingLocationFeature.html">/sdk-for-flutter-explore-search-evcharginglocationfeature</a>.
 If empty, the response contains only ad-hoc tariffs, if available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-evsearchoptions-runtimetype
+<a href="../search/EVSearchOptions/runtimeType.html">/sdk-for-flutter-explore-search-evsearchoptions-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -110,7 +109,7 @@ If empty, the response contains only ad-hoc tariffs, if available.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-evsearchoptions-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/EVSearchOptions/noSuchMethod.html">/sdk-for-flutter-explore-search-evsearchoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -119,7 +118,7 @@ If empty, the response contains only ad-hoc tariffs, if available.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-evsearchoptions-tostring(<wbr/>)
+<a href="../search/EVSearchOptions/toString.html">/sdk-for-flutter-explore-search-evsearchoptions-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -133,7 +132,7 @@ If empty, the response contains only ad-hoc tariffs, if available.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-evsearchoptions-operator-equals(<wbr/>Object other)
+<a href="../search/EVSearchOptions/operator_equals.html">/sdk-for-flutter-explore-search-evsearchoptions-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -152,8 +151,8 @@ If empty, the response contains only ad-hoc tariffs, if available.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVSearchOptions class</li>
 </ol>
 <h5>search library</h5>
@@ -170,5 +169,4 @@ If empty, the response contains only ad-hoc tariffs, if available.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

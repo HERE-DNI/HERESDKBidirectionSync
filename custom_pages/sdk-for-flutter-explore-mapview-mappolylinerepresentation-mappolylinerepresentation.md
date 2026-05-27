@@ -3,8 +3,7 @@ title: "MapPolylineRepresentation constructor"
 slug: "sdk-for-flutter-explore-mapview-mappolylinerepresentation-mappolylinerepresentation"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapPolylineRepresentation.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinerepresentation-mappolylinerepr
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolylineRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</a></li>
 <li class="self-crumb">MapPolylineRepresentation constructor</li>
 </ol>
 <div class="self-name">MapPolylineRepresentation</div>
@@ -48,9 +47,9 @@ MapPolylineRepresentation(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolylineRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</a></li>
 <li class="self-crumb">MapPolylineRepresentation constructor</li>
 </ol>
 <h5>MapPolylineRepresentation class</h5>
@@ -67,5 +66,4 @@ MapPolylineRepresentation(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

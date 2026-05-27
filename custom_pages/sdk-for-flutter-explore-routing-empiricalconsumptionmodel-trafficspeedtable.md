@@ -1,10 +1,9 @@
 ---
-title: "trafficSpeedTable property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-empiricalconsumptionmodel-trafficspeedtable"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- trafficSpeedTable.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-empiricalconsumptionmodel-trafficspeedtab
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/EmpiricalConsumptionModel-class.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-class</a></li>
 <li class="self-crumb">trafficSpeedTable property</li>
 </ol>
 <div class="self-name">trafficSpeedTable</div>
@@ -56,8 +55,8 @@ For values below the first list value, the first value is used.
 For values after the last list value, the last list value is used.
 If only one key/value pair is set, the consumption value is
 used for all possible traffic speed keys.
-If /sdk-for-flutter-explore-routing-empiricalconsumptionmodel-trafficspeedtable is empty then only
-/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-freeflowspeedtable is used for calculating speed-related
+If <a href="../../routing/EmpiricalConsumptionModel/trafficSpeedTable.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-trafficspeedtable</a> is empty then only
+<a href="../../routing/EmpiricalConsumptionModel/freeFlowSpeedTable.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-freeflowspeedtable</a> is used for calculating speed-related
 energy consumption.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -72,9 +71,9 @@ energy consumption.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/EmpiricalConsumptionModel-class.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-class</a></li>
 <li class="self-crumb">trafficSpeedTable property</li>
 </ol>
 <h5>EmpiricalConsumptionModel class</h5>
@@ -91,5 +90,4 @@ energy consumption.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

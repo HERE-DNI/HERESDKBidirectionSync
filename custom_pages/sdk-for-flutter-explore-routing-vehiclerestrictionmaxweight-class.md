@@ -1,10 +1,9 @@
 ---
-title: "VehicleRestrictionMaxWeight class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- VehicleRestrictionMaxWeight-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">VehicleRestrictionMaxWeight class</li>
 </ol>
 <div class="self-name">VehicleRestrictionMaxWeight</div>
@@ -59,7 +58,7 @@ along with the specific type of maximum permitted weight restriction.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="VehicleRestrictionMaxWeight">
-/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-vehiclerestrictionmaxweight(int valueInKilograms, /sdk-for-flutter-explore-routing-vehiclerestrictionmaxweighttype type)
+<a href="../routing/VehicleRestrictionMaxWeight/VehicleRestrictionMaxWeight.html">/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-vehiclerestrictionmaxweight</a>(int valueInKilograms, <a href="../routing/VehicleRestrictionMaxWeightType.html">/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweighttype</a> type)
 </dt>
 <dd>
           Created a new instance.
@@ -70,7 +69,7 @@ along with the specific type of maximum permitted weight restriction.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-hashcode
+<a href="../routing/VehicleRestrictionMaxWeight/hashCode.html">/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-hashcode</a>
 → int
 </dt>
 <dd>
@@ -78,7 +77,7 @@ along with the specific type of maximum permitted weight restriction.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-runtimetype
+<a href="../routing/VehicleRestrictionMaxWeight/runtimeType.html">/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -86,15 +85,15 @@ along with the specific type of maximum permitted weight restriction.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="type">
-/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-type
-↔ /sdk-for-flutter-explore-routing-vehiclerestrictionmaxweighttype
+<a href="../routing/VehicleRestrictionMaxWeight/type.html">/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-type</a>
+↔ <a href="../routing/VehicleRestrictionMaxWeightType.html">/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweighttype</a>
 </dt>
 <dd>
   Represents the specific type of the maximum permitted weight restriction.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="valueInKilograms">
-/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-valueinkilograms
+<a href="../routing/VehicleRestrictionMaxWeight/valueInKilograms.html">/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-valueinkilograms</a>
 ↔ int
 </dt>
 <dd>
@@ -107,7 +106,7 @@ along with the specific type of maximum permitted weight restriction.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/VehicleRestrictionMaxWeight/noSuchMethod.html">/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -116,7 +115,7 @@ along with the specific type of maximum permitted weight restriction.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-tostring(<wbr/>)
+<a href="../routing/VehicleRestrictionMaxWeight/toString.html">/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -130,7 +129,7 @@ along with the specific type of maximum permitted weight restriction.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-operator-equals(<wbr/>Object other)
+<a href="../routing/VehicleRestrictionMaxWeight/operator_equals.html">/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -149,8 +148,8 @@ along with the specific type of maximum permitted weight restriction.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">VehicleRestrictionMaxWeight class</li>
 </ol>
 <h5>routing library</h5>
@@ -167,5 +166,4 @@ along with the specific type of maximum permitted weight restriction.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

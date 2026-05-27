@@ -1,10 +1,9 @@
 ---
-title: "MapMarker3D.withUnit constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapmarker3d-mapmarker3d-withunit"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapMarker3D.withUnit.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker3d-mapmarker3d-withunit"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarker3d-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a></li>
 <li class="self-crumb">MapMarker3D.withUnit factory constructor</li>
 </ol>
 <div class="self-name">MapMarker3D.withUnit</div>
@@ -38,22 +37,22 @@ menu
 <div>
 <h1>MapMarker3D.withUnit constructor</h1></div>
 <section class="multi-line-signature">
-MapMarker3D.withUnit(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-core-geocoordinates-class at, </li>
-<li>/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class model, </li>
+MapMarker3D.withUnit(<wbr/><ol class="parameter-list"> <li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> at, </li>
+<li><a href="../../mapview/MapMarker3DModel-class.html">/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</a> model, </li>
 <li>double scale, </li>
-<li>/sdk-for-flutter-explore-mapview-rendersizeunit unit, </li>
+<li><a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> unit, </li>
 </ol>)
     </section>
 <section class="desc markdown">
 <p>Creates a new 3D marker at given world coordinates, using the supplied 3D model.</p>
 <p>The unit specifies how the 3D geometry of the model is interpreted (meters for world space,
 pixels or density independent pixels for screen space), while scale determines its relative size.</p>
-<p>For /sdk-for-flutter-explore-mapview-rendersizeunit one unit of the 3D marker model will cover <code>MapMarker3D.withUnit.scale</code> pixels.
+<p>For <a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> one unit of the 3D marker model will cover <code>MapMarker3D.withUnit.scale</code> pixels.
 The size of the 3D marker remains constant on the screen.</p>
-<p>For /sdk-for-flutter-explore-mapview-rendersizeunit one unit of the 3D marker model will
+<p>For <a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> one unit of the 3D marker model will
 cover <code>MapMarker3D.withUnit.scale</code> density independent pixels. The size of the 3D marker remains constant on
 the screen.</p>
-<p>For /sdk-for-flutter-explore-mapview-rendersizeunit one unit of the 3D marker model will cover <code>MapMarker3D.withUnit.scale</code> meters
+<p>For <a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> one unit of the 3D marker model will cover <code>MapMarker3D.withUnit.scale</code> meters
 in the real world. Unlike with pixels or density-independent pixels the size of the
 3D marker will grow and shrink together with regular map content like streets or buildings.</p>
 <p>The origin of the 3D model's local coordinate system is placed at the specified
@@ -89,9 +88,9 @@ is expressed in world or screen space.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarker3d-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a></li>
 <li class="self-crumb">MapMarker3D.withUnit factory constructor</li>
 </ol>
 <h5>MapMarker3D class</h5>
@@ -108,5 +107,4 @@ is expressed in world or screen space.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

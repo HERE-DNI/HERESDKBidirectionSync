@@ -1,10 +1,9 @@
 ---
-title: "RasterDataSourceConfigurationUpdate class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- RasterDataSourceConfigurationUpdate-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationu
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">RasterDataSourceConfigurationUpdate class</li>
 </ol>
 <div class="self-name">RasterDataSourceConfigurationUpdate</div>
@@ -59,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="RasterDataSourceConfigurationUpdate">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-rasterdatasourceconfigurationupdate(Map&lt;<wbr/>String, String&gt;? providerHeaders, bool? ignoreExpiredData, int? cacheDiskSize)
+<a href="../mapview.datasource/RasterDataSourceConfigurationUpdate/RasterDataSourceConfigurationUpdate.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-rasterdatasourceconfigurationupdate</a>(Map&lt;<wbr/>String, String&gt;? providerHeaders, bool? ignoreExpiredData, int? cacheDiskSize)
 </dt>
 <dd>
           Creates a new instance.
@@ -70,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="cacheDiskSize">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-cachedisksize
+<a href="../mapview.datasource/RasterDataSourceConfigurationUpdate/cacheDiskSize.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-cachedisksize</a>
 ↔ int?
 </dt>
 <dd>
@@ -79,7 +78,7 @@ When not set, no change is made to the current value.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-hashcode
+<a href="../mapview.datasource/RasterDataSourceConfigurationUpdate/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -87,7 +86,7 @@ When not set, no change is made to the current value.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="ignoreExpiredData">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-ignoreexpireddata
+<a href="../mapview.datasource/RasterDataSourceConfigurationUpdate/ignoreExpiredData.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-ignoreexpireddata</a>
 ↔ bool?
 </dt>
 <dd>
@@ -96,7 +95,7 @@ When not set, no change is made to the current flag state.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="providerHeaders">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-providerheaders
+<a href="../mapview.datasource/RasterDataSourceConfigurationUpdate/providerHeaders.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-providerheaders</a>
 ↔ Map&lt;<wbr/>String, String&gt;?
 </dt>
 <dd>
@@ -105,7 +104,7 @@ When not set, no change is made to the current list.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-runtimetype
+<a href="../mapview.datasource/RasterDataSourceConfigurationUpdate/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -118,7 +117,7 @@ When not set, no change is made to the current list.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview.datasource/RasterDataSourceConfigurationUpdate/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -127,7 +126,7 @@ When not set, no change is made to the current list.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-tostring(<wbr/>)
+<a href="../mapview.datasource/RasterDataSourceConfigurationUpdate/toString.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -141,7 +140,7 @@ When not set, no change is made to the current list.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-operator-equals(<wbr/>Object other)
+<a href="../mapview.datasource/RasterDataSourceConfigurationUpdate/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -159,8 +158,8 @@ When not set, no change is made to the current list.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">RasterDataSourceConfigurationUpdate class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -177,5 +176,4 @@ When not set, no change is made to the current list.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

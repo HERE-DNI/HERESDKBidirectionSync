@@ -1,10 +1,9 @@
 ---
-title: "WeightPerAxleGroup class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-transport-weightperaxlegroup-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- WeightPerAxleGroup-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-transport-weightperaxlegroup-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
 <li class="self-crumb">WeightPerAxleGroup class</li>
 </ol>
 <div class="self-name">WeightPerAxleGroup</div>
@@ -62,7 +61,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="WeightPerAxleGroup">
-/sdk-for-flutter-explore-transport-weightperaxlegroup-weightperaxlegroup()
+<a href="../transport/WeightPerAxleGroup/WeightPerAxleGroup.html">/sdk-for-flutter-explore-transport-weightperaxlegroup-weightperaxlegroup</a>()
 </dt>
 <dd>
 </dd>
@@ -72,7 +71,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-transport-weightperaxlegroup-hashcode
+<a href="../transport/WeightPerAxleGroup/hashCode.html">/sdk-for-flutter-explore-transport-weightperaxlegroup-hashcode</a>
 → int
 </dt>
 <dd>
@@ -80,7 +79,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="quadAxleGroupInKilograms">
-/sdk-for-flutter-explore-transport-weightperaxlegroup-quadaxlegroupinkilograms
+<a href="../transport/WeightPerAxleGroup/quadAxleGroupInKilograms.html">/sdk-for-flutter-explore-transport-weightperaxlegroup-quadaxlegroupinkilograms</a>
 ↔ int?
 </dt>
 <dd>
@@ -89,7 +88,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="quintAxleGroupInKilograms">
-/sdk-for-flutter-explore-transport-weightperaxlegroup-quintaxlegroupinkilograms
+<a href="../transport/WeightPerAxleGroup/quintAxleGroupInKilograms.html">/sdk-for-flutter-explore-transport-weightperaxlegroup-quintaxlegroupinkilograms</a>
 ↔ int?
 </dt>
 <dd>
@@ -98,7 +97,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-transport-weightperaxlegroup-runtimetype
+<a href="../transport/WeightPerAxleGroup/runtimeType.html">/sdk-for-flutter-explore-transport-weightperaxlegroup-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -106,7 +105,7 @@ By default, it is not set.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="singleAxleGroupInKilograms">
-/sdk-for-flutter-explore-transport-weightperaxlegroup-singleaxlegroupinkilograms
+<a href="../transport/WeightPerAxleGroup/singleAxleGroupInKilograms.html">/sdk-for-flutter-explore-transport-weightperaxlegroup-singleaxlegroupinkilograms</a>
 ↔ int?
 </dt>
 <dd>
@@ -115,7 +114,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="tandemAxleGroupInKilograms">
-/sdk-for-flutter-explore-transport-weightperaxlegroup-tandemaxlegroupinkilograms
+<a href="../transport/WeightPerAxleGroup/tandemAxleGroupInKilograms.html">/sdk-for-flutter-explore-transport-weightperaxlegroup-tandemaxlegroupinkilograms</a>
 ↔ int?
 </dt>
 <dd>
@@ -124,7 +123,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="tripleAxleGroupInKilograms">
-/sdk-for-flutter-explore-transport-weightperaxlegroup-tripleaxlegroupinkilograms
+<a href="../transport/WeightPerAxleGroup/tripleAxleGroupInKilograms.html">/sdk-for-flutter-explore-transport-weightperaxlegroup-tripleaxlegroupinkilograms</a>
 ↔ int?
 </dt>
 <dd>
@@ -138,7 +137,7 @@ By default, it is not set.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-transport-weightperaxlegroup-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../transport/WeightPerAxleGroup/noSuchMethod.html">/sdk-for-flutter-explore-transport-weightperaxlegroup-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -147,7 +146,7 @@ By default, it is not set.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-transport-weightperaxlegroup-tostring(<wbr/>)
+<a href="../transport/WeightPerAxleGroup/toString.html">/sdk-for-flutter-explore-transport-weightperaxlegroup-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -161,7 +160,7 @@ By default, it is not set.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-transport-weightperaxlegroup-operator-equals(<wbr/>Object other)
+<a href="../transport/WeightPerAxleGroup/operator_equals.html">/sdk-for-flutter-explore-transport-weightperaxlegroup-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -180,8 +179,8 @@ By default, it is not set.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
 <li class="self-crumb">WeightPerAxleGroup class</li>
 </ol>
 <h5>transport library</h5>
@@ -198,5 +197,4 @@ By default, it is not set.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

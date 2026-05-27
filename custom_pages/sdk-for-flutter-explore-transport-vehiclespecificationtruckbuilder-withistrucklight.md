@@ -1,10 +1,9 @@
 ---
-title: "withIsTruckLight abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-withistrucklight"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withIsTruckLight.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-withis
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a></li>
 <li class="self-crumb">withIsTruckLight abstract method</li>
 </ol>
 <div class="self-name">withIsTruckLight</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>withIsTruckLight abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class
+<a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a>
 withIsTruckLight(<wbr/><ol class="parameter-list single-line"> <li>bool isTruckLight</li>
 </ol>)
 
@@ -50,7 +49,7 @@ withIsTruckLight(<wbr/><ol class="parameter-list single-line"> <li>bool isTruckL
 <ul>
 <li><code>isTruckLight</code> The vehicle truck light flag.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class. The /sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class object with the truck light flag set to the new value.</p>
+<p>Returns <a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a>. The <a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a> object with the truck light flag set to the new value.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +63,9 @@ withIsTruckLight(<wbr/><ol class="parameter-list single-line"> <li>bool isTruckL
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a></li>
 <li class="self-crumb">withIsTruckLight abstract method</li>
 </ol>
 <h5>VehicleSpecificationTruckBuilder class</h5>
@@ -83,5 +82,4 @@ withIsTruckLight(<wbr/><ol class="parameter-list single-line"> <li>bool isTruckL
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

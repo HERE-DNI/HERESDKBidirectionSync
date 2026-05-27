@@ -1,10 +1,9 @@
 ---
-title: "Fare class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-fare-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Fare-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-routing-fare-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">Fare class</li>
 </ol>
 <div class="self-name">Fare</div>
@@ -59,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Fare">
-/sdk-for-flutter-explore-routing-fare-fare(String name, /sdk-for-flutter-explore-routing-fareprice-class? price, /sdk-for-flutter-explore-routing-farereason reason)
+<a href="../routing/Fare/Fare.html">/sdk-for-flutter-explore-routing-fare-fare</a>(String name, <a href="../routing/FarePrice-class.html">/sdk-for-flutter-explore-routing-fareprice-class</a>? price, <a href="../routing/FareReason.html">/sdk-for-flutter-explore-routing-farereason</a> reason)
 </dt>
 <dd>
           Creates a new instance.
@@ -70,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-fare-hashcode
+<a href="../routing/Fare/hashCode.html">/sdk-for-flutter-explore-routing-fare-hashcode</a>
 → int
 </dt>
 <dd>
@@ -78,7 +77,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="name">
-/sdk-for-flutter-explore-routing-fare-name
+<a href="../routing/Fare/name.html">/sdk-for-flutter-explore-routing-fare-name</a>
 ↔ String
 </dt>
 <dd>
@@ -86,23 +85,23 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="price">
-/sdk-for-flutter-explore-routing-fare-price
-↔ /sdk-for-flutter-explore-routing-fareprice-class?
+<a href="../routing/Fare/price.html">/sdk-for-flutter-explore-routing-fare-price</a>
+↔ <a href="../routing/FarePrice-class.html">/sdk-for-flutter-explore-routing-fareprice-class</a>?
 </dt>
 <dd>
   Price of a fare. It is <code>null</code> when no price data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="reason">
-/sdk-for-flutter-explore-routing-fare-reason
-↔ /sdk-for-flutter-explore-routing-farereason
+<a href="../routing/Fare/reason.html">/sdk-for-flutter-explore-routing-fare-reason</a>
+↔ <a href="../routing/FareReason.html">/sdk-for-flutter-explore-routing-farereason</a>
 </dt>
 <dd>
   Reason of this cost.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-fare-runtimetype
+<a href="../routing/Fare/runtimeType.html">/sdk-for-flutter-explore-routing-fare-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -115,7 +114,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-fare-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/Fare/noSuchMethod.html">/sdk-for-flutter-explore-routing-fare-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -124,7 +123,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-fare-tostring(<wbr/>)
+<a href="../routing/Fare/toString.html">/sdk-for-flutter-explore-routing-fare-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -138,7 +137,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-fare-operator-equals(<wbr/>Object other)
+<a href="../routing/Fare/operator_equals.html">/sdk-for-flutter-explore-routing-fare-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -157,8 +156,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">Fare class</li>
 </ol>
 <h5>routing library</h5>
@@ -175,5 +174,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

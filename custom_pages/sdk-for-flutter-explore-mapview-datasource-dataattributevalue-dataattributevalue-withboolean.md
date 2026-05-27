@@ -1,10 +1,9 @@
 ---
-title: "DataAttributeValue.withBoolean constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-dataattributevalue-dataattributevalue-withboolean"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- DataAttributeValue.withBoolean.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-dataattributevalue-dataattribu
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/DataAttributeValue-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class</a></li>
 <li class="self-crumb">DataAttributeValue.withBoolean factory constructor</li>
 </ol>
 <div class="self-name">DataAttributeValue.withBoolean</div>
@@ -59,9 +58,9 @@ DataAttributeValue.withBoolean(<wbr/><ol class="parameter-list single-line"> <li
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/DataAttributeValue-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class</a></li>
 <li class="self-crumb">DataAttributeValue.withBoolean factory constructor</li>
 </ol>
 <h5>DataAttributeValue class</h5>
@@ -78,5 +77,4 @@ DataAttributeValue.withBoolean(<wbr/><ol class="parameter-list single-line"> <li
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

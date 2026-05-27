@@ -1,10 +1,9 @@
 ---
-title: "GeoOrientationUpdate class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-geoorientationupdate-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- GeoOrientationUpdate-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-core-geoorientationupdate-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">GeoOrientationUpdate class</li>
 </ol>
 <div class="self-name">GeoOrientationUpdate</div>
@@ -71,7 +70,7 @@ For example, if one wants bearing not to be updated set it to <code>null</code>.
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="GeoOrientationUpdate">
-/sdk-for-flutter-explore-core-geoorientationupdate-geoorientationupdate(double? bearing, double? tilt)
+<a href="../core/GeoOrientationUpdate/GeoOrientationUpdate.html">/sdk-for-flutter-explore-core-geoorientationupdate-geoorientationupdate</a>(double? bearing, double? tilt)
 </dt>
 <dd>
 <li>
@@ -85,7 +84,7 @@ NaN value is converted to <code>null</code>.</p>
 <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="GeoOrientationUpdate.withGeoOrientation">
-/sdk-for-flutter-explore-core-geoorientationupdate-geoorientationupdate-withgeoorientation(/sdk-for-flutter-explore-core-geoorientation-class orientation)
+<a href="../core/GeoOrientationUpdate/GeoOrientationUpdate.withGeoOrientation.html">/sdk-for-flutter-explore-core-geoorientationupdate-geoorientationupdate-withgeoorientation</a>(<a href="../core/GeoOrientation-class.html">/sdk-for-flutter-explore-core-geoorientation-class</a> orientation)
 </dt>
 <dd>
           Constructs a new GeoOrientationUpdate instance from a GeoOrientation instance.
@@ -97,7 +96,7 @@ NaN value is converted to <code>null</code>.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="bearing">
-/sdk-for-flutter-explore-core-geoorientationupdate-bearing
+<a href="../core/GeoOrientationUpdate/bearing.html">/sdk-for-flutter-explore-core-geoorientationupdate-bearing</a>
 → double?
 </dt>
 <dd>
@@ -106,7 +105,7 @@ A <code>null</code> value means that bearing is not updated and the current valu
   <div class="features">final</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-core-geoorientationupdate-hashcode
+<a href="../core/GeoOrientationUpdate/hashCode.html">/sdk-for-flutter-explore-core-geoorientationupdate-hashcode</a>
 → int
 </dt>
 <dd>
@@ -114,7 +113,7 @@ A <code>null</code> value means that bearing is not updated and the current valu
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-geoorientationupdate-runtimetype
+<a href="../core/GeoOrientationUpdate/runtimeType.html">/sdk-for-flutter-explore-core-geoorientationupdate-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -122,7 +121,7 @@ A <code>null</code> value means that bearing is not updated and the current valu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="tilt">
-/sdk-for-flutter-explore-core-geoorientationupdate-tilt
+<a href="../core/GeoOrientationUpdate/tilt.html">/sdk-for-flutter-explore-core-geoorientationupdate-tilt</a>
 → double?
 </dt>
 <dd>
@@ -137,7 +136,7 @@ A <code>null</code> value means that tilt is not updated and the current value i
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-geoorientationupdate-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/GeoOrientationUpdate/noSuchMethod.html">/sdk-for-flutter-explore-core-geoorientationupdate-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -146,7 +145,7 @@ A <code>null</code> value means that tilt is not updated and the current value i
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-geoorientationupdate-tostring(<wbr/>)
+<a href="../core/GeoOrientationUpdate/toString.html">/sdk-for-flutter-explore-core-geoorientationupdate-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -160,7 +159,7 @@ A <code>null</code> value means that tilt is not updated and the current value i
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-core-geoorientationupdate-operator-equals(<wbr/>Object other)
+<a href="../core/GeoOrientationUpdate/operator_equals.html">/sdk-for-flutter-explore-core-geoorientationupdate-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -179,8 +178,8 @@ A <code>null</code> value means that tilt is not updated and the current value i
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">GeoOrientationUpdate class</li>
 </ol>
 <h5>core library</h5>
@@ -197,5 +196,4 @@ A <code>null</code> value means that tilt is not updated and the current value i
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

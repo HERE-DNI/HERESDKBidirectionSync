@@ -1,10 +1,9 @@
 ---
-title: "memoryManagementStrategy property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-memorymanagementstrategy"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- memoryManagementStrategy.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-memorym
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapContextMemoryManagementOptions-class.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class</a></li>
 <li class="self-crumb">memoryManagementStrategy property</li>
 </ol>
 <div class="self-name">memoryManagementStrategy</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>memoryManagementStrategy property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementstrategy
+<a href="../../mapview/MapContextMemoryManagementStrategy.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementstrategy</a>
 memoryManagementStrategy
 <div class="features">getter/setter pair</div>
 </section>
@@ -46,7 +45,7 @@ memoryManagementStrategy
 <p>The default setting MemoryManagementStrategy.DYNAMIC is suitable for common cases. The map
 data cache can adjust dynamically to fit visible data. When the visible data needs extra
 memory, it would increase. When it's not needed, it will reduce to a limit which is
-calculated internally or by using /sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-tilecachememorylimitinkib option.
+calculated internally or by using <a href="../../mapview/MapContextMemoryManagementOptions/tileCacheMemoryLimitInKiB.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-tilecachememorylimitinkib</a> option.
 The MemoryManagementStrategy.FIXED would be only useful when there is very
 strict memory consumption requirement for the application. It potentially can have
 flickering visual artifacts when the map data to be visualized is very large and exceeds
@@ -64,9 +63,9 @@ the cache limit.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapContextMemoryManagementOptions-class.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class</a></li>
 <li class="self-crumb">memoryManagementStrategy property</li>
 </ol>
 <h5>MapContextMemoryManagementOptions class</h5>
@@ -83,5 +82,4 @@ the cache limit.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

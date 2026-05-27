@@ -1,10 +1,9 @@
 ---
-title: "EVConsumptionModel class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-evconsumptionmodel-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVConsumptionModel-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-routing-evconsumptionmodel-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">EVConsumptionModel class</li>
 </ol>
 <div class="self-name">EVConsumptionModel</div>
@@ -57,15 +56,15 @@ menu
 <section class="desc markdown">
 <p>Parameters specific for the electric vehicle, which are then used to calculate
 energy consumption on a given route.</p>
-<p>At minimum, you must provide /sdk-for-flutter-explore-routing-evconsumptionmodel-ascentconsumptioninwatthourspermeter,
-/sdk-for-flutter-explore-routing-evconsumptionmodel-descentrecoveryinwatthourspermeter and a
-/sdk-for-flutter-explore-routing-evconsumptionmodel-freeflowspeedtable.</p>
+<p>At minimum, you must provide <a href="../routing/EVConsumptionModel/ascentConsumptionInWattHoursPerMeter.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-ascentconsumptioninwatthourspermeter</a>,
+<a href="../routing/EVConsumptionModel/descentRecoveryInWattHoursPerMeter.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-descentrecoveryinwatthourspermeter</a> and a
+<a href="../routing/EVConsumptionModel/freeFlowSpeedTable.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-freeflowspeedtable</a>.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVConsumptionModel">
-/sdk-for-flutter-explore-routing-evconsumptionmodel-evconsumptionmodel()
+<a href="../routing/EVConsumptionModel/EVConsumptionModel.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-evconsumptionmodel</a>()
 </dt>
 <dd>
 </dd>
@@ -75,7 +74,7 @@ energy consumption on a given route.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="ascentConsumptionInWattHoursPerMeter">
-/sdk-for-flutter-explore-routing-evconsumptionmodel-ascentconsumptioninwatthourspermeter
+<a href="../routing/EVConsumptionModel/ascentConsumptionInWattHoursPerMeter.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-ascentconsumptioninwatthourspermeter</a>
 ↔ double
 </dt>
 <dd>
@@ -83,7 +82,7 @@ energy consumption on a given route.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="auxiliaryConsumptionInWattHoursPerSecond">
-/sdk-for-flutter-explore-routing-evconsumptionmodel-auxiliaryconsumptioninwatthourspersecond
+<a href="../routing/EVConsumptionModel/auxiliaryConsumptionInWattHoursPerSecond.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-auxiliaryconsumptioninwatthourspersecond</a>
 ↔ double
 </dt>
 <dd>
@@ -92,7 +91,7 @@ energy consumption on a given route.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="descentRecoveryInWattHoursPerMeter">
-/sdk-for-flutter-explore-routing-evconsumptionmodel-descentrecoveryinwatthourspermeter
+<a href="../routing/EVConsumptionModel/descentRecoveryInWattHoursPerMeter.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-descentrecoveryinwatthourspermeter</a>
 ↔ double
 </dt>
 <dd>
@@ -100,7 +99,7 @@ energy consumption on a given route.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="freeFlowSpeedTable">
-/sdk-for-flutter-explore-routing-evconsumptionmodel-freeflowspeedtable
+<a href="../routing/EVConsumptionModel/freeFlowSpeedTable.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-freeflowspeedtable</a>
 ↔ Map&lt;<wbr/>int, double&gt;
 </dt>
 <dd>
@@ -118,7 +117,7 @@ used for all possible speed keys.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-evconsumptionmodel-hashcode
+<a href="../routing/EVConsumptionModel/hashCode.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-hashcode</a>
 → int
 </dt>
 <dd>
@@ -126,7 +125,7 @@ used for all possible speed keys.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-evconsumptionmodel-runtimetype
+<a href="../routing/EVConsumptionModel/runtimeType.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -134,7 +133,7 @@ used for all possible speed keys.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="trafficSpeedTable">
-/sdk-for-flutter-explore-routing-evconsumptionmodel-trafficspeedtable
+<a href="../routing/EVConsumptionModel/trafficSpeedTable.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-trafficspeedtable</a>
 ↔ Map&lt;<wbr/>int, double&gt;
 </dt>
 <dd>
@@ -150,8 +149,8 @@ For values below the first list value, the first value is used.
 For values after the last list value, the last list value is used.
 If only one key/value pair is set, the consumption value is
 used for all possible traffic speed keys.
-If /sdk-for-flutter-explore-routing-evconsumptionmodel-trafficspeedtable is empty then only
-/sdk-for-flutter-explore-routing-evconsumptionmodel-freeflowspeedtable is used for calculating speed-related
+If <a href="../routing/EVConsumptionModel/trafficSpeedTable.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-trafficspeedtable</a> is empty then only
+<a href="../routing/EVConsumptionModel/freeFlowSpeedTable.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-freeflowspeedtable</a> is used for calculating speed-related
 energy consumption.
   <div class="features">getter/setter pair</div>
 </dd>
@@ -161,7 +160,7 @@ energy consumption.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-evconsumptionmodel-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/EVConsumptionModel/noSuchMethod.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -170,7 +169,7 @@ energy consumption.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-evconsumptionmodel-tostring(<wbr/>)
+<a href="../routing/EVConsumptionModel/toString.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -184,7 +183,7 @@ energy consumption.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-evconsumptionmodel-operator-equals(<wbr/>Object other)
+<a href="../routing/EVConsumptionModel/operator_equals.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -203,8 +202,8 @@ energy consumption.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">EVConsumptionModel class</li>
 </ol>
 <h5>routing library</h5>
@@ -221,5 +220,4 @@ energy consumption.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

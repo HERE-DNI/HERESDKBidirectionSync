@@ -1,10 +1,9 @@
 ---
-title: "polyline property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-traffic-trafficlocation-polyline"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- polyline.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficlocation-polyline"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficlocation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficLocation-class.html">/sdk-for-flutter-explore-traffic-trafficlocation-class</a></li>
 <li class="self-crumb">polyline property</li>
 </ol>
 <div class="self-name">polyline</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>polyline property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-geopolyline-class
+<a href="../../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a>
 polyline
 <div class="features">getter/setter pair</div>
 </section>
@@ -59,9 +58,9 @@ All others following the gap are present in the <code>additional_polylines</code
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficlocation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficLocation-class.html">/sdk-for-flutter-explore-traffic-trafficlocation-class</a></li>
 <li class="self-crumb">polyline property</li>
 </ol>
 <h5>TrafficLocation class</h5>
@@ -78,5 +77,4 @@ All others following the gap are present in the <code>additional_polylines</code
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

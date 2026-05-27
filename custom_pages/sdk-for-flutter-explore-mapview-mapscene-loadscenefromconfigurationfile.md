@@ -1,10 +1,9 @@
 ---
-title: "loadSceneFromConfigurationFile abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapscene-loadscenefromconfigurationfile"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- loadSceneFromConfigurationFile.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscene-loadscenefromconfigurationfile"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
 <li class="self-crumb">loadSceneFromConfigurationFile abstract method</li>
 </ol>
 <div class="self-name">loadSceneFromConfigurationFile</div>
@@ -40,7 +39,7 @@ menu
 <section class="multi-line-signature">
 void
 loadSceneFromConfigurationFile(<wbr/><ol class="parameter-list single-line"> <li>String configurationFile, </li>
-<li>/sdk-for-flutter-explore-mapview-mapsceneloadscenecallback? callback</li>
+<li><a href="../../mapview/MapSceneLoadSceneCallback.html">/sdk-for-flutter-explore-mapview-mapsceneloadscenecallback</a>? callback</li>
 </ol>)
 
       
@@ -50,8 +49,8 @@ loadSceneFromConfigurationFile(<wbr/><ol class="parameter-list single-line"> <li
 <p>Asynchronously loads a map scene described by a specified file in one of the supported formats.</p>
 <p>Any previous map scene config will be replaced.</p>
 <p>When loading the same file again, consider to call <code>reloadScene()</code> instead.</p>
-<p>Map features enabled or disabled using /sdk-for-flutter-explore-mapview-mapscene-enablefeatures
-and /sdk-for-flutter-explore-mapview-mapscene-disablefeatures will be reset to defaults for the new
+<p>Map features enabled or disabled using <a href="../../mapview/MapScene/enableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-enablefeatures</a>
+and <a href="../../mapview/MapScene/disableFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-disablefeatures</a> will be reset to defaults for the new
 scene configuration.</p>
 <p>The callback is called on the main thread.</p>
 <ul>
@@ -77,9 +76,9 @@ the paths specified in the main configuration file.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
 <li class="self-crumb">loadSceneFromConfigurationFile abstract method</li>
 </ol>
 <h5>MapScene class</h5>
@@ -96,5 +95,4 @@ the paths specified in the main configuration file.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

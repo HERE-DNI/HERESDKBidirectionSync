@@ -1,10 +1,9 @@
 ---
-title: "supplierNames property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-placefilterev-suppliernames"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- supplierNames.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-placefilterev-suppliernames"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-placefilterev-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/PlaceFilterEv-class.html">/sdk-for-flutter-explore-search-placefilterev-class</a></li>
 <li class="self-crumb">supplierNames property</li>
 </ol>
 <div class="self-name">supplierNames</div>
@@ -59,9 +58,9 @@ supplierNames
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-placefilterev-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/PlaceFilterEv-class.html">/sdk-for-flutter-explore-search-placefilterev-class</a></li>
 <li class="self-crumb">supplierNames property</li>
 </ol>
 <h5>PlaceFilterEv class</h5>
@@ -78,5 +77,4 @@ supplierNames
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

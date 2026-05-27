@@ -1,10 +1,9 @@
 ---
-title: "InstantiationException class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-errors-instantiationexception-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- InstantiationException-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-core-errors-instantiationexception-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-errors-core-errors-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core.errors/core.errors-library.html">/sdk-for-flutter-explore-core-errors-core-errors-library</a></li>
 <li class="self-crumb">InstantiationException class</li>
 </ol>
 <div class="self-name">InstantiationException</div>
@@ -57,7 +56,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="InstantiationException">
-/sdk-for-flutter-explore-core-errors-instantiationexception-instantiationexception(/sdk-for-flutter-explore-core-errors-instantiationerrorcode error)
+<a href="../core.errors/InstantiationException/InstantiationException.html">/sdk-for-flutter-explore-core-errors-instantiationexception-instantiationexception</a>(<a href="../core.errors/InstantiationErrorCode.html">/sdk-for-flutter-explore-core-errors-instantiationerrorcode</a> error)
 </dt>
 <dd>
 </dd>
@@ -67,14 +66,14 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="error">
-/sdk-for-flutter-explore-core-errors-instantiationexception-error
-→ /sdk-for-flutter-explore-core-errors-instantiationerrorcode
+<a href="../core.errors/InstantiationException/error.html">/sdk-for-flutter-explore-core-errors-instantiationexception-error</a>
+→ <a href="../core.errors/InstantiationErrorCode.html">/sdk-for-flutter-explore-core-errors-instantiationerrorcode</a>
 </dt>
 <dd>
 <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-core-errors-instantiationexception-hashcode
+<a href="../core.errors/InstantiationException/hashCode.html">/sdk-for-flutter-explore-core-errors-instantiationexception-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -82,7 +81,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-errors-instantiationexception-runtimetype
+<a href="../core.errors/InstantiationException/runtimeType.html">/sdk-for-flutter-explore-core-errors-instantiationexception-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -95,7 +94,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-errors-instantiationexception-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core.errors/InstantiationException/noSuchMethod.html">/sdk-for-flutter-explore-core-errors-instantiationexception-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -104,7 +103,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-errors-instantiationexception-tostring(<wbr/>)
+<a href="../core.errors/InstantiationException/toString.html">/sdk-for-flutter-explore-core-errors-instantiationexception-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -118,7 +117,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-core-errors-instantiationexception-operator-equals(<wbr/>Object other)
+<a href="../core.errors/InstantiationException/operator_equals.html">/sdk-for-flutter-explore-core-errors-instantiationexception-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -136,8 +135,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-errors-core-errors-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core.errors/core.errors-library.html">/sdk-for-flutter-explore-core-errors-core-errors-library</a></li>
 <li class="self-crumb">InstantiationException class</li>
 </ol>
 <h5>core.errors library</h5>
@@ -154,5 +153,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

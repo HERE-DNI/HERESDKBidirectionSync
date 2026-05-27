@@ -1,10 +1,9 @@
 ---
-title: "scooterSpecification property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-transportspecification-scooterspecification"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- scooterSpecification.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-transportspecification-scooterspecifica
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-transportspecification-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a></li>
 <li class="self-crumb">scooterSpecification property</li>
 </ol>
 <div class="self-name">scooterSpecification</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>scooterSpecification property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-transport-scooterspecification-class?
+<a href="../../transport/ScooterSpecification-class.html">/sdk-for-flutter-explore-transport-scooterspecification-class</a>?
         scooterSpecification
 <div class="features">getter/setter pair</div>
 </section>
@@ -58,9 +57,9 @@ By default, it is not set.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-transportspecification-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a></li>
 <li class="self-crumb">scooterSpecification property</li>
 </ol>
 <h5>TransportSpecification class</h5>
@@ -77,5 +76,4 @@ By default, it is not set.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

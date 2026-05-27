@@ -1,10 +1,9 @@
 ---
-title: "LayerConfiguration constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-layerconfiguration-layerconfiguration"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- LayerConfiguration.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-layerconfiguration-layerconfiguration
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-layerconfiguration-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a></li>
 <li class="self-crumb">LayerConfiguration factory constructor</li>
 </ol>
 <div class="self-name">LayerConfiguration</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>LayerConfiguration constructor</h1></div>
 <section class="multi-line-signature">
-LayerConfiguration(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-core-engine-layerconfigurationfeature&gt; enabledFeatures</li>
+LayerConfiguration(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a>&gt; enabledFeatures</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -59,9 +58,9 @@ LayerConfiguration(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wb
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-layerconfiguration-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a></li>
 <li class="self-crumb">LayerConfiguration factory constructor</li>
 </ol>
 <h5>LayerConfiguration class</h5>
@@ -78,5 +77,4 @@ LayerConfiguration(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wb
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

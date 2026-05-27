@@ -1,10 +1,9 @@
 ---
-title: "withMapMeasureDependentStorageLevels abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-withmapmeasuredependentstoragelevels"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withMapMeasureDependentStorageLevels.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-withmapmeasuredependentst
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-maplayerbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a></li>
 <li class="self-crumb">withMapMeasureDependentStorageLevels abstract method</li>
 </ol>
 <div class="self-name">withMapMeasureDependentStorageLevels</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>withMapMeasureDependentStorageLevels abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-maplayerbuilder-class
-withMapMeasureDependentStorageLevels(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class mapLayerMapMeasureDependentStorageLevels</li>
+<a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>
+withMapMeasureDependentStorageLevels(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapLayerMapMeasureDependentStorageLevels-class.html">/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class</a> mapLayerMapMeasureDependentStorageLevels</li>
 </ol>)
 
       
@@ -59,7 +58,7 @@ corresponding to an offset of -1 and -3.</p>
 <ul>
 <li><code>mapLayerMapMeasureDependentStorageLevels</code> The map measure to storage level mapping that should be applied for the layer.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-maplayerbuilder-class. This class instance.</p>
+<p>Returns <a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>. This class instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -73,9 +72,9 @@ corresponding to an offset of -1 and -3.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-maplayerbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a></li>
 <li class="self-crumb">withMapMeasureDependentStorageLevels abstract method</li>
 </ol>
 <h5>MapLayerBuilder class</h5>
@@ -92,5 +91,4 @@ corresponding to an offset of -1 and -3.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

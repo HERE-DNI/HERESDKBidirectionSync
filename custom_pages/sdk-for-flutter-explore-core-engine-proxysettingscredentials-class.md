@@ -1,10 +1,9 @@
 ---
-title: "ProxySettingsCredentials class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-engine-proxysettingscredentials-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- ProxySettingsCredentials-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-core-engine-proxysettingscredentials-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
 <li class="self-crumb">ProxySettingsCredentials class</li>
 </ol>
 <div class="self-name">ProxySettingsCredentials</div>
@@ -58,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="ProxySettingsCredentials">
-/sdk-for-flutter-explore-core-engine-proxysettingscredentials-proxysettingscredentials(String userName, String password)
+<a href="../core.engine/ProxySettingsCredentials/ProxySettingsCredentials.html">/sdk-for-flutter-explore-core-engine-proxysettingscredentials-proxysettingscredentials</a>(String userName, String password)
 </dt>
 <dd>
           Creates a new instance.
@@ -69,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-core-engine-proxysettingscredentials-hashcode
+<a href="../core.engine/ProxySettingsCredentials/hashCode.html">/sdk-for-flutter-explore-core-engine-proxysettingscredentials-hashcode</a>
 → int
 </dt>
 <dd>
@@ -77,7 +76,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="password">
-/sdk-for-flutter-explore-core-engine-proxysettingscredentials-password
+<a href="../core.engine/ProxySettingsCredentials/password.html">/sdk-for-flutter-explore-core-engine-proxysettingscredentials-password</a>
 ↔ String
 </dt>
 <dd>
@@ -85,7 +84,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-engine-proxysettingscredentials-runtimetype
+<a href="../core.engine/ProxySettingsCredentials/runtimeType.html">/sdk-for-flutter-explore-core-engine-proxysettingscredentials-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -93,7 +92,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="userName">
-/sdk-for-flutter-explore-core-engine-proxysettingscredentials-username
+<a href="../core.engine/ProxySettingsCredentials/userName.html">/sdk-for-flutter-explore-core-engine-proxysettingscredentials-username</a>
 ↔ String
 </dt>
 <dd>
@@ -106,7 +105,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-engine-proxysettingscredentials-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core.engine/ProxySettingsCredentials/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-proxysettingscredentials-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -115,7 +114,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-engine-proxysettingscredentials-tostring(<wbr/>)
+<a href="../core.engine/ProxySettingsCredentials/toString.html">/sdk-for-flutter-explore-core-engine-proxysettingscredentials-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -129,7 +128,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-core-engine-proxysettingscredentials-operator-equals(<wbr/>Object other)
+<a href="../core.engine/ProxySettingsCredentials/operator_equals.html">/sdk-for-flutter-explore-core-engine-proxysettingscredentials-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -148,8 +147,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
 <li class="self-crumb">ProxySettingsCredentials class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -166,5 +165,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

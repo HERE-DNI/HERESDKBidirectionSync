@@ -1,10 +1,9 @@
 ---
-title: "lights property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapscene-lights"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- lights.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscene-lights"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
 <li class="self-crumb">lights property</li>
 </ol>
 <div class="self-name">lights</div>
@@ -39,7 +38,7 @@ menu
 <h1>lights property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-mapscenelights-class
+<a href="../../mapview/MapSceneLights-class.html">/sdk-for-flutter-explore-mapview-mapscenelights-class</a>
 lights
 </section>
 <section class="desc markdown">
@@ -80,9 +79,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
 <li class="self-crumb">lights property</li>
 </ol>
 <h5>MapScene class</h5>
@@ -99,5 +98,4 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

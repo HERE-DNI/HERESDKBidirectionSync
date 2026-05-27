@@ -1,10 +1,9 @@
 ---
-title: "RoutingEngine.withSdkEngine constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-routingengine-routingengine-withsdkengine"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- RoutingEngine.withSdkEngine.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-routingengine-routingengine-withsdkengine
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routingengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RoutingEngine-class.html">/sdk-for-flutter-explore-routing-routingengine-class</a></li>
 <li class="self-crumb">RoutingEngine.withSdkEngine factory constructor</li>
 </ol>
 <div class="self-name">RoutingEngine.withSdkEngine</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>RoutingEngine.withSdkEngine constructor</h1></div>
 <section class="multi-line-signature">
-RoutingEngine.withSdkEngine(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class sdkEngine</li>
+RoutingEngine.withSdkEngine(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a> sdkEngine</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -46,7 +45,7 @@ RoutingEngine.withSdkEngine(<wbr/><ol class="parameter-list single-line"> <li>/s
 <ul>
 <li><code>sdkEngine</code> An SDKEngine instance.</li>
 </ul>
-<p>Throws /sdk-for-flutter-explore-core-errors-instantiationexception-class. Indicates what went wrong when the instantiation was attempted.</p>
+<p>Throws <a href="../../core.errors/InstantiationException-class.html">/sdk-for-flutter-explore-core-errors-instantiationexception-class</a>. Indicates what went wrong when the instantiation was attempted.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -60,9 +59,9 @@ RoutingEngine.withSdkEngine(<wbr/><ol class="parameter-list single-line"> <li>/s
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routingengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RoutingEngine-class.html">/sdk-for-flutter-explore-routing-routingengine-class</a></li>
 <li class="self-crumb">RoutingEngine.withSdkEngine factory constructor</li>
 </ol>
 <h5>RoutingEngine class</h5>
@@ -79,5 +78,4 @@ RoutingEngine.withSdkEngine(<wbr/><ol class="parameter-list single-line"> <li>/s
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

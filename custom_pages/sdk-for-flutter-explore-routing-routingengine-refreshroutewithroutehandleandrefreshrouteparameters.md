@@ -1,10 +1,9 @@
 ---
-title: "refreshRouteWithRouteHandleAndRefreshRouteParameters abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-routingengine-refreshroutewithroutehandleandrefreshrouteparameters"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- refreshRouteWithRouteHandleAndRefreshRouteParameters.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-routingengine-refreshroutewithroutehandle
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routingengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RoutingEngine-class.html">/sdk-for-flutter-explore-routing-routingengine-class</a></li>
 <li class="self-crumb">refreshRouteWithRouteHandleAndRefreshRouteParameters abstract method</li>
 </ol>
 <div class="self-name">refreshRouteWithRouteHandleAndRefreshRouteParameters</div>
@@ -38,18 +37,18 @@ menu
 <div>
 <h1>refreshRouteWithRouteHandleAndRefreshRouteParameters abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-threading-taskhandle-class
-refreshRouteWithRouteHandleAndRefreshRouteParameters(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-routing-refreshrouteparameters-class refreshRouteParameters, </li>
-<li>/sdk-for-flutter-explore-routing-routingoptions-class routingOptions, </li>
-<li>/sdk-for-flutter-explore-routing-calculateroutecallback callback</li>
+<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+refreshRouteWithRouteHandleAndRefreshRouteParameters(<wbr/><ol class="parameter-list single-line"> <li><a href="../../routing/RefreshRouteParameters-class.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-class</a> refreshRouteParameters, </li>
+<li><a href="../../routing/RoutingOptions-class.html">/sdk-for-flutter-explore-routing-routingoptions-class</a> routingOptions, </li>
+<li><a href="../../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback</li>
 </ol>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Asynchronously refreshes a previously calculated route from the provided /sdk-for-flutter-explore-routing-routehandle-class, updating
-the starting point and route metadata based on /sdk-for-flutter-explore-routing-routingoptions-class.</p>
+<p>Asynchronously refreshes a previously calculated route from the provided <a href="../../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a>, updating
+the starting point and route metadata based on <a href="../../routing/RoutingOptions-class.html">/sdk-for-flutter-explore-routing-routingoptions-class</a>.</p>
 <p>The route shape from the new
 starting point to the destination remains unchanged, and only metadata such as arrival time and traffic
 delays are updated.</p>
@@ -65,7 +64,7 @@ delays are updated.</p>
 It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -79,9 +78,9 @@ It is always invoked on the main thread.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routingengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RoutingEngine-class.html">/sdk-for-flutter-explore-routing-routingengine-class</a></li>
 <li class="self-crumb">refreshRouteWithRouteHandleAndRefreshRouteParameters abstract method</li>
 </ol>
 <h5>RoutingEngine class</h5>
@@ -98,5 +97,4 @@ It is always invoked on the main thread.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

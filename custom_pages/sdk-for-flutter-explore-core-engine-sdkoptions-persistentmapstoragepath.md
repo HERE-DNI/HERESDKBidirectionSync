@@ -1,10 +1,9 @@
 ---
-title: "persistentMapStoragePath property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- persistentMapStoragePath.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
 <li class="self-crumb">persistentMapStoragePath property</li>
 </ol>
 <div class="self-name">persistentMapStoragePath</div>
@@ -54,7 +53,7 @@ If a relative path is set then directory
 <strong>Note</strong>: Offline maps stored at <code>&lt;persistent_map_storage_path&gt;/v1/&lt;access_key_id&gt;/ocm-map/</code>, where <code>&lt;access_key_id&gt;</code> is
 taken from <code>SDKOptions.authenticationMode</code>.
 When <code>SDKOptions</code> initialized with <code>AuthenticationMode.withToken</code> or <code>AuthenticationMode.withExternal</code>, then <code>&lt;access_key_id&gt;</code> left empty.</p>
-<p>Note: If the persistent map storage location has the read only permission, then the /sdk-for-flutter-explore-core-engine-sdkoptions-datapath must be configured.</p>
+<p>Note: If the persistent map storage location has the read only permission, then the <a href="../../core.engine/SDKOptions/dataPath.html">/sdk-for-flutter-explore-core-engine-sdkoptions-datapath</a> must be configured.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -68,9 +67,9 @@ When <code>SDKOptions</code> initialized with <code>AuthenticationMode.withToken
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
 <li class="self-crumb">persistentMapStoragePath property</li>
 </ol>
 <h5>SDKOptions class</h5>
@@ -87,5 +86,4 @@ When <code>SDKOptions</code> initialized with <code>AuthenticationMode.withToken
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

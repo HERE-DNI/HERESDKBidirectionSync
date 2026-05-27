@@ -1,10 +1,9 @@
 ---
-title: "update abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-style-update"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- update.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-style-update"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-style-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/Style-class.html">/sdk-for-flutter-explore-mapview-style-class</a></li>
 <li class="self-crumb">update abstract method</li>
 </ol>
 <div class="self-name">update</div>
@@ -39,7 +38,7 @@ menu
 <h1>update abstract method</h1></div>
 <section class="multi-line-signature">
 void
-update(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-style-class style</li>
+update(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/Style-class.html">/sdk-for-flutter-explore-mapview-style-class</a> style</li>
 </ol>)
 
       
@@ -64,9 +63,9 @@ update(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explor
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-style-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/Style-class.html">/sdk-for-flutter-explore-mapview-style-class</a></li>
 <li class="self-crumb">update abstract method</li>
 </ol>
 <h5>Style class</h5>
@@ -83,5 +82,4 @@ update(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explor
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

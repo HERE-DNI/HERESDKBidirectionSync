@@ -1,10 +1,9 @@
 ---
-title: "countries property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-avoidanceoptions-countries"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- countries.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-avoidanceoptions-countries"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-avoidanceoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a></li>
 <li class="self-crumb">countries property</li>
 </ol>
 <div class="self-name">countries</div>
@@ -39,13 +38,13 @@ menu
 <h1>countries property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-core-countrycode&gt;
+        List&lt;<wbr/><a href="../../core/CountryCode.html">/sdk-for-flutter-explore-core-countrycode</a>&gt;
 countries
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Countries that the route must avoid. Strictly enforced.
-Violations are reported as /sdk-for-flutter-explore-routing-sectionnoticecode.
+Violations are reported as <a href="../../routing/SectionNoticeCode.html">/sdk-for-flutter-explore-routing-sectionnoticecode</a>.
 <strong>Note:</strong> This avoidance option is not supported in <code>IsolineOptions</code> for isoline calculation.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -60,9 +59,9 @@ Violations are reported as /sdk-for-flutter-explore-routing-sectionnoticecode.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-avoidanceoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a></li>
 <li class="self-crumb">countries property</li>
 </ol>
 <h5>AvoidanceOptions class</h5>
@@ -79,5 +78,4 @@ Violations are reported as /sdk-for-flutter-explore-routing-sectionnoticecode.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

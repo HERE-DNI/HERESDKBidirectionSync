@@ -1,10 +1,9 @@
 ---
-title: "removeLifecycleListener abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapviewbase-removelifecyclelistener"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- removeLifecycleListener.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapviewbase-removelifecyclelistener"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapviewbase-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a></li>
 <li class="self-crumb">removeLifecycleListener abstract method</li>
 </ol>
 <div class="self-name">removeLifecycleListener</div>
@@ -39,14 +38,14 @@ menu
 <h1>removeLifecycleListener abstract method</h1></div>
 <section class="multi-line-signature">
 void
-removeLifecycleListener(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class lifecycleListener</li>
+removeLifecycleListener(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a> lifecycleListener</li>
 </ol>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Removes a /sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class from this map view.</p>
+<p>Removes a <a href="../../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a> from this map view.</p>
 <p>Trying to remove an object that was not added or was removed before
 has no effect.</p>
 <ul>
@@ -65,9 +64,9 @@ has no effect.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapviewbase-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a></li>
 <li class="self-crumb">removeLifecycleListener abstract method</li>
 </ol>
 <h5>MapViewBase class</h5>
@@ -84,5 +83,4 @@ has no effect.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

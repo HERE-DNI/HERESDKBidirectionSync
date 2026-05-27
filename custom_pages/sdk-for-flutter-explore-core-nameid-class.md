@@ -1,10 +1,9 @@
 ---
-title: "NameID class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-nameid-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- NameID-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-core-nameid-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">NameID class</li>
 </ol>
 <div class="self-name">NameID</div>
@@ -58,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="NameID">
-/sdk-for-flutter-explore-core-nameid-nameid()
+<a href="../core/NameID/NameID.html">/sdk-for-flutter-explore-core-nameid-nameid</a>()
 </dt>
 <dd>
 </dd>
@@ -68,7 +67,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-core-nameid-hashcode
+<a href="../core/NameID/hashCode.html">/sdk-for-flutter-explore-core-nameid-hashcode</a>
 → int
 </dt>
 <dd>
@@ -76,7 +75,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="id">
-/sdk-for-flutter-explore-core-nameid-id
+<a href="../core/NameID/id.html">/sdk-for-flutter-explore-core-nameid-id</a>
 ↔ String?
 </dt>
 <dd>
@@ -84,7 +83,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="name">
-/sdk-for-flutter-explore-core-nameid-name
+<a href="../core/NameID/name.html">/sdk-for-flutter-explore-core-nameid-name</a>
 ↔ String?
 </dt>
 <dd>
@@ -92,7 +91,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-nameid-runtimetype
+<a href="../core/NameID/runtimeType.html">/sdk-for-flutter-explore-core-nameid-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -105,7 +104,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-nameid-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/NameID/noSuchMethod.html">/sdk-for-flutter-explore-core-nameid-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -114,7 +113,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-nameid-tostring(<wbr/>)
+<a href="../core/NameID/toString.html">/sdk-for-flutter-explore-core-nameid-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -128,7 +127,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-core-nameid-operator-equals(<wbr/>Object other)
+<a href="../core/NameID/operator_equals.html">/sdk-for-flutter-explore-core-nameid-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -147,8 +146,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">NameID class</li>
 </ol>
 <h5>core library</h5>
@@ -165,5 +164,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

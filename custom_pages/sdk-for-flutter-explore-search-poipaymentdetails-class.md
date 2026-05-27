@@ -1,10 +1,9 @@
 ---
-title: "POIPaymentDetails class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-poipaymentdetails-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- POIPaymentDetails-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-search-poipaymentdetails-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">POIPaymentDetails class</li>
 </ol>
 <div class="self-name">POIPaymentDetails</div>
@@ -61,7 +60,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="POIPaymentDetails">
-/sdk-for-flutter-explore-search-poipaymentdetails-poipaymentdetails()
+<a href="../search/POIPaymentDetails/POIPaymentDetails.html">/sdk-for-flutter-explore-search-poipaymentdetails-poipaymentdetails</a>()
 </dt>
 <dd>
 </dd>
@@ -71,7 +70,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="acceptedCashCurrencies">
-/sdk-for-flutter-explore-search-poipaymentdetails-acceptedcashcurrencies
+<a href="../search/POIPaymentDetails/acceptedCashCurrencies.html">/sdk-for-flutter-explore-search-poipaymentdetails-acceptedcashcurrencies</a>
 ↔ List&lt;<wbr/>String&gt;?
 </dt>
 <dd>
@@ -83,16 +82,16 @@ not available, it is set to <code>null</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="acceptedMethods">
-/sdk-for-flutter-explore-search-poipaymentdetails-acceptedmethods
+<a href="../search/POIPaymentDetails/acceptedMethods.html">/sdk-for-flutter-explore-search-poipaymentdetails-acceptedmethods</a>
 ↔ List&lt;<wbr/>String&gt;
 </dt>
 <dd>
   Accepted payment methods.
-Currently supported methods are defined in /sdk-for-flutter-explore-search-poipaymentmethod-class.
+Currently supported methods are defined in <a href="../search/POIPaymentMethod-class.html">/sdk-for-flutter-explore-search-poipaymentmethod-class</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-poipaymentdetails-hashcode
+<a href="../search/POIPaymentDetails/hashCode.html">/sdk-for-flutter-explore-search-poipaymentdetails-hashcode</a>
 → int
 </dt>
 <dd>
@@ -100,7 +99,7 @@ Currently supported methods are defined in /sdk-for-flutter-explore-search-poipa
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-poipaymentdetails-runtimetype
+<a href="../search/POIPaymentDetails/runtimeType.html">/sdk-for-flutter-explore-search-poipaymentdetails-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -113,7 +112,7 @@ Currently supported methods are defined in /sdk-for-flutter-explore-search-poipa
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-poipaymentdetails-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/POIPaymentDetails/noSuchMethod.html">/sdk-for-flutter-explore-search-poipaymentdetails-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -122,7 +121,7 @@ Currently supported methods are defined in /sdk-for-flutter-explore-search-poipa
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-poipaymentdetails-tostring(<wbr/>)
+<a href="../search/POIPaymentDetails/toString.html">/sdk-for-flutter-explore-search-poipaymentdetails-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -136,7 +135,7 @@ Currently supported methods are defined in /sdk-for-flutter-explore-search-poipa
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-poipaymentdetails-operator-equals(<wbr/>Object other)
+<a href="../search/POIPaymentDetails/operator_equals.html">/sdk-for-flutter-explore-search-poipaymentdetails-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -155,8 +154,8 @@ Currently supported methods are defined in /sdk-for-flutter-explore-search-poipa
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">POIPaymentDetails class</li>
 </ol>
 <h5>search library</h5>
@@ -173,5 +172,4 @@ Currently supported methods are defined in /sdk-for-flutter-explore-search-poipa
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "searchByPlaceIdWithLanguageCodeExtended abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-searchengine-searchbyplaceidwithlanguagecodeextended"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- searchByPlaceIdWithLanguageCodeExtended.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-searchengine-searchbyplaceidwithlanguageco
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-searchengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/SearchEngine-class.html">/sdk-for-flutter-explore-search-searchengine-class</a></li>
 <li class="self-crumb">searchByPlaceIdWithLanguageCodeExtended abstract method</li>
 </ol>
 <div class="self-name">searchByPlaceIdWithLanguageCodeExtended</div>
@@ -38,18 +37,18 @@ menu
 <div>
 <h1>searchByPlaceIdWithLanguageCodeExtended abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-threading-taskhandle-class
-searchByPlaceIdWithLanguageCodeExtended(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-search-placeidquery-class query, </li>
-<li>/sdk-for-flutter-explore-core-languagecode? languageCode, </li>
-<li>/sdk-for-flutter-explore-search-placeidsearchcallbackextended callback</li>
+<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+searchByPlaceIdWithLanguageCodeExtended(<wbr/><ol class="parameter-list single-line"> <li><a href="../../search/PlaceIdQuery-class.html">/sdk-for-flutter-explore-search-placeidquery-class</a> query, </li>
+<li><a href="../../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>? languageCode, </li>
+<li><a href="../../search/PlaceIdSearchCallbackExtended.html">/sdk-for-flutter-explore-search-placeidsearchcallbackextended</a> callback</li>
 </ol>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Performs an asynchronous request to search for a /sdk-for-flutter-explore-search-place-class based on its ID and
-/sdk-for-flutter-explore-core-languagecode.</p>
+<p>Performs an asynchronous request to search for a <a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a> based on its ID and
+<a href="../../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>.</p>
 <ul>
 <li>
 <p><code>query</code> The id of place to search.</p>
@@ -62,7 +61,7 @@ chosen, results will be returned in their local language.</p>
 <p><code>callback</code> Callback which receives the result on the main thread.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -76,9 +75,9 @@ chosen, results will be returned in their local language.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-searchengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/SearchEngine-class.html">/sdk-for-flutter-explore-search-searchengine-class</a></li>
 <li class="self-crumb">searchByPlaceIdWithLanguageCodeExtended abstract method</li>
 </ol>
 <h5>SearchEngine class</h5>
@@ -95,5 +94,4 @@ chosen, results will be returned in their local language.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

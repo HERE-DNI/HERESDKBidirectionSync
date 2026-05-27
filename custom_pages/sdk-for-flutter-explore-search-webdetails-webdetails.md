@@ -1,10 +1,9 @@
 ---
-title: "WebDetails constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-webdetails-webdetails"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- WebDetails.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-webdetails-webdetails"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-webdetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/WebDetails-class.html">/sdk-for-flutter-explore-search-webdetails-class</a></li>
 <li class="self-crumb">WebDetails constructor</li>
 </ol>
 <div class="self-name">WebDetails</div>
@@ -56,9 +55,9 @@ WebDetails(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-webdetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/WebDetails-class.html">/sdk-for-flutter-explore-search-webdetails-class</a></li>
 <li class="self-crumb">WebDetails constructor</li>
 </ol>
 <h5>WebDetails class</h5>
@@ -75,5 +74,4 @@ WebDetails(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

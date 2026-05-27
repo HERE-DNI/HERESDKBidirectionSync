@@ -1,10 +1,9 @@
 ---
-title: "EVSearchEngine.withSdkEngine constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evsearchengine-evsearchengine-withsdkengine"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVSearchEngine.withSdkEngine.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evsearchengine-evsearchengine-withsdkengin
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evsearchengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVSearchEngine-class.html">/sdk-for-flutter-explore-search-evsearchengine-class</a></li>
 <li class="self-crumb">EVSearchEngine.withSdkEngine factory constructor</li>
 </ol>
 <div class="self-name">EVSearchEngine.withSdkEngine</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>EVSearchEngine.withSdkEngine constructor</h1></div>
 <section class="multi-line-signature">
-EVSearchEngine.withSdkEngine(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class sdkEngine</li>
+EVSearchEngine.withSdkEngine(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a> sdkEngine</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -46,7 +45,7 @@ EVSearchEngine.withSdkEngine(<wbr/><ol class="parameter-list single-line"> <li>/
 <ul>
 <li><code>sdkEngine</code> Instance of an existing SDKEngine.</li>
 </ul>
-<p>Throws /sdk-for-flutter-explore-core-errors-instantiationexception-class. Indicates what went wrong when the instantiation was attempted.</p>
+<p>Throws <a href="../../core.errors/InstantiationException-class.html">/sdk-for-flutter-explore-core-errors-instantiationexception-class</a>. Indicates what went wrong when the instantiation was attempted.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -60,9 +59,9 @@ EVSearchEngine.withSdkEngine(<wbr/><ol class="parameter-list single-line"> <li>/
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evsearchengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVSearchEngine-class.html">/sdk-for-flutter-explore-search-evsearchengine-class</a></li>
 <li class="self-crumb">EVSearchEngine.withSdkEngine factory constructor</li>
 </ol>
 <h5>EVSearchEngine class</h5>
@@ -79,5 +78,4 @@ EVSearchEngine.withSdkEngine(<wbr/><ol class="parameter-list single-line"> <li>/
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "IsolineRoutingEngine.withConnectionSettings constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-isolineroutingengine-isolineroutingengine-withconnectionsettings"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- IsolineRoutingEngine.withConnectionSettings.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-isolineroutingengine-isolineroutingengine
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-isolineroutingengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/IsolineRoutingEngine-class.html">/sdk-for-flutter-explore-routing-isolineroutingengine-class</a></li>
 <li class="self-crumb">IsolineRoutingEngine.withConnectionSettings factory constructor</li>
 </ol>
 <div class="self-name">IsolineRoutingEngine.withConnectionSettings</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>IsolineRoutingEngine.withConnectionSettings constructor</h1></div>
 <section class="multi-line-signature">
-IsolineRoutingEngine.withConnectionSettings(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-routing-routingconnectionsettings-class connectionSettings</li>
+IsolineRoutingEngine.withConnectionSettings(<wbr/><ol class="parameter-list single-line"> <li><a href="../../routing/RoutingConnectionSettings-class.html">/sdk-for-flutter-explore-routing-routingconnectionsettings-class</a> connectionSettings</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -46,7 +45,7 @@ IsolineRoutingEngine.withConnectionSettings(<wbr/><ol class="parameter-list sing
 <ul>
 <li><code>connectionSettings</code> Settings for the route calculation.</li>
 </ul>
-<p>Throws /sdk-for-flutter-explore-core-errors-instantiationexception-class. Indicates what went wrong when the instantiation was attempted.</p>
+<p>Throws <a href="../../core.errors/InstantiationException-class.html">/sdk-for-flutter-explore-core-errors-instantiationexception-class</a>. Indicates what went wrong when the instantiation was attempted.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -60,9 +59,9 @@ IsolineRoutingEngine.withConnectionSettings(<wbr/><ol class="parameter-list sing
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-isolineroutingengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/IsolineRoutingEngine-class.html">/sdk-for-flutter-explore-routing-isolineroutingengine-class</a></li>
 <li class="self-crumb">IsolineRoutingEngine.withConnectionSettings factory constructor</li>
 </ol>
 <h5>IsolineRoutingEngine class</h5>
@@ -79,5 +78,4 @@ IsolineRoutingEngine.withConnectionSettings(<wbr/><ol class="parameter-list sing
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

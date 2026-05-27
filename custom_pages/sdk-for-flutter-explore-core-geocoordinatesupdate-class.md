@@ -1,10 +1,9 @@
 ---
-title: "GeoCoordinatesUpdate class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-geocoordinatesupdate-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- GeoCoordinatesUpdate-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-core-geocoordinatesupdate-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">GeoCoordinatesUpdate class</li>
 </ol>
 <div class="self-name">GeoCoordinatesUpdate</div>
@@ -56,7 +55,7 @@ menu
 <h1>GeoCoordinatesUpdate class</h1></div>
 <section class="desc markdown">
 <p>Represents geographical coordinates in 3D space.</p>
-<p>Unlike /sdk-for-flutter-explore-core-geocoordinates-class, its members can be undefined, allowing for APIs
+<p>Unlike <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>, its members can be undefined, allowing for APIs
 that update only the specified parts of geo coordinates.</p>
 </section>
 <section>
@@ -73,7 +72,7 @@ that update only the specified parts of geo coordinates.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="GeoCoordinatesUpdate">
-/sdk-for-flutter-explore-core-geocoordinatesupdate-geocoordinatesupdate(double? latitude, double? longitude)
+<a href="../core/GeoCoordinatesUpdate/GeoCoordinatesUpdate.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-geocoordinatesupdate</a>(double? latitude, double? longitude)
 </dt>
 <dd>
           Constructs a GeoCoordinatesUpdate from the provided latitude and
@@ -81,14 +80,14 @@ longitude values.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="GeoCoordinatesUpdate.fromGeoCoordinates">
-/sdk-for-flutter-explore-core-geocoordinatesupdate-geocoordinatesupdate-fromgeocoordinates(/sdk-for-flutter-explore-core-geocoordinates-class coordinates)
+<a href="../core/GeoCoordinatesUpdate/GeoCoordinatesUpdate.fromGeoCoordinates.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-geocoordinatesupdate-fromgeocoordinates</a>(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates)
 </dt>
 <dd>
           Constructs a GeoCoordinatesUpdate from GeoCoordinates
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="GeoCoordinatesUpdate.withAltitude">
-/sdk-for-flutter-explore-core-geocoordinatesupdate-geocoordinatesupdate-withaltitude(double? latitude, double? longitude, double? altitude)
+<a href="../core/GeoCoordinatesUpdate/GeoCoordinatesUpdate.withAltitude.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-geocoordinatesupdate-withaltitude</a>(double? latitude, double? longitude, double? altitude)
 </dt>
 <dd>
           Constructs a GeoCoordinatesUpdate from the provided latitude, longitude
@@ -101,7 +100,7 @@ and alt values.
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="altitude">
-/sdk-for-flutter-explore-core-geocoordinatesupdate-altitude
+<a href="../core/GeoCoordinatesUpdate/altitude.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-altitude</a>
 → double?
 </dt>
 <dd>
@@ -109,7 +108,7 @@ and alt values.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-core-geocoordinatesupdate-hashcode
+<a href="../core/GeoCoordinatesUpdate/hashCode.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-hashcode</a>
 → int
 </dt>
 <dd>
@@ -117,7 +116,7 @@ and alt values.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="latitude">
-/sdk-for-flutter-explore-core-geocoordinatesupdate-latitude
+<a href="../core/GeoCoordinatesUpdate/latitude.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-latitude</a>
 → double?
 </dt>
 <dd>
@@ -125,7 +124,7 @@ and alt values.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="longitude">
-/sdk-for-flutter-explore-core-geocoordinatesupdate-longitude
+<a href="../core/GeoCoordinatesUpdate/longitude.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-longitude</a>
 → double?
 </dt>
 <dd>
@@ -133,7 +132,7 @@ and alt values.
   <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-geocoordinatesupdate-runtimetype
+<a href="../core/GeoCoordinatesUpdate/runtimeType.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -146,7 +145,7 @@ and alt values.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-geocoordinatesupdate-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/GeoCoordinatesUpdate/noSuchMethod.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -155,7 +154,7 @@ and alt values.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-geocoordinatesupdate-tostring(<wbr/>)
+<a href="../core/GeoCoordinatesUpdate/toString.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -169,7 +168,7 @@ and alt values.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-core-geocoordinatesupdate-operator-equals(<wbr/>Object other)
+<a href="../core/GeoCoordinatesUpdate/operator_equals.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -188,8 +187,8 @@ and alt values.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">GeoCoordinatesUpdate class</li>
 </ol>
 <h5>core library</h5>
@@ -206,5 +205,4 @@ and alt values.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

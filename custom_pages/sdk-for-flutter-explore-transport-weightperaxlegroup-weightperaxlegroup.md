@@ -1,10 +1,9 @@
 ---
-title: "WeightPerAxleGroup constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-weightperaxlegroup-weightperaxlegroup"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- WeightPerAxleGroup.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-weightperaxlegroup-weightperaxlegroup"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-weightperaxlegroup-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/WeightPerAxleGroup-class.html">/sdk-for-flutter-explore-transport-weightperaxlegroup-class</a></li>
 <li class="self-crumb">WeightPerAxleGroup constructor</li>
 </ol>
 <div class="self-name">WeightPerAxleGroup</div>
@@ -53,9 +52,9 @@ WeightPerAxleGroup(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-weightperaxlegroup-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/WeightPerAxleGroup-class.html">/sdk-for-flutter-explore-transport-weightperaxlegroup-class</a></li>
 <li class="self-crumb">WeightPerAxleGroup constructor</li>
 </ol>
 <h5>WeightPerAxleGroup class</h5>
@@ -72,5 +71,4 @@ WeightPerAxleGroup(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

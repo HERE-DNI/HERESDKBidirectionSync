@@ -1,10 +1,9 @@
 ---
-title: "PointTileSourceLoadResultHandler class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PointTileSourceLoadResultHandler-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandl
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">PointTileSourceLoadResultHandler class</li>
 </ol>
 <div class="self-name">PointTileSourceLoadResultHandler</div>
@@ -58,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PointTileSourceLoadResultHandler">
-/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-pointtilesourceloadresulthandler(void loadedLambda(/sdk-for-flutter-explore-mapview-datasource-tilekey-class, List&lt;<wbr/>/sdk-for-flutter-explore-mapview-datasource-pointdata-class&gt;, /sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class), void failedLambda(/sdk-for-flutter-explore-mapview-datasource-tilekey-class))
+<a href="../mapview.datasource/PointTileSourceLoadResultHandler/PointTileSourceLoadResultHandler.html">/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-pointtilesourceloadresulthandler</a>(void loadedLambda(<a href="../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a>, List&lt;<wbr/><a href="../mapview.datasource/PointData-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdata-class</a>&gt;, <a href="../mapview.datasource/TileSourceTileMetadata-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class</a>), void failedLambda(<a href="../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a>))
 </dt>
 <dd>
           Result handler of a load tile request.
@@ -70,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-hashcode
+<a href="../mapview.datasource/PointTileSourceLoadResultHandler/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -78,7 +77,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-runtimetype
+<a href="../mapview.datasource/PointTileSourceLoadResultHandler/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -91,7 +90,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="failed">
-/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-failed(<wbr/>/sdk-for-flutter-explore-mapview-datasource-tilekey-class tileKey)
+<a href="../mapview.datasource/PointTileSourceLoadResultHandler/failed.html">/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-failed</a>(<wbr/><a href="../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a> tileKey)
     → void
 
 </dt>
@@ -101,7 +100,7 @@ menu
 
 </dd>
 <dt class="callable" id="loaded">
-/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-loaded(<wbr/>/sdk-for-flutter-explore-mapview-datasource-tilekey-class tileKey, List&lt;<wbr/>/sdk-for-flutter-explore-mapview-datasource-pointdata-class&gt; data, /sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class metadata)
+<a href="../mapview.datasource/PointTileSourceLoadResultHandler/loaded.html">/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-loaded</a>(<wbr/><a href="../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a> tileKey, List&lt;<wbr/><a href="../mapview.datasource/PointData-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdata-class</a>&gt; data, <a href="../mapview.datasource/TileSourceTileMetadata-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class</a> metadata)
     → void
 
 </dt>
@@ -111,7 +110,7 @@ menu
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview.datasource/PointTileSourceLoadResultHandler/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -120,7 +119,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-tostring(<wbr/>)
+<a href="../mapview.datasource/PointTileSourceLoadResultHandler/toString.html">/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -134,7 +133,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-operator-equals(<wbr/>Object other)
+<a href="../mapview.datasource/PointTileSourceLoadResultHandler/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -152,8 +151,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">PointTileSourceLoadResultHandler class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -170,5 +169,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

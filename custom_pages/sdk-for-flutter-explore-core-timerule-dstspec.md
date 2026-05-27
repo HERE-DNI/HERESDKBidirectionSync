@@ -1,10 +1,9 @@
 ---
-title: "dstSpec property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-timerule-dstspec"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- dstSpec.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-timerule-dstspec"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-timerule-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/TimeRule-class.html">/sdk-for-flutter-explore-core-timerule-class</a></li>
 <li class="self-crumb">dstSpec property</li>
 </ol>
 <div class="self-name">dstSpec</div>
@@ -59,9 +58,9 @@ Gets the value of day saving time specification, as a string in ISO 14825 format
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-timerule-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/TimeRule-class.html">/sdk-for-flutter-explore-core-timerule-class</a></li>
 <li class="self-crumb">dstSpec property</li>
 </ol>
 <h5>TimeRule class</h5>
@@ -78,5 +77,4 @@ Gets the value of day saving time specification, as a string in ISO 14825 format
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

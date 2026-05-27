@@ -1,10 +1,9 @@
 ---
-title: "error property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-animation-easinginstantiationexception-error"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- error.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-animation-easinginstantiationexception-error"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-animation-easinginstantiationexception-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../../animation/EasingInstantiationException-class.html">/sdk-for-flutter-explore-animation-easinginstantiationexception-class</a></li>
 <li class="self-crumb">error property</li>
 </ol>
 <div class="self-name">error</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>error property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-animation-easinginstantiationerrorcode
+<a href="../../animation/EasingInstantiationErrorCode.html">/sdk-for-flutter-explore-animation-easinginstantiationerrorcode</a>
 error
 <div class="features">final</div>
 </section>
@@ -54,9 +53,9 @@ error
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-animation-easinginstantiationexception-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../../animation/EasingInstantiationException-class.html">/sdk-for-flutter-explore-animation-easinginstantiationexception-class</a></li>
 <li class="self-crumb">error property</li>
 </ol>
 <h5>EasingInstantiationException class</h5>
@@ -73,5 +72,4 @@ error
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

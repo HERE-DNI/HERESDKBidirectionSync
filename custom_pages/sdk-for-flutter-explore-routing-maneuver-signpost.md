@@ -1,10 +1,9 @@
 ---
-title: "signpost property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-maneuver-signpost"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- signpost.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-maneuver-signpost"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-maneuver-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Maneuver-class.html">/sdk-for-flutter-explore-routing-maneuver-class</a></li>
 <li class="self-crumb">signpost property</li>
 </ol>
 <div class="self-name">signpost</div>
@@ -39,12 +38,12 @@ menu
 <h1>signpost property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-routing-signpost-class?
+<a href="../../routing/Signpost-class.html">/sdk-for-flutter-explore-routing-signpost-class</a>?
 signpost
 </section>
 <section class="desc markdown">
-<p>Gets the /sdk-for-flutter-explore-routing-signpost-class object.
-Gets /sdk-for-flutter-explore-routing-signpost-class object.</p>
+<p>Gets the <a href="../../routing/Signpost-class.html">/sdk-for-flutter-explore-routing-signpost-class</a> object.
+Gets <a href="../../routing/Signpost-class.html">/sdk-for-flutter-explore-routing-signpost-class</a> object.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +58,9 @@ Gets /sdk-for-flutter-explore-routing-signpost-class object.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-maneuver-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Maneuver-class.html">/sdk-for-flutter-explore-routing-maneuver-class</a></li>
 <li class="self-crumb">signpost property</li>
 </ol>
 <h5>Maneuver class</h5>
@@ -78,5 +77,4 @@ Gets /sdk-for-flutter-explore-routing-signpost-class object.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

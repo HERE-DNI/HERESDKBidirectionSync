@@ -1,10 +1,9 @@
 ---
-title: "TranslucentMapLayerGroupErrorDetails constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-translucentmaplayergrouperrordetails"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TranslucentMapLayerGroupErrorDetails.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-tran
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/TranslucentMapLayerGroupErrorDetails-class.html">/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-class</a></li>
 <li class="self-crumb">TranslucentMapLayerGroupErrorDetails constructor</li>
 </ol>
 <div class="self-name">TranslucentMapLayerGroupErrorDetails</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>TranslucentMapLayerGroupErrorDetails constructor</h1></div>
 <section class="multi-line-signature">
-TranslucentMapLayerGroupErrorDetails(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrorcode errorCode, </li>
+TranslucentMapLayerGroupErrorDetails(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/TranslucentMapLayerGroupErrorCode.html">/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrorcode</a> errorCode, </li>
 <li>String? errorDescription</li>
 </ol>)
     </section>
@@ -61,9 +60,9 @@ TranslucentMapLayerGroupErrorDetails(<wbr/><ol class="parameter-list single-line
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/TranslucentMapLayerGroupErrorDetails-class.html">/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-class</a></li>
 <li class="self-crumb">TranslucentMapLayerGroupErrorDetails constructor</li>
 </ol>
 <h5>TranslucentMapLayerGroupErrorDetails class</h5>
@@ -80,5 +79,4 @@ TranslucentMapLayerGroupErrorDetails(<wbr/><ol class="parameter-list single-line
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

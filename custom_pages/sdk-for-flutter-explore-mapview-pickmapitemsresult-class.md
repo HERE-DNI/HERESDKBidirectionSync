@@ -1,10 +1,9 @@
 ---
-title: "PickMapItemsResult class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-pickmapitemsresult-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PickMapItemsResult-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-mapview-pickmapitemsresult-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">PickMapItemsResult class</li>
 </ol>
 <div class="self-name">PickMapItemsResult</div>
@@ -61,7 +60,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PickMapItemsResult">
-/sdk-for-flutter-explore-mapview-pickmapitemsresult-pickmapitemsresult()
+<a href="../mapview/PickMapItemsResult/PickMapItemsResult.html">/sdk-for-flutter-explore-mapview-pickmapitemsresult-pickmapitemsresult</a>()
 </dt>
 <dd>
 </dd>
@@ -71,8 +70,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="clusteredMarkers">
-/sdk-for-flutter-explore-mapview-pickmapitemsresult-clusteredmarkers
-→ List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmarkerclustergrouping-class&gt;
+<a href="../mapview/PickMapItemsResult/clusteredMarkers.html">/sdk-for-flutter-explore-mapview-pickmapitemsresult-clusteredmarkers</a>
+→ List&lt;<wbr/><a href="../mapview/MapMarkerClusterGrouping-class.html">/sdk-for-flutter-explore-mapview-mapmarkerclustergrouping-class</a>&gt;
 </dt>
 <dd>
   List of marker groups (represented by a single cluster marker)
@@ -81,7 +80,7 @@ Gets list of clustered marker groups at the location of picking.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-pickmapitemsresult-hashcode
+<a href="../mapview/PickMapItemsResult/hashCode.html">/sdk-for-flutter-explore-mapview-pickmapitemsresult-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -89,8 +88,8 @@ Gets list of clustered marker groups at the location of picking.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="markers">
-/sdk-for-flutter-explore-mapview-pickmapitemsresult-markers
-→ List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmarker-class&gt;
+<a href="../mapview/PickMapItemsResult/markers.html">/sdk-for-flutter-explore-mapview-pickmapitemsresult-markers</a>
+→ List&lt;<wbr/><a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>&gt;
 </dt>
 <dd>
   List of markers at the location of picking.
@@ -98,8 +97,8 @@ Gets list of markers at the location of picking.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="markers3d">
-/sdk-for-flutter-explore-mapview-pickmapitemsresult-markers3d
-→ List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmarker3d-class&gt;
+<a href="../mapview/PickMapItemsResult/markers3d.html">/sdk-for-flutter-explore-mapview-pickmapitemsresult-markers3d</a>
+→ List&lt;<wbr/><a href="../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a>&gt;
 </dt>
 <dd>
   List of 3d markers at the location of picking.
@@ -107,8 +106,8 @@ Gets list of 3d markers at the location of picking.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="polygons">
-/sdk-for-flutter-explore-mapview-pickmapitemsresult-polygons
-→ List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mappolygon-class&gt;
+<a href="../mapview/PickMapItemsResult/polygons.html">/sdk-for-flutter-explore-mapview-pickmapitemsresult-polygons</a>
+→ List&lt;<wbr/><a href="../mapview/MapPolygon-class.html">/sdk-for-flutter-explore-mapview-mappolygon-class</a>&gt;
 </dt>
 <dd>
   List of polygons at the location of picking.
@@ -116,8 +115,8 @@ Gets list of polygons at the location of picking.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="polylines">
-/sdk-for-flutter-explore-mapview-pickmapitemsresult-polylines
-→ List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mappolyline-class&gt;
+<a href="../mapview/PickMapItemsResult/polylines.html">/sdk-for-flutter-explore-mapview-pickmapitemsresult-polylines</a>
+→ List&lt;<wbr/><a href="../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a>&gt;
 </dt>
 <dd>
   List of polylines at the location of picking.
@@ -125,7 +124,7 @@ Gets list of polylines at the location of picking.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-pickmapitemsresult-runtimetype
+<a href="../mapview/PickMapItemsResult/runtimeType.html">/sdk-for-flutter-explore-mapview-pickmapitemsresult-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -138,7 +137,7 @@ Gets list of polylines at the location of picking.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-pickmapitemsresult-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/PickMapItemsResult/noSuchMethod.html">/sdk-for-flutter-explore-mapview-pickmapitemsresult-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -147,7 +146,7 @@ Gets list of polylines at the location of picking.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-pickmapitemsresult-tostring(<wbr/>)
+<a href="../mapview/PickMapItemsResult/toString.html">/sdk-for-flutter-explore-mapview-pickmapitemsresult-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -161,7 +160,7 @@ Gets list of polylines at the location of picking.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-pickmapitemsresult-operator-equals(<wbr/>Object other)
+<a href="../mapview/PickMapItemsResult/operator_equals.html">/sdk-for-flutter-explore-mapview-pickmapitemsresult-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -179,8 +178,8 @@ Gets list of polylines at the location of picking.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">PickMapItemsResult class</li>
 </ol>
 <h5>mapview library</h5>
@@ -197,5 +196,4 @@ Gets list of polylines at the location of picking.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

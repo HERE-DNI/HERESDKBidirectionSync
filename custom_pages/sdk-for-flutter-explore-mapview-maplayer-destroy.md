@@ -1,10 +1,9 @@
 ---
-title: "destroy abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-maplayer-destroy"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- destroy.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-maplayer-destroy"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-maplayer-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapLayer-class.html">/sdk-for-flutter-explore-mapview-maplayer-class</a></li>
 <li class="self-crumb">destroy abstract method</li>
 </ol>
 <div class="self-name">destroy</div>
@@ -61,9 +60,9 @@ is not usable anymore.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-maplayer-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapLayer-class.html">/sdk-for-flutter-explore-mapview-maplayer-class</a></li>
 <li class="self-crumb">destroy abstract method</li>
 </ol>
 <h5>MapLayer class</h5>
@@ -80,5 +79,4 @@ is not usable anymore.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

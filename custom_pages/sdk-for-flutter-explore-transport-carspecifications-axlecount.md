@@ -1,10 +1,9 @@
 ---
-title: "axleCount property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-carspecifications-axlecount"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- axleCount.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-carspecifications-axlecount"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-carspecifications-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/CarSpecifications-class.html">/sdk-for-flutter-explore-transport-carspecifications-class</a></li>
 <li class="self-crumb">axleCount property</li>
 </ol>
 <div class="self-name">axleCount</div>
@@ -48,7 +47,7 @@ menu
 equal to 2. By default, it is not set.
 Route calculation: When not set, possible axle count restrictions will not be
 taken into consideration.
-When specifying /sdk-for-flutter-explore-transport-carspecifications-traileraxlecount, then /sdk-for-flutter-explore-transport-carspecifications-axlecount is required and must be greater than /sdk-for-flutter-explore-transport-carspecifications-traileraxlecount.</p>
+When specifying <a href="../../transport/CarSpecifications/trailerAxleCount.html">/sdk-for-flutter-explore-transport-carspecifications-traileraxlecount</a>, then <a href="../../transport/CarSpecifications/axleCount.html">/sdk-for-flutter-explore-transport-carspecifications-axlecount</a> is required and must be greater than <a href="../../transport/CarSpecifications/trailerAxleCount.html">/sdk-for-flutter-explore-transport-carspecifications-traileraxlecount</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -62,9 +61,9 @@ When specifying /sdk-for-flutter-explore-transport-carspecifications-traileraxle
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-carspecifications-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/CarSpecifications-class.html">/sdk-for-flutter-explore-transport-carspecifications-class</a></li>
 <li class="self-crumb">axleCount property</li>
 </ol>
 <h5>CarSpecifications class</h5>
@@ -81,5 +80,4 @@ When specifying /sdk-for-flutter-explore-transport-carspecifications-traileraxle
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

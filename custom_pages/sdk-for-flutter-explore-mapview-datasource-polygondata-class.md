@@ -1,10 +1,9 @@
 ---
-title: "PolygonData class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-datasource-polygondata-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PolygonData-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +24,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-polygondata-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">PolygonData class</li>
 </ol>
 <div class="self-name">PolygonData</div>
@@ -51,7 +50,7 @@ menu
 <h1>PolygonData class abstract</h1></div>
 <section class="desc markdown">
 <p>Represents a geodetic polygon with custom attributes.</p>
-<p>Can be created using a /sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-class.</p>
+<p>Can be created using a <a href="../mapview.datasource/PolygonDataBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatabuilder-class</a>.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -59,7 +58,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PolygonData">
-/sdk-for-flutter-explore-mapview-datasource-polygondata-polygondata()
+<a href="../mapview.datasource/PolygonData/PolygonData.html">/sdk-for-flutter-explore-mapview-datasource-polygondata-polygondata</a>()
 </dt>
 <dd>
 </dd>
@@ -69,7 +68,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-datasource-polygondata-hashcode
+<a href="../mapview.datasource/PolygonData/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-polygondata-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -77,7 +76,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-datasource-polygondata-runtimetype
+<a href="../mapview.datasource/PolygonData/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-polygondata-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -90,7 +89,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-datasource-polygondata-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview.datasource/PolygonData/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-polygondata-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -99,7 +98,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-datasource-polygondata-tostring(<wbr/>)
+<a href="../mapview.datasource/PolygonData/toString.html">/sdk-for-flutter-explore-mapview-datasource-polygondata-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -113,7 +112,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-datasource-polygondata-operator-equals(<wbr/>Object other)
+<a href="../mapview.datasource/PolygonData/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-polygondata-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -131,8 +130,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">PolygonData class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -149,5 +148,4 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "signpostDirection property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-textusageoptions-signpostdirection"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- signpostDirection.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-textusageoptions-signpostdirection"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-textusageoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TextUsageOptions-class.html">/sdk-for-flutter-explore-routing-textusageoptions-class</a></li>
 <li class="self-crumb">signpostDirection property</li>
 </ol>
 <div class="self-name">signpostDirection</div>
@@ -38,13 +37,13 @@ menu
 <div>
 <h1>signpostDirection property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-routing-localizedtextpreference
+<a href="../../routing/LocalizedTextPreference.html">/sdk-for-flutter-explore-routing-localizedtextpreference</a>
 signpostDirection
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>An option whether signpost direction should be used when generating notification.
-Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.</p>
+Defaults to <a href="../../routing/LocalizedTextPreference.html">/sdk-for-flutter-explore-routing-localizedtextpreference</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -58,9 +57,9 @@ Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-textusageoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TextUsageOptions-class.html">/sdk-for-flutter-explore-routing-textusageoptions-class</a></li>
 <li class="self-crumb">signpostDirection property</li>
 </ol>
 <h5>TextUsageOptions class</h5>
@@ -77,5 +76,4 @@ Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

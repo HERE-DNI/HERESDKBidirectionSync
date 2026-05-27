@@ -1,10 +1,9 @@
 ---
-title: "EVChargingOpeningHoursException class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-evchargingopeninghoursexception-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVChargingOpeningHoursException-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-search-evchargingopeninghoursexception-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVChargingOpeningHoursException class</li>
 </ol>
 <div class="self-name">EVChargingOpeningHoursException</div>
@@ -62,7 +61,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVChargingOpeningHoursException">
-/sdk-for-flutter-explore-search-evchargingopeninghoursexception-evchargingopeninghoursexception()
+<a href="../search/EVChargingOpeningHoursException/EVChargingOpeningHoursException.html">/sdk-for-flutter-explore-search-evchargingopeninghoursexception-evchargingopeninghoursexception</a>()
 </dt>
 <dd>
 </dd>
@@ -72,16 +71,16 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="closed">
-/sdk-for-flutter-explore-search-evchargingopeninghoursexception-closed
+<a href="../search/EVChargingOpeningHoursException/closed.html">/sdk-for-flutter-explore-search-evchargingopeninghoursexception-closed</a>
 ↔ bool
 </dt>
 <dd>
   True if the charging location is closed on particular date, in which case
-/sdk-for-flutter-explore-search-evchargingopeninghoursexception-periods is empty.
+<a href="../search/EVChargingOpeningHoursException/periods.html">/sdk-for-flutter-explore-search-evchargingopeninghoursexception-periods</a> is empty.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="date">
-/sdk-for-flutter-explore-search-evchargingopeninghoursexception-date
+<a href="../search/EVChargingOpeningHoursException/date.html">/sdk-for-flutter-explore-search-evchargingopeninghoursexception-date</a>
 ↔ DateTime
 </dt>
 <dd>
@@ -89,7 +88,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-evchargingopeninghoursexception-hashcode
+<a href="../search/EVChargingOpeningHoursException/hashCode.html">/sdk-for-flutter-explore-search-evchargingopeninghoursexception-hashcode</a>
 → int
 </dt>
 <dd>
@@ -97,18 +96,18 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="periods">
-/sdk-for-flutter-explore-search-evchargingopeninghoursexception-periods
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-timeofdayrange-class&gt;
+<a href="../search/EVChargingOpeningHoursException/periods.html">/sdk-for-flutter-explore-search-evchargingopeninghoursexception-periods</a>
+↔ List&lt;<wbr/><a href="../search/TimeOfDayRange-class.html">/sdk-for-flutter-explore-search-timeofdayrange-class</a>&gt;
 </dt>
 <dd>
   A list of time periods when the charging location is open on the specified date.
 The time periods are in the local time zone of the charging location, and
-are represented as a list of objects with /sdk-for-flutter-explore-search-timeofdayrange-from
-and /sdk-for-flutter-explore-search-timeofdayrange-to properties.
+are represented as a list of objects with <a href="../search/TimeOfDayRange/from.html">/sdk-for-flutter-explore-search-timeofdayrange-from</a>
+and <a href="../search/TimeOfDayRange/to.html">/sdk-for-flutter-explore-search-timeofdayrange-to</a> properties.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-evchargingopeninghoursexception-runtimetype
+<a href="../search/EVChargingOpeningHoursException/runtimeType.html">/sdk-for-flutter-explore-search-evchargingopeninghoursexception-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -121,7 +120,7 @@ and /sdk-for-flutter-explore-search-timeofdayrange-to properties.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-evchargingopeninghoursexception-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/EVChargingOpeningHoursException/noSuchMethod.html">/sdk-for-flutter-explore-search-evchargingopeninghoursexception-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -130,7 +129,7 @@ and /sdk-for-flutter-explore-search-timeofdayrange-to properties.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-evchargingopeninghoursexception-tostring(<wbr/>)
+<a href="../search/EVChargingOpeningHoursException/toString.html">/sdk-for-flutter-explore-search-evchargingopeninghoursexception-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -144,7 +143,7 @@ and /sdk-for-flutter-explore-search-timeofdayrange-to properties.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-evchargingopeninghoursexception-operator-equals(<wbr/>Object other)
+<a href="../search/EVChargingOpeningHoursException/operator_equals.html">/sdk-for-flutter-explore-search-evchargingopeninghoursexception-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -163,8 +162,8 @@ and /sdk-for-flutter-explore-search-timeofdayrange-to properties.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVChargingOpeningHoursException class</li>
 </ol>
 <h5>search library</h5>
@@ -181,5 +180,4 @@ and /sdk-for-flutter-explore-search-timeofdayrange-to properties.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

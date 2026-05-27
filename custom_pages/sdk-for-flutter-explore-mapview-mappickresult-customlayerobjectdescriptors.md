@@ -1,10 +1,9 @@
 ---
-title: "customLayerObjectDescriptors property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mappickresult-customlayerobjectdescriptors"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- customLayerObjectDescriptors.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mappickresult-customlayerobjectdescriptor
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappickresult-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPickResult-class.html">/sdk-for-flutter-explore-mapview-mappickresult-class</a></li>
 <li class="self-crumb">customLayerObjectDescriptors property</li>
 </ol>
 <div class="self-name">customLayerObjectDescriptors</div>
@@ -39,7 +38,7 @@ menu
 <h1>customLayerObjectDescriptors property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapobjectdescriptor-class&gt;?
+List&lt;<wbr/><a href="../../mapview/MapObjectDescriptor-class.html">/sdk-for-flutter-explore-mapview-mapobjectdescriptor-class</a>&gt;?
 customLayerObjectDescriptors
 </section>
 <section class="desc markdown">
@@ -59,9 +58,9 @@ Gets a list of map object descriptors representing picked objects from custom us
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappickresult-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPickResult-class.html">/sdk-for-flutter-explore-mapview-mappickresult-class</a></li>
 <li class="self-crumb">customLayerObjectDescriptors property</li>
 </ol>
 <h5>MapPickResult class</h5>
@@ -78,5 +77,4 @@ Gets a list of map object descriptors representing picked objects from custom us
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

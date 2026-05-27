@@ -1,10 +1,9 @@
 ---
-title: "AvoidanceOptions class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-avoidanceoptions-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- AvoidanceOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -35,8 +34,8 @@ slug: "sdk-for-flutter-explore-routing-avoidanceoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">AvoidanceOptions class</li>
 </ol>
 <div class="self-name">AvoidanceOptions</div>
@@ -66,7 +65,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="AvoidanceOptions">
-/sdk-for-flutter-explore-routing-avoidanceoptions-avoidanceoptions()
+<a href="../routing/AvoidanceOptions/AvoidanceOptions.html">/sdk-for-flutter-explore-routing-avoidanceoptions-avoidanceoptions</a>()
 </dt>
 <dd>
 </dd>
@@ -76,16 +75,16 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="avoidBoundingBoxAreasOptions">
-/sdk-for-flutter-explore-routing-avoidanceoptions-avoidboundingboxareasoptions
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class&gt;
+<a href="../routing/AvoidanceOptions/avoidBoundingBoxAreasOptions.html">/sdk-for-flutter-explore-routing-avoidanceoptions-avoidboundingboxareasoptions</a>
+↔ List&lt;<wbr/><a href="../routing/AvoidBoundingBoxAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class</a>&gt;
 </dt>
 <dd>
   List of rectangular shapes which routes must not cross and additional options for this area.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="avoidCorridorAreasOptions">
-/sdk-for-flutter-explore-routing-avoidanceoptions-avoidcorridorareasoptions
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-avoidcorridorareaoptions-class&gt;
+<a href="../routing/AvoidanceOptions/avoidCorridorAreasOptions.html">/sdk-for-flutter-explore-routing-avoidanceoptions-avoidcorridorareasoptions</a>
+↔ List&lt;<wbr/><a href="../routing/AvoidCorridorAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidcorridorareaoptions-class</a>&gt;
 </dt>
 <dd>
   List of corridor shapes which routes must not cross and additional options for this area.
@@ -93,17 +92,17 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="avoidedTruckRoadTypes">
-/sdk-for-flutter-explore-routing-avoidanceoptions-avoidedtruckroadtypes
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-transport-truckroadtype&gt;
+<a href="../routing/AvoidanceOptions/avoidedTruckRoadTypes.html">/sdk-for-flutter-explore-routing-avoidanceoptions-avoidedtruckroadtypes</a>
+↔ List&lt;<wbr/><a href="../transport/TruckRoadType.html">/sdk-for-flutter-explore-transport-truckroadtype</a>&gt;
 </dt>
 <dd>
   Specifies a list of avoided truck road types for vehicle.
-Refer to /sdk-for-flutter-explore-transport-truckroadtype for the available options.
+Refer to <a href="../transport/TruckRoadType.html">/sdk-for-flutter-explore-transport-truckroadtype</a> for the available options.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="avoidPolygonAreasOptions">
-/sdk-for-flutter-explore-routing-avoidanceoptions-avoidpolygonareasoptions
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-class&gt;
+<a href="../routing/AvoidanceOptions/avoidPolygonAreasOptions.html">/sdk-for-flutter-explore-routing-avoidanceoptions-avoidpolygonareasoptions</a>
+↔ List&lt;<wbr/><a href="../routing/AvoidPolygonAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-class</a>&gt;
 </dt>
 <dd>
   List of polygon shapes which routes must not cross and additional options for this area.
@@ -111,17 +110,17 @@ Refer to /sdk-for-flutter-explore-transport-truckroadtype for the available opti
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="countries">
-/sdk-for-flutter-explore-routing-avoidanceoptions-countries
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-core-countrycode&gt;
+<a href="../routing/AvoidanceOptions/countries.html">/sdk-for-flutter-explore-routing-avoidanceoptions-countries</a>
+↔ List&lt;<wbr/><a href="../core/CountryCode.html">/sdk-for-flutter-explore-core-countrycode</a>&gt;
 </dt>
 <dd>
   Countries that the route must avoid. Strictly enforced.
-Violations are reported as /sdk-for-flutter-explore-routing-sectionnoticecode.
+Violations are reported as <a href="../routing/SectionNoticeCode.html">/sdk-for-flutter-explore-routing-sectionnoticecode</a>.
 <strong>Note:</strong> This avoidance option is not supported in <code>IsolineOptions</code> for isoline calculation.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="exceptZoneIds">
-/sdk-for-flutter-explore-routing-avoidanceoptions-exceptzoneids
+<a href="../routing/AvoidanceOptions/exceptZoneIds.html">/sdk-for-flutter-explore-routing-avoidanceoptions-exceptzoneids</a>
 ↔ List&lt;<wbr/>String&gt;
 </dt>
 <dd>
@@ -132,7 +131,7 @@ For example, more information on zone IDs for Environmental Zones is available u
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-avoidanceoptions-hashcode
+<a href="../routing/AvoidanceOptions/hashCode.html">/sdk-for-flutter-explore-routing-avoidanceoptions-hashcode</a>
 → int
 </dt>
 <dd>
@@ -140,15 +139,15 @@ For example, more information on zone IDs for Environmental Zones is available u
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="roadFeatures">
-/sdk-for-flutter-explore-routing-avoidanceoptions-roadfeatures
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-roadfeatures&gt;
+<a href="../routing/AvoidanceOptions/roadFeatures.html">/sdk-for-flutter-explore-routing-avoidanceoptions-roadfeatures</a>
+↔ List&lt;<wbr/><a href="../routing/RoadFeatures.html">/sdk-for-flutter-explore-routing-roadfeatures</a>&gt;
 </dt>
 <dd>
   Features which routes should avoid. Best effort only (not enforced).
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-avoidanceoptions-runtimetype
+<a href="../routing/AvoidanceOptions/runtimeType.html">/sdk-for-flutter-explore-routing-avoidanceoptions-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -156,25 +155,25 @@ For example, more information on zone IDs for Environmental Zones is available u
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="segments">
-/sdk-for-flutter-explore-routing-avoidanceoptions-segments
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-segmentreference-class&gt;
+<a href="../routing/AvoidanceOptions/segments.html">/sdk-for-flutter-explore-routing-avoidanceoptions-segments</a>
+↔ List&lt;<wbr/><a href="../routing/SegmentReference-class.html">/sdk-for-flutter-explore-routing-segmentreference-class</a>&gt;
 </dt>
 <dd>
   Segments that routes will avoid going through.
-Violations are reported as /sdk-for-flutter-explore-routing-sectionnoticecode.
+Violations are reported as <a href="../routing/SectionNoticeCode.html">/sdk-for-flutter-explore-routing-sectionnoticecode</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="zoneCategories">
-/sdk-for-flutter-explore-routing-avoidanceoptions-zonecategories
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-zonecategory&gt;
+<a href="../routing/AvoidanceOptions/zoneCategories.html">/sdk-for-flutter-explore-routing-avoidanceoptions-zonecategories</a>
+↔ List&lt;<wbr/><a href="../routing/ZoneCategory.html">/sdk-for-flutter-explore-routing-zonecategory</a>&gt;
 </dt>
 <dd>
   Zone categories which routes must not cross. Strictly enforced.
-Violations are reported as /sdk-for-flutter-explore-routing-sectionnoticecode.
+Violations are reported as <a href="../routing/SectionNoticeCode.html">/sdk-for-flutter-explore-routing-sectionnoticecode</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="zoneIds">
-/sdk-for-flutter-explore-routing-avoidanceoptions-zoneids
+<a href="../routing/AvoidanceOptions/zoneIds.html">/sdk-for-flutter-explore-routing-avoidanceoptions-zoneids</a>
 ↔ List&lt;<wbr/>String&gt;
 </dt>
 <dd>
@@ -190,7 +189,7 @@ For example, more information on zone IDs for Environmental Zones is available u
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-avoidanceoptions-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/AvoidanceOptions/noSuchMethod.html">/sdk-for-flutter-explore-routing-avoidanceoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -199,7 +198,7 @@ For example, more information on zone IDs for Environmental Zones is available u
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-avoidanceoptions-tostring(<wbr/>)
+<a href="../routing/AvoidanceOptions/toString.html">/sdk-for-flutter-explore-routing-avoidanceoptions-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -213,7 +212,7 @@ For example, more information on zone IDs for Environmental Zones is available u
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-avoidanceoptions-operator-equals(<wbr/>Object other)
+<a href="../routing/AvoidanceOptions/operator_equals.html">/sdk-for-flutter-explore-routing-avoidanceoptions-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -232,8 +231,8 @@ For example, more information on zone IDs for Environmental Zones is available u
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">AvoidanceOptions class</li>
 </ol>
 <h5>routing library</h5>
@@ -250,5 +249,4 @@ For example, more information on zone IDs for Environmental Zones is available u
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "withOverridingMapStyle abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-withoverridingmapstyle"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withOverridingMapStyle.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-withoverriding
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapSceneLoadOptionsBuilder-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</a></li>
 <li class="self-crumb">withOverridingMapStyle abstract method</li>
 </ol>
 <div class="self-name">withOverridingMapStyle</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>withOverridingMapStyle abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class
-withOverridingMapStyle(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-style-class overridingMapStyle</li>
+<a href="../../mapview/MapSceneLoadOptionsBuilder-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</a>
+withOverridingMapStyle(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/Style-class.html">/sdk-for-flutter-explore-mapview-style-class</a> overridingMapStyle</li>
 </ol>)
 
       
@@ -50,7 +49,7 @@ withOverridingMapStyle(<wbr/><ol class="parameter-list single-line"> <li>/sdk-fo
 <ul>
 <li><code>overridingMapStyle</code> Map style to override the scene configuration.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class. This class instance.</p>
+<p>Returns <a href="../../mapview/MapSceneLoadOptionsBuilder-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</a>. This class instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +63,9 @@ withOverridingMapStyle(<wbr/><ol class="parameter-list single-line"> <li>/sdk-fo
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapSceneLoadOptionsBuilder-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</a></li>
 <li class="self-crumb">withOverridingMapStyle abstract method</li>
 </ol>
 <h5>MapSceneLoadOptionsBuilder class</h5>
@@ -83,5 +82,4 @@ withOverridingMapStyle(<wbr/><ol class="parameter-list single-line"> <li>/sdk-fo
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

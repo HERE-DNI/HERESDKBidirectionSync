@@ -1,10 +1,9 @@
 ---
-title: "pick abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapviewbase-pick"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- pick.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapviewbase-pick"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapviewbase-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a></li>
 <li class="self-crumb">pick abstract method</li>
 </ol>
 <div class="self-name">pick</div>
@@ -39,9 +38,9 @@ menu
 <h1>pick abstract method</h1></div>
 <section class="multi-line-signature">
 void
-pick(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapscenemappickfilter-class? filter, </li>
-<li>/sdk-for-flutter-explore-core-rectangle2d-class viewArea, </li>
-<li>/sdk-for-flutter-explore-mapview-mapviewbasemappickcallback callback</li>
+pick(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapSceneMapPickFilter-class.html">/sdk-for-flutter-explore-mapview-mapscenemappickfilter-class</a>? filter, </li>
+<li><a href="../../core/Rectangle2D-class.html">/sdk-for-flutter-explore-core-rectangle2d-class</a> viewArea, </li>
+<li><a href="../../mapview/MapViewBaseMapPickCallback.html">/sdk-for-flutter-explore-mapview-mapviewbasemappickcallback</a> callback</li>
 </ol>)
 
       
@@ -81,9 +80,9 @@ completes.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapviewbase-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a></li>
 <li class="self-crumb">pick abstract method</li>
 </ol>
 <h5>MapViewBase class</h5>
@@ -100,5 +99,4 @@ completes.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

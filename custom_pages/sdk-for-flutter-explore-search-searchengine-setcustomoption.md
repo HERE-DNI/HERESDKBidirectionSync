@@ -1,10 +1,9 @@
 ---
-title: "setCustomOption abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-searchengine-setcustomoption"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- setCustomOption.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-searchengine-setcustomoption"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-searchengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/SearchEngine-class.html">/sdk-for-flutter-explore-search-searchengine-class</a></li>
 <li class="self-crumb">setCustomOption abstract method</li>
 </ol>
 <div class="self-name">setCustomOption</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>setCustomOption abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-search-searcherror?
+<a href="../../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a>?
 setCustomOption(<wbr/><ol class="parameter-list single-line"> <li>String name, </li>
 <li>String value</li>
 </ol>)
@@ -50,7 +49,7 @@ setCustomOption(<wbr/><ol class="parameter-list single-line"> <li>String name, <
 <p>Sets a custom option for search backend queries.</p>
 <p>This allows more control over the behavior
 of the search algorithm.
-Name has the format &lt;<code>endpoint_name</code>&gt;.&lt;<code>option_name</code>&gt;, for example "discover.show".
+Name has the format &lt;endpoint_name&gt;.&lt;option_name&gt;, for example "discover.show".
 Values can be combined for the same name by using a comma, for example "truck,fuel".
 The custom option is applied only for the endpoint that is specified as prefix in <code>name</code>.
 Some of the supported name/value options are:</p>
@@ -63,13 +62,13 @@ on unnamed streets.</p>
 <p>name = "lookup.show" or "discover.show" or "autosuggest.show" or "browse.show", value = "truck"
 enables retreival of truck amenities.
 <strong>Note:</strong> Only participants of the closed-alpha group can get access from HERE to use this feature,
-otherwise, a /sdk-for-flutter-explore-search-searcherror will be propagated in callbacks.</p>
+otherwise, a <a href="../../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a> will be propagated in callbacks.</p>
 </li>
 <li>
 <p>name = "lookup.show" or "discover.show" or "autosuggest.show" or "browse.show", value = "fuel"
 enables retreival of fuel station details.
 <strong>Note:</strong> Only participants of the closed-alpha group can get access from HERE to use this feature,
-otherwise, a /sdk-for-flutter-explore-search-searcherror will be propagated in callbacks.</p>
+otherwise, a <a href="../../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a> will be propagated in callbacks.</p>
 </li>
 <li>
 <p>name = "lookup.show" or "discover.show" or "browse.show", value = "ev"
@@ -89,29 +88,29 @@ they will be missing rich TripAdvisor content.</p>
 </li>
 <li>
 <p>name = "lookup.datasets" or "discover.datasets" or "browse.datasets" or "autosuggest.datasets",
-value = &lt;<code>your_dataset_hrn</code>&gt; enables ingesting and searching of private POIs.
+value = &lt;your_dataset_hrn&gt; enables ingesting and searching of private POIs.
 <strong>Note:</strong> Only participants of the search customization can get access from HERE to use this feature,
-otherwise, a /sdk-for-flutter-explore-search-searcherror will be propagated in callbacks.</p>
+otherwise, a <a href="../../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a> will be propagated in callbacks.</p>
 </li>
 <li>
 <p>name = "discover.ranking" or "browse.ranking", value = "excursionDistance"
 enables balanced distribution of results for search in <code>GeoCorridor</code>.
 Constraint: using this parameter when searching an area that is not a <code>GeoCorridor</code> generates
-an error /sdk-for-flutter-explore-search-searcherror.
-<strong>Note:</strong> It is recommended to use /sdk-for-flutter-explore-search-searchoptions-distributedresults instead.
+an error <a href="../../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a>.
+<strong>Note:</strong> It is recommended to use <a href="../../search/SearchOptions/distributedResults.html">/sdk-for-flutter-explore-search-searchoptions-distributedresults</a> instead.
 For a complete list of available endpoints, parameter names and their valid values, refer to
 <a href="https://www.here.com/docs/bundle/batch-api-developer-guide/page/topics/constructing-request.html">HERE Geocoding &amp; Search API v7</a>.
 <strong>Note:</strong> It's easy to set a wrong option that makes queries invalid,
 so make sure you read and understand the backend documentation.</p>
 </li>
 <li>
-<p><code>name</code> Option name in the format &lt;<code>endpoint_name</code>&gt;.&lt;<code>option_name</code>&gt;, for example "discover.show".</p>
+<p><code>name</code> Option name in the format &lt;endpoint_name&gt;.&lt;option_name&gt;, for example "discover.show".</p>
 </li>
 <li>
 <p><code>value</code> Option value.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-search-searcherror. Error in case when setting the option fails.</p>
+<p>Returns <a href="../../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a>. Error in case when setting the option fails.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -125,9 +124,9 @@ so make sure you read and understand the backend documentation.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-searchengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/SearchEngine-class.html">/sdk-for-flutter-explore-search-searchengine-class</a></li>
 <li class="self-crumb">setCustomOption abstract method</li>
 </ol>
 <h5>SearchEngine class</h5>
@@ -144,5 +143,4 @@ so make sure you read and understand the backend documentation.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

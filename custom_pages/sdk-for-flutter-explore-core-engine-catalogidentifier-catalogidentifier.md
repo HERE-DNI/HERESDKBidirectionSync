@@ -1,10 +1,9 @@
 ---
-title: "CatalogIdentifier constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-catalogidentifier-catalogidentifier"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- CatalogIdentifier.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-catalogidentifier-catalogidentifier"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-catalogidentifier-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/CatalogIdentifier-class.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-class</a></li>
 <li class="self-crumb">CatalogIdentifier constructor</li>
 </ol>
 <div class="self-name">CatalogIdentifier</div>
@@ -53,9 +52,9 @@ CatalogIdentifier(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-catalogidentifier-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/CatalogIdentifier-class.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-class</a></li>
 <li class="self-crumb">CatalogIdentifier constructor</li>
 </ol>
 <h5>CatalogIdentifier class</h5>
@@ -72,5 +71,4 @@ CatalogIdentifier(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

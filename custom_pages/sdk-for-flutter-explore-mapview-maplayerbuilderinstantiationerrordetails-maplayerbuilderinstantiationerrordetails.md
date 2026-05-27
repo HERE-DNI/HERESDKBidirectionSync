@@ -1,10 +1,9 @@
 ---
-title: "MapLayerBuilderInstantiationErrorDetails constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-maplayerbuilderinstantiationerrordetails-maplayerbuilderinstantiationerrordetails"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapLayerBuilderInstantiationErrorDetails.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-maplayerbuilderinstantiationerrordetails-
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-maplayerbuilderinstantiationerrordetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapLayerBuilderInstantiationErrorDetails-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilderinstantiationerrordetails-class</a></li>
 <li class="self-crumb">MapLayerBuilderInstantiationErrorDetails constructor</li>
 </ol>
 <div class="self-name">MapLayerBuilderInstantiationErrorDetails</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>MapLayerBuilderInstantiationErrorDetails constructor</h1></div>
 <section class="multi-line-signature">
-MapLayerBuilderInstantiationErrorDetails(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-maplayerbuilderinstantiationerrorcode errorCode, </li>
+MapLayerBuilderInstantiationErrorDetails(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapLayerBuilderInstantiationErrorCode.html">/sdk-for-flutter-explore-mapview-maplayerbuilderinstantiationerrorcode</a> errorCode, </li>
 <li>String? errorDescription</li>
 </ol>)
     </section>
@@ -61,9 +60,9 @@ MapLayerBuilderInstantiationErrorDetails(<wbr/><ol class="parameter-list single-
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-maplayerbuilderinstantiationerrordetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapLayerBuilderInstantiationErrorDetails-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilderinstantiationerrordetails-class</a></li>
 <li class="self-crumb">MapLayerBuilderInstantiationErrorDetails constructor</li>
 </ol>
 <h5>MapLayerBuilderInstantiationErrorDetails class</h5>
@@ -80,5 +79,4 @@ MapLayerBuilderInstantiationErrorDetails(<wbr/><ol class="parameter-list single-
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "onPinchRotate abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-gestures-pinchrotatelistener-onpinchrotate"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- onPinchRotate.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-gestures-pinchrotatelistener-onpinchrotate"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-pinchrotatelistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/PinchRotateListener-class.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-class</a></li>
 <li class="self-crumb">onPinchRotate abstract method</li>
 </ol>
 <div class="self-name">onPinchRotate</div>
@@ -39,11 +38,11 @@ menu
 <h1>onPinchRotate abstract method</h1></div>
 <section class="multi-line-signature">
 void
-onPinchRotate(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-gestures-gesturestate state, </li>
-<li>/sdk-for-flutter-explore-core-point2d-class pinchOrigin, </li>
-<li>/sdk-for-flutter-explore-core-point2d-class rotationOrigin, </li>
+onPinchRotate(<wbr/><ol class="parameter-list"> <li><a href="../../gestures/GestureState.html">/sdk-for-flutter-explore-gestures-gesturestate</a> state, </li>
+<li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> pinchOrigin, </li>
+<li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> rotationOrigin, </li>
 <li>double twoFingerDistance, </li>
-<li>/sdk-for-flutter-explore-core-angle-class rotation, </li>
+<li><a href="../../core/Angle-class.html">/sdk-for-flutter-explore-core-angle-class</a> rotation, </li>
 </ol>)
 
       
@@ -83,9 +82,9 @@ counter clockwise finger rotation gives negative deltas.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-pinchrotatelistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/PinchRotateListener-class.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-class</a></li>
 <li class="self-crumb">onPinchRotate abstract method</li>
 </ol>
 <h5>PinchRotateListener class</h5>
@@ -102,5 +101,4 @@ counter clockwise finger rotation gives negative deltas.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

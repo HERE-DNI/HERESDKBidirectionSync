@@ -1,10 +1,9 @@
 ---
-title: "diffBetweenVideoMemoryLimitAndRequirementInKiB property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapcontextmemorymanagementresult-diffbetweenvideomemorylimitandrequirementinkib"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- diffBetweenVideoMemoryLimitAndRequirementInKiB.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcontextmemorymanagementresult-diffbetw
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementresult-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapContextMemoryManagementResult-class.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementresult-class</a></li>
 <li class="self-crumb">diffBetweenVideoMemoryLimitAndRequirementInKiB property</li>
 </ol>
 <div class="self-name">diffBetweenVideoMemoryLimitAndRequirementInKiB</div>
@@ -64,9 +63,9 @@ correct memory limit cannot be calculated, <code>null</code> value is returned.<
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementresult-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapContextMemoryManagementResult-class.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementresult-class</a></li>
 <li class="self-crumb">diffBetweenVideoMemoryLimitAndRequirementInKiB property</li>
 </ol>
 <h5>MapContextMemoryManagementResult class</h5>
@@ -83,5 +82,4 @@ correct memory limit cannot be calculated, <code>null</code> value is returned.<
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

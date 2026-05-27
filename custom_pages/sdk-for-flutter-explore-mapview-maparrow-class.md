@@ -1,10 +1,9 @@
 ---
-title: "MapArrow class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-maparrow-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapArrow-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-mapview-maparrow-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapArrow class</li>
 </ol>
 <div class="self-name">MapArrow</div>
@@ -62,7 +61,7 @@ number of points - and a head at its end.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapArrow">
-/sdk-for-flutter-explore-mapview-maparrow-maparrow(/sdk-for-flutter-explore-core-geopolyline-class geometry, double widthInPixels, Color color)
+<a href="../mapview/MapArrow/MapArrow.html">/sdk-for-flutter-explore-mapview-maparrow-maparrow</a>(<a href="../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a> geometry, double widthInPixels, Color color)
 </dt>
 <dd>
           Creates a new <code>MapArrow</code> instance.
@@ -74,7 +73,7 @@ number of points - and a head at its end.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-maparrow-hashcode
+<a href="../mapview/MapArrow/hashCode.html">/sdk-for-flutter-explore-mapview-maparrow-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -82,17 +81,17 @@ number of points - and a head at its end.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="measureDependentTailWidth">
-/sdk-for-flutter-explore-mapview-maparrow-measuredependenttailwidth
-↔ Map&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmeasure-class, double&gt;
+<a href="../mapview/MapArrow/measureDependentTailWidth.html">/sdk-for-flutter-explore-mapview-maparrow-measuredependenttailwidth</a>
+↔ Map&lt;<wbr/><a href="../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a>, double&gt;
 </dt>
 <dd>
-  The width of the arrow tail in pixels, where the key is a /sdk-for-flutter-explore-mapview-mapmeasure-class and the value is
-a tail width in pixels at this /sdk-for-flutter-explore-mapview-mapmeasure-class.
-Gets the /sdk-for-flutter-explore-mapview-mapmeasure-class dependent arrow tail width in pixels.
+  The width of the arrow tail in pixels, where the key is a <a href="../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> and the value is
+a tail width in pixels at this <a href="../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a>.
+Gets the <a href="../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> dependent arrow tail width in pixels.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-maparrow-runtimetype
+<a href="../mapview/MapArrow/runtimeType.html">/sdk-for-flutter-explore-mapview-maparrow-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -100,8 +99,8 @@ Gets the /sdk-for-flutter-explore-mapview-mapmeasure-class dependent arrow tail 
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="visibilityRanges">
-/sdk-for-flutter-explore-mapview-maparrow-visibilityranges
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmeasurerange-class&gt;
+<a href="../mapview/MapArrow/visibilityRanges.html">/sdk-for-flutter-explore-mapview-maparrow-visibilityranges</a>
+↔ List&lt;<wbr/><a href="../mapview/MapMeasureRange-class.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-class</a>&gt;
 </dt>
 <dd>
   The list of visibility ranges, in which the map arrow is visible.
@@ -115,7 +114,7 @@ is not contained in the range.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-maparrow-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapArrow/noSuchMethod.html">/sdk-for-flutter-explore-mapview-maparrow-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -124,7 +123,7 @@ is not contained in the range.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-maparrow-tostring(<wbr/>)
+<a href="../mapview/MapArrow/toString.html">/sdk-for-flutter-explore-mapview-maparrow-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -138,7 +137,7 @@ is not contained in the range.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-maparrow-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapArrow/operator_equals.html">/sdk-for-flutter-explore-mapview-maparrow-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -156,8 +155,8 @@ is not contained in the range.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapArrow class</li>
 </ol>
 <h5>mapview library</h5>
@@ -174,5 +173,4 @@ is not contained in the range.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "anchor property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-widgetpin-anchor"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- anchor.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-widgetpin-anchor"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-widgetpin-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a></li>
 <li class="self-crumb">anchor property</li>
 </ol>
 <div class="self-name">anchor</div>
@@ -39,7 +38,7 @@ menu
 <h1>anchor property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-anchor2d-class
+<a href="../../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a>
 anchor
 </section>
 <section class="desc markdown">
@@ -53,11 +52,11 @@ anchor
 <section id="setter">
 <section class="multi-line-signature">
 void
-anchor=(<wbr/>/sdk-for-flutter-explore-core-anchor2d-class newAnchor)
+anchor=(<wbr/><a href="../../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a> newAnchor)
 </section>
 <section class="desc markdown">
 <p>Controls pinned <code>Widget</code>'s placement relative to geographical location,
-with (0,0) meaning top left corner of the Widget is placed at /sdk-for-flutter-explore-mapview-widgetpin-coordinates
+with (0,0) meaning top left corner of the Widget is placed at <a href="../../mapview/WidgetPin/coordinates.html">/sdk-for-flutter-explore-mapview-widgetpin-coordinates</a>
 and (1,1) for bottom right corner.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -73,9 +72,9 @@ and (1,1) for bottom right corner.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-widgetpin-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a></li>
 <li class="self-crumb">anchor property</li>
 </ol>
 <h5>WidgetPin class</h5>
@@ -92,5 +91,4 @@ and (1,1) for bottom right corner.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "operator == method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-operator-equals"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- operator_equals.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-operato
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficIncidentVehicleRestriction-class.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-class</a></li>
 <li class="self-crumb">operator == method</li>
 </ol>
 <div class="self-name">operator ==</div>
@@ -77,7 +76,7 @@ either both be true, or both be false.</p>
 so whether two objects are equal should only change
 if at least one of the objects was modified.</p>
 <p>If a subclass overrides the equality operator, it should override
-the /sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-hashcode method as well to maintain consistency.</p>
+the <a href="../../traffic/TrafficIncidentVehicleRestriction/hashCode.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-hashcode</a> method as well to maintain consistency.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -124,9 +123,9 @@ bool operator ==(Object other) {
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficIncidentVehicleRestriction-class.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-class</a></li>
 <li class="self-crumb">operator == method</li>
 </ol>
 <h5>TrafficIncidentVehicleRestriction class</h5>
@@ -143,5 +142,4 @@ bool operator ==(Object other) {
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

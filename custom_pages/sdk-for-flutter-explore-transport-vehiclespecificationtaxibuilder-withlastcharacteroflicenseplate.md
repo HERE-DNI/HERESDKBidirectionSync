@@ -1,10 +1,9 @@
 ---
-title: "withLastCharacterOfLicensePlate abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-withlastcharacteroflicenseplate"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withLastCharacterOfLicensePlate.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-withlas
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</a></li>
 <li class="self-crumb">withLastCharacterOfLicensePlate abstract method</li>
 </ol>
 <div class="self-name">withLastCharacterOfLicensePlate</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>withLastCharacterOfLicensePlate abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class
+<a href="../../transport/VehicleSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</a>
 withLastCharacterOfLicensePlate(<wbr/><ol class="parameter-list single-line"> <li>String lastCharacterOfLicensePlate</li>
 </ol>)
 
@@ -50,7 +49,7 @@ withLastCharacterOfLicensePlate(<wbr/><ol class="parameter-list single-line"> <l
 <ul>
 <li><code>lastCharacterOfLicensePlate</code> The vehicle last character of the license plate.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class. The /sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class object with the last character of the licence plate set to the new value.</p>
+<p>Returns <a href="../../transport/VehicleSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</a>. The <a href="../../transport/VehicleSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</a> object with the last character of the licence plate set to the new value.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +63,9 @@ withLastCharacterOfLicensePlate(<wbr/><ol class="parameter-list single-line"> <l
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</a></li>
 <li class="self-crumb">withLastCharacterOfLicensePlate abstract method</li>
 </ol>
 <h5>VehicleSpecificationTaxiBuilder class</h5>
@@ -83,5 +82,4 @@ withLastCharacterOfLicensePlate(<wbr/><ol class="parameter-list single-line"> <l
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

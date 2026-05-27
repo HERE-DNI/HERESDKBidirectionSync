@@ -1,10 +1,9 @@
 ---
-title: "SegmentReference class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-segmentreference-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- SegmentReference-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -34,8 +33,8 @@ slug: "sdk-for-flutter-explore-routing-segmentreference-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">SegmentReference class</li>
 </ol>
 <div class="self-name">SegmentReference</div>
@@ -67,13 +66,13 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="SegmentReference">
-/sdk-for-flutter-explore-routing-segmentreference-segmentreference([String segmentId = "", /sdk-for-flutter-explore-routing-traveldirection travelDirection = TravelDirection.bidirectional, double offsetStart = 0.0, double offsetEnd = 1.0, int tilePartitionId = 0, int? localId = 0])
+<a href="../routing/SegmentReference/SegmentReference.html">/sdk-for-flutter-explore-routing-segmentreference-segmentreference</a>([String segmentId = "", <a href="../routing/TravelDirection.html">/sdk-for-flutter-explore-routing-traveldirection</a> travelDirection = TravelDirection.bidirectional, double offsetStart = 0.0, double offsetEnd = 1.0, int tilePartitionId = 0, int? localId = 0])
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="SegmentReference.withDefaults">
-/sdk-for-flutter-explore-routing-segmentreference-segmentreference-withdefaults()
+<a href="../routing/SegmentReference/SegmentReference.withDefaults.html">/sdk-for-flutter-explore-routing-segmentreference-segmentreference-withdefaults</a>()
 </dt>
 <dd>
           Creates a new instance.
@@ -84,7 +83,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-segmentreference-hashcode
+<a href="../routing/SegmentReference/hashCode.html">/sdk-for-flutter-explore-routing-segmentreference-hashcode</a>
 → int
 </dt>
 <dd>
@@ -92,7 +91,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="localId">
-/sdk-for-flutter-explore-routing-segmentreference-localid
+<a href="../routing/SegmentReference/localId.html">/sdk-for-flutter-explore-routing-segmentreference-localid</a>
 ↔ int?
 </dt>
 <dd>
@@ -100,7 +99,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="offsetEnd">
-/sdk-for-flutter-explore-routing-segmentreference-offsetend
+<a href="../routing/SegmentReference/offsetEnd.html">/sdk-for-flutter-explore-routing-segmentreference-offsetend</a>
 ↔ double
 </dt>
 <dd>
@@ -108,7 +107,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="offsetStart">
-/sdk-for-flutter-explore-routing-segmentreference-offsetstart
+<a href="../routing/SegmentReference/offsetStart.html">/sdk-for-flutter-explore-routing-segmentreference-offsetstart</a>
 ↔ double
 </dt>
 <dd>
@@ -116,7 +115,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-segmentreference-runtimetype
+<a href="../routing/SegmentReference/runtimeType.html">/sdk-for-flutter-explore-routing-segmentreference-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -124,7 +123,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="segmentId">
-/sdk-for-flutter-explore-routing-segmentreference-segmentid
+<a href="../routing/SegmentReference/segmentId.html">/sdk-for-flutter-explore-routing-segmentreference-segmentid</a>
 ↔ String
 </dt>
 <dd>
@@ -132,7 +131,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="tilePartitionId">
-/sdk-for-flutter-explore-routing-segmentreference-tilepartitionid
+<a href="../routing/SegmentReference/tilePartitionId.html">/sdk-for-flutter-explore-routing-segmentreference-tilepartitionid</a>
 ↔ int
 </dt>
 <dd>
@@ -141,8 +140,8 @@ As in HERE Map Content.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="travelDirection">
-/sdk-for-flutter-explore-routing-segmentreference-traveldirection
-↔ /sdk-for-flutter-explore-routing-traveldirection
+<a href="../routing/SegmentReference/travelDirection.html">/sdk-for-flutter-explore-routing-segmentreference-traveldirection</a>
+↔ <a href="../routing/TravelDirection.html">/sdk-for-flutter-explore-routing-traveldirection</a>
 </dt>
 <dd>
   Travel direction of the segment.
@@ -154,7 +153,7 @@ As in HERE Map Content.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-segmentreference-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/SegmentReference/noSuchMethod.html">/sdk-for-flutter-explore-routing-segmentreference-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -163,7 +162,7 @@ As in HERE Map Content.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-segmentreference-tostring(<wbr/>)
+<a href="../routing/SegmentReference/toString.html">/sdk-for-flutter-explore-routing-segmentreference-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -177,7 +176,7 @@ As in HERE Map Content.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-segmentreference-operator-equals(<wbr/>Object other)
+<a href="../routing/SegmentReference/operator_equals.html">/sdk-for-flutter-explore-routing-segmentreference-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -192,8 +191,8 @@ As in HERE Map Content.
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="fromString">
-/sdk-for-flutter-explore-routing-segmentreference-fromstring(<wbr/>String segmentRef)
-    → /sdk-for-flutter-explore-routing-segmentreference-class?
+<a href="../routing/SegmentReference/fromString.html">/sdk-for-flutter-explore-routing-segmentreference-fromstring</a>(<wbr/>String segmentRef)
+    → <a href="../routing/SegmentReference-class.html">/sdk-for-flutter-explore-routing-segmentreference-class</a>?
 
 </dt>
 <dd>
@@ -211,8 +210,8 @@ As in HERE Map Content.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">SegmentReference class</li>
 </ol>
 <h5>routing library</h5>
@@ -229,5 +228,4 @@ As in HERE Map Content.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

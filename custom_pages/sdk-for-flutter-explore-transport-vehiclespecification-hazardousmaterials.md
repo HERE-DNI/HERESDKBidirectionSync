@@ -1,10 +1,9 @@
 ---
-title: "hazardousMaterials property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-vehiclespecification-hazardousmaterials"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- hazardousMaterials.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecification-hazardousmaterials
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecification-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a></li>
 <li class="self-crumb">hazardousMaterials property</li>
 </ol>
 <div class="self-name">hazardousMaterials</div>
@@ -39,16 +38,16 @@ menu
 <h1>hazardousMaterials property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-transport-hazardousmaterial&gt;
+        List&lt;<wbr/><a href="../../transport/HazardousMaterial.html">/sdk-for-flutter-explore-transport-hazardousmaterial</a>&gt;
 hazardousMaterials
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Specifies a list of hazardous materials shipped in the vehicle.
-Refer to /sdk-for-flutter-explore-transport-hazardousmaterial for the available options.
+Refer to <a href="../../transport/HazardousMaterial.html">/sdk-for-flutter-explore-transport-hazardousmaterial</a> for the available options.
 By default, it is an empty list.</p>
-<p><strong>Note:</strong> Supported in /sdk-for-flutter-explore-transport-transportmode, /sdk-for-flutter-explore-transport-transportmode, /sdk-for-flutter-explore-transport-transportmode,
-/sdk-for-flutter-explore-transport-transportmode (Beta), /sdk-for-flutter-explore-transport-transportmode (Beta) transport modes.</p>
+<p><strong>Note:</strong> Supported in <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>, <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>, <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>,
+<a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> (Beta), <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> (Beta) transport modes.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -62,9 +61,9 @@ By default, it is an empty list.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecification-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a></li>
 <li class="self-crumb">hazardousMaterials property</li>
 </ol>
 <h5>VehicleSpecification class</h5>
@@ -81,5 +80,4 @@ By default, it is an empty list.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

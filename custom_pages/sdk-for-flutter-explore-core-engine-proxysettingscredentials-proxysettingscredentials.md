@@ -1,10 +1,9 @@
 ---
-title: "ProxySettingsCredentials constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-proxysettingscredentials-proxysettingscredentials"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- ProxySettingsCredentials.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-proxysettingscredentials-proxysetting
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-proxysettingscredentials-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/ProxySettingsCredentials-class.html">/sdk-for-flutter-explore-core-engine-proxysettingscredentials-class</a></li>
 <li class="self-crumb">ProxySettingsCredentials constructor</li>
 </ol>
 <div class="self-name">ProxySettingsCredentials</div>
@@ -61,9 +60,9 @@ ProxySettingsCredentials(<wbr/><ol class="parameter-list single-line"> <li>Strin
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-proxysettingscredentials-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/ProxySettingsCredentials-class.html">/sdk-for-flutter-explore-core-engine-proxysettingscredentials-class</a></li>
 <li class="self-crumb">ProxySettingsCredentials constructor</li>
 </ol>
 <h5>ProxySettingsCredentials class</h5>
@@ -80,5 +79,4 @@ ProxySettingsCredentials(<wbr/><ol class="parameter-list single-line"> <li>Strin
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

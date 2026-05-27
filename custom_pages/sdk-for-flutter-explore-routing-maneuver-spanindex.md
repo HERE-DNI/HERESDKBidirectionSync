@@ -1,10 +1,9 @@
 ---
-title: "spanIndex property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-maneuver-spanindex"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- spanIndex.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-maneuver-spanindex"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-maneuver-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Maneuver-class.html">/sdk-for-flutter-explore-routing-maneuver-class</a></li>
 <li class="self-crumb">spanIndex property</li>
 </ol>
 <div class="self-name">spanIndex</div>
@@ -43,11 +42,11 @@ int
 spanIndex
 </section>
 <section class="desc markdown">
-<p>Index over /sdk-for-flutter-explore-routing-section-spans indicating the first span after the maneuver point.
+<p>Index over <a href="../../routing/Section/spans.html">/sdk-for-flutter-explore-routing-section-spans</a> indicating the first span after the maneuver point.
 <strong>Note:</strong> The span index for the last maneuvers (those maneuvers with maneuver action set to
-/sdk-for-flutter-explore-routing-maneuveraction) cannot be used, since these maneuvers are placed after the last span of the route and
+<a href="../../routing/ManeuverAction.html">/sdk-for-flutter-explore-routing-maneuveraction</a>) cannot be used, since these maneuvers are placed after the last span of the route and
 the span index for them would be greater than the span list size.
-Gets the index over /sdk-for-flutter-explore-routing-section-spans indicating the first span after the maneuver point.</p>
+Gets the index over <a href="../../routing/Section/spans.html">/sdk-for-flutter-explore-routing-section-spans</a> indicating the first span after the maneuver point.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -62,9 +61,9 @@ Gets the index over /sdk-for-flutter-explore-routing-section-spans indicating th
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-maneuver-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Maneuver-class.html">/sdk-for-flutter-explore-routing-maneuver-class</a></li>
 <li class="self-crumb">spanIndex property</li>
 </ol>
 <h5>Maneuver class</h5>
@@ -81,5 +80,4 @@ Gets the index over /sdk-for-flutter-explore-routing-section-spans indicating th
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

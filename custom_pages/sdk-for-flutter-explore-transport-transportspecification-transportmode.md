@@ -1,10 +1,9 @@
 ---
-title: "transportMode property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-transportspecification-transportmode"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- transportMode.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-transportspecification-transportmode"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-transportspecification-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a></li>
 <li class="self-crumb">transportMode property</li>
 </ol>
 <div class="self-name">transportMode</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>transportMode property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-transport-transportmode
+<a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>
 transportMode
 <div class="features">getter/setter pair</div>
 </section>
@@ -58,9 +57,9 @@ Defaults to <code>CAR</code>.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-transportspecification-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a></li>
 <li class="self-crumb">transportMode property</li>
 </ol>
 <h5>TransportSpecification class</h5>
@@ -77,5 +76,4 @@ Defaults to <code>CAR</code>.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

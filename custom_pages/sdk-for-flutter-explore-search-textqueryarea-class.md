@@ -1,10 +1,9 @@
 ---
-title: "TextQueryArea class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-textqueryarea-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TextQueryArea-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -34,8 +33,8 @@ slug: "sdk-for-flutter-explore-search-textqueryarea-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">TextQueryArea class</li>
 </ol>
 <div class="self-name">TextQueryArea</div>
@@ -75,35 +74,35 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TextQueryArea.withBox">
-/sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withbox(/sdk-for-flutter-explore-core-geobox-class boxArea)
+<a href="../search/TextQueryArea/TextQueryArea.withBox.html">/sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withbox</a>(<a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> boxArea)
 </dt>
 <dd>
           Constructs a new instance of this class from provided parameters.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="TextQueryArea.withCenter">
-/sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcenter(/sdk-for-flutter-explore-core-geocoordinates-class areaCenter)
+<a href="../search/TextQueryArea/TextQueryArea.withCenter.html">/sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcenter</a>(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> areaCenter)
 </dt>
 <dd>
           Constructs a new instance of this class from provided parameters.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="TextQueryArea.withCircle">
-/sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcircle(/sdk-for-flutter-explore-core-geocircle-class circleArea)
+<a href="../search/TextQueryArea/TextQueryArea.withCircle.html">/sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcircle</a>(<a href="../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a> circleArea)
 </dt>
 <dd>
           Constructs a new instance of this class from provided parameters.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="TextQueryArea.withCorridor">
-/sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcorridor(/sdk-for-flutter-explore-core-geocorridor-class corridorArea, /sdk-for-flutter-explore-core-geocoordinates-class areaCenter)
+<a href="../search/TextQueryArea/TextQueryArea.withCorridor.html">/sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcorridor</a>(<a href="../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a> corridorArea, <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> areaCenter)
 </dt>
 <dd>
           Constructs a new instance of this class from provided parameters.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="TextQueryArea.withCountries">
-/sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcountries(List&lt;<wbr/>/sdk-for-flutter-explore-core-countrycode&gt; countries, /sdk-for-flutter-explore-core-geocoordinates-class areaCenter)
+<a href="../search/TextQueryArea/TextQueryArea.withCountries.html">/sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcountries</a>(List&lt;<wbr/><a href="../core/CountryCode.html">/sdk-for-flutter-explore-core-countrycode</a>&gt; countries, <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> areaCenter)
 </dt>
 <dd>
           Constructs a new instance of this class from provided parameters.
@@ -115,40 +114,40 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="areaCenter">
-/sdk-for-flutter-explore-search-textqueryarea-areacenter
-→ /sdk-for-flutter-explore-core-geocoordinates-class?
+<a href="../search/TextQueryArea/areaCenter.html">/sdk-for-flutter-explore-search-textqueryarea-areacenter</a>
+→ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
 </dt>
 <dd>
   Geographic coordinates of the center around which to provide the most relevant places.
-For Offline Search, one of /sdk-for-flutter-explore-search-textqueryarea-areacenter, /sdk-for-flutter-explore-search-textqueryarea-boxarea and /sdk-for-flutter-explore-search-textqueryarea-circlearea has to be set,
-otherwise it will result in /sdk-for-flutter-explore-search-searcherror.
+For Offline Search, one of <a href="../search/TextQueryArea/areaCenter.html">/sdk-for-flutter-explore-search-textqueryarea-areacenter</a>, <a href="../search/TextQueryArea/boxArea.html">/sdk-for-flutter-explore-search-textqueryarea-boxarea</a> and <a href="../search/TextQueryArea/circleArea.html">/sdk-for-flutter-explore-search-textqueryarea-circlearea</a> has to be set,
+otherwise it will result in <a href="../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a>.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="boxArea">
-/sdk-for-flutter-explore-search-textqueryarea-boxarea
-→ /sdk-for-flutter-explore-core-geobox-class?
+<a href="../search/TextQueryArea/boxArea.html">/sdk-for-flutter-explore-search-textqueryarea-boxarea</a>
+→ <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>?
 </dt>
 <dd>
   Geographic rectangle area in which to provide the most relevant places.
-For Offline Search, one of /sdk-for-flutter-explore-search-textqueryarea-areacenter, /sdk-for-flutter-explore-search-textqueryarea-boxarea and /sdk-for-flutter-explore-search-textqueryarea-circlearea has to be set,
-otherwise it will result in /sdk-for-flutter-explore-search-searcherror.
+For Offline Search, one of <a href="../search/TextQueryArea/areaCenter.html">/sdk-for-flutter-explore-search-textqueryarea-areacenter</a>, <a href="../search/TextQueryArea/boxArea.html">/sdk-for-flutter-explore-search-textqueryarea-boxarea</a> and <a href="../search/TextQueryArea/circleArea.html">/sdk-for-flutter-explore-search-textqueryarea-circlearea</a> has to be set,
+otherwise it will result in <a href="../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a>.
 Also, for Offline Search, search in a given <code>GeoBox</code> restricts the results to only POIs.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="circleArea">
-/sdk-for-flutter-explore-search-textqueryarea-circlearea
-→ /sdk-for-flutter-explore-core-geocircle-class?
+<a href="../search/TextQueryArea/circleArea.html">/sdk-for-flutter-explore-search-textqueryarea-circlearea</a>
+→ <a href="../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a>?
 </dt>
 <dd>
   Geographic circle area in which to provide the most relevant places.
-For Offline Search, one of /sdk-for-flutter-explore-search-textqueryarea-areacenter, /sdk-for-flutter-explore-search-textqueryarea-boxarea and /sdk-for-flutter-explore-search-textqueryarea-circlearea has to be set,
-otherwise it will result in /sdk-for-flutter-explore-search-searcherror.
+For Offline Search, one of <a href="../search/TextQueryArea/areaCenter.html">/sdk-for-flutter-explore-search-textqueryarea-areacenter</a>, <a href="../search/TextQueryArea/boxArea.html">/sdk-for-flutter-explore-search-textqueryarea-boxarea</a> and <a href="../search/TextQueryArea/circleArea.html">/sdk-for-flutter-explore-search-textqueryarea-circlearea</a> has to be set,
+otherwise it will result in <a href="../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a>.
 Also, for Offline Search, search in a given <code>GeoCircle</code> restricts the results to only POIs.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="corridorArea">
-/sdk-for-flutter-explore-search-textqueryarea-corridorarea
-→ /sdk-for-flutter-explore-core-geocorridor-class?
+<a href="../search/TextQueryArea/corridorArea.html">/sdk-for-flutter-explore-search-textqueryarea-corridorarea</a>
+→ <a href="../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a>?
 </dt>
 <dd>
   Geographic corridor area in which to provide the most relevant places.
@@ -156,8 +155,8 @@ The contained polyline and half-width define the area that will be used in a sea
   <div class="features">final</div>
 </dd>
 <dt class="property" id="countries">
-/sdk-for-flutter-explore-search-textqueryarea-countries
-→ List&lt;<wbr/>/sdk-for-flutter-explore-core-countrycode&gt;
+<a href="../search/TextQueryArea/countries.html">/sdk-for-flutter-explore-search-textqueryarea-countries</a>
+→ List&lt;<wbr/><a href="../core/CountryCode.html">/sdk-for-flutter-explore-core-countrycode</a>&gt;
 </dt>
 <dd>
   A list of countries that the query is applied in.
@@ -165,7 +164,7 @@ Not supported in <code>OfflineSearchEngine</code> (which is only available for t
   <div class="features">final</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-textqueryarea-hashcode
+<a href="../search/TextQueryArea/hashCode.html">/sdk-for-flutter-explore-search-textqueryarea-hashcode</a>
 → int
 </dt>
 <dd>
@@ -173,7 +172,7 @@ Not supported in <code>OfflineSearchEngine</code> (which is only available for t
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-textqueryarea-runtimetype
+<a href="../search/TextQueryArea/runtimeType.html">/sdk-for-flutter-explore-search-textqueryarea-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -186,7 +185,7 @@ Not supported in <code>OfflineSearchEngine</code> (which is only available for t
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-textqueryarea-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/TextQueryArea/noSuchMethod.html">/sdk-for-flutter-explore-search-textqueryarea-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -195,7 +194,7 @@ Not supported in <code>OfflineSearchEngine</code> (which is only available for t
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-textqueryarea-tostring(<wbr/>)
+<a href="../search/TextQueryArea/toString.html">/sdk-for-flutter-explore-search-textqueryarea-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -209,7 +208,7 @@ Not supported in <code>OfflineSearchEngine</code> (which is only available for t
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-textqueryarea-operator-equals(<wbr/>Object other)
+<a href="../search/TextQueryArea/operator_equals.html">/sdk-for-flutter-explore-search-textqueryarea-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -228,8 +227,8 @@ Not supported in <code>OfflineSearchEngine</code> (which is only available for t
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">TextQueryArea class</li>
 </ol>
 <h5>search library</h5>
@@ -246,5 +245,4 @@ Not supported in <code>OfflineSearchEngine</code> (which is only available for t
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

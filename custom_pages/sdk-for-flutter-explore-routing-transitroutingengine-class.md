@@ -1,10 +1,9 @@
 ---
-title: "TransitRoutingEngine class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-transitroutingengine-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TransitRoutingEngine-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-routing-transitroutingengine-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">TransitRoutingEngine class</li>
 </ol>
 <div class="self-name">TransitRoutingEngine</div>
@@ -63,14 +62,14 @@ estimated time to traverse along the route and maneuver data.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TransitRoutingEngine">
-/sdk-for-flutter-explore-routing-transitroutingengine-transitroutingengine()
+<a href="../routing/TransitRoutingEngine/TransitRoutingEngine.html">/sdk-for-flutter-explore-routing-transitroutingengine-transitroutingengine</a>()
 </dt>
 <dd>
           Creates a new instance of this class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="TransitRoutingEngine.withSdkEngine">
-/sdk-for-flutter-explore-routing-transitroutingengine-transitroutingengine-withsdkengine(/sdk-for-flutter-explore-core-engine-sdknativeengine-class sdkEngine)
+<a href="../routing/TransitRoutingEngine/TransitRoutingEngine.withSdkEngine.html">/sdk-for-flutter-explore-routing-transitroutingengine-transitroutingengine-withsdkengine</a>(<a href="../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a> sdkEngine)
 </dt>
 <dd>
           Creates a new instance of TransitRoutingEngine.
@@ -82,7 +81,7 @@ estimated time to traverse along the route and maneuver data.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-routing-transitroutingengine-hashcode
+<a href="../routing/TransitRoutingEngine/hashCode.html">/sdk-for-flutter-explore-routing-transitroutingengine-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -90,7 +89,7 @@ estimated time to traverse along the route and maneuver data.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-transitroutingengine-runtimetype
+<a href="../routing/TransitRoutingEngine/runtimeType.html">/sdk-for-flutter-explore-routing-transitroutingengine-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -103,9 +102,8 @@ estimated time to traverse along the route and maneuver data.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="calculateRoute">
-/sdk-for-flutter-explore-routing-transitroutingengine-calculateroute(<wbr/>/sdk-for-flutter-explore-routing-transitwaypoint-class startingPoint, /sdk-for-flutter-explore-routing-transitwaypoint-class destination, /sdk-for-flutter-explore-routing-transitrouteoptions-class routeOptions, /sdk-for-flutter-explore-routing-calculateroutecallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a href="../routing/TransitRoutingEngine/calculateRoute.html">/sdk-for-flutter-explore-routing-transitroutingengine-calculateroute</a>(<wbr/><a href="../routing/TransitWaypoint-class.html">/sdk-for-flutter-explore-routing-transitwaypoint-class</a> startingPoint, <a href="../routing/TransitWaypoint-class.html">/sdk-for-flutter-explore-routing-transitwaypoint-class</a> destination, <a href="../routing/TransitRouteOptions-class.html">/sdk-for-flutter-explore-routing-transitrouteoptions-class</a> routeOptions, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously calculates a public transit route from the origin to the destination.
@@ -113,7 +111,7 @@ estimated time to traverse along the route and maneuver data.</p>
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-transitroutingengine-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/TransitRoutingEngine/noSuchMethod.html">/sdk-for-flutter-explore-routing-transitroutingengine-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -122,7 +120,7 @@ estimated time to traverse along the route and maneuver data.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-transitroutingengine-tostring(<wbr/>)
+<a href="../routing/TransitRoutingEngine/toString.html">/sdk-for-flutter-explore-routing-transitroutingengine-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -136,7 +134,7 @@ estimated time to traverse along the route and maneuver data.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-routing-transitroutingengine-operator-equals(<wbr/>Object other)
+<a href="../routing/TransitRoutingEngine/operator_equals.html">/sdk-for-flutter-explore-routing-transitroutingengine-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -154,8 +152,8 @@ estimated time to traverse along the route and maneuver data.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">TransitRoutingEngine class</li>
 </ol>
 <h5>routing library</h5>
@@ -172,5 +170,4 @@ estimated time to traverse along the route and maneuver data.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

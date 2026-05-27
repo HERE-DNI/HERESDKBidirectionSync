@@ -1,10 +1,9 @@
 ---
-title: "Style class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-style-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Style-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-mapview-style-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">Style class</li>
 </ol>
 <div class="self-name">Style</div>
@@ -52,7 +51,7 @@ menu
 <h1>Style class abstract</h1></div>
 <section class="desc markdown">
 <p>A style that defines the visual appearance of map rendered features.</p>
-<p>A /sdk-for-flutter-explore-mapview-style-class can be created using a /sdk-for-flutter-explore-mapview-jsonstylefactory-class.</p>
+<p>A <a href="../mapview/Style-class.html">/sdk-for-flutter-explore-mapview-style-class</a> can be created using a <a href="../mapview/JsonStyleFactory-class.html">/sdk-for-flutter-explore-mapview-jsonstylefactory-class</a>.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -60,7 +59,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Style">
-/sdk-for-flutter-explore-mapview-style-style()
+<a href="../mapview/Style/Style.html">/sdk-for-flutter-explore-mapview-style-style</a>()
 </dt>
 <dd>
 </dd>
@@ -70,7 +69,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-style-hashcode
+<a href="../mapview/Style/hashCode.html">/sdk-for-flutter-explore-mapview-style-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -78,7 +77,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-style-runtimetype
+<a href="../mapview/Style/runtimeType.html">/sdk-for-flutter-explore-mapview-style-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -91,7 +90,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-style-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/Style/noSuchMethod.html">/sdk-for-flutter-explore-mapview-style-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -100,7 +99,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-style-tostring(<wbr/>)
+<a href="../mapview/Style/toString.html">/sdk-for-flutter-explore-mapview-style-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -109,7 +108,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="update">
-/sdk-for-flutter-explore-mapview-style-update(<wbr/>/sdk-for-flutter-explore-mapview-style-class style)
+<a href="../mapview/Style/update.html">/sdk-for-flutter-explore-mapview-style-update</a>(<wbr/><a href="../mapview/Style-class.html">/sdk-for-flutter-explore-mapview-style-class</a> style)
     → void
 
 </dt>
@@ -124,7 +123,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-style-operator-equals(<wbr/>Object other)
+<a href="../mapview/Style/operator_equals.html">/sdk-for-flutter-explore-mapview-style-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -142,8 +141,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">Style class</li>
 </ol>
 <h5>mapview library</h5>
@@ -160,5 +159,4 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

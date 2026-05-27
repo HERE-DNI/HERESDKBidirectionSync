@@ -1,10 +1,9 @@
 ---
-title: "evses property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evcharginglocation-evses"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- evses.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evcharginglocation-evses"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evcharginglocation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a></li>
 <li class="self-crumb">evses property</li>
 </ol>
 <div class="self-name">evses</div>
@@ -39,7 +38,7 @@ menu
 <h1>evses property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-List&lt;<wbr/>/sdk-for-flutter-explore-search-evseinfo-class&gt;
+List&lt;<wbr/><a href="../../search/EVSEInfo-class.html">/sdk-for-flutter-explore-search-evseinfo-class</a>&gt;
 evses
 </section>
 <section class="desc markdown">
@@ -61,9 +60,9 @@ Gets the list of EVSEs at the charging station.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evcharginglocation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a></li>
 <li class="self-crumb">evses property</li>
 </ol>
 <h5>EVChargingLocation class</h5>
@@ -80,5 +79,4 @@ Gets the list of EVSEs at the charging station.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

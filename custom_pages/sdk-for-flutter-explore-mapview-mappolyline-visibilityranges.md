@@ -1,10 +1,9 @@
 ---
-title: "visibilityRanges property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mappolyline-visibilityranges"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- visibilityRanges.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolyline-visibilityranges"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolyline-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a></li>
 <li class="self-crumb">visibilityRanges property</li>
 </ol>
 <div class="self-name">visibilityRanges</div>
@@ -39,7 +38,7 @@ menu
 <h1>visibilityRanges property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmeasurerange-class&gt;
+List&lt;<wbr/><a href="../../mapview/MapMeasureRange-class.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-class</a>&gt;
 visibilityRanges
 </section>
 <section class="desc markdown">
@@ -55,7 +54,7 @@ ranges. When empty (the default), the map polyline is visible without map measur
 <section id="setter">
 <section class="multi-line-signature">
 void
-visibilityRanges=(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmeasurerange-class&gt; value)
+visibilityRanges=(<wbr/>List&lt;<wbr/><a href="../../mapview/MapMeasureRange-class.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-class</a>&gt; value)
 </section>
 <section class="desc markdown">
 <p>The list of visibility ranges. The map polyline is visible only inside these map measure ranges.
@@ -63,7 +62,7 @@ Sets visibility ranges for this map polyline. A range is half open -
 [minimumZoomLevel, maximumZoomLevel), the given maximum value is not contained in the range.
 The map polyline is visible only inside these map measure ranges.</p>
 <p>When empty (the default), the map polyline is visible without map measure restrictions.
-Only <code>MapMeasureRange</code>(s) of /sdk-for-flutter-explore-mapview-mapmeasurekind type are supported.
+Only <code>MapMeasureRange</code>(s) of <a href="../../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> type are supported.
 <code>MapMeasureRange</code>(s) of other unsupported types will be ignored.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -79,9 +78,9 @@ Only <code>MapMeasureRange</code>(s) of /sdk-for-flutter-explore-mapview-mapmeas
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolyline-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a></li>
 <li class="self-crumb">visibilityRanges property</li>
 </ol>
 <h5>MapPolyline class</h5>
@@ -98,5 +97,4 @@ Only <code>MapMeasureRange</code>(s) of /sdk-for-flutter-explore-mapview-mapmeas
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "routeHandle property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-route-routehandle"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- routeHandle.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-route-routehandle"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-route-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a></li>
 <li class="self-crumb">routeHandle property</li>
 </ol>
 <div class="self-name">routeHandle</div>
@@ -39,14 +38,14 @@ menu
 <h1>routeHandle property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-routing-routehandle-class?
+<a href="../../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a>?
 routeHandle
 </section>
 <section class="desc markdown">
 <p>The route handle of this route. Note that it is provided only if
-/sdk-for-flutter-explore-routing-routeoptions-enableroutehandle is set before route calculation.
+<a href="../../routing/RouteOptions/enableRouteHandle.html">/sdk-for-flutter-explore-routing-routeoptions-enableroutehandle</a> is set before route calculation.
 Gets the route handle of this route. Note that it is provided only if
-/sdk-for-flutter-explore-routing-routeoptions-enableroutehandle is set before route calculation.</p>
+<a href="../../routing/RouteOptions/enableRouteHandle.html">/sdk-for-flutter-explore-routing-routeoptions-enableroutehandle</a> is set before route calculation.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -61,9 +60,9 @@ Gets the route handle of this route. Note that it is provided only if
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-route-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a></li>
 <li class="self-crumb">routeHandle property</li>
 </ol>
 <h5>Route class</h5>
@@ -80,5 +79,4 @@ Gets the route handle of this route. Note that it is provided only if
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

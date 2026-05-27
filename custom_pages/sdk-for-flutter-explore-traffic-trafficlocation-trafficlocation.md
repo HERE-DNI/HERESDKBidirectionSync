@@ -1,10 +1,9 @@
 ---
-title: "TrafficLocation constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-traffic-trafficlocation-trafficlocation"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TrafficLocation.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficlocation-trafficlocation"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficlocation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficLocation-class.html">/sdk-for-flutter-explore-traffic-trafficlocation-class</a></li>
 <li class="self-crumb">TrafficLocation constructor</li>
 </ol>
 <div class="self-name">TrafficLocation</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>TrafficLocation constructor</h1></div>
 <section class="multi-line-signature">
-TrafficLocation(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geopolyline-class polyline, </li>
-<li>List&lt;<wbr/>/sdk-for-flutter-explore-core-geopolyline-class&gt; additionalPolylines, </li>
+TrafficLocation(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a> polyline, </li>
+<li>List&lt;<wbr/><a href="../../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a>&gt; additionalPolylines, </li>
 <li>int lengthInMeters</li>
 </ol>)
     </section>
@@ -68,9 +67,9 @@ The length can be 0 only if the incident supplier has provided incomplete data.<
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficlocation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficLocation-class.html">/sdk-for-flutter-explore-traffic-trafficlocation-class</a></li>
 <li class="self-crumb">TrafficLocation constructor</li>
 </ol>
 <h5>TrafficLocation class</h5>
@@ -87,5 +86,4 @@ The length can be 0 only if the incident supplier has provided incomplete data.<
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

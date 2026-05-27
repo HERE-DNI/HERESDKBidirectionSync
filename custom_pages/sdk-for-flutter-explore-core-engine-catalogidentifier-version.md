@@ -1,10 +1,9 @@
 ---
-title: "version property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-catalogidentifier-version"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- version.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-catalogidentifier-version"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-catalogidentifier-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/CatalogIdentifier-class.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-class</a></li>
 <li class="self-crumb">version property</li>
 </ol>
 <div class="self-name">version</div>
@@ -49,11 +48,11 @@ Set <code>null</code> to automatically get the latest version for a catalog.
 The field defaults to <code>null</code>.
 Since the data inside a catalog can be updated, each published modification needs to correlate
 to a specific version number.
-Note: when <code>CatalogIdentifier</code> created with /sdk-for-flutter-explore-core-engine-desiredcatalog-class then:</p>
+Note: when <code>CatalogIdentifier</code> created with <a href="../../core.engine/DesiredCatalog-class.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-class</a> then:</p>
 <ul>
-<li>numerical <code>-1</code> corresponds to /sdk-for-flutter-explore-core-engine-catalogversionhint-latestwithignoringcacheddata with <code>ignoreCachedData</code> set to <code>true</code>;</li>
-<li><code>null</code> corresponds to /sdk-for-flutter-explore-core-engine-catalogversionhint-latestwithignoringcacheddata with <code>ignoreCachedData</code> set to <code>false</code>;</li>
-<li>other numerical values correspond to <code>version</code> passed to /sdk-for-flutter-explore-core-engine-catalogversionhint-specific.</li>
+<li>numerical <code>-1</code> corresponds to <a href="../../core.engine/CatalogVersionHint/latestWithIgnoringCachedData.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-latestwithignoringcacheddata</a> with <code>ignoreCachedData</code> set to <code>true</code>;</li>
+<li><code>null</code> corresponds to <a href="../../core.engine/CatalogVersionHint/latestWithIgnoringCachedData.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-latestwithignoringcacheddata</a> with <code>ignoreCachedData</code> set to <code>false</code>;</li>
+<li>other numerical values correspond to <code>version</code> passed to <a href="../../core.engine/CatalogVersionHint/specific.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-specific</a>.</li>
 </ul>
 </section>
 <section class="summary source-code" id="source">
@@ -68,9 +67,9 @@ Note: when <code>CatalogIdentifier</code> created with /sdk-for-flutter-explore-
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-catalogidentifier-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/CatalogIdentifier-class.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-class</a></li>
 <li class="self-crumb">version property</li>
 </ol>
 <h5>CatalogIdentifier class</h5>
@@ -87,5 +86,4 @@ Note: when <code>CatalogIdentifier</code> created with /sdk-for-flutter-explore-
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

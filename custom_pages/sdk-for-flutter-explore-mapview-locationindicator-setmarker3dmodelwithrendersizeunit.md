@@ -1,10 +1,9 @@
 ---
-title: "setMarker3dModelWithRenderSizeUnit abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-locationindicator-setmarker3dmodelwithrendersizeunit"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- setMarker3dModelWithRenderSizeUnit.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-locationindicator-setmarker3dmodelwithren
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-locationindicator-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/LocationIndicator-class.html">/sdk-for-flutter-explore-mapview-locationindicator-class</a></li>
 <li class="self-crumb">setMarker3dModelWithRenderSizeUnit abstract method</li>
 </ol>
 <div class="self-name">setMarker3dModelWithRenderSizeUnit</div>
@@ -39,24 +38,24 @@ menu
 <h1>setMarker3dModelWithRenderSizeUnit abstract method</h1></div>
 <section class="multi-line-signature">
 void
-setMarker3dModelWithRenderSizeUnit(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class model, </li>
+setMarker3dModelWithRenderSizeUnit(<wbr/><ol class="parameter-list"> <li><a href="../../mapview/MapMarker3DModel-class.html">/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</a> model, </li>
 <li>double scale, </li>
-<li>/sdk-for-flutter-explore-mapview-locationindicatormarkertype type, </li>
-<li>/sdk-for-flutter-explore-mapview-rendersizeunit renderSizeUnit, </li>
+<li><a href="../../mapview/LocationIndicatorMarkerType.html">/sdk-for-flutter-explore-mapview-locationindicatormarkertype</a> type, </li>
+<li><a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> renderSizeUnit, </li>
 </ol>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Sets the /sdk-for-flutter-explore-mapview-mapmarker3dmodel-class asset to be displayed as location indicator for a specified type.</p>
+<p>Sets the <a href="../../mapview/MapMarker3DModel-class.html">/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</a> asset to be displayed as location indicator for a specified type.</p>
 <p>The 3D model should be oriented with y axis up and thus standing on the x/z plane where the
 z axis is the depth. The direction in which the location indicator is pointing is the
-positive z axis. Please note that only /sdk-for-flutter-explore-mapview-mapmarker3dmodel-class created from <code>obj</code> files are
+positive z axis. Please note that only <a href="../../mapview/MapMarker3DModel-class.html">/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</a> created from <code>obj</code> files are
 supported. Models created from Mesh will be ignored.</p>
 <ul>
 <li>
-<p><code>model</code> The /sdk-for-flutter-explore-mapview-mapmarker3dmodel-class object to be displayed for the specified type. Only models
+<p><code>model</code> The <a href="../../mapview/MapMarker3DModel-class.html">/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</a> object to be displayed for the specified type. Only models
 created from <code>obj</code> files are supported. Those created from mesh will be ignored.</p>
 </li>
 <li>
@@ -66,20 +65,20 @@ created from <code>obj</code> files are supported. Those created from mesh will 
 <p><code>type</code> The type of location marker for which the marker 3d model should be replaced.</p>
 </li>
 <li>
-<p><code>renderSizeUnit</code> The /sdk-for-flutter-explore-mapview-rendersizeunit specifying how the vertex coordinates of the
+<p><code>renderSizeUnit</code> The <a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> specifying how the vertex coordinates of the
 3D model are being interpreted. It specifies whether the 3D model is placed in world or
 screen coordinate space.</p>
 </li>
 </ul>
-<p>/sdk-for-flutter-explore-mapview-rendersizeunit will make the 3D model use world
+<p><a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> will make the 3D model use world
 coordinate space, meaning that it will change size together with the map
 when it is zoomed in and out. A simple 10 by 10 by 10 (in model space) cube
 will have a size of 10 by 10 by 10 meters in world space.</p>
-<p>/sdk-for-flutter-explore-mapview-rendersizeunit makes the 3D model use screen coordinate space,
+<p><a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> makes the 3D model use screen coordinate space,
 meaning that it will have constant size on the screen regardless
 of how the map zoom changes. A simple 10 by 10 (in model space) rectangle
 will have a size of 10 by 10 pixels on the screen.</p>
-<p>/sdk-for-flutter-explore-mapview-rendersizeunit is similar to pixels,
+<p><a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> is similar to pixels,
 but the resulting size will take into account the pixel density of the
 display, meaning that physical size on the screen will be approximately
 the same regardless of the size or resolution of the display.</p>
@@ -96,9 +95,9 @@ the same regardless of the size or resolution of the display.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-locationindicator-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/LocationIndicator-class.html">/sdk-for-flutter-explore-mapview-locationindicator-class</a></li>
 <li class="self-crumb">setMarker3dModelWithRenderSizeUnit abstract method</li>
 </ol>
 <h5>LocationIndicator class</h5>
@@ -115,5 +114,4 @@ the same regardless of the size or resolution of the display.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

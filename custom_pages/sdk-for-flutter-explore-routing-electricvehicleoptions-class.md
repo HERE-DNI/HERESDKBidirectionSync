@@ -1,10 +1,9 @@
 ---
-title: "ElectricVehicleOptions class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-electricvehicleoptions-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- ElectricVehicleOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-routing-electricvehicleoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">ElectricVehicleOptions class</li>
 </ol>
 <div class="self-name">ElectricVehicleOptions</div>
@@ -63,7 +62,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="ElectricVehicleOptions">
-/sdk-for-flutter-explore-routing-electricvehicleoptions-electricvehicleoptions()
+<a href="../routing/ElectricVehicleOptions/ElectricVehicleOptions.html">/sdk-for-flutter-explore-routing-electricvehicleoptions-electricvehicleoptions</a>()
 </dt>
 <dd>
 </dd>
@@ -73,8 +72,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="batterySpecifications">
-/sdk-for-flutter-explore-routing-electricvehicleoptions-batteryspecifications
-↔ /sdk-for-flutter-explore-routing-batteryspecifications-class?
+<a href="../routing/ElectricVehicleOptions/batterySpecifications.html">/sdk-for-flutter-explore-routing-electricvehicleoptions-batteryspecifications</a>
+↔ <a href="../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a>?
 </dt>
 <dd>
   Parameters that describe the electric vehicle's battery.
@@ -82,8 +81,8 @@ By default, it is set to <code>null</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="empiricalConsumptionModel">
-/sdk-for-flutter-explore-routing-electricvehicleoptions-empiricalconsumptionmodel
-↔ /sdk-for-flutter-explore-routing-empiricalconsumptionmodel-class?
+<a href="../routing/ElectricVehicleOptions/empiricalConsumptionModel.html">/sdk-for-flutter-explore-routing-electricvehicleoptions-empiricalconsumptionmodel</a>
+↔ <a href="../routing/EmpiricalConsumptionModel-class.html">/sdk-for-flutter-explore-routing-empiricalconsumptionmodel-class</a>?
 </dt>
 <dd>
   Defines the empirical consumption model.
@@ -93,16 +92,16 @@ Only one consumption model is supported per route.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="ensureReachability">
-/sdk-for-flutter-explore-routing-electricvehicleoptions-ensurereachability
+<a href="../routing/ElectricVehicleOptions/ensureReachability.html">/sdk-for-flutter-explore-routing-electricvehicleoptions-ensurereachability</a>
 ↔ bool
 </dt>
 <dd>
   Ensure that the vehicle does not run out of energy along the way.
 Requires valid <code>battery_specifications</code>.
 It also requires that
-/sdk-for-flutter-explore-routing-routeoptions-optimizationmode = /sdk-for-flutter-explore-routing-optimizationmode,
-/sdk-for-flutter-explore-routing-routeoptions-speedcapinmeterspersecond is not set, and
-/sdk-for-flutter-explore-routing-avoidanceoptions-class is empty. Otherwise, this object is considered invalid.
+<a href="../routing/RouteOptions/optimizationMode.html">/sdk-for-flutter-explore-routing-routeoptions-optimizationmode</a> = <a href="../routing/OptimizationMode.html">/sdk-for-flutter-explore-routing-optimizationmode</a>,
+<a href="../routing/RouteOptions/speedCapInMetersPerSecond.html">/sdk-for-flutter-explore-routing-routeoptions-speedcapinmeterspersecond</a> is not set, and
+<a href="../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a> is empty. Otherwise, this object is considered invalid.
 Setting this flag enables calculation of a route optimized for electric vehicles.
 Charging stations may be added along the route to ensure that the vehicle does
 not run out of energy along the way.
@@ -111,8 +110,8 @@ less common than petrol stations.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="evMobilityServiceProviderPreferences">
-/sdk-for-flutter-explore-routing-electricvehicleoptions-evmobilityserviceproviderpreferences
-↔ /sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-class
+<a href="../routing/ElectricVehicleOptions/evMobilityServiceProviderPreferences.html">/sdk-for-flutter-explore-routing-electricvehicleoptions-evmobilityserviceproviderpreferences</a>
+↔ <a href="../routing/EVMobilityServiceProviderPreferences-class.html">/sdk-for-flutter-explore-routing-evmobilityserviceproviderpreferences-class</a>
 </dt>
 <dd>
   Defines the preferred E-Mobility Service Providers.
@@ -125,7 +124,7 @@ By default, all providers are used.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-electricvehicleoptions-hashcode
+<a href="../routing/ElectricVehicleOptions/hashCode.html">/sdk-for-flutter-explore-routing-electricvehicleoptions-hashcode</a>
 → int
 </dt>
 <dd>
@@ -133,8 +132,8 @@ By default, all providers are used.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="physicalConsumptionModel">
-/sdk-for-flutter-explore-routing-electricvehicleoptions-physicalconsumptionmodel
-↔ /sdk-for-flutter-explore-routing-physicalconsumptionmodel-class?
+<a href="../routing/ElectricVehicleOptions/physicalConsumptionModel.html">/sdk-for-flutter-explore-routing-electricvehicleoptions-physicalconsumptionmodel</a>
+↔ <a href="../routing/PhysicalConsumptionModel-class.html">/sdk-for-flutter-explore-routing-physicalconsumptionmodel-class</a>?
 </dt>
 <dd>
   Defines the physical consumption model.
@@ -144,7 +143,7 @@ Only one consumption model is supported per route.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-electricvehicleoptions-runtimetype
+<a href="../routing/ElectricVehicleOptions/runtimeType.html">/sdk-for-flutter-explore-routing-electricvehicleoptions-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -157,7 +156,7 @@ Only one consumption model is supported per route.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-electricvehicleoptions-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/ElectricVehicleOptions/noSuchMethod.html">/sdk-for-flutter-explore-routing-electricvehicleoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -166,7 +165,7 @@ Only one consumption model is supported per route.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-electricvehicleoptions-tostring(<wbr/>)
+<a href="../routing/ElectricVehicleOptions/toString.html">/sdk-for-flutter-explore-routing-electricvehicleoptions-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -180,7 +179,7 @@ Only one consumption model is supported per route.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-electricvehicleoptions-operator-equals(<wbr/>Object other)
+<a href="../routing/ElectricVehicleOptions/operator_equals.html">/sdk-for-flutter-explore-routing-electricvehicleoptions-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -199,8 +198,8 @@ Only one consumption model is supported per route.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">ElectricVehicleOptions class</li>
 </ol>
 <h5>routing library</h5>
@@ -217,5 +216,4 @@ Only one consumption model is supported per route.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

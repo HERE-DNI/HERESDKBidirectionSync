@@ -1,10 +1,9 @@
 ---
-title: "DesiredCatalog constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-desiredcatalog-desiredcatalog"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- DesiredCatalog.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-desiredcatalog-desiredcatalog"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-desiredcatalog-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/DesiredCatalog-class.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-class</a></li>
 <li class="self-crumb">DesiredCatalog factory constructor</li>
 </ol>
 <div class="self-name">DesiredCatalog</div>
@@ -39,7 +38,7 @@ menu
 <h1>DesiredCatalog constructor</h1></div>
 <section class="multi-line-signature">
 DesiredCatalog(<wbr/><ol class="parameter-list single-line"> <li>String hrn, </li>
-<li>/sdk-for-flutter-explore-core-engine-catalogversionhint-class version</li>
+<li><a href="../../core.engine/CatalogVersionHint-class.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-class</a> version</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -47,12 +46,12 @@ DesiredCatalog(<wbr/><ol class="parameter-list single-line"> <li>String hrn, </l
 <ul>
 <li>
 <p><code>hrn</code> A HERE Resource Name (HRN) for this catalog. This is a unique string returned by the HERE platform when you add a new
-catalog to your project. For more information, see /sdk-for-flutter-explore-core-engine-catalogidentifier-hrn</p>
+catalog to your project. For more information, see <a href="../../core.engine/CatalogIdentifier/hrn.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-hrn</a></p>
 </li>
 <li>
 <p><code>version</code> The version to use for this Catalog's data.
-You should use either /sdk-for-flutter-explore-core-engine-catalogversionhint-specific to specify a specific version of the catalog or
-/sdk-for-flutter-explore-core-engine-catalogversionhint-latestwithignoringcacheddata to access the latest version of the catalog available on the HERE platform.
+You should use either <a href="../../core.engine/CatalogVersionHint/specific.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-specific</a> to specify a specific version of the catalog or
+<a href="../../core.engine/CatalogVersionHint/latestWithIgnoringCachedData.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-latestwithignoringcacheddata</a> to access the latest version of the catalog available on the HERE platform.
 Based on the value in this field, the HERE platform will determine the best version to use for this catalog
 or result in error logs if the desired version is not available.</p>
 </li>
@@ -70,9 +69,9 @@ or result in error logs if the desired version is not available.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-desiredcatalog-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/DesiredCatalog-class.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-class</a></li>
 <li class="self-crumb">DesiredCatalog factory constructor</li>
 </ol>
 <h5>DesiredCatalog class</h5>
@@ -89,5 +88,4 @@ or result in error logs if the desired version is not available.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

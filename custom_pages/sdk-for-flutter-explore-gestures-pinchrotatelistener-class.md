@@ -1,10 +1,9 @@
 ---
-title: "PinchRotateListener class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-gestures-pinchrotatelistener-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PinchRotateListener-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-gestures-pinchrotatelistener-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
 <li class="self-crumb">PinchRotateListener class</li>
 </ol>
 <div class="self-name">PinchRotateListener</div>
@@ -59,7 +58,7 @@ and at least one of them moves.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PinchRotateListener">
-/sdk-for-flutter-explore-gestures-pinchrotatelistener-pinchrotatelistener(void onPinchRotateLambda(/sdk-for-flutter-explore-gestures-gesturestate, /sdk-for-flutter-explore-core-point2d-class, /sdk-for-flutter-explore-core-point2d-class, double, /sdk-for-flutter-explore-core-angle-class))
+<a href="../gestures/PinchRotateListener/PinchRotateListener.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-pinchrotatelistener</a>(void onPinchRotateLambda(<a href="../gestures/GestureState.html">/sdk-for-flutter-explore-gestures-gesturestate</a>, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>, double, <a href="../core/Angle-class.html">/sdk-for-flutter-explore-core-angle-class</a>))
 </dt>
 <dd>
           Abstract class for handling pinch rotate gestures.
@@ -71,7 +70,7 @@ and at least one of them moves.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-gestures-pinchrotatelistener-hashcode
+<a href="../gestures/PinchRotateListener/hashCode.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -79,7 +78,7 @@ and at least one of them moves.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-gestures-pinchrotatelistener-runtimetype
+<a href="../gestures/PinchRotateListener/runtimeType.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -92,7 +91,7 @@ and at least one of them moves.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-gestures-pinchrotatelistener-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../gestures/PinchRotateListener/noSuchMethod.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -101,7 +100,7 @@ and at least one of them moves.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="onPinchRotate">
-/sdk-for-flutter-explore-gestures-pinchrotatelistener-onpinchrotate(<wbr/>/sdk-for-flutter-explore-gestures-gesturestate state, /sdk-for-flutter-explore-core-point2d-class pinchOrigin, /sdk-for-flutter-explore-core-point2d-class rotationOrigin, double twoFingerDistance, /sdk-for-flutter-explore-core-angle-class rotation)
+<a href="../gestures/PinchRotateListener/onPinchRotate.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-onpinchrotate</a>(<wbr/><a href="../gestures/GestureState.html">/sdk-for-flutter-explore-gestures-gesturestate</a> state, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> pinchOrigin, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> rotationOrigin, double twoFingerDistance, <a href="../core/Angle-class.html">/sdk-for-flutter-explore-core-angle-class</a> rotation)
     → void
 
 </dt>
@@ -111,7 +110,7 @@ and at least one of them moves.</p>
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-gestures-pinchrotatelistener-tostring(<wbr/>)
+<a href="../gestures/PinchRotateListener/toString.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -125,7 +124,7 @@ and at least one of them moves.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-gestures-pinchrotatelistener-operator-equals(<wbr/>Object other)
+<a href="../gestures/PinchRotateListener/operator_equals.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -143,8 +142,8 @@ and at least one of them moves.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
 <li class="self-crumb">PinchRotateListener class</li>
 </ol>
 <h5>gestures library</h5>
@@ -161,5 +160,4 @@ and at least one of them moves.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

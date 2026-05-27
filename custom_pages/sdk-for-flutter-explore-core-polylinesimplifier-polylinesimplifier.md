@@ -1,10 +1,9 @@
 ---
-title: "PolylineSimplifier constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-polylinesimplifier-polylinesimplifier"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PolylineSimplifier.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-polylinesimplifier-polylinesimplifier"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-polylinesimplifier-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/PolylineSimplifier-class.html">/sdk-for-flutter-explore-core-polylinesimplifier-class</a></li>
 <li class="self-crumb">PolylineSimplifier factory constructor</li>
 </ol>
 <div class="self-name">PolylineSimplifier</div>
@@ -41,8 +40,8 @@ menu
 PolylineSimplifier(<wbr/>)
     </section>
 <section class="desc markdown">
-<p>Creates a new instance of /sdk-for-flutter-explore-core-polylinesimplifier-class.</p>
-<p>Throws /sdk-for-flutter-explore-core-errors-instantiationexception-class. Indicates what went wrong when the instantiation was attempted.</p>
+<p>Creates a new instance of <a href="../../core/PolylineSimplifier-class.html">/sdk-for-flutter-explore-core-polylinesimplifier-class</a>.</p>
+<p>Throws <a href="../../core.errors/InstantiationException-class.html">/sdk-for-flutter-explore-core-errors-instantiationexception-class</a>. Indicates what went wrong when the instantiation was attempted.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -56,9 +55,9 @@ PolylineSimplifier(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-polylinesimplifier-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/PolylineSimplifier-class.html">/sdk-for-flutter-explore-core-polylinesimplifier-class</a></li>
 <li class="self-crumb">PolylineSimplifier factory constructor</li>
 </ol>
 <h5>PolylineSimplifier class</h5>
@@ -75,5 +74,4 @@ PolylineSimplifier(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

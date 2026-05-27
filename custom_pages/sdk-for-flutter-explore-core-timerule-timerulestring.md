@@ -1,10 +1,9 @@
 ---
-title: "timeRuleString property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-timerule-timerulestring"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- timeRuleString.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-timerule-timerulestring"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-timerule-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/TimeRule-class.html">/sdk-for-flutter-explore-core-timerule-class</a></li>
 <li class="self-crumb">timeRuleString property</li>
 </ol>
 <div class="self-name">timeRuleString</div>
@@ -59,9 +58,9 @@ Gets the value of time rule as a string in ISO 14825 format.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-timerule-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/TimeRule-class.html">/sdk-for-flutter-explore-core-timerule-class</a></li>
 <li class="self-crumb">timeRuleString property</li>
 </ol>
 <h5>TimeRule class</h5>
@@ -78,5 +77,4 @@ Gets the value of time rule as a string in ISO 14825 format.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

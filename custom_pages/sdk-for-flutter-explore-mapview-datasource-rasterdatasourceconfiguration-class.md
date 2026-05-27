@@ -1,10 +1,9 @@
 ---
-title: "RasterDataSourceConfiguration class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- RasterDataSourceConfiguration-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">RasterDataSourceConfiguration class</li>
 </ol>
 <div class="self-name">RasterDataSourceConfiguration</div>
@@ -62,13 +61,13 @@ the configuration.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="RasterDataSourceConfiguration">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-rasterdatasourceconfiguration(String name, /sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-class provider, /sdk-for-flutter-explore-mapview-datasource-rasterdatasourcecacheconfiguration-class cache, bool ignoreExpiredData)
+<a href="../mapview.datasource/RasterDataSourceConfiguration/RasterDataSourceConfiguration.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-rasterdatasourceconfiguration</a>(String name, <a href="../mapview.datasource/RasterDataSourceProviderConfiguration-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-class</a> provider, <a href="../mapview.datasource/RasterDataSourceCacheConfiguration-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourcecacheconfiguration-class</a> cache, bool ignoreExpiredData)
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="RasterDataSourceConfiguration.withDefaults">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-rasterdatasourceconfiguration-withdefaults(String name, /sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-class provider, /sdk-for-flutter-explore-mapview-datasource-rasterdatasourcecacheconfiguration-class cache)
+<a href="../mapview.datasource/RasterDataSourceConfiguration/RasterDataSourceConfiguration.withDefaults.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-rasterdatasourceconfiguration-withdefaults</a>(String name, <a href="../mapview.datasource/RasterDataSourceProviderConfiguration-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-class</a> provider, <a href="../mapview.datasource/RasterDataSourceCacheConfiguration-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourcecacheconfiguration-class</a> cache)
 </dt>
 <dd>
           Creates a new instance.
@@ -79,15 +78,15 @@ the configuration.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="cache">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-cache
-↔ /sdk-for-flutter-explore-mapview-datasource-rasterdatasourcecacheconfiguration-class
+<a href="../mapview.datasource/RasterDataSourceConfiguration/cache.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-cache</a>
+↔ <a href="../mapview.datasource/RasterDataSourceCacheConfiguration-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourcecacheconfiguration-class</a>
 </dt>
 <dd>
   Local cache configuration.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-hashcode
+<a href="../mapview.datasource/RasterDataSourceConfiguration/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -95,7 +94,7 @@ the configuration.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="ignoreExpiredData">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-ignoreexpireddata
+<a href="../mapview.datasource/RasterDataSourceConfiguration/ignoreExpiredData.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-ignoreexpireddata</a>
 ↔ bool
 </dt>
 <dd>
@@ -103,7 +102,7 @@ the configuration.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="name">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-name
+<a href="../mapview.datasource/RasterDataSourceConfiguration/name.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-name</a>
 ↔ String
 </dt>
 <dd>
@@ -111,15 +110,15 @@ the configuration.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="provider">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-provider
-↔ /sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-class
+<a href="../mapview.datasource/RasterDataSourceConfiguration/provider.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-provider</a>
+↔ <a href="../mapview.datasource/RasterDataSourceProviderConfiguration-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceproviderconfiguration-class</a>
 </dt>
 <dd>
   Data provider configuration.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-runtimetype
+<a href="../mapview.datasource/RasterDataSourceConfiguration/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -132,7 +131,7 @@ the configuration.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview.datasource/RasterDataSourceConfiguration/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -141,7 +140,7 @@ the configuration.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-tostring(<wbr/>)
+<a href="../mapview.datasource/RasterDataSourceConfiguration/toString.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -155,7 +154,7 @@ the configuration.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-operator-equals(<wbr/>Object other)
+<a href="../mapview.datasource/RasterDataSourceConfiguration/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -173,8 +172,8 @@ the configuration.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">RasterDataSourceConfiguration class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -191,5 +190,4 @@ the configuration.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

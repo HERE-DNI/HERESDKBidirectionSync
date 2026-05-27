@@ -1,10 +1,9 @@
 ---
-title: "ensureReachability property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-evcaroptions-ensurereachability"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- ensureReachability.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-evcaroptions-ensurereachability"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-evcaroptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/EVCarOptions-class.html">/sdk-for-flutter-explore-routing-evcaroptions-class</a></li>
 <li class="self-crumb">ensureReachability property</li>
 </ol>
 <div class="self-name">ensureReachability</div>
@@ -45,11 +44,11 @@ menu
 </section>
 <section class="desc markdown">
 <p>Ensure that the vehicle does not run out of energy along the way.
-Requires valid /sdk-for-flutter-explore-routing-evcaroptions-batteryspecifications.
+Requires valid <a href="../../routing/EVCarOptions/batterySpecifications.html">/sdk-for-flutter-explore-routing-evcaroptions-batteryspecifications</a>.
 It also requires that
-/sdk-for-flutter-explore-routing-routeoptions-optimizationmode = /sdk-for-flutter-explore-routing-optimizationmode,
-/sdk-for-flutter-explore-routing-routeoptions-speedcapinmeterspersecond is not set, and
-/sdk-for-flutter-explore-routing-avoidanceoptions-class is empty. Otherwise, this object is considered invalid.
+<a href="../../routing/RouteOptions/optimizationMode.html">/sdk-for-flutter-explore-routing-routeoptions-optimizationmode</a> = <a href="../../routing/OptimizationMode.html">/sdk-for-flutter-explore-routing-optimizationmode</a>,
+<a href="../../routing/RouteOptions/speedCapInMetersPerSecond.html">/sdk-for-flutter-explore-routing-routeoptions-speedcapinmeterspersecond</a> is not set, and
+<a href="../../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a> is empty. Otherwise, this object is considered invalid.
 Setting this flag enables calculation of a route optimized for electric vehicles.
 Charging stations may be added along the route to ensure that the vehicle does
 not run out of energy along the way.
@@ -71,9 +70,9 @@ Defaults to <code>false</code>.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-evcaroptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/EVCarOptions-class.html">/sdk-for-flutter-explore-routing-evcaroptions-class</a></li>
 <li class="self-crumb">ensureReachability property</li>
 </ol>
 <h5>EVCarOptions class</h5>
@@ -90,5 +89,4 @@ Defaults to <code>false</code>.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

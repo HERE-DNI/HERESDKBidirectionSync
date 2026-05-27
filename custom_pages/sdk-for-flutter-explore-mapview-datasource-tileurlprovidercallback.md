@@ -1,10 +1,9 @@
 ---
-title: "TileUrlProviderCallback typedef"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TileUrlProviderCallback.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,8 +11,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">TileUrlProviderCallback typedef</li>
 </ol>
 <div class="self-name">TileUrlProviderCallback</div>
@@ -69,8 +68,8 @@ The third parameter indicates the level of the tile.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">TileUrlProviderCallback typedef</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -87,5 +86,4 @@ The third parameter indicates the level of the tile.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

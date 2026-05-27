@@ -1,10 +1,9 @@
 ---
-title: "minChargeAtChargingStationInKilowattHours property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-batteryspecifications-minchargeatchargingstationinkilowatthours"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- minChargeAtChargingStationInKilowattHours.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-batteryspecifications-minchargeatcharging
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-batteryspecifications-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a></li>
 <li class="self-crumb">minChargeAtChargingStationInKilowattHours property</li>
 </ol>
 <div class="self-name">minChargeAtChargingStationInKilowattHours</div>
@@ -46,8 +45,8 @@ menu
 <section class="desc markdown">
 <p>Minimum charge when arriving at a charging station in kWh.
 It must be non-negative and less than the value of
-/sdk-for-flutter-explore-routing-batteryspecifications-targetchargeinkilowatthours,
-otherwise the /sdk-for-flutter-explore-routing-batteryspecifications-class instance is considered invalid.
+<a href="../../routing/BatterySpecifications/targetChargeInKilowattHours.html">/sdk-for-flutter-explore-routing-batteryspecifications-targetchargeinkilowatthours</a>,
+otherwise the <a href="../../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a> instance is considered invalid.
 Defaults to 0.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -62,9 +61,9 @@ Defaults to 0.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-batteryspecifications-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/BatterySpecifications-class.html">/sdk-for-flutter-explore-routing-batteryspecifications-class</a></li>
 <li class="self-crumb">minChargeAtChargingStationInKilowattHours property</li>
 </ol>
 <h5>BatterySpecifications class</h5>
@@ -81,5 +80,4 @@ Defaults to 0.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "minDuration property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-chargingstop-minduration"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- minDuration.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-chargingstop-minduration"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-chargingstop-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/ChargingStop-class.html">/sdk-for-flutter-explore-routing-chargingstop-class</a></li>
 <li class="self-crumb">minDuration property</li>
 </ol>
 <div class="self-name">minDuration</div>
@@ -45,7 +44,7 @@ menu
 </section>
 <section class="desc markdown">
 <p>The minimum duration the user expects to charge at the station,
-including /sdk-for-flutter-explore-routing-batteryspecifications-chargingsetupduration.
+including <a href="../../routing/BatterySpecifications/chargingSetupDuration.html">/sdk-for-flutter-explore-routing-batteryspecifications-chargingsetupduration</a>.
 <strong>Note:</strong>
 At least one of <code>min_duration</code> and <code>max_duration</code> is required for a user-planned charging stop.
 For most use cases, providing at least <code>min_duration</code> is recommended.</p>
@@ -62,9 +61,9 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-chargingstop-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/ChargingStop-class.html">/sdk-for-flutter-explore-routing-chargingstop-class</a></li>
 <li class="self-crumb">minDuration property</li>
 </ol>
 <h5>ChargingStop class</h5>
@@ -81,5 +80,4 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

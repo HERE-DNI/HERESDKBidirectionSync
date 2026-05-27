@@ -1,10 +1,9 @@
 ---
-title: "GeoCoordinates class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-geocoordinates-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- GeoCoordinates-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -33,8 +32,8 @@ slug: "sdk-for-flutter-explore-core-geocoordinates-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">GeoCoordinates class</li>
 </ol>
 <div class="self-name">GeoCoordinates</div>
@@ -74,14 +73,14 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="GeoCoordinates">
-/sdk-for-flutter-explore-core-geocoordinates-geocoordinates(double latitude, double longitude)
+<a href="../core/GeoCoordinates/GeoCoordinates.html">/sdk-for-flutter-explore-core-geocoordinates-geocoordinates</a>(double latitude, double longitude)
 </dt>
 <dd>
           Constructs a GeoCoordinates from the provided latitude and longitude values.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="GeoCoordinates.withAltitude">
-/sdk-for-flutter-explore-core-geocoordinates-geocoordinates-withaltitude(double latitude, double longitude, double altitude)
+<a href="../core/GeoCoordinates/GeoCoordinates.withAltitude.html">/sdk-for-flutter-explore-core-geocoordinates-geocoordinates-withaltitude</a>(double latitude, double longitude, double altitude)
 </dt>
 <dd>
           Constructs a GeoCoordinates from the provided latitude, longitude and altitude values.
@@ -93,7 +92,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="altitude">
-/sdk-for-flutter-explore-core-geocoordinates-altitude
+<a href="../core/GeoCoordinates/altitude.html">/sdk-for-flutter-explore-core-geocoordinates-altitude</a>
 → double?
 </dt>
 <dd>
@@ -105,7 +104,7 @@ reference ellipsoid.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-core-geocoordinates-hashcode
+<a href="../core/GeoCoordinates/hashCode.html">/sdk-for-flutter-explore-core-geocoordinates-hashcode</a>
 → int
 </dt>
 <dd>
@@ -113,7 +112,7 @@ reference ellipsoid.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="latitude">
-/sdk-for-flutter-explore-core-geocoordinates-latitude
+<a href="../core/GeoCoordinates/latitude.html">/sdk-for-flutter-explore-core-geocoordinates-latitude</a>
 → double
 </dt>
 <dd>
@@ -121,7 +120,7 @@ reference ellipsoid.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="longitude">
-/sdk-for-flutter-explore-core-geocoordinates-longitude
+<a href="../core/GeoCoordinates/longitude.html">/sdk-for-flutter-explore-core-geocoordinates-longitude</a>
 → double
 </dt>
 <dd>
@@ -129,7 +128,7 @@ reference ellipsoid.
   <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-geocoordinates-runtimetype
+<a href="../core/GeoCoordinates/runtimeType.html">/sdk-for-flutter-explore-core-geocoordinates-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -142,7 +141,7 @@ reference ellipsoid.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="distanceTo">
-/sdk-for-flutter-explore-core-geocoordinates-distanceto(<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class point)
+<a href="../core/GeoCoordinates/distanceTo.html">/sdk-for-flutter-explore-core-geocoordinates-distanceto</a>(<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> point)
     → double
 
 </dt>
@@ -152,9 +151,8 @@ reference ellipsoid.
 
 </dd>
 <dt class="callable" id="interpolate">
-/sdk-for-flutter-explore-core-geocoordinates-interpolate(<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class towardCoords, double factor)
-    → /sdk-for-flutter-explore-core-geocoordinates-class
-
+<a href="../core/GeoCoordinates/interpolate.html">/sdk-for-flutter-explore-core-geocoordinates-interpolate</a>(<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> towardCoords, double factor)
+    → <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 </dt>
 <dd>
   Computes the coordinates of the interpolated location along the great circle between
@@ -163,7 +161,7 @@ the two coordinates.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-geocoordinates-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/GeoCoordinates/noSuchMethod.html">/sdk-for-flutter-explore-core-geocoordinates-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -172,7 +170,7 @@ the two coordinates.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-geocoordinates-tostring(<wbr/>)
+<a href="../core/GeoCoordinates/toString.html">/sdk-for-flutter-explore-core-geocoordinates-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -186,7 +184,7 @@ the two coordinates.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-core-geocoordinates-operator-equals(<wbr/>Object other)
+<a href="../core/GeoCoordinates/operator_equals.html">/sdk-for-flutter-explore-core-geocoordinates-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -201,8 +199,8 @@ the two coordinates.
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="fromString">
-/sdk-for-flutter-explore-core-geocoordinates-fromstring(<wbr/>String input)
-    → /sdk-for-flutter-explore-core-geocoordinates-class?
+<a href="../core/GeoCoordinates/fromString.html">/sdk-for-flutter-explore-core-geocoordinates-fromstring</a>(<wbr/>String input)
+    → <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
 
 </dt>
 <dd>
@@ -220,8 +218,8 @@ the two coordinates.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">GeoCoordinates class</li>
 </ol>
 <h5>core library</h5>
@@ -238,5 +236,4 @@ the two coordinates.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

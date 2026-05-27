@@ -1,10 +1,9 @@
 ---
-title: "avoidedTruckRoadTypes property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-evtruckoptions-avoidedtruckroadtypes"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- avoidedTruckRoadTypes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-evtruckoptions-avoidedtruckroadtypes"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-evtruckoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/EVTruckOptions-class.html">/sdk-for-flutter-explore-routing-evtruckoptions-class</a></li>
 <li class="self-crumb">avoidedTruckRoadTypes property</li>
 </ol>
 <div class="self-name">avoidedTruckRoadTypes</div>
@@ -39,13 +38,13 @@ menu
 <h1>avoidedTruckRoadTypes property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-transport-truckroadtype&gt;
+        List&lt;<wbr/><a href="../../transport/TruckRoadType.html">/sdk-for-flutter-explore-transport-truckroadtype</a>&gt;
 avoidedTruckRoadTypes
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Specifies a list of avoided truck road types for vehicle.
-Refer to /sdk-for-flutter-explore-transport-truckroadtype for the available options.</p>
+Refer to <a href="../../transport/TruckRoadType.html">/sdk-for-flutter-explore-transport-truckroadtype</a> for the available options.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +58,9 @@ Refer to /sdk-for-flutter-explore-transport-truckroadtype for the available opti
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-evtruckoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/EVTruckOptions-class.html">/sdk-for-flutter-explore-routing-evtruckoptions-class</a></li>
 <li class="self-crumb">avoidedTruckRoadTypes property</li>
 </ol>
 <h5>EVTruckOptions class</h5>
@@ -78,5 +77,4 @@ Refer to /sdk-for-flutter-explore-transport-truckroadtype for the available opti
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

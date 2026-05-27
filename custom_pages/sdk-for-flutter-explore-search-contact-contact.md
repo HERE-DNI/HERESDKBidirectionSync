@@ -1,10 +1,9 @@
 ---
-title: "Contact constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-contact-contact"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Contact.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-contact-contact"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-contact-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/Contact-class.html">/sdk-for-flutter-explore-search-contact-class</a></li>
 <li class="self-crumb">Contact constructor</li>
 </ol>
 <div class="self-name">Contact</div>
@@ -38,10 +37,10 @@ menu
 <div>
 <h1>Contact constructor</h1></div>
 <section class="multi-line-signature">
-Contact(<wbr/><ol class="parameter-list"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-search-landlinephone-class&gt; landlinePhones, </li>
-<li>List&lt;<wbr/>/sdk-for-flutter-explore-search-mobilephone-class&gt; mobilePhones, </li>
-<li>List&lt;<wbr/>/sdk-for-flutter-explore-search-emailaddress-class&gt; emails, </li>
-<li>List&lt;<wbr/>/sdk-for-flutter-explore-search-websiteaddress-class&gt; websites, </li>
+Contact(<wbr/><ol class="parameter-list"> <li>List&lt;<wbr/><a href="../../search/LandlinePhone-class.html">/sdk-for-flutter-explore-search-landlinephone-class</a>&gt; landlinePhones, </li>
+<li>List&lt;<wbr/><a href="../../search/MobilePhone-class.html">/sdk-for-flutter-explore-search-mobilephone-class</a>&gt; mobilePhones, </li>
+<li>List&lt;<wbr/><a href="../../search/EmailAddress-class.html">/sdk-for-flutter-explore-search-emailaddress-class</a>&gt; emails, </li>
+<li>List&lt;<wbr/><a href="../../search/WebsiteAddress-class.html">/sdk-for-flutter-explore-search-websiteaddress-class</a>&gt; websites, </li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -69,9 +68,9 @@ This data is not available in offline search.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-contact-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/Contact-class.html">/sdk-for-flutter-explore-search-contact-class</a></li>
 <li class="self-crumb">Contact constructor</li>
 </ol>
 <h5>Contact class</h5>
@@ -88,5 +87,4 @@ This data is not available in offline search.</li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

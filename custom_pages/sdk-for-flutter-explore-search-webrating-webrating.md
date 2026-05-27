@@ -1,10 +1,9 @@
 ---
-title: "WebRating constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-webrating-webrating"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- WebRating.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-webrating-webrating"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-webrating-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/WebRating-class.html">/sdk-for-flutter-explore-search-webrating-class</a></li>
 <li class="self-crumb">WebRating constructor</li>
 </ol>
 <div class="self-name">WebRating</div>
@@ -40,7 +39,7 @@ menu
 <section class="multi-line-signature">
 WebRating(<wbr/><ol class="parameter-list single-line"> <li>int count, </li>
 <li>double average, </li>
-<li>/sdk-for-flutter-explore-search-websource-class source</li>
+<li><a href="../../search/WebSource-class.html">/sdk-for-flutter-explore-search-websource-class</a> source</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -63,9 +62,9 @@ WebRating(<wbr/><ol class="parameter-list single-line"> <li>int count, </li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-webrating-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/WebRating-class.html">/sdk-for-flutter-explore-search-webrating-class</a></li>
 <li class="self-crumb">WebRating constructor</li>
 </ol>
 <h5>WebRating class</h5>
@@ -82,5 +81,4 @@ WebRating(<wbr/><ol class="parameter-list single-line"> <li>int count, </li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

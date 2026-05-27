@@ -1,10 +1,9 @@
 ---
-title: "EnergyMix class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-energymix-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EnergyMix-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-search-energymix-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EnergyMix class</li>
 </ol>
 <div class="self-name">EnergyMix</div>
@@ -63,7 +62,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EnergyMix">
-/sdk-for-flutter-explore-search-energymix-energymix()
+<a href="../search/EnergyMix/EnergyMix.html">/sdk-for-flutter-explore-search-energymix-energymix</a>()
 </dt>
 <dd>
 </dd>
@@ -73,7 +72,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="energyProduct">
-/sdk-for-flutter-explore-search-energymix-energyproduct
+<a href="../search/EnergyMix/energyProduct.html">/sdk-for-flutter-explore-search-energymix-energyproduct</a>
 ↔ String?
 </dt>
 <dd>
@@ -81,8 +80,8 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="energySources">
-/sdk-for-flutter-explore-search-energymix-energysources
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-energysource-class&gt;
+<a href="../search/EnergyMix/energySources.html">/sdk-for-flutter-explore-search-energymix-energysources</a>
+↔ List&lt;<wbr/><a href="../search/EnergySource-class.html">/sdk-for-flutter-explore-search-energysource-class</a>&gt;
 </dt>
 <dd>
   The list of energy sources.
@@ -90,15 +89,15 @@ The sum of the percentages over the energy sources should be 100%.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="environmentalImpacts">
-/sdk-for-flutter-explore-search-energymix-environmentalimpacts
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-environmentalimpact-class&gt;
+<a href="../search/EnergyMix/environmentalImpacts.html">/sdk-for-flutter-explore-search-energymix-environmentalimpacts</a>
+↔ List&lt;<wbr/><a href="../search/EnvironmentalImpact-class.html">/sdk-for-flutter-explore-search-environmentalimpact-class</a>&gt;
 </dt>
 <dd>
   The list of environmental impacts from this energy mix.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-energymix-hashcode
+<a href="../search/EnergyMix/hashCode.html">/sdk-for-flutter-explore-search-energymix-hashcode</a>
 → int
 </dt>
 <dd>
@@ -106,7 +105,7 @@ The sum of the percentages over the energy sources should be 100%.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="isGreenEnergy">
-/sdk-for-flutter-explore-search-energymix-isgreenenergy
+<a href="../search/EnergyMix/isGreenEnergy.html">/sdk-for-flutter-explore-search-energymix-isgreenenergy</a>
 ↔ bool
 </dt>
 <dd>
@@ -114,7 +113,7 @@ The sum of the percentages over the energy sources should be 100%.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-energymix-runtimetype
+<a href="../search/EnergyMix/runtimeType.html">/sdk-for-flutter-explore-search-energymix-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -122,7 +121,7 @@ The sum of the percentages over the energy sources should be 100%.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="supplier">
-/sdk-for-flutter-explore-search-energymix-supplier
+<a href="../search/EnergyMix/supplier.html">/sdk-for-flutter-explore-search-energymix-supplier</a>
 ↔ String?
 </dt>
 <dd>
@@ -135,7 +134,7 @@ The sum of the percentages over the energy sources should be 100%.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-energymix-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/EnergyMix/noSuchMethod.html">/sdk-for-flutter-explore-search-energymix-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -144,7 +143,7 @@ The sum of the percentages over the energy sources should be 100%.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-energymix-tostring(<wbr/>)
+<a href="../search/EnergyMix/toString.html">/sdk-for-flutter-explore-search-energymix-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -158,7 +157,7 @@ The sum of the percentages over the energy sources should be 100%.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-energymix-operator-equals(<wbr/>Object other)
+<a href="../search/EnergyMix/operator_equals.html">/sdk-for-flutter-explore-search-energymix-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -177,8 +176,8 @@ The sum of the percentages over the energy sources should be 100%.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EnergyMix class</li>
 </ol>
 <h5>search library</h5>
@@ -195,5 +194,4 @@ The sum of the percentages over the energy sources should be 100%.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "setMemoryManagementOptions abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapcontext-setmemorymanagementoptions"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- setMemoryManagementOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcontext-setmemorymanagementoptions"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcontext-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a></li>
 <li class="self-crumb">setMemoryManagementOptions abstract method</li>
 </ol>
 <div class="self-name">setMemoryManagementOptions</div>
@@ -39,8 +38,8 @@ menu
 <h1>setMemoryManagementOptions abstract method</h1></div>
 <section class="multi-line-signature">
 void
-setMemoryManagementOptions(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class memoryManagementOptions, </li>
-<li>/sdk-for-flutter-explore-mapview-mapcontextsetmemorymanagementoptionscallback? callback</li>
+setMemoryManagementOptions(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapContextMemoryManagementOptions-class.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class</a> memoryManagementOptions, </li>
+<li><a href="../../mapview/MapContextSetMemoryManagementOptionsCallback.html">/sdk-for-flutter-explore-mapview-mapcontextsetmemorymanagementoptionscallback</a>? callback</li>
 </ol>)
 
       
@@ -48,7 +47,7 @@ setMemoryManagementOptions(<wbr/><ol class="parameter-list single-line"> <li>/sd
     </section>
 <section class="desc markdown">
 <p>Sets memory management options for controlling tile cache and video memory usage.</p>
-<p>In /sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class optional parameters with <code>null</code>
+<p>In <a href="../../mapview/MapContextMemoryManagementOptions-class.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementoptions-class</a> optional parameters with <code>null</code>
 or non positive values will be ignored, preserving their existing settings.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
@@ -75,9 +74,9 @@ The callback is called from an arbitrary thread.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcontext-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a></li>
 <li class="self-crumb">setMemoryManagementOptions abstract method</li>
 </ol>
 <h5>MapContext class</h5>
@@ -94,5 +93,4 @@ The callback is called from an arbitrary thread.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

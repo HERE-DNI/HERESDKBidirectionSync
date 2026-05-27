@@ -1,10 +1,9 @@
 ---
-title: "PointDataSource class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-datasource-pointdatasource-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PointDataSource-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -31,8 +30,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-pointdatasource-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">PointDataSource class</li>
 </ol>
 <div class="self-name">PointDataSource</div>
@@ -65,7 +64,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PointDataSource">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasource-pointdatasource()
+<a href="../mapview.datasource/PointDataSource/PointDataSource.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-pointdatasource</a>()
 </dt>
 <dd>
 </dd>
@@ -75,7 +74,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasource-hashcode
+<a href="../mapview.datasource/PointDataSource/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -83,7 +82,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasource-runtimetype
+<a href="../mapview.datasource/PointDataSource/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -96,7 +95,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="add">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasource-add(<wbr/>/sdk-for-flutter-explore-mapview-datasource-pointdata-class point)
+<a href="../mapview.datasource/PointDataSource/add.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-add</a>(<wbr/><a href="../mapview.datasource/PointData-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdata-class</a> point)
     → void
 
 </dt>
@@ -106,7 +105,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="addPoints">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasource-addpoints(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-datasource-pointdata-class&gt; points)
+<a href="../mapview.datasource/PointDataSource/addPoints.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-addpoints</a>(<wbr/>List&lt;<wbr/><a href="../mapview.datasource/PointData-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdata-class</a>&gt; points)
     → void
 
 </dt>
@@ -116,7 +115,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="destroy">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasource-destroy(<wbr/>)
+<a href="../mapview.datasource/PointDataSource/destroy.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-destroy</a>(<wbr/>)
     → void
 
 </dt>
@@ -126,7 +125,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="forEach">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasource-foreach(<wbr/>/sdk-for-flutter-explore-mapview-datasource-pointdatasourcepointdataprocessor processor)
+<a href="../mapview.datasource/PointDataSource/forEach.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-foreach</a>(<wbr/><a href="../mapview.datasource/PointDataSourcePointDataProcessor.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcepointdataprocessor</a> processor)
     → void
 
 </dt>
@@ -137,7 +136,7 @@ given processor, one by one.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasource-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview.datasource/PointDataSource/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -146,7 +145,7 @@ given processor, one by one.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="removeAll">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasource-removeall(<wbr/>)
+<a href="../mapview.datasource/PointDataSource/removeAll.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-removeall</a>(<wbr/>)
     → void
 
 </dt>
@@ -156,7 +155,7 @@ given processor, one by one.
 
 </dd>
 <dt class="callable" id="removeIf">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasource-removeif(<wbr/>/sdk-for-flutter-explore-mapview-datasource-pointdatasourcepointdataprocessor processor)
+<a href="../mapview.datasource/PointDataSource/removeIf.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-removeif</a>(<wbr/><a href="../mapview.datasource/PointDataSourcePointDataProcessor.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcepointdataprocessor</a> processor)
     → void
 
 </dt>
@@ -167,7 +166,7 @@ given inspector, one by one.
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasource-tostring(<wbr/>)
+<a href="../mapview.datasource/PointDataSource/toString.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -181,7 +180,7 @@ given inspector, one by one.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-datasource-pointdatasource-operator-equals(<wbr/>Object other)
+<a href="../mapview.datasource/PointDataSource/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -199,8 +198,8 @@ given inspector, one by one.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">PointDataSource class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -217,5 +216,4 @@ given inspector, one by one.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

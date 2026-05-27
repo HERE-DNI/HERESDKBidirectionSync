@@ -1,10 +1,9 @@
 ---
-title: "diffuseFactor property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-materialreflectivity-diffusefactor"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- diffuseFactor.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-materialreflectivity-diffusefactor"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-materialreflectivity-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MaterialReflectivity-class.html">/sdk-for-flutter-explore-mapview-materialreflectivity-class</a></li>
 <li class="self-crumb">diffuseFactor property</li>
 </ol>
 <div class="self-name">diffuseFactor</div>
@@ -59,9 +58,9 @@ the diffuse lighting component when lighting is enabled. Default value is 1.0.</
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-materialreflectivity-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MaterialReflectivity-class.html">/sdk-for-flutter-explore-mapview-materialreflectivity-class</a></li>
 <li class="self-crumb">diffuseFactor property</li>
 </ol>
 <h5>MaterialReflectivity class</h5>
@@ -78,5 +77,4 @@ the diffuse lighting component when lighting is enabled. Default value is 1.0.</
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

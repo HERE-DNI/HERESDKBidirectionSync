@@ -1,10 +1,9 @@
 ---
-title: "RouteRailwayCrossing class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-routerailwaycrossing-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- RouteRailwayCrossing-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-routing-routerailwaycrossing-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">RouteRailwayCrossing class</li>
 </ol>
 <div class="self-name">RouteRailwayCrossing</div>
@@ -59,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="RouteRailwayCrossing">
-/sdk-for-flutter-explore-routing-routerailwaycrossing-routerailwaycrossing(/sdk-for-flutter-explore-routing-routerailwaycrossingtype type, /sdk-for-flutter-explore-core-geocoordinates-class coordinates, /sdk-for-flutter-explore-routing-routeoffset-class routeOffset)
+<a href="../routing/RouteRailwayCrossing/RouteRailwayCrossing.html">/sdk-for-flutter-explore-routing-routerailwaycrossing-routerailwaycrossing</a>(<a href="../routing/RouteRailwayCrossingType.html">/sdk-for-flutter-explore-routing-routerailwaycrossingtype</a> type, <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates, <a href="../routing/RouteOffset-class.html">/sdk-for-flutter-explore-routing-routeoffset-class</a> routeOffset)
 </dt>
 <dd>
           Creates a new instance.
@@ -70,15 +69,15 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="coordinates">
-/sdk-for-flutter-explore-routing-routerailwaycrossing-coordinates
-↔ /sdk-for-flutter-explore-core-geocoordinates-class
+<a href="../routing/RouteRailwayCrossing/coordinates.html">/sdk-for-flutter-explore-routing-routerailwaycrossing-coordinates</a>
+↔ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 </dt>
 <dd>
   Location on the route
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-routing-routerailwaycrossing-hashcode
+<a href="../routing/RouteRailwayCrossing/hashCode.html">/sdk-for-flutter-explore-routing-routerailwaycrossing-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -86,15 +85,15 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="routeOffset">
-/sdk-for-flutter-explore-routing-routerailwaycrossing-routeoffset
-↔ /sdk-for-flutter-explore-routing-routeoffset-class
+<a href="../routing/RouteRailwayCrossing/routeOffset.html">/sdk-for-flutter-explore-routing-routerailwaycrossing-routeoffset</a>
+↔ <a href="../routing/RouteOffset-class.html">/sdk-for-flutter-explore-routing-routeoffset-class</a>
 </dt>
 <dd>
   Route position
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-routerailwaycrossing-runtimetype
+<a href="../routing/RouteRailwayCrossing/runtimeType.html">/sdk-for-flutter-explore-routing-routerailwaycrossing-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -102,8 +101,8 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="type">
-/sdk-for-flutter-explore-routing-routerailwaycrossing-type
-↔ /sdk-for-flutter-explore-routing-routerailwaycrossingtype
+<a href="../routing/RouteRailwayCrossing/type.html">/sdk-for-flutter-explore-routing-routerailwaycrossing-type</a>
+↔ <a href="../routing/RouteRailwayCrossingType.html">/sdk-for-flutter-explore-routing-routerailwaycrossingtype</a>
 </dt>
 <dd>
   The type of the route place.
@@ -115,7 +114,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-routerailwaycrossing-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/RouteRailwayCrossing/noSuchMethod.html">/sdk-for-flutter-explore-routing-routerailwaycrossing-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -124,7 +123,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-routerailwaycrossing-tostring(<wbr/>)
+<a href="../routing/RouteRailwayCrossing/toString.html">/sdk-for-flutter-explore-routing-routerailwaycrossing-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -138,7 +137,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-routing-routerailwaycrossing-operator-equals(<wbr/>Object other)
+<a href="../routing/RouteRailwayCrossing/operator_equals.html">/sdk-for-flutter-explore-routing-routerailwaycrossing-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -156,8 +155,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">RouteRailwayCrossing class</li>
 </ol>
 <h5>routing library</h5>
@@ -174,5 +173,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

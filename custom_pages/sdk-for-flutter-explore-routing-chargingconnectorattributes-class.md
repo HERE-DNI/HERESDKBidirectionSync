@@ -1,10 +1,9 @@
 ---
-title: "ChargingConnectorAttributes class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-chargingconnectorattributes-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- ChargingConnectorAttributes-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-routing-chargingconnectorattributes-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">ChargingConnectorAttributes class</li>
 </ol>
 <div class="self-name">ChargingConnectorAttributes</div>
@@ -56,13 +55,13 @@ menu
 <h1>ChargingConnectorAttributes class</h1></div>
 <section class="desc markdown">
 <p>Details of the connector that is suggested to be used in the section's
-/sdk-for-flutter-explore-routing-postaction-class's for charging.</p>
+<a href="../routing/PostAction-class.html">/sdk-for-flutter-explore-routing-postaction-class</a>'s for charging.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="ChargingConnectorAttributes">
-/sdk-for-flutter-explore-routing-chargingconnectorattributes-chargingconnectorattributes(double powerInKilowatts, double? currentInAmperes, double? voltageInVolts, /sdk-for-flutter-explore-routing-chargingsupplytype? supplyType, /sdk-for-flutter-explore-routing-chargingconnectortype? connectorType)
+<a href="../routing/ChargingConnectorAttributes/ChargingConnectorAttributes.html">/sdk-for-flutter-explore-routing-chargingconnectorattributes-chargingconnectorattributes</a>(double powerInKilowatts, double? currentInAmperes, double? voltageInVolts, <a href="../routing/ChargingSupplyType.html">/sdk-for-flutter-explore-routing-chargingsupplytype</a>? supplyType, <a href="../routing/ChargingConnectorType.html">/sdk-for-flutter-explore-routing-chargingconnectortype</a>? connectorType)
 </dt>
 <dd>
           Creates a new instance.
@@ -73,15 +72,15 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="connectorType">
-/sdk-for-flutter-explore-routing-chargingconnectorattributes-connectortype
-↔ /sdk-for-flutter-explore-routing-chargingconnectortype?
+<a href="../routing/ChargingConnectorAttributes/connectorType.html">/sdk-for-flutter-explore-routing-chargingconnectorattributes-connectortype</a>
+↔ <a href="../routing/ChargingConnectorType.html">/sdk-for-flutter-explore-routing-chargingconnectortype</a>?
 </dt>
 <dd>
   Suggested connector for charging at this station.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="currentInAmperes">
-/sdk-for-flutter-explore-routing-chargingconnectorattributes-currentinamperes
+<a href="../routing/ChargingConnectorAttributes/currentInAmperes.html">/sdk-for-flutter-explore-routing-chargingconnectorattributes-currentinamperes</a>
 ↔ double?
 </dt>
 <dd>
@@ -89,7 +88,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-chargingconnectorattributes-hashcode
+<a href="../routing/ChargingConnectorAttributes/hashCode.html">/sdk-for-flutter-explore-routing-chargingconnectorattributes-hashcode</a>
 → int
 </dt>
 <dd>
@@ -97,7 +96,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="powerInKilowatts">
-/sdk-for-flutter-explore-routing-chargingconnectorattributes-powerinkilowatts
+<a href="../routing/ChargingConnectorAttributes/powerInKilowatts.html">/sdk-for-flutter-explore-routing-chargingconnectorattributes-powerinkilowatts</a>
 ↔ double
 </dt>
 <dd>
@@ -105,7 +104,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-chargingconnectorattributes-runtimetype
+<a href="../routing/ChargingConnectorAttributes/runtimeType.html">/sdk-for-flutter-explore-routing-chargingconnectorattributes-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -113,15 +112,15 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="supplyType">
-/sdk-for-flutter-explore-routing-chargingconnectorattributes-supplytype
-↔ /sdk-for-flutter-explore-routing-chargingsupplytype?
+<a href="../routing/ChargingConnectorAttributes/supplyType.html">/sdk-for-flutter-explore-routing-chargingconnectorattributes-supplytype</a>
+↔ <a href="../routing/ChargingSupplyType.html">/sdk-for-flutter-explore-routing-chargingsupplytype</a>?
 </dt>
 <dd>
   Supply type of the suggested connector.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="voltageInVolts">
-/sdk-for-flutter-explore-routing-chargingconnectorattributes-voltageinvolts
+<a href="../routing/ChargingConnectorAttributes/voltageInVolts.html">/sdk-for-flutter-explore-routing-chargingconnectorattributes-voltageinvolts</a>
 ↔ double?
 </dt>
 <dd>
@@ -134,7 +133,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-chargingconnectorattributes-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/ChargingConnectorAttributes/noSuchMethod.html">/sdk-for-flutter-explore-routing-chargingconnectorattributes-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -143,7 +142,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-chargingconnectorattributes-tostring(<wbr/>)
+<a href="../routing/ChargingConnectorAttributes/toString.html">/sdk-for-flutter-explore-routing-chargingconnectorattributes-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -157,7 +156,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-chargingconnectorattributes-operator-equals(<wbr/>Object other)
+<a href="../routing/ChargingConnectorAttributes/operator_equals.html">/sdk-for-flutter-explore-routing-chargingconnectorattributes-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -176,8 +175,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">ChargingConnectorAttributes class</li>
 </ol>
 <h5>routing library</h5>
@@ -194,5 +193,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

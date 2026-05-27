@@ -1,10 +1,9 @@
 ---
-title: "GeoCoordinatesUpdate constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-geocoordinatesupdate-geocoordinatesupdate"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- GeoCoordinatesUpdate.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-geocoordinatesupdate-geocoordinatesupdate"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geocoordinatesupdate-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoCoordinatesUpdate-class.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-class</a></li>
 <li class="self-crumb">GeoCoordinatesUpdate factory constructor</li>
 </ol>
 <div class="self-name">GeoCoordinatesUpdate</div>
@@ -72,9 +71,9 @@ NaN value is converted to <code>null</code>.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geocoordinatesupdate-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoCoordinatesUpdate-class.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-class</a></li>
 <li class="self-crumb">GeoCoordinatesUpdate factory constructor</li>
 </ol>
 <h5>GeoCoordinatesUpdate class</h5>
@@ -91,5 +90,4 @@ NaN value is converted to <code>null</code>.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

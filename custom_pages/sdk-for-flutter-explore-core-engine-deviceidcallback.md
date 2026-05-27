@@ -1,10 +1,9 @@
 ---
-title: "DeviceIdCallback typedef"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-deviceidcallback"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- DeviceIdCallback.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,8 +11,8 @@ slug: "sdk-for-flutter-explore-core-engine-deviceidcallback"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
 <li class="self-crumb">DeviceIdCallback typedef</li>
 </ol>
 <div class="self-name">DeviceIdCallback</div>
@@ -41,7 +40,7 @@ DeviceIdCallback =
      void Function(String deviceId)
 </section>
 <section class="desc markdown">
-<p>This method will be called on the main thread when /sdk-for-flutter-explore-core-engine-sdknativeengine-getdeviceid has been completed.</p>
+<p>This method will be called on the main thread when <a href="../core.engine/SDKNativeEngine/getDeviceId.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-getdeviceid</a> has been completed.</p>
 <ul>
 <li><code>deviceId</code> Represents a deviceId, a unique identifier assigned to the device for this application.</li>
 </ul>
@@ -58,8 +57,8 @@ DeviceIdCallback =
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
 <li class="self-crumb">DeviceIdCallback typedef</li>
 </ol>
 <h5>core.engine library</h5>
@@ -76,5 +75,4 @@ DeviceIdCallback =
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

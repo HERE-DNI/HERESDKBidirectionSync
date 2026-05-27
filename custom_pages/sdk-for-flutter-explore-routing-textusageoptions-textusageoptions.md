@@ -1,10 +1,9 @@
 ---
-title: "TextUsageOptions constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-textusageoptions-textusageoptions"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TextUsageOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-textusageoptions-textusageoptions"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-textusageoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TextUsageOptions-class.html">/sdk-for-flutter-explore-routing-textusageoptions-class</a></li>
 <li class="self-crumb">TextUsageOptions constructor</li>
 </ol>
 <div class="self-name">TextUsageOptions</div>
@@ -53,9 +52,9 @@ TextUsageOptions(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-textusageoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TextUsageOptions-class.html">/sdk-for-flutter-explore-routing-textusageoptions-class</a></li>
 <li class="self-crumb">TextUsageOptions constructor</li>
 </ol>
 <h5>TextUsageOptions class</h5>
@@ -72,5 +71,4 @@ TextUsageOptions(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "ExternalID class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-externalid-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- ExternalID-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-core-externalid-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">ExternalID class</li>
 </ol>
 <div class="self-name">ExternalID</div>
@@ -58,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="ExternalID">
-/sdk-for-flutter-explore-core-externalid-externalid()
+<a href="../core/ExternalID/ExternalID.html">/sdk-for-flutter-explore-core-externalid-externalid</a>()
 </dt>
 <dd>
           Creates a new instance with default values.
@@ -69,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-core-externalid-hashcode
+<a href="../core/ExternalID/hashCode.html">/sdk-for-flutter-explore-core-externalid-hashcode</a>
 → int
 </dt>
 <dd>
@@ -77,7 +76,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="id">
-/sdk-for-flutter-explore-core-externalid-id
+<a href="../core/ExternalID/id.html">/sdk-for-flutter-explore-core-externalid-id</a>
 ↔ String
 </dt>
 <dd>
@@ -85,7 +84,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-externalid-runtimetype
+<a href="../core/ExternalID/runtimeType.html">/sdk-for-flutter-explore-core-externalid-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -93,7 +92,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="source">
-/sdk-for-flutter-explore-core-externalid-source
+<a href="../core/ExternalID/source.html">/sdk-for-flutter-explore-core-externalid-source</a>
 ↔ String
 </dt>
 <dd>
@@ -106,7 +105,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-externalid-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/ExternalID/noSuchMethod.html">/sdk-for-flutter-explore-core-externalid-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -115,7 +114,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-externalid-tostring(<wbr/>)
+<a href="../core/ExternalID/toString.html">/sdk-for-flutter-explore-core-externalid-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -129,7 +128,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-core-externalid-operator-equals(<wbr/>Object other)
+<a href="../core/ExternalID/operator_equals.html">/sdk-for-flutter-explore-core-externalid-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -148,8 +147,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">ExternalID class</li>
 </ol>
 <h5>core library</h5>
@@ -166,5 +165,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

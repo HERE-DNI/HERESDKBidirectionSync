@@ -1,10 +1,9 @@
 ---
-title: "GeoPolygon.withGeoCircle constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-geopolygon-geopolygon-withgeocircle"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- GeoPolygon.withGeoCircle.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-geopolygon-geopolygon-withgeocircle"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geopolygon-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a></li>
 <li class="self-crumb">GeoPolygon.withGeoCircle factory constructor</li>
 </ol>
 <div class="self-name">GeoPolygon.withGeoCircle</div>
@@ -38,13 +37,13 @@ menu
 <div>
 <h1>GeoPolygon.withGeoCircle constructor</h1></div>
 <section class="multi-line-signature">
-GeoPolygon.withGeoCircle(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geocircle-class geoCircle</li>
+GeoPolygon.withGeoCircle(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a> geoCircle</li>
 </ol>)
     </section>
 <section class="desc markdown">
-<p>Constructs an instance of this class from /sdk-for-flutter-explore-core-geocircle-class.</p>
+<p>Constructs an instance of this class from <a href="../../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a>.</p>
 <ul>
-<li><code>geoCircle</code> A /sdk-for-flutter-explore-core-geocircle-class to be converted into /sdk-for-flutter-explore-core-geopolygon-class.</li>
+<li><code>geoCircle</code> A <a href="../../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a> to be converted into <a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a>.</li>
 </ul>
 </section>
 <section class="summary source-code" id="source">
@@ -59,9 +58,9 @@ GeoPolygon.withGeoCircle(<wbr/><ol class="parameter-list single-line"> <li>/sdk-
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geopolygon-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a></li>
 <li class="self-crumb">GeoPolygon.withGeoCircle factory constructor</li>
 </ol>
 <h5>GeoPolygon class</h5>
@@ -78,5 +77,4 @@ GeoPolygon.withGeoCircle(<wbr/><ol class="parameter-list single-line"> <li>/sdk-
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

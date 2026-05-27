@@ -1,10 +1,9 @@
 ---
-title: "TrafficFlowQueryOptions class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-traffic-trafficflowqueryoptions-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TrafficFlowQueryOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-traffic-trafficflowqueryoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
 <li class="self-crumb">TrafficFlowQueryOptions class</li>
 </ol>
 <div class="self-name">TrafficFlowQueryOptions</div>
@@ -58,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TrafficFlowQueryOptions">
-/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-trafficflowqueryoptions()
+<a href="../traffic/TrafficFlowQueryOptions/TrafficFlowQueryOptions.html">/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-trafficflowqueryoptions</a>()
 </dt>
 <dd>
           Creates a new instance.
@@ -69,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-hashcode
+<a href="../traffic/TrafficFlowQueryOptions/hashCode.html">/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-hashcode</a>
 → int
 </dt>
 <dd>
@@ -77,29 +76,29 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="maxJamFactor">
-/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-maxjamfactor
+<a href="../traffic/TrafficFlowQueryOptions/maxJamFactor.html">/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-maxjamfactor</a>
 ↔ double?
 </dt>
 <dd>
   Max jam factor value.
 The jam factor is a value for the amount of traffic on the roadway. The value is between 0.0 and 10.0 (inclusive).
-This will be used with /sdk-for-flutter-explore-traffic-trafficflowqueryoptions-minjamfactor to filter queried flow.
+This will be used with <a href="../traffic/TrafficFlowQueryOptions/minJamFactor.html">/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-minjamfactor</a> to filter queried flow.
 If the value is null filtering by the max jam factor is not applied.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="minJamFactor">
-/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-minjamfactor
+<a href="../traffic/TrafficFlowQueryOptions/minJamFactor.html">/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-minjamfactor</a>
 ↔ double?
 </dt>
 <dd>
   Min jam factor value.
 The jam factor is a value for the amount of traffic on the roadway. The value is between 0.0 and 10.0 (inclusive).
-This will be used with /sdk-for-flutter-explore-traffic-trafficflowqueryoptions-maxjamfactor to filter queried flow.
+This will be used with <a href="../traffic/TrafficFlowQueryOptions/maxJamFactor.html">/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-maxjamfactor</a> to filter queried flow.
 If the value is <code>null</code>, then filtering by the min jam factor is not applied.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-runtimetype
+<a href="../traffic/TrafficFlowQueryOptions/runtimeType.html">/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -112,7 +111,7 @@ If the value is <code>null</code>, then filtering by the min jam factor is not a
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../traffic/TrafficFlowQueryOptions/noSuchMethod.html">/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -121,7 +120,7 @@ If the value is <code>null</code>, then filtering by the min jam factor is not a
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-tostring(<wbr/>)
+<a href="../traffic/TrafficFlowQueryOptions/toString.html">/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -135,7 +134,7 @@ If the value is <code>null</code>, then filtering by the min jam factor is not a
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-operator-equals(<wbr/>Object other)
+<a href="../traffic/TrafficFlowQueryOptions/operator_equals.html">/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -154,8 +153,8 @@ If the value is <code>null</code>, then filtering by the min jam factor is not a
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
 <li class="self-crumb">TrafficFlowQueryOptions class</li>
 </ol>
 <h5>traffic library</h5>
@@ -172,5 +171,4 @@ If the value is <code>null</code>, then filtering by the min jam factor is not a
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "ParameterConfiguration class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-parameterconfiguration-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- ParameterConfiguration-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-core-parameterconfiguration-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">ParameterConfiguration class</li>
 </ol>
 <div class="self-name">ParameterConfiguration</div>
@@ -58,10 +57,10 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="ParameterConfiguration">
-/sdk-for-flutter-explore-core-parameterconfiguration-parameterconfiguration()
+<a href="../core/ParameterConfiguration/ParameterConfiguration.html">/sdk-for-flutter-explore-core-parameterconfiguration-parameterconfiguration</a>()
 </dt>
 <dd>
-          Creates a new instance of /sdk-for-flutter-explore-core-parameterconfiguration-class with the default values set.
+          Creates a new instance of <a href="../core/ParameterConfiguration-class.html">/sdk-for-flutter-explore-core-parameterconfiguration-class</a> with the default values set.
             <div class="constructor-modifier features">factory</div>
 </dd>
 </dl>
@@ -70,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-core-parameterconfiguration-hashcode
+<a href="../core/ParameterConfiguration/hashCode.html">/sdk-for-flutter-explore-core-parameterconfiguration-hashcode</a>
 → int
 </dt>
 <dd>
@@ -78,7 +77,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-parameterconfiguration-runtimetype
+<a href="../core/ParameterConfiguration/runtimeType.html">/sdk-for-flutter-explore-core-parameterconfiguration-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -86,8 +85,8 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="transportSpecification">
-/sdk-for-flutter-explore-core-parameterconfiguration-transportspecification
-↔ /sdk-for-flutter-explore-transport-transportspecification-class
+<a href="../core/ParameterConfiguration/transportSpecification.html">/sdk-for-flutter-explore-core-parameterconfiguration-transportspecification</a>
+↔ <a href="../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a>
 </dt>
 <dd>
   Stores default values related to pedestrian, vehicle, scooter and taxi specifications.
@@ -99,7 +98,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-parameterconfiguration-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/ParameterConfiguration/noSuchMethod.html">/sdk-for-flutter-explore-core-parameterconfiguration-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -108,7 +107,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-parameterconfiguration-tostring(<wbr/>)
+<a href="../core/ParameterConfiguration/toString.html">/sdk-for-flutter-explore-core-parameterconfiguration-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -122,7 +121,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-core-parameterconfiguration-operator-equals(<wbr/>Object other)
+<a href="../core/ParameterConfiguration/operator_equals.html">/sdk-for-flutter-explore-core-parameterconfiguration-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -141,8 +140,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">ParameterConfiguration class</li>
 </ol>
 <h5>core library</h5>
@@ -159,5 +158,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

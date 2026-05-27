@@ -1,10 +1,9 @@
 ---
-title: "WebEditorial.withDefaults constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-webeditorial-webeditorial-withdefaults"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- WebEditorial.withDefaults.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-webeditorial-webeditorial-withdefaults"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-webeditorial-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/WebEditorial-class.html">/sdk-for-flutter-explore-search-webeditorial-class</a></li>
 <li class="self-crumb">WebEditorial.withDefaults constructor</li>
 </ol>
 <div class="self-name">WebEditorial.withDefaults</div>
@@ -56,9 +55,9 @@ WebEditorial.withDefaults(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-webeditorial-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/WebEditorial-class.html">/sdk-for-flutter-explore-search-webeditorial-class</a></li>
 <li class="self-crumb">WebEditorial.withDefaults constructor</li>
 </ol>
 <h5>WebEditorial class</h5>
@@ -75,5 +74,4 @@ WebEditorial.withDefaults(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

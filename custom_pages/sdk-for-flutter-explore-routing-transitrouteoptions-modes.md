@@ -1,10 +1,9 @@
 ---
-title: "modes property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-transitrouteoptions-modes"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- modes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-transitrouteoptions-modes"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-transitrouteoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TransitRouteOptions-class.html">/sdk-for-flutter-explore-routing-transitrouteoptions-class</a></li>
 <li class="self-crumb">modes property</li>
 </ol>
 <div class="self-name">modes</div>
@@ -39,13 +38,13 @@ menu
 <h1>modes property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-routing-transitmode&gt;
+        List&lt;<wbr/><a href="../../routing/TransitMode.html">/sdk-for-flutter-explore-routing-transitmode</a>&gt;
 modes
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>This list is used to determine which transit modes should be used for route calculation,
-/sdk-for-flutter-explore-routing-transitrouteoptions-modefilter specifies whether this list is an inclusion or an exclusion.
+<a href="../../routing/TransitRouteOptions/modeFilter.html">/sdk-for-flutter-explore-routing-transitrouteoptions-modefilter</a> specifies whether this list is an inclusion or an exclusion.
 For example, specifying subway and bus transit modes with the include filter, returns only subway
 and bus transit modes, and with the exclude filter, returns all the transit modes except subway
 and bus. When not set, all the supported transit modes are permitted.
@@ -63,9 +62,9 @@ By default, this list is empty.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-transitrouteoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TransitRouteOptions-class.html">/sdk-for-flutter-explore-routing-transitrouteoptions-class</a></li>
 <li class="self-crumb">modes property</li>
 </ol>
 <h5>TransitRouteOptions class</h5>
@@ -82,5 +81,4 @@ By default, this list is empty.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

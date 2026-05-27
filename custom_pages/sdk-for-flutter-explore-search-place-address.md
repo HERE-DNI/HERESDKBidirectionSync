@@ -1,10 +1,9 @@
 ---
-title: "address property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-place-address"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- address.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-place-address"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-place-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a></li>
 <li class="self-crumb">address property</li>
 </ol>
 <div class="self-name">address</div>
@@ -39,18 +38,18 @@ menu
 <h1>address property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-search-address-class
+<a href="../../search/Address-class.html">/sdk-for-flutter-explore-search-address-class</a>
 address
 </section>
 <section class="desc markdown">
 <p>The address of the place.</p>
 <p>Note that while <code>OfflineSearchEngine.suggest</code> and <code>OfflineSearchEngine.suggestByText</code> set all available details,
-<code>SearchEngine.suggest</code> and <code>SearchEngine.suggestByText</code> set only /sdk-for-flutter-explore-search-address-addresstext.
-Complete address details can be obtained by searching with /sdk-for-flutter-explore-search-placeidquery-class.
+<code>SearchEngine.suggest</code> and <code>SearchEngine.suggestByText</code> set only <a href="../../search/Address/addressText.html">/sdk-for-flutter-explore-search-address-addresstext</a>.
+Complete address details can be obtained by searching with <a href="../../search/PlaceIdQuery-class.html">/sdk-for-flutter-explore-search-placeidquery-class</a>.
 Gets the address of the place.</p>
 <p>Note that while <code>OfflineSearchEngine.suggest</code> and <code>OfflineSearchEngine.suggestByText</code> set all available details,
-<code>SearchEngine.suggest</code> and <code>SearchEngine.suggestByText</code> set only /sdk-for-flutter-explore-search-address-addresstext.
-Complete address details can be obtained by searching with /sdk-for-flutter-explore-search-placeidquery-class.</p>
+<code>SearchEngine.suggest</code> and <code>SearchEngine.suggestByText</code> set only <a href="../../search/Address/addressText.html">/sdk-for-flutter-explore-search-address-addresstext</a>.
+Complete address details can be obtained by searching with <a href="../../search/PlaceIdQuery-class.html">/sdk-for-flutter-explore-search-placeidquery-class</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -65,9 +64,9 @@ Complete address details can be obtained by searching with /sdk-for-flutter-expl
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-place-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a></li>
 <li class="self-crumb">address property</li>
 </ol>
 <h5>Place class</h5>
@@ -84,5 +83,4 @@ Complete address details can be obtained by searching with /sdk-for-flutter-expl
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

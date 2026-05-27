@@ -1,10 +1,9 @@
 ---
-title: "min property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evchargingdurationrange-min"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- min.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evchargingdurationrange-min"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingdurationrange-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingDurationRange-class.html">/sdk-for-flutter-explore-search-evchargingdurationrange-class</a></li>
 <li class="self-crumb">min property</li>
 </ol>
 <div class="self-name">min</div>
@@ -60,9 +59,9 @@ If absent the element becomes valid as soon as other conditions allow.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingdurationrange-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingDurationRange-class.html">/sdk-for-flutter-explore-search-evchargingdurationrange-class</a></li>
 <li class="self-crumb">min property</li>
 </ol>
 <h5>EVChargingDurationRange class</h5>
@@ -79,5 +78,4 @@ If absent the element becomes valid as soon as other conditions allow.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

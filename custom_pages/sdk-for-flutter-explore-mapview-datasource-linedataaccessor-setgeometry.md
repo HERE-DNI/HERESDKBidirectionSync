@@ -1,10 +1,9 @@
 ---
-title: "setGeometry abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-linedataaccessor-setgeometry"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- setGeometry.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-linedataaccessor-setgeometry"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-linedataaccessor-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/LineDataAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-linedataaccessor-class</a></li>
 <li class="self-crumb">setGeometry abstract method</li>
 </ol>
 <div class="self-name">setGeometry</div>
@@ -39,7 +38,7 @@ menu
 <h1>setGeometry abstract method</h1></div>
 <section class="multi-line-signature">
 void
-setGeometry(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geopolyline-class geometry</li>
+setGeometry(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a> geometry</li>
 </ol>)
 
       
@@ -64,9 +63,9 @@ setGeometry(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-e
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-linedataaccessor-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/LineDataAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-linedataaccessor-class</a></li>
 <li class="self-crumb">setGeometry abstract method</li>
 </ol>
 <h5>LineDataAccessor class</h5>
@@ -83,5 +82,4 @@ setGeometry(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-e
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

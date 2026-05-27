@@ -1,10 +1,9 @@
 ---
-title: "TransitDeparture constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-transitdeparture-transitdeparture"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TransitDeparture.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-transitdeparture-transitdeparture"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-transitdeparture-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TransitDeparture-class.html">/sdk-for-flutter-explore-routing-transitdeparture-class</a></li>
 <li class="self-crumb">TransitDeparture constructor</li>
 </ol>
 <div class="self-name">TransitDeparture</div>
@@ -38,10 +37,10 @@ menu
 <div>
 <h1>TransitDeparture constructor</h1></div>
 <section class="multi-line-signature">
-TransitDeparture(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-routing-routeplace-class place, </li>
+TransitDeparture(<wbr/><ol class="parameter-list"> <li><a href="../../routing/RoutePlace-class.html">/sdk-for-flutter-explore-routing-routeplace-class</a> place, </li>
 <li>DateTime? time, </li>
 <li>int? delay, </li>
-<li>/sdk-for-flutter-explore-routing-transitdeparturestatus? status, </li>
+<li><a href="../../routing/TransitDepartureStatus.html">/sdk-for-flutter-explore-routing-transitdeparturestatus</a>? status, </li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -65,9 +64,9 @@ TransitDeparture(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-transitdeparture-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TransitDeparture-class.html">/sdk-for-flutter-explore-routing-transitdeparture-class</a></li>
 <li class="self-crumb">TransitDeparture constructor</li>
 </ol>
 <h5>TransitDeparture class</h5>
@@ -84,5 +83,4 @@ TransitDeparture(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

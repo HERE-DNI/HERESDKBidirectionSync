@@ -1,10 +1,9 @@
 ---
-title: "maxNumberOfTires property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxnumberoftires"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- maxNumberOfTires.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxnumberoftir
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a></li>
 <li class="self-crumb">maxNumberOfTires property</li>
 </ol>
 <div class="self-name">maxNumberOfTires</div>
@@ -45,7 +44,7 @@ menu
 </section>
 <section class="desc markdown">
 <p>Contains the maximum permitted number of tires.
-This property will be set if the /sdk-for-flutter-explore-transport-vehiclespecification-tirescount exceeds the specified value.</p>
+This property will be set if the <a href="../../transport/VehicleSpecification/tiresCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-tirescount</a> exceeds the specified value.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +58,9 @@ This property will be set if the /sdk-for-flutter-explore-transport-vehiclespeci
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a></li>
 <li class="self-crumb">maxNumberOfTires property</li>
 </ol>
 <h5>ViolatedRestrictionDetails class</h5>
@@ -78,5 +77,4 @@ This property will be set if the /sdk-for-flutter-explore-transport-vehiclespeci
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "AuthenticationExceptionException constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-authenticationexceptionexception-authenticationexceptionexception"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- AuthenticationExceptionException.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-authenticationexceptionexception-authenticat
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-authenticationexceptionexception-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/AuthenticationExceptionException-class.html">/sdk-for-flutter-explore-core-authenticationexceptionexception-class</a></li>
 <li class="self-crumb">AuthenticationExceptionException constructor</li>
 </ol>
 <div class="self-name">AuthenticationExceptionException</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>AuthenticationExceptionException constructor</h1></div>
 <section class="multi-line-signature">
-AuthenticationExceptionException(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-authenticationerror error</li>
+AuthenticationExceptionException(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/AuthenticationError.html">/sdk-for-flutter-explore-core-authenticationerror</a> error</li>
 </ol>)
     </section>
 <section class="summary source-code" id="source">
@@ -53,9 +52,9 @@ AuthenticationExceptionException(<wbr/><ol class="parameter-list single-line"> <
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-authenticationexceptionexception-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/AuthenticationExceptionException-class.html">/sdk-for-flutter-explore-core-authenticationexceptionexception-class</a></li>
 <li class="self-crumb">AuthenticationExceptionException constructor</li>
 </ol>
 <h5>AuthenticationExceptionException class</h5>
@@ -72,5 +71,4 @@ AuthenticationExceptionException(<wbr/><ol class="parameter-list single-line"> <
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

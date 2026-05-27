@@ -1,10 +1,9 @@
 ---
-title: "HereMap class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-heremap-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- HereMap-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -37,8 +36,8 @@ slug: "sdk-for-flutter-explore-mapview-heremap-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">HereMap class</li>
 </ol>
 <div class="self-name">HereMap</div>
@@ -63,14 +62,14 @@ menu
 <h1>HereMap class</h1></div>
 <section class="desc markdown">
 <p>Widget that displays a map. To interact with the map, use the
-/sdk-for-flutter-explore-mapview-heremapcontroller-class object that is passed to /sdk-for-flutter-explore-mapview-heremapcreatedcallback
-Note: Before using this class, /sdk-for-flutter-explore-core-engine-sdknativeengine-class must be already initialized.</p>
+<a href="../mapview/HereMapController-class.html">/sdk-for-flutter-explore-mapview-heremapcontroller-class</a> object that is passed to <a href="../mapview/HereMapCreatedCallback.html">/sdk-for-flutter-explore-mapview-heremapcreatedcallback</a>
+Note: Before using this class, <a href="../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a> must be already initialized.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="HereMap">
-/sdk-for-flutter-explore-mapview-heremap-heremap({Key? key, /sdk-for-flutter-explore-mapview-heremapcreatedcallback? onMapCreated, Set&lt;<wbr/>Factory&lt;<wbr/>OneSequenceGestureRecognizer&gt;&gt;? gestureRecognizers, /sdk-for-flutter-explore-mapview-nativeviewmode mode = NativeViewMode.virtualDisplay, dynamic options})
+<a href="../mapview/HereMap/HereMap.html">/sdk-for-flutter-explore-mapview-heremap-heremap</a>({Key? key, <a href="../mapview/HereMapCreatedCallback.html">/sdk-for-flutter-explore-mapview-heremapcreatedcallback</a>? onMapCreated, Set&lt;<wbr/>Factory&lt;<wbr/>OneSequenceGestureRecognizer&gt;&gt;? gestureRecognizers, <a href="../mapview/NativeViewMode.html">/sdk-for-flutter-explore-mapview-nativeviewmode</a> mode = NativeViewMode.virtualDisplay, dynamic options})
 </dt>
 <dd>
           Creates a widget that displays a map.
@@ -82,7 +81,7 @@ Note: Before using this class, /sdk-for-flutter-explore-core-engine-sdknativeeng
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="gestureRecognizers">
-/sdk-for-flutter-explore-mapview-heremap-gesturerecognizers
+<a href="../mapview/HereMap/gestureRecognizers.html">/sdk-for-flutter-explore-mapview-heremap-gesturerecognizers</a>
 → Set&lt;<wbr/>Factory&lt;<wbr/>OneSequenceGestureRecognizer&gt;&gt;?
 </dt>
 <dd>
@@ -90,7 +89,7 @@ Note: Before using this class, /sdk-for-flutter-explore-core-engine-sdknativeeng
   <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-heremap-hashcode
+<a href="../mapview/HereMap/hashCode.html">/sdk-for-flutter-explore-mapview-heremap-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -98,7 +97,7 @@ Note: Before using this class, /sdk-for-flutter-explore-core-engine-sdknativeeng
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="key">
-/sdk-for-flutter-explore-mapview-heremap-key
+<a href="../mapview/HereMap/key.html">/sdk-for-flutter-explore-mapview-heremap-key</a>
 → Key?
 </dt>
 <dd class="inherited">
@@ -106,24 +105,24 @@ Note: Before using this class, /sdk-for-flutter-explore-core-engine-sdknativeeng
   <div class="features">finalinherited</div>
 </dd>
 <dt class="property" id="mode">
-/sdk-for-flutter-explore-mapview-heremap-mode
-→ /sdk-for-flutter-explore-mapview-nativeviewmode
+<a href="../mapview/HereMap/mode.html">/sdk-for-flutter-explore-mapview-heremap-mode</a>
+→ <a href="../mapview/NativeViewMode.html">/sdk-for-flutter-explore-mapview-nativeviewmode</a>
 </dt>
 <dd>
   Which method of hosting Android native view (the map) will be used.
-Default value is /sdk-for-flutter-explore-mapview-nativeviewmode.
+Default value is <a href="../mapview/NativeViewMode.html">/sdk-for-flutter-explore-mapview-nativeviewmode</a>.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="onMapCreated">
-/sdk-for-flutter-explore-mapview-heremap-onmapcreated
-→ /sdk-for-flutter-explore-mapview-heremapcreatedcallback?
+<a href="../mapview/HereMap/onMapCreated.html">/sdk-for-flutter-explore-mapview-heremap-onmapcreated</a>
+→ <a href="../mapview/HereMapCreatedCallback.html">/sdk-for-flutter-explore-mapview-heremapcreatedcallback</a>?
 </dt>
 <dd>
   Method called when the map is ready to be used.
   <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-heremap-runtimetype
+<a href="../mapview/HereMap/runtimeType.html">/sdk-for-flutter-explore-mapview-heremap-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -136,7 +135,7 @@ Default value is /sdk-for-flutter-explore-mapview-nativeviewmode.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="createElement">
-/sdk-for-flutter-explore-mapview-heremap-createelement(<wbr/>)
+<a href="../mapview/HereMap/createElement.html">/sdk-for-flutter-explore-mapview-heremap-createelement</a>(<wbr/>)
     → StatefulElement
 
 </dt>
@@ -145,7 +144,7 @@ Default value is /sdk-for-flutter-explore-mapview-nativeviewmode.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="createState">
-/sdk-for-flutter-explore-mapview-heremap-createstate(<wbr/>)
+<a href="../mapview/HereMap/createState.html">/sdk-for-flutter-explore-mapview-heremap-createstate</a>(<wbr/>)
     → State&lt;<wbr/>StatefulWidget&gt;
 
 </dt>
@@ -155,7 +154,7 @@ Default value is /sdk-for-flutter-explore-mapview-nativeviewmode.
 
 </dd>
 <dt class="callable inherited" id="debugDescribeChildren">
-/sdk-for-flutter-explore-mapview-heremap-debugdescribechildren(<wbr/>)
+<a href="../mapview/HereMap/debugDescribeChildren.html">/sdk-for-flutter-explore-mapview-heremap-debugdescribechildren</a>(<wbr/>)
     → List&lt;<wbr/>DiagnosticsNode&gt;
 
 </dt>
@@ -165,7 +164,7 @@ children.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="debugFillProperties">
-/sdk-for-flutter-explore-mapview-heremap-debugfillproperties(<wbr/>DiagnosticPropertiesBuilder properties)
+<a href="../mapview/HereMap/debugFillProperties.html">/sdk-for-flutter-explore-mapview-heremap-debugfillproperties</a>(<wbr/>DiagnosticPropertiesBuilder properties)
     → void
 
 </dt>
@@ -174,7 +173,7 @@ children.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-heremap-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/HereMap/noSuchMethod.html">/sdk-for-flutter-explore-mapview-heremap-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -183,7 +182,7 @@ children.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toDiagnosticsNode">
-/sdk-for-flutter-explore-mapview-heremap-todiagnosticsnode(<wbr/>{String? name, DiagnosticsTreeStyle? style})
+<a href="../mapview/HereMap/toDiagnosticsNode.html">/sdk-for-flutter-explore-mapview-heremap-todiagnosticsnode</a>(<wbr/>{String? name, DiagnosticsTreeStyle? style})
     → DiagnosticsNode
 
 </dt>
@@ -193,7 +192,7 @@ tools and by <code>DiagnosticsNode.toStringDeep</code>.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-heremap-tostring(<wbr/>{DiagnosticLevel minLevel = DiagnosticLevel.info})
+<a href="../mapview/HereMap/toString.html">/sdk-for-flutter-explore-mapview-heremap-tostring</a>(<wbr/>{DiagnosticLevel minLevel = DiagnosticLevel.info})
     → String
 
 </dt>
@@ -202,7 +201,7 @@ tools and by <code>DiagnosticsNode.toStringDeep</code>.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toStringDeep">
-/sdk-for-flutter-explore-mapview-heremap-tostringdeep(<wbr/>{String prefixLineOne = '', String? prefixOtherLines, DiagnosticLevel minLevel = DiagnosticLevel.debug, int wrapWidth = 65})
+<a href="../mapview/HereMap/toStringDeep.html">/sdk-for-flutter-explore-mapview-heremap-tostringdeep</a>(<wbr/>{String prefixLineOne = '', String? prefixOtherLines, DiagnosticLevel minLevel = DiagnosticLevel.debug, int wrapWidth = 65})
     → String
 
 </dt>
@@ -211,7 +210,7 @@ tools and by <code>DiagnosticsNode.toStringDeep</code>.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toStringShallow">
-/sdk-for-flutter-explore-mapview-heremap-tostringshallow(<wbr/>{String joiner = ', ', DiagnosticLevel minLevel = DiagnosticLevel.debug})
+<a href="../mapview/HereMap/toStringShallow.html">/sdk-for-flutter-explore-mapview-heremap-tostringshallow</a>(<wbr/>{String joiner = ', ', DiagnosticLevel minLevel = DiagnosticLevel.debug})
     → String
 
 </dt>
@@ -220,7 +219,7 @@ tools and by <code>DiagnosticsNode.toStringDeep</code>.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toStringShort">
-/sdk-for-flutter-explore-mapview-heremap-tostringshort(<wbr/>)
+<a href="../mapview/HereMap/toStringShort.html">/sdk-for-flutter-explore-mapview-heremap-tostringshort</a>(<wbr/>)
     → String
 
 </dt>
@@ -234,7 +233,7 @@ tools and by <code>DiagnosticsNode.toStringDeep</code>.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-heremap-operator-equals(<wbr/>Object other)
+<a href="../mapview/HereMap/operator_equals.html">/sdk-for-flutter-explore-mapview-heremap-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -252,8 +251,8 @@ tools and by <code>DiagnosticsNode.toStringDeep</code>.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">HereMap class</li>
 </ol>
 <h5>mapview library</h5>
@@ -270,5 +269,4 @@ tools and by <code>DiagnosticsNode.toStringDeep</code>.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

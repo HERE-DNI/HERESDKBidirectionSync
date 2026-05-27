@@ -1,10 +1,9 @@
 ---
-title: "PickedPlace constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-pickedplace-pickedplace"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PickedPlace.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-pickedplace-pickedplace"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-pickedplace-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/PickedPlace-class.html">/sdk-for-flutter-explore-core-pickedplace-class</a></li>
 <li class="self-crumb">PickedPlace constructor</li>
 </ol>
 <div class="self-name">PickedPlace</div>
@@ -39,7 +38,7 @@ menu
 <h1>PickedPlace constructor</h1></div>
 <section class="multi-line-signature">
 PickedPlace(<wbr/><ol class="parameter-list single-line"> <li>String name, </li>
-<li>/sdk-for-flutter-explore-core-geocoordinates-class coordinates, </li>
+<li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates, </li>
 <li>String placeCategoryId</li>
 </ol>)
     </section>
@@ -66,9 +65,9 @@ This is the same String value as <code>PlaceCategory.id</code> that can be obtai
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-pickedplace-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/PickedPlace-class.html">/sdk-for-flutter-explore-core-pickedplace-class</a></li>
 <li class="self-crumb">PickedPlace constructor</li>
 </ol>
 <h5>PickedPlace class</h5>
@@ -85,5 +84,4 @@ This is the same String value as <code>PlaceCategory.id</code> that can be obtai
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "trailerAxleCount property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-carspecifications-traileraxlecount"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- trailerAxleCount.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-carspecifications-traileraxlecount"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-carspecifications-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/CarSpecifications-class.html">/sdk-for-flutter-explore-transport-carspecifications-class</a></li>
 <li class="self-crumb">trailerAxleCount property</li>
 </ol>
 <div class="self-name">trailerAxleCount</div>
@@ -45,8 +44,8 @@ menu
 </section>
 <section class="desc markdown">
 <p>Defines total number of axles across all the trailers attached to the vehicle.
-This number is included in /sdk-for-flutter-explore-transport-carspecifications-axlecount, hence /sdk-for-flutter-explore-transport-carspecifications-traileraxlecount must be less than /sdk-for-flutter-explore-transport-carspecifications-axlecount
-and greater than or equal to 1. /sdk-for-flutter-explore-transport-carspecifications-axlecount and /sdk-for-flutter-explore-transport-carspecifications-trailercount are required to specify /sdk-for-flutter-explore-transport-carspecifications-traileraxlecount.
+This number is included in <a href="../../transport/CarSpecifications/axleCount.html">/sdk-for-flutter-explore-transport-carspecifications-axlecount</a>, hence <a href="../../transport/CarSpecifications/trailerAxleCount.html">/sdk-for-flutter-explore-transport-carspecifications-traileraxlecount</a> must be less than <a href="../../transport/CarSpecifications/axleCount.html">/sdk-for-flutter-explore-transport-carspecifications-axlecount</a>
+and greater than or equal to 1. <a href="../../transport/CarSpecifications/axleCount.html">/sdk-for-flutter-explore-transport-carspecifications-axlecount</a> and <a href="../../transport/CarSpecifications/trailerCount.html">/sdk-for-flutter-explore-transport-carspecifications-trailercount</a> are required to specify <a href="../../transport/CarSpecifications/trailerAxleCount.html">/sdk-for-flutter-explore-transport-carspecifications-traileraxlecount</a>.
 By default, it is not set.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -61,9 +60,9 @@ By default, it is not set.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-carspecifications-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/CarSpecifications-class.html">/sdk-for-flutter-explore-transport-carspecifications-class</a></li>
 <li class="self-crumb">trailerAxleCount property</li>
 </ol>
 <h5>CarSpecifications class</h5>
@@ -80,5 +79,4 @@ By default, it is not set.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

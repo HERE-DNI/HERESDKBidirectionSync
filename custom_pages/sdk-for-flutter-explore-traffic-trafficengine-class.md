@@ -1,10 +1,9 @@
 ---
-title: "TrafficEngine class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-traffic-trafficengine-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TrafficEngine-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -33,8 +32,8 @@ slug: "sdk-for-flutter-explore-traffic-trafficengine-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
 <li class="self-crumb">TrafficEngine class</li>
 </ol>
 <div class="self-name">TrafficEngine</div>
@@ -59,8 +58,8 @@ menu
 <h1>TrafficEngine class abstract</h1></div>
 <section class="desc markdown">
 <p>Use the TrafficEngine to get information about current traffic flow and incidents in an area
-specified by /sdk-for-flutter-explore-core-geobox-class, /sdk-for-flutter-explore-core-geocircle-class, or /sdk-for-flutter-explore-core-geocorridor-class.</p>
-<p>Provides optional parameters given in /sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class and /sdk-for-flutter-explore-traffic-trafficflowqueryoptions-class to filter the result.</p>
+specified by <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>, <a href="../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a>, or <a href="../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a>.</p>
+<p>Provides optional parameters given in <a href="../traffic/TrafficIncidentsQueryOptions-class.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class</a> and <a href="../traffic/TrafficFlowQueryOptions-class.html">/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-class</a> to filter the result.</p>
 <p>By default, incidents are localized based on their geographical
 location. You can override that behavior by specifying the
 desired language that should be used for the incidents description and summary.</p>
@@ -70,20 +69,20 @@ road closure, weather updates for road condition, lane restriction
 and others.</p>
 <p>Traffic data is fetched online to get the most precise and freshest data available.
 In offline mode, live traffic data can be fetched using the traffic pass-through features.
-See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</p>
+See <a href="../core.engine/SDKNativeEngine/passThroughFeatures.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</a></p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TrafficEngine">
-/sdk-for-flutter-explore-traffic-trafficengine-trafficengine()
+<a href="../traffic/TrafficEngine/TrafficEngine.html">/sdk-for-flutter-explore-traffic-trafficengine-trafficengine</a>()
 </dt>
 <dd>
           Creates a new instance of this class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="TrafficEngine.withSdkEngine">
-/sdk-for-flutter-explore-traffic-trafficengine-trafficengine-withsdkengine(/sdk-for-flutter-explore-core-engine-sdknativeengine-class sdkEngine)
+<a href="../traffic/TrafficEngine/TrafficEngine.withSdkEngine.html">/sdk-for-flutter-explore-traffic-trafficengine-trafficengine-withsdkengine</a>(<a href="../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a> sdkEngine)
 </dt>
 <dd>
           Creates a new instance of this class.
@@ -95,7 +94,7 @@ See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-traffic-trafficengine-hashcode
+<a href="../traffic/TrafficEngine/hashCode.html">/sdk-for-flutter-explore-traffic-trafficengine-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -103,7 +102,7 @@ See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-traffic-trafficengine-runtimetype
+<a href="../traffic/TrafficEngine/runtimeType.html">/sdk-for-flutter-explore-traffic-trafficengine-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -116,9 +115,8 @@ See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="lookupIncident">
-/sdk-for-flutter-explore-traffic-trafficengine-lookupincident(<wbr/>String originalId, /sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-class lookupOptions, /sdk-for-flutter-explore-traffic-trafficincidentlookupcallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a href="../traffic/TrafficEngine/lookupIncident.html">/sdk-for-flutter-explore-traffic-trafficengine-lookupincident</a>(<wbr/>String originalId, <a href="../traffic/TrafficIncidentLookupOptions-class.html">/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-class</a> lookupOptions, <a href="../traffic/TrafficIncidentLookupCallback.html">/sdk-for-flutter-explore-traffic-trafficincidentlookupcallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously queries for traffic incident by the original id.
@@ -126,7 +124,7 @@ See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</p>
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-traffic-trafficengine-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../traffic/TrafficEngine/noSuchMethod.html">/sdk-for-flutter-explore-traffic-trafficengine-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -135,9 +133,8 @@ See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="queryForFlowInBox">
-/sdk-for-flutter-explore-traffic-trafficengine-queryforflowinbox(<wbr/>/sdk-for-flutter-explore-core-geobox-class boxArea, /sdk-for-flutter-explore-traffic-trafficflowqueryoptions-class queryOptions, /sdk-for-flutter-explore-traffic-trafficflowquerycallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a href="../traffic/TrafficEngine/queryForFlowInBox.html">/sdk-for-flutter-explore-traffic-trafficengine-queryforflowinbox</a>(<wbr/><a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> boxArea, <a href="../traffic/TrafficFlowQueryOptions-class.html">/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-class</a> queryOptions, <a href="../traffic/TrafficFlowQueryCallback.html">/sdk-for-flutter-explore-traffic-trafficflowquerycallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously queries for traffic flow using a bounding box as a filter.
@@ -145,9 +142,8 @@ See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</p>
 
 </dd>
 <dt class="callable" id="queryForFlowInCircle">
-/sdk-for-flutter-explore-traffic-trafficengine-queryforflowincircle(<wbr/>/sdk-for-flutter-explore-core-geocircle-class circleArea, /sdk-for-flutter-explore-traffic-trafficflowqueryoptions-class queryOptions, /sdk-for-flutter-explore-traffic-trafficflowquerycallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a href="../traffic/TrafficEngine/queryForFlowInCircle.html">/sdk-for-flutter-explore-traffic-trafficengine-queryforflowincircle</a>(<wbr/><a href="../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a> circleArea, <a href="../traffic/TrafficFlowQueryOptions-class.html">/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-class</a> queryOptions, <a href="../traffic/TrafficFlowQueryCallback.html">/sdk-for-flutter-explore-traffic-trafficflowquerycallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously queries for traffic flow using a circle as a filter.
@@ -155,9 +151,8 @@ See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</p>
 
 </dd>
 <dt class="callable" id="queryForFlowInCorridor">
-/sdk-for-flutter-explore-traffic-trafficengine-queryforflowincorridor(<wbr/>/sdk-for-flutter-explore-core-geocorridor-class corridorArea, /sdk-for-flutter-explore-traffic-trafficflowqueryoptions-class queryOptions, /sdk-for-flutter-explore-traffic-trafficflowquerycallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a href="../traffic/TrafficEngine/queryForFlowInCorridor.html">/sdk-for-flutter-explore-traffic-trafficengine-queryforflowincorridor</a>(<wbr/><a href="../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a> corridorArea, <a href="../traffic/TrafficFlowQueryOptions-class.html">/sdk-for-flutter-explore-traffic-trafficflowqueryoptions-class</a> queryOptions, <a href="../traffic/TrafficFlowQueryCallback.html">/sdk-for-flutter-explore-traffic-trafficflowquerycallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously queries for traffic flow by a corridor as a filter.
@@ -165,9 +160,8 @@ See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</p>
 
 </dd>
 <dt class="callable" id="queryForIncidentsInBox">
-/sdk-for-flutter-explore-traffic-trafficengine-queryforincidentsinbox(<wbr/>/sdk-for-flutter-explore-core-geobox-class boxArea, /sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class queryOptions, /sdk-for-flutter-explore-traffic-trafficincidentsquerycallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a href="../traffic/TrafficEngine/queryForIncidentsInBox.html">/sdk-for-flutter-explore-traffic-trafficengine-queryforincidentsinbox</a>(<wbr/><a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> boxArea, <a href="../traffic/TrafficIncidentsQueryOptions-class.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class</a> queryOptions, <a href="../traffic/TrafficIncidentsQueryCallback.html">/sdk-for-flutter-explore-traffic-trafficincidentsquerycallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously queries for traffic incidents using a bounding box as a filter.
@@ -175,9 +169,8 @@ See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</p>
 
 </dd>
 <dt class="callable" id="queryForIncidentsInCircle">
-/sdk-for-flutter-explore-traffic-trafficengine-queryforincidentsincircle(<wbr/>/sdk-for-flutter-explore-core-geocircle-class circleArea, /sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class queryOptions, /sdk-for-flutter-explore-traffic-trafficincidentsquerycallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a href="../traffic/TrafficEngine/queryForIncidentsInCircle.html">/sdk-for-flutter-explore-traffic-trafficengine-queryforincidentsincircle</a>(<wbr/><a href="../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a> circleArea, <a href="../traffic/TrafficIncidentsQueryOptions-class.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class</a> queryOptions, <a href="../traffic/TrafficIncidentsQueryCallback.html">/sdk-for-flutter-explore-traffic-trafficincidentsquerycallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously queries for traffic incidents using a circle as a filter.
@@ -185,9 +178,8 @@ See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</p>
 
 </dd>
 <dt class="callable" id="queryForIncidentsInCorridor">
-/sdk-for-flutter-explore-traffic-trafficengine-queryforincidentsincorridor(<wbr/>/sdk-for-flutter-explore-core-geocorridor-class corridorArea, /sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class queryOptions, /sdk-for-flutter-explore-traffic-trafficincidentsquerycallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a href="../traffic/TrafficEngine/queryForIncidentsInCorridor.html">/sdk-for-flutter-explore-traffic-trafficengine-queryforincidentsincorridor</a>(<wbr/><a href="../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a> corridorArea, <a href="../traffic/TrafficIncidentsQueryOptions-class.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class</a> queryOptions, <a href="../traffic/TrafficIncidentsQueryCallback.html">/sdk-for-flutter-explore-traffic-trafficincidentsquerycallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously queries for traffic incidents by a corridor as a filter.
@@ -195,7 +187,7 @@ See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</p>
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-traffic-trafficengine-tostring(<wbr/>)
+<a href="../traffic/TrafficEngine/toString.html">/sdk-for-flutter-explore-traffic-trafficengine-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -209,7 +201,7 @@ See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-traffic-trafficengine-operator-equals(<wbr/>Object other)
+<a href="../traffic/TrafficEngine/operator_equals.html">/sdk-for-flutter-explore-traffic-trafficengine-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -227,8 +219,8 @@ See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
 <li class="self-crumb">TrafficEngine class</li>
 </ol>
 <h5>traffic library</h5>
@@ -245,5 +237,4 @@ See /sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

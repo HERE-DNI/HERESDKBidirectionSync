@@ -1,10 +1,9 @@
 ---
-title: "cancel abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-threading-taskhandle-cancel"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- cancel.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-threading-taskhandle-cancel"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-threading-core-threading-library</li>
-<li>/sdk-for-flutter-explore-core-threading-taskhandle-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.threading/core.threading-library.html">/sdk-for-flutter-explore-core-threading-core-threading-library</a></li>
+<li><a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a></li>
 <li class="self-crumb">cancel abstract method</li>
 </ol>
 <div class="self-name">cancel</div>
@@ -65,9 +64,9 @@ platform dependent reason.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-threading-core-threading-library</li>
-<li>/sdk-for-flutter-explore-core-threading-taskhandle-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.threading/core.threading-library.html">/sdk-for-flutter-explore-core-threading-core-threading-library</a></li>
+<li><a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a></li>
 <li class="self-crumb">cancel abstract method</li>
 </ol>
 <h5>TaskHandle class</h5>
@@ -84,5 +83,4 @@ platform dependent reason.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

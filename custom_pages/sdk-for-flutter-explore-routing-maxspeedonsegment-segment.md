@@ -1,10 +1,9 @@
 ---
-title: "segment property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-maxspeedonsegment-segment"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- segment.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-maxspeedonsegment-segment"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-maxspeedonsegment-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/MaxSpeedOnSegment-class.html">/sdk-for-flutter-explore-routing-maxspeedonsegment-class</a></li>
 <li class="self-crumb">segment property</li>
 </ol>
 <div class="self-name">segment</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>segment property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-routing-segmentreference-class
+<a href="../../routing/SegmentReference-class.html">/sdk-for-flutter-explore-routing-segmentreference-class</a>
 segment
 <div class="features">getter/setter pair</div>
 </section>
@@ -46,7 +45,7 @@ segment
 <p>A segment for which the new base speed is specified. Only the <code>segmendId</code> and <code>travelDirection</code>
 parameters are used, other parameters are ignored. Setting a <code>segmendId</code> is mandatory.</p>
 <p><strong>Note:</strong> The <code>SegmentReference</code> is not directly accessible from the map via the HERE SDK.
-Although, after route calculation you can retrieve the related segments for each /sdk-for-flutter-explore-routing-span-class.
+Although, after route calculation you can retrieve the related segments for each <a href="../../routing/Span-class.html">/sdk-for-flutter-explore-routing-span-class</a>.
 The segment IDs are the same that are also used by, for example, the <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/use-cases/avoid-segments.html">Routing REST API</a>.
 These IDs are mostly stable and only change when the underlying map data changes
 due to a new road or similar changes in the real world.</p>
@@ -63,9 +62,9 @@ due to a new road or similar changes in the real world.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-maxspeedonsegment-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/MaxSpeedOnSegment-class.html">/sdk-for-flutter-explore-routing-maxspeedonsegment-class</a></li>
 <li class="self-crumb">segment property</li>
 </ol>
 <h5>MaxSpeedOnSegment class</h5>
@@ -82,5 +81,4 @@ due to a new road or similar changes in the real world.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "Fare constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-fare-fare"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Fare.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-fare-fare"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-fare-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Fare-class.html">/sdk-for-flutter-explore-routing-fare-class</a></li>
 <li class="self-crumb">Fare constructor</li>
 </ol>
 <div class="self-name">Fare</div>
@@ -39,8 +38,8 @@ menu
 <h1>Fare constructor</h1></div>
 <section class="multi-line-signature">
 Fare(<wbr/><ol class="parameter-list single-line"> <li>String name, </li>
-<li>/sdk-for-flutter-explore-routing-fareprice-class? price, </li>
-<li>/sdk-for-flutter-explore-routing-farereason reason</li>
+<li><a href="../../routing/FarePrice-class.html">/sdk-for-flutter-explore-routing-fareprice-class</a>? price, </li>
+<li><a href="../../routing/FareReason.html">/sdk-for-flutter-explore-routing-farereason</a> reason</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -63,9 +62,9 @@ Fare(<wbr/><ol class="parameter-list single-line"> <li>String name, </li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-fare-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Fare-class.html">/sdk-for-flutter-explore-routing-fare-class</a></li>
 <li class="self-crumb">Fare constructor</li>
 </ol>
 <h5>Fare class</h5>
@@ -82,5 +81,4 @@ Fare(<wbr/><ol class="parameter-list single-line"> <li>String name, </li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

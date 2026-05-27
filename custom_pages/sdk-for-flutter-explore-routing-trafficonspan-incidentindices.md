@@ -1,10 +1,9 @@
 ---
-title: "incidentIndices property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-trafficonspan-incidentindices"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- incidentIndices.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-trafficonspan-incidentindices"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-trafficonspan-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TrafficOnSpan-class.html">/sdk-for-flutter-explore-routing-trafficonspan-class</a></li>
 <li class="self-crumb">incidentIndices property</li>
 </ol>
 <div class="self-name">incidentIndices</div>
@@ -44,7 +43,7 @@ incidentIndices
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>The indices of traffic incidents from the field /sdk-for-flutter-explore-routing-trafficonsection-trafficincidents.</p>
+<p>The indices of traffic incidents from the field <a href="../../routing/TrafficOnSection/trafficIncidents.html">/sdk-for-flutter-explore-routing-trafficonsection-trafficincidents</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -58,9 +57,9 @@ incidentIndices
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-trafficonspan-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TrafficOnSpan-class.html">/sdk-for-flutter-explore-routing-trafficonspan-class</a></li>
 <li class="self-crumb">incidentIndices property</li>
 </ol>
 <h5>TrafficOnSpan class</h5>
@@ -77,5 +76,4 @@ incidentIndices
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

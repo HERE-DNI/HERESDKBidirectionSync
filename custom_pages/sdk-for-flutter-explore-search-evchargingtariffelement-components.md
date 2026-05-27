@@ -1,10 +1,9 @@
 ---
-title: "components property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evchargingtariffelement-components"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- components.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evchargingtariffelement-components"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingtariffelement-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingTariffElement-class.html">/sdk-for-flutter-explore-search-evchargingtariffelement-class</a></li>
 <li class="self-crumb">components property</li>
 </ol>
 <div class="self-name">components</div>
@@ -39,13 +38,13 @@ menu
 <h1>components property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class&gt;
+        List&lt;<wbr/><a href="../../search/EVChargingTariffPriceComponent-class.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class</a>&gt;
 components
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>List of price components that describe the tariff.
-Each of the components should have a different /sdk-for-flutter-explore-search-evchargingtariffdimension.</p>
+Each of the components should have a different <a href="../../search/EVChargingTariffDimension.html">/sdk-for-flutter-explore-search-evchargingtariffdimension</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +58,9 @@ Each of the components should have a different /sdk-for-flutter-explore-search-e
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingtariffelement-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingTariffElement-class.html">/sdk-for-flutter-explore-search-evchargingtariffelement-class</a></li>
 <li class="self-crumb">components property</li>
 </ol>
 <h5>EVChargingTariffElement class</h5>
@@ -78,5 +77,4 @@ Each of the components should have a different /sdk-for-flutter-explore-search-e
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

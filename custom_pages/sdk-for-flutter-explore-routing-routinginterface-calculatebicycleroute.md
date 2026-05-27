@@ -1,10 +1,9 @@
 ---
-title: "calculateBicycleRoute abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-routinginterface-calculatebicycleroute"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- calculateBicycleRoute.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-routinginterface-calculatebicycleroute"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routinginterface-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RoutingInterface-class.html">/sdk-for-flutter-explore-routing-routinginterface-class</a></li>
 <li class="self-crumb">calculateBicycleRoute abstract method</li>
 </ol>
 <div class="self-name">calculateBicycleRoute</div>
@@ -40,13 +39,13 @@ menu
 <section class="multi-line-signature">
 <div>
 <ol class="annotation-list">
-<li>@Deprecated("Will be removed in v4.28.0. Use the <code>calculate_route()</code> methods with RoutingOptions parameter instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use the `calculate_route()` methods with RoutingOptions parameter instead.")</li>
 </ol>
 </div>
-/sdk-for-flutter-explore-core-threading-taskhandle-class
-calculateBicycleRoute(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt; waypoints, </li>
-<li>/sdk-for-flutter-explore-routing-bicycleoptions-class bicycleOptions, </li>
-<li>/sdk-for-flutter-explore-routing-calculateroutecallback callback</li>
+<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+calculateBicycleRoute(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt; waypoints, </li>
+<li><a class="deprecated" href="../../routing/BicycleOptions-class.html">/sdk-for-flutter-explore-routing-bicycleoptions-class</a> bicycleOptions, </li>
+<li><a href="../../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback</li>
 </ol>)
 
       
@@ -60,22 +59,22 @@ passing through the given waypoints in the given order.</p>
 The first element marks the starting position, the last marks the destination.
 Waypoints in between are interpreted as intermediate.</li>
 </ul>
-<p>An /sdk-for-flutter-explore-routing-routingerror error is generated when the waypoint list
+<p>An <a href="../../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a> error is generated when the waypoint list
 contains less than two elements or when the first and the last waypoints are not of type
-/sdk-for-flutter-explore-routing-waypointtype.</p>
+<a href="../../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a>.</p>
 <ul>
 <li>
 <p><code>bicycleOptions</code> Options specific for bicycle route calculation, along with
-common route options. Note that /sdk-for-flutter-explore-routing-optimizationmode is
+common route options. Note that <a href="../../routing/OptimizationMode.html">/sdk-for-flutter-explore-routing-optimizationmode</a> is
 is not supported for bicycles and converted to
-/sdk-for-flutter-explore-routing-optimizationmode automatically.</p>
+<a href="../../routing/OptimizationMode.html">/sdk-for-flutter-explore-routing-optimizationmode</a> automatically.</p>
 </li>
 <li>
 <p><code>callback</code> Callback object that will be invoked after route calculation.
 It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -91,9 +90,9 @@ TaskHandle calculateBicycleRoute(List&lt;Waypoint&gt; waypoints, BicycleOptions 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routinginterface-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RoutingInterface-class.html">/sdk-for-flutter-explore-routing-routinginterface-class</a></li>
 <li class="self-crumb">calculateBicycleRoute abstract method</li>
 </ol>
 <h5>RoutingInterface class</h5>
@@ -110,5 +109,4 @@ TaskHandle calculateBicycleRoute(List&lt;Waypoint&gt; waypoints, BicycleOptions 
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

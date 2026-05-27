@@ -1,10 +1,9 @@
 ---
-title: "withName abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-withname"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withName.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-withn
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/PolygonDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</a></li>
 <li class="self-crumb">withName abstract method</li>
 </ol>
 <div class="self-name">withName</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>withName abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class
+<a href="../../mapview.datasource/PolygonDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</a>
 withName(<wbr/><ol class="parameter-list single-line"> <li>String dataSourceName</li>
 </ol>)
 
@@ -50,7 +49,7 @@ withName(<wbr/><ol class="parameter-list single-line"> <li>String dataSourceName
 <ul>
 <li><code>dataSourceName</code> Name of the created data source. Must be unique.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class. This data source builder instance.</p>
+<p>Returns <a href="../../mapview.datasource/PolygonDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</a>. This data source builder instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +63,9 @@ withName(<wbr/><ol class="parameter-list single-line"> <li>String dataSourceName
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/PolygonDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</a></li>
 <li class="self-crumb">withName abstract method</li>
 </ol>
 <h5>PolygonDataSourceBuilder class</h5>
@@ -83,5 +82,4 @@ withName(<wbr/><ol class="parameter-list single-line"> <li>String dataSourceName
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

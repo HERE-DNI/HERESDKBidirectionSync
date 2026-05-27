@@ -1,10 +1,9 @@
 ---
-title: "VehicleRestrictionMaxWeight constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-vehiclerestrictionmaxweight"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- VehicleRestrictionMaxWeight.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-vehiclerestri
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/VehicleRestrictionMaxWeight-class.html">/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-class</a></li>
 <li class="self-crumb">VehicleRestrictionMaxWeight constructor</li>
 </ol>
 <div class="self-name">VehicleRestrictionMaxWeight</div>
@@ -39,7 +38,7 @@ menu
 <h1>VehicleRestrictionMaxWeight constructor</h1></div>
 <section class="multi-line-signature">
 VehicleRestrictionMaxWeight(<wbr/><ol class="parameter-list single-line"> <li>int valueInKilograms, </li>
-<li>/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweighttype type</li>
+<li><a href="../../routing/VehicleRestrictionMaxWeightType.html">/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweighttype</a> type</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -61,9 +60,9 @@ VehicleRestrictionMaxWeight(<wbr/><ol class="parameter-list single-line"> <li>in
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/VehicleRestrictionMaxWeight-class.html">/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-class</a></li>
 <li class="self-crumb">VehicleRestrictionMaxWeight constructor</li>
 </ol>
 <h5>VehicleRestrictionMaxWeight class</h5>
@@ -80,5 +79,4 @@ VehicleRestrictionMaxWeight(<wbr/><ol class="parameter-list single-line"> <li>in
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

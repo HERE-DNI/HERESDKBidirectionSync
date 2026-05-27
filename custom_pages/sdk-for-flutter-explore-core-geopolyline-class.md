@@ -1,10 +1,9 @@
 ---
-title: "GeoPolyline class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-geopolyline-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- GeoPolyline-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +28,8 @@ slug: "sdk-for-flutter-explore-core-geopolyline-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">GeoPolyline class</li>
 </ol>
 <div class="self-name">GeoPolyline</div>
@@ -72,17 +71,17 @@ Represents a <code>GeoPolyline</code> as a series of geographic coordinates.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="GeoPolyline">
-/sdk-for-flutter-explore-core-geopolyline-geopolyline(List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt; vertices)
+<a href="../core/GeoPolyline/GeoPolyline.html">/sdk-for-flutter-explore-core-geopolyline-geopolyline</a>(List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt; vertices)
 </dt>
 <dd>
           Constructs a GeoPolyline from the provided vertices.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="GeoPolyline.withGeoBox">
-/sdk-for-flutter-explore-core-geopolyline-geopolyline-withgeobox(/sdk-for-flutter-explore-core-geobox-class geoBox)
+<a href="../core/GeoPolyline/GeoPolyline.withGeoBox.html">/sdk-for-flutter-explore-core-geopolyline-geopolyline-withgeobox</a>(<a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> geoBox)
 </dt>
 <dd>
-          Constructs an instance of this class from /sdk-for-flutter-explore-core-geobox-class.
+          Constructs an instance of this class from <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>.
             <div class="constructor-modifier features">factory</div>
 </dd>
 </dl>
@@ -91,7 +90,7 @@ Represents a <code>GeoPolyline</code> as a series of geographic coordinates.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-core-geopolyline-hashcode
+<a href="../core/GeoPolyline/hashCode.html">/sdk-for-flutter-explore-core-geopolyline-hashcode</a>
 → int
 </dt>
 <dd>
@@ -99,7 +98,7 @@ Represents a <code>GeoPolyline</code> as a series of geographic coordinates.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-geopolyline-runtimetype
+<a href="../core/GeoPolyline/runtimeType.html">/sdk-for-flutter-explore-core-geopolyline-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -107,8 +106,8 @@ Represents a <code>GeoPolyline</code> as a series of geographic coordinates.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="vertices">
-/sdk-for-flutter-explore-core-geopolyline-vertices
-→ List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt;
+<a href="../core/GeoPolyline/vertices.html">/sdk-for-flutter-explore-core-geopolyline-vertices</a>
+→ List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt;
 </dt>
 <dd>
   The list of vertices representing the polyline.
@@ -120,9 +119,8 @@ Represents a <code>GeoPolyline</code> as a series of geographic coordinates.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="coordinatesAtOffsetInMeters">
-/sdk-for-flutter-explore-core-geopolyline-coordinatesatoffsetinmeters(<wbr/>double offsetInMeters, /sdk-for-flutter-explore-core-geopolylinedirection direction)
-    → /sdk-for-flutter-explore-core-geocoordinates-class
-
+<a href="../core/GeoPolyline/coordinatesAtOffsetInMeters.html">/sdk-for-flutter-explore-core-geopolyline-coordinatesatoffsetinmeters</a>(<wbr/>double offsetInMeters, <a href="../core/GeoPolylineDirection.html">/sdk-for-flutter-explore-core-geopolylinedirection</a> direction)
+    → <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 </dt>
 <dd>
   Returns the coordinates at the given distance along the polyline.
@@ -130,7 +128,7 @@ Represents a <code>GeoPolyline</code> as a series of geographic coordinates.</p>
 
 </dd>
 <dt class="callable" id="getNearestIndexTo">
-/sdk-for-flutter-explore-core-geopolyline-getnearestindexto(<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class point)
+<a href="../core/GeoPolyline/getNearestIndexTo.html">/sdk-for-flutter-explore-core-geopolyline-getnearestindexto</a>(<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> point)
     → int
 
 </dt>
@@ -140,7 +138,7 @@ Represents a <code>GeoPolyline</code> as a series of geographic coordinates.</p>
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-geopolyline-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/GeoPolyline/noSuchMethod.html">/sdk-for-flutter-explore-core-geopolyline-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -149,7 +147,7 @@ Represents a <code>GeoPolyline</code> as a series of geographic coordinates.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-geopolyline-tostring(<wbr/>)
+<a href="../core/GeoPolyline/toString.html">/sdk-for-flutter-explore-core-geopolyline-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -163,7 +161,7 @@ Represents a <code>GeoPolyline</code> as a series of geographic coordinates.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-core-geopolyline-operator-equals(<wbr/>Object other)
+<a href="../core/GeoPolyline/operator_equals.html">/sdk-for-flutter-explore-core-geopolyline-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -182,8 +180,8 @@ Represents a <code>GeoPolyline</code> as a series of geographic coordinates.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">GeoPolyline class</li>
 </ol>
 <h5>core library</h5>
@@ -200,5 +198,4 @@ Represents a <code>GeoPolyline</code> as a series of geographic coordinates.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

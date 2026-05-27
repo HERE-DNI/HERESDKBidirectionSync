@@ -1,10 +1,9 @@
 ---
-title: "origin property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-rectangle2d-origin"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- origin.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-rectangle2d-origin"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-rectangle2d-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/Rectangle2D-class.html">/sdk-for-flutter-explore-core-rectangle2d-class</a></li>
 <li class="self-crumb">origin property</li>
 </ol>
 <div class="self-name">origin</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>origin property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-point2d-class
+<a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>
 origin
 <div class="features">getter/setter pair</div>
 </section>
@@ -61,9 +60,9 @@ The height expands towards the bottom of the view.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-rectangle2d-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/Rectangle2D-class.html">/sdk-for-flutter-explore-core-rectangle2d-class</a></li>
 <li class="self-crumb">origin property</li>
 </ol>
 <h5>Rectangle2D class</h5>
@@ -80,5 +79,4 @@ The height expands towards the bottom of the view.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

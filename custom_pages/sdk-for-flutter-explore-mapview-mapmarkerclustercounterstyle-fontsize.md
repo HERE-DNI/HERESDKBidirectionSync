@@ -1,10 +1,9 @@
 ---
-title: "fontSize property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-fontsize"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- fontSize.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-fontsize"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMarkerClusterCounterStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-class</a></li>
 <li class="self-crumb">fontSize property</li>
 </ol>
 <div class="self-name">fontSize</div>
@@ -58,9 +57,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMarkerClusterCounterStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkerclustercounterstyle-class</a></li>
 <li class="self-crumb">fontSize property</li>
 </ol>
 <h5>MapMarkerClusterCounterStyle class</h5>
@@ -77,5 +76,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

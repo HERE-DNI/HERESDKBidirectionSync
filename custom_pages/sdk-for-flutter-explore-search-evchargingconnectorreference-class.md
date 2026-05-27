@@ -1,10 +1,9 @@
 ---
-title: "EVChargingConnectorReference class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-evchargingconnectorreference-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVChargingConnectorReference-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-search-evchargingconnectorreference-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVChargingConnectorReference class</li>
 </ol>
 <div class="self-name">EVChargingConnectorReference</div>
@@ -60,7 +59,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVChargingConnectorReference">
-/sdk-for-flutter-explore-search-evchargingconnectorreference-evchargingconnectorreference()
+<a href="../search/EVChargingConnectorReference/EVChargingConnectorReference.html">/sdk-for-flutter-explore-search-evchargingconnectorreference-evchargingconnectorreference</a>()
 </dt>
 <dd>
 </dd>
@@ -70,7 +69,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="connectorIDs">
-/sdk-for-flutter-explore-search-evchargingconnectorreference-connectorids
+<a href="../search/EVChargingConnectorReference/connectorIDs.html">/sdk-for-flutter-explore-search-evchargingconnectorreference-connectorids</a>
 ↔ List&lt;<wbr/>String&gt;
 </dt>
 <dd>
@@ -78,7 +77,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="evseUID">
-/sdk-for-flutter-explore-search-evchargingconnectorreference-evseuid
+<a href="../search/EVChargingConnectorReference/evseUID.html">/sdk-for-flutter-explore-search-evchargingconnectorreference-evseuid</a>
 ↔ String
 </dt>
 <dd>
@@ -86,7 +85,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-evchargingconnectorreference-hashcode
+<a href="../search/EVChargingConnectorReference/hashCode.html">/sdk-for-flutter-explore-search-evchargingconnectorreference-hashcode</a>
 → int
 </dt>
 <dd>
@@ -94,7 +93,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-evchargingconnectorreference-runtimetype
+<a href="../search/EVChargingConnectorReference/runtimeType.html">/sdk-for-flutter-explore-search-evchargingconnectorreference-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -107,7 +106,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-evchargingconnectorreference-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/EVChargingConnectorReference/noSuchMethod.html">/sdk-for-flutter-explore-search-evchargingconnectorreference-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -116,7 +115,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-evchargingconnectorreference-tostring(<wbr/>)
+<a href="../search/EVChargingConnectorReference/toString.html">/sdk-for-flutter-explore-search-evchargingconnectorreference-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -130,7 +129,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-evchargingconnectorreference-operator-equals(<wbr/>Object other)
+<a href="../search/EVChargingConnectorReference/operator_equals.html">/sdk-for-flutter-explore-search-evchargingconnectorreference-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -149,8 +148,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVChargingConnectorReference class</li>
 </ol>
 <h5>search library</h5>
@@ -167,5 +166,4 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

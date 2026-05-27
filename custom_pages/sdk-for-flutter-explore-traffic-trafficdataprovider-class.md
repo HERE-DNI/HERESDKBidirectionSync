@@ -1,10 +1,9 @@
 ---
-title: "TrafficDataProvider class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-traffic-trafficdataprovider-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TrafficDataProvider-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +24,8 @@ slug: "sdk-for-flutter-explore-traffic-trafficdataprovider-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
 <li class="self-crumb">TrafficDataProvider class</li>
 </ol>
 <div class="self-name">TrafficDataProvider</div>
@@ -61,7 +60,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TrafficDataProvider">
-/sdk-for-flutter-explore-traffic-trafficdataprovider-trafficdataprovider()
+<a href="../traffic/TrafficDataProvider/TrafficDataProvider.html">/sdk-for-flutter-explore-traffic-trafficdataprovider-trafficdataprovider</a>()
 </dt>
 <dd>
 </dd>
@@ -71,7 +70,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-traffic-trafficdataprovider-hashcode
+<a href="../traffic/TrafficDataProvider/hashCode.html">/sdk-for-flutter-explore-traffic-trafficdataprovider-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -79,7 +78,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-traffic-trafficdataprovider-runtimetype
+<a href="../traffic/TrafficDataProvider/runtimeType.html">/sdk-for-flutter-explore-traffic-trafficdataprovider-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -92,7 +91,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-traffic-trafficdataprovider-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../traffic/TrafficDataProvider/noSuchMethod.html">/sdk-for-flutter-explore-traffic-trafficdataprovider-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -101,7 +100,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-traffic-trafficdataprovider-tostring(<wbr/>)
+<a href="../traffic/TrafficDataProvider/toString.html">/sdk-for-flutter-explore-traffic-trafficdataprovider-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -115,7 +114,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-traffic-trafficdataprovider-operator-equals(<wbr/>Object other)
+<a href="../traffic/TrafficDataProvider/operator_equals.html">/sdk-for-flutter-explore-traffic-trafficdataprovider-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -133,8 +132,8 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
 <li class="self-crumb">TrafficDataProvider class</li>
 </ol>
 <h5>traffic library</h5>
@@ -151,5 +150,4 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "additionalFeatures property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evsearchoptions-additionalfeatures"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- additionalFeatures.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evsearchoptions-additionalfeatures"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evsearchoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVSearchOptions-class.html">/sdk-for-flutter-explore-search-evsearchoptions-class</a></li>
 <li class="self-crumb">additionalFeatures property</li>
 </ol>
 <div class="self-name">additionalFeatures</div>
@@ -39,12 +38,12 @@ menu
 <h1>additionalFeatures property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-search-evcharginglocationfeature&gt;
+        List&lt;<wbr/><a href="../../search/EVChargingLocationFeature.html">/sdk-for-flutter-explore-search-evcharginglocationfeature</a>&gt;
 additionalFeatures
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>List of additional optional features to be returned in /sdk-for-flutter-explore-search-evcharginglocation-class.
+<p>List of additional optional features to be returned in <a href="../../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a>.
 If empty, only minimal set of the required features will be returned.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -59,9 +58,9 @@ If empty, only minimal set of the required features will be returned.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evsearchoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVSearchOptions-class.html">/sdk-for-flutter-explore-search-evsearchoptions-class</a></li>
 <li class="self-crumb">additionalFeatures property</li>
 </ol>
 <h5>EVSearchOptions class</h5>
@@ -78,5 +77,4 @@ If empty, only minimal set of the required features will be returned.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

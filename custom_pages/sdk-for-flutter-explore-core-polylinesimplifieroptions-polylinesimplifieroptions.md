@@ -1,10 +1,9 @@
 ---
-title: "PolylineSimplifierOptions constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-polylinesimplifieroptions-polylinesimplifieroptions"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PolylineSimplifierOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-polylinesimplifieroptions-polylinesimplifier
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-polylinesimplifieroptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/PolylineSimplifierOptions-class.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-class</a></li>
 <li class="self-crumb">PolylineSimplifierOptions constructor</li>
 </ol>
 <div class="self-name">PolylineSimplifierOptions</div>
@@ -41,8 +40,8 @@ menu
 PolylineSimplifierOptions(<wbr/>)
     </section>
 <section class="desc markdown">
-<p>Creates default options with /sdk-for-flutter-explore-core-polylinesimplifieroptions-maxpoints equal to 0 and
-/sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtoleranceinmeters equal to /sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationinmeters14zoomlevel.</p>
+<p>Creates default options with <a href="../../core/PolylineSimplifierOptions/maxPoints.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-maxpoints</a> equal to 0 and
+<a href="../../core/PolylineSimplifierOptions/simplificationToleranceInMeters.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtoleranceinmeters</a> equal to <a href="../../core/PolylineSimplifierOptions/simplificationInMeters14ZoomLevel.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationinmeters14zoomlevel</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -57,9 +56,9 @@ PolylineSimplifierOptions(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-polylinesimplifieroptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/PolylineSimplifierOptions-class.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-class</a></li>
 <li class="self-crumb">PolylineSimplifierOptions constructor</li>
 </ol>
 <h5>PolylineSimplifierOptions class</h5>
@@ -76,5 +75,4 @@ PolylineSimplifierOptions(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

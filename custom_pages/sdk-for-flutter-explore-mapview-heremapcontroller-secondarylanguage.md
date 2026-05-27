@@ -1,10 +1,9 @@
 ---
-title: "secondaryLanguage property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-heremapcontroller-secondarylanguage"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- secondaryLanguage.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-heremapcontroller-secondarylanguage"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-heremapcontroller-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/HereMapController-class.html">/sdk-for-flutter-explore-mapview-heremapcontroller-class</a></li>
 <li class="self-crumb">secondaryLanguage property</li>
 </ol>
 <div class="self-name">secondaryLanguage</div>
@@ -39,7 +38,7 @@ menu
 <h1>secondaryLanguage property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-languagecode?
+<a href="../../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>?
 secondaryLanguage
 </section>
 <section class="desc markdown">
@@ -54,7 +53,7 @@ Note: This feature is in beta state and thus there can be bugs and unexpected be
 <section id="setter">
 <section class="multi-line-signature">
 void
-secondaryLanguage=(<wbr/>/sdk-for-flutter-explore-core-languagecode? languageCode)
+secondaryLanguage=(<wbr/><a href="../../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>? languageCode)
 </section>
 <section class="desc markdown">
 <p>Sets the desired secondary map display language for all instances of
@@ -79,9 +78,9 @@ Note: This feature is in beta state and thus there can be bugs and unexpected be
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-heremapcontroller-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/HereMapController-class.html">/sdk-for-flutter-explore-mapview-heremapcontroller-class</a></li>
 <li class="self-crumb">secondaryLanguage property</li>
 </ol>
 <h5>HereMapController class</h5>
@@ -98,5 +97,4 @@ Note: This feature is in beta state and thus there can be bugs and unexpected be
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

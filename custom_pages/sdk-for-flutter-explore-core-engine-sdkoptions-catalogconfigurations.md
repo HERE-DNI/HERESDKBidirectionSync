@@ -1,10 +1,9 @@
 ---
-title: "catalogConfigurations property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-sdkoptions-catalogconfigurations"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- catalogConfigurations.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdkoptions-catalogconfigurations"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
 <li class="self-crumb">catalogConfigurations property</li>
 </ol>
 <div class="self-name">catalogConfigurations</div>
@@ -39,16 +38,16 @@ menu
 <h1>catalogConfigurations property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-core-engine-catalogconfiguration-class&gt;
+        List&lt;<wbr/><a href="../../core.engine/CatalogConfiguration-class.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</a>&gt;
 catalogConfigurations
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>This field specifies how the /sdk-for-flutter-explore-core-engine-sdknativeengine-class should access, use and store
+<p>This field specifies how the <a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a> should access, use and store
 data for different catalogs. You can access default catalogs on the HERE platform and
 also custom catalogs such as for self-hosted or BYOD (bring your own data) use cases.
 For further information about catalogs and related concepts see
-/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</p>
+<a href="../../core.engine/CatalogConfiguration-class.html">/sdk-for-flutter-explore-core-engine-catalogconfiguration-class</a></p>
 <p><strong>Note:</strong>
 This API is only available for the Navigate license. It has no affect on other license.</p>
 </section>
@@ -64,9 +63,9 @@ This API is only available for the Navigate license. It has no affect on other l
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
 <li class="self-crumb">catalogConfigurations property</li>
 </ol>
 <h5>SDKOptions class</h5>
@@ -83,5 +82,4 @@ This API is only available for the Navigate license. It has no affect on other l
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

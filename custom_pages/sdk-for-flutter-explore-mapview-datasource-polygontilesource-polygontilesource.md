@@ -1,10 +1,9 @@
 ---
-title: "PolygonTileSource constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-polygontilesource-polygontilesource"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PolygonTileSource.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-polygontilesource-polygontiles
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-polygontilesource-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/PolygonTileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-polygontilesource-class</a></li>
 <li class="self-crumb">PolygonTileSource factory constructor</li>
 </ol>
 <div class="self-name">PolygonTileSource</div>
@@ -38,16 +37,16 @@ menu
 <div>
 <h1>PolygonTileSource constructor</h1></div>
 <section class="multi-line-signature">
-PolygonTileSource(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class getDataVersionLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-tilekey-class</li>
+PolygonTileSource(<wbr/><ol class="parameter-list"> <li><a href="../../mapview.datasource/TileSourceDataVersion-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class</a> getDataVersionLambda(<ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a></li>
 </ol>), </li>
-<li>void addListenerLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-class</li>
+<li>void addListenerLambda(<ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/TileSourceListener-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-class</a></li>
 </ol>), </li>
-<li>void removeListenerLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-class</li>
+<li>void removeListenerLambda(<ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/TileSourceListener-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-class</a></li>
 </ol>), </li>
-<li>/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class? loadTileLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-tilekey-class, </li>
-<li>/sdk-for-flutter-explore-mapview-datasource-polygontilesourceloadresulthandler-class</li>
+<li><a href="../../mapview.datasource/TileSourceLoadTileRequestHandle-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class</a>? loadTileLambda(<ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a>, </li>
+<li><a href="../../mapview.datasource/PolygonTileSourceLoadResultHandler-class.html">/sdk-for-flutter-explore-mapview-datasource-polygontilesourceloadresulthandler-class</a></li>
 </ol>), </li>
-<li>/sdk-for-flutter-explore-mapview-datasource-tilingscheme tilingSchemeGetLambda(), </li>
+<li><a href="../../mapview.datasource/TilingScheme.html">/sdk-for-flutter-explore-mapview-datasource-tilingscheme</a> tilingSchemeGetLambda(), </li>
 <li>List&lt;<wbr/>int&gt; storageLevelsGetLambda(), </li>
 </ol>)
     </section>
@@ -84,9 +83,9 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-polygontilesource-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/PolygonTileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-polygontilesource-class</a></li>
 <li class="self-crumb">PolygonTileSource factory constructor</li>
 </ol>
 <h5>PolygonTileSource class</h5>
@@ -103,5 +102,4 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

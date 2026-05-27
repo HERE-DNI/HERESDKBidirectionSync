@@ -1,10 +1,9 @@
 ---
-title: "createFromString static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-jsonstylefactory-createfromstring"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- createFromString.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-jsonstylefactory-createfromstring"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-jsonstylefactory-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/JsonStyleFactory-class.html">/sdk-for-flutter-explore-mapview-jsonstylefactory-class</a></li>
 <li class="self-crumb">createFromString static method</li>
 </ol>
 <div class="self-name">createFromString</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>createFromString static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-style-class
+<a href="../../mapview/Style-class.html">/sdk-for-flutter-explore-mapview-style-class</a>
 createFromString(<wbr/><ol class="parameter-list single-line"> <li>String styleString</li>
 </ol>)
 
@@ -50,8 +49,8 @@ createFromString(<wbr/><ol class="parameter-list single-line"> <li>String styleS
 <ul>
 <li><code>styleString</code> JSON style string.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-style-class. Style instance.</p>
-<p>Throws /sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationexception-class. Indicates failure to create /sdk-for-flutter-explore-mapview-style-class from JSON string.</p>
+<p>Returns <a href="../../mapview/Style-class.html">/sdk-for-flutter-explore-mapview-style-class</a>. Style instance.</p>
+<p>Throws <a href="../../mapview/JsonStyleFactoryInstantiationException-class.html">/sdk-for-flutter-explore-mapview-jsonstylefactoryinstantiationexception-class</a>. Indicates failure to create <a href="../../mapview/Style-class.html">/sdk-for-flutter-explore-mapview-style-class</a> from JSON string.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -65,9 +64,9 @@ createFromString(<wbr/><ol class="parameter-list single-line"> <li>String styleS
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-jsonstylefactory-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/JsonStyleFactory-class.html">/sdk-for-flutter-explore-mapview-jsonstylefactory-class</a></li>
 <li class="self-crumb">createFromString static method</li>
 </ol>
 <h5>JsonStyleFactory class</h5>
@@ -84,5 +83,4 @@ createFromString(<wbr/><ol class="parameter-list single-line"> <li>String styleS
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

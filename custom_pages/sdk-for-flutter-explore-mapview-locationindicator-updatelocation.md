@@ -1,10 +1,9 @@
 ---
-title: "updateLocation abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-locationindicator-updatelocation"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- updateLocation.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-locationindicator-updatelocation"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-locationindicator-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/LocationIndicator-class.html">/sdk-for-flutter-explore-mapview-locationindicator-class</a></li>
 <li class="self-crumb">updateLocation abstract method</li>
 </ol>
 <div class="self-name">updateLocation</div>
@@ -39,7 +38,7 @@ menu
 <h1>updateLocation abstract method</h1></div>
 <section class="multi-line-signature">
 void
-updateLocation(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-location-class location</li>
+updateLocation(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/Location-class.html">/sdk-for-flutter-explore-core-location-class</a> location</li>
 </ol>)
 
       
@@ -47,7 +46,7 @@ updateLocation(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutte
     </section>
 <section class="desc markdown">
 <p>Updates the indicator to a new location.</p>
-<p>If accuracy visualized is set to <code>true</code> the field /sdk-for-flutter-explore-core-location-horizontalaccuracyinmeters
+<p>If accuracy visualized is set to <code>true</code> the field <a href="../../core/Location/horizontalAccuracyInMeters.html">/sdk-for-flutter-explore-core-location-horizontalaccuracyinmeters</a>
 determines the size of the accuracy indicator halo.</p>
 <p>The altitude of the location is ignored.</p>
 <ul>
@@ -66,9 +65,9 @@ determines the size of the accuracy indicator halo.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-locationindicator-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/LocationIndicator-class.html">/sdk-for-flutter-explore-mapview-locationindicator-class</a></li>
 <li class="self-crumb">updateLocation abstract method</li>
 </ol>
 <h5>LocationIndicator class</h5>
@@ -85,5 +84,4 @@ determines the size of the accuracy indicator halo.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

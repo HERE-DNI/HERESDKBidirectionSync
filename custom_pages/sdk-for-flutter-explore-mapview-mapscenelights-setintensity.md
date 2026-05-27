@@ -1,10 +1,9 @@
 ---
-title: "setIntensity abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapscenelights-setintensity"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- setIntensity.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscenelights-setintensity"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscenelights-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapSceneLights-class.html">/sdk-for-flutter-explore-mapview-mapscenelights-class</a></li>
 <li class="self-crumb">setIntensity abstract method</li>
 </ol>
 <div class="self-name">setIntensity</div>
@@ -39,9 +38,9 @@ menu
 <h1>setIntensity abstract method</h1></div>
 <section class="multi-line-signature">
 void
-setIntensity(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapscenelightscategory category, </li>
+setIntensity(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapSceneLightsCategory.html">/sdk-for-flutter-explore-mapview-mapscenelightscategory</a> category, </li>
 <li>double intensity, </li>
-<li>/sdk-for-flutter-explore-mapview-mapscenelightsattributesettingcallback? callback</li>
+<li><a href="../../mapview/MapSceneLightsAttributeSettingCallback.html">/sdk-for-flutter-explore-mapview-mapscenelightsattributesettingcallback</a>? callback</li>
 </ol>)
 
       
@@ -77,9 +76,9 @@ Note: When the intensity value is big,
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscenelights-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapSceneLights-class.html">/sdk-for-flutter-explore-mapview-mapscenelights-class</a></li>
 <li class="self-crumb">setIntensity abstract method</li>
 </ol>
 <h5>MapSceneLights class</h5>
@@ -96,5 +95,4 @@ Note: When the intensity value is big,
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

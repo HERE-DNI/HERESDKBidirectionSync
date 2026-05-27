@@ -1,10 +1,9 @@
 ---
-title: "setAttributes abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-setattributes"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- setAttributes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-setattribu
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/PolygonDataAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-class</a></li>
 <li class="self-crumb">setAttributes abstract method</li>
 </ol>
 <div class="self-name">setAttributes</div>
@@ -39,7 +38,7 @@ menu
 <h1>setAttributes abstract method</h1></div>
 <section class="multi-line-signature">
 void
-setAttributes(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-dataattributes-class attributes</li>
+setAttributes(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/DataAttributes-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributes-class</a> attributes</li>
 </ol>)
 
       
@@ -63,9 +62,9 @@ setAttributes(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/PolygonDataAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-class</a></li>
 <li class="self-crumb">setAttributes abstract method</li>
 </ol>
 <h5>PolygonDataAccessor class</h5>
@@ -82,5 +81,4 @@ setAttributes(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

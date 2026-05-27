@@ -1,10 +1,9 @@
 ---
-title: "parkingType property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evcharginglocation-parkingtype"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- parkingType.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evcharginglocation-parkingtype"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evcharginglocation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a></li>
 <li class="self-crumb">parkingType property</li>
 </ol>
 <div class="self-name">parkingType</div>
@@ -39,7 +38,7 @@ menu
 <h1>parkingType property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-search-parkingtype?
+<a href="../../search/ParkingType.html">/sdk-for-flutter-explore-search-parkingtype</a>?
 parkingType
 </section>
 <section class="desc markdown">
@@ -61,9 +60,9 @@ Gets the type of parking at the charging location.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evcharginglocation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a></li>
 <li class="self-crumb">parkingType property</li>
 </ol>
 <h5>EVChargingLocation class</h5>
@@ -80,5 +79,4 @@ Gets the type of parking at the charging location.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

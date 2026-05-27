@@ -1,10 +1,9 @@
 ---
-title: "TrafficIncidentsQueryOptions class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TrafficIncidentsQueryOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
 <li class="self-crumb">TrafficIncidentsQueryOptions class</li>
 </ol>
 <div class="self-name">TrafficIncidentsQueryOptions</div>
@@ -61,7 +60,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TrafficIncidentsQueryOptions">
-/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-trafficincidentsqueryoptions()
+<a href="../traffic/TrafficIncidentsQueryOptions/TrafficIncidentsQueryOptions.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-trafficincidentsqueryoptions</a>()
 </dt>
 <dd>
           Creates a new instance with default values.
@@ -72,7 +71,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="earliestStartTime">
-/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-earlieststarttime
+<a href="../traffic/TrafficIncidentsQueryOptions/earliestStartTime.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-earlieststarttime</a>
 ↔ DateTime?
 </dt>
 <dd>
@@ -81,7 +80,7 @@ If the value is null filtering by the earliest start time is not applied.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-hashcode
+<a href="../traffic/TrafficIncidentsQueryOptions/hashCode.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-hashcode</a>
 → int
 </dt>
 <dd>
@@ -89,26 +88,26 @@ If the value is null filtering by the earliest start time is not applied.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="impactFilter">
-/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-impactfilter
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-traffic-trafficincidentimpact&gt;
+<a href="../traffic/TrafficIncidentsQueryOptions/impactFilter.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-impactfilter</a>
+↔ List&lt;<wbr/><a href="../traffic/TrafficIncidentImpact.html">/sdk-for-flutter-explore-traffic-trafficincidentimpact</a>&gt;
 </dt>
 <dd>
   The list of incident impacts to be queried. If the list is empty, all incident impacts will be queried.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="languageCode">
-/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-languagecode
-↔ /sdk-for-flutter-explore-core-languagecode?
+<a href="../traffic/TrafficIncidentsQueryOptions/languageCode.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-languagecode</a>
+↔ <a href="../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>?
 </dt>
 <dd>
   The language code of the query.
-It's the expected language of fields /sdk-for-flutter-explore-traffic-trafficincidentbase-description and /sdk-for-flutter-explore-traffic-trafficincident-summary in the relevant response.
-However, the language code doesn't impact on /sdk-for-flutter-explore-traffic-trafficlocation-description.
+It's the expected language of fields <a href="../traffic/TrafficIncidentBase/description.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-description</a> and <a href="../traffic/TrafficIncident/summary.html">/sdk-for-flutter-explore-traffic-trafficincident-summary</a> in the relevant response.
+However, the language code doesn't impact on <a href="../traffic/TrafficLocation/description.html">/sdk-for-flutter-explore-traffic-trafficlocation-description</a>.
 If the language code is null or not supported then response fields are expected in the original language of the country that the incident belongs to.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="latestEndTime">
-/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-latestendtime
+<a href="../traffic/TrafficIncidentsQueryOptions/latestEndTime.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-latestendtime</a>
 ↔ DateTime?
 </dt>
 <dd>
@@ -117,7 +116,7 @@ If the value is null filtering by the latest end time is not applied.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-runtimetype
+<a href="../traffic/TrafficIncidentsQueryOptions/runtimeType.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -125,8 +124,8 @@ If the value is null filtering by the latest end time is not applied.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="typeFilter">
-/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-typefilter
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-traffic-trafficincidenttype&gt;
+<a href="../traffic/TrafficIncidentsQueryOptions/typeFilter.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-typefilter</a>
+↔ List&lt;<wbr/><a href="../traffic/TrafficIncidentType.html">/sdk-for-flutter-explore-traffic-trafficincidenttype</a>&gt;
 </dt>
 <dd>
   The list of incident types to be queried. If the list is empty, all types will be queried.
@@ -138,7 +137,7 @@ If the value is null filtering by the latest end time is not applied.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../traffic/TrafficIncidentsQueryOptions/noSuchMethod.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -147,7 +146,7 @@ If the value is null filtering by the latest end time is not applied.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-tostring(<wbr/>)
+<a href="../traffic/TrafficIncidentsQueryOptions/toString.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -161,7 +160,7 @@ If the value is null filtering by the latest end time is not applied.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-operator-equals(<wbr/>Object other)
+<a href="../traffic/TrafficIncidentsQueryOptions/operator_equals.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -180,8 +179,8 @@ If the value is null filtering by the latest end time is not applied.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
 <li class="self-crumb">TrafficIncidentsQueryOptions class</li>
 </ol>
 <h5>traffic library</h5>
@@ -198,5 +197,4 @@ If the value is null filtering by the latest end time is not applied.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

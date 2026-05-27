@@ -1,10 +1,9 @@
 ---
-title: "consumptionModel property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-evtruckoptions-consumptionmodel"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- consumptionModel.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-evtruckoptions-consumptionmodel"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-evtruckoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/EVTruckOptions-class.html">/sdk-for-flutter-explore-routing-evtruckoptions-class</a></li>
 <li class="self-crumb">consumptionModel property</li>
 </ol>
 <div class="self-name">consumptionModel</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>consumptionModel property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-routing-evconsumptionmodel-class
+<a href="../../routing/EVConsumptionModel-class.html">/sdk-for-flutter-explore-routing-evconsumptionmodel-class</a>
 consumptionModel
 <div class="features">getter/setter pair</div>
 </section>
@@ -58,9 +57,9 @@ for the vehicle on a given route.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-evtruckoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/EVTruckOptions-class.html">/sdk-for-flutter-explore-routing-evtruckoptions-class</a></li>
 <li class="self-crumb">consumptionModel property</li>
 </ol>
 <h5>EVTruckOptions class</h5>
@@ -77,5 +76,4 @@ for the vehicle on a given route.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "DateRange class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-daterange-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- DateRange-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-search-daterange-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">DateRange class</li>
 </ol>
 <div class="self-name">DateRange</div>
@@ -63,7 +62,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="DateRange">
-/sdk-for-flutter-explore-search-daterange-daterange()
+<a href="../search/DateRange/DateRange.html">/sdk-for-flutter-explore-search-daterange-daterange</a>()
 </dt>
 <dd>
 </dd>
@@ -73,7 +72,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="from">
-/sdk-for-flutter-explore-search-daterange-from
+<a href="../search/DateRange/from.html">/sdk-for-flutter-explore-search-daterange-from</a>
 ↔ DateTime?
 </dt>
 <dd>
@@ -82,7 +81,7 @@ If absent the element becomes valid as soon as other conditions allow.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-daterange-hashcode
+<a href="../search/DateRange/hashCode.html">/sdk-for-flutter-explore-search-daterange-hashcode</a>
 → int
 </dt>
 <dd>
@@ -90,7 +89,7 @@ If absent the element becomes valid as soon as other conditions allow.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-daterange-runtimetype
+<a href="../search/DateRange/runtimeType.html">/sdk-for-flutter-explore-search-daterange-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -98,11 +97,11 @@ If absent the element becomes valid as soon as other conditions allow.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="to">
-/sdk-for-flutter-explore-search-daterange-to
+<a href="../search/DateRange/to.html">/sdk-for-flutter-explore-search-daterange-to</a>
 ↔ DateTime?
 </dt>
 <dd>
-  First date when the element is no longer valid, exclusive and later than /sdk-for-flutter-explore-search-daterange-from.
+  First date when the element is no longer valid, exclusive and later than <a href="../search/DateRange/from.html">/sdk-for-flutter-explore-search-daterange-from</a>.
 If absent the element is valid until some other element takes over.
   <div class="features">getter/setter pair</div>
 </dd>
@@ -112,7 +111,7 @@ If absent the element is valid until some other element takes over.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-daterange-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/DateRange/noSuchMethod.html">/sdk-for-flutter-explore-search-daterange-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -121,7 +120,7 @@ If absent the element is valid until some other element takes over.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-daterange-tostring(<wbr/>)
+<a href="../search/DateRange/toString.html">/sdk-for-flutter-explore-search-daterange-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -135,7 +134,7 @@ If absent the element is valid until some other element takes over.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-daterange-operator-equals(<wbr/>Object other)
+<a href="../search/DateRange/operator_equals.html">/sdk-for-flutter-explore-search-daterange-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -154,8 +153,8 @@ If absent the element is valid until some other element takes over.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">DateRange class</li>
 </ol>
 <h5>search library</h5>
@@ -172,5 +171,4 @@ If absent the element is valid until some other element takes over.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

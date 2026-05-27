@@ -1,10 +1,9 @@
 ---
-title: "MapPolylineDashImageRepresentation class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapPolylineDashImageRepresentation-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapPolylineDashImageRepresentation class</li>
 </ol>
 <div class="self-name">MapPolylineDashImageRepresentation</div>
@@ -61,7 +60,7 @@ from each other.</p>
 points along the polyline. For rendering them without any distortions, polyline gets sliced into
 series of straight segments that are multiple of sum of dash and gap lengths. For this
 reason, the new polyline geometry might not align fully with original geometry.</p>
-<p>The /sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-dashimage is stretched according to <code>MapPolylineDashImageRepresentation.dashLength</code>
+<p>The <a href="../mapview/MapPolylineDashImageRepresentation/dashImage.html">/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-dashimage</a> is stretched according to <code>MapPolylineDashImageRepresentation.dashLength</code>
 and <code>MapPolylineDashImageRepresentation.dashWidth</code>, with image's width matched to <code>dashLength</code> and
 image's height matched to <code>dashWidth</code>. The image is oriented so that its bottom is on the
 left-hand side between vertices <code>n</code> and <code>n+1</code>.</p>
@@ -74,7 +73,7 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <dt>Implemented types</dt>
 <dd>
 <ul class="comma-separated clazz-relationships">
-<li>/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</li>
+<li><a href="../mapview/MapPolylineRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</a></li>
 </ul>
 </dd>
 </dl>
@@ -83,14 +82,14 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapPolylineDashImageRepresentation">
-/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-mappolylinedashimagerepresentation(/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class dashLength, /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class gapLength, /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class dashWidth, /sdk-for-flutter-explore-mapview-mapimage-class image)
+<a href="../mapview/MapPolylineDashImageRepresentation/MapPolylineDashImageRepresentation.html">/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-mappolylinedashimagerepresentation</a>(<a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> dashLength, <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> gapLength, <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> dashWidth, <a href="../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a> image)
 </dt>
 <dd>
           Creates a simple dash pattern in which the lengths of a dash and gap can be different.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="MapPolylineDashImageRepresentation.uniform">
-/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-mappolylinedashimagerepresentation-uniform(/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class dashLength, /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class dashWidth, /sdk-for-flutter-explore-mapview-mapimage-class image)
+<a href="../mapview/MapPolylineDashImageRepresentation/MapPolylineDashImageRepresentation.uniform.html">/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-mappolylinedashimagerepresentation-uniform</a>(<a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> dashLength, <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> dashWidth, <a href="../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a> image)
 </dt>
 <dd>
           Creates a uniform dash pattern in which the length of a gap is the same as the length of
@@ -103,8 +102,8 @@ a dash.
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="dashImage">
-/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-dashimage
-→ /sdk-for-flutter-explore-mapview-mapimage-class
+<a href="../mapview/MapPolylineDashImageRepresentation/dashImage.html">/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-dashimage</a>
+→ <a href="../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a>
 </dt>
 <dd>
   Image to be rendered in place of dash space.
@@ -113,8 +112,8 @@ Gets the image that is rendered in place of dash space.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="dashLength">
-/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-dashlength
-→ /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class
+<a href="../mapview/MapPolylineDashImageRepresentation/dashLength.html">/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-dashlength</a>
+→ <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a>
 </dt>
 <dd>
   The map measure dependent length of a dash, to which image width is stretched.
@@ -122,8 +121,8 @@ Gets the map measure dependent length of a dash, to which image width is stretch
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="dashWidth">
-/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-dashwidth
-→ /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class
+<a href="../mapview/MapPolylineDashImageRepresentation/dashWidth.html">/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-dashwidth</a>
+→ <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a>
 </dt>
 <dd>
   The map measure dependent width of a dash, to which image height is stretched.
@@ -131,8 +130,8 @@ Gets the map measure dependent width of a dash, to which image height is stretch
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="gapLength">
-/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-gaplength
-→ /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class
+<a href="../mapview/MapPolylineDashImageRepresentation/gapLength.html">/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-gaplength</a>
+→ <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a>
 </dt>
 <dd>
   The map measure dependent length of a gap between dash images.
@@ -140,7 +139,7 @@ Gets the map measure dependent length of a gap between dash images.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-hashcode
+<a href="../mapview/MapItemRepresentation/hashCode.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -148,7 +147,7 @@ Gets the map measure dependent length of a gap between dash images.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-runtimetype
+<a href="../mapview/MapItemRepresentation/runtimeType.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -161,7 +160,7 @@ Gets the map measure dependent length of a gap between dash images.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapItemRepresentation/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -170,7 +169,7 @@ Gets the map measure dependent length of a gap between dash images.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-tostring(<wbr/>)
+<a href="../mapview/MapItemRepresentation/toString.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -184,7 +183,7 @@ Gets the map measure dependent length of a gap between dash images.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapItemRepresentation/operator_equals.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -202,8 +201,8 @@ Gets the map measure dependent length of a gap between dash images.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapPolylineDashImageRepresentation class</li>
 </ol>
 <h5>mapview library</h5>
@@ -220,5 +219,4 @@ Gets the map measure dependent length of a gap between dash images.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

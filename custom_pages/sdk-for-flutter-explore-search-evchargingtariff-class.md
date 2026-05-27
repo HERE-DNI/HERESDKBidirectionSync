@@ -1,10 +1,9 @@
 ---
-title: "EVChargingTariff class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-evchargingtariff-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVChargingTariff-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -31,8 +30,8 @@ slug: "sdk-for-flutter-explore-search-evchargingtariff-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVChargingTariff class</li>
 </ol>
 <div class="self-name">EVChargingTariff</div>
@@ -68,7 +67,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVChargingTariff">
-/sdk-for-flutter-explore-search-evchargingtariff-evchargingtariff()
+<a href="../search/EVChargingTariff/EVChargingTariff.html">/sdk-for-flutter-explore-search-evchargingtariff-evchargingtariff</a>()
 </dt>
 <dd>
 </dd>
@@ -78,7 +77,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="currency">
-/sdk-for-flutter-explore-search-evchargingtariff-currency
+<a href="../search/EVChargingTariff/currency.html">/sdk-for-flutter-explore-search-evchargingtariff-currency</a>
 ↔ String
 </dt>
 <dd>
@@ -87,8 +86,8 @@ code (e.g., EUR, DKK).
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="elements">
-/sdk-for-flutter-explore-search-evchargingtariff-elements
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-evchargingtariffelement-class&gt;
+<a href="../search/EVChargingTariff/elements.html">/sdk-for-flutter-explore-search-evchargingtariff-elements</a>
+↔ List&lt;<wbr/><a href="../search/EVChargingTariffElement-class.html">/sdk-for-flutter-explore-search-evchargingtariffelement-class</a>&gt;
 </dt>
 <dd>
   Elements composing the tariff. Each element can have multiple components. When multiple elements
@@ -97,7 +96,7 @@ charging session. If no condition matches, the element without any condition app
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-evchargingtariff-hashcode
+<a href="../search/EVChargingTariff/hashCode.html">/sdk-for-flutter-explore-search-evchargingtariff-hashcode</a>
 → int
 </dt>
 <dd>
@@ -105,7 +104,7 @@ charging session. If no condition matches, the element without any condition app
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="name">
-/sdk-for-flutter-explore-search-evchargingtariff-name
+<a href="../search/EVChargingTariff/name.html">/sdk-for-flutter-explore-search-evchargingtariff-name</a>
 ↔ String?
 </dt>
 <dd>
@@ -113,7 +112,7 @@ charging session. If no condition matches, the element without any condition app
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="partner">
-/sdk-for-flutter-explore-search-evchargingtariff-partner
+<a href="../search/EVChargingTariff/partner.html">/sdk-for-flutter-explore-search-evchargingtariff-partner</a>
 ↔ String
 </dt>
 <dd>
@@ -121,7 +120,7 @@ charging session. If no condition matches, the element without any condition app
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="partnerID">
-/sdk-for-flutter-explore-search-evchargingtariff-partnerid
+<a href="../search/EVChargingTariff/partnerID.html">/sdk-for-flutter-explore-search-evchargingtariff-partnerid</a>
 ↔ String
 </dt>
 <dd>
@@ -130,7 +129,7 @@ The same id is used also in other parts of the API and other related HERE APIs.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-evchargingtariff-runtimetype
+<a href="../search/EVChargingTariff/runtimeType.html">/sdk-for-flutter-explore-search-evchargingtariff-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -138,8 +137,8 @@ The same id is used also in other parts of the API and other related HERE APIs.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="type">
-/sdk-for-flutter-explore-search-evchargingtariff-type
-↔ /sdk-for-flutter-explore-search-evchargingtarifftype
+<a href="../search/EVChargingTariff/type.html">/sdk-for-flutter-explore-search-evchargingtariff-type</a>
+↔ <a href="../search/EVChargingTariffType.html">/sdk-for-flutter-explore-search-evchargingtarifftype</a>
 </dt>
 <dd>
   Indicates the pricing model.
@@ -151,7 +150,7 @@ The same id is used also in other parts of the API and other related HERE APIs.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-evchargingtariff-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/EVChargingTariff/noSuchMethod.html">/sdk-for-flutter-explore-search-evchargingtariff-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -160,7 +159,7 @@ The same id is used also in other parts of the API and other related HERE APIs.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-evchargingtariff-tostring(<wbr/>)
+<a href="../search/EVChargingTariff/toString.html">/sdk-for-flutter-explore-search-evchargingtariff-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -174,7 +173,7 @@ The same id is used also in other parts of the API and other related HERE APIs.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-evchargingtariff-operator-equals(<wbr/>Object other)
+<a href="../search/EVChargingTariff/operator_equals.html">/sdk-for-flutter-explore-search-evchargingtariff-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -193,8 +192,8 @@ The same id is used also in other parts of the API and other related HERE APIs.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVChargingTariff class</li>
 </ol>
 <h5>search library</h5>
@@ -211,5 +210,4 @@ The same id is used also in other parts of the API and other related HERE APIs.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

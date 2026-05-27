@@ -1,10 +1,9 @@
 ---
-title: "PanListener constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-gestures-panlistener-panlistener"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PanListener.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-gestures-panlistener-panlistener"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-panlistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/PanListener-class.html">/sdk-for-flutter-explore-gestures-panlistener-class</a></li>
 <li class="self-crumb">PanListener factory constructor</li>
 </ol>
 <div class="self-name">PanListener</div>
@@ -38,9 +37,9 @@ menu
 <div>
 <h1>PanListener constructor</h1></div>
 <section class="multi-line-signature">
-PanListener(<wbr/><ol class="parameter-list single-line"> <li>void onPanLambda(<ol class="parameter-list"> <li>/sdk-for-flutter-explore-gestures-gesturestate, </li>
-<li>/sdk-for-flutter-explore-core-point2d-class, </li>
-<li>/sdk-for-flutter-explore-core-point2d-class, </li>
+PanListener(<wbr/><ol class="parameter-list single-line"> <li>void onPanLambda(<ol class="parameter-list"> <li><a href="../../gestures/GestureState.html">/sdk-for-flutter-explore-gestures-gesturestate</a>, </li>
+<li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>, </li>
+<li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>, </li>
 <li>double, </li>
 </ol>)</li>
 </ol>)
@@ -67,9 +66,9 @@ PanListener(<wbr/><ol class="parameter-list single-line"> <li>void onPanLambda(<
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-panlistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/PanListener-class.html">/sdk-for-flutter-explore-gestures-panlistener-class</a></li>
 <li class="self-crumb">PanListener factory constructor</li>
 </ol>
 <h5>PanListener class</h5>
@@ -86,5 +85,4 @@ PanListener(<wbr/><ol class="parameter-list single-line"> <li>void onPanLambda(<
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -3,8 +3,7 @@ title: "MapItemRepresentation constructor"
 slug: "sdk-for-flutter-explore-mapview-mapitemrepresentation-mapitemrepresentation"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapItemRepresentation.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapitemrepresentation-mapitemrepresentati
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapitemrepresentation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapItemRepresentation-class.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-class</a></li>
 <li class="self-crumb">MapItemRepresentation constructor</li>
 </ol>
 <div class="self-name">MapItemRepresentation</div>
@@ -48,9 +47,9 @@ MapItemRepresentation(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapitemrepresentation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapItemRepresentation-class.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-class</a></li>
 <li class="self-crumb">MapItemRepresentation constructor</li>
 </ol>
 <h5>MapItemRepresentation class</h5>
@@ -67,5 +66,4 @@ MapItemRepresentation(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

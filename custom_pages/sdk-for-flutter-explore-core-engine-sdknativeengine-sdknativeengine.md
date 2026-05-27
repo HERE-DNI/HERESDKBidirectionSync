@@ -1,10 +1,9 @@
 ---
-title: "SDKNativeEngine constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-sdknativeengine"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- SDKNativeEngine.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-sdknativeengine"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
 <li class="self-crumb">SDKNativeEngine factory constructor</li>
 </ol>
 <div class="self-name">SDKNativeEngine</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>SDKNativeEngine constructor</h1></div>
 <section class="multi-line-signature">
-SDKNativeEngine(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-engine-sdkoptions-class options</li>
+SDKNativeEngine(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a> options</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -46,7 +45,7 @@ SDKNativeEngine(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutt
 <ul>
 <li><code>options</code> The options for the new engine.</li>
 </ul>
-<p>Throws /sdk-for-flutter-explore-core-errors-instantiationexception-class. Indicates what went wrong when the instantiation was attempted.</p>
+<p>Throws <a href="../../core.errors/InstantiationException-class.html">/sdk-for-flutter-explore-core-errors-instantiationexception-class</a>. Indicates what went wrong when the instantiation was attempted.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -60,9 +59,9 @@ SDKNativeEngine(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutt
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
 <li class="self-crumb">SDKNativeEngine factory constructor</li>
 </ol>
 <h5>SDKNativeEngine class</h5>
@@ -79,5 +78,4 @@ SDKNativeEngine(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutt
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

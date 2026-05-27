@@ -1,10 +1,9 @@
 ---
-title: "build abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-build"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- build.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-build
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/PolygonDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</a></li>
 <li class="self-crumb">build abstract method</li>
 </ol>
 <div class="self-name">build</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>build abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-datasource-polygondatasource-class
+<a href="../../mapview.datasource/PolygonDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasource-class</a>
 build(<wbr/>)
 
       
@@ -46,7 +45,7 @@ build(<wbr/>)
     </section>
 <section class="desc markdown">
 <p>Builds a PolygonDataSource instance.</p>
-<p>Returns /sdk-for-flutter-explore-mapview-datasource-polygondatasource-class. Instance of the data source created with given polygons and attributes.</p>
+<p>Returns <a href="../../mapview.datasource/PolygonDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasource-class</a>. Instance of the data source created with given polygons and attributes.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -60,9 +59,9 @@ build(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/PolygonDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</a></li>
 <li class="self-crumb">build abstract method</li>
 </ol>
 <h5>PolygonDataSourceBuilder class</h5>
@@ -79,5 +78,4 @@ build(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

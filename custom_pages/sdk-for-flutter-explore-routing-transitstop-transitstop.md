@@ -1,10 +1,9 @@
 ---
-title: "TransitStop constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-transitstop-transitstop"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TransitStop.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-transitstop-transitstop"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-transitstop-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TransitStop-class.html">/sdk-for-flutter-explore-routing-transitstop-class</a></li>
 <li class="self-crumb">TransitStop constructor</li>
 </ol>
 <div class="self-name">TransitStop</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>TransitStop constructor</h1></div>
 <section class="multi-line-signature">
-TransitStop(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-routing-transitdeparture-class departure</li>
+TransitStop(<wbr/><ol class="parameter-list single-line"> <li><a href="../../routing/TransitDeparture-class.html">/sdk-for-flutter-explore-routing-transitdeparture-class</a> departure</li>
 </ol>)
     </section>
 <section class="summary source-code" id="source">
@@ -54,9 +53,9 @@ TransitStop(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-e
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-transitstop-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TransitStop-class.html">/sdk-for-flutter-explore-routing-transitstop-class</a></li>
 <li class="self-crumb">TransitStop constructor</li>
 </ol>
 <h5>TransitStop class</h5>
@@ -73,5 +72,4 @@ TransitStop(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-e
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

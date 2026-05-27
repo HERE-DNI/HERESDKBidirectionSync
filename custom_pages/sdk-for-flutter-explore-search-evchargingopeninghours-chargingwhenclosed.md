@@ -1,10 +1,9 @@
 ---
-title: "chargingWhenClosed property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evchargingopeninghours-chargingwhenclosed"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- chargingWhenClosed.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evchargingopeninghours-chargingwhenclosed"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingopeninghours-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingOpeningHours-class.html">/sdk-for-flutter-explore-search-evchargingopeninghours-class</a></li>
 <li class="self-crumb">chargingWhenClosed property</li>
 </ol>
 <div class="self-name">chargingWhenClosed</div>
@@ -59,9 +58,9 @@ charging outside opening hours.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingopeninghours-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingOpeningHours-class.html">/sdk-for-flutter-explore-search-evchargingopeninghours-class</a></li>
 <li class="self-crumb">chargingWhenClosed property</li>
 </ol>
 <h5>EVChargingOpeningHours class</h5>
@@ -78,5 +77,4 @@ charging outside opening hours.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "LogControlInvalidPathExceptionException class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- LogControlInvalidPathExceptionException-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexcepti
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
 <li class="self-crumb">LogControlInvalidPathExceptionException class</li>
 </ol>
 <div class="self-name">LogControlInvalidPathExceptionException</div>
@@ -57,7 +56,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="LogControlInvalidPathExceptionException">
-/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-logcontrolinvalidpathexceptionexception(String error)
+<a href="../core.engine/LogControlInvalidPathExceptionException/LogControlInvalidPathExceptionException.html">/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-logcontrolinvalidpathexceptionexception</a>(String error)
 </dt>
 <dd>
 </dd>
@@ -67,14 +66,14 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="error">
-/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-error
+<a href="../core.engine/LogControlInvalidPathExceptionException/error.html">/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-error</a>
 → String
 </dt>
 <dd>
 <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-hashcode
+<a href="../core.engine/LogControlInvalidPathExceptionException/hashCode.html">/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -82,7 +81,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-runtimetype
+<a href="../core.engine/LogControlInvalidPathExceptionException/runtimeType.html">/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -95,7 +94,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core.engine/LogControlInvalidPathExceptionException/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -104,7 +103,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-tostring(<wbr/>)
+<a href="../core.engine/LogControlInvalidPathExceptionException/toString.html">/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -118,7 +117,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-operator-equals(<wbr/>Object other)
+<a href="../core.engine/LogControlInvalidPathExceptionException/operator_equals.html">/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -136,8 +135,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
 <li class="self-crumb">LogControlInvalidPathExceptionException class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -154,5 +153,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

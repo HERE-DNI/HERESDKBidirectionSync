@@ -1,10 +1,9 @@
 ---
-title: "EVChargingTruckRestriction class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-evchargingtruckrestriction-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVChargingTruckRestriction-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-search-evchargingtruckrestriction-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVChargingTruckRestriction class</li>
 </ol>
 <div class="self-name">EVChargingTruckRestriction</div>
@@ -60,7 +59,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVChargingTruckRestriction">
-/sdk-for-flutter-explore-search-evchargingtruckrestriction-evchargingtruckrestriction()
+<a href="../search/EVChargingTruckRestriction/EVChargingTruckRestriction.html">/sdk-for-flutter-explore-search-evchargingtruckrestriction-evchargingtruckrestriction</a>()
 </dt>
 <dd>
 </dd>
@@ -70,7 +69,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-evchargingtruckrestriction-hashcode
+<a href="../search/EVChargingTruckRestriction/hashCode.html">/sdk-for-flutter-explore-search-evchargingtruckrestriction-hashcode</a>
 → int
 </dt>
 <dd>
@@ -78,7 +77,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="hazardousGoodsRestricted">
-/sdk-for-flutter-explore-search-evchargingtruckrestriction-hazardousgoodsrestricted
+<a href="../search/EVChargingTruckRestriction/hazardousGoodsRestricted.html">/sdk-for-flutter-explore-search-evchargingtruckrestriction-hazardousgoodsrestricted</a>
 ↔ bool?
 </dt>
 <dd>
@@ -86,7 +85,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-evchargingtruckrestriction-runtimetype
+<a href="../search/EVChargingTruckRestriction/runtimeType.html">/sdk-for-flutter-explore-search-evchargingtruckrestriction-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -94,8 +93,8 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="truckAccess">
-/sdk-for-flutter-explore-search-evchargingtruckrestriction-truckaccess
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-transport-truckclass&gt;
+<a href="../search/EVChargingTruckRestriction/truckAccess.html">/sdk-for-flutter-explore-search-evchargingtruckrestriction-truckaccess</a>
+↔ List&lt;<wbr/><a href="../transport/TruckClass.html">/sdk-for-flutter-explore-transport-truckclass</a>&gt;
 </dt>
 <dd>
   Access categories for trucks and light commercial vehicles that the
@@ -108,7 +107,7 @@ EV charging location is designed to serve.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-evchargingtruckrestriction-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/EVChargingTruckRestriction/noSuchMethod.html">/sdk-for-flutter-explore-search-evchargingtruckrestriction-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -117,7 +116,7 @@ EV charging location is designed to serve.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-evchargingtruckrestriction-tostring(<wbr/>)
+<a href="../search/EVChargingTruckRestriction/toString.html">/sdk-for-flutter-explore-search-evchargingtruckrestriction-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -131,7 +130,7 @@ EV charging location is designed to serve.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-evchargingtruckrestriction-operator-equals(<wbr/>Object other)
+<a href="../search/EVChargingTruckRestriction/operator_equals.html">/sdk-for-flutter-explore-search-evchargingtruckrestriction-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -150,8 +149,8 @@ EV charging location is designed to serve.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVChargingTruckRestriction class</li>
 </ol>
 <h5>search library</h5>
@@ -168,5 +167,4 @@ EV charging location is designed to serve.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

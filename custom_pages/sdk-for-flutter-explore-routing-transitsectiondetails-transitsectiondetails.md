@@ -1,10 +1,9 @@
 ---
-title: "TransitSectionDetails constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-transitsectiondetails-transitsectiondetails"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TransitSectionDetails.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-transitsectiondetails-transitsectiondetai
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-transitsectiondetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TransitSectionDetails-class.html">/sdk-for-flutter-explore-routing-transitsectiondetails-class</a></li>
 <li class="self-crumb">TransitSectionDetails constructor</li>
 </ol>
 <div class="self-name">TransitSectionDetails</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>TransitSectionDetails constructor</h1></div>
 <section class="multi-line-signature">
-TransitSectionDetails(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-routing-agency-class agency</li>
+TransitSectionDetails(<wbr/><ol class="parameter-list single-line"> <li><a href="../../routing/Agency-class.html">/sdk-for-flutter-explore-routing-agency-class</a> agency</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -60,9 +59,9 @@ TransitSectionDetails(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-transitsectiondetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TransitSectionDetails-class.html">/sdk-for-flutter-explore-routing-transitsectiondetails-class</a></li>
 <li class="self-crumb">TransitSectionDetails constructor</li>
 </ol>
 <h5>TransitSectionDetails class</h5>
@@ -79,5 +78,4 @@ TransitSectionDetails(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

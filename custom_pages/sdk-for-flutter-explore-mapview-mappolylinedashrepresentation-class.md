@@ -1,10 +1,9 @@
 ---
-title: "MapPolylineDashRepresentation class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapPolylineDashRepresentation-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -31,8 +30,8 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapPolylineDashRepresentation class</li>
 </ol>
 <div class="self-name">MapPolylineDashRepresentation</div>
@@ -66,7 +65,7 @@ like <code>'  —  —  —  —'</code> (dash length = gap length) or <code>' �
 <dt>Implemented types</dt>
 <dd>
 <ul class="comma-separated clazz-relationships">
-<li>/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</li>
+<li><a href="../mapview/MapPolylineRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</a></li>
 </ul>
 </dd>
 </dl>
@@ -75,14 +74,14 @@ like <code>'  —  —  —  —'</code> (dash length = gap length) or <code>' �
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapPolylineDashRepresentation">
-/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-mappolylinedashrepresentation(/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class lineWidth, /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class dashLength, /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class gapLength, Color dashColor)
+<a href="../mapview/MapPolylineDashRepresentation/MapPolylineDashRepresentation.html">/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-mappolylinedashrepresentation</a>(<a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> lineWidth, <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> dashLength, <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> gapLength, Color dashColor)
 </dt>
 <dd>
           Creates a representation for a dashed line.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="MapPolylineDashRepresentation.withGapColor">
-/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-mappolylinedashrepresentation-withgapcolor(/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class lineWidth, /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class dashLength, /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class gapLength, Color dashColor, Color gapColor)
+<a href="../mapview/MapPolylineDashRepresentation/MapPolylineDashRepresentation.withGapColor.html">/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-mappolylinedashrepresentation-withgapcolor</a>(<a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> lineWidth, <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> dashLength, <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> gapLength, Color dashColor, Color gapColor)
 </dt>
 <dd>
           Creates a representation for a dashed line with both dash and the gap being colored.
@@ -94,7 +93,7 @@ like <code>'  —  —  —  —'</code> (dash length = gap length) or <code>' �
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="dashColor">
-/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-dashcolor
+<a href="../mapview/MapPolylineDashRepresentation/dashColor.html">/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-dashcolor</a>
 → Color
 </dt>
 <dd>
@@ -103,8 +102,8 @@ Gets the color of the dashes of the polyline.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="dashLength">
-/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-dashlength
-→ /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class
+<a href="../mapview/MapPolylineDashRepresentation/dashLength.html">/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-dashlength</a>
+→ <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a>
 </dt>
 <dd>
   The dash length of the polyline depending on the map measure.
@@ -114,7 +113,7 @@ map measure in the <code>dashLength</code>.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="gapColor">
-/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-gapcolor
+<a href="../mapview/MapPolylineDashRepresentation/gapColor.html">/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-gapcolor</a>
 → Color?
 </dt>
 <dd>
@@ -125,8 +124,8 @@ color is used.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="gapLength">
-/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-gaplength
-→ /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class
+<a href="../mapview/MapPolylineDashRepresentation/gapLength.html">/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-gaplength</a>
+→ <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a>
 </dt>
 <dd>
   The gap length of the polyline depending on the map measure.
@@ -136,7 +135,7 @@ map measure in the <code>gapLength</code>.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-hashcode
+<a href="../mapview/MapItemRepresentation/hashCode.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -144,8 +143,8 @@ map measure in the <code>gapLength</code>.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="lineWidth">
-/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-linewidth
-→ /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class
+<a href="../mapview/MapPolylineDashRepresentation/lineWidth.html">/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-linewidth</a>
+→ <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a>
 </dt>
 <dd>
   The width of the polyline depending on the map measure.
@@ -155,7 +154,7 @@ map measure in the <code>lineWidth</code>.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-runtimetype
+<a href="../mapview/MapItemRepresentation/runtimeType.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -168,7 +167,7 @@ map measure in the <code>lineWidth</code>.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapItemRepresentation/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -177,7 +176,7 @@ map measure in the <code>lineWidth</code>.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-tostring(<wbr/>)
+<a href="../mapview/MapItemRepresentation/toString.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -191,7 +190,7 @@ map measure in the <code>lineWidth</code>.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapItemRepresentation/operator_equals.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -209,8 +208,8 @@ map measure in the <code>lineWidth</code>.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapPolylineDashRepresentation class</li>
 </ol>
 <h5>mapview library</h5>
@@ -227,5 +226,4 @@ map measure in the <code>lineWidth</code>.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

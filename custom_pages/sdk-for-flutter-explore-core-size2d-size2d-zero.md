@@ -1,10 +1,9 @@
 ---
-title: "Size2D.zero constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-size2d-size2d-zero"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Size2D.zero.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-size2d-size2d-zero"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-size2d-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/Size2D-class.html">/sdk-for-flutter-explore-core-size2d-class</a></li>
 <li class="self-crumb">Size2D.zero constructor</li>
 </ol>
 <div class="self-name">Size2D.zero</div>
@@ -56,9 +55,9 @@ Size2D.zero(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-size2d-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/Size2D-class.html">/sdk-for-flutter-explore-core-size2d-class</a></li>
 <li class="self-crumb">Size2D.zero constructor</li>
 </ol>
 <h5>Size2D class</h5>
@@ -75,5 +74,4 @@ Size2D.zero(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

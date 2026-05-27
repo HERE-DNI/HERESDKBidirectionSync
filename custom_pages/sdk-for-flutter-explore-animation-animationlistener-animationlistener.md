@@ -1,10 +1,9 @@
 ---
-title: "AnimationListener constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-animation-animationlistener-animationlistener"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- AnimationListener.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-animation-animationlistener-animationlistener"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-animation-animationlistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../../animation/AnimationListener-class.html">/sdk-for-flutter-explore-animation-animationlistener-class</a></li>
 <li class="self-crumb">AnimationListener factory constructor</li>
 </ol>
 <div class="self-name">AnimationListener</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>AnimationListener constructor</h1></div>
 <section class="multi-line-signature">
-AnimationListener(<wbr/><ol class="parameter-list single-line"> <li>void onAnimationStateChangedLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-animation-animationstate</li>
+AnimationListener(<wbr/><ol class="parameter-list single-line"> <li>void onAnimationStateChangedLambda(<ol class="parameter-list single-line"> <li><a href="../../animation/AnimationState.html">/sdk-for-flutter-explore-animation-animationstate</a></li>
 </ol>)</li>
 </ol>)
     </section>
@@ -63,9 +62,9 @@ AnimationListener(<wbr/><ol class="parameter-list single-line"> <li>void onAnima
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-animation-animationlistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../../animation/AnimationListener-class.html">/sdk-for-flutter-explore-animation-animationlistener-class</a></li>
 <li class="self-crumb">AnimationListener factory constructor</li>
 </ol>
 <h5>AnimationListener class</h5>
@@ -82,5 +81,4 @@ AnimationListener(<wbr/><ol class="parameter-list single-line"> <li>void onAnima
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

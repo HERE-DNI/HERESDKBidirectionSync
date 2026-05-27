@@ -1,10 +1,9 @@
 ---
-title: "restrictedIfAxleWeightMoreThanInKilograms property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restrictedifaxleweightmorethaninkilograms"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- restrictedIfAxleWeightMoreThanInKilograms.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-restric
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficIncidentVehicleRestriction-class.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-class</a></li>
 <li class="self-crumb">restrictedIfAxleWeightMoreThanInKilograms property</li>
 </ol>
 <div class="self-name">restrictedIfAxleWeightMoreThanInKilograms</div>
@@ -59,9 +58,9 @@ If the value is <code>null</code> the upper weight per axle bound is not specifi
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficIncidentVehicleRestriction-class.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-class</a></li>
 <li class="self-crumb">restrictedIfAxleWeightMoreThanInKilograms property</li>
 </ol>
 <h5>TrafficIncidentVehicleRestriction class</h5>
@@ -78,5 +77,4 @@ If the value is <code>null</code> the upper weight per axle bound is not specifi
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "withPolygons abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-withpolygons"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withPolygons.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-withp
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/PolygonDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</a></li>
 <li class="self-crumb">withPolygons abstract method</li>
 </ol>
 <div class="self-name">withPolygons</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>withPolygons abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class
-withPolygons(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-datasource-polygondata-class&gt; polygon</li>
+<a href="../../mapview.datasource/PolygonDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</a>
+withPolygons(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../mapview.datasource/PolygonData-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondata-class</a>&gt; polygon</li>
 </ol>)
 
       
@@ -50,7 +49,7 @@ withPolygons(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sd
 <ul>
 <li><code>polygon</code> The polygons to add.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class. This data source builder instance.</p>
+<p>Returns <a href="../../mapview.datasource/PolygonDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</a>. This data source builder instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +63,9 @@ withPolygons(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sd
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/PolygonDataSourceBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcebuilder-class</a></li>
 <li class="self-crumb">withPolygons abstract method</li>
 </ol>
 <h5>PolygonDataSourceBuilder class</h5>
@@ -83,5 +82,4 @@ withPolygons(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sd
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

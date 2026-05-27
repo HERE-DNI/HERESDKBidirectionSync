@@ -1,10 +1,9 @@
 ---
-title: "SegmentReference constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-segmentreference-segmentreference"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- SegmentReference.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-segmentreference-segmentreference"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-segmentreference-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/SegmentReference-class.html">/sdk-for-flutter-explore-routing-segmentreference-class</a></li>
 <li class="self-crumb">SegmentReference constructor</li>
 </ol>
 <div class="self-name">SegmentReference</div>
@@ -39,7 +38,7 @@ menu
 <h1>SegmentReference constructor</h1></div>
 <section class="multi-line-signature">
 SegmentReference(<wbr/>[<ol class="parameter-list"> <li>String segmentId = "", </li>
-<li>/sdk-for-flutter-explore-routing-traveldirection travelDirection = TravelDirection.bidirectional, </li>
+<li><a href="../../routing/TravelDirection.html">/sdk-for-flutter-explore-routing-traveldirection</a> travelDirection = TravelDirection.bidirectional, </li>
 <li>double offsetStart = 0.0, </li>
 <li>double offsetEnd = 1.0, </li>
 <li>int tilePartitionId = 0, </li>
@@ -71,9 +70,9 @@ As in HERE Map Content.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-segmentreference-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/SegmentReference-class.html">/sdk-for-flutter-explore-routing-segmentreference-class</a></li>
 <li class="self-crumb">SegmentReference constructor</li>
 </ol>
 <h5>SegmentReference class</h5>
@@ -90,5 +89,4 @@ As in HERE Map Content.</li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

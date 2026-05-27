@@ -1,10 +1,9 @@
 ---
-title: "truckCategory property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-vehiclespecification-truckcategory"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- truckCategory.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecification-truckcategory"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecification-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a></li>
 <li class="self-crumb">truckCategory property</li>
 </ol>
 <div class="self-name">truckCategory</div>
@@ -38,14 +37,14 @@ menu
 <div>
 <h1>truckCategory property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-transport-truckcategory?
+<a href="../../transport/TruckCategory.html">/sdk-for-flutter-explore-transport-truckcategory</a>?
         truckCategory
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Defines the truck category.
 By default, it is not set.
-Rendering: /sdk-for-flutter-explore-transport-vehiclespecification-truckcategory is ignored and has no effect.</p>
+Rendering: <a href="../../transport/VehicleSpecification/truckCategory.html">/sdk-for-flutter-explore-transport-vehiclespecification-truckcategory</a> is ignored and has no effect.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +58,9 @@ Rendering: /sdk-for-flutter-explore-transport-vehiclespecification-truckcategory
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecification-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a></li>
 <li class="self-crumb">truckCategory property</li>
 </ol>
 <h5>VehicleSpecification class</h5>
@@ -78,5 +77,4 @@ Rendering: /sdk-for-flutter-explore-transport-vehiclespecification-truckcategory
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

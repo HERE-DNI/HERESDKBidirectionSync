@@ -1,10 +1,9 @@
 ---
-title: "TextUsageOptions class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-textusageoptions-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TextUsageOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-routing-textusageoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">TextUsageOptions class</li>
 </ol>
 <div class="self-name">TextUsageOptions</div>
@@ -59,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TextUsageOptions">
-/sdk-for-flutter-explore-routing-textusageoptions-textusageoptions()
+<a href="../routing/TextUsageOptions/TextUsageOptions.html">/sdk-for-flutter-explore-routing-textusageoptions-textusageoptions</a>()
 </dt>
 <dd>
 </dd>
@@ -69,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-textusageoptions-hashcode
+<a href="../routing/TextUsageOptions/hashCode.html">/sdk-for-flutter-explore-routing-textusageoptions-hashcode</a>
 → int
 </dt>
 <dd>
@@ -77,16 +76,16 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="roadNumber">
-/sdk-for-flutter-explore-routing-textusageoptions-roadnumber
-↔ /sdk-for-flutter-explore-routing-localizedtextpreference
+<a href="../routing/TextUsageOptions/roadNumber.html">/sdk-for-flutter-explore-routing-textusageoptions-roadnumber</a>
+↔ <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-explore-routing-localizedtextpreference</a>
 </dt>
 <dd>
   An option whether road number should be used when generating notification.
-Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.
+Defaults to <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-explore-routing-localizedtextpreference</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-textusageoptions-runtimetype
+<a href="../routing/TextUsageOptions/runtimeType.html">/sdk-for-flutter-explore-routing-textusageoptions-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -94,21 +93,21 @@ Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="signpostDirection">
-/sdk-for-flutter-explore-routing-textusageoptions-signpostdirection
-↔ /sdk-for-flutter-explore-routing-localizedtextpreference
+<a href="../routing/TextUsageOptions/signpostDirection.html">/sdk-for-flutter-explore-routing-textusageoptions-signpostdirection</a>
+↔ <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-explore-routing-localizedtextpreference</a>
 </dt>
 <dd>
   An option whether signpost direction should be used when generating notification.
-Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.
+Defaults to <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-explore-routing-localizedtextpreference</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="streetName">
-/sdk-for-flutter-explore-routing-textusageoptions-streetname
-↔ /sdk-for-flutter-explore-routing-localizedtextpreference
+<a href="../routing/TextUsageOptions/streetName.html">/sdk-for-flutter-explore-routing-textusageoptions-streetname</a>
+↔ <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-explore-routing-localizedtextpreference</a>
 </dt>
 <dd>
   An option whether street name should be used when generating notification.
-Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.
+Defaults to <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-explore-routing-localizedtextpreference</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 </dl>
@@ -117,7 +116,7 @@ Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-textusageoptions-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/TextUsageOptions/noSuchMethod.html">/sdk-for-flutter-explore-routing-textusageoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -126,7 +125,7 @@ Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-textusageoptions-tostring(<wbr/>)
+<a href="../routing/TextUsageOptions/toString.html">/sdk-for-flutter-explore-routing-textusageoptions-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -140,7 +139,7 @@ Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-textusageoptions-operator-equals(<wbr/>Object other)
+<a href="../routing/TextUsageOptions/operator_equals.html">/sdk-for-flutter-explore-routing-textusageoptions-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -159,8 +158,8 @@ Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">TextUsageOptions class</li>
 </ol>
 <h5>routing library</h5>
@@ -177,5 +176,4 @@ Defaults to /sdk-for-flutter-explore-routing-localizedtextpreference.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

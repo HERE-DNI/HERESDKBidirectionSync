@@ -1,10 +1,9 @@
 ---
-title: "IndoorRoutePlace class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-indoorrouteplace-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- IndoorRoutePlace-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-routing-indoorrouteplace-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">IndoorRoutePlace class</li>
 </ol>
 <div class="self-name">IndoorRoutePlace</div>
@@ -61,7 +60,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="IndoorRoutePlace">
-/sdk-for-flutter-explore-routing-indoorrouteplace-indoorrouteplace(/sdk-for-flutter-explore-routing-routeplacetype type, /sdk-for-flutter-explore-core-geocoordinates-class coordinates, int levelZIndex, String venueId, String levelId)
+<a href="../routing/IndoorRoutePlace/IndoorRoutePlace.html">/sdk-for-flutter-explore-routing-indoorrouteplace-indoorrouteplace</a>(<a href="../routing/RoutePlaceType.html">/sdk-for-flutter-explore-routing-routeplacetype</a> type, <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates, int levelZIndex, String venueId, String levelId)
 </dt>
 <dd>
           Creates a new instance.
@@ -72,15 +71,15 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="coordinates">
-/sdk-for-flutter-explore-routing-indoorrouteplace-coordinates
-↔ /sdk-for-flutter-explore-core-geocoordinates-class
+<a href="../routing/IndoorRoutePlace/coordinates.html">/sdk-for-flutter-explore-routing-indoorrouteplace-coordinates</a>
+↔ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 </dt>
 <dd>
   Geographic coordinates of the place.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-indoorrouteplace-hashcode
+<a href="../routing/IndoorRoutePlace/hashCode.html">/sdk-for-flutter-explore-routing-indoorrouteplace-hashcode</a>
 → int
 </dt>
 <dd>
@@ -88,7 +87,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="levelId">
-/sdk-for-flutter-explore-routing-indoorrouteplace-levelid
+<a href="../routing/IndoorRoutePlace/levelId.html">/sdk-for-flutter-explore-routing-indoorrouteplace-levelid</a>
 ↔ String
 </dt>
 <dd>
@@ -96,7 +95,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="levelZIndex">
-/sdk-for-flutter-explore-routing-indoorrouteplace-levelzindex
+<a href="../routing/IndoorRoutePlace/levelZIndex.html">/sdk-for-flutter-explore-routing-indoorrouteplace-levelzindex</a>
 ↔ int
 </dt>
 <dd>
@@ -104,7 +103,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-indoorrouteplace-runtimetype
+<a href="../routing/IndoorRoutePlace/runtimeType.html">/sdk-for-flutter-explore-routing-indoorrouteplace-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -112,15 +111,15 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="type">
-/sdk-for-flutter-explore-routing-indoorrouteplace-type
-↔ /sdk-for-flutter-explore-routing-routeplacetype
+<a href="../routing/IndoorRoutePlace/type.html">/sdk-for-flutter-explore-routing-indoorrouteplace-type</a>
+↔ <a href="../routing/RoutePlaceType.html">/sdk-for-flutter-explore-routing-routeplacetype</a>
 </dt>
 <dd>
   The type of the route place.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="venueId">
-/sdk-for-flutter-explore-routing-indoorrouteplace-venueid
+<a href="../routing/IndoorRoutePlace/venueId.html">/sdk-for-flutter-explore-routing-indoorrouteplace-venueid</a>
 ↔ String
 </dt>
 <dd>
@@ -133,7 +132,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-indoorrouteplace-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/IndoorRoutePlace/noSuchMethod.html">/sdk-for-flutter-explore-routing-indoorrouteplace-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -142,7 +141,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-indoorrouteplace-tostring(<wbr/>)
+<a href="../routing/IndoorRoutePlace/toString.html">/sdk-for-flutter-explore-routing-indoorrouteplace-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -156,7 +155,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-indoorrouteplace-operator-equals(<wbr/>Object other)
+<a href="../routing/IndoorRoutePlace/operator_equals.html">/sdk-for-flutter-explore-routing-indoorrouteplace-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -175,8 +174,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">IndoorRoutePlace class</li>
 </ol>
 <h5>routing library</h5>
@@ -193,5 +192,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

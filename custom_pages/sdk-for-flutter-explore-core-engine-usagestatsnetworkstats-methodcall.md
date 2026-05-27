@@ -1,10 +1,9 @@
 ---
-title: "methodCall property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-methodcall"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- methodCall.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-methodcall"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/UsageStatsNetworkStats-class.html">/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-class</a></li>
 <li class="self-crumb">methodCall property</li>
 </ol>
 <div class="self-name">methodCall</div>
@@ -58,9 +57,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/UsageStatsNetworkStats-class.html">/sdk-for-flutter-explore-core-engine-usagestatsnetworkstats-class</a></li>
 <li class="self-crumb">methodCall property</li>
 </ol>
 <h5>UsageStatsNetworkStats class</h5>
@@ -77,5 +76,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

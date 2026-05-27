@@ -1,10 +1,9 @@
 ---
-title: "enabledFeatures property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-layerconfiguration-enabledfeatures"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- enabledFeatures.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-layerconfiguration-enabledfeatures"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-layerconfiguration-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a></li>
 <li class="self-crumb">enabledFeatures property</li>
 </ol>
 <div class="self-name">enabledFeatures</div>
@@ -39,7 +38,7 @@ menu
 <h1>enabledFeatures property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-core-engine-layerconfigurationfeature&gt;
+        List&lt;<wbr/><a href="../../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a>&gt;
 enabledFeatures
 <div class="features">getter/setter pair</div>
 </section>
@@ -59,9 +58,9 @@ Empty list disables map download, as no map content specified for download in th
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-layerconfiguration-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a></li>
 <li class="self-crumb">enabledFeatures property</li>
 </ol>
 <h5>LayerConfiguration class</h5>
@@ -78,5 +77,4 @@ Empty list disables map download, as no map content specified for download in th
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

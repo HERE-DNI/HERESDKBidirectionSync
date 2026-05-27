@@ -1,10 +1,9 @@
 ---
-title: "MapMarkerTextStyle constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapmarkertextstyle-mapmarkertextstyle"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapMarkerTextStyle.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarkertextstyle-mapmarkertextstyle"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMarkerTextStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</a></li>
 <li class="self-crumb">MapMarkerTextStyle factory constructor</li>
 </ol>
 <div class="self-name">MapMarkerTextStyle</div>
@@ -41,14 +40,14 @@ menu
 MapMarkerTextStyle(<wbr/>)
     </section>
 <section class="desc markdown">
-<p>Creates a default set of styling options for the text of a /sdk-for-flutter-explore-mapview-mapmarker-class that consists of
+<p>Creates a default set of styling options for the text of a <a href="../../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a> that consists of
 the following values:</p>
 <ul>
 <li>Text size: 18 pixels</li>
 <li>Text color: opaque white</li>
 <li>Text outline size: 0 pixels</li>
 <li>Text outline color: opaque black</li>
-<li>Text placement: /sdk-for-flutter-explore-mapview-mapmarkertextstyleplacement</li>
+<li>Text placement: <a href="../../mapview/MapMarkerTextStylePlacement.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyleplacement</a></li>
 </ul>
 <p>Once the resulting <code>TextStyle</code> is applied to a <code>MapMarker</code>, its text will be centered over its
 image.</p>
@@ -66,9 +65,9 @@ image.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMarkerTextStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</a></li>
 <li class="self-crumb">MapMarkerTextStyle factory constructor</li>
 </ol>
 <h5>MapMarkerTextStyle class</h5>
@@ -85,5 +84,4 @@ image.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "LocalizedRoadNumbers class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-localizedroadnumbers-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- LocalizedRoadNumbers-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-routing-localizedroadnumbers-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">LocalizedRoadNumbers class</li>
 </ol>
 <div class="self-name">LocalizedRoadNumbers</div>
@@ -59,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="LocalizedRoadNumbers">
-/sdk-for-flutter-explore-routing-localizedroadnumbers-localizedroadnumbers()
+<a href="../routing/LocalizedRoadNumbers/LocalizedRoadNumbers.html">/sdk-for-flutter-explore-routing-localizedroadnumbers-localizedroadnumbers</a>()
 </dt>
 <dd>
           Creates a new instance.
@@ -70,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-localizedroadnumbers-hashcode
+<a href="../routing/LocalizedRoadNumbers/hashCode.html">/sdk-for-flutter-explore-routing-localizedroadnumbers-hashcode</a>
 → int
 </dt>
 <dd>
@@ -78,8 +77,8 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="items">
-/sdk-for-flutter-explore-routing-localizedroadnumbers-items
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-localizedroadnumber-class&gt;
+<a href="../routing/LocalizedRoadNumbers/items.html">/sdk-for-flutter-explore-routing-localizedroadnumbers-items</a>
+↔ List&lt;<wbr/><a href="../routing/LocalizedRoadNumber-class.html">/sdk-for-flutter-explore-routing-localizedroadnumber-class</a>&gt;
 </dt>
 <dd>
   The list of road number information items.
@@ -87,7 +86,7 @@ Recommended to use helper methods instead of directly accessing the items.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-localizedroadnumbers-runtimetype
+<a href="../routing/LocalizedRoadNumbers/runtimeType.html">/sdk-for-flutter-explore-routing-localizedroadnumbers-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -100,7 +99,7 @@ Recommended to use helper methods instead of directly accessing the items.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="getDefaultValue">
-/sdk-for-flutter-explore-routing-localizedroadnumbers-getdefaultvalue(<wbr/>)
+<a href="../routing/LocalizedRoadNumbers/getDefaultValue.html">/sdk-for-flutter-explore-routing-localizedroadnumbers-getdefaultvalue</a>(<wbr/>)
     → String?
 
 </dt>
@@ -110,7 +109,7 @@ Recommended to use helper methods instead of directly accessing the items.
 
 </dd>
 <dt class="callable" id="getPreferredValueForLocales">
-/sdk-for-flutter-explore-routing-localizedroadnumbers-getpreferredvalueforlocales(<wbr/>List&lt;<wbr/><a href="https://pub.dev/documentation/intl/0.20.2/locale/Locale-class.html">Locale</a>&gt; locales)
+<a href="../routing/LocalizedRoadNumbers/getPreferredValueForLocales.html">/sdk-for-flutter-explore-routing-localizedroadnumbers-getpreferredvalueforlocales</a>(<wbr/>List&lt;<wbr/><a href="https://pub.dev/documentation/intl/0.20.2/locale/Locale-class.html">Locale</a>&gt; locales)
     → String?
 
 </dt>
@@ -121,7 +120,7 @@ locales.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-localizedroadnumbers-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/LocalizedRoadNumbers/noSuchMethod.html">/sdk-for-flutter-explore-routing-localizedroadnumbers-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -130,7 +129,7 @@ locales.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-localizedroadnumbers-tostring(<wbr/>)
+<a href="../routing/LocalizedRoadNumbers/toString.html">/sdk-for-flutter-explore-routing-localizedroadnumbers-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -144,7 +143,7 @@ locales.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-localizedroadnumbers-operator-equals(<wbr/>Object other)
+<a href="../routing/LocalizedRoadNumbers/operator_equals.html">/sdk-for-flutter-explore-routing-localizedroadnumbers-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -163,8 +162,8 @@ locales.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">LocalizedRoadNumbers class</li>
 </ol>
 <h5>routing library</h5>
@@ -181,5 +180,4 @@ locales.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "build abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-build"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- build.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-build"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-maplayerbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a></li>
 <li class="self-crumb">build abstract method</li>
 </ol>
 <div class="self-name">build</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>build abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-maplayer-class
+<a href="../../mapview/MapLayer-class.html">/sdk-for-flutter-explore-mapview-maplayer-class</a>
 build(<wbr/>)
 
       
@@ -49,8 +48,8 @@ build(<wbr/>)
 according to the configured parameters.</p>
 <p>After this call this instance is reset to the initial state. It could be used to build another
 map layer, but will not keep any previously configured properties.</p>
-<p>Returns /sdk-for-flutter-explore-mapview-maplayer-class. A new MapLayer instance.</p>
-<p>Throws /sdk-for-flutter-explore-mapview-maplayerbuilderinstantiationexception-class. Indicates an instantiation issue.</p>
+<p>Returns <a href="../../mapview/MapLayer-class.html">/sdk-for-flutter-explore-mapview-maplayer-class</a>. A new MapLayer instance.</p>
+<p>Throws <a href="../../mapview/MapLayerBuilderInstantiationException-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilderinstantiationexception-class</a>. Indicates an instantiation issue.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +63,9 @@ map layer, but will not keep any previously configured properties.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-maplayerbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a></li>
 <li class="self-crumb">build abstract method</li>
 </ol>
 <h5>MapLayerBuilder class</h5>
@@ -83,5 +82,4 @@ map layer, but will not keep any previously configured properties.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

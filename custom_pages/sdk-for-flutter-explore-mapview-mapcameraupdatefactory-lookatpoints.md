@@ -1,10 +1,9 @@
 ---
-title: "lookAtPoints static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatpoints"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- lookAtPoints.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-lookatpoints"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraUpdateFactory-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</a></li>
 <li class="self-crumb">lookAtPoints static method</li>
 </ol>
 <div class="self-name">lookAtPoints</div>
@@ -38,11 +37,11 @@ menu
 <div>
 <h1>lookAtPoints static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-mapcameraupdate-class
-lookAtPoints(<wbr/><ol class="parameter-list"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt; points, </li>
-<li>/sdk-for-flutter-explore-core-rectangle2d-class viewRectangle, </li>
-<li>/sdk-for-flutter-explore-core-geoorientationupdate-class orientation, </li>
-<li>/sdk-for-flutter-explore-mapview-mapmeasure-class measureLimit, </li>
+<a href="../../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+lookAtPoints(<wbr/><ol class="parameter-list"> <li>List&lt;<wbr/><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt; points, </li>
+<li><a href="../../core/Rectangle2D-class.html">/sdk-for-flutter-explore-core-rectangle2d-class</a> viewRectangle, </li>
+<li><a href="../../core/GeoOrientationUpdate-class.html">/sdk-for-flutter-explore-core-geoorientationupdate-class</a> orientation, </li>
+<li><a href="../../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> measureLimit, </li>
 </ol>)
 
       
@@ -88,7 +87,7 @@ from map camera to earth surface at the center of view rectangle in meters. This
 the calculated lookAt target point.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-mapcameraupdate-class. MapCameraUpdate instance.</p>
+<p>Returns <a href="../../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>. MapCameraUpdate instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -102,9 +101,9 @@ the calculated lookAt target point.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraUpdateFactory-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</a></li>
 <li class="self-crumb">lookAtPoints static method</li>
 </ol>
 <h5>MapCameraUpdateFactory class</h5>
@@ -121,5 +120,4 @@ the calculated lookAt target point.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

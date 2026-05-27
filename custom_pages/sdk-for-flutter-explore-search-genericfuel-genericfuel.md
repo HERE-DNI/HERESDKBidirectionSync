@@ -1,10 +1,9 @@
 ---
-title: "GenericFuel constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-genericfuel-genericfuel"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- GenericFuel.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-genericfuel-genericfuel"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-genericfuel-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/GenericFuel-class.html">/sdk-for-flutter-explore-search-genericfuel-class</a></li>
 <li class="self-crumb">GenericFuel constructor</li>
 </ol>
 <div class="self-name">GenericFuel</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>GenericFuel constructor</h1></div>
 <section class="multi-line-signature">
-GenericFuel(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-transport-fueltype type</li>
+GenericFuel(<wbr/><ol class="parameter-list single-line"> <li><a href="../../transport/FuelType.html">/sdk-for-flutter-explore-transport-fueltype</a> type</li>
 </ol>)
     </section>
 <section class="summary source-code" id="source">
@@ -54,9 +53,9 @@ GenericFuel(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-e
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-genericfuel-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/GenericFuel-class.html">/sdk-for-flutter-explore-search-genericfuel-class</a></li>
 <li class="self-crumb">GenericFuel constructor</li>
 </ol>
 <h5>GenericFuel class</h5>
@@ -73,5 +72,4 @@ GenericFuel(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-e
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

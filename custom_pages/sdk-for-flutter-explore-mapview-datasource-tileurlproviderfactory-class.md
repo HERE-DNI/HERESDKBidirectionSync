@@ -1,10 +1,9 @@
 ---
-title: "TileUrlProviderFactory class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TileUrlProviderFactory-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">TileUrlProviderFactory class</li>
 </ol>
 <div class="self-name">TileUrlProviderFactory</div>
@@ -52,13 +51,13 @@ menu
 <div>
 <h1>TileUrlProviderFactory class abstract</h1></div>
 <section class="desc markdown">
-<p>Factory for generating a /sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback utilized in creating a tile URL.</p>
+<p>Factory for generating a <a href="../mapview.datasource/TileUrlProviderCallback.html">/sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback</a> utilized in creating a tile URL.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TileUrlProviderFactory">
-/sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-tileurlproviderfactory()
+<a href="../mapview.datasource/TileUrlProviderFactory/TileUrlProviderFactory.html">/sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-tileurlproviderfactory</a>()
 </dt>
 <dd>
 </dd>
@@ -68,7 +67,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-hashcode
+<a href="../mapview.datasource/TileUrlProviderFactory/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -76,7 +75,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-runtimetype
+<a href="../mapview.datasource/TileUrlProviderFactory/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -89,7 +88,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview.datasource/TileUrlProviderFactory/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -98,7 +97,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-tostring(<wbr/>)
+<a href="../mapview.datasource/TileUrlProviderFactory/toString.html">/sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -112,7 +111,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-operator-equals(<wbr/>Object other)
+<a href="../mapview.datasource/TileUrlProviderFactory/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -126,12 +125,12 @@ menu
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="fromXyzUrlTemplate">
-/sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-fromxyzurltemplate(<wbr/>String urlTemplate)
-    → /sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback?
+<a href="../mapview.datasource/TileUrlProviderFactory/fromXyzUrlTemplate.html">/sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-fromxyzurltemplate</a>(<wbr/>String urlTemplate)
+    → <a href="../mapview.datasource/TileUrlProviderCallback.html">/sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback</a>?
 
 </dt>
 <dd>
-  Creates /sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback for the given URL template.
+  Creates <a href="../mapview.datasource/TileUrlProviderCallback.html">/sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback</a> for the given URL template.
   
 
 </dd>
@@ -145,8 +144,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">TileUrlProviderFactory class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -163,5 +162,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

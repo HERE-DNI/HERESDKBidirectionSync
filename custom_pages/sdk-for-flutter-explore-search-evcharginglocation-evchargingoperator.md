@@ -1,10 +1,9 @@
 ---
-title: "evChargingOperator property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evcharginglocation-evchargingoperator"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- evChargingOperator.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evcharginglocation-evchargingoperator"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evcharginglocation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a></li>
 <li class="self-crumb">evChargingOperator property</li>
 </ol>
 <div class="self-name">evChargingOperator</div>
@@ -39,7 +38,7 @@ menu
 <h1>evChargingOperator property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-search-evchargingoperator-class?
+<a href="../../search/EVChargingOperator-class.html">/sdk-for-flutter-explore-search-evchargingoperator-class</a>?
 evChargingOperator
 </section>
 <section class="desc markdown">
@@ -59,9 +58,9 @@ Gets the operator of the charging point, if available.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evcharginglocation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a></li>
 <li class="self-crumb">evChargingOperator property</li>
 </ol>
 <h5>EVChargingLocation class</h5>
@@ -78,5 +77,4 @@ Gets the operator of the charging point, if available.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

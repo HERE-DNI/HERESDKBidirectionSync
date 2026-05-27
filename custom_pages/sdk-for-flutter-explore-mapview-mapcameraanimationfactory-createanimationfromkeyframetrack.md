@@ -1,10 +1,9 @@
 ---
-title: "createAnimationFromKeyframeTrack static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapcameraanimationfactory-createanimationfromkeyframetrack"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- createAnimationFromKeyframeTrack.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcameraanimationfactory-createanimation
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcameraanimationfactory-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraAnimationFactory-class.html">/sdk-for-flutter-explore-mapview-mapcameraanimationfactory-class</a></li>
 <li class="self-crumb">createAnimationFromKeyframeTrack static method</li>
 </ol>
 <div class="self-name">createAnimationFromKeyframeTrack</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>createAnimationFromKeyframeTrack static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-mapcameraanimation-class
-createAnimationFromKeyframeTrack(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-class track</li>
+<a href="../../mapview/MapCameraAnimation-class.html">/sdk-for-flutter-explore-mapview-mapcameraanimation-class</a>
+createAnimationFromKeyframeTrack(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapCameraKeyframeTrack-class.html">/sdk-for-flutter-explore-mapview-mapcamerakeyframetrack-class</a> track</li>
 </ol>)
 
       
@@ -50,7 +49,7 @@ createAnimationFromKeyframeTrack(<wbr/><ol class="parameter-list single-line"> <
 <ul>
 <li><code>track</code> The track</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-mapcameraanimation-class. MapCameraAnimation instance</p>
+<p>Returns <a href="../../mapview/MapCameraAnimation-class.html">/sdk-for-flutter-explore-mapview-mapcameraanimation-class</a>. MapCameraAnimation instance</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +63,9 @@ createAnimationFromKeyframeTrack(<wbr/><ol class="parameter-list single-line"> <
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcameraanimationfactory-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraAnimationFactory-class.html">/sdk-for-flutter-explore-mapview-mapcameraanimationfactory-class</a></li>
 <li class="self-crumb">createAnimationFromKeyframeTrack static method</li>
 </ol>
 <h5>MapCameraAnimationFactory class</h5>
@@ -83,5 +82,4 @@ createAnimationFromKeyframeTrack(<wbr/><ol class="parameter-list single-line"> <
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

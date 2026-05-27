@@ -1,10 +1,9 @@
 ---
-title: "TimeRule class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-timerule-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TimeRule-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +28,8 @@ slug: "sdk-for-flutter-explore-core-timerule-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">TimeRule class</li>
 </ol>
 <div class="self-name">TimeRule</div>
@@ -80,7 +79,7 @@ The brackets {} denotes duration, and the negative sign - represents a past dura
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TimeRule">
-/sdk-for-flutter-explore-core-timerule-timerule(String timeRule, int timeZoneOffsetSeconds, String dstSpec)
+<a href="../core/TimeRule/TimeRule.html">/sdk-for-flutter-explore-core-timerule-timerule</a>(String timeRule, int timeZoneOffsetSeconds, String dstSpec)
 </dt>
 <dd>
           Creates a new instance of this class.
@@ -92,7 +91,7 @@ The brackets {} denotes duration, and the negative sign - represents a past dura
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="dstSpec">
-/sdk-for-flutter-explore-core-timerule-dstspec
+<a href="../core/TimeRule/dstSpec.html">/sdk-for-flutter-explore-core-timerule-dstspec</a>
 → String
 </dt>
 <dd>
@@ -101,7 +100,7 @@ Gets the value of day saving time specification, as a string in ISO 14825 format
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-core-timerule-hashcode
+<a href="../core/TimeRule/hashCode.html">/sdk-for-flutter-explore-core-timerule-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -109,7 +108,7 @@ Gets the value of day saving time specification, as a string in ISO 14825 format
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-timerule-runtimetype
+<a href="../core/TimeRule/runtimeType.html">/sdk-for-flutter-explore-core-timerule-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -117,7 +116,7 @@ Gets the value of day saving time specification, as a string in ISO 14825 format
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="timeRuleString">
-/sdk-for-flutter-explore-core-timerule-timerulestring
+<a href="../core/TimeRule/timeRuleString.html">/sdk-for-flutter-explore-core-timerule-timerulestring</a>
 → String
 </dt>
 <dd>
@@ -126,7 +125,7 @@ Gets the value of time rule as a string in ISO 14825 format.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="timeZoneOffsetSeconds">
-/sdk-for-flutter-explore-core-timerule-timezoneoffsetseconds
+<a href="../core/TimeRule/timeZoneOffsetSeconds.html">/sdk-for-flutter-explore-core-timerule-timezoneoffsetseconds</a>
 → int
 </dt>
 <dd>
@@ -140,7 +139,7 @@ Gets the value of time zone offset in seconds for the location where the time ru
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="appliesTo">
-/sdk-for-flutter-explore-core-timerule-appliesto(<wbr/>DateTime dateTime)
+<a href="../core/TimeRule/appliesTo.html">/sdk-for-flutter-explore-core-timerule-appliesto</a>(<wbr/>DateTime dateTime)
     → bool
 
 </dt>
@@ -148,7 +147,7 @@ Gets the value of time zone offset in seconds for the location where the time ru
 <li><code>dateTime</code> date and time that should be used for rule verification.</li>
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-timerule-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/TimeRule/noSuchMethod.html">/sdk-for-flutter-explore-core-timerule-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -157,7 +156,7 @@ Gets the value of time zone offset in seconds for the location where the time ru
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-timerule-tostring(<wbr/>)
+<a href="../core/TimeRule/toString.html">/sdk-for-flutter-explore-core-timerule-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -171,7 +170,7 @@ Gets the value of time zone offset in seconds for the location where the time ru
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-core-timerule-operator-equals(<wbr/>Object other)
+<a href="../core/TimeRule/operator_equals.html">/sdk-for-flutter-explore-core-timerule-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -189,8 +188,8 @@ Gets the value of time zone offset in seconds for the location where the time ru
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">TimeRule class</li>
 </ol>
 <h5>core library</h5>
@@ -207,5 +206,4 @@ Gets the value of time zone offset in seconds for the location where the time ru
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

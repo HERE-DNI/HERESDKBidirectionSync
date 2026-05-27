@@ -1,10 +1,9 @@
 ---
-title: "TruckAmenities constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-truckamenities-truckamenities"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TruckAmenities.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-truckamenities-truckamenities"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-truckamenities-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/TruckAmenities-class.html">/sdk-for-flutter-explore-search-truckamenities-class</a></li>
 <li class="self-crumb">TruckAmenities constructor</li>
 </ol>
 <div class="self-name">TruckAmenities</div>
@@ -53,9 +52,9 @@ TruckAmenities(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-truckamenities-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/TruckAmenities-class.html">/sdk-for-flutter-explore-search-truckamenities-class</a></li>
 <li class="self-crumb">TruckAmenities constructor</li>
 </ol>
 <h5>TruckAmenities class</h5>
@@ -72,5 +71,4 @@ TruckAmenities(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

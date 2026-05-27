@@ -1,10 +1,9 @@
 ---
-title: "PedestrianOptions class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-pedestrianoptions-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PedestrianOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -31,8 +30,8 @@ slug: "sdk-for-flutter-explore-routing-pedestrianoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">PedestrianOptions class</li>
 </ol>
 <div class="self-name">PedestrianOptions</div>
@@ -63,7 +62,7 @@ menu
 <dt>Annotations</dt>
 <dd>
 <ul class="annotation-list clazz-relationships">
-<li>@Deprecated("Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use `RoutingOptions` class instead.")</li>
 </ul>
 </dd>
 </dl>
@@ -72,7 +71,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PedestrianOptions">
-/sdk-for-flutter-explore-routing-pedestrianoptions-pedestrianoptions()
+<a href="../routing/PedestrianOptions/PedestrianOptions.html">/sdk-for-flutter-explore-routing-pedestrianoptions-pedestrianoptions</a>()
 </dt>
 <dd>
 </dd>
@@ -82,8 +81,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="avoidanceOptions">
-/sdk-for-flutter-explore-routing-pedestrianoptions-avoidanceoptions
-↔ /sdk-for-flutter-explore-routing-avoidanceoptions-class
+<a href="../routing/PedestrianOptions/avoidanceOptions.html">/sdk-for-flutter-explore-routing-pedestrianoptions-avoidanceoptions</a>
+↔ <a href="../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a>
 </dt>
 <dd>
   Options to specify restrictions for route calculations. By default
@@ -91,7 +90,7 @@ no restrictions are applied.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-pedestrianoptions-hashcode
+<a href="../routing/PedestrianOptions/hashCode.html">/sdk-for-flutter-explore-routing-pedestrianoptions-hashcode</a>
 → int
 </dt>
 <dd>
@@ -99,15 +98,15 @@ no restrictions are applied.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="routeOptions">
-/sdk-for-flutter-explore-routing-pedestrianoptions-routeoptions
-↔ /sdk-for-flutter-explore-routing-routeoptions-class
+<a href="../routing/PedestrianOptions/routeOptions.html">/sdk-for-flutter-explore-routing-pedestrianoptions-routeoptions</a>
+↔ <a href="../routing/RouteOptions-class.html">/sdk-for-flutter-explore-routing-routeoptions-class</a>
 </dt>
 <dd>
   Specifies the common route calculation options.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-pedestrianoptions-runtimetype
+<a href="../routing/PedestrianOptions/runtimeType.html">/sdk-for-flutter-explore-routing-pedestrianoptions-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -115,8 +114,8 @@ no restrictions are applied.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="textOptions">
-/sdk-for-flutter-explore-routing-pedestrianoptions-textoptions
-↔ /sdk-for-flutter-explore-routing-routetextoptions-class
+<a href="../routing/PedestrianOptions/textOptions.html">/sdk-for-flutter-explore-routing-pedestrianoptions-textoptions</a>
+↔ <a href="../routing/RouteTextOptions-class.html">/sdk-for-flutter-explore-routing-routetextoptions-class</a>
 </dt>
 <dd>
   Customize textual content returned from the route calculation, such
@@ -124,7 +123,7 @@ as localization, format, and unit system.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="walkSpeedInMetersPerSecond">
-/sdk-for-flutter-explore-routing-pedestrianoptions-walkspeedinmeterspersecond
+<a href="../routing/PedestrianOptions/walkSpeedInMetersPerSecond.html">/sdk-for-flutter-explore-routing-pedestrianoptions-walkspeedinmeterspersecond</a>
 ↔ double
 </dt>
 <dd>
@@ -132,7 +131,7 @@ as localization, format, and unit system.
 for pedestrian routing in meters per second. It influences the duration of
 walking segments along the route. The provided value must be in the range
 [0.5, 2.0]. When the value is outside this range, an invalid parameter
-error is raised. Refer to /sdk-for-flutter-explore-routing-routingerror for details. The default
+error is raised. Refer to <a href="../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a> for details. The default
 speed is 1 meter per second.
   <div class="features">getter/setter pair</div>
 </dd>
@@ -142,7 +141,7 @@ speed is 1 meter per second.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-pedestrianoptions-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/PedestrianOptions/noSuchMethod.html">/sdk-for-flutter-explore-routing-pedestrianoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -151,7 +150,7 @@ speed is 1 meter per second.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-pedestrianoptions-tostring(<wbr/>)
+<a href="../routing/PedestrianOptions/toString.html">/sdk-for-flutter-explore-routing-pedestrianoptions-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -165,7 +164,7 @@ speed is 1 meter per second.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-pedestrianoptions-operator-equals(<wbr/>Object other)
+<a href="../routing/PedestrianOptions/operator_equals.html">/sdk-for-flutter-explore-routing-pedestrianoptions-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -180,9 +179,8 @@ speed is 1 meter per second.
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="fromDefaultParameterConfiguration">
-/sdk-for-flutter-explore-routing-pedestrianoptions-fromdefaultparameterconfiguration(<wbr/>)
-    → /sdk-for-flutter-explore-routing-pedestrianoptions-class
-
+<a href="../routing/PedestrianOptions/fromDefaultParameterConfiguration.html">/sdk-for-flutter-explore-routing-pedestrianoptions-fromdefaultparameterconfiguration</a>(<wbr/>)
+    → <a class="deprecated" href="../routing/PedestrianOptions-class.html">/sdk-for-flutter-explore-routing-pedestrianoptions-class</a>
 </dt>
 <dd>
   Returns PedestrianOptions instance with default values used in SDK.
@@ -199,8 +197,8 @@ speed is 1 meter per second.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">PedestrianOptions class</li>
 </ol>
 <h5>routing library</h5>
@@ -217,5 +215,4 @@ speed is 1 meter per second.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

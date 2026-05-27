@@ -1,10 +1,9 @@
 ---
-title: "attributions property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-transitsectiondetails-attributions"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- attributions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-transitsectiondetails-attributions"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-transitsectiondetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TransitSectionDetails-class.html">/sdk-for-flutter-explore-routing-transitsectiondetails-class</a></li>
 <li class="self-crumb">attributions property</li>
 </ol>
 <div class="self-name">attributions</div>
@@ -39,7 +38,7 @@ menu
 <h1>attributions property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-routing-attribution-class&gt;
+        List&lt;<wbr/><a href="../../routing/Attribution-class.html">/sdk-for-flutter-explore-routing-attribution-class</a>&gt;
 attributions
 <div class="features">getter/setter pair</div>
 </section>
@@ -58,9 +57,9 @@ attributions
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-transitsectiondetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TransitSectionDetails-class.html">/sdk-for-flutter-explore-routing-transitsectiondetails-class</a></li>
 <li class="self-crumb">attributions property</li>
 </ol>
 <h5>TransitSectionDetails class</h5>
@@ -77,5 +76,4 @@ attributions
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "searchByAddressExtended abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-searchengine-searchbyaddressextended"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- searchByAddressExtended.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-searchengine-searchbyaddressextended"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-searchengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/SearchEngine-class.html">/sdk-for-flutter-explore-search-searchengine-class</a></li>
 <li class="self-crumb">searchByAddressExtended abstract method</li>
 </ol>
 <div class="self-name">searchByAddressExtended</div>
@@ -38,10 +37,10 @@ menu
 <div>
 <h1>searchByAddressExtended abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-threading-taskhandle-class
-searchByAddressExtended(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-search-addressquery-class query, </li>
-<li>/sdk-for-flutter-explore-search-searchoptions-class options, </li>
-<li>/sdk-for-flutter-explore-search-searchcallbackextended callback</li>
+<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+searchByAddressExtended(<wbr/><ol class="parameter-list single-line"> <li><a href="../../search/AddressQuery-class.html">/sdk-for-flutter-explore-search-addressquery-class</a> query, </li>
+<li><a href="../../search/SearchOptions-class.html">/sdk-for-flutter-explore-search-searchoptions-class</a> options, </li>
+<li><a href="../../search/SearchCallbackExtended.html">/sdk-for-flutter-explore-search-searchcallbackextended</a> callback</li>
 </ol>)
 
       
@@ -51,7 +50,7 @@ searchByAddressExtended(<wbr/><ol class="parameter-list single-line"> <li>/sdk-f
 <p>Performs an asynchronous request to search for places based on a given address.</p>
 <p>This is the same process as forward geocoding, except that more data is returned
 than just the geographic coordinates of a given address. Note that an address can
-belong to more than one /sdk-for-flutter-explore-search-place-class result, although all found places will
+belong to more than one <a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a> result, although all found places will
 share the same geographic coordinates.
 Provides candidate places sorted by relevance.</p>
 <ul>
@@ -65,7 +64,7 @@ Provides candidate places sorted by relevance.</p>
 <p><code>callback</code> Callback which receives the result on the main thread.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -79,9 +78,9 @@ Provides candidate places sorted by relevance.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-searchengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/SearchEngine-class.html">/sdk-for-flutter-explore-search-searchengine-class</a></li>
 <li class="self-crumb">searchByAddressExtended abstract method</li>
 </ol>
 <h5>SearchEngine class</h5>
@@ -98,5 +97,4 @@ Provides candidate places sorted by relevance.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

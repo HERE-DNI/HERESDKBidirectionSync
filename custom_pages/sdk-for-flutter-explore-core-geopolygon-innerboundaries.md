@@ -1,10 +1,9 @@
 ---
-title: "innerBoundaries property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-geopolygon-innerboundaries"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- innerBoundaries.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-geopolygon-innerboundaries"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geopolygon-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a></li>
 <li class="self-crumb">innerBoundaries property</li>
 </ol>
 <div class="self-name">innerBoundaries</div>
@@ -39,7 +38,7 @@ menu
 <h1>innerBoundaries property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt;&gt;
+        List&lt;<wbr/>List&lt;<wbr/><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt;&gt;
 innerBoundaries
 <div class="features">final</div>
 </section>
@@ -58,9 +57,9 @@ innerBoundaries
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geopolygon-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a></li>
 <li class="self-crumb">innerBoundaries property</li>
 </ol>
 <h5>GeoPolygon class</h5>
@@ -77,5 +76,4 @@ innerBoundaries
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

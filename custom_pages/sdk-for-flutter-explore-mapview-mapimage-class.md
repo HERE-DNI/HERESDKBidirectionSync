@@ -1,10 +1,9 @@
 ---
-title: "MapImage class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mapimage-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapImage-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-mapview-mapimage-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapImage class</li>
 </ol>
 <div class="self-name">MapImage</div>
@@ -52,8 +51,8 @@ menu
 <div>
 <h1>MapImage class abstract</h1></div>
 <section class="desc markdown">
-<p>Represents a drawable resource that can be used by a /sdk-for-flutter-explore-mapview-mapmarker-class, /sdk-for-flutter-explore-mapview-mapmarker3d-class or /sdk-for-flutter-explore-mapview-mapimageoverlay-class to be shown on the map.</p>
-<p>Supported formats are listed in /sdk-for-flutter-explore-mapview-imageformat.
+<p>Represents a drawable resource that can be used by a <a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>, <a href="../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a> or <a href="../mapview/MapImageOverlay-class.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-class</a> to be shown on the map.</p>
+<p>Supported formats are listed in <a href="../mapview/ImageFormat.html">/sdk-for-flutter-explore-mapview-imageformat</a>.
 SVG format allows custom fonts in text using font-family attribute by prior registration via <code>AssetsManager.registerFont</code>.</p>
 <p>It is recommended to associate a resource with a single <code>MapImage</code> instance in order to enable
 resource sharing and reduce the amount of needed memory.</p>
@@ -62,21 +61,21 @@ resource sharing and reduce the amount of needed memory.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapImage.withFilePathAndWidthAndHeight">
-/sdk-for-flutter-explore-mapview-mapimage-mapimage-withfilepathandwidthandheight(String filePath, int width, int height)
+<a href="../mapview/MapImage/MapImage.withFilePathAndWidthAndHeight.html">/sdk-for-flutter-explore-mapview-mapimage-mapimage-withfilepathandwidthandheight</a>(String filePath, int width, int height)
 </dt>
 <dd>
           Creates a new map image from the provided path to the SVG Tiny or PNG image.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="MapImage.withImageDataImageFormatWidthAndHeight">
-/sdk-for-flutter-explore-mapview-mapimage-mapimage-withimagedataimageformatwidthandheight(Uint8List imageData, /sdk-for-flutter-explore-mapview-imageformat imageFormat, int width, int height)
+<a href="../mapview/MapImage/MapImage.withImageDataImageFormatWidthAndHeight.html">/sdk-for-flutter-explore-mapview-mapimage-mapimage-withimagedataimageformatwidthandheight</a>(Uint8List imageData, <a href="../mapview/ImageFormat.html">/sdk-for-flutter-explore-mapview-imageformat</a> imageFormat, int width, int height)
 </dt>
 <dd>
           Creates a new map image from the provided image data.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="MapImage.withPixelDataAndImageFormat">
-/sdk-for-flutter-explore-mapview-mapimage-mapimage-withpixeldataandimageformat(Uint8List pixelData, /sdk-for-flutter-explore-mapview-imageformat imageFormat)
+<a href="../mapview/MapImage/MapImage.withPixelDataAndImageFormat.html">/sdk-for-flutter-explore-mapview-mapimage-mapimage-withpixeldataandimageformat</a>(Uint8List pixelData, <a href="../mapview/ImageFormat.html">/sdk-for-flutter-explore-mapview-imageformat</a> imageFormat)
 </dt>
 <dd>
           Creates a new map image from the provided image data.
@@ -88,7 +87,7 @@ resource sharing and reduce the amount of needed memory.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-mapimage-hashcode
+<a href="../mapview/MapImage/hashCode.html">/sdk-for-flutter-explore-mapview-mapimage-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -96,7 +95,7 @@ resource sharing and reduce the amount of needed memory.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mapimage-runtimetype
+<a href="../mapview/MapImage/runtimeType.html">/sdk-for-flutter-explore-mapview-mapimage-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -109,7 +108,7 @@ resource sharing and reduce the amount of needed memory.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mapimage-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapImage/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapimage-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -118,7 +117,7 @@ resource sharing and reduce the amount of needed memory.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mapimage-tostring(<wbr/>)
+<a href="../mapview/MapImage/toString.html">/sdk-for-flutter-explore-mapview-mapimage-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -132,7 +131,7 @@ resource sharing and reduce the amount of needed memory.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-mapimage-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapImage/operator_equals.html">/sdk-for-flutter-explore-mapview-mapimage-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -150,8 +149,8 @@ resource sharing and reduce the amount of needed memory.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapImage class</li>
 </ol>
 <h5>mapview library</h5>
@@ -168,5 +167,4 @@ resource sharing and reduce the amount of needed memory.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

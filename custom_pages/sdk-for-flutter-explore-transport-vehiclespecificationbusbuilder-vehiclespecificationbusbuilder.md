@@ -1,10 +1,9 @@
 ---
-title: "VehicleSpecificationBusBuilder constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationbusbuilder-vehiclespecificationbusbuilder"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- VehicleSpecificationBusBuilder.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationbusbuilder-vehicles
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecificationbusbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecificationBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationbusbuilder-class</a></li>
 <li class="self-crumb">VehicleSpecificationBusBuilder factory constructor</li>
 </ol>
 <div class="self-name">VehicleSpecificationBusBuilder</div>
@@ -55,9 +54,9 @@ VehicleSpecificationBusBuilder(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecificationbusbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecificationBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationbusbuilder-class</a></li>
 <li class="self-crumb">VehicleSpecificationBusBuilder factory constructor</li>
 </ol>
 <h5>VehicleSpecificationBusBuilder class</h5>
@@ -74,5 +73,4 @@ VehicleSpecificationBusBuilder(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "toString method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-gestures-doubletaplistener-tostring"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- toString.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-gestures-doubletaplistener-tostring"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-doubletaplistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/DoubleTapListener-class.html">/sdk-for-flutter-explore-gestures-doubletaplistener-class</a></li>
 <li class="self-crumb">toString method</li>
 </ol>
 <div class="self-name">toString</div>
@@ -67,9 +66,9 @@ mainly for debugging or logging.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-doubletaplistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/DoubleTapListener-class.html">/sdk-for-flutter-explore-gestures-doubletaplistener-class</a></li>
 <li class="self-crumb">toString method</li>
 </ol>
 <h5>DoubleTapListener class</h5>
@@ -86,5 +85,4 @@ mainly for debugging or logging.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

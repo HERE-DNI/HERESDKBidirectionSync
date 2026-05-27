@@ -1,10 +1,9 @@
 ---
-title: "avoidBoundingBoxArea property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-avoidboundingboxarea"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- avoidBoundingBoxArea.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-avoidbounding
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/AvoidBoundingBoxAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class</a></li>
 <li class="self-crumb">avoidBoundingBoxArea property</li>
 </ol>
 <div class="self-name">avoidBoundingBoxArea</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>avoidBoundingBoxArea property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-geobox-class
+<a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>
 avoidBoundingBoxArea
 <div class="features">getter/setter pair</div>
 </section>
@@ -60,9 +59,9 @@ This avoidance option is not supported for <code>IsolineOptions</code>. If it is
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/AvoidBoundingBoxAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class</a></li>
 <li class="self-crumb">avoidBoundingBoxArea property</li>
 </ol>
 <h5>AvoidBoundingBoxAreaOptions class</h5>
@@ -79,5 +78,4 @@ This avoidance option is not supported for <code>IsolineOptions</code>. If it is
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

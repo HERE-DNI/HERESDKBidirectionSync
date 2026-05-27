@@ -1,10 +1,9 @@
 ---
-title: "TrafficFlowBase class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-traffic-trafficflowbase-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TrafficFlowBase-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-traffic-trafficflowbase-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
 <li class="self-crumb">TrafficFlowBase class</li>
 </ol>
 <div class="self-name">TrafficFlowBase</div>
@@ -61,7 +60,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <dl class="dl-horizontal">
 <dt>Implementers</dt>
 <dd><ul class="comma-separated clazz-relationships">
-<li>/sdk-for-flutter-explore-traffic-trafficflow-class</li>
+<li><a href="../traffic/TrafficFlow-class.html">/sdk-for-flutter-explore-traffic-trafficflow-class</a></li>
 </ul></dd>
 </dl>
 </section>
@@ -69,7 +68,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TrafficFlowBase">
-/sdk-for-flutter-explore-traffic-trafficflowbase-trafficflowbase(double freeFlowSpeedInMetersPerSecondGetLambda(), double jamFactorGetLambda())
+<a href="../traffic/TrafficFlowBase/TrafficFlowBase.html">/sdk-for-flutter-explore-traffic-trafficflowbase-trafficflowbase</a>(double freeFlowSpeedInMetersPerSecondGetLambda(), double jamFactorGetLambda())
 </dt>
 <dd>
           This interface provides details about a traffic flow.<br/>
@@ -82,7 +81,7 @@ For additional information about fields, refer to <a href="https://www.here.com/
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="freeFlowSpeedInMetersPerSecond">
-/sdk-for-flutter-explore-traffic-trafficflowbase-freeflowspeedinmeterspersecond
+<a href="../traffic/TrafficFlowBase/freeFlowSpeedInMetersPerSecond.html">/sdk-for-flutter-explore-traffic-trafficflowbase-freeflowspeedinmeterspersecond</a>
 → double
 </dt>
 <dd>
@@ -91,7 +90,7 @@ Gets the reference speed in meters per second along the roadway when no traffic 
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-traffic-trafficflowbase-hashcode
+<a href="../traffic/TrafficFlowBase/hashCode.html">/sdk-for-flutter-explore-traffic-trafficflowbase-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -99,7 +98,7 @@ Gets the reference speed in meters per second along the roadway when no traffic 
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="jamFactor">
-/sdk-for-flutter-explore-traffic-trafficflowbase-jamfactor
+<a href="../traffic/TrafficFlowBase/jamFactor.html">/sdk-for-flutter-explore-traffic-trafficflowbase-jamfactor</a>
 → double
 </dt>
 <dd>
@@ -112,7 +111,7 @@ Gets a value for the amount of traffic on the roadway.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-traffic-trafficflowbase-runtimetype
+<a href="../traffic/TrafficFlowBase/runtimeType.html">/sdk-for-flutter-explore-traffic-trafficflowbase-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -125,7 +124,7 @@ Gets a value for the amount of traffic on the roadway.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-traffic-trafficflowbase-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../traffic/TrafficFlowBase/noSuchMethod.html">/sdk-for-flutter-explore-traffic-trafficflowbase-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -134,7 +133,7 @@ Gets a value for the amount of traffic on the roadway.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-traffic-trafficflowbase-tostring(<wbr/>)
+<a href="../traffic/TrafficFlowBase/toString.html">/sdk-for-flutter-explore-traffic-trafficflowbase-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -148,7 +147,7 @@ Gets a value for the amount of traffic on the roadway.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-traffic-trafficflowbase-operator-equals(<wbr/>Object other)
+<a href="../traffic/TrafficFlowBase/operator_equals.html">/sdk-for-flutter-explore-traffic-trafficflowbase-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -166,8 +165,8 @@ Gets a value for the amount of traffic on the roadway.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
 <li class="self-crumb">TrafficFlowBase class</li>
 </ol>
 <h5>traffic library</h5>
@@ -184,5 +183,4 @@ Gets a value for the amount of traffic on the roadway.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

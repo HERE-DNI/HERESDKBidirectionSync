@@ -1,10 +1,9 @@
 ---
-title: "TransportSpecification class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-transport-transportspecification-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TransportSpecification-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-transport-transportspecification-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
 <li class="self-crumb">TransportSpecification class</li>
 </ol>
 <div class="self-name">TransportSpecification</div>
@@ -59,7 +58,7 @@ menu
 <p><strong>Notes</strong></p>
 <ul>
 <li>By default all vehicle specifications from <code>RoutingOptions.transport_specification</code> are set to
-<code>null</code> and the <code>RoutingOptions.transport_specification.transport_mode</code> is set to /sdk-for-flutter-explore-transport-transportmode.</li>
+<code>null</code> and the <code>RoutingOptions.transport_specification.transport_mode</code> is set to <a href="../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>.</li>
 <li>A route can be calculated with only the <code>RoutingOptions.transport_specification.transport_mode</code> set.</li>
 </ul>
 </section>
@@ -67,7 +66,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TransportSpecification">
-/sdk-for-flutter-explore-transport-transportspecification-transportspecification()
+<a href="../transport/TransportSpecification/TransportSpecification.html">/sdk-for-flutter-explore-transport-transportspecification-transportspecification</a>()
 </dt>
 <dd>
 </dd>
@@ -77,7 +76,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-transport-transportspecification-hashcode
+<a href="../transport/TransportSpecification/hashCode.html">/sdk-for-flutter-explore-transport-transportspecification-hashcode</a>
 → int
 </dt>
 <dd>
@@ -85,8 +84,8 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="pedestrianSpecification">
-/sdk-for-flutter-explore-transport-transportspecification-pedestrianspecification
-↔ /sdk-for-flutter-explore-transport-pedestrianspecification-class?
+<a href="../transport/TransportSpecification/pedestrianSpecification.html">/sdk-for-flutter-explore-transport-transportspecification-pedestrianspecification</a>
+↔ <a href="../transport/PedestrianSpecification-class.html">/sdk-for-flutter-explore-transport-pedestrianspecification-class</a>?
 </dt>
 <dd>
   The pedestrian specification for the transport mode.
@@ -94,7 +93,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-transport-transportspecification-runtimetype
+<a href="../transport/TransportSpecification/runtimeType.html">/sdk-for-flutter-explore-transport-transportspecification-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -102,8 +101,8 @@ By default, it is not set.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="scooterSpecification">
-/sdk-for-flutter-explore-transport-transportspecification-scooterspecification
-↔ /sdk-for-flutter-explore-transport-scooterspecification-class?
+<a href="../transport/TransportSpecification/scooterSpecification.html">/sdk-for-flutter-explore-transport-transportspecification-scooterspecification</a>
+↔ <a href="../transport/ScooterSpecification-class.html">/sdk-for-flutter-explore-transport-scooterspecification-class</a>?
 </dt>
 <dd>
   The scooter specification for the transport mode.
@@ -111,8 +110,8 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="taxiSpecification">
-/sdk-for-flutter-explore-transport-transportspecification-taxispecification
-↔ /sdk-for-flutter-explore-transport-taxispecification-class?
+<a href="../transport/TransportSpecification/taxiSpecification.html">/sdk-for-flutter-explore-transport-transportspecification-taxispecification</a>
+↔ <a href="../transport/TaxiSpecification-class.html">/sdk-for-flutter-explore-transport-taxispecification-class</a>?
 </dt>
 <dd>
   The taxi specification for the transport mode.
@@ -120,8 +119,8 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="transportMode">
-/sdk-for-flutter-explore-transport-transportspecification-transportmode
-↔ /sdk-for-flutter-explore-transport-transportmode
+<a href="../transport/TransportSpecification/transportMode.html">/sdk-for-flutter-explore-transport-transportspecification-transportmode</a>
+↔ <a href="../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>
 </dt>
 <dd>
   Transport mode.
@@ -129,8 +128,8 @@ Defaults to <code>CAR</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="vehicleSpecification">
-/sdk-for-flutter-explore-transport-transportspecification-vehiclespecification
-↔ /sdk-for-flutter-explore-transport-vehiclespecification-class?
+<a href="../transport/TransportSpecification/vehicleSpecification.html">/sdk-for-flutter-explore-transport-transportspecification-vehiclespecification</a>
+↔ <a href="../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a>?
 </dt>
 <dd>
   The vehicle specification for the transport mode.
@@ -143,7 +142,7 @@ By default, it is not set.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-transport-transportspecification-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../transport/TransportSpecification/noSuchMethod.html">/sdk-for-flutter-explore-transport-transportspecification-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -152,7 +151,7 @@ By default, it is not set.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-transport-transportspecification-tostring(<wbr/>)
+<a href="../transport/TransportSpecification/toString.html">/sdk-for-flutter-explore-transport-transportspecification-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -166,7 +165,7 @@ By default, it is not set.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-transport-transportspecification-operator-equals(<wbr/>Object other)
+<a href="../transport/TransportSpecification/operator_equals.html">/sdk-for-flutter-explore-transport-transportspecification-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -185,8 +184,8 @@ By default, it is not set.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
 <li class="self-crumb">TransportSpecification class</li>
 </ol>
 <h5>transport library</h5>
@@ -203,5 +202,4 @@ By default, it is not set.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

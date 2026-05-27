@@ -1,10 +1,9 @@
 ---
-title: "heightInCentimeters property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-truckspecifications-heightincentimeters"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- heightInCentimeters.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-truckspecifications-heightincentimeters
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-truckspecifications-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/TruckSpecifications-class.html">/sdk-for-flutter-explore-transport-truckspecifications-class</a></li>
 <li class="self-crumb">heightInCentimeters property</li>
 </ol>
 <div class="self-name">heightInCentimeters</div>
@@ -59,9 +58,9 @@ By default, it is not set.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-truckspecifications-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/TruckSpecifications-class.html">/sdk-for-flutter-explore-transport-truckspecifications-class</a></li>
 <li class="self-crumb">heightInCentimeters property</li>
 </ol>
 <h5>TruckSpecifications class</h5>
@@ -78,5 +77,4 @@ By default, it is not set.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

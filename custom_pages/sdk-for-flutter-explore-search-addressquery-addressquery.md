@@ -1,10 +1,9 @@
 ---
-title: "AddressQuery constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-addressquery-addressquery"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- AddressQuery.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-addressquery-addressquery"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-addressquery-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/AddressQuery-class.html">/sdk-for-flutter-explore-search-addressquery-class</a></li>
 <li class="self-crumb">AddressQuery factory constructor</li>
 </ol>
 <div class="self-name">AddressQuery</div>
@@ -60,9 +59,9 @@ AddressQuery(<wbr/><ol class="parameter-list single-line"> <li>String query</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-addressquery-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/AddressQuery-class.html">/sdk-for-flutter-explore-search-addressquery-class</a></li>
 <li class="self-crumb">AddressQuery factory constructor</li>
 </ol>
 <h5>AddressQuery class</h5>
@@ -79,5 +78,4 @@ AddressQuery(<wbr/><ol class="parameter-list single-line"> <li>String query</li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

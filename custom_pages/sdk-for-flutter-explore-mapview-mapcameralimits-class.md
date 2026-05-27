@@ -1,10 +1,9 @@
 ---
-title: "MapCameraLimits class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mapcameralimits-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapCameraLimits-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -38,8 +37,8 @@ slug: "sdk-for-flutter-explore-mapview-mapcameralimits-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapCameraLimits class</li>
 </ol>
 <div class="self-name">MapCameraLimits</div>
@@ -72,7 +71,7 @@ and for all future changes to the camera.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapCameraLimits">
-/sdk-for-flutter-explore-mapview-mapcameralimits-mapcameralimits()
+<a href="../mapview/MapCameraLimits/MapCameraLimits.html">/sdk-for-flutter-explore-mapview-mapcameralimits-mapcameralimits</a>()
 </dt>
 <dd>
 </dd>
@@ -82,8 +81,8 @@ and for all future changes to the camera.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="bearingRange">
-/sdk-for-flutter-explore-mapview-mapcameralimits-bearingrange
-↔ /sdk-for-flutter-explore-core-anglerange-class
+<a href="../mapview/MapCameraLimits/bearingRange.html">/sdk-for-flutter-explore-mapview-mapcameralimits-bearingrange</a>
+↔ <a href="../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a>
 </dt>
 <dd>
   The bearing range within which the camera can be rotated.
@@ -91,7 +90,7 @@ Gets the currently set bearing range.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-mapcameralimits-hashcode
+<a href="../mapview/MapCameraLimits/hashCode.html">/sdk-for-flutter-explore-mapview-mapcameralimits-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -99,7 +98,7 @@ Gets the currently set bearing range.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mapcameralimits-runtimetype
+<a href="../mapview/MapCameraLimits/runtimeType.html">/sdk-for-flutter-explore-mapview-mapcameralimits-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -107,8 +106,8 @@ Gets the currently set bearing range.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="targetArea">
-/sdk-for-flutter-explore-mapview-mapcameralimits-targetarea
-↔ /sdk-for-flutter-explore-core-geobox-class?
+<a href="../mapview/MapCameraLimits/targetArea.html">/sdk-for-flutter-explore-mapview-mapcameralimits-targetarea</a>
+↔ <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>?
 </dt>
 <dd>
   Geographical area to which the camera target is limited.
@@ -116,8 +115,8 @@ Gets a GeoBox that limits the camera target to a specific geographical area. Abs
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="tiltRange">
-/sdk-for-flutter-explore-mapview-mapcameralimits-tiltrange
-↔ /sdk-for-flutter-explore-core-anglerange-class
+<a href="../mapview/MapCameraLimits/tiltRange.html">/sdk-for-flutter-explore-mapview-mapcameralimits-tiltrange</a>
+↔ <a href="../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a>
 </dt>
 <dd>
   The tilt range that can be applied to the camera.
@@ -125,8 +124,8 @@ Gets the current tilt range.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="zoomRange">
-/sdk-for-flutter-explore-mapview-mapcameralimits-zoomrange
-↔ /sdk-for-flutter-explore-mapview-mapmeasurerange-class
+<a href="../mapview/MapCameraLimits/zoomRange.html">/sdk-for-flutter-explore-mapview-mapcameralimits-zoomrange</a>
+↔ <a href="../mapview/MapMeasureRange-class.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-class</a>
 </dt>
 <dd>
   The zoom range that can be applied to the camera.
@@ -139,28 +138,28 @@ Gets the currently set camera zoom range.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="clearBearingRanges">
-/sdk-for-flutter-explore-mapview-mapcameralimits-clearbearingranges(<wbr/>)
+<a href="../mapview/MapCameraLimits/clearBearingRanges.html">/sdk-for-flutter-explore-mapview-mapcameralimits-clearbearingranges</a>(<wbr/>)
     → void
 
 </dt>
 <dd>
-  Clears bearing ranges for all zoom values and resets /sdk-for-flutter-explore-mapview-mapcameralimits-bearingrange
+  Clears bearing ranges for all zoom values and resets <a href="../mapview/MapCameraLimits/bearingRange.html">/sdk-for-flutter-explore-mapview-mapcameralimits-bearingrange</a>
 to default.
   
 
 </dd>
 <dt class="callable" id="clearTiltRanges">
-/sdk-for-flutter-explore-mapview-mapcameralimits-cleartiltranges(<wbr/>)
+<a href="../mapview/MapCameraLimits/clearTiltRanges.html">/sdk-for-flutter-explore-mapview-mapcameralimits-cleartiltranges</a>(<wbr/>)
     → void
 
 </dt>
 <dd>
-  Clears tilt ranges for all zoom values and resets /sdk-for-flutter-explore-mapview-mapcameralimits-tiltrange  to default.
+  Clears tilt ranges for all zoom values and resets <a href="../mapview/MapCameraLimits/tiltRange.html">/sdk-for-flutter-explore-mapview-mapcameralimits-tiltrange</a>  to default.
   
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mapcameralimits-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapCameraLimits/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapcameralimits-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -169,7 +168,7 @@ to default.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="setBearingRangeAtZoom">
-/sdk-for-flutter-explore-mapview-mapcameralimits-setbearingrangeatzoom(<wbr/>/sdk-for-flutter-explore-mapview-mapmeasure-class zoom, /sdk-for-flutter-explore-core-anglerange-class bearingRange)
+<a href="../mapview/MapCameraLimits/setBearingRangeAtZoom.html">/sdk-for-flutter-explore-mapview-mapcameralimits-setbearingrangeatzoom</a>(<wbr/><a href="../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> zoom, <a href="../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a> bearingRange)
     → void
 
 </dt>
@@ -179,7 +178,7 @@ to default.
 
 </dd>
 <dt class="callable" id="setTiltRangeAtZoom">
-/sdk-for-flutter-explore-mapview-mapcameralimits-settiltrangeatzoom(<wbr/>/sdk-for-flutter-explore-mapview-mapmeasure-class zoom, /sdk-for-flutter-explore-core-anglerange-class tiltRange)
+<a href="../mapview/MapCameraLimits/setTiltRangeAtZoom.html">/sdk-for-flutter-explore-mapview-mapcameralimits-settiltrangeatzoom</a>(<wbr/><a href="../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a> zoom, <a href="../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a> tiltRange)
     → void
 
 </dt>
@@ -189,7 +188,7 @@ to default.
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mapcameralimits-tostring(<wbr/>)
+<a href="../mapview/MapCameraLimits/toString.html">/sdk-for-flutter-explore-mapview-mapcameralimits-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -203,7 +202,7 @@ to default.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-mapcameralimits-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapCameraLimits/operator_equals.html">/sdk-for-flutter-explore-mapview-mapcameralimits-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -217,7 +216,7 @@ to default.
 <h2>Static Properties</h2>
 <dl class="properties">
 <dt class="property" id="maxTilt">
-/sdk-for-flutter-explore-mapview-mapcameralimits-maxtilt
+<a href="../mapview/MapCameraLimits/maxTilt.html">/sdk-for-flutter-explore-mapview-mapcameralimits-maxtilt</a>
 → double
 </dt>
 <dd>
@@ -225,7 +224,7 @@ to default.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="maxZoomLevel">
-/sdk-for-flutter-explore-mapview-mapcameralimits-maxzoomlevel
+<a href="../mapview/MapCameraLimits/maxZoomLevel.html">/sdk-for-flutter-explore-mapview-mapcameralimits-maxzoomlevel</a>
 → double
 </dt>
 <dd>
@@ -233,7 +232,7 @@ to default.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="minTilt">
-/sdk-for-flutter-explore-mapview-mapcameralimits-mintilt
+<a href="../mapview/MapCameraLimits/minTilt.html">/sdk-for-flutter-explore-mapview-mapcameralimits-mintilt</a>
 → double
 </dt>
 <dd>
@@ -241,7 +240,7 @@ to default.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="minZoomLevel">
-/sdk-for-flutter-explore-mapview-mapcameralimits-minzoomlevel
+<a href="../mapview/MapCameraLimits/minZoomLevel.html">/sdk-for-flutter-explore-mapview-mapcameralimits-minzoomlevel</a>
 → double
 </dt>
 <dd>
@@ -258,8 +257,8 @@ to default.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapCameraLimits class</li>
 </ol>
 <h5>mapview library</h5>
@@ -276,5 +275,4 @@ to default.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

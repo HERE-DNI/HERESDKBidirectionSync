@@ -1,10 +1,9 @@
 ---
-title: "MapMarkerAnimationInstantiationException class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationexception-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapMarkerAnimationInstantiationException-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationexceptio
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
 <li class="self-crumb">MapMarkerAnimationInstantiationException class</li>
 </ol>
 <div class="self-name">MapMarkerAnimationInstantiationException</div>
@@ -51,13 +50,13 @@ menu
 <div>
 <h1>MapMarkerAnimationInstantiationException class</h1></div>
 <section class="desc markdown">
-<p>Thrown when a problem occurs while trying to create a /sdk-for-flutter-explore-animation-mapmarkeranimation-class.</p>
+<p>Thrown when a problem occurs while trying to create a <a href="../animation/MapMarkerAnimation-class.html">/sdk-for-flutter-explore-animation-mapmarkeranimation-class</a>.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapMarkerAnimationInstantiationException">
-/sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationexception-mapmarkeranimationinstantiationexception(/sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationerrorcode error)
+<a href="../animation/MapMarkerAnimationInstantiationException/MapMarkerAnimationInstantiationException.html">/sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationexception-mapmarkeranimationinstantiationexception</a>(<a href="../animation/MapMarkerAnimationInstantiationErrorCode.html">/sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationerrorcode</a> error)
 </dt>
 <dd>
 </dd>
@@ -67,14 +66,14 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="error">
-/sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationexception-error
-→ /sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationerrorcode
+<a href="../animation/MapMarkerAnimationInstantiationException/error.html">/sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationexception-error</a>
+→ <a href="../animation/MapMarkerAnimationInstantiationErrorCode.html">/sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationerrorcode</a>
 </dt>
 <dd>
 <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationexception-hashcode
+<a href="../animation/MapMarkerAnimationInstantiationException/hashCode.html">/sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationexception-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -82,7 +81,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationexception-runtimetype
+<a href="../animation/MapMarkerAnimationInstantiationException/runtimeType.html">/sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationexception-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -95,7 +94,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationexception-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../animation/MapMarkerAnimationInstantiationException/noSuchMethod.html">/sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationexception-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -104,7 +103,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationexception-tostring(<wbr/>)
+<a href="../animation/MapMarkerAnimationInstantiationException/toString.html">/sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationexception-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -118,7 +117,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationexception-operator-equals(<wbr/>Object other)
+<a href="../animation/MapMarkerAnimationInstantiationException/operator_equals.html">/sdk-for-flutter-explore-animation-mapmarkeranimationinstantiationexception-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -136,8 +135,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
 <li class="self-crumb">MapMarkerAnimationInstantiationException class</li>
 </ol>
 <h5>animation library</h5>
@@ -154,5 +153,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

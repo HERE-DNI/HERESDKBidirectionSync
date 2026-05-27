@@ -1,10 +1,9 @@
 ---
-title: "Anchor2DKeyframe constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-animation-anchor2dkeyframe-anchor2dkeyframe"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Anchor2DKeyframe.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-animation-anchor2dkeyframe-anchor2dkeyframe"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-animation-anchor2dkeyframe-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../../animation/Anchor2DKeyframe-class.html">/sdk-for-flutter-explore-animation-anchor2dkeyframe-class</a></li>
 <li class="self-crumb">Anchor2DKeyframe factory constructor</li>
 </ol>
 <div class="self-name">Anchor2DKeyframe</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>Anchor2DKeyframe constructor</h1></div>
 <section class="multi-line-signature">
-Anchor2DKeyframe(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-anchor2d-class value, </li>
+Anchor2DKeyframe(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a> value, </li>
 <li>Duration duration</li>
 </ol>)
     </section>
@@ -66,9 +65,9 @@ Negative duration value gets clamped to 0.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-animation-anchor2dkeyframe-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../../animation/Anchor2DKeyframe-class.html">/sdk-for-flutter-explore-animation-anchor2dkeyframe-class</a></li>
 <li class="self-crumb">Anchor2DKeyframe factory constructor</li>
 </ol>
 <h5>Anchor2DKeyframe class</h5>
@@ -85,5 +84,4 @@ Negative duration value gets clamped to 0.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

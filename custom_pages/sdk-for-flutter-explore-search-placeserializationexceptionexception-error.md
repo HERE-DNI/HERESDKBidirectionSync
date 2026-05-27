@@ -1,10 +1,9 @@
 ---
-title: "error property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-placeserializationexceptionexception-error"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- error.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-placeserializationexceptionexception-error
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-placeserializationexceptionexception-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/PlaceSerializationExceptionException-class.html">/sdk-for-flutter-explore-search-placeserializationexceptionexception-class</a></li>
 <li class="self-crumb">error property</li>
 </ol>
 <div class="self-name">error</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>error property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-search-placeserializationerror
+<a href="../../search/PlaceSerializationError.html">/sdk-for-flutter-explore-search-placeserializationerror</a>
 error
 <div class="features">final</div>
 </section>
@@ -54,9 +53,9 @@ error
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-placeserializationexceptionexception-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/PlaceSerializationExceptionException-class.html">/sdk-for-flutter-explore-search-placeserializationexceptionexception-class</a></li>
 <li class="self-crumb">error property</li>
 </ol>
 <h5>PlaceSerializationExceptionException class</h5>
@@ -73,5 +72,4 @@ error
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "token property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-authenticationdata-token"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- token.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-authenticationdata-token"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-authenticationdata-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/AuthenticationData-class.html">/sdk-for-flutter-explore-core-authenticationdata-class</a></li>
 <li class="self-crumb">token property</li>
 </ol>
 <div class="self-name">token</div>
@@ -60,9 +59,9 @@ Defaults to an empty string.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-authenticationdata-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/AuthenticationData-class.html">/sdk-for-flutter-explore-core-authenticationdata-class</a></li>
 <li class="self-crumb">token property</li>
 </ol>
 <h5>AuthenticationData class</h5>
@@ -79,5 +78,4 @@ Defaults to an empty string.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "Contact class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-contact-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Contact-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-search-contact-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">Contact class</li>
 </ol>
 <div class="self-name">Contact</div>
@@ -61,13 +60,13 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Contact">
-/sdk-for-flutter-explore-search-contact-contact(List&lt;<wbr/>/sdk-for-flutter-explore-search-landlinephone-class&gt; landlinePhones, List&lt;<wbr/>/sdk-for-flutter-explore-search-mobilephone-class&gt; mobilePhones, List&lt;<wbr/>/sdk-for-flutter-explore-search-emailaddress-class&gt; emails, List&lt;<wbr/>/sdk-for-flutter-explore-search-websiteaddress-class&gt; websites)
+<a href="../search/Contact/Contact.html">/sdk-for-flutter-explore-search-contact-contact</a>(List&lt;<wbr/><a href="../search/LandlinePhone-class.html">/sdk-for-flutter-explore-search-landlinephone-class</a>&gt; landlinePhones, List&lt;<wbr/><a href="../search/MobilePhone-class.html">/sdk-for-flutter-explore-search-mobilephone-class</a>&gt; mobilePhones, List&lt;<wbr/><a href="../search/EmailAddress-class.html">/sdk-for-flutter-explore-search-emailaddress-class</a>&gt; emails, List&lt;<wbr/><a href="../search/WebsiteAddress-class.html">/sdk-for-flutter-explore-search-websiteaddress-class</a>&gt; websites)
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="Contact.withDefaults">
-/sdk-for-flutter-explore-search-contact-contact-withdefaults()
+<a href="../search/Contact/Contact.withDefaults.html">/sdk-for-flutter-explore-search-contact-contact-withdefaults</a>()
 </dt>
 <dd>
           Creates a new instance.
@@ -78,8 +77,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="emails">
-/sdk-for-flutter-explore-search-contact-emails
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-emailaddress-class&gt;
+<a href="../search/Contact/emails.html">/sdk-for-flutter-explore-search-contact-emails</a>
+↔ List&lt;<wbr/><a href="../search/EmailAddress-class.html">/sdk-for-flutter-explore-search-emailaddress-class</a>&gt;
 </dt>
 <dd>
   The list of email addresses with associated categories.
@@ -87,7 +86,7 @@ This data is not available in offline search.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-contact-hashcode
+<a href="../search/Contact/hashCode.html">/sdk-for-flutter-explore-search-contact-hashcode</a>
 → int
 </dt>
 <dd>
@@ -95,8 +94,8 @@ This data is not available in offline search.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="landlinePhones">
-/sdk-for-flutter-explore-search-contact-landlinephones
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-landlinephone-class&gt;
+<a href="../search/Contact/landlinePhones.html">/sdk-for-flutter-explore-search-contact-landlinephones</a>
+↔ List&lt;<wbr/><a href="../search/LandlinePhone-class.html">/sdk-for-flutter-explore-search-landlinephone-class</a>&gt;
 </dt>
 <dd>
   The list of landline phone numbers with associated categories.
@@ -104,8 +103,8 @@ This data is not available in offline search.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="mobilePhones">
-/sdk-for-flutter-explore-search-contact-mobilephones
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-mobilephone-class&gt;
+<a href="../search/Contact/mobilePhones.html">/sdk-for-flutter-explore-search-contact-mobilephones</a>
+↔ List&lt;<wbr/><a href="../search/MobilePhone-class.html">/sdk-for-flutter-explore-search-mobilephone-class</a>&gt;
 </dt>
 <dd>
   The list of mobile phones numbers with associated categories.
@@ -113,7 +112,7 @@ This data is not available in offline search.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-contact-runtimetype
+<a href="../search/Contact/runtimeType.html">/sdk-for-flutter-explore-search-contact-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -121,8 +120,8 @@ This data is not available in offline search.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="websites">
-/sdk-for-flutter-explore-search-contact-websites
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-websiteaddress-class&gt;
+<a href="../search/Contact/websites.html">/sdk-for-flutter-explore-search-contact-websites</a>
+↔ List&lt;<wbr/><a href="../search/WebsiteAddress-class.html">/sdk-for-flutter-explore-search-websiteaddress-class</a>&gt;
 </dt>
 <dd>
   The list of website addresses with associated categories.
@@ -135,7 +134,7 @@ This data is not available in offline search.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-contact-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/Contact/noSuchMethod.html">/sdk-for-flutter-explore-search-contact-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -144,7 +143,7 @@ This data is not available in offline search.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-contact-tostring(<wbr/>)
+<a href="../search/Contact/toString.html">/sdk-for-flutter-explore-search-contact-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -158,7 +157,7 @@ This data is not available in offline search.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-contact-operator-equals(<wbr/>Object other)
+<a href="../search/Contact/operator_equals.html">/sdk-for-flutter-explore-search-contact-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -177,8 +176,8 @@ This data is not available in offline search.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">Contact class</li>
 </ol>
 <h5>search library</h5>
@@ -195,5 +194,4 @@ This data is not available in offline search.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

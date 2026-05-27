@@ -1,10 +1,9 @@
 ---
-title: "DoubleTapListener constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-gestures-doubletaplistener-doubletaplistener"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- DoubleTapListener.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-gestures-doubletaplistener-doubletaplistener"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-doubletaplistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/DoubleTapListener-class.html">/sdk-for-flutter-explore-gestures-doubletaplistener-class</a></li>
 <li class="self-crumb">DoubleTapListener factory constructor</li>
 </ol>
 <div class="self-name">DoubleTapListener</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>DoubleTapListener constructor</h1></div>
 <section class="multi-line-signature">
-DoubleTapListener(<wbr/><ol class="parameter-list single-line"> <li>void onDoubleTapLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-point2d-class</li>
+DoubleTapListener(<wbr/><ol class="parameter-list single-line"> <li>void onDoubleTapLambda(<ol class="parameter-list single-line"> <li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a></li>
 </ol>)</li>
 </ol>)
     </section>
@@ -64,9 +63,9 @@ DoubleTapListener(<wbr/><ol class="parameter-list single-line"> <li>void onDoubl
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-doubletaplistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/DoubleTapListener-class.html">/sdk-for-flutter-explore-gestures-doubletaplistener-class</a></li>
 <li class="self-crumb">DoubleTapListener factory constructor</li>
 </ol>
 <h5>DoubleTapListener class</h5>
@@ -83,5 +82,4 @@ DoubleTapListener(<wbr/><ol class="parameter-list single-line"> <li>void onDoubl
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

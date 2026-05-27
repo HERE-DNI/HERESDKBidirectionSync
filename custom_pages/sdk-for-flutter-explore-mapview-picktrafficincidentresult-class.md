@@ -1,10 +1,9 @@
 ---
-title: "PickTrafficIncidentResult class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-picktrafficincidentresult-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PickTrafficIncidentResult-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -32,8 +31,8 @@ slug: "sdk-for-flutter-explore-mapview-picktrafficincidentresult-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">PickTrafficIncidentResult class</li>
 </ol>
 <div class="self-name">PickTrafficIncidentResult</div>
@@ -59,14 +58,14 @@ menu
 <section class="desc markdown">
 <p>Carries the result of picking a Carto traffic incident object.</p>
 <p>Description of incident is currently not present in our map data, so
-/sdk-for-flutter-explore-traffic-trafficincidentbase-description always returns an empty string.</p>
+<a href="../traffic/TrafficIncidentBase/description.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-description</a> always returns an empty string.</p>
 </section>
 <section>
 <dl class="dl-horizontal">
 <dt>Implemented types</dt>
 <dd>
 <ul class="comma-separated clazz-relationships">
-<li>/sdk-for-flutter-explore-traffic-trafficincidentbase-class</li>
+<li><a href="../traffic/TrafficIncidentBase-class.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-class</a></li>
 </ul>
 </dd>
 </dl>
@@ -75,7 +74,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PickTrafficIncidentResult">
-/sdk-for-flutter-explore-mapview-picktrafficincidentresult-picktrafficincidentresult()
+<a href="../mapview/PickTrafficIncidentResult/PickTrafficIncidentResult.html">/sdk-for-flutter-explore-mapview-picktrafficincidentresult-picktrafficincidentresult</a>()
 </dt>
 <dd>
 </dd>
@@ -85,8 +84,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="coordinates">
-/sdk-for-flutter-explore-mapview-picktrafficincidentresult-coordinates
-→ /sdk-for-flutter-explore-core-geocoordinates-class
+<a href="../mapview/PickTrafficIncidentResult/coordinates.html">/sdk-for-flutter-explore-mapview-picktrafficincidentresult-coordinates</a>
+→ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 </dt>
 <dd>
   The geographic coordinates of the traffic incident.
@@ -94,8 +93,8 @@ Gets the geographic coordinates of the traffic incident.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="description">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-description
-→ /sdk-for-flutter-explore-core-localizedtext-class
+<a href="../traffic/TrafficIncidentBase/description.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-description</a>
+→ <a href="../core/LocalizedText-class.html">/sdk-for-flutter-explore-core-localizedtext-class</a>
 </dt>
 <dd class="inherited">
   The human readable description of the incident, possibly with location information.
@@ -106,7 +105,7 @@ Gets the human readable description of the incident, possibly with location info
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="endTime">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-endtime
+<a href="../traffic/TrafficIncidentBase/endTime.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-endtime</a>
 → DateTime?
 </dt>
 <dd class="inherited">
@@ -116,7 +115,7 @@ Get the time until which the incident is valid, after this time the incident sho
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-hashcode
+<a href="../traffic/TrafficIncidentBase/hashCode.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -124,17 +123,17 @@ Get the time until which the incident is valid, after this time the incident sho
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="impact">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-impact
-→ /sdk-for-flutter-explore-traffic-trafficincidentimpact
+<a href="../traffic/TrafficIncidentBase/impact.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-impact</a>
+→ <a href="../traffic/TrafficIncidentImpact.html">/sdk-for-flutter-explore-traffic-trafficincidentimpact</a>
 </dt>
 <dd class="inherited">
   The impact of the incident.
-The value is /sdk-for-flutter-explore-traffic-trafficincidentimpact if it hasn't been provided by the traffic incidents supplier.
+The value is <a href="../traffic/TrafficIncidentImpact.html">/sdk-for-flutter-explore-traffic-trafficincidentimpact</a> if it hasn't been provided by the traffic incidents supplier.
 Gets the impact of the incident.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="originalId">
-/sdk-for-flutter-explore-mapview-picktrafficincidentresult-originalid
+<a href="../mapview/PickTrafficIncidentResult/originalId.html">/sdk-for-flutter-explore-mapview-picktrafficincidentresult-originalid</a>
 → String
 </dt>
 <dd>
@@ -145,7 +144,7 @@ Gets the unique traffic event ID.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-runtimetype
+<a href="../traffic/TrafficIncidentBase/runtimeType.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -153,7 +152,7 @@ Gets the unique traffic event ID.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="startTime">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-starttime
+<a href="../traffic/TrafficIncidentBase/startTime.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-starttime</a>
 → DateTime?
 </dt>
 <dd class="inherited">
@@ -163,12 +162,12 @@ Gets the time from which the incident is valid, before this time the incident sh
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="type">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-type
-→ /sdk-for-flutter-explore-traffic-trafficincidenttype
+<a href="../traffic/TrafficIncidentBase/type.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-type</a>
+→ <a href="../traffic/TrafficIncidentType.html">/sdk-for-flutter-explore-traffic-trafficincidenttype</a>
 </dt>
 <dd class="inherited">
   The category of the incident.
-The value is /sdk-for-flutter-explore-traffic-trafficincidenttype if it hasn't been provided by the traffic incidents supplier.
+The value is <a href="../traffic/TrafficIncidentType.html">/sdk-for-flutter-explore-traffic-trafficincidenttype</a> if it hasn't been provided by the traffic incidents supplier.
 Gets the category of the incident.
   <div class="features">no setterinherited</div>
 </dd>
@@ -178,7 +177,7 @@ Gets the category of the incident.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../traffic/TrafficIncidentBase/noSuchMethod.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -187,7 +186,7 @@ Gets the category of the incident.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-tostring(<wbr/>)
+<a href="../traffic/TrafficIncidentBase/toString.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -201,7 +200,7 @@ Gets the category of the incident.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-operator-equals(<wbr/>Object other)
+<a href="../traffic/TrafficIncidentBase/operator_equals.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -219,8 +218,8 @@ Gets the category of the incident.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">PickTrafficIncidentResult class</li>
 </ol>
 <h5>mapview library</h5>
@@ -237,5 +236,4 @@ Gets the category of the incident.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

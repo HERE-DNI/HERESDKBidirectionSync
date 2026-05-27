@@ -1,10 +1,9 @@
 ---
-title: "frontalAreaInSquareMeters property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-physicalconsumptionmodel-frontalareainsquaremeters"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- frontalAreaInSquareMeters.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-physicalconsumptionmodel-frontalareainsqu
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-physicalconsumptionmodel-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/PhysicalConsumptionModel-class.html">/sdk-for-flutter-explore-routing-physicalconsumptionmodel-class</a></li>
 <li class="self-crumb">frontalAreaInSquareMeters property</li>
 </ol>
 <div class="self-name">frontalAreaInSquareMeters</div>
@@ -46,7 +45,7 @@ menu
 <section class="desc markdown">
 <p>Frontal area represents the total cross section area of the vehicle as viewed from the front, specified in square meters.
 Physical consumption model is using this value in combination with <code>airDragCoefficient</code> to calculate the consumption caused by air resistance.
-As fallback /sdk-for-flutter-explore-transport-vehiclespecification-widthincentimeters and /sdk-for-flutter-explore-transport-vehiclespecification-heightincentimeters are used.</p>
+As fallback <a href="../../transport/VehicleSpecification/widthInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecification-widthincentimeters</a> and <a href="../../transport/VehicleSpecification/heightInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecification-heightincentimeters</a> are used.</p>
 <p>This parameter is used to provide a more accurate consumption prediction for electric vehicles.</p>
 <p>In the range from 0.5 to 50</p>
 </section>
@@ -62,9 +61,9 @@ As fallback /sdk-for-flutter-explore-transport-vehiclespecification-widthincenti
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-physicalconsumptionmodel-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/PhysicalConsumptionModel-class.html">/sdk-for-flutter-explore-routing-physicalconsumptionmodel-class</a></li>
 <li class="self-crumb">frontalAreaInSquareMeters property</li>
 </ol>
 <h5>PhysicalConsumptionModel class</h5>
@@ -81,5 +80,4 @@ As fallback /sdk-for-flutter-explore-transport-vehiclespecification-widthincenti
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

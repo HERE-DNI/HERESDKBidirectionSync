@@ -1,10 +1,9 @@
 ---
-title: "error static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-sdklogger-error"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- error.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdklogger-error"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdklogger-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKLogger-class.html">/sdk-for-flutter-explore-core-engine-sdklogger-class</a></li>
 <li class="self-crumb">error static method</li>
 </ol>
 <div class="self-name">error</div>
@@ -69,9 +68,9 @@ error(<wbr/><ol class="parameter-list single-line"> <li>String tag, </li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdklogger-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKLogger-class.html">/sdk-for-flutter-explore-core-engine-sdklogger-class</a></li>
 <li class="self-crumb">error static method</li>
 </ol>
 <h5>SDKLogger class</h5>
@@ -88,5 +87,4 @@ error(<wbr/><ol class="parameter-list single-line"> <li>String tag, </li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

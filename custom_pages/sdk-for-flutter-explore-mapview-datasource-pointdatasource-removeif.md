@@ -1,10 +1,9 @@
 ---
-title: "removeIf abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-pointdatasource-removeif"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- removeIf.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-pointdatasource-removeif"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-pointdatasource-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/PointDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-class</a></li>
 <li class="self-crumb">removeIf abstract method</li>
 </ol>
 <div class="self-name">removeIf</div>
@@ -39,7 +38,7 @@ menu
 <h1>removeIf abstract method</h1></div>
 <section class="multi-line-signature">
 void
-removeIf(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-pointdatasourcepointdataprocessor processor</li>
+removeIf(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/PointDataSourcePointDataProcessor.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasourcepointdataprocessor</a> processor</li>
 </ol>)
 
       
@@ -66,9 +65,9 @@ The inspector cannot update the point data.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-pointdatasource-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/PointDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatasource-class</a></li>
 <li class="self-crumb">removeIf abstract method</li>
 </ol>
 <h5>PointDataSource class</h5>
@@ -85,5 +84,4 @@ The inspector cannot update the point data.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

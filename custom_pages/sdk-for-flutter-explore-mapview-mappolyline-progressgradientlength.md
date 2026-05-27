@@ -1,10 +1,9 @@
 ---
-title: "progressGradientLength property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mappolyline-progressgradientlength"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- progressGradientLength.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolyline-progressgradientlength"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolyline-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a></li>
 <li class="self-crumb">progressGradientLength property</li>
 </ol>
 <div class="self-name">progressGradientLength</div>
@@ -39,7 +38,7 @@ menu
 <h1>progressGradientLength property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class
+<a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a>
 progressGradientLength
 </section>
 <section class="desc markdown">
@@ -54,18 +53,18 @@ Gets the maximum gradient length between <code>MapPolyline.lineColor' and 'MapPo
 <section id="setter">
 <section class="multi-line-signature">
 void
-progressGradientLength=(<wbr/>/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class value)
+progressGradientLength=(<wbr/><a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> value)
 </section>
 <section class="desc markdown">
 <p>The maximum gradient length between <code>MapPolyline.lineColor' and 'MapPolyline.progressColor</code> in zoom level dependent pixels.
 Sets the maximum gradient length between <code>MapPolyline.lineColor' and 'MapPolyline.progressColor</code> in zoom level dependent pixels.
-To achieve a constant gradient length, use /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class
+To achieve a constant gradient length, use <a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a>
 with a single value. To achieve a gradient length dependent on map zoom,
-use /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class with multiple values. The default value is a constant
+use <a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> with multiple values. The default value is a constant
 gradient length of zero pixels. The gradient is guaranteed to fit into polyline, i.e. the
 actual gradient can be shorter then <code>progressGradientLength</code>.</p>
-<p>For /sdk-for-flutter-explore-mapview-mapmeasurekind only /sdk-for-flutter-explore-mapview-mapmeasurekind is supported.
-For /sdk-for-flutter-explore-mapview-rendersizeunit only /sdk-for-flutter-explore-mapview-rendersizeunit is supported.
+<p>For <a href="../../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> only <a href="../../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> is supported.
+For <a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> only <a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> is supported.
 A parameter with unsupported values is ignored.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -81,9 +80,9 @@ A parameter with unsupported values is ignored.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolyline-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a></li>
 <li class="self-crumb">progressGradientLength property</li>
 </ol>
 <h5>MapPolyline class</h5>
@@ -100,5 +99,4 @@ A parameter with unsupported values is ignored.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

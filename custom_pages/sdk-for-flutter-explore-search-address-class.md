@@ -1,10 +1,9 @@
 ---
-title: "Address class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-address-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Address-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -40,8 +39,8 @@ slug: "sdk-for-flutter-explore-search-address-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">Address class</li>
 </ol>
 <div class="self-name">Address</div>
@@ -66,16 +65,16 @@ menu
 <h1>Address class</h1></div>
 <section class="desc markdown">
 <p>Information about the address of a location.</p>
-<p>Used in /sdk-for-flutter-explore-search-place-address.</p>
+<p>Used in <a href="../search/Place/address.html">/sdk-for-flutter-explore-search-place-address</a>.</p>
 <p>Note that while <code>OfflineSearchEngine.suggest</code> and <code>OfflineSearchEngine.suggestByText</code> set all available details,
-<code>SearchEngine.suggest</code> and <code>SearchEngine.suggestByText</code> set only /sdk-for-flutter-explore-search-address-addresstext.
-Complete address details can be obtained by searching with /sdk-for-flutter-explore-search-placeidquery-class.</p>
+<code>SearchEngine.suggest</code> and <code>SearchEngine.suggestByText</code> set only <a href="../search/Address/addressText.html">/sdk-for-flutter-explore-search-address-addresstext</a>.
+Complete address details can be obtained by searching with <a href="../search/PlaceIdQuery-class.html">/sdk-for-flutter-explore-search-placeidquery-class</a>.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Address">
-/sdk-for-flutter-explore-search-address-address()
+<a href="../search/Address/Address.html">/sdk-for-flutter-explore-search-address-address</a>()
 </dt>
 <dd>
           Default constructor.
@@ -87,7 +86,7 @@ Note: Sets all the string values to "".
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="addressText">
-/sdk-for-flutter-explore-search-address-addresstext
+<a href="../search/Address/addressText.html">/sdk-for-flutter-explore-search-address-addresstext</a>
 ↔ String
 </dt>
 <dd>
@@ -96,7 +95,7 @@ Note: This String can be empty when no data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="block">
-/sdk-for-flutter-explore-search-address-block
+<a href="../search/Address/block.html">/sdk-for-flutter-explore-search-address-block</a>
 ↔ String
 </dt>
 <dd>
@@ -105,7 +104,7 @@ Note: This String can be empty when no data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="city">
-/sdk-for-flutter-explore-search-address-city
+<a href="../search/Address/city.html">/sdk-for-flutter-explore-search-address-city</a>
 ↔ String
 </dt>
 <dd>
@@ -114,7 +113,7 @@ Note: This String can be empty when no data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="country">
-/sdk-for-flutter-explore-search-address-country
+<a href="../search/Address/country.html">/sdk-for-flutter-explore-search-address-country</a>
 ↔ String
 </dt>
 <dd>
@@ -123,7 +122,7 @@ Note: This String can be empty when no data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="countryCode">
-/sdk-for-flutter-explore-search-address-countrycode
+<a href="../search/Address/countryCode.html">/sdk-for-flutter-explore-search-address-countrycode</a>
 ↔ String
 </dt>
 <dd>
@@ -132,7 +131,7 @@ Note: This String can be empty when no data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="county">
-/sdk-for-flutter-explore-search-address-county
+<a href="../search/Address/county.html">/sdk-for-flutter-explore-search-address-county</a>
 ↔ String
 </dt>
 <dd>
@@ -143,7 +142,7 @@ Note: This String can be empty when no data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="district">
-/sdk-for-flutter-explore-search-address-district
+<a href="../search/Address/district.html">/sdk-for-flutter-explore-search-address-district</a>
 ↔ String
 </dt>
 <dd>
@@ -154,7 +153,7 @@ Note: This String can be empty when no data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-address-hashcode
+<a href="../search/Address/hashCode.html">/sdk-for-flutter-explore-search-address-hashcode</a>
 → int
 </dt>
 <dd>
@@ -162,7 +161,7 @@ Note: This String can be empty when no data is available.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="houseNumOrName">
-/sdk-for-flutter-explore-search-address-housenumorname
+<a href="../search/Address/houseNumOrName.html">/sdk-for-flutter-explore-search-address-housenumorname</a>
 ↔ String
 </dt>
 <dd>
@@ -171,7 +170,7 @@ Note: This String can be empty when no data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="postalCode">
-/sdk-for-flutter-explore-search-address-postalcode
+<a href="../search/Address/postalCode.html">/sdk-for-flutter-explore-search-address-postalcode</a>
 ↔ String
 </dt>
 <dd>
@@ -182,7 +181,7 @@ Note: This String can be empty when no data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-address-runtimetype
+<a href="../search/Address/runtimeType.html">/sdk-for-flutter-explore-search-address-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -190,7 +189,7 @@ Note: This String can be empty when no data is available.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="state">
-/sdk-for-flutter-explore-search-address-state
+<a href="../search/Address/state.html">/sdk-for-flutter-explore-search-address-state</a>
 ↔ String
 </dt>
 <dd>
@@ -200,7 +199,7 @@ Note: This String can be empty when no data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="stateCode">
-/sdk-for-flutter-explore-search-address-statecode
+<a href="../search/Address/stateCode.html">/sdk-for-flutter-explore-search-address-statecode</a>
 ↔ String
 </dt>
 <dd>
@@ -210,7 +209,7 @@ Note: This String can be empty when no data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="street">
-/sdk-for-flutter-explore-search-address-street
+<a href="../search/Address/street.html">/sdk-for-flutter-explore-search-address-street</a>
 ↔ String
 </dt>
 <dd>
@@ -219,7 +218,7 @@ Note: This String can be empty when no data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="subBlock">
-/sdk-for-flutter-explore-search-address-subblock
+<a href="../search/Address/subBlock.html">/sdk-for-flutter-explore-search-address-subblock</a>
 ↔ String
 </dt>
 <dd>
@@ -228,7 +227,7 @@ Note: This String can be empty when no data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="subdistrict">
-/sdk-for-flutter-explore-search-address-subdistrict
+<a href="../search/Address/subdistrict.html">/sdk-for-flutter-explore-search-address-subdistrict</a>
 ↔ String
 </dt>
 <dd>
@@ -238,8 +237,8 @@ Note: This String can be empty when no data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="type">
-/sdk-for-flutter-explore-search-address-type
-↔ /sdk-for-flutter-explore-search-addresstype?
+<a href="../search/Address/type.html">/sdk-for-flutter-explore-search-address-type</a>
+↔ <a href="../search/AddressType.html">/sdk-for-flutter-explore-search-addresstype</a>?
 </dt>
 <dd>
   Specifies the address type.
@@ -251,7 +250,7 @@ Note: This String can be empty when no data is available.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-address-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/Address/noSuchMethod.html">/sdk-for-flutter-explore-search-address-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -260,7 +259,7 @@ Note: This String can be empty when no data is available.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-address-tostring(<wbr/>)
+<a href="../search/Address/toString.html">/sdk-for-flutter-explore-search-address-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -274,7 +273,7 @@ Note: This String can be empty when no data is available.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-address-operator-equals(<wbr/>Object other)
+<a href="../search/Address/operator_equals.html">/sdk-for-flutter-explore-search-address-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -293,8 +292,8 @@ Note: This String can be empty when no data is available.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">Address class</li>
 </ol>
 <h5>search library</h5>
@@ -311,5 +310,4 @@ Note: This String can be empty when no data is available.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

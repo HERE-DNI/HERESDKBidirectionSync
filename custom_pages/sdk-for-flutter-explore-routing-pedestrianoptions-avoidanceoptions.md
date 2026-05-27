@@ -1,10 +1,9 @@
 ---
-title: "avoidanceOptions property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-pedestrianoptions-avoidanceoptions"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- avoidanceOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-pedestrianoptions-avoidanceoptions"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-pedestrianoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/PedestrianOptions-class.html">/sdk-for-flutter-explore-routing-pedestrianoptions-class</a></li>
 <li class="self-crumb">avoidanceOptions property</li>
 </ol>
 <div class="self-name">avoidanceOptions</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>avoidanceOptions property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-routing-avoidanceoptions-class
+<a href="../../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a>
 avoidanceOptions
 <div class="features">getter/setter pair</div>
 </section>
@@ -58,9 +57,9 @@ no restrictions are applied.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-pedestrianoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/PedestrianOptions-class.html">/sdk-for-flutter-explore-routing-pedestrianoptions-class</a></li>
 <li class="self-crumb">avoidanceOptions property</li>
 </ol>
 <h5>PedestrianOptions class</h5>
@@ -77,5 +76,4 @@ no restrictions are applied.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

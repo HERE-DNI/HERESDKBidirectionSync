@@ -1,10 +1,9 @@
 ---
-title: "dataPath property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-sdkoptions-datapath"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- dataPath.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdkoptions-datapath"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
 <li class="self-crumb">dataPath property</li>
 </ol>
 <div class="self-name">dataPath</div>
@@ -45,8 +44,8 @@ menu
 </section>
 <section class="desc markdown">
 <p>Path used for storing application internal data, such as the offline search index and other essential data required for proper functionality.</p>
-<p><strong>Note:</strong> For common use cases, prefer /sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath, or keep the default paths. Use <code>dataPath</code> only as a fallback if /sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath is not writable, for example, when you have an agreement with HERE to flash data at factory time.</p>
-<p>By default, this returns an empty string. In this case, the same path as /sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath will be used.
+<p><strong>Note:</strong> For common use cases, prefer <a href="../../core.engine/SDKOptions/persistentMapStoragePath.html">/sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath</a>, or keep the default paths. Use <code>dataPath</code> only as a fallback if <a href="../../core.engine/SDKOptions/persistentMapStoragePath.html">/sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath</a> is not writable, for example, when you have an agreement with HERE to flash data at factory time.</p>
+<p>By default, this returns an empty string. In this case, the same path as <a href="../../core.engine/SDKOptions/persistentMapStoragePath.html">/sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath</a> will be used.
 If an absolute path is set, it will be used instead.
 If a relative path is set then directory
 <code>Application Library directory</code> for iOS and <code>Context.getFilesDir().getPath()</code> for Android is used as parent path.
@@ -60,12 +59,12 @@ It is recommended not to use the application cache paths like
 and data can be deleted if the device is low on storage space, which will result in application malfunction.
 The path can be on internal or external storage. The internal storage is recommended due to the file I/O speed.
 Note:
-If the /sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath is writable, <code>dataPath</code> can be left empty.
-If the /sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath is not writable, <code>dataPath</code> must be set and also be writable. Note that <code>dataPath</code> is used to store essential HERE SDK data.</p>
+If the <a href="../../core.engine/SDKOptions/persistentMapStoragePath.html">/sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath</a> is writable, <code>dataPath</code> can be left empty.
+If the <a href="../../core.engine/SDKOptions/persistentMapStoragePath.html">/sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath</a> is not writable, <code>dataPath</code> must be set and also be writable. Note that <code>dataPath</code> is used to store essential HERE SDK data.</p>
 <p><strong>Important:</strong>
-There is no automatic migration of stored data between the /sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath and the <code>dataPath</code>. For ease of management,
+There is no automatic migration of stored data between the <a href="../../core.engine/SDKOptions/persistentMapStoragePath.html">/sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath</a> and the <code>dataPath</code>. For ease of management,
 it's recommended to set the persistence path as writable and ignore <code>dataPath</code>.
-If <code>dataPath</code> is set differently from the /sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath, some data that would typically be saved in the /sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath will now be saved to <code>dataPath</code>.
+If <code>dataPath</code> is set differently from the <a href="../../core.engine/SDKOptions/persistentMapStoragePath.html">/sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath</a>, some data that would typically be saved in the <a href="../../core.engine/SDKOptions/persistentMapStoragePath.html">/sdk-for-flutter-explore-core-engine-sdkoptions-persistentmapstoragepath</a> will now be saved to <code>dataPath</code>.
 If <code>dataPath</code> is set and later unset, any data stored there will remain inaccessible and will not be migrated back.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -80,9 +79,9 @@ If <code>dataPath</code> is set and later unset, any data stored there will rema
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
 <li class="self-crumb">dataPath property</li>
 </ol>
 <h5>SDKOptions class</h5>
@@ -99,5 +98,4 @@ If <code>dataPath</code> is set and later unset, any data stored there will rema
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

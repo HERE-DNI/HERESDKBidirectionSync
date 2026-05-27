@@ -1,10 +1,9 @@
 ---
-title: "IndoorManeuver class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-indoormaneuver-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- IndoorManeuver-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -34,8 +33,8 @@ slug: "sdk-for-flutter-explore-routing-indoormaneuver-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">IndoorManeuver class</li>
 </ol>
 <div class="self-name">IndoorManeuver</div>
@@ -65,7 +64,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="IndoorManeuver">
-/sdk-for-flutter-explore-routing-indoormaneuver-indoormaneuver()
+<a href="../routing/IndoorManeuver/IndoorManeuver.html">/sdk-for-flutter-explore-routing-indoormaneuver-indoormaneuver</a>()
 </dt>
 <dd>
 </dd>
@@ -75,8 +74,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="action">
-/sdk-for-flutter-explore-routing-indoormaneuver-action
-→ /sdk-for-flutter-explore-routing-indoormaneuveractions?
+<a href="../routing/IndoorManeuver/action.html">/sdk-for-flutter-explore-routing-indoormaneuver-action</a>
+→ <a href="../routing/IndoorManeuverActions.html">/sdk-for-flutter-explore-routing-indoormaneuveractions</a>?
 </dt>
 <dd>
   The action type of this maneuver.
@@ -84,8 +83,8 @@ Gets the action type of this maneuver.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="coordinate">
-/sdk-for-flutter-explore-routing-indoormaneuver-coordinate
-→ /sdk-for-flutter-explore-core-geocoordinates-class
+<a href="../routing/IndoorManeuver/coordinate.html">/sdk-for-flutter-explore-routing-indoormaneuver-coordinate</a>
+→ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 </dt>
 <dd>
   The geographic coordinates of this maneuver.
@@ -93,7 +92,7 @@ Gets the geographic coordinates of this maneuver.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="duration">
-/sdk-for-flutter-explore-routing-indoormaneuver-duration
+<a href="../routing/IndoorManeuver/duration.html">/sdk-for-flutter-explore-routing-indoormaneuver-duration</a>
 → Duration
 </dt>
 <dd>
@@ -102,7 +101,7 @@ Gets the duration to complete this maneuver.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-routing-indoormaneuver-hashcode
+<a href="../routing/IndoorManeuver/hashCode.html">/sdk-for-flutter-explore-routing-indoormaneuver-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -110,8 +109,8 @@ Gets the duration to complete this maneuver.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="indoorLevelChangeData">
-/sdk-for-flutter-explore-routing-indoormaneuver-indoorlevelchangedata
-→ /sdk-for-flutter-explore-routing-indoorlevelchangedata-class?
+<a href="../routing/IndoorManeuver/indoorLevelChangeData.html">/sdk-for-flutter-explore-routing-indoormaneuver-indoorlevelchangedata</a>
+→ <a href="../routing/IndoorLevelChangeData-class.html">/sdk-for-flutter-explore-routing-indoorlevelchangedata-class</a>?
 </dt>
 <dd>
   The level change data for this maneuver. This will be not null if the IndoorManeuverAction is LEVEL_CHANGE_ACTION.
@@ -119,8 +118,8 @@ Gets the level change data for this maneuver. This will be not null if the Indoo
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="indoorSpaceData">
-/sdk-for-flutter-explore-routing-indoormaneuver-indoorspacedata
-→ /sdk-for-flutter-explore-routing-indoorspacedata-class?
+<a href="../routing/IndoorManeuver/indoorSpaceData.html">/sdk-for-flutter-explore-routing-indoormaneuver-indoorspacedata</a>
+→ <a href="../routing/IndoorSpaceData-class.html">/sdk-for-flutter-explore-routing-indoorspacedata-class</a>?
 </dt>
 <dd>
   The indoor space data for this maneuver. This will be not null if the IndoorManeuverAction is ENTER_ACTION or LEAVE_ACTION.
@@ -128,7 +127,7 @@ Gets the indoor space data for this maneuver. This will be not null if the Indoo
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="lengthInMeters">
-/sdk-for-flutter-explore-routing-indoormaneuver-lengthinmeters
+<a href="../routing/IndoorManeuver/lengthInMeters.html">/sdk-for-flutter-explore-routing-indoormaneuver-lengthinmeters</a>
 → double
 </dt>
 <dd>
@@ -137,7 +136,7 @@ Gets the length of this maneuver in meters.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="levelZIndex">
-/sdk-for-flutter-explore-routing-indoormaneuver-levelzindex
+<a href="../routing/IndoorManeuver/levelZIndex.html">/sdk-for-flutter-explore-routing-indoormaneuver-levelzindex</a>
 → int
 </dt>
 <dd>
@@ -146,7 +145,7 @@ Gets the vertical level index of this maneuver.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="offset">
-/sdk-for-flutter-explore-routing-indoormaneuver-offset
+<a href="../routing/IndoorManeuver/offset.html">/sdk-for-flutter-explore-routing-indoormaneuver-offset</a>
 → int
 </dt>
 <dd>
@@ -155,7 +154,7 @@ Gets the offset of this maneuver from the start of the section.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-indoormaneuver-runtimetype
+<a href="../routing/IndoorManeuver/runtimeType.html">/sdk-for-flutter-explore-routing-indoormaneuver-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -163,7 +162,7 @@ Gets the offset of this maneuver from the start of the section.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="sectionIndex">
-/sdk-for-flutter-explore-routing-indoormaneuver-sectionindex
+<a href="../routing/IndoorManeuver/sectionIndex.html">/sdk-for-flutter-explore-routing-indoormaneuver-sectionindex</a>
 → int
 </dt>
 <dd>
@@ -177,7 +176,7 @@ Gets the section index this maneuver belongs to.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-indoormaneuver-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/IndoorManeuver/noSuchMethod.html">/sdk-for-flutter-explore-routing-indoormaneuver-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -186,7 +185,7 @@ Gets the section index this maneuver belongs to.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-indoormaneuver-tostring(<wbr/>)
+<a href="../routing/IndoorManeuver/toString.html">/sdk-for-flutter-explore-routing-indoormaneuver-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -200,7 +199,7 @@ Gets the section index this maneuver belongs to.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-routing-indoormaneuver-operator-equals(<wbr/>Object other)
+<a href="../routing/IndoorManeuver/operator_equals.html">/sdk-for-flutter-explore-routing-indoormaneuver-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -218,8 +217,8 @@ Gets the section index this maneuver belongs to.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">IndoorManeuver class</li>
 </ol>
 <h5>routing library</h5>
@@ -236,5 +235,4 @@ Gets the section index this maneuver belongs to.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

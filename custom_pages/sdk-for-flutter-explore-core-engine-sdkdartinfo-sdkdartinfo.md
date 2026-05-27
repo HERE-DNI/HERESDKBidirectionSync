@@ -3,8 +3,7 @@ title: "SDKDartInfo constructor"
 slug: "sdk-for-flutter-explore-core-engine-sdkdartinfo-sdkdartinfo"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- SDKDartInfo.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdkdartinfo-sdkdartinfo"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdkdartinfo-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKDartInfo-class.html">/sdk-for-flutter-explore-core-engine-sdkdartinfo-class</a></li>
 <li class="self-crumb">SDKDartInfo constructor</li>
 </ol>
 <div class="self-name">SDKDartInfo</div>
@@ -48,9 +47,9 @@ SDKDartInfo(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdkdartinfo-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKDartInfo-class.html">/sdk-for-flutter-explore-core-engine-sdkdartinfo-class</a></li>
 <li class="self-crumb">SDKDartInfo constructor</li>
 </ol>
 <h5>SDKDartInfo class</h5>
@@ -67,5 +66,4 @@ SDKDartInfo(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

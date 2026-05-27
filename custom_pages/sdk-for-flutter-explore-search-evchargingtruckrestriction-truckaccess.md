@@ -1,10 +1,9 @@
 ---
-title: "truckAccess property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evchargingtruckrestriction-truckaccess"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- truckAccess.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evchargingtruckrestriction-truckaccess"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingtruckrestriction-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingTruckRestriction-class.html">/sdk-for-flutter-explore-search-evchargingtruckrestriction-class</a></li>
 <li class="self-crumb">truckAccess property</li>
 </ol>
 <div class="self-name">truckAccess</div>
@@ -39,7 +38,7 @@ menu
 <h1>truckAccess property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-transport-truckclass&gt;
+        List&lt;<wbr/><a href="../../transport/TruckClass.html">/sdk-for-flutter-explore-transport-truckclass</a>&gt;
 truckAccess
 <div class="features">getter/setter pair</div>
 </section>
@@ -52,11 +51,11 @@ as well as possible other restrictions set by the operator. If there are true di
 weight limits at the EV charging location, they are specified separately in vehicleLimitations.</p>
 <p>The classification is available only to a subset of EV charging locations, depending on the
 information available from the operators. Hence, at least vehicles belonging to the
-/sdk-for-flutter-explore-transport-truckclass category can be charged also in many EV charging locations not having
-explicit signaling for the /sdk-for-flutter-explore-transport-truckclass category.</p>
+<a href="../../transport/TruckClass.html">/sdk-for-flutter-explore-transport-truckclass</a> category can be charged also in many EV charging locations not having
+explicit signaling for the <a href="../../transport/TruckClass.html">/sdk-for-flutter-explore-transport-truckclass</a> category.</p>
 <p>Furthermore, although the classification is based on mass/weight ranges in growing order,
 an upper class does not automatically mean that also all lower class vehicles are welcome to charge.
-For example, a location marked only with category /sdk-for-flutter-explore-transport-truckclass
+For example, a location marked only with category <a href="../../transport/TruckClass.html">/sdk-for-flutter-explore-transport-truckclass</a>
 is reserved for long-haul trucks only.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -71,9 +70,9 @@ is reserved for long-haul trucks only.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingtruckrestriction-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingTruckRestriction-class.html">/sdk-for-flutter-explore-search-evchargingtruckrestriction-class</a></li>
 <li class="self-crumb">truckAccess property</li>
 </ol>
 <h5>EVChargingTruckRestriction class</h5>
@@ -90,5 +89,4 @@ is reserved for long-haul trucks only.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

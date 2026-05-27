@@ -1,10 +1,9 @@
 ---
-title: "runtimeType property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-anglerange-runtimetype"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- runtimeType.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-anglerange-runtimetype"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-anglerange-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a></li>
 <li class="self-crumb">runtimeType property</li>
 </ol>
 <div class="self-name">runtimeType</div>
@@ -59,9 +58,9 @@ runtimeType
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-anglerange-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a></li>
 <li class="self-crumb">runtimeType property</li>
 </ol>
 <h5>AngleRange class</h5>
@@ -78,5 +77,4 @@ runtimeType
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

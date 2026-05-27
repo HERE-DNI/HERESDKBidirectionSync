@@ -1,10 +1,9 @@
 ---
-title: "targetCoordinates property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapcamerastate-targetcoordinates"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- targetCoordinates.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcamerastate-targetcoordinates"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcamerastate-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraState-class.html">/sdk-for-flutter-explore-mapview-mapcamerastate-class</a></li>
 <li class="self-crumb">targetCoordinates property</li>
 </ol>
 <div class="self-name">targetCoordinates</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>targetCoordinates property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-geocoordinates-class
+<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 targetCoordinates
 <div class="features">getter/setter pair</div>
 </section>
@@ -59,9 +58,9 @@ will consider the target point as being located on the ground.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcamerastate-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraState-class.html">/sdk-for-flutter-explore-mapview-mapcamerastate-class</a></li>
 <li class="self-crumb">targetCoordinates property</li>
 </ol>
 <h5>MapCameraState class</h5>
@@ -78,5 +77,4 @@ will consider the target point as being located on the ground.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

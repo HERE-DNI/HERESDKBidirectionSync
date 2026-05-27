@@ -1,10 +1,9 @@
 ---
-title: "MapPolylineRepresentationInstantiationException class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapPolylineRepresentationInstantiationException-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexc
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapPolylineRepresentationInstantiationException class</li>
 </ol>
 <div class="self-name">MapPolylineRepresentationInstantiationException</div>
@@ -51,13 +50,13 @@ menu
 <div>
 <h1>MapPolylineRepresentationInstantiationException class</h1></div>
 <section class="desc markdown">
-<p>Thrown when a problem occurs while trying to create /sdk-for-flutter-explore-mapview-mappolylinerepresentation-class.</p>
+<p>Thrown when a problem occurs while trying to create <a href="../mapview/MapPolylineRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</a>.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapPolylineRepresentationInstantiationException">
-/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-mappolylinerepresentationinstantiationexception(/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationerrorcode error)
+<a href="../mapview/MapPolylineRepresentationInstantiationException/MapPolylineRepresentationInstantiationException.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-mappolylinerepresentationinstantiationexception</a>(<a href="../mapview/MapPolylineRepresentationInstantiationErrorCode.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationerrorcode</a> error)
 </dt>
 <dd>
 </dd>
@@ -67,14 +66,14 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="error">
-/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-error
-→ /sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationerrorcode
+<a href="../mapview/MapPolylineRepresentationInstantiationException/error.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-error</a>
+→ <a href="../mapview/MapPolylineRepresentationInstantiationErrorCode.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationerrorcode</a>
 </dt>
 <dd>
 <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-hashcode
+<a href="../mapview/MapPolylineRepresentationInstantiationException/hashCode.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -82,7 +81,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-runtimetype
+<a href="../mapview/MapPolylineRepresentationInstantiationException/runtimeType.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -95,7 +94,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapPolylineRepresentationInstantiationException/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -104,7 +103,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-tostring(<wbr/>)
+<a href="../mapview/MapPolylineRepresentationInstantiationException/toString.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -118,7 +117,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapPolylineRepresentationInstantiationException/operator_equals.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -136,8 +135,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapPolylineRepresentationInstantiationException class</li>
 </ol>
 <h5>mapview library</h5>
@@ -154,5 +153,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

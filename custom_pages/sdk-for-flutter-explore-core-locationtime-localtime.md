@@ -1,10 +1,9 @@
 ---
-title: "localTime property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-locationtime-localtime"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- localTime.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-locationtime-localtime"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-locationtime-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/LocationTime-class.html">/sdk-for-flutter-explore-core-locationtime-class</a></li>
 <li class="self-crumb">localTime property</li>
 </ol>
 <div class="self-name">localTime</div>
@@ -59,9 +58,9 @@ Poland, the local time is "2022-03-23T16:07:31" in CET, i.e. one hour ahead of t
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-locationtime-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/LocationTime-class.html">/sdk-for-flutter-explore-core-locationtime-class</a></li>
 <li class="self-crumb">localTime property</li>
 </ol>
 <h5>LocationTime class</h5>
@@ -78,5 +77,4 @@ Poland, the local time is "2022-03-23T16:07:31" in CET, i.e. one hour ahead of t
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

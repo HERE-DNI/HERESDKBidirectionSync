@@ -1,10 +1,9 @@
 ---
-title: "VehicleSpecificationPrivateBusBuilder constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-vehiclespecificationprivatebusbuilder"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- VehicleSpecificationPrivateBusBuilder.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-v
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a></li>
 <li class="self-crumb">VehicleSpecificationPrivateBusBuilder factory constructor</li>
 </ol>
 <div class="self-name">VehicleSpecificationPrivateBusBuilder</div>
@@ -55,9 +54,9 @@ VehicleSpecificationPrivateBusBuilder(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecificationPrivateBusBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationprivatebusbuilder-class</a></li>
 <li class="self-crumb">VehicleSpecificationPrivateBusBuilder factory constructor</li>
 </ol>
 <h5>VehicleSpecificationPrivateBusBuilder class</h5>
@@ -74,5 +73,4 @@ VehicleSpecificationPrivateBusBuilder(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

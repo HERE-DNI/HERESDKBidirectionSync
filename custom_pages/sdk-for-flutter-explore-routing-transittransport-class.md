@@ -1,10 +1,9 @@
 ---
-title: "TransitTransport class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-transittransport-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TransitTransport-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -31,8 +30,8 @@ slug: "sdk-for-flutter-explore-routing-transittransport-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">TransitTransport class</li>
 </ol>
 <div class="self-name">TransitTransport</div>
@@ -62,7 +61,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TransitTransport">
-/sdk-for-flutter-explore-routing-transittransport-transittransport(/sdk-for-flutter-explore-routing-transitmode mode, String? name, String? headsign, String? category, Color? color, Color? textColor)
+<a href="../routing/TransitTransport/TransitTransport.html">/sdk-for-flutter-explore-routing-transittransport-transittransport</a>(<a href="../routing/TransitMode.html">/sdk-for-flutter-explore-routing-transitmode</a> mode, String? name, String? headsign, String? category, Color? color, Color? textColor)
 </dt>
 <dd>
           Creates a new instance.
@@ -73,7 +72,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="category">
-/sdk-for-flutter-explore-routing-transittransport-category
+<a href="../routing/TransitTransport/category.html">/sdk-for-flutter-explore-routing-transittransport-category</a>
 ↔ String?
 </dt>
 <dd>
@@ -81,7 +80,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="color">
-/sdk-for-flutter-explore-routing-transittransport-color
+<a href="../routing/TransitTransport/color.html">/sdk-for-flutter-explore-routing-transittransport-color</a>
 ↔ Color?
 </dt>
 <dd>
@@ -89,7 +88,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-transittransport-hashcode
+<a href="../routing/TransitTransport/hashCode.html">/sdk-for-flutter-explore-routing-transittransport-hashcode</a>
 → int
 </dt>
 <dd>
@@ -97,7 +96,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="headsign">
-/sdk-for-flutter-explore-routing-transittransport-headsign
+<a href="../routing/TransitTransport/headsign.html">/sdk-for-flutter-explore-routing-transittransport-headsign</a>
 ↔ String?
 </dt>
 <dd>
@@ -105,15 +104,15 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="mode">
-/sdk-for-flutter-explore-routing-transittransport-mode
-↔ /sdk-for-flutter-explore-routing-transitmode
+<a href="../routing/TransitTransport/mode.html">/sdk-for-flutter-explore-routing-transittransport-mode</a>
+↔ <a href="../routing/TransitMode.html">/sdk-for-flutter-explore-routing-transitmode</a>
 </dt>
 <dd>
   Transit mode of transport in the route.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="name">
-/sdk-for-flutter-explore-routing-transittransport-name
+<a href="../routing/TransitTransport/name.html">/sdk-for-flutter-explore-routing-transittransport-name</a>
 ↔ String?
 </dt>
 <dd>
@@ -121,7 +120,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-transittransport-runtimetype
+<a href="../routing/TransitTransport/runtimeType.html">/sdk-for-flutter-explore-routing-transittransport-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -129,7 +128,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="textColor">
-/sdk-for-flutter-explore-routing-transittransport-textcolor
+<a href="../routing/TransitTransport/textColor.html">/sdk-for-flutter-explore-routing-transittransport-textcolor</a>
 ↔ Color?
 </dt>
 <dd>
@@ -142,7 +141,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-transittransport-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/TransitTransport/noSuchMethod.html">/sdk-for-flutter-explore-routing-transittransport-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -151,7 +150,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-transittransport-tostring(<wbr/>)
+<a href="../routing/TransitTransport/toString.html">/sdk-for-flutter-explore-routing-transittransport-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -165,7 +164,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-transittransport-operator-equals(<wbr/>Object other)
+<a href="../routing/TransitTransport/operator_equals.html">/sdk-for-flutter-explore-routing-transittransport-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -184,8 +183,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">TransitTransport class</li>
 </ol>
 <h5>routing library</h5>
@@ -202,5 +201,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

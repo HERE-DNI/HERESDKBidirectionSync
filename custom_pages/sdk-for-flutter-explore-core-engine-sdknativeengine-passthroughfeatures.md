@@ -1,10 +1,9 @@
 ---
-title: "passThroughFeatures property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- passThroughFeatures.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-passthroughfeatures"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
 <li class="self-crumb">passThroughFeatures property</li>
 </ol>
 <div class="self-name">passThroughFeatures</div>
@@ -39,7 +38,7 @@ menu
 <h1>passThroughFeatures property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-Set&lt;<wbr/>/sdk-for-flutter-explore-core-engine-passthroughfeature&gt;?
+Set&lt;<wbr/><a href="../../core.engine/PassThroughFeature.html">/sdk-for-flutter-explore-core-engine-passthroughfeature</a>&gt;?
 passThroughFeatures
 </section>
 <section class="desc markdown">
@@ -48,7 +47,7 @@ Sets pass through features which are allowed to use online data when HERE SDK is
 Pass through features can be updated at any time.
 When offline mode is disabled, existing pass through features will be removed.
 These needs to be set again when you enable offline mode next time.
-By default, reporting of HERE SDK /sdk-for-flutter-explore-core-engine-usagestats-class will be enabled when at least one pass-through feature is set.</p>
+By default, reporting of HERE SDK <a href="../../core.engine/UsageStats-class.html">/sdk-for-flutter-explore-core-engine-usagestats-class</a> will be enabled when at least one pass-through feature is set.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.
 Gets the pass through features.</p>
@@ -61,7 +60,7 @@ Gets the pass through features.</p>
 <section id="setter">
 <section class="multi-line-signature">
 void
-passThroughFeatures=(<wbr/>Set&lt;<wbr/>/sdk-for-flutter-explore-core-engine-passthroughfeature&gt;? value)
+passThroughFeatures=(<wbr/>Set&lt;<wbr/><a href="../../core.engine/PassThroughFeature.html">/sdk-for-flutter-explore-core-engine-passthroughfeature</a>&gt;? value)
 </section>
 <section class="desc markdown">
 <p>The pass through features.
@@ -69,7 +68,7 @@ Sets pass through features which are allowed to use online data when HERE SDK is
 Pass through features can be updated at any time.
 When offline mode is disabled, existing pass through features will be removed.
 These needs to be set again when you enable offline mode next time.
-By default, reporting of HERE SDK /sdk-for-flutter-explore-core-engine-usagestats-class will be enabled when at least one pass-through feature is set.</p>
+By default, reporting of HERE SDK <a href="../../core.engine/UsageStats-class.html">/sdk-for-flutter-explore-core-engine-usagestats-class</a> will be enabled when at least one pass-through feature is set.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.
 Sets the pass through features.</p>
@@ -87,9 +86,9 @@ Sets the pass through features.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
 <li class="self-crumb">passThroughFeatures property</li>
 </ol>
 <h5>SDKNativeEngine class</h5>
@@ -106,5 +105,4 @@ Sets the pass through features.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

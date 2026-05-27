@@ -1,10 +1,9 @@
 ---
-title: "IntegerRange constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-integerrange-integerrange"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- IntegerRange.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-integerrange-integerrange"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-integerrange-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/IntegerRange-class.html">/sdk-for-flutter-explore-core-integerrange-class</a></li>
 <li class="self-crumb">IntegerRange constructor</li>
 </ol>
 <div class="self-name">IntegerRange</div>
@@ -54,9 +53,9 @@ IntegerRange(<wbr/><ol class="parameter-list single-line"> <li>int min</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-integerrange-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/IntegerRange-class.html">/sdk-for-flutter-explore-core-integerrange-class</a></li>
 <li class="self-crumb">IntegerRange constructor</li>
 </ol>
 <h5>IntegerRange class</h5>
@@ -73,5 +72,4 @@ IntegerRange(<wbr/><ol class="parameter-list single-line"> <li>int min</li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

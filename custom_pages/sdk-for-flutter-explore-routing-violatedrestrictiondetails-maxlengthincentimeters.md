@@ -1,10 +1,9 @@
 ---
-title: "maxLengthInCentimeters property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxlengthincentimeters"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- maxLengthInCentimeters.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxlengthincen
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a></li>
 <li class="self-crumb">maxLengthInCentimeters property</li>
 </ol>
 <div class="self-name">maxLengthInCentimeters</div>
@@ -45,7 +44,7 @@ menu
 </section>
 <section class="desc markdown">
 <p>Max permitted length during the trip, in centimeters.
-This property will be set if the /sdk-for-flutter-explore-transport-vehiclespecification-lengthincentimeters
+This property will be set if the <a href="../../transport/VehicleSpecification/lengthInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecification-lengthincentimeters</a>
 exceeds this value.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -60,9 +59,9 @@ exceeds this value.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a></li>
 <li class="self-crumb">maxLengthInCentimeters property</li>
 </ol>
 <h5>ViolatedRestrictionDetails class</h5>
@@ -79,5 +78,4 @@ exceeds this value.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

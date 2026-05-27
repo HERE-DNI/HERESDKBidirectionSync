@@ -1,10 +1,9 @@
 ---
-title: "TrafficFlow class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-traffic-trafficflow-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TrafficFlow-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -34,8 +33,8 @@ slug: "sdk-for-flutter-explore-traffic-trafficflow-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
 <li class="self-crumb">TrafficFlow class</li>
 </ol>
 <div class="self-name">TrafficFlow</div>
@@ -59,7 +58,7 @@ menu
 <div>
 <h1>TrafficFlow class abstract</h1></div>
 <section class="desc markdown">
-<p>This class provides details about traffic flow along a /sdk-for-flutter-explore-core-geocorridor-class, inside a /sdk-for-flutter-explore-core-geocircle-class or a /sdk-for-flutter-explore-core-geobox-class, that represents particular path of the road network.<br/>
+<p>This class provides details about traffic flow along a <a href="../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a>, inside a <a href="../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a> or a <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>, that represents particular path of the road network.<br/>
 Backends for TrafficEngine and traffic vector tiles are different however backends may share the same data.<br/>
 For additional information about fields, refer to <a href="https://www.here.com/docs/bundle/traffic-api-v7-api-reference/page/index.html#tag/Real-Time-Traffic">Traffic API v7 API Reference: Traffic API v7</a>.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
@@ -70,7 +69,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <dt>Implemented types</dt>
 <dd>
 <ul class="comma-separated clazz-relationships">
-<li>/sdk-for-flutter-explore-traffic-trafficflowbase-class</li>
+<li><a href="../traffic/TrafficFlowBase-class.html">/sdk-for-flutter-explore-traffic-trafficflowbase-class</a></li>
 </ul>
 </dd>
 </dl>
@@ -79,7 +78,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TrafficFlow">
-/sdk-for-flutter-explore-traffic-trafficflow-trafficflow()
+<a href="../traffic/TrafficFlow/TrafficFlow.html">/sdk-for-flutter-explore-traffic-trafficflow-trafficflow</a>()
 </dt>
 <dd>
 </dd>
@@ -89,7 +88,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="confidence">
-/sdk-for-flutter-explore-traffic-trafficflow-confidence
+<a href="../traffic/TrafficFlow/confidence.html">/sdk-for-flutter-explore-traffic-trafficflow-confidence</a>
 → double?
 </dt>
 <dd>
@@ -98,7 +97,7 @@ It is a normalized value between 0.0 and 1.0 with the following meaning:
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="freeFlowSpeedInMetersPerSecond">
-/sdk-for-flutter-explore-traffic-trafficflowbase-freeflowspeedinmeterspersecond
+<a href="../traffic/TrafficFlowBase/freeFlowSpeedInMetersPerSecond.html">/sdk-for-flutter-explore-traffic-trafficflowbase-freeflowspeedinmeterspersecond</a>
 → double
 </dt>
 <dd class="inherited">
@@ -107,7 +106,7 @@ Gets the reference speed in meters per second along the roadway when no traffic 
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-traffic-trafficflowbase-hashcode
+<a href="../traffic/TrafficFlowBase/hashCode.html">/sdk-for-flutter-explore-traffic-trafficflowbase-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -115,7 +114,7 @@ Gets the reference speed in meters per second along the roadway when no traffic 
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="jamFactor">
-/sdk-for-flutter-explore-traffic-trafficflowbase-jamfactor
+<a href="../traffic/TrafficFlowBase/jamFactor.html">/sdk-for-flutter-explore-traffic-trafficflowbase-jamfactor</a>
 → double
 </dt>
 <dd class="inherited">
@@ -128,7 +127,7 @@ Gets a value for the amount of traffic on the roadway.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="jamTendency">
-/sdk-for-flutter-explore-traffic-trafficflow-jamtendency
+<a href="../traffic/TrafficFlow/jamTendency.html">/sdk-for-flutter-explore-traffic-trafficflow-jamtendency</a>
 → int?
 </dt>
 <dd>
@@ -137,8 +136,8 @@ The congestion tendency may take the following values:
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="junctionsTraversability">
-/sdk-for-flutter-explore-traffic-trafficflow-junctionstraversability
-→ /sdk-for-flutter-explore-traffic-junctionstraversability?
+<a href="../traffic/TrafficFlow/junctionsTraversability.html">/sdk-for-flutter-explore-traffic-trafficflow-junctionstraversability</a>
+→ <a href="../traffic/JunctionsTraversability.html">/sdk-for-flutter-explore-traffic-junctionstraversability</a>?
 </dt>
 <dd>
   The traversability of junctions along the affected road.
@@ -146,8 +145,8 @@ Gets the traversability of junctions along the affected road.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="location">
-/sdk-for-flutter-explore-traffic-trafficflow-location
-→ /sdk-for-flutter-explore-traffic-trafficlocation-class
+<a href="../traffic/TrafficFlow/location.html">/sdk-for-flutter-explore-traffic-trafficflow-location</a>
+→ <a href="../traffic/TrafficLocation-class.html">/sdk-for-flutter-explore-traffic-trafficlocation-class</a>
 </dt>
 <dd>
   Defines the location affected by traffic flow.
@@ -155,7 +154,7 @@ Gets the location of the incident.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-traffic-trafficflowbase-runtimetype
+<a href="../traffic/TrafficFlowBase/runtimeType.html">/sdk-for-flutter-explore-traffic-trafficflowbase-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -163,7 +162,7 @@ Gets the location of the incident.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="speedInMetersPerSecond">
-/sdk-for-flutter-explore-traffic-trafficflow-speedinmeterspersecond
+<a href="../traffic/TrafficFlow/speedInMetersPerSecond.html">/sdk-for-flutter-explore-traffic-trafficflow-speedinmeterspersecond</a>
 → double?
 </dt>
 <dd>
@@ -172,7 +171,7 @@ Gets the expected speed in meters per second along the roadway; will not exceed 
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="speedUncappedInMetersPerSecond">
-/sdk-for-flutter-explore-traffic-trafficflow-speeduncappedinmeterspersecond
+<a href="../traffic/TrafficFlow/speedUncappedInMetersPerSecond.html">/sdk-for-flutter-explore-traffic-trafficflow-speeduncappedinmeterspersecond</a>
 → double?
 </dt>
 <dd>
@@ -183,8 +182,8 @@ Gets the expected speed in meters per second along the roadway.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="traversability">
-/sdk-for-flutter-explore-traffic-trafficflow-traversability
-→ /sdk-for-flutter-explore-traffic-traversability?
+<a href="../traffic/TrafficFlow/traversability.html">/sdk-for-flutter-explore-traffic-trafficflow-traversability</a>
+→ <a href="../traffic/Traversability.html">/sdk-for-flutter-explore-traffic-traversability</a>?
 </dt>
 <dd>
   The traversability of roadway.
@@ -197,7 +196,7 @@ Gets the traversability of roadway.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-traffic-trafficflowbase-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../traffic/TrafficFlowBase/noSuchMethod.html">/sdk-for-flutter-explore-traffic-trafficflowbase-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -206,7 +205,7 @@ Gets the traversability of roadway.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-traffic-trafficflowbase-tostring(<wbr/>)
+<a href="../traffic/TrafficFlowBase/toString.html">/sdk-for-flutter-explore-traffic-trafficflowbase-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -220,7 +219,7 @@ Gets the traversability of roadway.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-traffic-trafficflowbase-operator-equals(<wbr/>Object other)
+<a href="../traffic/TrafficFlowBase/operator_equals.html">/sdk-for-flutter-explore-traffic-trafficflowbase-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -238,8 +237,8 @@ Gets the traversability of roadway.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
 <li class="self-crumb">TrafficFlow class</li>
 </ol>
 <h5>traffic library</h5>
@@ -256,5 +255,4 @@ Gets the traversability of roadway.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

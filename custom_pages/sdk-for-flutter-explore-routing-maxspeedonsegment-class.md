@@ -1,10 +1,9 @@
 ---
-title: "MaxSpeedOnSegment class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-maxspeedonsegment-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MaxSpeedOnSegment-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-routing-maxspeedonsegment-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">MaxSpeedOnSegment class</li>
 </ol>
 <div class="self-name">MaxSpeedOnSegment</div>
@@ -60,7 +59,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MaxSpeedOnSegment">
-/sdk-for-flutter-explore-routing-maxspeedonsegment-maxspeedonsegment(/sdk-for-flutter-explore-routing-segmentreference-class segment, double baseSpeedInMetersPerSecond)
+<a href="../routing/MaxSpeedOnSegment/MaxSpeedOnSegment.html">/sdk-for-flutter-explore-routing-maxspeedonsegment-maxspeedonsegment</a>(<a href="../routing/SegmentReference-class.html">/sdk-for-flutter-explore-routing-segmentreference-class</a> segment, double baseSpeedInMetersPerSecond)
 </dt>
 <dd>
           Creates a new instance.
@@ -71,7 +70,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="baseSpeedInMetersPerSecond">
-/sdk-for-flutter-explore-routing-maxspeedonsegment-basespeedinmeterspersecond
+<a href="../routing/MaxSpeedOnSegment/baseSpeedInMetersPerSecond.html">/sdk-for-flutter-explore-routing-maxspeedonsegment-basespeedinmeterspersecond</a>
 ↔ double
 </dt>
 <dd>
@@ -80,7 +79,7 @@ Cannot increase base speed on segment. If the value is greater than the default 
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-maxspeedonsegment-hashcode
+<a href="../routing/MaxSpeedOnSegment/hashCode.html">/sdk-for-flutter-explore-routing-maxspeedonsegment-hashcode</a>
 → int
 </dt>
 <dd>
@@ -88,7 +87,7 @@ Cannot increase base speed on segment. If the value is greater than the default 
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-maxspeedonsegment-runtimetype
+<a href="../routing/MaxSpeedOnSegment/runtimeType.html">/sdk-for-flutter-explore-routing-maxspeedonsegment-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -96,8 +95,8 @@ Cannot increase base speed on segment. If the value is greater than the default 
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="segment">
-/sdk-for-flutter-explore-routing-maxspeedonsegment-segment
-↔ /sdk-for-flutter-explore-routing-segmentreference-class
+<a href="../routing/MaxSpeedOnSegment/segment.html">/sdk-for-flutter-explore-routing-maxspeedonsegment-segment</a>
+↔ <a href="../routing/SegmentReference-class.html">/sdk-for-flutter-explore-routing-segmentreference-class</a>
 </dt>
 <dd>
   A segment for which the new base speed is specified. Only the <code>segmendId</code> and <code>travelDirection</code>
@@ -110,7 +109,7 @@ parameters are used, other parameters are ignored. Setting a <code>segmendId</co
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-maxspeedonsegment-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/MaxSpeedOnSegment/noSuchMethod.html">/sdk-for-flutter-explore-routing-maxspeedonsegment-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -119,7 +118,7 @@ parameters are used, other parameters are ignored. Setting a <code>segmendId</co
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-maxspeedonsegment-tostring(<wbr/>)
+<a href="../routing/MaxSpeedOnSegment/toString.html">/sdk-for-flutter-explore-routing-maxspeedonsegment-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -133,7 +132,7 @@ parameters are used, other parameters are ignored. Setting a <code>segmendId</co
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-maxspeedonsegment-operator-equals(<wbr/>Object other)
+<a href="../routing/MaxSpeedOnSegment/operator_equals.html">/sdk-for-flutter-explore-routing-maxspeedonsegment-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -152,8 +151,8 @@ parameters are used, other parameters are ignored. Setting a <code>segmendId</co
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">MaxSpeedOnSegment class</li>
 </ol>
 <h5>routing library</h5>
@@ -170,5 +169,4 @@ parameters are used, other parameters are ignored. Setting a <code>segmendId</co
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

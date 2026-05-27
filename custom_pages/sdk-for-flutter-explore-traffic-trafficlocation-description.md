@@ -1,10 +1,9 @@
 ---
-title: "description property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-traffic-trafficlocation-description"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- description.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficlocation-description"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficlocation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficLocation-class.html">/sdk-for-flutter-explore-traffic-trafficlocation-class</a></li>
 <li class="self-crumb">description property</li>
 </ol>
 <div class="self-name">description</div>
@@ -47,7 +46,7 @@ menu
 <p>The description of the location.
 In general, the language can't be bound to the description.
 Usually, the language is one of the local languages of the incident region.
-Note: A localizable description of the incident is part of /sdk-for-flutter-explore-traffic-trafficincidentbase-description.
+Note: A localizable description of the incident is part of <a href="../../traffic/TrafficIncidentBase/description.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-description</a>.
 This description describes only the location where the incident occurred.
 Defaults to an empty string.</p>
 </section>
@@ -63,9 +62,9 @@ Defaults to an empty string.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficlocation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficLocation-class.html">/sdk-for-flutter-explore-traffic-trafficlocation-class</a></li>
 <li class="self-crumb">description property</li>
 </ol>
 <h5>TrafficLocation class</h5>
@@ -82,5 +81,4 @@ Defaults to an empty string.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

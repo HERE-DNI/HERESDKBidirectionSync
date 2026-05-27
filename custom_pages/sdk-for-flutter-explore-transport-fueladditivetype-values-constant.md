@@ -3,8 +3,7 @@ title: "values constant"
 slug: "sdk-for-flutter-explore-transport-fueladditivetype-values-constant"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- values-constant.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-fueladditivetype-values-constant"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-fueladditivetype</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/FuelAdditiveType.html">/sdk-for-flutter-explore-transport-fueladditivetype</a></li>
 <li class="self-crumb">values constant</li>
 </ol>
 <div class="self-name">values</div>
@@ -39,7 +38,7 @@ menu
 <h1>values constant</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-transport-fueladditivetype&gt;
+        List&lt;<wbr/><a href="../../transport/FuelAdditiveType.html">/sdk-for-flutter-explore-transport-fueladditivetype</a>&gt;
         const values
 </section>
 <section class="desc markdown">
@@ -53,9 +52,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-fueladditivetype</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/FuelAdditiveType.html">/sdk-for-flutter-explore-transport-fueladditivetype</a></li>
 <li class="self-crumb">values constant</li>
 </ol>
 <h5>FuelAdditiveType enum</h5>
@@ -72,5 +71,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

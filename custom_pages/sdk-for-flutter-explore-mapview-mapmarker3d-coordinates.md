@@ -1,10 +1,9 @@
 ---
-title: "coordinates property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapmarker3d-coordinates"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- coordinates.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker3d-coordinates"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarker3d-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a></li>
 <li class="self-crumb">coordinates property</li>
 </ol>
 <div class="self-name">coordinates</div>
@@ -39,7 +38,7 @@ menu
 <h1>coordinates property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-geocoordinates-class
+<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 coordinates
 </section>
 <section class="desc markdown">
@@ -57,7 +56,7 @@ coordinate system.</p>
 <section id="setter">
 <section class="multi-line-signature">
 void
-coordinates=(<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class value)
+coordinates=(<wbr/><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> value)
 </section>
 <section class="desc markdown">
 <p>The position of the 3D marker on the map corresponding to the origin of the 3D marker model coordinate system.
@@ -79,9 +78,9 @@ coordinate system.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarker3d-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a></li>
 <li class="self-crumb">coordinates property</li>
 </ol>
 <h5>MapMarker3D class</h5>
@@ -98,5 +97,4 @@ coordinate system.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

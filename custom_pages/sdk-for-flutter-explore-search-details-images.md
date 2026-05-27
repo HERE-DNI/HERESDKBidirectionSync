@@ -1,10 +1,9 @@
 ---
-title: "images property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-details-images"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- images.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-details-images"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-details-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/Details-class.html">/sdk-for-flutter-explore-search-details-class</a></li>
 <li class="self-crumb">images property</li>
 </ol>
 <div class="self-name">images</div>
@@ -39,7 +38,7 @@ menu
 <h1>images property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-search-webimage-class&gt;
+        List&lt;<wbr/><a href="../../search/WebImage-class.html">/sdk-for-flutter-explore-search-webimage-class</a>&gt;
 images
 <div class="features">getter/setter pair</div>
 </section>
@@ -47,7 +46,7 @@ images
 <p>The list of images associated with the place.
 The images are provided by external suppliers and are only available to users with
 valid contracts with said suppliers. If the user has no such contracts, the list is empty.</p>
-<p><strong>Note:</strong> Not available as part of /sdk-for-flutter-explore-search-suggestion-class results.</p>
+<p><strong>Note:</strong> Not available as part of <a href="../../search/Suggestion-class.html">/sdk-for-flutter-explore-search-suggestion-class</a> results.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -61,9 +60,9 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-details-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/Details-class.html">/sdk-for-flutter-explore-search-details-class</a></li>
 <li class="self-crumb">images property</li>
 </ol>
 <h5>Details class</h5>
@@ -80,5 +79,4 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

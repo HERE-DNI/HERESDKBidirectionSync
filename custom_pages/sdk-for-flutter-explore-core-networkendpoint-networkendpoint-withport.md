@@ -1,10 +1,9 @@
 ---
-title: "NetworkEndpoint.withPort constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-networkendpoint-networkendpoint-withport"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- NetworkEndpoint.withPort.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-networkendpoint-networkendpoint-withport"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-networkendpoint-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/NetworkEndpoint-class.html">/sdk-for-flutter-explore-core-networkendpoint-class</a></li>
 <li class="self-crumb">NetworkEndpoint.withPort constructor</li>
 </ol>
 <div class="self-name">NetworkEndpoint.withPort</div>
@@ -61,9 +60,9 @@ NetworkEndpoint.withPort(<wbr/><ol class="parameter-list single-line"> <li>Inter
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-networkendpoint-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/NetworkEndpoint-class.html">/sdk-for-flutter-explore-core-networkendpoint-class</a></li>
 <li class="self-crumb">NetworkEndpoint.withPort constructor</li>
 </ol>
 <h5>NetworkEndpoint class</h5>
@@ -80,5 +79,4 @@ NetworkEndpoint.withPort(<wbr/><ol class="parameter-list single-line"> <li>Inter
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

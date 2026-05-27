@@ -1,10 +1,9 @@
 ---
-title: "facilityTypes property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evcharginglocation-facilitytypes"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- facilityTypes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evcharginglocation-facilitytypes"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evcharginglocation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a></li>
 <li class="self-crumb">facilityTypes property</li>
 </ol>
 <div class="self-name">facilityTypes</div>
@@ -39,7 +38,7 @@ menu
 <h1>facilityTypes property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-List&lt;<wbr/>/sdk-for-flutter-explore-search-facilitytype&gt;
+List&lt;<wbr/><a href="../../search/FacilityType.html">/sdk-for-flutter-explore-search-facilitytype</a>&gt;
 facilityTypes
 </section>
 <section class="desc markdown">
@@ -62,9 +61,9 @@ hotel, wifi, parking lot etc.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evcharginglocation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a></li>
 <li class="self-crumb">facilityTypes property</li>
 </ol>
 <h5>EVChargingLocation class</h5>
@@ -81,5 +80,4 @@ hotel, wifi, parking lot etc.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

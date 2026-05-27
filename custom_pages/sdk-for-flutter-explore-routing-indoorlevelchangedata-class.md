@@ -1,10 +1,9 @@
 ---
-title: "IndoorLevelChangeData class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-indoorlevelchangedata-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- IndoorLevelChangeData-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-routing-indoorlevelchangedata-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">IndoorLevelChangeData class</li>
 </ol>
 <div class="self-name">IndoorLevelChangeData</div>
@@ -58,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="IndoorLevelChangeData">
-/sdk-for-flutter-explore-routing-indoorlevelchangedata-indoorlevelchangedata(/sdk-for-flutter-explore-routing-indoorlevelchangefeatures connector, int deltaZ)
+<a href="../routing/IndoorLevelChangeData/IndoorLevelChangeData.html">/sdk-for-flutter-explore-routing-indoorlevelchangedata-indoorlevelchangedata</a>(<a href="../routing/IndoorLevelChangeFeatures.html">/sdk-for-flutter-explore-routing-indoorlevelchangefeatures</a> connector, int deltaZ)
 </dt>
 <dd>
           Creates an Indoor level change data object and assign values for level change data.
@@ -69,15 +68,15 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="connector">
-/sdk-for-flutter-explore-routing-indoorlevelchangedata-connector
-↔ /sdk-for-flutter-explore-routing-indoorlevelchangefeatures
+<a href="../routing/IndoorLevelChangeData/connector.html">/sdk-for-flutter-explore-routing-indoorlevelchangedata-connector</a>
+↔ <a href="../routing/IndoorLevelChangeFeatures.html">/sdk-for-flutter-explore-routing-indoorlevelchangefeatures</a>
 </dt>
 <dd>
   Type of the connector to change the level.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="deltaZ">
-/sdk-for-flutter-explore-routing-indoorlevelchangedata-deltaz
+<a href="../routing/IndoorLevelChangeData/deltaZ.html">/sdk-for-flutter-explore-routing-indoorlevelchangedata-deltaz</a>
 ↔ int
 </dt>
 <dd>
@@ -86,7 +85,7 @@ a value of -1 means that a user needs to go one level down. The value is never 0
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-indoorlevelchangedata-hashcode
+<a href="../routing/IndoorLevelChangeData/hashCode.html">/sdk-for-flutter-explore-routing-indoorlevelchangedata-hashcode</a>
 → int
 </dt>
 <dd>
@@ -94,7 +93,7 @@ a value of -1 means that a user needs to go one level down. The value is never 0
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-indoorlevelchangedata-runtimetype
+<a href="../routing/IndoorLevelChangeData/runtimeType.html">/sdk-for-flutter-explore-routing-indoorlevelchangedata-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -107,7 +106,7 @@ a value of -1 means that a user needs to go one level down. The value is never 0
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-indoorlevelchangedata-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/IndoorLevelChangeData/noSuchMethod.html">/sdk-for-flutter-explore-routing-indoorlevelchangedata-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -116,7 +115,7 @@ a value of -1 means that a user needs to go one level down. The value is never 0
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-indoorlevelchangedata-tostring(<wbr/>)
+<a href="../routing/IndoorLevelChangeData/toString.html">/sdk-for-flutter-explore-routing-indoorlevelchangedata-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -130,7 +129,7 @@ a value of -1 means that a user needs to go one level down. The value is never 0
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-indoorlevelchangedata-operator-equals(<wbr/>Object other)
+<a href="../routing/IndoorLevelChangeData/operator_equals.html">/sdk-for-flutter-explore-routing-indoorlevelchangedata-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -149,8 +148,8 @@ a value of -1 means that a user needs to go one level down. The value is never 0
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">IndoorLevelChangeData class</li>
 </ol>
 <h5>routing library</h5>
@@ -167,5 +166,4 @@ a value of -1 means that a user needs to go one level down. The value is never 0
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

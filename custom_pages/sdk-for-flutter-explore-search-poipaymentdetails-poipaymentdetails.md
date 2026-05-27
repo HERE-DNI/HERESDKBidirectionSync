@@ -1,10 +1,9 @@
 ---
-title: "POIPaymentDetails constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-poipaymentdetails-poipaymentdetails"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- POIPaymentDetails.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-poipaymentdetails-poipaymentdetails"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-poipaymentdetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/POIPaymentDetails-class.html">/sdk-for-flutter-explore-search-poipaymentdetails-class</a></li>
 <li class="self-crumb">POIPaymentDetails constructor</li>
 </ol>
 <div class="self-name">POIPaymentDetails</div>
@@ -53,9 +52,9 @@ POIPaymentDetails(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-poipaymentdetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/POIPaymentDetails-class.html">/sdk-for-flutter-explore-search-poipaymentdetails-class</a></li>
 <li class="self-crumb">POIPaymentDetails constructor</li>
 </ol>
 <h5>POIPaymentDetails class</h5>
@@ -72,5 +71,4 @@ POIPaymentDetails(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

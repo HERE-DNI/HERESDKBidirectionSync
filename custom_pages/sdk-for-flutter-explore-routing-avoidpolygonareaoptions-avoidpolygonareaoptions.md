@@ -1,10 +1,9 @@
 ---
-title: "AvoidPolygonAreaOptions constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-avoidpolygonareaoptions-avoidpolygonareaoptions"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- AvoidPolygonAreaOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-avoidpolygonareaoptions-avoidpolygonareao
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/AvoidPolygonAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-class</a></li>
 <li class="self-crumb">AvoidPolygonAreaOptions constructor</li>
 </ol>
 <div class="self-name">AvoidPolygonAreaOptions</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>AvoidPolygonAreaOptions constructor</h1></div>
 <section class="multi-line-signature">
-AvoidPolygonAreaOptions(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geopolygon-class avoidPolygonArea</li>
+AvoidPolygonAreaOptions(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a> avoidPolygonArea</li>
 </ol>)
     </section>
 <section class="summary source-code" id="source">
@@ -54,9 +53,9 @@ AvoidPolygonAreaOptions(<wbr/><ol class="parameter-list single-line"> <li>/sdk-f
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/AvoidPolygonAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-class</a></li>
 <li class="self-crumb">AvoidPolygonAreaOptions constructor</li>
 </ol>
 <h5>AvoidPolygonAreaOptions class</h5>
@@ -73,5 +72,4 @@ AvoidPolygonAreaOptions(<wbr/><ol class="parameter-list single-line"> <li>/sdk-f
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

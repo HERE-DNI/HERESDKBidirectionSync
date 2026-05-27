@@ -1,10 +1,9 @@
 ---
-title: "materialReflectivity property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-locationindicator-materialreflectivity"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- materialReflectivity.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-locationindicator-materialreflectivity"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-locationindicator-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/LocationIndicator-class.html">/sdk-for-flutter-explore-mapview-locationindicator-class</a></li>
 <li class="self-crumb">materialReflectivity property</li>
 </ol>
 <div class="self-name">materialReflectivity</div>
@@ -39,7 +38,7 @@ menu
 <h1>materialReflectivity property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-materialreflectivity-class?
+<a href="../../mapview/MaterialReflectivity-class.html">/sdk-for-flutter-explore-mapview-materialreflectivity-class</a>?
 materialReflectivity
 </section>
 <section class="desc markdown">
@@ -61,7 +60,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <section id="setter">
 <section class="multi-line-signature">
 void
-materialReflectivity=(<wbr/>/sdk-for-flutter-explore-mapview-materialreflectivity-class? value)
+materialReflectivity=(<wbr/><a href="../../mapview/MaterialReflectivity-class.html">/sdk-for-flutter-explore-mapview-materialreflectivity-class</a>? value)
 </section>
 <section class="desc markdown">
 <p>The material reflectivity properties of the location indicator.
@@ -86,9 +85,9 @@ This value affects also any custom markers set with <code>setMarker3dModel</code
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-locationindicator-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/LocationIndicator-class.html">/sdk-for-flutter-explore-mapview-locationindicator-class</a></li>
 <li class="self-crumb">materialReflectivity property</li>
 </ol>
 <h5>LocationIndicator class</h5>
@@ -105,5 +104,4 @@ This value affects also any custom markers set with <code>setMarker3dModel</code
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

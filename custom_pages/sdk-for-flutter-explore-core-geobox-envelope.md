@@ -1,10 +1,9 @@
 ---
-title: "envelope method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-geobox-envelope"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- envelope.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-geobox-envelope"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geobox-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a></li>
 <li class="self-crumb">envelope method</li>
 </ol>
 <div class="self-name">envelope</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>envelope method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-geobox-class
-envelope(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geobox-class geoBox</li>
+<a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>
+envelope(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> geoBox</li>
 </ol>)
 
       
@@ -51,7 +50,7 @@ GeoBox and the specified <code>GeoBox</code>.</p>
 <ul>
 <li><code>geoBox</code> Another <code>GeoBox</code> to envelope with.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-geobox-class. <code>GeoBox</code> covering two<code> GeoBox</code> areas</p>
+<p>Returns <a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>. <code>GeoBox</code> covering two<code> GeoBox</code> areas</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -65,9 +64,9 @@ GeoBox and the specified <code>GeoBox</code>.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geobox-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a></li>
 <li class="self-crumb">envelope method</li>
 </ol>
 <h5>GeoBox class</h5>
@@ -84,5 +83,4 @@ GeoBox and the specified <code>GeoBox</code>.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "MapPolylineSolidMultiColorRepresentation class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapPolylineSolidMultiColorRepresentation-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapPolylineSolidMultiColorRepresentation class</li>
 </ol>
 <div class="self-name">MapPolylineSolidMultiColorRepresentation</div>
@@ -75,7 +74,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <dt>Implemented types</dt>
 <dd>
 <ul class="comma-separated clazz-relationships">
-<li>/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</li>
+<li><a href="../mapview/MapPolylineRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</a></li>
 </ul>
 </dd>
 </dl>
@@ -84,14 +83,14 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapPolylineSolidMultiColorRepresentation">
-/sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-mappolylinesolidmulticolorrepresentation(/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class lineWidth, /sdk-for-flutter-explore-mapview-linecap capShape, List&lt;<wbr/>double&gt; colorStops, List&lt;<wbr/>int&gt; colorIndices, List&lt;<wbr/>Color&gt; colors, double gradientLength)
+<a href="../mapview/MapPolylineSolidMultiColorRepresentation/MapPolylineSolidMultiColorRepresentation.html">/sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-mappolylinesolidmulticolorrepresentation</a>(<a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> lineWidth, <a href="../mapview/LineCap.html">/sdk-for-flutter-explore-mapview-linecap</a> capShape, List&lt;<wbr/>double&gt; colorStops, List&lt;<wbr/>int&gt; colorIndices, List&lt;<wbr/>Color&gt; colors, double gradientLength)
 </dt>
 <dd>
           Creates a representation for a multicolored line without an outline.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="MapPolylineSolidMultiColorRepresentation.withOutline">
-/sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-mappolylinesolidmulticolorrepresentation-withoutline(/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class lineWidth, /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class outlineWidth, Color outlineColor, /sdk-for-flutter-explore-mapview-linecap capShape, List&lt;<wbr/>double&gt; colorStops, List&lt;<wbr/>int&gt; colorIndices, List&lt;<wbr/>Color&gt; colors, double gradientLength)
+<a href="../mapview/MapPolylineSolidMultiColorRepresentation/MapPolylineSolidMultiColorRepresentation.withOutline.html">/sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-mappolylinesolidmulticolorrepresentation-withoutline</a>(<a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> lineWidth, <a href="../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> outlineWidth, Color outlineColor, <a href="../mapview/LineCap.html">/sdk-for-flutter-explore-mapview-linecap</a> capShape, List&lt;<wbr/>double&gt; colorStops, List&lt;<wbr/>int&gt; colorIndices, List&lt;<wbr/>Color&gt; colors, double gradientLength)
 </dt>
 <dd>
           Creates a representation for a multicolored line with an outline.
@@ -103,7 +102,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-hashcode
+<a href="../mapview/MapItemRepresentation/hashCode.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -111,7 +110,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-runtimetype
+<a href="../mapview/MapItemRepresentation/runtimeType.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -124,7 +123,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapItemRepresentation/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -133,7 +132,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="setMultiColorGradientLength">
-/sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-setmulticolorgradientlength(<wbr/>double length)
+<a href="../mapview/MapPolylineSolidMultiColorRepresentation/setMultiColorGradientLength.html">/sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-setmulticolorgradientlength</a>(<wbr/>double length)
     → bool
 
 </dt>
@@ -143,7 +142,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="setMultiColors">
-/sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-setmulticolors(<wbr/>List&lt;<wbr/>double&gt; colorStops, List&lt;<wbr/>int&gt; colorIndices, List&lt;<wbr/>Color&gt; colors)
+<a href="../mapview/MapPolylineSolidMultiColorRepresentation/setMultiColors.html">/sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-setmulticolors</a>(<wbr/>List&lt;<wbr/>double&gt; colorStops, List&lt;<wbr/>int&gt; colorIndices, List&lt;<wbr/>Color&gt; colors)
     → bool
 
 </dt>
@@ -153,7 +152,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-tostring(<wbr/>)
+<a href="../mapview/MapItemRepresentation/toString.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -167,7 +166,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapItemRepresentation/operator_equals.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -185,8 +184,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapPolylineSolidMultiColorRepresentation class</li>
 </ol>
 <h5>mapview library</h5>
@@ -203,5 +202,4 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

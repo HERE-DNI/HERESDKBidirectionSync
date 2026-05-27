@@ -1,10 +1,9 @@
 ---
-title: "withConfigurationFile abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-withconfigurationfile"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withConfigurationFile.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-withconfigurat
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapSceneLoadOptionsBuilder-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</a></li>
 <li class="self-crumb">withConfigurationFile abstract method</li>
 </ol>
 <div class="self-name">withConfigurationFile</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>withConfigurationFile abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class
+<a href="../../mapview/MapSceneLoadOptionsBuilder-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</a>
 withConfigurationFile(<wbr/><ol class="parameter-list single-line"> <li>String configurationFile</li>
 </ol>)
 
@@ -47,11 +46,11 @@ withConfigurationFile(<wbr/><ol class="parameter-list single-line"> <li>String c
     </section>
 <section class="desc markdown">
 <p>Sets the configuration file path to load.</p>
-<p>Any map scheme set through /sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-withmapscheme will be discarded.</p>
+<p>Any map scheme set through <a href="../../mapview/MapSceneLoadOptionsBuilder/withMapScheme.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-withmapscheme</a> will be discarded.</p>
 <ul>
 <li><code>configurationFile</code> Configuration file path to load.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class. This class instance.</p>
+<p>Returns <a href="../../mapview/MapSceneLoadOptionsBuilder-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</a>. This class instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -65,9 +64,9 @@ withConfigurationFile(<wbr/><ol class="parameter-list single-line"> <li>String c
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapSceneLoadOptionsBuilder-class.html">/sdk-for-flutter-explore-mapview-mapsceneloadoptionsbuilder-class</a></li>
 <li class="self-crumb">withConfigurationFile abstract method</li>
 </ol>
 <h5>MapSceneLoadOptionsBuilder class</h5>
@@ -84,5 +83,4 @@ withConfigurationFile(<wbr/><ol class="parameter-list single-line"> <li>String c
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

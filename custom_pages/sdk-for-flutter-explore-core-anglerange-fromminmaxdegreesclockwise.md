@@ -1,10 +1,9 @@
 ---
-title: "fromMinMaxDegreesClockwise static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-anglerange-fromminmaxdegreesclockwise"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- fromMinMaxDegreesClockwise.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-anglerange-fromminmaxdegreesclockwise"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-anglerange-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a></li>
 <li class="self-crumb">fromMinMaxDegreesClockwise static method</li>
 </ol>
 <div class="self-name">fromMinMaxDegreesClockwise</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>fromMinMaxDegreesClockwise static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-anglerange-class
+<a href="../../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a>
 fromMinMaxDegreesClockwise(<wbr/><ol class="parameter-list single-line"> <li>double min, </li>
 <li>double max</li>
 </ol>)
@@ -62,7 +61,7 @@ degrees from north.
 The value will be normalized to [0.0, 360.0).</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-anglerange-class. Created AngleRange from the provided minimum and maximum angles.</p>
+<p>Returns <a href="../../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a>. Created AngleRange from the provided minimum and maximum angles.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -76,9 +75,9 @@ The value will be normalized to [0.0, 360.0).</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-anglerange-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a></li>
 <li class="self-crumb">fromMinMaxDegreesClockwise static method</li>
 </ol>
 <h5>AngleRange class</h5>
@@ -95,5 +94,4 @@ The value will be normalized to [0.0, 360.0).</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

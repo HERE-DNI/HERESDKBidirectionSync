@@ -1,10 +1,9 @@
 ---
-title: "Easing class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-animation-easing-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Easing-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-animation-easing-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
 <li class="self-crumb">Easing class</li>
 </ol>
 <div class="self-name">Easing</div>
@@ -57,17 +56,17 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Easing">
-/sdk-for-flutter-explore-animation-easing-easing(/sdk-for-flutter-explore-animation-easingfunction easingFunction)
+<a href="../animation/Easing/Easing.html">/sdk-for-flutter-explore-animation-easing-easing</a>(<a href="../animation/EasingFunction.html">/sdk-for-flutter-explore-animation-easingfunction</a> easingFunction)
 </dt>
 <dd>
-          Creates an instance of /sdk-for-flutter-explore-animation-easing-class using a predefined easing function.
+          Creates an instance of <a href="../animation/Easing-class.html">/sdk-for-flutter-explore-animation-easing-class</a> using a predefined easing function.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="Easing.withSampledPoints">
-/sdk-for-flutter-explore-animation-easing-easing-withsampledpoints(List&lt;<wbr/>/sdk-for-flutter-explore-core-point2d-class&gt; points)
+<a href="../animation/Easing/Easing.withSampledPoints.html">/sdk-for-flutter-explore-animation-easing-easing-withsampledpoints</a>(List&lt;<wbr/><a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>&gt; points)
 </dt>
 <dd>
-          Creates an instance of customized /sdk-for-flutter-explore-animation-easing-class using a specified number of points describing an
+          Creates an instance of customized <a href="../animation/Easing-class.html">/sdk-for-flutter-explore-animation-easing-class</a> using a specified number of points describing an
 easing function.
             <div class="constructor-modifier features">factory</div>
 </dd>
@@ -77,7 +76,7 @@ easing function.
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-animation-easing-hashcode
+<a href="../animation/Easing/hashCode.html">/sdk-for-flutter-explore-animation-easing-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -85,7 +84,7 @@ easing function.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-animation-easing-runtimetype
+<a href="../animation/Easing/runtimeType.html">/sdk-for-flutter-explore-animation-easing-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -98,7 +97,7 @@ easing function.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-animation-easing-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../animation/Easing/noSuchMethod.html">/sdk-for-flutter-explore-animation-easing-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -107,7 +106,7 @@ easing function.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-animation-easing-tostring(<wbr/>)
+<a href="../animation/Easing/toString.html">/sdk-for-flutter-explore-animation-easing-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -121,7 +120,7 @@ easing function.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-animation-easing-operator-equals(<wbr/>Object other)
+<a href="../animation/Easing/operator_equals.html">/sdk-for-flutter-explore-animation-easing-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -139,8 +138,8 @@ easing function.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
 <li class="self-crumb">Easing class</li>
 </ol>
 <h5>animation library</h5>
@@ -157,5 +156,4 @@ easing function.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

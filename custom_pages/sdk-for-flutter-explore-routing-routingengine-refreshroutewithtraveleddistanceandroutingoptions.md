@@ -1,10 +1,9 @@
 ---
-title: "refreshRouteWithTraveledDistanceAndRoutingOptions abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-routingengine-refreshroutewithtraveleddistanceandroutingoptions"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- refreshRouteWithTraveledDistanceAndRoutingOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-routingengine-refreshroutewithtraveleddis
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routingengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RoutingEngine-class.html">/sdk-for-flutter-explore-routing-routingengine-class</a></li>
 <li class="self-crumb">refreshRouteWithTraveledDistanceAndRoutingOptions abstract method</li>
 </ol>
 <div class="self-name">refreshRouteWithTraveledDistanceAndRoutingOptions</div>
@@ -40,28 +39,28 @@ menu
 <section class="multi-line-signature">
 <div>
 <ol class="annotation-list">
-<li>@Deprecated("Will be removed in v4.28.0. Use the <code>refresh_route()</code> methods with RefreshRouteParameters parameter instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use the `refresh_route()` methods with RefreshRouteParameters parameter instead.")</li>
 </ol>
 </div>
-/sdk-for-flutter-explore-core-threading-taskhandle-class
-refreshRouteWithTraveledDistanceAndRoutingOptions(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-routing-routehandle-class routeHandle, </li>
-<li>/sdk-for-flutter-explore-routing-waypoint-class? startingPoint, </li>
+<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+refreshRouteWithTraveledDistanceAndRoutingOptions(<wbr/><ol class="parameter-list"> <li><a href="../../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a> routeHandle, </li>
+<li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>? startingPoint, </li>
 <li>int? lastTraveledSectionIndex, </li>
 <li>int? traveledDistanceOnLastSectionInMeters, </li>
-<li>/sdk-for-flutter-explore-routing-routingoptions-class options, </li>
-<li>/sdk-for-flutter-explore-routing-calculateroutecallback callback, </li>
+<li><a href="../../routing/RoutingOptions-class.html">/sdk-for-flutter-explore-routing-routingoptions-class</a> options, </li>
+<li><a href="../../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback, </li>
 </ol>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Asynchronously refreshes a previously calculated route from the provided /sdk-for-flutter-explore-routing-routehandle-class, updating
-the starting point and route metadata based on /sdk-for-flutter-explore-routing-routingoptions-class.</p>
+<p>Asynchronously refreshes a previously calculated route from the provided <a href="../../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a>, updating
+the starting point and route metadata based on <a href="../../routing/RoutingOptions-class.html">/sdk-for-flutter-explore-routing-routingoptions-class</a>.</p>
 <p>The route shape from the new
 starting point to the destination remains unchanged, and only metadata such as arrival time and traffic
 delays are updated. If you only want to refresh the contained traffic information, consider to use
-/sdk-for-flutter-explore-routing-routingengine-calculatetrafficonroutewithcurrentcharge instead.</p>
+<a href="../../routing/RoutingEngine/calculateTrafficOnRouteWithCurrentCharge.html">/sdk-for-flutter-explore-routing-routingengine-calculatetrafficonroutewithcurrentcharge</a> instead.</p>
 <p>Calling this method will trigger a new "HERE Routing" transaction, for example,
 if you are using the <a href="https://www.here.com/get-started/pricing">Base Plan</a>.</p>
 <ul>
@@ -69,14 +68,14 @@ if you are using the <a href="https://www.here.com/get-started/pricing">Base Pla
 <p><code>routeHandle</code> The route handle holding the route to be refreshed.</p>
 </li>
 <li>
-<p><code>startingPoint</code> Updates the starting point of the route. It should be of type /sdk-for-flutter-explore-routing-waypointtype. Otherwise,
-an /sdk-for-flutter-explore-routing-routingerror error is generated. Moreover, it should be very close to the
-original route specified with the /sdk-for-flutter-explore-routing-routehandle-class. Since the new starting point is expected to be
+<p><code>startingPoint</code> Updates the starting point of the route. It should be of type <a href="../../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a>. Otherwise,
+an <a href="../../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a> error is generated. Moreover, it should be very close to the
+original route specified with the <a href="../../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a>. Since the new starting point is expected to be
 along the original route, the original route geometry is used to reach the remaining waypoints. The new route
-will not include the /sdk-for-flutter-explore-routing-waypoint-class items that lie behind the new starting point (i.e. the path that
-was already traveled). Plus, /sdk-for-flutter-explore-routing-route-lengthinmeters and /sdk-for-flutter-explore-routing-route-duration
+will not include the <a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a> items that lie behind the new starting point (i.e. the path that
+was already traveled). Plus, <a href="../../routing/Route/lengthInMeters.html">/sdk-for-flutter-explore-routing-route-lengthinmeters</a> and <a href="../../routing/Route/duration.html">/sdk-for-flutter-explore-routing-route-duration</a>
 values are from the new starting point to the destination. If the new waypoint is too far off the original
-route, the route refresh may fail and an /sdk-for-flutter-explore-routing-routingerror error is triggered.
+route, the route refresh may fail and an <a href="../../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a> error is triggered.
 In that case, an application may decide to calculate a new route from scratch.</p>
 </li>
 <li>
@@ -93,7 +92,7 @@ In that case, an application may decide to calculate a new route from scratch.</
 It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -109,9 +108,9 @@ TaskHandle refreshRouteWithTraveledDistanceAndRoutingOptions(RouteHandle routeHa
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routingengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RoutingEngine-class.html">/sdk-for-flutter-explore-routing-routingengine-class</a></li>
 <li class="self-crumb">refreshRouteWithTraveledDistanceAndRoutingOptions abstract method</li>
 </ol>
 <h5>RoutingEngine class</h5>
@@ -128,5 +127,4 @@ TaskHandle refreshRouteWithTraveledDistanceAndRoutingOptions(RouteHandle routeHa
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

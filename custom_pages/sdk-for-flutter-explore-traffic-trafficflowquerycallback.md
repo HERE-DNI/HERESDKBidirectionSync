@@ -1,10 +1,9 @@
 ---
-title: "TrafficFlowQueryCallback typedef"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-traffic-trafficflowquerycallback"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TrafficFlowQueryCallback.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,8 +11,8 @@ slug: "sdk-for-flutter-explore-traffic-trafficflowquerycallback"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
 <li class="self-crumb">TrafficFlowQueryCallback typedef</li>
 </ol>
 <div class="self-name">TrafficFlowQueryCallback</div>
@@ -38,13 +37,13 @@ menu
 <h1>TrafficFlowQueryCallback typedef</h1></div>
 <section class="multi-line-signature">
 TrafficFlowQueryCallback =
-     void Function(/sdk-for-flutter-explore-traffic-trafficqueryerror? queryError, List&lt;<wbr/>/sdk-for-flutter-explore-traffic-trafficflow-class&gt;? result)
+     void Function(<a href="../traffic/TrafficQueryError.html">/sdk-for-flutter-explore-traffic-trafficqueryerror</a>? queryError, List&lt;<wbr/><a href="../traffic/TrafficFlow-class.html">/sdk-for-flutter-explore-traffic-trafficflow-class</a>&gt;? result)
 </section>
 <section class="desc markdown">
 <p>Callback passed to following functions:
-/sdk-for-flutter-explore-traffic-trafficengine-queryforflowinbox
-/sdk-for-flutter-explore-traffic-trafficengine-queryforflowincircle
-/sdk-for-flutter-explore-traffic-trafficengine-queryforflowincorridor
+<a href="../traffic/TrafficEngine/queryForFlowInBox.html">/sdk-for-flutter-explore-traffic-trafficengine-queryforflowinbox</a>
+<a href="../traffic/TrafficEngine/queryForFlowInCircle.html">/sdk-for-flutter-explore-traffic-trafficengine-queryforflowincircle</a>
+<a href="../traffic/TrafficEngine/queryForFlowInCorridor.html">/sdk-for-flutter-explore-traffic-trafficengine-queryforflowincorridor</a>
 The method will be called on the main thread when a search call has been completed.</p>
 <p>The first argument is the error in the case of the failure. It is <code>null</code> for an operation that succeeds.
 The second argument is the list of flow items in the case of the success. It is <code>null</code> in case of an error.</p>
@@ -71,8 +70,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
 <li class="self-crumb">TrafficFlowQueryCallback typedef</li>
 </ol>
 <h5>traffic library</h5>
@@ -89,5 +88,4 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

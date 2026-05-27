@@ -1,10 +1,9 @@
 ---
-title: "EVChargingConnectorType class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-ev-evchargingconnectortype-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVChargingConnectorType-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -67,8 +66,8 @@ slug: "sdk-for-flutter-explore-ev-evchargingconnectortype-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-ev-ev-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../ev/ev-library.html">/sdk-for-flutter-explore-ev-ev-library</a></li>
 <li class="self-crumb">EVChargingConnectorType class</li>
 </ol>
 <div class="self-name">EVChargingConnectorType</div>
@@ -100,7 +99,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVChargingConnectorType">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-evchargingconnectortype()
+<a href="../ev/EVChargingConnectorType/EVChargingConnectorType.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-evchargingconnectortype</a>()
 </dt>
 <dd>
 </dd>
@@ -110,7 +109,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-hashcode
+<a href="../ev/EVChargingConnectorType/hashCode.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -118,7 +117,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-runtimetype
+<a href="../ev/EVChargingConnectorType/runtimeType.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -131,7 +130,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../ev/EVChargingConnectorType/noSuchMethod.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -140,7 +139,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-tostring(<wbr/>)
+<a href="../ev/EVChargingConnectorType/toString.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -154,7 +153,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-operator-equals(<wbr/>Object other)
+<a href="../ev/EVChargingConnectorType/operator_equals.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -168,7 +167,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Static Properties</h2>
 <dl class="properties">
 <dt class="property" id="chademo">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-chademo
+<a href="../ev/EVChargingConnectorType/chademo.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-chademo</a>
 → String
 </dt>
 <dd>
@@ -176,7 +175,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="chaoji">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-chaoji
+<a href="../ev/EVChargingConnectorType/chaoji.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-chaoji</a>
 → String
 </dt>
 <dd>
@@ -184,7 +183,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="domesticA">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-domestica
+<a href="../ev/EVChargingConnectorType/domesticA.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-domestica</a>
 → String
 </dt>
 <dd>
@@ -192,7 +191,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="domesticB">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-domesticb
+<a href="../ev/EVChargingConnectorType/domesticB.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-domesticb</a>
 → String
 </dt>
 <dd>
@@ -200,7 +199,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="domesticC">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-domesticc
+<a href="../ev/EVChargingConnectorType/domesticC.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-domesticc</a>
 → String
 </dt>
 <dd>
@@ -208,7 +207,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="domesticD">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-domesticd
+<a href="../ev/EVChargingConnectorType/domesticD.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-domesticd</a>
 → String
 </dt>
 <dd>
@@ -216,7 +215,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="domesticE">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-domestice
+<a href="../ev/EVChargingConnectorType/domesticE.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-domestice</a>
 → String
 </dt>
 <dd>
@@ -224,7 +223,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="domesticF">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-domesticf
+<a href="../ev/EVChargingConnectorType/domesticF.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-domesticf</a>
 → String
 </dt>
 <dd>
@@ -232,7 +231,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="domesticG">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-domesticg
+<a href="../ev/EVChargingConnectorType/domesticG.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-domesticg</a>
 → String
 </dt>
 <dd>
@@ -240,7 +239,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="domesticH">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-domestich
+<a href="../ev/EVChargingConnectorType/domesticH.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-domestich</a>
 → String
 </dt>
 <dd>
@@ -248,7 +247,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="domesticI">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-domestici
+<a href="../ev/EVChargingConnectorType/domesticI.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-domestici</a>
 → String
 </dt>
 <dd>
@@ -256,7 +255,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="domesticJ">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-domesticj
+<a href="../ev/EVChargingConnectorType/domesticJ.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-domesticj</a>
 → String
 </dt>
 <dd>
@@ -264,7 +263,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="domesticK">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-domestick
+<a href="../ev/EVChargingConnectorType/domesticK.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-domestick</a>
 → String
 </dt>
 <dd>
@@ -272,7 +271,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="domesticL">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-domesticl
+<a href="../ev/EVChargingConnectorType/domesticL.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-domesticl</a>
 → String
 </dt>
 <dd>
@@ -280,7 +279,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="domesticM">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-domesticm
+<a href="../ev/EVChargingConnectorType/domesticM.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-domesticm</a>
 → String
 </dt>
 <dd>
@@ -288,7 +287,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="domesticN">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-domesticn
+<a href="../ev/EVChargingConnectorType/domesticN.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-domesticn</a>
 → String
 </dt>
 <dd>
@@ -296,7 +295,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="domesticO">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-domestico
+<a href="../ev/EVChargingConnectorType/domesticO.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-domestico</a>
 → String
 </dt>
 <dd>
@@ -304,7 +303,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="gbtAc">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-gbtac
+<a href="../ev/EVChargingConnectorType/gbtAc.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-gbtac</a>
 → String
 </dt>
 <dd>
@@ -312,7 +311,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="gbtDc">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-gbtdc
+<a href="../ev/EVChargingConnectorType/gbtDc.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-gbtdc</a>
 → String
 </dt>
 <dd>
@@ -320,7 +319,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="iec603092Single16">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-iec603092single16
+<a href="../ev/EVChargingConnectorType/iec603092Single16.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-iec603092single16</a>
 → String
 </dt>
 <dd>
@@ -328,7 +327,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="iec603092Three16">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-iec603092three16
+<a href="../ev/EVChargingConnectorType/iec603092Three16.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-iec603092three16</a>
 → String
 </dt>
 <dd>
@@ -336,7 +335,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="iec603092Three32">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-iec603092three32
+<a href="../ev/EVChargingConnectorType/iec603092Three32.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-iec603092three32</a>
 → String
 </dt>
 <dd>
@@ -344,7 +343,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="iec603092Three64">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-iec603092three64
+<a href="../ev/EVChargingConnectorType/iec603092Three64.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-iec603092three64</a>
 → String
 </dt>
 <dd>
@@ -352,7 +351,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="iec62196T1">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-iec62196t1
+<a href="../ev/EVChargingConnectorType/iec62196T1.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-iec62196t1</a>
 → String
 </dt>
 <dd>
@@ -360,7 +359,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="iec62196T1Combo">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-iec62196t1combo
+<a href="../ev/EVChargingConnectorType/iec62196T1Combo.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-iec62196t1combo</a>
 → String
 </dt>
 <dd>
@@ -368,7 +367,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="iec62196T2">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-iec62196t2
+<a href="../ev/EVChargingConnectorType/iec62196T2.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-iec62196t2</a>
 → String
 </dt>
 <dd>
@@ -376,7 +375,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="iec62196T2Combo">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-iec62196t2combo
+<a href="../ev/EVChargingConnectorType/iec62196T2Combo.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-iec62196t2combo</a>
 → String
 </dt>
 <dd>
@@ -384,7 +383,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="iec62196T3a">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-iec62196t3a
+<a href="../ev/EVChargingConnectorType/iec62196T3a.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-iec62196t3a</a>
 → String
 </dt>
 <dd>
@@ -392,7 +391,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="iec62196T3c">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-iec62196t3c
+<a href="../ev/EVChargingConnectorType/iec62196T3c.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-iec62196t3c</a>
 → String
 </dt>
 <dd>
@@ -400,7 +399,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="mcs">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-mcs
+<a href="../ev/EVChargingConnectorType/mcs.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-mcs</a>
 → String
 </dt>
 <dd>
@@ -408,7 +407,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="nema1030">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-nema1030
+<a href="../ev/EVChargingConnectorType/nema1030.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-nema1030</a>
 → String
 </dt>
 <dd>
@@ -416,7 +415,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="nema1050">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-nema1050
+<a href="../ev/EVChargingConnectorType/nema1050.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-nema1050</a>
 → String
 </dt>
 <dd>
@@ -424,7 +423,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="nema1430">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-nema1430
+<a href="../ev/EVChargingConnectorType/nema1430.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-nema1430</a>
 → String
 </dt>
 <dd>
@@ -432,7 +431,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="nema1450">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-nema1450
+<a href="../ev/EVChargingConnectorType/nema1450.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-nema1450</a>
 → String
 </dt>
 <dd>
@@ -440,7 +439,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="nema520">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-nema520
+<a href="../ev/EVChargingConnectorType/nema520.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-nema520</a>
 → String
 </dt>
 <dd>
@@ -448,7 +447,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="nema630">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-nema630
+<a href="../ev/EVChargingConnectorType/nema630.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-nema630</a>
 → String
 </dt>
 <dd>
@@ -456,7 +455,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="nema650">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-nema650
+<a href="../ev/EVChargingConnectorType/nema650.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-nema650</a>
 → String
 </dt>
 <dd>
@@ -464,7 +463,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="pantographBottomUp">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-pantographbottomup
+<a href="../ev/EVChargingConnectorType/pantographBottomUp.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-pantographbottomup</a>
 → String
 </dt>
 <dd>
@@ -472,7 +471,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="pantographTopDown">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-pantographtopdown
+<a href="../ev/EVChargingConnectorType/pantographTopDown.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-pantographtopdown</a>
 → String
 </dt>
 <dd>
@@ -480,7 +479,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="saeJ3400">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-saej3400
+<a href="../ev/EVChargingConnectorType/saeJ3400.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-saej3400</a>
 → String
 </dt>
 <dd>
@@ -488,7 +487,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">final</div>
 </dd>
 <dt class="property" id="teslaR">
-/sdk-for-flutter-explore-ev-evchargingconnectortype-teslar
+<a href="../ev/EVChargingConnectorType/teslaR.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-teslar</a>
 → String
 </dt>
 <dd>
@@ -505,8 +504,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-ev-ev-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../ev/ev-library.html">/sdk-for-flutter-explore-ev-ev-library</a></li>
 <li class="self-crumb">EVChargingConnectorType class</li>
 </ol>
 <h5>ev library</h5>
@@ -523,5 +522,4 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

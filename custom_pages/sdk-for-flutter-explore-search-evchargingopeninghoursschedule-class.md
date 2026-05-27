@@ -1,10 +1,9 @@
 ---
-title: "EVChargingOpeningHoursSchedule class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-evchargingopeninghoursschedule-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVChargingOpeningHoursSchedule-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-search-evchargingopeninghoursschedule-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVChargingOpeningHoursSchedule class</li>
 </ol>
 <div class="self-name">EVChargingOpeningHoursSchedule</div>
@@ -61,7 +60,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVChargingOpeningHoursSchedule">
-/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-evchargingopeninghoursschedule()
+<a href="../search/EVChargingOpeningHoursSchedule/EVChargingOpeningHoursSchedule.html">/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-evchargingopeninghoursschedule</a>()
 </dt>
 <dd>
 </dd>
@@ -71,15 +70,15 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="days">
-/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-days
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-dayofweek&gt;
+<a href="../search/EVChargingOpeningHoursSchedule/days.html">/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-days</a>
+↔ List&lt;<wbr/><a href="../search/DayOfWeek.html">/sdk-for-flutter-explore-search-dayofweek</a>&gt;
 </dt>
 <dd>
   Day(s) of the week.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-hashcode
+<a href="../search/EVChargingOpeningHoursSchedule/hashCode.html">/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-hashcode</a>
 → int
 </dt>
 <dd>
@@ -87,15 +86,15 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="periods">
-/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-periods
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-timeofdayrange-class&gt;
+<a href="../search/EVChargingOpeningHoursSchedule/periods.html">/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-periods</a>
+↔ List&lt;<wbr/><a href="../search/TimeOfDayRange-class.html">/sdk-for-flutter-explore-search-timeofdayrange-class</a>&gt;
 </dt>
 <dd>
   List of time periods.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-runtimetype
+<a href="../search/EVChargingOpeningHoursSchedule/runtimeType.html">/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -108,7 +107,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/EVChargingOpeningHoursSchedule/noSuchMethod.html">/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -117,7 +116,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-tostring(<wbr/>)
+<a href="../search/EVChargingOpeningHoursSchedule/toString.html">/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -131,7 +130,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-operator-equals(<wbr/>Object other)
+<a href="../search/EVChargingOpeningHoursSchedule/operator_equals.html">/sdk-for-flutter-explore-search-evchargingopeninghoursschedule-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -150,8 +149,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVChargingOpeningHoursSchedule class</li>
 </ol>
 <h5>search library</h5>
@@ -168,5 +167,4 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

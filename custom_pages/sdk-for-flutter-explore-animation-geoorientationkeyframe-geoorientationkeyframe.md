@@ -1,10 +1,9 @@
 ---
-title: "GeoOrientationKeyframe constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-animation-geoorientationkeyframe-geoorientationkeyframe"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- GeoOrientationKeyframe.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-animation-geoorientationkeyframe-geoorientationke
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-animation-geoorientationkeyframe-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../../animation/GeoOrientationKeyframe-class.html">/sdk-for-flutter-explore-animation-geoorientationkeyframe-class</a></li>
 <li class="self-crumb">GeoOrientationKeyframe factory constructor</li>
 </ol>
 <div class="self-name">GeoOrientationKeyframe</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>GeoOrientationKeyframe constructor</h1></div>
 <section class="multi-line-signature">
-GeoOrientationKeyframe(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geoorientation-class value, </li>
+GeoOrientationKeyframe(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoOrientation-class.html">/sdk-for-flutter-explore-core-geoorientation-class</a> value, </li>
 <li>Duration duration</li>
 </ol>)
     </section>
@@ -66,9 +65,9 @@ Negative duration value gets clamped to 0.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-animation-geoorientationkeyframe-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../../animation/GeoOrientationKeyframe-class.html">/sdk-for-flutter-explore-animation-geoorientationkeyframe-class</a></li>
 <li class="self-crumb">GeoOrientationKeyframe factory constructor</li>
 </ol>
 <h5>GeoOrientationKeyframe class</h5>
@@ -85,5 +84,4 @@ Negative duration value gets clamped to 0.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

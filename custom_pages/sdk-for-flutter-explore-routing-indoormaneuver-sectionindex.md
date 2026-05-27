@@ -1,10 +1,9 @@
 ---
-title: "sectionIndex property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-indoormaneuver-sectionindex"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- sectionIndex.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-indoormaneuver-sectionindex"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-indoormaneuver-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/IndoorManeuver-class.html">/sdk-for-flutter-explore-routing-indoormaneuver-class</a></li>
 <li class="self-crumb">sectionIndex property</li>
 </ol>
 <div class="self-name">sectionIndex</div>
@@ -59,9 +58,9 @@ Gets the section index this maneuver belongs to.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-indoormaneuver-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/IndoorManeuver-class.html">/sdk-for-flutter-explore-routing-indoormaneuver-class</a></li>
 <li class="self-crumb">sectionIndex property</li>
 </ol>
 <h5>IndoorManeuver class</h5>
@@ -78,5 +77,4 @@ Gets the section index this maneuver belongs to.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

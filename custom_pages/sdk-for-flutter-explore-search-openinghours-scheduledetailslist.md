@@ -1,10 +1,9 @@
 ---
-title: "scheduleDetailsList property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-openinghours-scheduledetailslist"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- scheduleDetailsList.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-openinghours-scheduledetailslist"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-openinghours-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/OpeningHours-class.html">/sdk-for-flutter-explore-search-openinghours-class</a></li>
 <li class="self-crumb">scheduleDetailsList property</li>
 </ol>
 <div class="self-name">scheduleDetailsList</div>
@@ -39,7 +38,7 @@ menu
 <h1>scheduleDetailsList property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-search-scheduledetails-class&gt;
+        List&lt;<wbr/><a href="../../search/ScheduleDetails-class.html">/sdk-for-flutter-explore-search-scheduledetails-class</a>&gt;
 scheduleDetailsList
 <div class="features">getter/setter pair</div>
 </section>
@@ -58,9 +57,9 @@ scheduleDetailsList
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-openinghours-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/OpeningHours-class.html">/sdk-for-flutter-explore-search-openinghours-class</a></li>
 <li class="self-crumb">scheduleDetailsList property</li>
 </ol>
 <h5>OpeningHours class</h5>
@@ -77,5 +76,4 @@ scheduleDetailsList
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

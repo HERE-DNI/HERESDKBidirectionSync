@@ -1,10 +1,9 @@
 ---
-title: "href property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-suggestion-href"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- href.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-suggestion-href"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-suggestion-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/Suggestion-class.html">/sdk-for-flutter-explore-search-suggestion-class</a></li>
 <li class="self-crumb">href property</li>
 </ol>
 <div class="self-name">href</div>
@@ -44,7 +43,7 @@ href
 </section>
 <section class="desc markdown">
 <p>Direct URL for precise query.
-Available only for /sdk-for-flutter-explore-search-suggestiontype and /sdk-for-flutter-explore-search-suggestiontype.
+Available only for <a href="../../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a> and <a href="../../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a>.
 This is not supported in offline search.
 Gets the direct link for Discover query.</p>
 </section>
@@ -61,9 +60,9 @@ Gets the direct link for Discover query.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-suggestion-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/Suggestion-class.html">/sdk-for-flutter-explore-search-suggestion-class</a></li>
 <li class="self-crumb">href property</li>
 </ol>
 <h5>Suggestion class</h5>
@@ -80,5 +79,4 @@ Gets the direct link for Discover query.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

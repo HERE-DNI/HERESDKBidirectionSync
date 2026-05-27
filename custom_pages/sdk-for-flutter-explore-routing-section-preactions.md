@@ -1,10 +1,9 @@
 ---
-title: "preActions property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-section-preactions"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- preActions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-section-preactions"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-section-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a></li>
 <li class="self-crumb">preActions property</li>
 </ol>
 <div class="self-name">preActions</div>
@@ -39,7 +38,7 @@ menu
 <h1>preActions property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-List&lt;<wbr/>/sdk-for-flutter-explore-routing-preaction-class&gt;
+List&lt;<wbr/><a href="../../routing/PreAction-class.html">/sdk-for-flutter-explore-routing-preaction-class</a>&gt;
 preActions
 </section>
 <section class="desc markdown">
@@ -59,9 +58,9 @@ Gets the preceding actions that must be done prior to departure at the beginning
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-section-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a></li>
 <li class="self-crumb">preActions property</li>
 </ol>
 <h5>Section class</h5>
@@ -78,5 +77,4 @@ Gets the preceding actions that must be done prior to departure at the beginning
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

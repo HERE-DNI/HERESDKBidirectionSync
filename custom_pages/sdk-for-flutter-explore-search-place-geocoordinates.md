@@ -1,10 +1,9 @@
 ---
-title: "geoCoordinates property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-place-geocoordinates"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- geoCoordinates.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-place-geocoordinates"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-place-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a></li>
 <li class="self-crumb">geoCoordinates property</li>
 </ol>
 <div class="self-name">geoCoordinates</div>
@@ -39,7 +38,7 @@ menu
 <h1>geoCoordinates property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-geocoordinates-class?
+<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
 geoCoordinates
 </section>
 <section class="desc markdown">
@@ -60,9 +59,9 @@ Gets the geographic coordinates of the place.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-place-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a></li>
 <li class="self-crumb">geoCoordinates property</li>
 </ol>
 <h5>Place class</h5>
@@ -79,5 +78,4 @@ Gets the geographic coordinates of the place.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

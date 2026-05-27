@@ -1,10 +1,9 @@
 ---
-title: "shadowQuality property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-heremapcontroller-shadowquality"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- shadowQuality.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-heremapcontroller-shadowquality"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-heremapcontroller-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/HereMapController-class.html">/sdk-for-flutter-explore-mapview-heremapcontroller-class</a></li>
 <li class="self-crumb">shadowQuality property</li>
 </ol>
 <div class="self-name">shadowQuality</div>
@@ -39,12 +38,12 @@ menu
 <h1>shadowQuality property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-shadowquality
+<a href="../../mapview/ShadowQuality.html">/sdk-for-flutter-explore-mapview-shadowquality</a>
 shadowQuality
 </section>
 <section class="desc markdown">
 <p>The current shadow quality.
-Default shadow quality is /sdk-for-flutter-explore-mapview-shadowquality.
+Default shadow quality is <a href="../../mapview/ShadowQuality.html">/sdk-for-flutter-explore-mapview-shadowquality</a>.
 Note: This feature is in beta state and thus there can be bugs and unexpected behavior.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -55,12 +54,12 @@ Note: This feature is in beta state and thus there can be bugs and unexpected be
 <section id="setter">
 <section class="multi-line-signature">
 void
-shadowQuality=(<wbr/>/sdk-for-flutter-explore-mapview-shadowquality shadowQuality)
+shadowQuality=(<wbr/><a href="../../mapview/ShadowQuality.html">/sdk-for-flutter-explore-mapview-shadowquality</a> shadowQuality)
 </section>
 <section class="desc markdown">
 <p>Sets the desired shadow quality for all instances of HereMap to <code>shadowQuality</code>.
 The quality controls the size of the shadow maps and the cascade count.
-Default shadow quality is /sdk-for-flutter-explore-mapview-shadowquality.
+Default shadow quality is <a href="../../mapview/ShadowQuality.html">/sdk-for-flutter-explore-mapview-shadowquality</a>.
 HereMaps can request to render shadows by feature.
 Enabling shadows has a performance impact and should be considered only for devices with
 sufficient performance.
@@ -81,9 +80,9 @@ Note: This feature is in beta state and thus there can be bugs and unexpected be
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-heremapcontroller-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/HereMapController-class.html">/sdk-for-flutter-explore-mapview-heremapcontroller-class</a></li>
 <li class="self-crumb">shadowQuality property</li>
 </ol>
 <h5>HereMapController class</h5>
@@ -100,5 +99,4 @@ Note: This feature is in beta state and thus there can be bugs and unexpected be
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

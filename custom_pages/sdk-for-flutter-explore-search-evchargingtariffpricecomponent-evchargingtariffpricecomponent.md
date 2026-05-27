@@ -1,10 +1,9 @@
 ---
-title: "EVChargingTariffPriceComponent constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evchargingtariffpricecomponent-evchargingtariffpricecomponent"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVChargingTariffPriceComponent.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evchargingtariffpricecomponent-evchargingt
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingTariffPriceComponent-class.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class</a></li>
 <li class="self-crumb">EVChargingTariffPriceComponent constructor</li>
 </ol>
 <div class="self-name">EVChargingTariffPriceComponent</div>
@@ -53,9 +52,9 @@ EVChargingTariffPriceComponent(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingTariffPriceComponent-class.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class</a></li>
 <li class="self-crumb">EVChargingTariffPriceComponent constructor</li>
 </ol>
 <h5>EVChargingTariffPriceComponent class</h5>
@@ -72,5 +71,4 @@ EVChargingTariffPriceComponent(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

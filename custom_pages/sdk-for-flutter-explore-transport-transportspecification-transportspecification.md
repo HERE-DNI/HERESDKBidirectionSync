@@ -1,10 +1,9 @@
 ---
-title: "TransportSpecification constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-transportspecification-transportspecification"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TransportSpecification.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-transportspecification-transportspecifi
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-transportspecification-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a></li>
 <li class="self-crumb">TransportSpecification constructor</li>
 </ol>
 <div class="self-name">TransportSpecification</div>
@@ -53,9 +52,9 @@ TransportSpecification(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-transportspecification-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a></li>
 <li class="self-crumb">TransportSpecification constructor</li>
 </ol>
 <h5>TransportSpecification class</h5>
@@ -72,5 +71,4 @@ TransportSpecification(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

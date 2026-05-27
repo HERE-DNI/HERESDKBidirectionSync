@@ -1,10 +1,9 @@
 ---
-title: "removeMapPolyline abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapscene-removemappolyline"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- removeMapPolyline.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscene-removemappolyline"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
 <li class="self-crumb">removeMapPolyline abstract method</li>
 </ol>
 <div class="self-name">removeMapPolyline</div>
@@ -39,7 +38,7 @@ menu
 <h1>removeMapPolyline abstract method</h1></div>
 <section class="multi-line-signature">
 void
-removeMapPolyline(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mappolyline-class mapPolyline</li>
+removeMapPolyline(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a> mapPolyline</li>
 </ol>)
 
       
@@ -63,9 +62,9 @@ removeMapPolyline(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
 <li class="self-crumb">removeMapPolyline abstract method</li>
 </ol>
 <h5>MapScene class</h5>
@@ -82,5 +81,4 @@ removeMapPolyline(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

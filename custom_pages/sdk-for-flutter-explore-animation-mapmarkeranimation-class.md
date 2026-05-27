@@ -1,10 +1,9 @@
 ---
-title: "MapMarkerAnimation class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-animation-mapmarkeranimation-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapMarkerAnimation-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +24,8 @@ slug: "sdk-for-flutter-explore-animation-mapmarkeranimation-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
 <li class="self-crumb">MapMarkerAnimation class</li>
 </ol>
 <div class="self-name">MapMarkerAnimation</div>
@@ -50,16 +49,16 @@ menu
 <div>
 <h1>MapMarkerAnimation class abstract</h1></div>
 <section class="desc markdown">
-<p>An animation that can be applied to the /sdk-for-flutter-explore-mapview-mapmarker-class object.</p>
+<p>An animation that can be applied to the <a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a> object.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapMarkerAnimation">
-/sdk-for-flutter-explore-animation-mapmarkeranimation-mapmarkeranimation(/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class track)
+<a href="../animation/MapMarkerAnimation/MapMarkerAnimation.html">/sdk-for-flutter-explore-animation-mapmarkeranimation-mapmarkeranimation</a>(<a href="../animation/MapItemKeyFrameTrack-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</a> track)
 </dt>
 <dd>
-          Creates an animation of /sdk-for-flutter-explore-mapview-mapmarker-class based on provided keyframe track.
+          Creates an animation of <a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a> based on provided keyframe track.
             <div class="constructor-modifier features">factory</div>
 </dd>
 </dl>
@@ -68,7 +67,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-animation-mapmarkeranimation-hashcode
+<a href="../animation/MapMarkerAnimation/hashCode.html">/sdk-for-flutter-explore-animation-mapmarkeranimation-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -76,7 +75,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-animation-mapmarkeranimation-runtimetype
+<a href="../animation/MapMarkerAnimation/runtimeType.html">/sdk-for-flutter-explore-animation-mapmarkeranimation-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -89,7 +88,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-animation-mapmarkeranimation-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../animation/MapMarkerAnimation/noSuchMethod.html">/sdk-for-flutter-explore-animation-mapmarkeranimation-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -98,7 +97,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-animation-mapmarkeranimation-tostring(<wbr/>)
+<a href="../animation/MapMarkerAnimation/toString.html">/sdk-for-flutter-explore-animation-mapmarkeranimation-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -112,7 +111,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-animation-mapmarkeranimation-operator-equals(<wbr/>Object other)
+<a href="../animation/MapMarkerAnimation/operator_equals.html">/sdk-for-flutter-explore-animation-mapmarkeranimation-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -130,8 +129,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
 <li class="self-crumb">MapMarkerAnimation class</li>
 </ol>
 <h5>animation library</h5>
@@ -148,5 +147,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

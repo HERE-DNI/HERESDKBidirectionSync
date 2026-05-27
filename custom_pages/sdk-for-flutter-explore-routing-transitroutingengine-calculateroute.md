@@ -1,10 +1,9 @@
 ---
-title: "calculateRoute abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-transitroutingengine-calculateroute"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- calculateRoute.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-transitroutingengine-calculateroute"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-transitroutingengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TransitRoutingEngine-class.html">/sdk-for-flutter-explore-routing-transitroutingengine-class</a></li>
 <li class="self-crumb">calculateRoute abstract method</li>
 </ol>
 <div class="self-name">calculateRoute</div>
@@ -38,11 +37,11 @@ menu
 <div>
 <h1>calculateRoute abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-threading-taskhandle-class
-calculateRoute(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-routing-transitwaypoint-class startingPoint, </li>
-<li>/sdk-for-flutter-explore-routing-transitwaypoint-class destination, </li>
-<li>/sdk-for-flutter-explore-routing-transitrouteoptions-class routeOptions, </li>
-<li>/sdk-for-flutter-explore-routing-calculateroutecallback callback, </li>
+<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+calculateRoute(<wbr/><ol class="parameter-list"> <li><a href="../../routing/TransitWaypoint-class.html">/sdk-for-flutter-explore-routing-transitwaypoint-class</a> startingPoint, </li>
+<li><a href="../../routing/TransitWaypoint-class.html">/sdk-for-flutter-explore-routing-transitwaypoint-class</a> destination, </li>
+<li><a href="../../routing/TransitRouteOptions-class.html">/sdk-for-flutter-explore-routing-transitrouteoptions-class</a> routeOptions, </li>
+<li><a href="../../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback, </li>
 </ol>)
 
       
@@ -65,7 +64,7 @@ calculateRoute(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-ro
 It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -79,9 +78,9 @@ It is always invoked on the main thread.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-transitroutingengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TransitRoutingEngine-class.html">/sdk-for-flutter-explore-routing-transitroutingengine-class</a></li>
 <li class="self-crumb">calculateRoute abstract method</li>
 </ol>
 <h5>TransitRoutingEngine class</h5>
@@ -98,5 +97,4 @@ It is always invoked on the main thread.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

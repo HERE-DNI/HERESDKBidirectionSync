@@ -1,10 +1,9 @@
 ---
-title: "diagnosticsOutputPath property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-networksettings-diagnosticsoutputpath"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- diagnosticsOutputPath.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-networksettings-diagnosticsoutputpath
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-networksettings-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/NetworkSettings-class.html">/sdk-for-flutter-explore-core-engine-networksettings-class</a></li>
 <li class="self-crumb">diagnosticsOutputPath property</li>
 </ol>
 <div class="self-name">diagnosticsOutputPath</div>
@@ -61,9 +60,9 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-networksettings-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/NetworkSettings-class.html">/sdk-for-flutter-explore-core-engine-networksettings-class</a></li>
 <li class="self-crumb">diagnosticsOutputPath property</li>
 </ol>
 <h5>NetworkSettings class</h5>
@@ -80,5 +79,4 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "bearingRange property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapcameralimits-bearingrange"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- bearingRange.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcameralimits-bearingrange"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcameralimits-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraLimits-class.html">/sdk-for-flutter-explore-mapview-mapcameralimits-class</a></li>
 <li class="self-crumb">bearingRange property</li>
 </ol>
 <div class="self-name">bearingRange</div>
@@ -39,7 +38,7 @@ menu
 <h1>bearingRange property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-anglerange-class
+<a href="../../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a>
 bearingRange
 </section>
 <section class="desc markdown">
@@ -57,7 +56,7 @@ the last call to set the range.</p>
 <section id="setter">
 <section class="multi-line-signature">
 void
-bearingRange=(<wbr/>/sdk-for-flutter-explore-core-anglerange-class value)
+bearingRange=(<wbr/><a href="../../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a> value)
 </section>
 <section class="desc markdown">
 <p>The bearing range within which the camera can be rotated.
@@ -80,9 +79,9 @@ maximum, depending on which is closest.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcameralimits-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraLimits-class.html">/sdk-for-flutter-explore-mapview-mapcameralimits-class</a></li>
 <li class="self-crumb">bearingRange property</li>
 </ol>
 <h5>MapCameraLimits class</h5>
@@ -99,5 +98,4 @@ maximum, depending on which is closest.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

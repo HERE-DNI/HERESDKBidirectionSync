@@ -1,10 +1,9 @@
 ---
-title: "log static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-sdklogger-log"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- log.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdklogger-log"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdklogger-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKLogger-class.html">/sdk-for-flutter-explore-core-engine-sdklogger-class</a></li>
 <li class="self-crumb">log static method</li>
 </ol>
 <div class="self-name">log</div>
@@ -39,7 +38,7 @@ menu
 <h1>log static method</h1></div>
 <section class="multi-line-signature">
 void
-log(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-engine-loglevel level, </li>
+log(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.engine/LogLevel.html">/sdk-for-flutter-explore-core-engine-loglevel</a> level, </li>
 <li>String tag, </li>
 <li>String message</li>
 </ol>)
@@ -72,9 +71,9 @@ log(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-c
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdklogger-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKLogger-class.html">/sdk-for-flutter-explore-core-engine-sdklogger-class</a></li>
 <li class="self-crumb">log static method</li>
 </ol>
 <h5>SDKLogger class</h5>
@@ -91,5 +90,4 @@ log(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-c
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

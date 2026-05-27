@@ -1,10 +1,9 @@
 ---
-title: "WebDetails class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-webdetails-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- WebDetails-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-search-webdetails-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">WebDetails class</li>
 </ol>
 <div class="self-name">WebDetails</div>
@@ -59,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="WebDetails">
-/sdk-for-flutter-explore-search-webdetails-webdetails()
+<a href="../search/WebDetails/WebDetails.html">/sdk-for-flutter-explore-search-webdetails-webdetails</a>()
 </dt>
 <dd>
           Creates a new instance.
@@ -70,8 +69,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="editorials">
-/sdk-for-flutter-explore-search-webdetails-editorials
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-webeditorial-class&gt;
+<a href="../search/WebDetails/editorials.html">/sdk-for-flutter-explore-search-webdetails-editorials</a>
+↔ List&lt;<wbr/><a href="../search/WebEditorial-class.html">/sdk-for-flutter-explore-search-webeditorial-class</a>&gt;
 </dt>
 <dd>
   The list of editorials associated with the place.
@@ -80,7 +79,7 @@ valid contracts with said suppliers. If the user has no such contracts, the list
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-webdetails-hashcode
+<a href="../search/WebDetails/hashCode.html">/sdk-for-flutter-explore-search-webdetails-hashcode</a>
 → int
 </dt>
 <dd>
@@ -88,8 +87,8 @@ valid contracts with said suppliers. If the user has no such contracts, the list
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="images">
-/sdk-for-flutter-explore-search-webdetails-images
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-webimage-class&gt;
+<a href="../search/WebDetails/images.html">/sdk-for-flutter-explore-search-webdetails-images</a>
+↔ List&lt;<wbr/><a href="../search/WebImage-class.html">/sdk-for-flutter-explore-search-webimage-class</a>&gt;
 </dt>
 <dd>
   The list of images associated with the place.
@@ -98,8 +97,8 @@ valid contracts with said suppliers. If the user has no such contracts, the list
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="ratings">
-/sdk-for-flutter-explore-search-webdetails-ratings
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-webrating-class&gt;
+<a href="../search/WebDetails/ratings.html">/sdk-for-flutter-explore-search-webdetails-ratings</a>
+↔ List&lt;<wbr/><a href="../search/WebRating-class.html">/sdk-for-flutter-explore-search-webrating-class</a>&gt;
 </dt>
 <dd>
   The list of ratings associated with the place.
@@ -108,7 +107,7 @@ valid contracts with said suppliers. If the user has no such contracts, the list
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-webdetails-runtimetype
+<a href="../search/WebDetails/runtimeType.html">/sdk-for-flutter-explore-search-webdetails-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -121,7 +120,7 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-webdetails-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/WebDetails/noSuchMethod.html">/sdk-for-flutter-explore-search-webdetails-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -130,7 +129,7 @@ valid contracts with said suppliers. If the user has no such contracts, the list
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-webdetails-tostring(<wbr/>)
+<a href="../search/WebDetails/toString.html">/sdk-for-flutter-explore-search-webdetails-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -144,7 +143,7 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-webdetails-operator-equals(<wbr/>Object other)
+<a href="../search/WebDetails/operator_equals.html">/sdk-for-flutter-explore-search-webdetails-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -163,8 +162,8 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">WebDetails class</li>
 </ol>
 <h5>search library</h5>
@@ -181,5 +180,4 @@ valid contracts with said suppliers. If the user has no such contracts, the list
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

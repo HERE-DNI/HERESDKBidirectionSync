@@ -1,10 +1,9 @@
 ---
-title: "pinchRotateListener property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-gestures-gestures-pinchrotatelistener"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- pinchRotateListener.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-gestures-gestures-pinchrotatelistener"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a></li>
 <li class="self-crumb">pinchRotateListener property</li>
 </ol>
 <div class="self-name">pinchRotateListener</div>
@@ -39,12 +38,12 @@ menu
 <h1>pinchRotateListener property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-gestures-pinchrotatelistener-class?
+<a href="../../gestures/PinchRotateListener-class.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-class</a>?
 pinchRotateListener
 </section>
 <section class="desc markdown">
-<p>/sdk-for-flutter-explore-gestures-pinchrotatelistener-class that notifies when a pinch-rotate gesture occurs.
-Gets a /sdk-for-flutter-explore-gestures-pinchrotatelistener-class that notifies when a pinch-rotate gesture occurs. /sdk-for-flutter-explore-gestures-gestures-class holds a strong reference to the listener.</p>
+<p><a href="../../gestures/PinchRotateListener-class.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-class</a> that notifies when a pinch-rotate gesture occurs.
+Gets a <a href="../../gestures/PinchRotateListener-class.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-class</a> that notifies when a pinch-rotate gesture occurs. <a href="../../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a> holds a strong reference to the listener.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -54,11 +53,11 @@ Gets a /sdk-for-flutter-explore-gestures-pinchrotatelistener-class that notifies
 <section id="setter">
 <section class="multi-line-signature">
 void
-pinchRotateListener=(<wbr/>/sdk-for-flutter-explore-gestures-pinchrotatelistener-class? value)
+pinchRotateListener=(<wbr/><a href="../../gestures/PinchRotateListener-class.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-class</a>? value)
 </section>
 <section class="desc markdown">
-<p>/sdk-for-flutter-explore-gestures-pinchrotatelistener-class that notifies when a pinch-rotate gesture occurs.
-Sets a /sdk-for-flutter-explore-gestures-pinchrotatelistener-class that notifies when a pinch-rotate gesture occurs.</p>
+<p><a href="../../gestures/PinchRotateListener-class.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-class</a> that notifies when a pinch-rotate gesture occurs.
+Sets a <a href="../../gestures/PinchRotateListener-class.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-class</a> that notifies when a pinch-rotate gesture occurs.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -73,9 +72,9 @@ Sets a /sdk-for-flutter-explore-gestures-pinchrotatelistener-class that notifies
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a></li>
 <li class="self-crumb">pinchRotateListener property</li>
 </ol>
 <h5>Gestures class</h5>
@@ -92,5 +91,4 @@ Sets a /sdk-for-flutter-explore-gestures-pinchrotatelistener-class that notifies
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

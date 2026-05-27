@@ -1,10 +1,9 @@
 ---
-title: "onRoadThresholdInMeters property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-waypoint-onroadthresholdinmeters"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- onRoadThresholdInMeters.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-waypoint-onroadthresholdinmeters"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-waypoint-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a></li>
 <li class="self-crumb">onRoadThresholdInMeters property</li>
 </ol>
 <div class="self-name">onRoadThresholdInMeters</div>
@@ -60,9 +59,9 @@ Outside the threshold only segments which aren't one of highway/bridge/tunnel/sl
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-waypoint-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a></li>
 <li class="self-crumb">onRoadThresholdInMeters property</li>
 </ol>
 <h5>Waypoint class</h5>
@@ -79,5 +78,4 @@ Outside the threshold only segments which aren't one of highway/bridge/tunnel/sl
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

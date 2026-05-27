@@ -1,10 +1,9 @@
 ---
-title: "MapImageOverlay constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapimageoverlay-mapimageoverlay"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapImageOverlay.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapimageoverlay-mapimageoverlay"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapimageoverlay-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapImageOverlay-class.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-class</a></li>
 <li class="self-crumb">MapImageOverlay factory constructor</li>
 </ol>
 <div class="self-name">MapImageOverlay</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>MapImageOverlay constructor</h1></div>
 <section class="multi-line-signature">
-MapImageOverlay(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-point2d-class viewCoordinates, </li>
-<li>/sdk-for-flutter-explore-mapview-mapimage-class image</li>
+MapImageOverlay(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> viewCoordinates, </li>
+<li><a href="../../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a> image</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -65,9 +64,9 @@ MapImageOverlay(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutt
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapimageoverlay-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapImageOverlay-class.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-class</a></li>
 <li class="self-crumb">MapImageOverlay factory constructor</li>
 </ol>
 <h5>MapImageOverlay class</h5>
@@ -84,5 +83,4 @@ MapImageOverlay(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutt
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

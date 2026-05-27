@@ -1,10 +1,9 @@
 ---
-title: "loaded abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-loaded"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- loaded.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandl
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/PointTileSourceLoadResultHandler-class.html">/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-class</a></li>
 <li class="self-crumb">loaded abstract method</li>
 </ol>
 <div class="self-name">loaded</div>
@@ -39,9 +38,9 @@ menu
 <h1>loaded abstract method</h1></div>
 <section class="multi-line-signature">
 void
-loaded(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-tilekey-class tileKey, </li>
-<li>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-datasource-pointdata-class&gt; data, </li>
-<li>/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class metadata</li>
+loaded(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a> tileKey, </li>
+<li>List&lt;<wbr/><a href="../../mapview.datasource/PointData-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdata-class</a>&gt; data, </li>
+<li><a href="../../mapview.datasource/TileSourceTileMetadata-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class</a> metadata</li>
 </ol>)
 
       
@@ -73,9 +72,9 @@ loaded(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explor
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/PointTileSourceLoadResultHandler-class.html">/sdk-for-flutter-explore-mapview-datasource-pointtilesourceloadresulthandler-class</a></li>
 <li class="self-crumb">loaded abstract method</li>
 </ol>
 <h5>PointTileSourceLoadResultHandler class</h5>
@@ -92,5 +91,4 @@ loaded(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explor
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "TextQuery.withArea constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-textquery-textquery-witharea"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TextQuery.withArea.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-textquery-textquery-witharea"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-textquery-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/TextQuery-class.html">/sdk-for-flutter-explore-search-textquery-class</a></li>
 <li class="self-crumb">TextQuery.withArea factory constructor</li>
 </ol>
 <div class="self-name">TextQuery.withArea</div>
@@ -39,7 +38,7 @@ menu
 <h1>TextQuery.withArea constructor</h1></div>
 <section class="multi-line-signature">
 TextQuery.withArea(<wbr/><ol class="parameter-list single-line"> <li>String query, </li>
-<li>/sdk-for-flutter-explore-search-textqueryarea-class area</li>
+<li><a href="../../search/TextQueryArea-class.html">/sdk-for-flutter-explore-search-textqueryarea-class</a> area</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -67,9 +66,9 @@ restricts the results to only POIs.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-textquery-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/TextQuery-class.html">/sdk-for-flutter-explore-search-textquery-class</a></li>
 <li class="self-crumb">TextQuery.withArea factory constructor</li>
 </ol>
 <h5>TextQuery class</h5>
@@ -86,5 +85,4 @@ restricts the results to only POIs.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

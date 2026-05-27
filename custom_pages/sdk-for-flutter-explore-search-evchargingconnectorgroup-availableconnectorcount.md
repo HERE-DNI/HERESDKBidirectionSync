@@ -1,10 +1,9 @@
 ---
-title: "availableConnectorCount property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evchargingconnectorgroup-availableconnectorcount"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- availableConnectorCount.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evchargingconnectorgroup-availableconnecto
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingconnectorgroup-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingConnectorGroup-class.html">/sdk-for-flutter-explore-search-evchargingconnectorgroup-class</a></li>
 <li class="self-crumb">availableConnectorCount property</li>
 </ol>
 <div class="self-name">availableConnectorCount</div>
@@ -59,9 +58,9 @@ The field is not present if the availability is not known.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingconnectorgroup-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingConnectorGroup-class.html">/sdk-for-flutter-explore-search-evchargingconnectorgroup-class</a></li>
 <li class="self-crumb">availableConnectorCount property</li>
 </ol>
 <h5>EVChargingConnectorGroup class</h5>
@@ -78,5 +77,4 @@ The field is not present if the availability is not known.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

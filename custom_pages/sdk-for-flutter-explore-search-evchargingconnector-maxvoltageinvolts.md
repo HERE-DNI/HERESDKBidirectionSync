@@ -1,10 +1,9 @@
 ---
-title: "maxVoltageInVolts property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evchargingconnector-maxvoltageinvolts"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- maxVoltageInVolts.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evchargingconnector-maxvoltageinvolts"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingconnector-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingConnector-class.html">/sdk-for-flutter-explore-search-evchargingconnector-class</a></li>
 <li class="self-crumb">maxVoltageInVolts property</li>
 </ol>
 <div class="self-name">maxVoltageInVolts</div>
@@ -58,9 +57,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingconnector-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingConnector-class.html">/sdk-for-flutter-explore-search-evchargingconnector-class</a></li>
 <li class="self-crumb">maxVoltageInVolts property</li>
 </ol>
 <h5>EVChargingConnector class</h5>
@@ -77,5 +76,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

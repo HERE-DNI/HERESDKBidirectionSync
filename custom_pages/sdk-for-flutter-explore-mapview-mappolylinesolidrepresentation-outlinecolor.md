@@ -1,10 +1,9 @@
 ---
-title: "outlineColor property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-outlinecolor"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- outlineColor.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-outlinecol
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolylineSolidRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-class</a></li>
 <li class="self-crumb">outlineColor property</li>
 </ol>
 <div class="self-name">outlineColor</div>
@@ -59,9 +58,9 @@ Gets the color of outline of the polyline.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolylineSolidRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-class</a></li>
 <li class="self-crumb">outlineColor property</li>
 </ol>
 <h5>MapPolylineSolidRepresentation class</h5>
@@ -78,5 +77,4 @@ Gets the color of outline of the polyline.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

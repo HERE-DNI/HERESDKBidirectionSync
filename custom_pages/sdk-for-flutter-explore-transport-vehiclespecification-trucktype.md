@@ -1,10 +1,9 @@
 ---
-title: "truckType property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-vehiclespecification-trucktype"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- truckType.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecification-trucktype"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecification-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a></li>
 <li class="self-crumb">truckType property</li>
 </ol>
 <div class="self-name">truckType</div>
@@ -40,18 +39,18 @@ menu
 <section class="multi-line-signature">
 <div>
 <ol class="annotation-list">
-<li>@Deprecated("Will be removed in v4.27.0. Use <code>VehicleSpecification.truckCategory</code> instead.")</li>
+<li>@Deprecated("Will be removed in v4.27.0. Use `VehicleSpecification.truckCategory` instead.")</li>
 </ol>
 </div>
-/sdk-for-flutter-explore-transport-trucktype
+<a class="deprecated" href="../../transport/TruckType.html">/sdk-for-flutter-explore-transport-trucktype</a>
 truckType
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Will be replaced with <code>truckCategory</code> when the <code>TruckSpecification</code> will be replaced by <code>VehicleSpecification</code>.
 Defines the type of truck.
-Defaults to /sdk-for-flutter-explore-transport-trucktype.
-Rendering <code>sdk.mapview.TruckProfile</code>: /sdk-for-flutter-explore-transport-vehiclespecification-trucktype is ignored and has no effect.</p>
+Defaults to <a href="../../transport/TruckType.html">/sdk-for-flutter-explore-transport-trucktype</a>.
+Rendering <code>sdk.mapview.TruckProfile</code>: <a class="deprecated" href="../../transport/VehicleSpecification/truckType.html">/sdk-for-flutter-explore-transport-vehiclespecification-trucktype</a> is ignored and has no effect.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -66,9 +65,9 @@ TruckType truckType;</code></pre>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecification-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a></li>
 <li class="self-crumb">truckType property</li>
 </ol>
 <h5>VehicleSpecification class</h5>
@@ -85,5 +84,4 @@ TruckType truckType;</code></pre>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

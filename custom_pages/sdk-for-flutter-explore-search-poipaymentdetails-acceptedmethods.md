@@ -1,10 +1,9 @@
 ---
-title: "acceptedMethods property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-poipaymentdetails-acceptedmethods"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- acceptedMethods.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-poipaymentdetails-acceptedmethods"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-poipaymentdetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/POIPaymentDetails-class.html">/sdk-for-flutter-explore-search-poipaymentdetails-class</a></li>
 <li class="self-crumb">acceptedMethods property</li>
 </ol>
 <div class="self-name">acceptedMethods</div>
@@ -45,7 +44,7 @@ acceptedMethods
 </section>
 <section class="desc markdown">
 <p>Accepted payment methods.
-Currently supported methods are defined in /sdk-for-flutter-explore-search-poipaymentmethod-class.</p>
+Currently supported methods are defined in <a href="../../search/POIPaymentMethod-class.html">/sdk-for-flutter-explore-search-poipaymentmethod-class</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +58,9 @@ Currently supported methods are defined in /sdk-for-flutter-explore-search-poipa
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-poipaymentdetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/POIPaymentDetails-class.html">/sdk-for-flutter-explore-search-poipaymentdetails-class</a></li>
 <li class="self-crumb">acceptedMethods property</li>
 </ol>
 <h5>POIPaymentDetails class</h5>
@@ -78,5 +77,4 @@ Currently supported methods are defined in /sdk-for-flutter-explore-search-poipa
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

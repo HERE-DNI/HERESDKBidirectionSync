@@ -1,10 +1,9 @@
 ---
-title: "FarePassValidityPeriod class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-farepassvalidityperiod-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- FarePassValidityPeriod-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-routing-farepassvalidityperiod-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">FarePassValidityPeriod class</li>
 </ol>
 <div class="self-name">FarePassValidityPeriod</div>
@@ -58,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="FarePassValidityPeriod">
-/sdk-for-flutter-explore-routing-farepassvalidityperiod-farepassvalidityperiod()
+<a href="../routing/FarePassValidityPeriod/FarePassValidityPeriod.html">/sdk-for-flutter-explore-routing-farepassvalidityperiod-farepassvalidityperiod</a>()
 </dt>
 <dd>
 </dd>
@@ -68,16 +67,16 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="count">
-/sdk-for-flutter-explore-routing-farepassvalidityperiod-count
+<a href="../routing/FarePassValidityPeriod/count.html">/sdk-for-flutter-explore-routing-farepassvalidityperiod-count</a>
 ↔ int?
 </dt>
 <dd>
-  Specifies how many /sdk-for-flutter-explore-routing-farepassvalidityperiod-periodtypes are covered by the pass. Present if /sdk-for-flutter-explore-routing-farepassvalidityperiod-periodtype is
-/sdk-for-flutter-explore-routing-farepassvalidityperiodtype, /sdk-for-flutter-explore-routing-farepassvalidityperiodtype or /sdk-for-flutter-explore-routing-farepassvalidityperiodtype.
+  Specifies how many <a href="../routing/FarePassValidityPeriod/periodType.html">/sdk-for-flutter-explore-routing-farepassvalidityperiod-periodtype</a>s are covered by the pass. Present if <a href="../routing/FarePassValidityPeriod/periodType.html">/sdk-for-flutter-explore-routing-farepassvalidityperiod-periodtype</a> is
+<a href="../routing/FarePassValidityPeriodType.html">/sdk-for-flutter-explore-routing-farepassvalidityperiodtype</a>, <a href="../routing/FarePassValidityPeriodType.html">/sdk-for-flutter-explore-routing-farepassvalidityperiodtype</a> or <a href="../routing/FarePassValidityPeriodType.html">/sdk-for-flutter-explore-routing-farepassvalidityperiodtype</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-farepassvalidityperiod-hashcode
+<a href="../routing/FarePassValidityPeriod/hashCode.html">/sdk-for-flutter-explore-routing-farepassvalidityperiod-hashcode</a>
 → int
 </dt>
 <dd>
@@ -85,15 +84,15 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="periodType">
-/sdk-for-flutter-explore-routing-farepassvalidityperiod-periodtype
-↔ /sdk-for-flutter-explore-routing-farepassvalidityperiodtype
+<a href="../routing/FarePassValidityPeriod/periodType.html">/sdk-for-flutter-explore-routing-farepassvalidityperiod-periodtype</a>
+↔ <a href="../routing/FarePassValidityPeriodType.html">/sdk-for-flutter-explore-routing-farepassvalidityperiodtype</a>
 </dt>
 <dd>
-  Specifies one of the /sdk-for-flutter-explore-routing-farepassvalidityperiodtype periods.
+  Specifies one of the <a href="../routing/FarePassValidityPeriodType.html">/sdk-for-flutter-explore-routing-farepassvalidityperiodtype</a> periods.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-farepassvalidityperiod-runtimetype
+<a href="../routing/FarePassValidityPeriod/runtimeType.html">/sdk-for-flutter-explore-routing-farepassvalidityperiod-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -106,7 +105,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-farepassvalidityperiod-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/FarePassValidityPeriod/noSuchMethod.html">/sdk-for-flutter-explore-routing-farepassvalidityperiod-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -115,7 +114,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-farepassvalidityperiod-tostring(<wbr/>)
+<a href="../routing/FarePassValidityPeriod/toString.html">/sdk-for-flutter-explore-routing-farepassvalidityperiod-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -129,7 +128,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-farepassvalidityperiod-operator-equals(<wbr/>Object other)
+<a href="../routing/FarePassValidityPeriod/operator_equals.html">/sdk-for-flutter-explore-routing-farepassvalidityperiod-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -148,8 +147,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">FarePassValidityPeriod class</li>
 </ol>
 <h5>routing library</h5>
@@ -166,5 +165,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

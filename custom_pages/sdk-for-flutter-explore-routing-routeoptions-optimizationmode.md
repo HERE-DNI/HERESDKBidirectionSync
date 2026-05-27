@@ -1,10 +1,9 @@
 ---
-title: "optimizationMode property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-routeoptions-optimizationmode"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- optimizationMode.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-routeoptions-optimizationmode"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routeoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RouteOptions-class.html">/sdk-for-flutter-explore-routing-routeoptions-class</a></li>
 <li class="self-crumb">optimizationMode property</li>
 </ol>
 <div class="self-name">optimizationMode</div>
@@ -38,12 +37,12 @@ menu
 <div>
 <h1>optimizationMode property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-routing-optimizationmode
+<a href="../../routing/OptimizationMode.html">/sdk-for-flutter-explore-routing-optimizationmode</a>
 optimizationMode
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>The optimization mode to be used for route calculation. By default, it is /sdk-for-flutter-explore-routing-optimizationmode.</p>
+<p>The optimization mode to be used for route calculation. By default, it is <a href="../../routing/OptimizationMode.html">/sdk-for-flutter-explore-routing-optimizationmode</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -57,9 +56,9 @@ optimizationMode
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routeoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RouteOptions-class.html">/sdk-for-flutter-explore-routing-routeoptions-class</a></li>
 <li class="self-crumb">optimizationMode property</li>
 </ol>
 <h5>RouteOptions class</h5>
@@ -76,5 +75,4 @@ optimizationMode
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

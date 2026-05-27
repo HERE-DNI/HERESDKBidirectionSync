@@ -1,10 +1,9 @@
 ---
-title: "simplificationToleranceInMeters property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtoleranceinmeters"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- simplificationToleranceInMeters.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtole
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-polylinesimplifieroptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/PolylineSimplifierOptions-class.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-class</a></li>
 <li class="self-crumb">simplificationToleranceInMeters property</li>
 </ol>
 <div class="self-name">simplificationToleranceInMeters</div>
@@ -44,7 +43,7 @@ menu
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>Sets the accuracy limit for the /sdk-for-flutter-explore-core-polylinesimplifier-simplify:</p>
+<p>Sets the accuracy limit for the <a href="../../core/PolylineSimplifier/simplify.html">/sdk-for-flutter-explore-core-polylinesimplifier-simplify</a>:</p>
 <ul>
 <li>higher tolerance results in more simplification (fewer points);</li>
 <li>lower tolerance keeps the line closer to its original shape.</li>
@@ -53,9 +52,9 @@ menu
 original one more than <code>simplificationToleranceInMeters</code>, then
 this point is left in the collection.</p>
 <p>If specified tolerance will not allow to create a polyline
-conforming to /sdk-for-flutter-explore-core-polylinesimplifieroptions-maxpoints, then <code>simplificationToleranceInMeters</code>
+conforming to <a href="../../core/PolylineSimplifierOptions/maxPoints.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-maxpoints</a>, then <code>simplificationToleranceInMeters</code>
 is ignored.</p>
-<p>Default value is equal to /sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationinmeters14zoomlevel.</p>
+<p>Default value is equal to <a href="../../core/PolylineSimplifierOptions/simplificationInMeters14ZoomLevel.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationinmeters14zoomlevel</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -69,9 +68,9 @@ is ignored.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-polylinesimplifieroptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/PolylineSimplifierOptions-class.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-class</a></li>
 <li class="self-crumb">simplificationToleranceInMeters property</li>
 </ol>
 <h5>PolylineSimplifierOptions class</h5>
@@ -88,5 +87,4 @@ is ignored.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

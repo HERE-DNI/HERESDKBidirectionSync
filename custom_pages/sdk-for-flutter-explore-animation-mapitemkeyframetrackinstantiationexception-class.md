@@ -1,10 +1,9 @@
 ---
-title: "MapItemKeyFrameTrackInstantiationException class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapItemKeyFrameTrackInstantiationException-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexcept
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
 <li class="self-crumb">MapItemKeyFrameTrackInstantiationException class</li>
 </ol>
 <div class="self-name">MapItemKeyFrameTrackInstantiationException</div>
@@ -51,13 +50,13 @@ menu
 <div>
 <h1>MapItemKeyFrameTrackInstantiationException class</h1></div>
 <section class="desc markdown">
-<p>Thrown when a problem occurs while trying to create /sdk-for-flutter-explore-animation-mapitemkeyframetrack-class.</p>
+<p>Thrown when a problem occurs while trying to create <a href="../animation/MapItemKeyFrameTrack-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</a>.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapItemKeyFrameTrackInstantiationException">
-/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-mapitemkeyframetrackinstantiationexception(/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationerrorcode error)
+<a href="../animation/MapItemKeyFrameTrackInstantiationException/MapItemKeyFrameTrackInstantiationException.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-mapitemkeyframetrackinstantiationexception</a>(<a href="../animation/MapItemKeyFrameTrackInstantiationErrorCode.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationerrorcode</a> error)
 </dt>
 <dd>
 </dd>
@@ -67,14 +66,14 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="error">
-/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-error
-→ /sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationerrorcode
+<a href="../animation/MapItemKeyFrameTrackInstantiationException/error.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-error</a>
+→ <a href="../animation/MapItemKeyFrameTrackInstantiationErrorCode.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationerrorcode</a>
 </dt>
 <dd>
 <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-hashcode
+<a href="../animation/MapItemKeyFrameTrackInstantiationException/hashCode.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -82,7 +81,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-runtimetype
+<a href="../animation/MapItemKeyFrameTrackInstantiationException/runtimeType.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -95,7 +94,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../animation/MapItemKeyFrameTrackInstantiationException/noSuchMethod.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -104,7 +103,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-tostring(<wbr/>)
+<a href="../animation/MapItemKeyFrameTrackInstantiationException/toString.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -118,7 +117,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-operator-equals(<wbr/>Object other)
+<a href="../animation/MapItemKeyFrameTrackInstantiationException/operator_equals.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -136,8 +135,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
 <li class="self-crumb">MapItemKeyFrameTrackInstantiationException class</li>
 </ol>
 <h5>animation library</h5>
@@ -154,5 +153,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "VehicleProfile class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-transport-vehicleprofile-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- VehicleProfile-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -36,8 +35,8 @@ slug: "sdk-for-flutter-explore-transport-vehicleprofile-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
 <li class="self-crumb">VehicleProfile class</li>
 </ol>
 <div class="self-name">VehicleProfile</div>
@@ -76,7 +75,7 @@ deprecation process.</p>
 <dt>Annotations</dt>
 <dd>
 <ul class="annotation-list clazz-relationships">
-<li>@Deprecated("Will be removed in v4.28.0. Use <code>sdk.transport.TransportSpecification</code> instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use `sdk.transport.TransportSpecification` instead.")</li>
 </ul>
 </dd>
 </dl>
@@ -85,7 +84,7 @@ deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="VehicleProfile">
-/sdk-for-flutter-explore-transport-vehicleprofile-vehicleprofile(/sdk-for-flutter-explore-transport-vehicletype vehicleType)
+<a href="../transport/VehicleProfile/VehicleProfile.html">/sdk-for-flutter-explore-transport-vehicleprofile-vehicleprofile</a>(<a class="deprecated" href="../transport/VehicleType.html">/sdk-for-flutter-explore-transport-vehicletype</a> vehicleType)
 </dt>
 <dd>
           Creates a new instance.
@@ -96,7 +95,7 @@ deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="axleCount">
-/sdk-for-flutter-explore-transport-vehicleprofile-axlecount
+<a href="../transport/VehicleProfile/axleCount.html">/sdk-for-flutter-explore-transport-vehicleprofile-axlecount</a>
 ↔ int?
 </dt>
 <dd>
@@ -106,7 +105,7 @@ consideration for route calculation. By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="grossWeightInKilograms">
-/sdk-for-flutter-explore-transport-vehicleprofile-grossweightinkilograms
+<a href="../transport/VehicleProfile/grossWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehicleprofile-grossweightinkilograms</a>
 ↔ int?
 </dt>
 <dd>
@@ -115,7 +114,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-transport-vehicleprofile-hashcode
+<a href="../transport/VehicleProfile/hashCode.html">/sdk-for-flutter-explore-transport-vehicleprofile-hashcode</a>
 → int
 </dt>
 <dd>
@@ -123,16 +122,16 @@ By default, it is not set.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="hazardousMaterials">
-/sdk-for-flutter-explore-transport-vehicleprofile-hazardousmaterials
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-transport-hazardousmaterial&gt;
+<a href="../transport/VehicleProfile/hazardousMaterials.html">/sdk-for-flutter-explore-transport-vehicleprofile-hazardousmaterials</a>
+↔ List&lt;<wbr/><a href="../transport/HazardousMaterial.html">/sdk-for-flutter-explore-transport-hazardousmaterial</a>&gt;
 </dt>
 <dd>
   Specifies a list of hazardous materials shipped in the vehicle.
-Refer to /sdk-for-flutter-explore-transport-hazardousmaterial for the available options.
+Refer to <a href="../transport/HazardousMaterial.html">/sdk-for-flutter-explore-transport-hazardousmaterial</a> for the available options.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="heightInCentimeters">
-/sdk-for-flutter-explore-transport-vehicleprofile-heightincentimeters
+<a href="../transport/VehicleProfile/heightInCentimeters.html">/sdk-for-flutter-explore-transport-vehicleprofile-heightincentimeters</a>
 ↔ int?
 </dt>
 <dd>
@@ -141,7 +140,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="lengthInCentimeters">
-/sdk-for-flutter-explore-transport-vehicleprofile-lengthincentimeters
+<a href="../transport/VehicleProfile/lengthInCentimeters.html">/sdk-for-flutter-explore-transport-vehicleprofile-lengthincentimeters</a>
 ↔ int?
 </dt>
 <dd>
@@ -150,7 +149,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-transport-vehicleprofile-runtimetype
+<a href="../transport/VehicleProfile/runtimeType.html">/sdk-for-flutter-explore-transport-vehicleprofile-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -158,7 +157,7 @@ By default, it is not set.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="trailerCount">
-/sdk-for-flutter-explore-transport-vehicleprofile-trailercount
+<a href="../transport/VehicleProfile/trailerCount.html">/sdk-for-flutter-explore-transport-vehicleprofile-trailercount</a>
 ↔ int
 </dt>
 <dd>
@@ -168,35 +167,35 @@ for route calculation. By default, it is 0.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="truckCategory">
-/sdk-for-flutter-explore-transport-vehicleprofile-truckcategory
-↔ /sdk-for-flutter-explore-transport-truckcategory?
+<a href="../transport/VehicleProfile/truckCategory.html">/sdk-for-flutter-explore-transport-vehicleprofile-truckcategory</a>
+↔ <a href="../transport/TruckCategory.html">/sdk-for-flutter-explore-transport-truckcategory</a>?
 </dt>
 <dd>
   Defines the truck category.
-Only used when the /sdk-for-flutter-explore-transport-vehicleprofile-vehicletype is /sdk-for-flutter-explore-transport-vehicletype
+Only used when the <a href="../transport/VehicleProfile/vehicleType.html">/sdk-for-flutter-explore-transport-vehicleprofile-vehicletype</a> is <a href="../transport/VehicleType.html">/sdk-for-flutter-explore-transport-vehicletype</a>
 By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="tunnelCategory">
-/sdk-for-flutter-explore-transport-vehicleprofile-tunnelcategory
-↔ /sdk-for-flutter-explore-transport-tunnelcategory?
+<a href="../transport/VehicleProfile/tunnelCategory.html">/sdk-for-flutter-explore-transport-vehicleprofile-tunnelcategory</a>
+↔ <a href="../transport/TunnelCategory.html">/sdk-for-flutter-explore-transport-tunnelcategory</a>?
 </dt>
 <dd>
   Specifies the tunnel categories to restrict certain route links.
 The route will pass only through tunnels of a less strict category.
-Refer to /sdk-for-flutter-explore-transport-tunnelcategory for the available options.
+Refer to <a href="../transport/TunnelCategory.html">/sdk-for-flutter-explore-transport-tunnelcategory</a> for the available options.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="vehicleType">
-/sdk-for-flutter-explore-transport-vehicleprofile-vehicletype
-↔ /sdk-for-flutter-explore-transport-vehicletype
+<a href="../transport/VehicleProfile/vehicleType.html">/sdk-for-flutter-explore-transport-vehicleprofile-vehicletype</a>
+↔ <a class="deprecated" href="../transport/VehicleType.html">/sdk-for-flutter-explore-transport-vehicletype</a>
 </dt>
 <dd>
   Defines the vehicle type.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="weightPerAxleInKilograms">
-/sdk-for-flutter-explore-transport-vehicleprofile-weightperaxleinkilograms
+<a href="../transport/VehicleProfile/weightPerAxleInKilograms.html">/sdk-for-flutter-explore-transport-vehicleprofile-weightperaxleinkilograms</a>
 ↔ int?
 </dt>
 <dd>
@@ -206,7 +205,7 @@ consideration for route calculation. By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="widthInCentimeters">
-/sdk-for-flutter-explore-transport-vehicleprofile-widthincentimeters
+<a href="../transport/VehicleProfile/widthInCentimeters.html">/sdk-for-flutter-explore-transport-vehicleprofile-widthincentimeters</a>
 ↔ int?
 </dt>
 <dd>
@@ -220,7 +219,7 @@ By default, it is not set.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-transport-vehicleprofile-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../transport/VehicleProfile/noSuchMethod.html">/sdk-for-flutter-explore-transport-vehicleprofile-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -229,7 +228,7 @@ By default, it is not set.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-transport-vehicleprofile-tostring(<wbr/>)
+<a href="../transport/VehicleProfile/toString.html">/sdk-for-flutter-explore-transport-vehicleprofile-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -243,7 +242,7 @@ By default, it is not set.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-transport-vehicleprofile-operator-equals(<wbr/>Object other)
+<a href="../transport/VehicleProfile/operator_equals.html">/sdk-for-flutter-explore-transport-vehicleprofile-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -262,8 +261,8 @@ By default, it is not set.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
 <li class="self-crumb">VehicleProfile class</li>
 </ol>
 <h5>transport library</h5>
@@ -280,5 +279,4 @@ By default, it is not set.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

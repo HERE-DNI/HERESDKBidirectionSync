@@ -1,10 +1,9 @@
 ---
-title: "withDataAttributeValue abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-withdataattributevalue"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withDataAttributeValue.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-withdata
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/DataAttributesBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class</a></li>
 <li class="self-crumb">withDataAttributeValue abstract method</li>
 </ol>
 <div class="self-name">withDataAttributeValue</div>
@@ -38,9 +37,9 @@ menu
 <div>
 <h1>withDataAttributeValue abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class
+<a href="../../mapview.datasource/DataAttributesBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class</a>
 withDataAttributeValue(<wbr/><ol class="parameter-list single-line"> <li>String name, </li>
-<li>/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class value</li>
+<li><a href="../../mapview.datasource/DataAttributeValue-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class</a> value</li>
 </ol>)
 
       
@@ -56,7 +55,7 @@ withDataAttributeValue(<wbr/><ol class="parameter-list single-line"> <li>String 
 <p><code>value</code> Attribute value.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class. This data attributes builder instance.</p>
+<p>Returns <a href="../../mapview.datasource/DataAttributesBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class</a>. This data attributes builder instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -70,9 +69,9 @@ withDataAttributeValue(<wbr/><ol class="parameter-list single-line"> <li>String 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/DataAttributesBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class</a></li>
 <li class="self-crumb">withDataAttributeValue abstract method</li>
 </ol>
 <h5>DataAttributesBuilder class</h5>
@@ -89,5 +88,4 @@ withDataAttributeValue(<wbr/><ol class="parameter-list single-line"> <li>String 
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

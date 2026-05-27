@@ -1,10 +1,9 @@
 ---
-title: "Waypoint constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-waypoint-waypoint"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Waypoint.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-waypoint-waypoint"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-waypoint-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a></li>
 <li class="self-crumb">Waypoint constructor</li>
 </ol>
 <div class="self-name">Waypoint</div>
@@ -38,19 +37,19 @@ menu
 <div>
 <h1>Waypoint constructor</h1></div>
 <section class="multi-line-signature">
-Waypoint(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-core-geocoordinates-class coordinates, [</li>
-<li>/sdk-for-flutter-explore-routing-waypointtype type = WaypointType.stopover, </li>
+Waypoint(<wbr/><ol class="parameter-list"> <li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates, [</li>
+<li><a href="../../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a> type = WaypointType.stopover, </li>
 <li>int transitRadiusInMeters = 0, </li>
 <li>double? headingInDegrees = null, </li>
-<li>/sdk-for-flutter-explore-core-geocoordinates-class? sideOfStreetHint = null, </li>
-<li>/sdk-for-flutter-explore-core-geocoordinates-class? displayLocation = null, </li>
+<li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>? sideOfStreetHint = null, </li>
+<li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>? displayLocation = null, </li>
 <li>int? minCourseDistanceInMeters = null, </li>
 <li>String? nameHint = null, </li>
-<li>/sdk-for-flutter-explore-routing-matchsideofstreet? matchSideOfStreet = null, </li>
+<li><a href="../../routing/MatchSideOfStreet.html">/sdk-for-flutter-explore-routing-matchsideofstreet</a>? matchSideOfStreet = null, </li>
 <li>Duration duration = const Duration(seconds: 0), </li>
-<li>/sdk-for-flutter-explore-routing-segmentreference-class? segmentHint = null, </li>
+<li><a href="../../routing/SegmentReference-class.html">/sdk-for-flutter-explore-routing-segmentreference-class</a>? segmentHint = null, </li>
 <li>int? onRoadThresholdInMeters = null, </li>
-<li>/sdk-for-flutter-explore-routing-chargingstop-class? chargingStop = null, </li>
+<li><a href="../../routing/ChargingStop-class.html">/sdk-for-flutter-explore-routing-chargingstop-class</a>? chargingStop = null, </li>
 <li>int? currentWeightChangeInKilograms = null, </li>
 </ol>])
     </section>
@@ -59,7 +58,7 @@ Waypoint(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-core-geo
 <ul>
 <li><code>coordinates</code> The waypoint's geographic coordinates.</li>
 <li><code>type</code> Defines how a waypoint should be considered for route calculation.
-The default waypoint type is /sdk-for-flutter-explore-routing-waypointtype.</li>
+The default waypoint type is <a href="../../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a>.</li>
 <li><code>transitRadiusInMeters</code> The maximum allowed distance from the waypoint that the calculated
 route may pass through. For example, to drive past a city without necessarily going
 into the city center, you can specify the coordinates of the center and a transit
@@ -67,7 +66,7 @@ radius of 5000m. The default transit radius is zero.
 If the route should pass the waypoint as close as possible, the default value
 should be kept. Note that the waypoint will be map-matched to a road.
 Non-zero values allow a greater tolerance.
-Note that /sdk-for-flutter-explore-routing-waypoint-sideofstreethint option is ignored if the user sets this option with a value
+Note that <a href="../../routing/Waypoint/sideOfStreetHint.html">/sdk-for-flutter-explore-routing-waypoint-sideofstreethint</a> option is ignored if the user sets this option with a value
 greater than zero.</li>
 <li><code>headingInDegrees</code> Optional heading angle referenced by true North, clockwise specifying
 the direction of travel. The heading direction may help the routing algorithm to select
@@ -78,12 +77,12 @@ heading is ignored for route calculation.</li>
 <li><code>sideOfStreetHint</code> Optional coordinates to indicate which side of the street should be used to reach the waypoint.
 For example, if the location is to the left of the street, the router will prefer using that side
 in case the street has dividers.
-Note that this option is ignored if the user sets /sdk-for-flutter-explore-routing-waypoint-transitradiusinmeters option with a
+Note that this option is ignored if the user sets <a href="../../routing/Waypoint/transitRadiusInMeters.html">/sdk-for-flutter-explore-routing-waypoint-transitradiusinmeters</a> option with a
 value greater than zero.</li>
 <li><code>displayLocation</code> Optional coordinates to indicate physical location of the Points of Interest (PoI).
-It is different from coordinates and /sdk-for-flutter-explore-routing-waypoint-sideofstreethint which are generally expected to to be
+It is different from coordinates and <a href="../../routing/Waypoint/sideOfStreetHint.html">/sdk-for-flutter-explore-routing-waypoint-sideofstreethint</a> which are generally expected to to be
 on the navigable road network and can be different from actual location of the PoI.
-<code>display_location</code> is used for visualization of the PoI regardless of road network.</li>
+display_location is used for visualization of the PoI regardless of road network.</li>
 <li><code>minCourseDistanceInMeters</code> Optional distance in meters during which the user wants to avoid taking actions. For example, if
 the origin is set by a moving vehicle, the user might not have time to react to immediate actions such
 as a sharp right turn.</li>
@@ -91,10 +90,10 @@ as a sharp right turn.</li>
 This can e.g. include things like: <code>North</code> being used to differentiate between
 interstates <code>I66 North</code> and <code>I66 South</code>, <code>Downtown Avenue</code> being used to correctly
 select a residential street.</li>
-<li><code>matchSideOfStreet</code> Specifies how the location set by /sdk-for-flutter-explore-routing-waypoint-sideofstreethint should be handled. Note that this setting might affect the geometry of the resulting route.</li>
-<li><code>duration</code> The duration in seconds that should be spent at a waypoint of type /sdk-for-flutter-explore-routing-waypointtype.
+<li><code>matchSideOfStreet</code> Specifies how the location set by <a href="../../routing/Waypoint/sideOfStreetHint.html">/sdk-for-flutter-explore-routing-waypoint-sideofstreethint</a> should be handled. Note that this setting might affect the geometry of the resulting route.</li>
+<li><code>duration</code> The duration in seconds that should be spent at a waypoint of type <a href="../../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a>.
 Impacts time-aware calculations.
-Ignored for waypoints of type /sdk-for-flutter-explore-routing-waypointtype.
+Ignored for waypoints of type <a href="../../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a>.
 The default duration is 0 seconds.</li>
 <li><code>segmentHint</code> Optional segment hint causes the router to try and match to the specified segment.
 Waypoint coordinates need to be on the segment, otherwise waypoint will be matched ignoring the segment hint.
@@ -120,10 +119,10 @@ Relative value in kilograms. Available range: from -40000 to 40000 (inclusive).
 <strong>Note:</strong></li>
 </ul>
 <ul>
-<li>A route request with this parameter requires to set /sdk-for-flutter-explore-transport-vehiclespecification-currentweightinkilograms and
-/sdk-for-flutter-explore-transport-vehiclespecification-grossweightinkilograms.</li>
-<li>This feature is supported in transport modes of /sdk-for-flutter-explore-transport-transportmode, /sdk-for-flutter-explore-transport-transportmode, or
-/sdk-for-flutter-explore-transport-transportmode.</li>
+<li>A route request with this parameter requires to set <a href="../../transport/VehicleSpecification/currentWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-currentweightinkilograms</a> and
+<a href="../../transport/VehicleSpecification/grossWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-grossweightinkilograms</a>.</li>
+<li>This feature is supported in transport modes of <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>, <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>, or
+<a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>.</li>
 </ul>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
@@ -141,9 +140,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-waypoint-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a></li>
 <li class="self-crumb">Waypoint constructor</li>
 </ol>
 <h5>Waypoint class</h5>
@@ -160,5 +159,4 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

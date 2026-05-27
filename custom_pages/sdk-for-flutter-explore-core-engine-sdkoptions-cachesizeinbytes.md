@@ -1,10 +1,9 @@
 ---
-title: "cacheSizeInBytes property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-sdkoptions-cachesizeinbytes"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- cacheSizeInBytes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdkoptions-cachesizeinbytes"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
 <li class="self-crumb">cacheSizeInBytes property</li>
 </ol>
 <div class="self-name">cacheSizeInBytes</div>
@@ -44,7 +43,7 @@ menu
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>Desired upper bound of application size in bytes. When cached data exceeds <code>cache_size</code>, least recently used data will be removed.
+<p>Desired upper bound of application size in bytes. When cached data exceeds cache_size, least recently used data will be removed.
 Default value 256MB</p>
 </section>
 <section class="summary source-code" id="source">
@@ -59,9 +58,9 @@ Default value 256MB</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
 <li class="self-crumb">cacheSizeInBytes property</li>
 </ol>
 <h5>SDKOptions class</h5>
@@ -78,5 +77,4 @@ Default value 256MB</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

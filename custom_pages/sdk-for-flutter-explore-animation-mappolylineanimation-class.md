@@ -1,10 +1,9 @@
 ---
-title: "MapPolylineAnimation class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-animation-mappolylineanimation-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapPolylineAnimation-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +24,8 @@ slug: "sdk-for-flutter-explore-animation-mappolylineanimation-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
 <li class="self-crumb">MapPolylineAnimation class</li>
 </ol>
 <div class="self-name">MapPolylineAnimation</div>
@@ -50,16 +49,16 @@ menu
 <div>
 <h1>MapPolylineAnimation class abstract</h1></div>
 <section class="desc markdown">
-<p>An animation that can be applied to the /sdk-for-flutter-explore-mapview-mappolyline-class object.</p>
+<p>An animation that can be applied to the <a href="../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a> object.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapPolylineAnimation">
-/sdk-for-flutter-explore-animation-mappolylineanimation-mappolylineanimation(/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class track)
+<a href="../animation/MapPolylineAnimation/MapPolylineAnimation.html">/sdk-for-flutter-explore-animation-mappolylineanimation-mappolylineanimation</a>(<a href="../animation/MapItemKeyFrameTrack-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</a> track)
 </dt>
 <dd>
-          Creates an animation of /sdk-for-flutter-explore-mapview-mappolyline-class based on provided keyframe track.
+          Creates an animation of <a href="../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a> based on provided keyframe track.
             <div class="constructor-modifier features">factory</div>
 </dd>
 </dl>
@@ -68,7 +67,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-animation-mappolylineanimation-hashcode
+<a href="../animation/MapPolylineAnimation/hashCode.html">/sdk-for-flutter-explore-animation-mappolylineanimation-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -76,7 +75,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-animation-mappolylineanimation-runtimetype
+<a href="../animation/MapPolylineAnimation/runtimeType.html">/sdk-for-flutter-explore-animation-mappolylineanimation-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -89,7 +88,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-animation-mappolylineanimation-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../animation/MapPolylineAnimation/noSuchMethod.html">/sdk-for-flutter-explore-animation-mappolylineanimation-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -98,7 +97,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-animation-mappolylineanimation-tostring(<wbr/>)
+<a href="../animation/MapPolylineAnimation/toString.html">/sdk-for-flutter-explore-animation-mappolylineanimation-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -112,7 +111,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-animation-mappolylineanimation-operator-equals(<wbr/>Object other)
+<a href="../animation/MapPolylineAnimation/operator_equals.html">/sdk-for-flutter-explore-animation-mappolylineanimation-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -130,8 +129,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
 <li class="self-crumb">MapPolylineAnimation class</li>
 </ol>
 <h5>animation library</h5>
@@ -148,5 +147,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

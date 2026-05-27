@@ -1,10 +1,9 @@
 ---
-title: "LocationTime class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-locationtime-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- LocationTime-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-core-locationtime-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">LocationTime class</li>
 </ol>
 <div class="self-name">LocationTime</div>
@@ -73,7 +72,7 @@ from the context.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="LocationTime">
-/sdk-for-flutter-explore-core-locationtime-locationtime(DateTime localTime, DateTime utcTime, Duration utcOffset)
+<a href="../core/LocationTime/LocationTime.html">/sdk-for-flutter-explore-core-locationtime-locationtime</a>(DateTime localTime, DateTime utcTime, Duration utcOffset)
 </dt>
 <dd>
           Creates a new instance.
@@ -85,7 +84,7 @@ from the context.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-core-locationtime-hashcode
+<a href="../core/LocationTime/hashCode.html">/sdk-for-flutter-explore-core-locationtime-hashcode</a>
 → int
 </dt>
 <dd>
@@ -93,7 +92,7 @@ from the context.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="localTime">
-/sdk-for-flutter-explore-core-locationtime-localtime
+<a href="../core/LocationTime/localTime.html">/sdk-for-flutter-explore-core-locationtime-localtime</a>
 → DateTime
 </dt>
 <dd>
@@ -102,7 +101,7 @@ Poland, the local time is "2022-03-23T16:07:31" in CET, i.e. one hour ahead of t
   <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-locationtime-runtimetype
+<a href="../core/LocationTime/runtimeType.html">/sdk-for-flutter-explore-core-locationtime-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -110,7 +109,7 @@ Poland, the local time is "2022-03-23T16:07:31" in CET, i.e. one hour ahead of t
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="utcOffset">
-/sdk-for-flutter-explore-core-locationtime-utcoffset
+<a href="../core/LocationTime/utcOffset.html">/sdk-for-flutter-explore-core-locationtime-utcoffset</a>
 → Duration
 </dt>
 <dd>
@@ -120,7 +119,7 @@ UTC-05:00, it is -18000.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="utcTime">
-/sdk-for-flutter-explore-core-locationtime-utctime
+<a href="../core/LocationTime/utcTime.html">/sdk-for-flutter-explore-core-locationtime-utctime</a>
 → DateTime
 </dt>
 <dd>
@@ -134,7 +133,7 @@ the UTC time is "2022-03-23T15:07:31", i.e. one hour behind the local time.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-locationtime-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/LocationTime/noSuchMethod.html">/sdk-for-flutter-explore-core-locationtime-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -143,7 +142,7 @@ the UTC time is "2022-03-23T15:07:31", i.e. one hour behind the local time.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-locationtime-tostring(<wbr/>)
+<a href="../core/LocationTime/toString.html">/sdk-for-flutter-explore-core-locationtime-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -157,7 +156,7 @@ the UTC time is "2022-03-23T15:07:31", i.e. one hour behind the local time.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-core-locationtime-operator-equals(<wbr/>Object other)
+<a href="../core/LocationTime/operator_equals.html">/sdk-for-flutter-explore-core-locationtime-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -176,8 +175,8 @@ the UTC time is "2022-03-23T15:07:31", i.e. one hour behind the local time.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">LocationTime class</li>
 </ol>
 <h5>core library</h5>
@@ -194,5 +193,4 @@ the UTC time is "2022-03-23T15:07:31", i.e. one hour behind the local time.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

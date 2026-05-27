@@ -1,10 +1,9 @@
 ---
-title: "forbiddenHazardousGoods property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddenhazardousgoods"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- forbiddenHazardousGoods.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-forbiddenhazar
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a></li>
 <li class="self-crumb">forbiddenHazardousGoods property</li>
 </ol>
 <div class="self-name">forbiddenHazardousGoods</div>
@@ -39,14 +38,14 @@ menu
 <h1>forbiddenHazardousGoods property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-transport-hazardousmaterial&gt;
+        List&lt;<wbr/><a href="../../transport/HazardousMaterial.html">/sdk-for-flutter-explore-transport-hazardousmaterial</a>&gt;
 forbiddenHazardousGoods
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>There are two lists for our trip: Hazardous goods restrictions applied during the trip, and the list used
-for the route calculation provided using /sdk-for-flutter-explore-transport-vehiclespecification-hazardousmaterials from
-/sdk-for-flutter-explore-transport-transportspecification-vehiclespecification from /sdk-for-flutter-explore-routing-routingoptions-transportspecification.
+for the route calculation provided using <a href="../../transport/VehicleSpecification/hazardousMaterials.html">/sdk-for-flutter-explore-transport-vehiclespecification-hazardousmaterials</a> from
+<a href="../../transport/TransportSpecification/vehicleSpecification.html">/sdk-for-flutter-explore-transport-transportspecification-vehiclespecification</a> from <a href="../../routing/RoutingOptions/transportSpecification.html">/sdk-for-flutter-explore-routing-routingoptions-transportspecification</a>.
 This property is the intersection of the two lists.</p>
 <p><strong>Note</strong> <code>RoadSignWarning</code> events and <code>RouteViolations</code> are only given for violations that are
 indicated on a road sign. Additional legal restrictions might apply when transporting hazardous materials.</p>
@@ -63,9 +62,9 @@ indicated on a road sign. Additional legal restrictions might apply when transpo
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a></li>
 <li class="self-crumb">forbiddenHazardousGoods property</li>
 </ol>
 <h5>ViolatedRestrictionDetails class</h5>
@@ -82,5 +81,4 @@ indicated on a road sign. Additional legal restrictions might apply when transpo
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

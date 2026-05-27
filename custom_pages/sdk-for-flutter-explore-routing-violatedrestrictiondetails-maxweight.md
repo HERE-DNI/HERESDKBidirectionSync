@@ -1,10 +1,9 @@
 ---
-title: "maxWeight property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxweight"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- maxWeight.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-violatedrestrictiondetails-maxweight"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a></li>
 <li class="self-crumb">maxWeight property</li>
 </ol>
 <div class="self-name">maxWeight</div>
@@ -38,13 +37,13 @@ menu
 <div>
 <h1>maxWeight property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-class?
+<a href="../../routing/VehicleRestrictionMaxWeight-class.html">/sdk-for-flutter-explore-routing-vehiclerestrictionmaxweight-class</a>?
         maxWeight
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Max permitted weight during the trip, in kilograms, along with the specific type of maximum permitted weight restriction.
-This property will be set if the /sdk-for-flutter-explore-transport-vehiclespecification-grossweightinkilograms
+This property will be set if the <a href="../../transport/VehicleSpecification/grossWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-grossweightinkilograms</a>
 parameter used for route calculation exceeds this value.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -59,9 +58,9 @@ parameter used for route calculation exceeds this value.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/ViolatedRestrictionDetails-class.html">/sdk-for-flutter-explore-routing-violatedrestrictiondetails-class</a></li>
 <li class="self-crumb">maxWeight property</li>
 </ol>
 <h5>ViolatedRestrictionDetails class</h5>
@@ -78,5 +77,4 @@ parameter used for route calculation exceeds this value.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

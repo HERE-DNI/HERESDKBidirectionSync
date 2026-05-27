@@ -1,10 +1,9 @@
 ---
-title: "place property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-suggestion-place"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- place.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-suggestion-place"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-suggestion-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/Suggestion-class.html">/sdk-for-flutter-explore-search-suggestion-class</a></li>
 <li class="self-crumb">place property</li>
 </ol>
 <div class="self-name">place</div>
@@ -39,12 +38,12 @@ menu
 <h1>place property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-search-place-class?
+<a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a>?
 place
 </section>
 <section class="desc markdown">
 <p>The suggested place.
-Available only for /sdk-for-flutter-explore-search-suggestiontype.
+Available only for <a href="../../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a>.
 Gets the suggested place item.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -60,9 +59,9 @@ Gets the suggested place item.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-suggestion-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/Suggestion-class.html">/sdk-for-flutter-explore-search-suggestion-class</a></li>
 <li class="self-crumb">place property</li>
 </ol>
 <h5>Suggestion class</h5>
@@ -79,5 +78,4 @@ Gets the suggested place item.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

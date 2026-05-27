@@ -1,10 +1,9 @@
 ---
-title: "walkSpeedInMetersPerSecond property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-pedestrianoptions-walkspeedinmeterspersecond"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- walkSpeedInMetersPerSecond.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-pedestrianoptions-walkspeedinmeterspersec
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-pedestrianoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/PedestrianOptions-class.html">/sdk-for-flutter-explore-routing-pedestrianoptions-class</a></li>
 <li class="self-crumb">walkSpeedInMetersPerSecond property</li>
 </ol>
 <div class="self-name">walkSpeedInMetersPerSecond</div>
@@ -48,7 +47,7 @@ menu
 for pedestrian routing in meters per second. It influences the duration of
 walking segments along the route. The provided value must be in the range
 [0.5, 2.0]. When the value is outside this range, an invalid parameter
-error is raised. Refer to /sdk-for-flutter-explore-routing-routingerror for details. The default
+error is raised. Refer to <a href="../../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a> for details. The default
 speed is 1 meter per second.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -63,9 +62,9 @@ speed is 1 meter per second.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-pedestrianoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/PedestrianOptions-class.html">/sdk-for-flutter-explore-routing-pedestrianoptions-class</a></li>
 <li class="self-crumb">walkSpeedInMetersPerSecond property</li>
 </ol>
 <h5>PedestrianOptions class</h5>
@@ -82,5 +81,4 @@ speed is 1 meter per second.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

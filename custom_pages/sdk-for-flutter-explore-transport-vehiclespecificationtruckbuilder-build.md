@@ -1,10 +1,9 @@
 ---
-title: "build abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-build"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- build.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-build"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a></li>
 <li class="self-crumb">build abstract method</li>
 </ol>
 <div class="self-name">build</div>
@@ -38,16 +37,16 @@ menu
 <div>
 <h1>build abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-transport-vehiclespecification-class
+<a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a>
 build(<wbr/>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Builds the /sdk-for-flutter-explore-transport-vehiclespecification-class object for /sdk-for-flutter-explore-transport-transportmode with the specifications taken
-from the /sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class object.</p>
-<p>Returns /sdk-for-flutter-explore-transport-vehiclespecification-class. The /sdk-for-flutter-explore-transport-vehiclespecification-class object created from the /sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class object.</p>
+<p>Builds the <a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a> object for <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> with the specifications taken
+from the <a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a> object.</p>
+<p>Returns <a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a>. The <a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a> object created from the <a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a> object.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -61,9 +60,9 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-cla
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecificationTruckBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-class</a></li>
 <li class="self-crumb">build abstract method</li>
 </ol>
 <h5>VehicleSpecificationTruckBuilder class</h5>
@@ -80,5 +79,4 @@ from the /sdk-for-flutter-explore-transport-vehiclespecificationtruckbuilder-cla
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

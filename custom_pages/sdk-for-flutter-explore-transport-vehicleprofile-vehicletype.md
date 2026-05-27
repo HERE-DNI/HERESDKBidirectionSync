@@ -1,10 +1,9 @@
 ---
-title: "vehicleType property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-vehicleprofile-vehicletype"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- vehicleType.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-vehicleprofile-vehicletype"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehicleprofile-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleProfile-class.html">/sdk-for-flutter-explore-transport-vehicleprofile-class</a></li>
 <li class="self-crumb">vehicleType property</li>
 </ol>
 <div class="self-name">vehicleType</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>vehicleType property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-transport-vehicletype
+<a class="deprecated" href="../../transport/VehicleType.html">/sdk-for-flutter-explore-transport-vehicletype</a>
 vehicleType
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +56,9 @@ vehicleType
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehicleprofile-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleProfile-class.html">/sdk-for-flutter-explore-transport-vehicleprofile-class</a></li>
 <li class="self-crumb">vehicleType property</li>
 </ol>
 <h5>VehicleProfile class</h5>
@@ -76,5 +75,4 @@ vehicleType
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

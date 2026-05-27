@@ -1,10 +1,9 @@
 ---
-title: "TranslucentMapLayerGroupErrorDetails class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TranslucentMapLayerGroupErrorDetails-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-clas
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">TranslucentMapLayerGroupErrorDetails class</li>
 </ol>
 <div class="self-name">TranslucentMapLayerGroupErrorDetails</div>
@@ -58,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TranslucentMapLayerGroupErrorDetails">
-/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-translucentmaplayergrouperrordetails(/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrorcode errorCode, String? errorDescription)
+<a href="../mapview/TranslucentMapLayerGroupErrorDetails/TranslucentMapLayerGroupErrorDetails.html">/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-translucentmaplayergrouperrordetails</a>(<a href="../mapview/TranslucentMapLayerGroupErrorCode.html">/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrorcode</a> errorCode, String? errorDescription)
 </dt>
 <dd>
           Creates a new instance.
@@ -69,15 +68,15 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="errorCode">
-/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-errorcode
-↔ /sdk-for-flutter-explore-mapview-translucentmaplayergrouperrorcode
+<a href="../mapview/TranslucentMapLayerGroupErrorDetails/errorCode.html">/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-errorcode</a>
+↔ <a href="../mapview/TranslucentMapLayerGroupErrorCode.html">/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrorcode</a>
 </dt>
 <dd>
   The error code.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="errorDescription">
-/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-errordescription
+<a href="../mapview/TranslucentMapLayerGroupErrorDetails/errorDescription.html">/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-errordescription</a>
 ↔ String?
 </dt>
 <dd>
@@ -85,7 +84,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-hashcode
+<a href="../mapview/TranslucentMapLayerGroupErrorDetails/hashCode.html">/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -93,7 +92,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-runtimetype
+<a href="../mapview/TranslucentMapLayerGroupErrorDetails/runtimeType.html">/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -106,7 +105,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/TranslucentMapLayerGroupErrorDetails/noSuchMethod.html">/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -115,7 +114,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-tostring(<wbr/>)
+<a href="../mapview/TranslucentMapLayerGroupErrorDetails/toString.html">/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -129,7 +128,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-operator-equals(<wbr/>Object other)
+<a href="../mapview/TranslucentMapLayerGroupErrorDetails/operator_equals.html">/sdk-for-flutter-explore-mapview-translucentmaplayergrouperrordetails-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -147,8 +146,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">TranslucentMapLayerGroupErrorDetails class</li>
 </ol>
 <h5>mapview library</h5>
@@ -165,5 +164,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

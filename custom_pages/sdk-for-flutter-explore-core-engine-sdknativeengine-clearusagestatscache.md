@@ -1,10 +1,9 @@
 ---
-title: "clearUsageStatsCache abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-clearusagestatscache"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- clearUsageStatsCache.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-clearusagestatscache"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
 <li class="self-crumb">clearUsageStatsCache abstract method</li>
 </ol>
 <div class="self-name">clearUsageStatsCache</div>
@@ -45,7 +44,7 @@ clearUsageStatsCache(<wbr/>)
 
     </section>
 <section class="desc markdown">
-<p>Clear cache for the HERE SDK /sdk-for-flutter-explore-core-engine-usagestats-class.</p>
+<p>Clear cache for the HERE SDK <a href="../../core.engine/UsageStats-class.html">/sdk-for-flutter-explore-core-engine-usagestats-class</a>.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -61,9 +60,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
 <li class="self-crumb">clearUsageStatsCache abstract method</li>
 </ol>
 <h5>SDKNativeEngine class</h5>
@@ -80,5 +79,4 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

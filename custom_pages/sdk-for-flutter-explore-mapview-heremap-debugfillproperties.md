@@ -1,10 +1,9 @@
 ---
-title: "debugFillProperties method"
+title: "DiagnosticsProperty subclasses for primitive types"
 slug: "sdk-for-flutter-explore-mapview-heremap-debugfillproperties"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- debugFillProperties.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-heremap-debugfillproperties"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-heremap-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/HereMap-class.html">/sdk-for-flutter-explore-mapview-heremap-class</a></li>
 <li class="self-crumb">debugFillProperties method</li>
 </ol>
 <div class="self-name">debugFillProperties</div>
@@ -130,8 +129,8 @@ subclass as in the case for <code>TransformProperty</code> which handles <a href
 that represent transforms. Generally any property value with a good
 <code>toString</code> method implementation works fine using <code>DiagnosticsProperty</code>
 directly.</p>
-<p>\{@tool snippet}</p>
-<p>This example shows best practices for implementing /sdk-for-flutter-explore-mapview-heremap-debugfillproperties
+<p>{@tool snippet}</p>
+<p>This example shows best practices for implementing <a href="../../mapview/HereMap/debugFillProperties.html">/sdk-for-flutter-explore-mapview-heremap-debugfillproperties</a>
 illustrating use of all common <code>DiagnosticsProperty</code> subclasses and all
 common <code>DiagnosticsProperty</code> parameters.</p>
 <pre class="language-dart"><code class="language-dart">class ExampleObject extends ExampleSuperclass {
@@ -224,7 +223,7 @@ common <code>DiagnosticsProperty</code> parameters.</p>
     properties.add(DiagnosticsProperty&lt;Size&gt;.lazy(
       'size',
       () =&gt; size,
-      description: '\${ hasSize ? size : "MISSING" }',
+      description: '${ hasSize ? size : "MISSING" }',
     ));
 
     // If the `toString` method for the property value does not provide a
@@ -247,7 +246,7 @@ common <code>DiagnosticsProperty</code> parameters.</p>
       'handles',
       handles,
       description: handles != null
-        ? '\${handles!.length} active client\${ handles!.length == 1 ? "" : "s" }'
+        ? '${handles!.length} active client${ handles!.length == 1 ? "" : "s" }'
         : null,
       ifNull: 'no notifications ever received',
       showName: false,
@@ -255,8 +254,8 @@ common <code>DiagnosticsProperty</code> parameters.</p>
   }
 }
 </code></pre>
-<p>\{@end-tool}</p>
-<p>Used by /sdk-for-flutter-explore-mapview-heremap-todiagnosticsnode and /sdk-for-flutter-explore-mapview-heremap-tostring.</p>
+<p>{@end-tool}</p>
+<p>Used by <a href="../../mapview/HereMap/toDiagnosticsNode.html">/sdk-for-flutter-explore-mapview-heremap-todiagnosticsnode</a> and <a href="../../mapview/HereMap/toString.html">/sdk-for-flutter-explore-mapview-heremap-tostring</a>.</p>
 <p>Do not add values that have lifetime shorter than the object.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -275,9 +274,9 @@ void debugFillProperties(DiagnosticPropertiesBuilder properties) {
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-heremap-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/HereMap-class.html">/sdk-for-flutter-explore-mapview-heremap-class</a></li>
 <li class="self-crumb">debugFillProperties method</li>
 </ol>
 <h5>HereMap class</h5>
@@ -294,5 +293,4 @@ void debugFillProperties(DiagnosticPropertiesBuilder properties) {
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

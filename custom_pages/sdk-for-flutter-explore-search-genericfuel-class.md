@@ -1,10 +1,9 @@
 ---
-title: "GenericFuel class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-genericfuel-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- GenericFuel-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-search-genericfuel-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">GenericFuel class</li>
 </ol>
 <div class="self-name">GenericFuel</div>
@@ -60,7 +59,7 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="GenericFuel">
-/sdk-for-flutter-explore-search-genericfuel-genericfuel(/sdk-for-flutter-explore-transport-fueltype type)
+<a href="../search/GenericFuel/GenericFuel.html">/sdk-for-flutter-explore-search-genericfuel-genericfuel</a>(<a href="../transport/FuelType.html">/sdk-for-flutter-explore-transport-fueltype</a> type)
 </dt>
 <dd>
 </dd>
@@ -70,8 +69,8 @@ unexpected behaviors. Related APIs may change for new releases without a depreca
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="additives">
-/sdk-for-flutter-explore-search-genericfuel-additives
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-fueladditive-class&gt;
+<a href="../search/GenericFuel/additives.html">/sdk-for-flutter-explore-search-genericfuel-additives</a>
+↔ List&lt;<wbr/><a href="../search/FuelAdditive-class.html">/sdk-for-flutter-explore-search-fueladditive-class</a>&gt;
 </dt>
 <dd>
   The list of available fuel additives.
@@ -79,7 +78,7 @@ The list can be empty when no fuel additives are available or when the informati
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-genericfuel-hashcode
+<a href="../search/GenericFuel/hashCode.html">/sdk-for-flutter-explore-search-genericfuel-hashcode</a>
 → int
 </dt>
 <dd>
@@ -87,7 +86,7 @@ The list can be empty when no fuel additives are available or when the informati
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-genericfuel-runtimetype
+<a href="../search/GenericFuel/runtimeType.html">/sdk-for-flutter-explore-search-genericfuel-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -95,8 +94,8 @@ The list can be empty when no fuel additives are available or when the informati
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="type">
-/sdk-for-flutter-explore-search-genericfuel-type
-↔ /sdk-for-flutter-explore-transport-fueltype
+<a href="../search/GenericFuel/type.html">/sdk-for-flutter-explore-search-genericfuel-type</a>
+↔ <a href="../transport/FuelType.html">/sdk-for-flutter-explore-transport-fueltype</a>
 </dt>
 <dd>
   The type of the fuel.
@@ -108,7 +107,7 @@ The list can be empty when no fuel additives are available or when the informati
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-genericfuel-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/GenericFuel/noSuchMethod.html">/sdk-for-flutter-explore-search-genericfuel-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -117,7 +116,7 @@ The list can be empty when no fuel additives are available or when the informati
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-genericfuel-tostring(<wbr/>)
+<a href="../search/GenericFuel/toString.html">/sdk-for-flutter-explore-search-genericfuel-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -131,7 +130,7 @@ The list can be empty when no fuel additives are available or when the informati
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-genericfuel-operator-equals(<wbr/>Object other)
+<a href="../search/GenericFuel/operator_equals.html">/sdk-for-flutter-explore-search-genericfuel-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -150,8 +149,8 @@ The list can be empty when no fuel additives are available or when the informati
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">GenericFuel class</li>
 </ol>
 <h5>search library</h5>
@@ -168,5 +167,4 @@ The list can be empty when no fuel additives are available or when the informati
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

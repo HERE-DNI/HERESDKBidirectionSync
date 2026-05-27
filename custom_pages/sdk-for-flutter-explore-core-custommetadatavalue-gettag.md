@@ -1,10 +1,9 @@
 ---
-title: "getTag abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-custommetadatavalue-gettag"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- getTag.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-custommetadatavalue-gettag"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-custommetadatavalue-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/CustomMetadataValue-class.html">/sdk-for-flutter-explore-core-custommetadatavalue-class</a></li>
 <li class="self-crumb">getTag abstract method</li>
 </ol>
 <div class="self-name">getTag</div>
@@ -61,9 +60,9 @@ getTag(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-custommetadatavalue-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/CustomMetadataValue-class.html">/sdk-for-flutter-explore-core-custommetadatavalue-class</a></li>
 <li class="self-crumb">getTag abstract method</li>
 </ol>
 <h5>CustomMetadataValue class</h5>
@@ -80,5 +79,4 @@ getTag(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

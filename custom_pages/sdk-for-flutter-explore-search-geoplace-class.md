@@ -1,10 +1,9 @@
 ---
-title: "GeoPlace class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-geoplace-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- GeoPlace-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -37,8 +36,8 @@ slug: "sdk-for-flutter-explore-search-geoplace-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">GeoPlace class</li>
 </ol>
 <div class="self-name">GeoPlace</div>
@@ -70,7 +69,7 @@ such as a country, a city, a point of interest (POI) etc.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="GeoPlace">
-/sdk-for-flutter-explore-search-geoplace-geoplace()
+<a href="../search/GeoPlace/GeoPlace.html">/sdk-for-flutter-explore-search-geoplace-geoplace</a>()
 </dt>
 <dd>
 </dd>
@@ -80,8 +79,8 @@ such as a country, a city, a point of interest (POI) etc.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="address">
-/sdk-for-flutter-explore-search-geoplace-address
-↔ /sdk-for-flutter-explore-search-address-class
+<a href="../search/GeoPlace/address.html">/sdk-for-flutter-explore-search-geoplace-address</a>
+↔ <a href="../search/Address-class.html">/sdk-for-flutter-explore-search-address-class</a>
 </dt>
 <dd>
   Address of the place
@@ -89,8 +88,8 @@ Note: Address can have default value when no data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="business">
-/sdk-for-flutter-explore-search-geoplace-business
-↔ /sdk-for-flutter-explore-search-businessdetails-class
+<a href="../search/GeoPlace/business.html">/sdk-for-flutter-explore-search-geoplace-business</a>
+↔ <a href="../search/BusinessDetails-class.html">/sdk-for-flutter-explore-search-businessdetails-class</a>
 </dt>
 <dd>
   Business details
@@ -98,8 +97,8 @@ Note: BusinessDetails can have default value when no data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="categories">
-/sdk-for-flutter-explore-search-geoplace-categories
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt;
+<a href="../search/GeoPlace/categories.html">/sdk-for-flutter-explore-search-geoplace-categories</a>
+↔ List&lt;<wbr/><a href="../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt;
 </dt>
 <dd>
   List of corresponding categories
@@ -107,8 +106,8 @@ Note: This list can be empty when no data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="externalIDs">
-/sdk-for-flutter-explore-search-geoplace-externalids
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-core-externalid-class&gt;
+<a href="../search/GeoPlace/externalIDs.html">/sdk-for-flutter-explore-search-geoplace-externalids</a>
+↔ List&lt;<wbr/><a href="../core/ExternalID-class.html">/sdk-for-flutter-explore-core-externalid-class</a>&gt;
 </dt>
 <dd>
   Allows the client to set the id in their own system.
@@ -118,7 +117,7 @@ valid contracts with said suppliers. If the user has no such contracts, the list
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-geoplace-hashcode
+<a href="../search/GeoPlace/hashCode.html">/sdk-for-flutter-explore-search-geoplace-hashcode</a>
 → int
 </dt>
 <dd>
@@ -126,8 +125,8 @@ valid contracts with said suppliers. If the user has no such contracts, the list
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="location">
-/sdk-for-flutter-explore-search-geoplace-location
-↔ /sdk-for-flutter-explore-search-locationdetails-class?
+<a href="../search/GeoPlace/location.html">/sdk-for-flutter-explore-search-geoplace-location</a>
+↔ <a href="../search/LocationDetails-class.html">/sdk-for-flutter-explore-search-locationdetails-class</a>?
 </dt>
 <dd>
   Geographical details
@@ -135,7 +134,7 @@ Note: Can be <code>null</code> when retrieved from a suggestion's place property
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-geoplace-runtimetype
+<a href="../search/GeoPlace/runtimeType.html">/sdk-for-flutter-explore-search-geoplace-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -143,7 +142,7 @@ Note: Can be <code>null</code> when retrieved from a suggestion's place property
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="title">
-/sdk-for-flutter-explore-search-geoplace-title
+<a href="../search/GeoPlace/title.html">/sdk-for-flutter-explore-search-geoplace-title</a>
 ↔ String
 </dt>
 <dd>
@@ -152,16 +151,16 @@ Note: This String can be empty when no data is available.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="type">
-/sdk-for-flutter-explore-search-geoplace-type
-↔ /sdk-for-flutter-explore-search-placetype
+<a href="../search/GeoPlace/type.html">/sdk-for-flutter-explore-search-geoplace-type</a>
+↔ <a href="../search/PlaceType.html">/sdk-for-flutter-explore-search-placetype</a>
 </dt>
 <dd>
   Specifies place type.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="web">
-/sdk-for-flutter-explore-search-geoplace-web
-↔ /sdk-for-flutter-explore-search-webdetails-class
+<a href="../search/GeoPlace/web.html">/sdk-for-flutter-explore-search-geoplace-web</a>
+↔ <a href="../search/WebDetails-class.html">/sdk-for-flutter-explore-search-webdetails-class</a>
 </dt>
 <dd>
   Contains info and direct web links to corresponding items.
@@ -174,7 +173,7 @@ Note: WebDetails can have default value when no data is available.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="getID">
-/sdk-for-flutter-explore-search-geoplace-getid(<wbr/>)
+<a href="../search/GeoPlace/getID.html">/sdk-for-flutter-explore-search-geoplace-getid</a>(<wbr/>)
     → String
 
 </dt>
@@ -184,7 +183,7 @@ Note: WebDetails can have default value when no data is available.
 
 </dd>
 <dt class="callable" id="isMyPlace">
-/sdk-for-flutter-explore-search-geoplace-ismyplace(<wbr/>)
+<a href="../search/GeoPlace/isMyPlace.html">/sdk-for-flutter-explore-search-geoplace-ismyplace</a>(<wbr/>)
     → bool
 
 </dt>
@@ -194,7 +193,7 @@ Note: WebDetails can have default value when no data is available.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-geoplace-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/GeoPlace/noSuchMethod.html">/sdk-for-flutter-explore-search-geoplace-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -203,7 +202,7 @@ Note: WebDetails can have default value when no data is available.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-geoplace-tostring(<wbr/>)
+<a href="../search/GeoPlace/toString.html">/sdk-for-flutter-explore-search-geoplace-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -217,7 +216,7 @@ Note: WebDetails can have default value when no data is available.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-geoplace-operator-equals(<wbr/>Object other)
+<a href="../search/GeoPlace/operator_equals.html">/sdk-for-flutter-explore-search-geoplace-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -232,9 +231,8 @@ Note: WebDetails can have default value when no data is available.
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="makeMyPlace">
-/sdk-for-flutter-explore-search-geoplace-makemyplace(<wbr/>String title, /sdk-for-flutter-explore-core-geocoordinates-class coordinates)
-    → /sdk-for-flutter-explore-search-geoplace-class
-
+<a href="../search/GeoPlace/makeMyPlace.html">/sdk-for-flutter-explore-search-geoplace-makemyplace</a>(<wbr/>String title, <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates)
+    → <a href="../search/GeoPlace-class.html">/sdk-for-flutter-explore-search-geoplace-class</a>
 </dt>
 <dd>
   Creates a new instance of this class.
@@ -251,8 +249,8 @@ Note: WebDetails can have default value when no data is available.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">GeoPlace class</li>
 </ol>
 <h5>search library</h5>
@@ -269,5 +267,4 @@ Note: WebDetails can have default value when no data is available.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

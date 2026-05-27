@@ -1,10 +1,9 @@
 ---
-title: "MapMeasure class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mapmeasure-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapMeasure-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-mapview-mapmeasure-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapMeasure class</li>
 </ol>
 <div class="self-name">MapMeasure</div>
@@ -53,7 +52,7 @@ menu
 <h1>MapMeasure class</h1></div>
 <section class="desc markdown">
 <p>A map measure.</p>
-<p>Check /sdk-for-flutter-explore-mapview-mapcamera-class for more details on each supported measure.</p>
+<p>Check <a href="../mapview/MapCamera-class.html">/sdk-for-flutter-explore-mapview-mapcamera-class</a> for more details on each supported measure.</p>
 </section>
 <section>
 <dl class="dl-horizontal">
@@ -69,7 +68,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapMeasure">
-/sdk-for-flutter-explore-mapview-mapmeasure-mapmeasure(/sdk-for-flutter-explore-mapview-mapmeasurekind kind, double value)
+<a href="../mapview/MapMeasure/MapMeasure.html">/sdk-for-flutter-explore-mapview-mapmeasure-mapmeasure</a>(<a href="../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> kind, double value)
 </dt>
 <dd>
           Constructs a MapMeasure from the kind and value.
@@ -81,7 +80,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-mapview-mapmeasure-hashcode
+<a href="../mapview/MapMeasure/hashCode.html">/sdk-for-flutter-explore-mapview-mapmeasure-hashcode</a>
 → int
 </dt>
 <dd>
@@ -89,15 +88,15 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="kind">
-/sdk-for-flutter-explore-mapview-mapmeasure-kind
-→ /sdk-for-flutter-explore-mapview-mapmeasurekind
+<a href="../mapview/MapMeasure/kind.html">/sdk-for-flutter-explore-mapview-mapmeasure-kind</a>
+→ <a href="../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a>
 </dt>
 <dd>
   The kind of measure represented by value.
   <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mapmeasure-runtimetype
+<a href="../mapview/MapMeasure/runtimeType.html">/sdk-for-flutter-explore-mapview-mapmeasure-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -105,7 +104,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="value">
-/sdk-for-flutter-explore-mapview-mapmeasure-value
+<a href="../mapview/MapMeasure/value.html">/sdk-for-flutter-explore-mapview-mapmeasure-value</a>
 → double
 </dt>
 <dd>
@@ -118,7 +117,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mapmeasure-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapMeasure/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapmeasure-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -127,7 +126,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mapmeasure-tostring(<wbr/>)
+<a href="../mapview/MapMeasure/toString.html">/sdk-for-flutter-explore-mapview-mapmeasure-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -141,7 +140,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-mapview-mapmeasure-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapMeasure/operator_equals.html">/sdk-for-flutter-explore-mapview-mapmeasure-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -160,8 +159,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapMeasure class</li>
 </ol>
 <h5>mapview library</h5>
@@ -178,5 +177,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

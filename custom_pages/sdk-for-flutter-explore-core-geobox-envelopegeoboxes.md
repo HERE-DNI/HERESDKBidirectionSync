@@ -1,10 +1,9 @@
 ---
-title: "envelopeGeoBoxes static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-geobox-envelopegeoboxes"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- envelopeGeoBoxes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-geobox-envelopegeoboxes"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geobox-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a></li>
 <li class="self-crumb">envelopeGeoBoxes static method</li>
 </ol>
 <div class="self-name">envelopeGeoBoxes</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>envelopeGeoBoxes static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-geobox-class?
-envelopeGeoBoxes(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-core-geobox-class&gt; geoBoxes</li>
+<a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>?
+envelopeGeoBoxes(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>&gt; geoBoxes</li>
 </ol>)
 
       
@@ -51,7 +50,7 @@ envelopeGeoBoxes(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/
 <ul>
 <li><code>geoBoxes</code> List of <code>GeoBox</code> objects.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-geobox-class. <code>GeoBox</code> covering all <code>GeoBox</code> areas, or <code>null</code>
+<p>Returns <a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>. <code>GeoBox</code> covering all <code>GeoBox</code> areas, or <code>null</code>
 if input is empty.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -66,9 +65,9 @@ if input is empty.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geobox-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a></li>
 <li class="self-crumb">envelopeGeoBoxes static method</li>
 </ol>
 <h5>GeoBox class</h5>
@@ -85,5 +84,4 @@ if input is empty.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "textStyle property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapmarker-textstyle"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- textStyle.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker-textstyle"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarker-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a></li>
 <li class="self-crumb">textStyle property</li>
 </ol>
 <div class="self-name">textStyle</div>
@@ -39,7 +38,7 @@ menu
 <h1>textStyle property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class
+<a href="../../mapview/MapMarkerTextStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</a>
 textStyle
 </section>
 <section class="desc markdown">
@@ -54,7 +53,7 @@ Gets a copy of the <code>TextStyle</code> currently in use by the <code>MapMarke
 <section id="setter">
 <section class="multi-line-signature">
 void
-textStyle=(<wbr/>/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class value)
+textStyle=(<wbr/><a href="../../mapview/MapMarkerTextStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</a> value)
 </section>
 <section class="desc markdown">
 <p>The <code>TextStyle</code> applied to the text of the <code>MapMarker</code>.
@@ -73,9 +72,9 @@ Sets the <code>TextStyle</code> to be used by the <code>MapMarker</code>.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarker-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a></li>
 <li class="self-crumb">textStyle property</li>
 </ol>
 <h5>MapMarker class</h5>
@@ -92,5 +91,4 @@ Sets the <code>TextStyle</code> to be used by the <code>MapMarker</code>.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "PolygonDataSource class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-datasource-polygondatasource-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PolygonDataSource-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -31,8 +30,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-polygondatasource-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">PolygonDataSource class</li>
 </ol>
 <div class="self-name">PolygonDataSource</div>
@@ -66,7 +65,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PolygonDataSource">
-/sdk-for-flutter-explore-mapview-datasource-polygondatasource-polygondatasource()
+<a href="../mapview.datasource/PolygonDataSource/PolygonDataSource.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasource-polygondatasource</a>()
 </dt>
 <dd>
 </dd>
@@ -76,7 +75,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-datasource-polygondatasource-hashcode
+<a href="../mapview.datasource/PolygonDataSource/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasource-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -84,7 +83,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-datasource-polygondatasource-runtimetype
+<a href="../mapview.datasource/PolygonDataSource/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasource-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -97,7 +96,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="add">
-/sdk-for-flutter-explore-mapview-datasource-polygondatasource-add(<wbr/>/sdk-for-flutter-explore-mapview-datasource-polygondata-class polygon)
+<a href="../mapview.datasource/PolygonDataSource/add.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasource-add</a>(<wbr/><a href="../mapview.datasource/PolygonData-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondata-class</a> polygon)
     → void
 
 </dt>
@@ -107,7 +106,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="addPolygons">
-/sdk-for-flutter-explore-mapview-datasource-polygondatasource-addpolygons(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-datasource-polygondata-class&gt; polygons)
+<a href="../mapview.datasource/PolygonDataSource/addPolygons.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasource-addpolygons</a>(<wbr/>List&lt;<wbr/><a href="../mapview.datasource/PolygonData-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondata-class</a>&gt; polygons)
     → void
 
 </dt>
@@ -117,7 +116,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="destroy">
-/sdk-for-flutter-explore-mapview-datasource-polygondatasource-destroy(<wbr/>)
+<a href="../mapview.datasource/PolygonDataSource/destroy.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasource-destroy</a>(<wbr/>)
     → void
 
 </dt>
@@ -127,7 +126,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="forEach">
-/sdk-for-flutter-explore-mapview-datasource-polygondatasource-foreach(<wbr/>/sdk-for-flutter-explore-mapview-datasource-polygondatasourcepolygondataprocessor processor)
+<a href="../mapview.datasource/PolygonDataSource/forEach.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasource-foreach</a>(<wbr/><a href="../mapview.datasource/PolygonDataSourcePolygonDataProcessor.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcepolygondataprocessor</a> processor)
     → void
 
 </dt>
@@ -138,7 +137,7 @@ given processor, one by one.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-datasource-polygondatasource-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview.datasource/PolygonDataSource/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasource-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -147,7 +146,7 @@ given processor, one by one.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="removeAll">
-/sdk-for-flutter-explore-mapview-datasource-polygondatasource-removeall(<wbr/>)
+<a href="../mapview.datasource/PolygonDataSource/removeAll.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasource-removeall</a>(<wbr/>)
     → void
 
 </dt>
@@ -157,7 +156,7 @@ given processor, one by one.
 
 </dd>
 <dt class="callable" id="removeIf">
-/sdk-for-flutter-explore-mapview-datasource-polygondatasource-removeif(<wbr/>/sdk-for-flutter-explore-mapview-datasource-polygondatasourcepolygondataprocessor inspector)
+<a href="../mapview.datasource/PolygonDataSource/removeIf.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasource-removeif</a>(<wbr/><a href="../mapview.datasource/PolygonDataSourcePolygonDataProcessor.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasourcepolygondataprocessor</a> inspector)
     → void
 
 </dt>
@@ -168,7 +167,7 @@ given inspector, one by one.
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-datasource-polygondatasource-tostring(<wbr/>)
+<a href="../mapview.datasource/PolygonDataSource/toString.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasource-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -182,7 +181,7 @@ given inspector, one by one.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-datasource-polygondatasource-operator-equals(<wbr/>Object other)
+<a href="../mapview.datasource/PolygonDataSource/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-polygondatasource-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -200,8 +199,8 @@ given inspector, one by one.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">PolygonDataSource class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -218,5 +217,4 @@ given inspector, one by one.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

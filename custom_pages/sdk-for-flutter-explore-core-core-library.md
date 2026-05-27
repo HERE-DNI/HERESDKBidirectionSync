@@ -1,10 +1,9 @@
 ---
-title: "core library"
+title: "Classes"
 slug: "sdk-for-flutter-explore-core-core-library"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- core-library.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -72,7 +71,7 @@ slug: "sdk-for-flutter-explore-core-core-library"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
 <li class="self-crumb">core.dart</li>
 </ol>
 <div class="self-name">core</div>
@@ -100,236 +99,236 @@ menu
 <h2>Classes</h2>
 <dl>
 <dt id="Anchor2D">
-/sdk-for-flutter-explore-core-anchor2d-class
+<a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a>
 </dt>
 <dd>
   Represents a point in a rectangle as a ratio of this rectangle's width and height.
 </dd>
 <dt id="Angle">
-/sdk-for-flutter-explore-core-angle-class
+<a href="../core/Angle-class.html">/sdk-for-flutter-explore-core-angle-class</a>
 </dt>
 <dd>
   Represents an angle independent of the unit of measurement.
 </dd>
 <dt id="AngleRange">
-/sdk-for-flutter-explore-core-anglerange-class
+<a href="../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a>
 </dt>
 <dd>
   Represents angle ranges as a circular sector by using an absolute start angle
 and a relative range angle called extent.
 </dd>
 <dt id="Authentication">
-/sdk-for-flutter-explore-core-authentication-class
+<a href="../core/Authentication-class.html">/sdk-for-flutter-explore-core-authentication-class</a>
 </dt>
 <dd>
   Use the authentication class to authenticate and retrieve a secure token that
 can be used with other HERE services.
 </dd>
 <dt id="AuthenticationData">
-/sdk-for-flutter-explore-core-authenticationdata-class
+<a href="../core/AuthenticationData-class.html">/sdk-for-flutter-explore-core-authenticationdata-class</a>
 </dt>
 <dd>
   Authentication data
 </dd>
 <dt id="BrandLogo">
-/sdk-for-flutter-explore-core-brandlogo-class
+<a href="../core/BrandLogo-class.html">/sdk-for-flutter-explore-core-brandlogo-class</a>
 </dt>
 <dd>
   Represents image link to the company's logo.
 </dd>
 <dt id="CustomMetadataValue">
-/sdk-for-flutter-explore-core-custommetadatavalue-class
+<a href="../core/CustomMetadataValue-class.html">/sdk-for-flutter-explore-core-custommetadatavalue-class</a>
 </dt>
 <dd>
   Abstract class for storing arbitrary metadata types.
 </dd>
 <dt id="ExternalID">
-/sdk-for-flutter-explore-core-externalid-class
+<a href="../core/ExternalID-class.html">/sdk-for-flutter-explore-core-externalid-class</a>
 </dt>
 <dd>
   Identifier of the entity as provided by the external source
 </dd>
 <dt id="GeoBox">
-/sdk-for-flutter-explore-core-geobox-class
+<a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>
 </dt>
 <dd>
   Represents a bounding rectangle aligned with latitude and longitude.
 </dd>
 <dt id="GeoCircle">
-/sdk-for-flutter-explore-core-geocircle-class
+<a href="../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a>
 </dt>
 <dd>
   Represents a circle area in 2D space.
 </dd>
 <dt id="GeoCoordinates">
-/sdk-for-flutter-explore-core-geocoordinates-class
+<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 </dt>
 <dd>
   Represents geographical coordinates in 3D space.
 </dd>
 <dt id="GeoCoordinatesUpdate">
-/sdk-for-flutter-explore-core-geocoordinatesupdate-class
+<a href="../core/GeoCoordinatesUpdate-class.html">/sdk-for-flutter-explore-core-geocoordinatesupdate-class</a>
 </dt>
 <dd>
   Represents geographical coordinates in 3D space.
 </dd>
 <dt id="GeoCorridor">
-/sdk-for-flutter-explore-core-geocorridor-class
+<a href="../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a>
 </dt>
 <dd>
   A geographical area that wraps around a geographical polyline with a given distance.
 </dd>
 <dt id="GeoOrientation">
-/sdk-for-flutter-explore-core-geoorientation-class
+<a href="../core/GeoOrientation-class.html">/sdk-for-flutter-explore-core-geoorientation-class</a>
 </dt>
 <dd>
   Geodetic orientation with bearing, tilt and roll.
 </dd>
 <dt id="GeoOrientationUpdate">
-/sdk-for-flutter-explore-core-geoorientationupdate-class
+<a href="../core/GeoOrientationUpdate-class.html">/sdk-for-flutter-explore-core-geoorientationupdate-class</a>
 </dt>
 <dd>
   Describes geodetic orientation update with bearing and tilt.
 </dd>
 <dt id="GeoPolygon">
-/sdk-for-flutter-explore-core-geopolygon-class
+<a href="../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a>
 </dt>
 <dd>
   Represents a <code>GeoPolygon</code> area as a series of geographic coordinates, and optionally,
 a list of inner boundaries (also known as holes).
 </dd>
 <dt id="GeoPolyline">
-/sdk-for-flutter-explore-core-geopolyline-class
+<a href="../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a>
 </dt>
 <dd>
   A list of geographic coordinates representing the vertices of a polyline.
 </dd>
 <dt id="IntegerRange">
-/sdk-for-flutter-explore-core-integerrange-class
+<a href="../core/IntegerRange-class.html">/sdk-for-flutter-explore-core-integerrange-class</a>
 </dt>
 <dd>
   An integer range [min, max] with inclusive minimum and maximum value.
 </dd>
 <dt id="LocalizedText">
-/sdk-for-flutter-explore-core-localizedtext-class
+<a href="../core/LocalizedText-class.html">/sdk-for-flutter-explore-core-localizedtext-class</a>
 </dt>
 <dd>
   Used to represent text localized to specific language.
 </dd>
 <dt id="LocalizedTexts">
-/sdk-for-flutter-explore-core-localizedtexts-class
+<a href="../core/LocalizedTexts-class.html">/sdk-for-flutter-explore-core-localizedtexts-class</a>
 </dt>
 <dd>
   The list of multiple names or titles for the same entity, possibly in different languages.
 </dd>
 <dt id="Location">
-/sdk-for-flutter-explore-core-location-class
+<a href="../core/Location-class.html">/sdk-for-flutter-explore-core-location-class</a>
 </dt>
 <dd>
   Describes a location in the world at a given time.
 </dd>
 <dt id="LocationListener">
-/sdk-for-flutter-explore-core-locationlistener-class
+<a href="../core/LocationListener-class.html">/sdk-for-flutter-explore-core-locationlistener-class</a>
 </dt>
 <dd>
   This abstract class should be implemented in order to receive notifications
 about location updates.
 </dd>
 <dt id="LocationTime">
-/sdk-for-flutter-explore-core-locationtime-class
+<a href="../core/LocationTime-class.html">/sdk-for-flutter-explore-core-locationtime-class</a>
 </dt>
 <dd>
   This struct presents all the time data tied to a location, like an arrival or departure time.
 </dd>
 <dt id="Metadata">
-/sdk-for-flutter-explore-core-metadata-class
+<a href="../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a>
 </dt>
 <dd>
   Holds metadata on behalf of a map item.
 </dd>
 <dt id="NameID">
-/sdk-for-flutter-explore-core-nameid-class
+<a href="../core/NameID-class.html">/sdk-for-flutter-explore-core-nameid-class</a>
 </dt>
 <dd>
   Structure to represent name-id pairs.
 </dd>
 <dt id="NetworkEndpoint">
-/sdk-for-flutter-explore-core-networkendpoint-class
+<a href="../core/NetworkEndpoint-class.html">/sdk-for-flutter-explore-core-networkendpoint-class</a>
 </dt>
 <dd>
   Network endpoint.
 </dd>
 <dt id="ParameterConfiguration">
-/sdk-for-flutter-explore-core-parameterconfiguration-class
+<a href="../core/ParameterConfiguration-class.html">/sdk-for-flutter-explore-core-parameterconfiguration-class</a>
 </dt>
 <dd>
   Contains values of configurable parameters that are used in SDK.
 </dd>
 <dt id="PedestrianProfile">
-/sdk-for-flutter-explore-core-pedestrianprofile-class
+<a class="deprecated" href="../core/PedestrianProfile-class.html">/sdk-for-flutter-explore-core-pedestrianprofile-class</a>
 </dt>
 <dd>
   Contains values of pedestrian profile.
 </dd>
 <dt id="PickedPlace">
-/sdk-for-flutter-explore-core-pickedplace-class
+<a href="../core/PickedPlace-class.html">/sdk-for-flutter-explore-core-pickedplace-class</a>
 </dt>
 <dd>
   Carries the result of picking a Carto POI (point of interest) object.
 </dd>
 <dt id="Point2D">
-/sdk-for-flutter-explore-core-point2d-class
+<a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>
 </dt>
 <dd>
   Represents a point in 2D space.
 </dd>
 <dt id="Point3D">
-/sdk-for-flutter-explore-core-point3d-class
+<a href="../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a>
 </dt>
 <dd>
   Represents a point in 3D space.
 </dd>
 <dt id="PolylineSimplifier">
-/sdk-for-flutter-explore-core-polylinesimplifier-class
+<a href="../core/PolylineSimplifier-class.html">/sdk-for-flutter-explore-core-polylinesimplifier-class</a>
 </dt>
 <dd>
   PolylineSimplifier helps to reduce the number of points
 in the polyline by removing redundant elements using
 Douglas–Peucker algorithm, so that result stays
-within /sdk-for-flutter-explore-core-polylinesimplifieroptions-class.
+within <a href="../core/PolylineSimplifierOptions-class.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-class</a>.
 </dd>
 <dt id="PolylineSimplifierOptions">
-/sdk-for-flutter-explore-core-polylinesimplifieroptions-class
+<a href="../core/PolylineSimplifierOptions-class.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-class</a>
 </dt>
 <dd>
-  Controls the strategy of /sdk-for-flutter-explore-core-polylinesimplifier-simplify
+  Controls the strategy of <a href="../core/PolylineSimplifier/simplify.html">/sdk-for-flutter-explore-core-polylinesimplifier-simplify</a>
 when reducing a size of polyline.
 </dd>
 <dt id="Rectangle2D">
-/sdk-for-flutter-explore-core-rectangle2d-class
+<a href="../core/Rectangle2D-class.html">/sdk-for-flutter-explore-core-rectangle2d-class</a>
 </dt>
 <dd>
   Represents a 2D rectangle defined by the origin and size.
 </dd>
 <dt id="SdkContext">
-/sdk-for-flutter-explore-core-sdkcontext-class
+<a href="../core/SdkContext-class.html">/sdk-for-flutter-explore-core-sdkcontext-class</a>
 </dt>
 <dd>
 </dd>
 <dt id="Size2D">
-/sdk-for-flutter-explore-core-size2d-class
+<a href="../core/Size2D-class.html">/sdk-for-flutter-explore-core-size2d-class</a>
 </dt>
 <dd>
   Represents the size of a 2D structure.
 </dd>
 <dt id="TimeRule">
-/sdk-for-flutter-explore-core-timerule-class
+<a href="../core/TimeRule-class.html">/sdk-for-flutter-explore-core-timerule-class</a>
 </dt>
 <dd>
   Used to indicate a time period of one or more intervals in <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/concepts/time-domain.html">GDF</a> specification.
 </dd>
 <dt id="TransportProfile">
-/sdk-for-flutter-explore-core-transportprofile-class
+<a class="deprecated" href="../core/TransportProfile-class.html">/sdk-for-flutter-explore-core-transportprofile-class</a>
 </dt>
 <dd>
   Contains values of transport profile.
@@ -340,86 +339,86 @@ when reducing a size of polyline.
 <h2>Enums</h2>
 <dl>
 <dt id="AuthenticationError">
-/sdk-for-flutter-explore-core-authenticationerror
+<a href="../core/AuthenticationError.html">/sdk-for-flutter-explore-core-authenticationerror</a>
 </dt>
 <dd>
   Authentication error
 </dd>
 <dt id="CardinalDirection">
-/sdk-for-flutter-explore-core-cardinaldirection
+<a href="../core/CardinalDirection.html">/sdk-for-flutter-explore-core-cardinaldirection</a>
 </dt>
 <dd>
   Indicates the official directional identifier assigned to this road.
 </dd>
 <dt id="CountryCode">
-/sdk-for-flutter-explore-core-countrycode
+<a href="../core/CountryCode.html">/sdk-for-flutter-explore-core-countrycode</a>
 </dt>
 <dd>
   This enum represents country codes in accordance with the ISO 3166-1 standard using alpha-3 codes.
 </dd>
 <dt id="CurrentType">
-/sdk-for-flutter-explore-core-currenttype
+<a href="../core/CurrentType.html">/sdk-for-flutter-explore-core-currenttype</a>
 </dt>
 <dd>
   This enum represents the type of electric current
 </dd>
 <dt id="GeoPolylineDirection">
-/sdk-for-flutter-explore-core-geopolylinedirection
+<a href="../core/GeoPolylineDirection.html">/sdk-for-flutter-explore-core-geopolylinedirection</a>
 </dt>
 <dd>
-  Defines if a function on a /sdk-for-flutter-explore-core-geopolyline-class computes the operation starting from the beginning or
-from the end of /sdk-for-flutter-explore-core-geopolyline-vertices.
+  Defines if a function on a <a href="../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a> computes the operation starting from the beginning or
+from the end of <a href="../core/GeoPolyline/vertices.html">/sdk-for-flutter-explore-core-geopolyline-vertices</a>.
 </dd>
 <dt id="IsolateOrigin">
-/sdk-for-flutter-explore-core-isolateorigin
+<a href="../core/IsolateOrigin.html">/sdk-for-flutter-explore-core-isolateorigin</a>
 </dt>
 <dd>
 </dd>
 <dt id="LanguageCode">
-/sdk-for-flutter-explore-core-languagecode
+<a href="../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>
 </dt>
 <dd>
   This enum represents language codes.
 </dd>
 <dt id="LocationSource">
-/sdk-for-flutter-explore-core-locationsource
+<a href="../core/LocationSource.html">/sdk-for-flutter-explore-core-locationsource</a>
 </dt>
 <dd>
   Indicates where the location was computed.
 </dd>
 <dt id="LocationTechnology">
-/sdk-for-flutter-explore-core-locationtechnology
+<a href="../core/LocationTechnology.html">/sdk-for-flutter-explore-core-locationtechnology</a>
 </dt>
 <dd>
   Technology or provider of the location.
 </dd>
 <dt id="MetadataType">
-/sdk-for-flutter-explore-core-metadatatype
+<a href="../core/MetadataType.html">/sdk-for-flutter-explore-core-metadatatype</a>
 </dt>
 <dd>
   Different types of objects that can be stored in a Metadata class instance.
 </dd>
 <dt id="PolylineSimplificationError">
-/sdk-for-flutter-explore-core-polylinesimplificationerror
+<a href="../core/PolylineSimplificationError.html">/sdk-for-flutter-explore-core-polylinesimplificationerror</a>
 </dt>
 <dd>
   Error code which specifies, what went wrong during
-/sdk-for-flutter-explore-core-polylinesimplifier-simplify operation.
+<a href="../core/PolylineSimplifier/simplify.html">/sdk-for-flutter-explore-core-polylinesimplifier-simplify</a> operation.
 </dd>
 <dt id="PowerType">
-/sdk-for-flutter-explore-core-powertype
+<a href="../core/PowerType.html">/sdk-for-flutter-explore-core-powertype</a>
 </dt>
 <dd>
   Represents the type of electrical power.
 </dd>
 <dt id="RouteType">
-/sdk-for-flutter-explore-core-routetype
+<a href="../core/RouteType.html">/sdk-for-flutter-explore-core-routetype</a>
 </dt>
 <dd>
   Indicates the level of significance of a route in a range from 1 to 6.
 </dd>
 <dt id="UnitSystem">
-/sdk-for-flutter-explore-core-unitsystem
+<a href="../core/UnitSystem.html">/sdk-for-flutter-explore-core-unitsystem</a>
 </dt>
 <dd>
   Represents the available unit systems(imperial/metric).
@@ -430,23 +429,23 @@ from the end of /sdk-for-flutter-explore-core-geopolyline-vertices.
 <h2>Typedefs</h2>
 <dl>
 <dt class="callable" id="AuthenticationCallback">
-/sdk-for-flutter-explore-core-authenticationcallback
-= void Function(/sdk-for-flutter-explore-core-authenticationerror? authenticationError, /sdk-for-flutter-explore-core-authenticationdata-class? authenticationData)
+<a href="../core/AuthenticationCallback.html">/sdk-for-flutter-explore-core-authenticationcallback</a>
+= void Function(<a href="../core/AuthenticationError.html">/sdk-for-flutter-explore-core-authenticationerror</a>? authenticationError, <a href="../core/AuthenticationData-class.html">/sdk-for-flutter-explore-core-authenticationdata-class</a>? authenticationData)
 
 </dt>
 <dd>
-    Callback passed to /sdk-for-flutter-explore-core-authentication-authenticatewithsdknativeengine.
+    Callback passed to <a href="../core/Authentication/authenticateWithSDKNativeEngine.html">/sdk-for-flutter-explore-core-authentication-authenticatewithsdknativeengine</a>.
     
 
   </dd>
 <dt class="callable" id="PolylineSimplificationCallback">
-/sdk-for-flutter-explore-core-polylinesimplificationcallback
-= void Function(/sdk-for-flutter-explore-core-polylinesimplificationerror? queryError, List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt;? result)
+<a href="../core/PolylineSimplificationCallback.html">/sdk-for-flutter-explore-core-polylinesimplificationcallback</a>
+= void Function(<a href="../core/PolylineSimplificationError.html">/sdk-for-flutter-explore-core-polylinesimplificationerror</a>? queryError, List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt;? result)
 
 </dt>
 <dd>
     The method will be called on the main thread when
-/sdk-for-flutter-explore-core-polylinesimplifier-simplify is finished.
+<a href="../core/PolylineSimplifier/simplify.html">/sdk-for-flutter-explore-core-polylinesimplifier-simplify</a> is finished.
     
 
   </dd>
@@ -456,7 +455,7 @@ from the end of /sdk-for-flutter-explore-core-geopolyline-vertices.
 <h2>Exceptions / Errors</h2>
 <dl>
 <dt id="AuthenticationExceptionException">
-/sdk-for-flutter-explore-core-authenticationexceptionexception-class
+<a href="../core/AuthenticationExceptionException-class.html">/sdk-for-flutter-explore-core-authenticationexceptionexception-class</a>
 </dt>
 <dd>
   Authentication exception
@@ -471,25 +470,25 @@ from the end of /sdk-for-flutter-explore-core-geopolyline-vertices.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
 <li class="self-crumb">core.dart</li>
 </ol>
 <h5>here_sdk package</h5>
 <ol>
 <li class="section-title">Libraries</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-errors-core-errors-library</li>
-<li>/sdk-for-flutter-explore-core-threading-core-threading-library</li>
-<li>/sdk-for-flutter-explore-ev-ev-library</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../core.errors/core.errors-library.html">/sdk-for-flutter-explore-core-errors-core-errors-library</a></li>
+<li><a href="../core.threading/core.threading-library.html">/sdk-for-flutter-explore-core-threading-core-threading-library</a></li>
+<li><a href="../ev/ev-library.html">/sdk-for-flutter-explore-ev-ev-library</a></li>
+<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
 </ol>
 </div>
 <div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
@@ -504,5 +503,4 @@ from the end of /sdk-for-flutter-explore-core-geopolyline-vertices.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

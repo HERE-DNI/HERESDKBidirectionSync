@@ -1,10 +1,9 @@
 ---
-title: "MapMarkerTextStyle.withFont constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapmarkertextstyle-mapmarkertextstyle-withfont"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapMarkerTextStyle.withFont.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarkertextstyle-mapmarkertextstyle-wit
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMarkerTextStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</a></li>
 <li class="self-crumb">MapMarkerTextStyle.withFont factory constructor</li>
 </ol>
 <div class="self-name">MapMarkerTextStyle.withFont</div>
@@ -42,16 +41,16 @@ MapMarkerTextStyle.withFont(<wbr/><ol class="parameter-list"> <li>double textSiz
 <li>Color textColor, </li>
 <li>double textOutlineSize, </li>
 <li>Color textOutlineColor, </li>
-<li>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmarkertextstyleplacement&gt; placements, </li>
+<li>List&lt;<wbr/><a href="../../mapview/MapMarkerTextStylePlacement.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyleplacement</a>&gt; placements, </li>
 <li>String fontName, </li>
 </ol>)
     </section>
 <section class="desc markdown">
-<p>Creates a set of styling options for the text of a /sdk-for-flutter-explore-mapview-mapmarker-class.</p>
+<p>Creates a set of styling options for the text of a <a href="../../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
 <p>List of placements is used to specify allowed placement of text relative to the icon.
-When marker overlapping is allowed as set by /sdk-for-flutter-explore-mapview-mapmarker-isoverlapallowed,
+When marker overlapping is allowed as set by <a href="../../mapview/MapMarker/isOverlapAllowed.html">/sdk-for-flutter-explore-mapview-mapmarker-isoverlapallowed</a>,
 only first placement element is considered.
 Otherwise the placement value is chosen so that the text does not overlap
 with other <code>MapMarker</code> instances.</p>
@@ -74,14 +73,14 @@ Only non-negative values are supported.</p>
 <p><code>textOutlineColor</code> The color of the text outline.</p>
 </li>
 <li>
-<p><code>placements</code> List of allowed placements of the text relative to the icon of a /sdk-for-flutter-explore-mapview-mapmarker-class.</p>
+<p><code>placements</code> List of allowed placements of the text relative to the icon of a <a href="../../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>.</p>
 </li>
 <li>
 <p><code>fontName</code> Font name, registered with <code>AssetsManager.registerFont</code>.
 If empty string is provided, a default font will be used.</p>
 </li>
 </ul>
-<p>Throws /sdk-for-flutter-explore-mapview-mapmarkertextstyleinstantiationexception-class. In case of invalid input parameters.</p>
+<p>Throws <a href="../../mapview/MapMarkerTextStyleInstantiationException-class.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyleinstantiationexception-class</a>. In case of invalid input parameters.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -95,9 +94,9 @@ If empty string is provided, a default font will be used.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMarkerTextStyle-class.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-class</a></li>
 <li class="self-crumb">MapMarkerTextStyle.withFont factory constructor</li>
 </ol>
 <h5>MapMarkerTextStyle class</h5>
@@ -114,5 +113,4 @@ If empty string is provided, a default font will be used.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

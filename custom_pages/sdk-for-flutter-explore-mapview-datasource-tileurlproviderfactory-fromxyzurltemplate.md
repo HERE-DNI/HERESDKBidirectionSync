@@ -1,10 +1,9 @@
 ---
-title: "fromXyzUrlTemplate static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-fromxyzurltemplate"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- fromXyzUrlTemplate.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-fromxyz
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/TileUrlProviderFactory-class.html">/sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-class</a></li>
 <li class="self-crumb">fromXyzUrlTemplate static method</li>
 </ol>
 <div class="self-name">fromXyzUrlTemplate</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>fromXyzUrlTemplate static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback?
+<a href="../../mapview.datasource/TileUrlProviderCallback.html">/sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback</a>?
 fromXyzUrlTemplate(<wbr/><ol class="parameter-list single-line"> <li>String urlTemplate</li>
 </ol>)
 
@@ -46,14 +45,14 @@ fromXyzUrlTemplate(<wbr/><ol class="parameter-list single-line"> <li>String urlT
 
     </section>
 <section class="desc markdown">
-<p>Creates /sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback for the given URL template.</p>
+<p>Creates <a href="../../mapview.datasource/TileUrlProviderCallback.html">/sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback</a> for the given URL template.</p>
 <p>A url template should look like this 'https://TestRasterTileService.com/{z}/{x}/{y}/'
 here the z parameter is the storage level, x and y define the location of the tile.
 The valid range for X and Y is from 0 to 2^level − 1.</p>
 <ul>
 <li><code>urlTemplate</code> The url template</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback. <code>null</code> if the provided template is not valid xyz url type.</p>
+<p>Returns <a href="../../mapview.datasource/TileUrlProviderCallback.html">/sdk-for-flutter-explore-mapview-datasource-tileurlprovidercallback</a>. <code>null</code> if the provided template is not valid xyz url type.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -67,9 +66,9 @@ The valid range for X and Y is from 0 to 2^level − 1.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/TileUrlProviderFactory-class.html">/sdk-for-flutter-explore-mapview-datasource-tileurlproviderfactory-class</a></li>
 <li class="self-crumb">fromXyzUrlTemplate static method</li>
 </ol>
 <h5>TileUrlProviderFactory class</h5>
@@ -86,5 +85,4 @@ The valid range for X and Y is from 0 to 2^level − 1.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

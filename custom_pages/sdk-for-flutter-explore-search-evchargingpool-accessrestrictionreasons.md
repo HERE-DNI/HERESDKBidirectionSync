@@ -1,10 +1,9 @@
 ---
-title: "accessRestrictionReasons property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evchargingpool-accessrestrictionreasons"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- accessRestrictionReasons.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evchargingpool-accessrestrictionreasons"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingpool-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingPool-class.html">/sdk-for-flutter-explore-search-evchargingpool-class</a></li>
 <li class="self-crumb">accessRestrictionReasons property</li>
 </ol>
 <div class="self-name">accessRestrictionReasons</div>
@@ -39,13 +38,13 @@ menu
 <h1>accessRestrictionReasons property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-search-evaccessrestrictionreason&gt;
+        List&lt;<wbr/><a href="../../search/EVAccessRestrictionReason.html">/sdk-for-flutter-explore-search-evaccessrestrictionreason</a>&gt;
 accessRestrictionReasons
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Contains the list of reasons for restriction.
-Populated only for offline search and when access is /sdk-for-flutter-explore-search-evaccesstype.</p>
+Populated only for offline search and when access is <a href="../../search/EVAccessType.html">/sdk-for-flutter-explore-search-evaccesstype</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +58,9 @@ Populated only for offline search and when access is /sdk-for-flutter-explore-se
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingpool-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingPool-class.html">/sdk-for-flutter-explore-search-evchargingpool-class</a></li>
 <li class="self-crumb">accessRestrictionReasons property</li>
 </ol>
 <h5>EVChargingPool class</h5>
@@ -78,5 +77,4 @@ Populated only for offline search and when access is /sdk-for-flutter-explore-se
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

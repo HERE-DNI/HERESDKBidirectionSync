@@ -1,10 +1,9 @@
 ---
-title: "Easing.withSampledPoints constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-animation-easing-easing-withsampledpoints"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Easing.withSampledPoints.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-animation-easing-easing-withsampledpoints"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-animation-easing-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../../animation/Easing-class.html">/sdk-for-flutter-explore-animation-easing-class</a></li>
 <li class="self-crumb">Easing.withSampledPoints factory constructor</li>
 </ol>
 <div class="self-name">Easing.withSampledPoints</div>
@@ -38,11 +37,11 @@ menu
 <div>
 <h1>Easing.withSampledPoints constructor</h1></div>
 <section class="multi-line-signature">
-Easing.withSampledPoints(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-core-point2d-class&gt; points</li>
+Easing.withSampledPoints(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>&gt; points</li>
 </ol>)
     </section>
 <section class="desc markdown">
-<p>Creates an instance of customized /sdk-for-flutter-explore-animation-easing-class using a specified number of points describing an
+<p>Creates an instance of customized <a href="../../animation/Easing-class.html">/sdk-for-flutter-explore-animation-easing-class</a> using a specified number of points describing an
 easing function.</p>
 <ul>
 <li><code>points</code> List of sampled data points that define an easing function.
@@ -61,7 +60,7 @@ The higher the sampling rate of the easing curve used for the data points the mo
 In order to achieve the same animation precision for animations with different durations
 (shorter vs longer) it is recommended to use a higher sampling rate for longer animation duration.</li>
 </ul>
-<p>Throws /sdk-for-flutter-explore-animation-easinginstantiationexception-class. Instantiation error in case of invalid input parameters.</p>
+<p>Throws <a href="../../animation/EasingInstantiationException-class.html">/sdk-for-flutter-explore-animation-easinginstantiationexception-class</a>. Instantiation error in case of invalid input parameters.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -75,9 +74,9 @@ In order to achieve the same animation precision for animations with different d
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-animation-easing-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../../animation/Easing-class.html">/sdk-for-flutter-explore-animation-easing-class</a></li>
 <li class="self-crumb">Easing.withSampledPoints factory constructor</li>
 </ol>
 <h5>Easing class</h5>
@@ -94,5 +93,4 @@ In order to achieve the same animation precision for animations with different d
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

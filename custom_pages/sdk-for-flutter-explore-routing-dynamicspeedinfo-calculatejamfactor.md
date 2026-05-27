@@ -1,10 +1,9 @@
 ---
-title: "calculateJamFactor method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-dynamicspeedinfo-calculatejamfactor"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- calculateJamFactor.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-dynamicspeedinfo-calculatejamfactor"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-dynamicspeedinfo-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/DynamicSpeedInfo-class.html">/sdk-for-flutter-explore-routing-dynamicspeedinfo-class</a></li>
 <li class="self-crumb">calculateJamFactor method</li>
 </ol>
 <div class="self-name">calculateJamFactor</div>
@@ -62,9 +61,9 @@ Specifically, 0.0 means free traffic and 10.0 means stationary traffic.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-dynamicspeedinfo-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/DynamicSpeedInfo-class.html">/sdk-for-flutter-explore-routing-dynamicspeedinfo-class</a></li>
 <li class="self-crumb">calculateJamFactor method</li>
 </ol>
 <h5>DynamicSpeedInfo class</h5>
@@ -81,5 +80,4 @@ Specifically, 0.0 means free traffic and 10.0 means stationary traffic.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

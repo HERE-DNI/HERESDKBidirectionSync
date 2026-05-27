@@ -1,10 +1,9 @@
 ---
-title: "noThroughRestrictionsIndexes property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-span-nothroughrestrictionsindexes"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- noThroughRestrictionsIndexes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-span-nothroughrestrictionsindexes"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-span-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Span-class.html">/sdk-for-flutter-explore-routing-span-class</a></li>
 <li class="self-crumb">noThroughRestrictionsIndexes property</li>
 </ol>
 <div class="self-name">noThroughRestrictionsIndexes</div>
@@ -43,11 +42,11 @@ List&lt;<wbr/>int&gt;
 noThroughRestrictionsIndexes
 </section>
 <section class="desc markdown">
-<p>The list of indexes to /sdk-for-flutter-explore-routing-section-nothroughrestrictions the parent section owns.
+<p>The list of indexes to <a href="../../routing/Section/noThroughRestrictions.html">/sdk-for-flutter-explore-routing-section-nothroughrestrictions</a> the parent section owns.
 In case the list is not empty, the user must judge all the indexed sdk routing noThroughRestriction's
 carefully before proceeding.
-Get the list of indexes to /sdk-for-flutter-explore-routing-section-nothroughrestrictions the parent section owns.
-In case the list is not empty, the user must judge all the indexed /sdk-for-flutter-explore-routing-section-nothroughrestrictions's
+Get the list of indexes to <a href="../../routing/Section/noThroughRestrictions.html">/sdk-for-flutter-explore-routing-section-nothroughrestrictions</a> the parent section owns.
+In case the list is not empty, the user must judge all the indexed <a href="../../routing/Section/noThroughRestrictions.html">/sdk-for-flutter-explore-routing-section-nothroughrestrictions</a>'s
 carefully before proceeding.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -63,9 +62,9 @@ carefully before proceeding.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-span-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Span-class.html">/sdk-for-flutter-explore-routing-span-class</a></li>
 <li class="self-crumb">noThroughRestrictionsIndexes property</li>
 </ol>
 <h5>Span class</h5>
@@ -82,5 +81,4 @@ carefully before proceeding.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

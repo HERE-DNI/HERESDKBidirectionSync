@@ -1,10 +1,9 @@
 ---
-title: "EVChargingConnectorReference constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evchargingconnectorreference-evchargingconnectorreference"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVChargingConnectorReference.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evchargingconnectorreference-evchargingcon
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingconnectorreference-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingConnectorReference-class.html">/sdk-for-flutter-explore-search-evchargingconnectorreference-class</a></li>
 <li class="self-crumb">EVChargingConnectorReference constructor</li>
 </ol>
 <div class="self-name">EVChargingConnectorReference</div>
@@ -53,9 +52,9 @@ EVChargingConnectorReference(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingconnectorreference-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingConnectorReference-class.html">/sdk-for-flutter-explore-search-evchargingconnectorreference-class</a></li>
 <li class="self-crumb">EVChargingConnectorReference constructor</li>
 </ol>
 <h5>EVChargingConnectorReference class</h5>
@@ -72,5 +71,4 @@ EVChargingConnectorReference(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

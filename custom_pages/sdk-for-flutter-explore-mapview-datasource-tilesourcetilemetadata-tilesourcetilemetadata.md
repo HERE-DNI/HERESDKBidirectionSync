@@ -1,10 +1,9 @@
 ---
-title: "TileSourceTileMetadata constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-tilesourcetilemetadata"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TileSourceTileMetadata.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-tilesou
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/TileSourceTileMetadata-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class</a></li>
 <li class="self-crumb">TileSourceTileMetadata constructor</li>
 </ol>
 <div class="self-name">TileSourceTileMetadata</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>TileSourceTileMetadata constructor</h1></div>
 <section class="multi-line-signature">
-TileSourceTileMetadata(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class dataVersion, </li>
+TileSourceTileMetadata(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/TileSourceDataVersion-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class</a> dataVersion, </li>
 <li>DateTime dataExpiryTimestamp</li>
 </ol>)
     </section>
@@ -61,9 +60,9 @@ TileSourceTileMetadata(<wbr/><ol class="parameter-list single-line"> <li>/sdk-fo
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/TileSourceTileMetadata-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcetilemetadata-class</a></li>
 <li class="self-crumb">TileSourceTileMetadata constructor</li>
 </ol>
 <h5>TileSourceTileMetadata class</h5>
@@ -80,5 +79,4 @@ TileSourceTileMetadata(<wbr/><ol class="parameter-list single-line"> <li>/sdk-fo
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

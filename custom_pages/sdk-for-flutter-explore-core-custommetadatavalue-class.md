@@ -1,10 +1,9 @@
 ---
-title: "CustomMetadataValue class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-custommetadatavalue-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- CustomMetadataValue-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-core-custommetadatavalue-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">CustomMetadataValue class</li>
 </ol>
 <div class="self-name">CustomMetadataValue</div>
@@ -61,7 +60,7 @@ to a map item.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="CustomMetadataValue">
-/sdk-for-flutter-explore-core-custommetadatavalue-custommetadatavalue(String getTagLambda())
+<a href="../core/CustomMetadataValue/CustomMetadataValue.html">/sdk-for-flutter-explore-core-custommetadatavalue-custommetadatavalue</a>(String getTagLambda())
 </dt>
 <dd>
           Abstract class for storing arbitrary metadata types.
@@ -73,7 +72,7 @@ to a map item.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-core-custommetadatavalue-hashcode
+<a href="../core/CustomMetadataValue/hashCode.html">/sdk-for-flutter-explore-core-custommetadatavalue-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -81,7 +80,7 @@ to a map item.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-custommetadatavalue-runtimetype
+<a href="../core/CustomMetadataValue/runtimeType.html">/sdk-for-flutter-explore-core-custommetadatavalue-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -94,7 +93,7 @@ to a map item.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="getTag">
-/sdk-for-flutter-explore-core-custommetadatavalue-gettag(<wbr/>)
+<a href="../core/CustomMetadataValue/getTag.html">/sdk-for-flutter-explore-core-custommetadatavalue-gettag</a>(<wbr/>)
     → String
 
 </dt>
@@ -104,7 +103,7 @@ to a map item.</p>
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-custommetadatavalue-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/CustomMetadataValue/noSuchMethod.html">/sdk-for-flutter-explore-core-custommetadatavalue-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -113,7 +112,7 @@ to a map item.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-custommetadatavalue-tostring(<wbr/>)
+<a href="../core/CustomMetadataValue/toString.html">/sdk-for-flutter-explore-core-custommetadatavalue-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -127,7 +126,7 @@ to a map item.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-core-custommetadatavalue-operator-equals(<wbr/>Object other)
+<a href="../core/CustomMetadataValue/operator_equals.html">/sdk-for-flutter-explore-core-custommetadatavalue-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -145,8 +144,8 @@ to a map item.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">CustomMetadataValue class</li>
 </ol>
 <h5>core library</h5>
@@ -163,5 +162,4 @@ to a map item.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

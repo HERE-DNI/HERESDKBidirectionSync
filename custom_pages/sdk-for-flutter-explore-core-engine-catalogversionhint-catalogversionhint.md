@@ -3,8 +3,7 @@ title: "CatalogVersionHint constructor"
 slug: "sdk-for-flutter-explore-core-engine-catalogversionhint-catalogversionhint"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- CatalogVersionHint.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-catalogversionhint-catalogversionhint
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-catalogversionhint-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/CatalogVersionHint-class.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-class</a></li>
 <li class="self-crumb">CatalogVersionHint constructor</li>
 </ol>
 <div class="self-name">CatalogVersionHint</div>
@@ -48,9 +47,9 @@ CatalogVersionHint(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-catalogversionhint-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/CatalogVersionHint-class.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-class</a></li>
 <li class="self-crumb">CatalogVersionHint constructor</li>
 </ol>
 <h5>CatalogVersionHint class</h5>
@@ -67,5 +66,4 @@ CatalogVersionHint(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

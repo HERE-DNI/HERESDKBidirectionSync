@@ -1,10 +1,9 @@
 ---
-title: "EnvironmentalImpact class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-environmentalimpact-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EnvironmentalImpact-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-search-environmentalimpact-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EnvironmentalImpact class</li>
 </ol>
 <div class="self-name">EnvironmentalImpact</div>
@@ -61,7 +60,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EnvironmentalImpact">
-/sdk-for-flutter-explore-search-environmentalimpact-environmentalimpact()
+<a href="../search/EnvironmentalImpact/EnvironmentalImpact.html">/sdk-for-flutter-explore-search-environmentalimpact-environmentalimpact</a>()
 </dt>
 <dd>
 </dd>
@@ -71,7 +70,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="amountInGramPerKilowattHours">
-/sdk-for-flutter-explore-search-environmentalimpact-amountingramperkilowatthours
+<a href="../search/EnvironmentalImpact/amountInGramPerKilowattHours.html">/sdk-for-flutter-explore-search-environmentalimpact-amountingramperkilowatthours</a>
 ↔ double
 </dt>
 <dd>
@@ -79,15 +78,15 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="category">
-/sdk-for-flutter-explore-search-environmentalimpact-category
-↔ /sdk-for-flutter-explore-search-environmentalimpactcategory
+<a href="../search/EnvironmentalImpact/category.html">/sdk-for-flutter-explore-search-environmentalimpact-category</a>
+↔ <a href="../search/EnvironmentalImpactCategory.html">/sdk-for-flutter-explore-search-environmentalimpactcategory</a>
 </dt>
 <dd>
   Environmental impact category.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-environmentalimpact-hashcode
+<a href="../search/EnvironmentalImpact/hashCode.html">/sdk-for-flutter-explore-search-environmentalimpact-hashcode</a>
 → int
 </dt>
 <dd>
@@ -95,7 +94,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-environmentalimpact-runtimetype
+<a href="../search/EnvironmentalImpact/runtimeType.html">/sdk-for-flutter-explore-search-environmentalimpact-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -108,7 +107,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-environmentalimpact-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/EnvironmentalImpact/noSuchMethod.html">/sdk-for-flutter-explore-search-environmentalimpact-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -117,7 +116,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-environmentalimpact-tostring(<wbr/>)
+<a href="../search/EnvironmentalImpact/toString.html">/sdk-for-flutter-explore-search-environmentalimpact-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -131,7 +130,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-environmentalimpact-operator-equals(<wbr/>Object other)
+<a href="../search/EnvironmentalImpact/operator_equals.html">/sdk-for-flutter-explore-search-environmentalimpact-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -150,8 +149,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EnvironmentalImpact class</li>
 </ol>
 <h5>search library</h5>
@@ -168,5 +167,4 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

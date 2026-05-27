@@ -1,10 +1,9 @@
 ---
-title: "value property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-animation-geoorientationkeyframe-value"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- value.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-animation-geoorientationkeyframe-value"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-animation-geoorientationkeyframe-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../../animation/GeoOrientationKeyframe-class.html">/sdk-for-flutter-explore-animation-geoorientationkeyframe-class</a></li>
 <li class="self-crumb">value property</li>
 </ol>
 <div class="self-name">value</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>value property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-geoorientation-class
+<a href="../../core/GeoOrientation-class.html">/sdk-for-flutter-explore-core-geoorientation-class</a>
 value
 <div class="features">final</div>
 </section>
@@ -57,9 +56,9 @@ value
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-animation-geoorientationkeyframe-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../../animation/GeoOrientationKeyframe-class.html">/sdk-for-flutter-explore-animation-geoorientationkeyframe-class</a></li>
 <li class="self-crumb">value property</li>
 </ol>
 <h5>GeoOrientationKeyframe class</h5>
@@ -76,5 +75,4 @@ value
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

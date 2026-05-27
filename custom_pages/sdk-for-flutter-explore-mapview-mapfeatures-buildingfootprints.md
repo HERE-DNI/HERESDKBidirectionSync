@@ -1,10 +1,9 @@
 ---
-title: "buildingFootprints property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapfeatures-buildingfootprints"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- buildingFootprints.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapfeatures-buildingfootprints"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapfeatures-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapFeatures-class.html">/sdk-for-flutter-explore-mapview-mapfeatures-class</a></li>
 <li class="self-crumb">buildingFootprints property</li>
 </ol>
 <div class="self-name">buildingFootprints</div>
@@ -45,12 +44,12 @@ menu
 </section>
 <section class="desc markdown">
 <p>The 2D footprint of buildings.</p>
-<p>Supports only one mode: /sdk-for-flutter-explore-mapview-mapfeaturemodes-buildingfootprintsall.</p>
-<p>Not supported for /sdk-for-flutter-explore-mapview-mapscheme, /sdk-for-flutter-explore-mapview-mapscheme,
-/sdk-for-flutter-explore-mapview-mapscheme and all hybrid schemes: /sdk-for-flutter-explore-mapview-mapscheme
-/sdk-for-flutter-explore-mapview-mapscheme, /sdk-for-flutter-explore-mapview-mapscheme
-/sdk-for-flutter-explore-mapview-mapscheme, /sdk-for-flutter-explore-mapview-mapscheme and
-/sdk-for-flutter-explore-mapview-mapscheme.</p>
+<p>Supports only one mode: <a href="../../mapview/MapFeatureModes/buildingFootprintsAll.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-buildingfootprintsall</a>.</p>
+<p>Not supported for <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>, <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>,
+<a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a> and all hybrid schemes: <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>
+<a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>, <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>
+<a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>, <a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a> and
+<a href="../../mapview/MapScheme.html">/sdk-for-flutter-explore-mapview-mapscheme</a>.</p>
 <p>By default, building footprints are enabled on all compatible map schemes.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -65,9 +64,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapfeatures-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapFeatures-class.html">/sdk-for-flutter-explore-mapview-mapfeatures-class</a></li>
 <li class="self-crumb">buildingFootprints property</li>
 </ol>
 <h5>MapFeatures class</h5>
@@ -84,5 +83,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

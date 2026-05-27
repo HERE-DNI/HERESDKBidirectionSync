@@ -1,10 +1,9 @@
 ---
-title: "MapSceneLightsDirection.zero constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapscenelightsdirection-mapscenelightsdirection-zero"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapSceneLightsDirection.zero.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscenelightsdirection-mapscenelightsdir
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscenelightsdirection-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapSceneLightsDirection-class.html">/sdk-for-flutter-explore-mapview-mapscenelightsdirection-class</a></li>
 <li class="self-crumb">MapSceneLightsDirection.zero constructor</li>
 </ol>
 <div class="self-name">MapSceneLightsDirection.zero</div>
@@ -56,9 +55,9 @@ MapSceneLightsDirection.zero(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscenelightsdirection-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapSceneLightsDirection-class.html">/sdk-for-flutter-explore-mapview-mapscenelightsdirection-class</a></li>
 <li class="self-crumb">MapSceneLightsDirection.zero constructor</li>
 </ol>
 <h5>MapSceneLightsDirection class</h5>
@@ -75,5 +74,4 @@ MapSceneLightsDirection.zero(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

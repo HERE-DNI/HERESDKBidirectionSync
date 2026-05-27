@@ -1,10 +1,9 @@
 ---
-title: "search abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evsearchinterface-search"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- search.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evsearchinterface-search"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evsearchinterface-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVSearchInterface-class.html">/sdk-for-flutter-explore-search-evsearchinterface-class</a></li>
 <li class="self-crumb">search abstract method</li>
 </ol>
 <div class="self-name">search</div>
@@ -38,16 +37,16 @@ menu
 <div>
 <h1>search abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-threading-taskhandle-class
+<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 search(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>String&gt; ids, </li>
-<li>/sdk-for-flutter-explore-search-evsearchcallback callback</li>
+<li><a href="../../search/EVSearchCallback.html">/sdk-for-flutter-explore-search-evsearchcallback</a> callback</li>
 </ol>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Performs an asynchronous request for /sdk-for-flutter-explore-search-evcharginglocation-class instances with given Place IDs.</p>
+<p>Performs an asynchronous request for <a href="../../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a> instances with given Place IDs.</p>
 <ul>
 <li>
 <p><code>ids</code> List of charging location identifiers.</p>
@@ -56,7 +55,7 @@ search(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>String&gt
 <p><code>callback</code> Callback which receives the result on the main thread.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -70,9 +69,9 @@ search(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>String&gt
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evsearchinterface-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVSearchInterface-class.html">/sdk-for-flutter-explore-search-evsearchinterface-class</a></li>
 <li class="self-crumb">search abstract method</li>
 </ol>
 <h5>EVSearchInterface class</h5>
@@ -89,5 +88,4 @@ search(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>String&gt
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

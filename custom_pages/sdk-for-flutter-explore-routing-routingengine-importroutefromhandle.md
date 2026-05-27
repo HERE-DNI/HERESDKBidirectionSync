@@ -1,10 +1,9 @@
 ---
-title: "importRouteFromHandle abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-routingengine-importroutefromhandle"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- importRouteFromHandle.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-routingengine-importroutefromhandle"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routingengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RoutingEngine-class.html">/sdk-for-flutter-explore-routing-routingengine-class</a></li>
 <li class="self-crumb">importRouteFromHandle abstract method</li>
 </ol>
 <div class="self-name">importRouteFromHandle</div>
@@ -40,22 +39,22 @@ menu
 <section class="multi-line-signature">
 <div>
 <ol class="annotation-list">
-<li>@Deprecated("Will be removed in v4.28.0. Use the <code>import_route()</code> methods with RoutingOptions parameter instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use the `import_route()` methods with RoutingOptions parameter instead.")</li>
 </ol>
 </div>
-/sdk-for-flutter-explore-core-threading-taskhandle-class
-importRouteFromHandle(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-routing-routehandle-class routeHandle, </li>
-<li>/sdk-for-flutter-explore-routing-refreshrouteoptions-class refreshRouteOptions, </li>
-<li>/sdk-for-flutter-explore-routing-calculateroutecallback callback</li>
+<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+importRouteFromHandle(<wbr/><ol class="parameter-list single-line"> <li><a href="../../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a> routeHandle, </li>
+<li><a class="deprecated" href="../../routing/RefreshRouteOptions-class.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-class</a> refreshRouteOptions, </li>
+<li><a href="../../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback</li>
 </ol>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Asynchronously recreates a route from the /sdk-for-flutter-explore-routing-routehandle-class provided, i.e.</p>
+<p>Asynchronously recreates a route from the <a href="../../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a> provided, i.e.</p>
 <p>refreshes a previously
-calculated route, with the specified /sdk-for-flutter-explore-routing-refreshrouteoptions-class.</p>
+calculated route, with the specified <a class="deprecated" href="../../routing/RefreshRouteOptions-class.html">/sdk-for-flutter-explore-routing-refreshrouteoptions-class</a>.</p>
 <p>A route handle can be invalid when the map data changes that is used by the HERE backend to recreate the route. This happens regularly.
 Therefore, the route handle is not meant to be persisted for a longer time. Instead, a possible use case can be to plan a route with another HERE service.
 For example, a HERE REST API that allows to calculate a route on a desktop. Then this route can be transferred via the handle to a mobile device for further use with the HERE SDK.</p>
@@ -72,7 +71,7 @@ For example, a HERE REST API that allows to calculate a route on a desktop. Then
 It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -88,9 +87,9 @@ TaskHandle importRouteFromHandle(RouteHandle routeHandle, RefreshRouteOptions re
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routingengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RoutingEngine-class.html">/sdk-for-flutter-explore-routing-routingengine-class</a></li>
 <li class="self-crumb">importRouteFromHandle abstract method</li>
 </ol>
 <h5>RoutingEngine class</h5>
@@ -107,5 +106,4 @@ TaskHandle importRouteFromHandle(RouteHandle routeHandle, RefreshRouteOptions re
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "speedInMetersPerSecond property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-traffic-trafficflow-speedinmeterspersecond"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- speedInMetersPerSecond.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficflow-speedinmeterspersecond"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficflow-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficFlow-class.html">/sdk-for-flutter-explore-traffic-trafficflow-class</a></li>
 <li class="self-crumb">speedInMetersPerSecond property</li>
 </ol>
 <div class="self-name">speedInMetersPerSecond</div>
@@ -59,9 +58,9 @@ Gets the expected speed in meters per second along the roadway; will not exceed 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficflow-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficFlow-class.html">/sdk-for-flutter-explore-traffic-trafficflow-class</a></li>
 <li class="self-crumb">speedInMetersPerSecond property</li>
 </ol>
 <h5>TrafficFlow class</h5>
@@ -78,5 +77,4 @@ Gets the expected speed in meters per second along the roadway; will not exceed 
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

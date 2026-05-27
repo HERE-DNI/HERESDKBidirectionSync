@@ -1,10 +1,9 @@
 ---
-title: "MaxSpeedOnSegment constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-maxspeedonsegment-maxspeedonsegment"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MaxSpeedOnSegment.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-maxspeedonsegment-maxspeedonsegment"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-maxspeedonsegment-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/MaxSpeedOnSegment-class.html">/sdk-for-flutter-explore-routing-maxspeedonsegment-class</a></li>
 <li class="self-crumb">MaxSpeedOnSegment constructor</li>
 </ol>
 <div class="self-name">MaxSpeedOnSegment</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>MaxSpeedOnSegment constructor</h1></div>
 <section class="multi-line-signature">
-MaxSpeedOnSegment(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-routing-segmentreference-class segment, </li>
+MaxSpeedOnSegment(<wbr/><ol class="parameter-list single-line"> <li><a href="../../routing/SegmentReference-class.html">/sdk-for-flutter-explore-routing-segmentreference-class</a> segment, </li>
 <li>double baseSpeedInMetersPerSecond</li>
 </ol>)
     </section>
@@ -49,7 +48,7 @@ MaxSpeedOnSegment(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flu
 parameters are used, other parameters are ignored. Setting a <code>segmendId</code> is mandatory.</li>
 </ul>
 <p><strong>Note:</strong> The <code>SegmentReference</code> is not directly accessible from the map via the HERE SDK.
-Although, after route calculation you can retrieve the related segments for each /sdk-for-flutter-explore-routing-span-class.
+Although, after route calculation you can retrieve the related segments for each <a href="../../routing/Span-class.html">/sdk-for-flutter-explore-routing-span-class</a>.
 The segment IDs are the same that are also used by, for example, the <a href="https://www.here.com/docs/bundle/routing-api-developer-guide-v8/page/topics/use-cases/avoid-segments.html">Routing REST API</a>.
 These IDs are mostly stable and only change when the underlying map data changes
 due to a new road or similar changes in the real world.</p>
@@ -70,9 +69,9 @@ Cannot increase base speed on segment. If the value is greater than the default 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-maxspeedonsegment-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/MaxSpeedOnSegment-class.html">/sdk-for-flutter-explore-routing-maxspeedonsegment-class</a></li>
 <li class="self-crumb">MaxSpeedOnSegment constructor</li>
 </ol>
 <h5>MaxSpeedOnSegment class</h5>
@@ -89,5 +88,4 @@ Cannot increase base speed on segment. If the value is greater than the default 
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

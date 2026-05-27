@@ -1,10 +1,9 @@
 ---
-title: "enableFeatures abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapscene-enablefeatures"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- enableFeatures.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscene-enablefeatures"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
 <li class="self-crumb">enableFeatures abstract method</li>
 </ol>
 <div class="self-name">enableFeatures</div>
@@ -48,16 +47,16 @@ enableFeatures(<wbr/><ol class="parameter-list single-line"> <li>Map&lt;<wbr/>St
 <section class="desc markdown">
 <p>Enables specified map features.</p>
 <p>Those will become active
-after next map redraw, meaning that /sdk-for-flutter-explore-mapview-mapscene-getactivefeatures will
+after next map redraw, meaning that <a href="../../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-getactivefeatures</a> will
 return updated list of active features only after the redraw happens.</p>
 <p>Does not affect features that were not specified.
 Unsupported features are ignored.</p>
 <p>May cause the current map configuration to be reloaded.</p>
-<p>See /sdk-for-flutter-explore-mapview-mapfeatures-class for feature names and /sdk-for-flutter-explore-mapview-mapfeaturemodes-class for
+<p>See <a href="../../mapview/MapFeatures-class.html">/sdk-for-flutter-explore-mapview-mapfeatures-class</a> for feature names and <a href="../../mapview/MapFeatureModes-class.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-class</a> for
 feature mode names.</p>
 <ul>
 <li><code>features</code> The list of features to enable, key is the name of the feature
-(see /sdk-for-flutter-explore-mapview-mapfeatures-class), value specifies its mode (see /sdk-for-flutter-explore-mapview-mapfeaturemodes-class).</li>
+(see <a href="../../mapview/MapFeatures-class.html">/sdk-for-flutter-explore-mapview-mapfeatures-class</a>), value specifies its mode (see <a href="../../mapview/MapFeatureModes-class.html">/sdk-for-flutter-explore-mapview-mapfeaturemodes-class</a>).</li>
 </ul>
 </section>
 <section class="summary source-code" id="source">
@@ -72,9 +71,9 @@ feature mode names.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
 <li class="self-crumb">enableFeatures abstract method</li>
 </ol>
 <h5>MapScene class</h5>
@@ -91,5 +90,4 @@ feature mode names.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

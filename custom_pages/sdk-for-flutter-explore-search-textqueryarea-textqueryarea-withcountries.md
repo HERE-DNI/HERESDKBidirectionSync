@@ -1,10 +1,9 @@
 ---
-title: "TextQueryArea.withCountries constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcountries"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TextQueryArea.withCountries.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcountries"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-textqueryarea-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/TextQueryArea-class.html">/sdk-for-flutter-explore-search-textqueryarea-class</a></li>
 <li class="self-crumb">TextQueryArea.withCountries factory constructor</li>
 </ol>
 <div class="self-name">TextQueryArea.withCountries</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>TextQueryArea.withCountries constructor</h1></div>
 <section class="multi-line-signature">
-TextQueryArea.withCountries(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-core-countrycode&gt; countries, </li>
-<li>/sdk-for-flutter-explore-core-geocoordinates-class areaCenter</li>
+TextQueryArea.withCountries(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../core/CountryCode.html">/sdk-for-flutter-explore-core-countrycode</a>&gt; countries, </li>
+<li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> areaCenter</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -66,9 +65,9 @@ TextQueryArea.withCountries(<wbr/><ol class="parameter-list single-line"> <li>Li
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-textqueryarea-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/TextQueryArea-class.html">/sdk-for-flutter-explore-search-textqueryarea-class</a></li>
 <li class="self-crumb">TextQueryArea.withCountries factory constructor</li>
 </ol>
 <h5>TextQueryArea class</h5>
@@ -85,5 +84,4 @@ TextQueryArea.withCountries(<wbr/><ol class="parameter-list single-line"> <li>Li
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

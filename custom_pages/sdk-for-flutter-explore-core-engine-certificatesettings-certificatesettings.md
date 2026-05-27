@@ -1,10 +1,9 @@
 ---
-title: "CertificateSettings constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-certificatesettings-certificatesettings"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- CertificateSettings.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-certificatesettings-certificatesettin
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-certificatesettings-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/CertificateSettings-class.html">/sdk-for-flutter-explore-core-engine-certificatesettings-class</a></li>
 <li class="self-crumb">CertificateSettings constructor</li>
 </ol>
 <div class="self-name">CertificateSettings</div>
@@ -55,9 +54,9 @@ CertificateSettings(<wbr/><ol class="parameter-list single-line"> <li>String cli
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-certificatesettings-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/CertificateSettings-class.html">/sdk-for-flutter-explore-core-engine-certificatesettings-class</a></li>
 <li class="self-crumb">CertificateSettings constructor</li>
 </ol>
 <h5>CertificateSettings class</h5>
@@ -74,5 +73,4 @@ CertificateSettings(<wbr/><ol class="parameter-list single-line"> <li>String cli
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

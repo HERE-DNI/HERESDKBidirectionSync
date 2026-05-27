@@ -1,10 +1,9 @@
 ---
-title: "withTokenProvider static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-authenticationmode-withtokenprovider"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withTokenProvider.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-authenticationmode-withtokenprovider"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-authenticationmode-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a></li>
 <li class="self-crumb">withTokenProvider static method</li>
 </ol>
 <div class="self-name">withTokenProvider</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>withTokenProvider static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-engine-authenticationmode-class
-withTokenProvider(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-engine-authenticationmodeaccesstokenprovider tokenProvider</li>
+<a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a>
+withTokenProvider(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.engine/AuthenticationModeAccessTokenProvider.html">/sdk-for-flutter-explore-core-engine-authenticationmodeaccesstokenprovider</a> tokenProvider</li>
 </ol>)
 
       
@@ -50,7 +49,7 @@ withTokenProvider(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flu
 <ul>
 <li><code>tokenProvider</code> Access token provider</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-engine-authenticationmode-class. Instance of /sdk-for-flutter-explore-core-engine-authenticationmode-class configured to use token provider</p>
+<p>Returns <a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a>. Instance of <a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a> configured to use token provider</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +63,9 @@ withTokenProvider(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-authenticationmode-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a></li>
 <li class="self-crumb">withTokenProvider static method</li>
 </ol>
 <h5>AuthenticationMode class</h5>
@@ -83,5 +82,4 @@ withTokenProvider(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

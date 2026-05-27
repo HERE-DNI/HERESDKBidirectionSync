@@ -1,10 +1,9 @@
 ---
-title: "getCustomValue abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-metadata-getcustomvalue"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- getCustomValue.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-metadata-getcustomvalue"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-metadata-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a></li>
 <li class="self-crumb">getCustomValue abstract method</li>
 </ol>
 <div class="self-name">getCustomValue</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>getCustomValue abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-custommetadatavalue-class?
+<a href="../../core/CustomMetadataValue-class.html">/sdk-for-flutter-explore-core-custommetadatavalue-class</a>?
 getCustomValue(<wbr/><ol class="parameter-list single-line"> <li>String key</li>
 </ol>)
 
@@ -50,7 +49,7 @@ getCustomValue(<wbr/><ol class="parameter-list single-line"> <li>String key</li>
 <ul>
 <li><code>key</code> The name of the key for which to obtain the value.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-custommetadatavalue-class. The value associated with the key.</p>
+<p>Returns <a href="../../core/CustomMetadataValue-class.html">/sdk-for-flutter-explore-core-custommetadatavalue-class</a>. The value associated with the key.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +63,9 @@ getCustomValue(<wbr/><ol class="parameter-list single-line"> <li>String key</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-metadata-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a></li>
 <li class="self-crumb">getCustomValue abstract method</li>
 </ol>
 <h5>Metadata class</h5>
@@ -83,5 +82,4 @@ getCustomValue(<wbr/><ol class="parameter-list single-line"> <li>String key</li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

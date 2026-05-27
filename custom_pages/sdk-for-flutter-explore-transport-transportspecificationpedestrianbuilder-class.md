@@ -1,10 +1,9 @@
 ---
-title: "TransportSpecificationPedestrianBuilder class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TransportSpecificationPedestrianBuilder-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
 <li class="self-crumb">TransportSpecificationPedestrianBuilder class</li>
 </ol>
 <div class="self-name">TransportSpecificationPedestrianBuilder</div>
@@ -52,13 +51,13 @@ menu
 <div>
 <h1>TransportSpecificationPedestrianBuilder class abstract</h1></div>
 <section class="desc markdown">
-<p>This class constructs a /sdk-for-flutter-explore-transport-transportspecification-class for pedestrian.</p>
+<p>This class constructs a <a href="../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a> for pedestrian.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TransportSpecificationPedestrianBuilder">
-/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-transportspecificationpedestrianbuilder()
+<a href="../transport/TransportSpecificationPedestrianBuilder/TransportSpecificationPedestrianBuilder.html">/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-transportspecificationpedestrianbuilder</a>()
 </dt>
 <dd>
           Creates a new instance of this class.
@@ -70,7 +69,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-hashcode
+<a href="../transport/TransportSpecificationPedestrianBuilder/hashCode.html">/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -78,7 +77,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-runtimetype
+<a href="../transport/TransportSpecificationPedestrianBuilder/runtimeType.html">/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -91,18 +90,17 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="build">
-/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-build(<wbr/>)
-    → /sdk-for-flutter-explore-transport-transportspecification-class
-
+<a href="../transport/TransportSpecificationPedestrianBuilder/build.html">/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-build</a>(<wbr/>)
+    → <a href="../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a>
 </dt>
 <dd>
-  Builds the /sdk-for-flutter-explore-transport-transportspecification-class object for a pedestrian profile with the specifications taken
-from the /sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class object.
+  Builds the <a href="../transport/TransportSpecification-class.html">/sdk-for-flutter-explore-transport-transportspecification-class</a> object for a pedestrian profile with the specifications taken
+from the <a href="../transport/TransportSpecificationPedestrianBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class</a> object.
   
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../transport/TransportSpecificationPedestrianBuilder/noSuchMethod.html">/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -111,7 +109,7 @@ from the /sdk-for-flutter-explore-transport-transportspecificationpedestrianbuil
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-tostring(<wbr/>)
+<a href="../transport/TransportSpecificationPedestrianBuilder/toString.html">/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -120,9 +118,8 @@ from the /sdk-for-flutter-explore-transport-transportspecificationpedestrianbuil
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="withPedestrianSpecification">
-/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-withpedestrianspecification(<wbr/>/sdk-for-flutter-explore-transport-pedestrianspecification-class pedestrianSpecification)
-    → /sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class
-
+<a href="../transport/TransportSpecificationPedestrianBuilder/withPedestrianSpecification.html">/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-withpedestrianspecification</a>(<wbr/><a href="../transport/PedestrianSpecification-class.html">/sdk-for-flutter-explore-transport-pedestrianspecification-class</a> pedestrianSpecification)
+    → <a href="../transport/TransportSpecificationPedestrianBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-class</a>
 </dt>
 <dd>
   Sets the pedestrian specification.
@@ -135,7 +132,7 @@ from the /sdk-for-flutter-explore-transport-transportspecificationpedestrianbuil
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-operator-equals(<wbr/>Object other)
+<a href="../transport/TransportSpecificationPedestrianBuilder/operator_equals.html">/sdk-for-flutter-explore-transport-transportspecificationpedestrianbuilder-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -153,8 +150,8 @@ from the /sdk-for-flutter-explore-transport-transportspecificationpedestrianbuil
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
 <li class="self-crumb">TransportSpecificationPedestrianBuilder class</li>
 </ol>
 <h5>transport library</h5>
@@ -171,5 +168,4 @@ from the /sdk-for-flutter-explore-transport-transportspecificationpedestrianbuil
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

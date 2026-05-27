@@ -1,10 +1,9 @@
 ---
-title: "sections property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-route-sections"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- sections.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-route-sections"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-route-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a></li>
 <li class="self-crumb">sections property</li>
 </ol>
 <div class="self-name">sections</div>
@@ -39,7 +38,7 @@ menu
 <h1>sections property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-List&lt;<wbr/>/sdk-for-flutter-explore-routing-section-class&gt;
+List&lt;<wbr/><a href="../../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a>&gt;
 sections
 </section>
 <section class="desc markdown">
@@ -59,9 +58,9 @@ Gets the sections that make up this route.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-route-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a></li>
 <li class="self-crumb">sections property</li>
 </ol>
 <h5>Route class</h5>
@@ -78,5 +77,4 @@ Gets the sections that make up this route.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

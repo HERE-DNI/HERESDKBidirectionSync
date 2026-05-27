@@ -1,10 +1,9 @@
 ---
-title: "sharedInstance property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-sharedinstance"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- sharedInstance.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-sharedinstance"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
 <li class="self-crumb">sharedInstance property</li>
 </ol>
 <div class="self-name">sharedInstance</div>
@@ -39,7 +38,7 @@ menu
 <h1>sharedInstance property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-engine-sdknativeengine-class?
+<a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a>?
 sharedInstance
 </section>
 <section class="desc markdown">
@@ -57,7 +56,7 @@ engine.</p>
 <section id="setter">
 <section class="multi-line-signature">
 void
-sharedInstance=(<wbr/>/sdk-for-flutter-explore-core-engine-sdknativeengine-class? value)
+sharedInstance=(<wbr/><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a>? value)
 </section>
 <section class="desc markdown">
 <p>Shared instance of this SDK engine that can be accessed by any HERE SDK module as the default
@@ -79,9 +78,9 @@ engine.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
 <li class="self-crumb">sharedInstance property</li>
 </ol>
 <h5>SDKNativeEngine class</h5>
@@ -98,5 +97,4 @@ engine.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

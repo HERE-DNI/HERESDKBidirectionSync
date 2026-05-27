@@ -1,10 +1,9 @@
 ---
-title: "MapIdleListener class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mapidlelistener-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapIdleListener-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-mapview-mapidlelistener-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapIdleListener class</li>
 </ol>
 <div class="self-name">MapIdleListener</div>
@@ -62,7 +61,7 @@ redraws are necessary.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapIdleListener">
-/sdk-for-flutter-explore-mapview-mapidlelistener-mapidlelistener(void onMapBusyLambda(), void onMapIdleLambda())
+<a href="../mapview/MapIdleListener/MapIdleListener.html">/sdk-for-flutter-explore-mapview-mapidlelistener-mapidlelistener</a>(void onMapBusyLambda(), void onMapIdleLambda())
 </dt>
 <dd>
           Used to detect when the map becomes idle or busy.
@@ -74,7 +73,7 @@ redraws are necessary.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-mapidlelistener-hashcode
+<a href="../mapview/MapIdleListener/hashCode.html">/sdk-for-flutter-explore-mapview-mapidlelistener-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -82,7 +81,7 @@ redraws are necessary.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mapidlelistener-runtimetype
+<a href="../mapview/MapIdleListener/runtimeType.html">/sdk-for-flutter-explore-mapview-mapidlelistener-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -95,7 +94,7 @@ redraws are necessary.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mapidlelistener-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapIdleListener/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapidlelistener-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -104,7 +103,7 @@ redraws are necessary.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="onMapBusy">
-/sdk-for-flutter-explore-mapview-mapidlelistener-onmapbusy(<wbr/>)
+<a href="../mapview/MapIdleListener/onMapBusy.html">/sdk-for-flutter-explore-mapview-mapidlelistener-onmapbusy</a>(<wbr/>)
     → void
 
 </dt>
@@ -114,7 +113,7 @@ redraws are necessary.</p>
 
 </dd>
 <dt class="callable" id="onMapIdle">
-/sdk-for-flutter-explore-mapview-mapidlelistener-onmapidle(<wbr/>)
+<a href="../mapview/MapIdleListener/onMapIdle.html">/sdk-for-flutter-explore-mapview-mapidlelistener-onmapidle</a>(<wbr/>)
     → void
 
 </dt>
@@ -124,7 +123,7 @@ redraws are necessary.</p>
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mapidlelistener-tostring(<wbr/>)
+<a href="../mapview/MapIdleListener/toString.html">/sdk-for-flutter-explore-mapview-mapidlelistener-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -138,7 +137,7 @@ redraws are necessary.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-mapidlelistener-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapIdleListener/operator_equals.html">/sdk-for-flutter-explore-mapview-mapidlelistener-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -156,8 +155,8 @@ redraws are necessary.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapIdleListener class</li>
 </ol>
 <h5>mapview library</h5>
@@ -174,5 +173,4 @@ redraws are necessary.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

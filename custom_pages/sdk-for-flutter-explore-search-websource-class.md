@@ -1,10 +1,9 @@
 ---
-title: "WebSource class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-websource-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- WebSource-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-search-websource-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">WebSource class</li>
 </ol>
 <div class="self-name">WebSource</div>
@@ -60,13 +59,13 @@ and a direct link to the item.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="WebSource">
-/sdk-for-flutter-explore-search-websource-websource(String href, String supplierId)
+<a href="../search/WebSource/WebSource.html">/sdk-for-flutter-explore-search-websource-websource</a>(String href, String supplierId)
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="WebSource.withDefaults">
-/sdk-for-flutter-explore-search-websource-websource-withdefaults()
+<a href="../search/WebSource/WebSource.withDefaults.html">/sdk-for-flutter-explore-search-websource-websource-withdefaults</a>()
 </dt>
 <dd>
           Creates a new instance.
@@ -77,7 +76,7 @@ and a direct link to the item.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-websource-hashcode
+<a href="../search/WebSource/hashCode.html">/sdk-for-flutter-explore-search-websource-hashcode</a>
 → int
 </dt>
 <dd>
@@ -85,7 +84,7 @@ and a direct link to the item.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="href">
-/sdk-for-flutter-explore-search-websource-href
+<a href="../search/WebSource/href.html">/sdk-for-flutter-explore-search-websource-href</a>
 ↔ String
 </dt>
 <dd>
@@ -93,7 +92,7 @@ and a direct link to the item.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-websource-runtimetype
+<a href="../search/WebSource/runtimeType.html">/sdk-for-flutter-explore-search-websource-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -101,7 +100,7 @@ and a direct link to the item.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="supplierId">
-/sdk-for-flutter-explore-search-websource-supplierid
+<a href="../search/WebSource/supplierId.html">/sdk-for-flutter-explore-search-websource-supplierid</a>
 ↔ String
 </dt>
 <dd>
@@ -114,7 +113,7 @@ and a direct link to the item.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-websource-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/WebSource/noSuchMethod.html">/sdk-for-flutter-explore-search-websource-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -123,7 +122,7 @@ and a direct link to the item.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-websource-tostring(<wbr/>)
+<a href="../search/WebSource/toString.html">/sdk-for-flutter-explore-search-websource-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -137,7 +136,7 @@ and a direct link to the item.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-websource-operator-equals(<wbr/>Object other)
+<a href="../search/WebSource/operator_equals.html">/sdk-for-flutter-explore-search-websource-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -156,8 +155,8 @@ and a direct link to the item.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">WebSource class</li>
 </ol>
 <h5>search library</h5>
@@ -174,5 +173,4 @@ and a direct link to the item.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

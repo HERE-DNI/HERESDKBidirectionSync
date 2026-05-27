@@ -1,10 +1,9 @@
 ---
-title: "MapContextSetMemoryManagementOptionsCallback typedef"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapcontextsetmemorymanagementoptionscallback"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapContextSetMemoryManagementOptionsCallback.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,8 +11,8 @@ slug: "sdk-for-flutter-explore-mapview-mapcontextsetmemorymanagementoptionscallb
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapContextSetMemoryManagementOptionsCallback typedef</li>
 </ol>
 <div class="self-name">MapContextSetMemoryManagementOptionsCallback</div>
@@ -38,7 +37,7 @@ menu
 <h1>MapContextSetMemoryManagementOptionsCallback typedef</h1></div>
 <section class="multi-line-signature">
 MapContextSetMemoryManagementOptionsCallback =
-     void Function(/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementresult-class result)
+     void Function(<a href="../mapview/MapContextMemoryManagementResult-class.html">/sdk-for-flutter-explore-mapview-mapcontextmemorymanagementresult-class</a> result)
 </section>
 <section class="desc markdown">
 <p>Callback to handle the memory management result.</p>
@@ -60,8 +59,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapContextSetMemoryManagementOptionsCallback typedef</li>
 </ol>
 <h5>mapview library</h5>
@@ -78,5 +77,4 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

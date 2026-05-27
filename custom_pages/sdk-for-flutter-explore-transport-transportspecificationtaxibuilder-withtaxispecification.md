@@ -1,10 +1,9 @@
 ---
-title: "withTaxiSpecification abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-withtaxispecification"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withTaxiSpecification.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-witht
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/TransportSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-class</a></li>
 <li class="self-crumb">withTaxiSpecification abstract method</li>
 </ol>
 <div class="self-name">withTaxiSpecification</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>withTaxiSpecification abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-class
-withTaxiSpecification(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-transport-taxispecification-class taxiSpecification</li>
+<a href="../../transport/TransportSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-class</a>
+withTaxiSpecification(<wbr/><ol class="parameter-list single-line"> <li><a href="../../transport/TaxiSpecification-class.html">/sdk-for-flutter-explore-transport-taxispecification-class</a> taxiSpecification</li>
 </ol>)
 
       
@@ -50,7 +49,7 @@ withTaxiSpecification(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for
 <ul>
 <li><code>taxiSpecification</code> The taxi specification.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-class. The /sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-class object with the taxi specification set to the new value.</p>
+<p>Returns <a href="../../transport/TransportSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-class</a>. The <a href="../../transport/TransportSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-class</a> object with the taxi specification set to the new value.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +63,9 @@ withTaxiSpecification(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/TransportSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-transportspecificationtaxibuilder-class</a></li>
 <li class="self-crumb">withTaxiSpecification abstract method</li>
 </ol>
 <h5>TransportSpecificationTaxiBuilder class</h5>
@@ -83,5 +82,4 @@ withTaxiSpecification(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

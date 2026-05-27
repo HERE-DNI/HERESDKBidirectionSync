@@ -1,10 +1,9 @@
 ---
-title: "PlaceIdQuery class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-placeidquery-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PlaceIdQuery-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-search-placeidquery-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">PlaceIdQuery class</li>
 </ol>
 <div class="self-name">PlaceIdQuery</div>
@@ -67,7 +66,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PlaceIdQuery">
-/sdk-for-flutter-explore-search-placeidquery-placeidquery(String id)
+<a href="../search/PlaceIdQuery/PlaceIdQuery.html">/sdk-for-flutter-explore-search-placeidquery-placeidquery</a>(String id)
 </dt>
 <dd>
           Constructs a PlaceIdQuery from the provided Place id.
@@ -79,7 +78,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-placeidquery-hashcode
+<a href="../search/PlaceIdQuery/hashCode.html">/sdk-for-flutter-explore-search-placeidquery-hashcode</a>
 → int
 </dt>
 <dd>
@@ -87,7 +86,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="id">
-/sdk-for-flutter-explore-search-placeidquery-id
+<a href="../search/PlaceIdQuery/id.html">/sdk-for-flutter-explore-search-placeidquery-id</a>
 → String
 </dt>
 <dd>
@@ -95,7 +94,7 @@ menu
   <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-placeidquery-runtimetype
+<a href="../search/PlaceIdQuery/runtimeType.html">/sdk-for-flutter-explore-search-placeidquery-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -108,7 +107,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-placeidquery-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/PlaceIdQuery/noSuchMethod.html">/sdk-for-flutter-explore-search-placeidquery-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -117,7 +116,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-placeidquery-tostring(<wbr/>)
+<a href="../search/PlaceIdQuery/toString.html">/sdk-for-flutter-explore-search-placeidquery-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -131,7 +130,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-placeidquery-operator-equals(<wbr/>Object other)
+<a href="../search/PlaceIdQuery/operator_equals.html">/sdk-for-flutter-explore-search-placeidquery-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -150,8 +149,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">PlaceIdQuery class</li>
 </ol>
 <h5>search library</h5>
@@ -168,5 +167,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "ScooterSpecification class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-transport-scooterspecification-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- ScooterSpecification-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-transport-scooterspecification-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
 <li class="self-crumb">ScooterSpecification class</li>
 </ol>
 <div class="self-name">ScooterSpecification</div>
@@ -57,7 +56,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="ScooterSpecification">
-/sdk-for-flutter-explore-transport-scooterspecification-scooterspecification()
+<a href="../transport/ScooterSpecification/ScooterSpecification.html">/sdk-for-flutter-explore-transport-scooterspecification-scooterspecification</a>()
 </dt>
 <dd>
 </dd>
@@ -67,7 +66,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="allowScooterOnHighway">
-/sdk-for-flutter-explore-transport-scooterspecification-allowscooteronhighway
+<a href="../transport/ScooterSpecification/allowScooterOnHighway.html">/sdk-for-flutter-explore-transport-scooterspecification-allowscooteronhighway</a>
 ↔ bool
 </dt>
 <dd>
@@ -85,7 +84,7 @@ A few examples:
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-transport-scooterspecification-hashcode
+<a href="../transport/ScooterSpecification/hashCode.html">/sdk-for-flutter-explore-transport-scooterspecification-hashcode</a>
 → int
 </dt>
 <dd>
@@ -93,7 +92,7 @@ A few examples:
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-transport-scooterspecification-runtimetype
+<a href="../transport/ScooterSpecification/runtimeType.html">/sdk-for-flutter-explore-transport-scooterspecification-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -106,7 +105,7 @@ A few examples:
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-transport-scooterspecification-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../transport/ScooterSpecification/noSuchMethod.html">/sdk-for-flutter-explore-transport-scooterspecification-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -115,7 +114,7 @@ A few examples:
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-transport-scooterspecification-tostring(<wbr/>)
+<a href="../transport/ScooterSpecification/toString.html">/sdk-for-flutter-explore-transport-scooterspecification-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -129,7 +128,7 @@ A few examples:
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-transport-scooterspecification-operator-equals(<wbr/>Object other)
+<a href="../transport/ScooterSpecification/operator_equals.html">/sdk-for-flutter-explore-transport-scooterspecification-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -148,8 +147,8 @@ A few examples:
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
 <li class="self-crumb">ScooterSpecification class</li>
 </ol>
 <h5>transport library</h5>
@@ -166,5 +165,4 @@ A few examples:
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

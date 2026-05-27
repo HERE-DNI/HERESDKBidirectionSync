@@ -1,10 +1,9 @@
 ---
-title: "returnToRouteWithTraveledDistance abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-routinginterface-returntoroutewithtraveleddistance"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- returnToRouteWithTraveledDistance.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-routinginterface-returntoroutewithtravele
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routinginterface-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RoutingInterface-class.html">/sdk-for-flutter-explore-routing-routinginterface-class</a></li>
 <li class="self-crumb">returnToRouteWithTraveledDistance abstract method</li>
 </ol>
 <div class="self-name">returnToRouteWithTraveledDistance</div>
@@ -38,12 +37,12 @@ menu
 <div>
 <h1>returnToRouteWithTraveledDistance abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-threading-taskhandle-class
-returnToRouteWithTraveledDistance(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-routing-route-class route, </li>
-<li>/sdk-for-flutter-explore-routing-waypoint-class startingPoint, </li>
+<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+returnToRouteWithTraveledDistance(<wbr/><ol class="parameter-list"> <li><a href="../../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a> route, </li>
+<li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a> startingPoint, </li>
 <li>int lastTraveledSectionIndex, </li>
 <li>int traveledDistanceOnLastSectionInMeters, </li>
-<li>/sdk-for-flutter-explore-routing-calculateroutecallback callback, </li>
+<li><a href="../../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback, </li>
 </ol>)
 
       
@@ -56,8 +55,8 @@ the original route which was already traveled by the user is ignored.</p>
 <p><strong>Note:</strong> Stopover waypoints are guaranteed to be visited. Pass-through waypoints will
 be ignored.
 Additionally, the following route options are ignored:
-/sdk-for-flutter-explore-routing-routeoptions-alternatives, /sdk-for-flutter-explore-routing-routeoptions-arrivaltime, and
-/sdk-for-flutter-explore-routing-routeoptions-optimizationmode.
+<a href="../../routing/RouteOptions/alternatives.html">/sdk-for-flutter-explore-routing-routeoptions-alternatives</a>, <a href="../../routing/RouteOptions/arrivalTime.html">/sdk-for-flutter-explore-routing-routeoptions-arrivaltime</a>, and
+<a href="../../routing/RouteOptions/optimizationMode.html">/sdk-for-flutter-explore-routing-routeoptions-optimizationmode</a>.
 Most route options are only applied to the newly calculated part back to the route.</p>
 <p>An application may use this method to submit a new
 starting point for a previously calculated route. This method tries to avoid a costly
@@ -81,13 +80,13 @@ update, regardless if the location has changed or not.
 More information can be found in the Developer Guide in the "Handle route deviations" section.</p>
 <ul>
 <li>
-<p><code>route</code> A /sdk-for-flutter-explore-routing-route-class calculated using the online or offline route engine. For the offline case, It
-should not contain an indoor /sdk-for-flutter-explore-routing-section-class as such routes will fail. For the online case, it
-should have /sdk-for-flutter-explore-routing-routehandle-class.</p>
+<p><code>route</code> A <a href="../../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a> calculated using the online or offline route engine. For the offline case, It
+should not contain an indoor <a href="../../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a> as such routes will fail. For the online case, it
+should have <a href="../../routing/RouteHandle-class.html">/sdk-for-flutter-explore-routing-routehandle-class</a>.</p>
 </li>
 <li>
 <p><code>startingPoint</code> The current location, for example, provided by a <code>RouteDeviation</code> event. The waypoint needs to be of
-type /sdk-for-flutter-explore-routing-waypointtype. Otherwise, an /sdk-for-flutter-explore-routing-routingerror
+type <a href="../../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a>. Otherwise, an <a href="../../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a>
 error is generated.</p>
 </li>
 <li>
@@ -101,7 +100,7 @@ error is generated.</p>
 It is always invoked on the main thread.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -115,9 +114,9 @@ It is always invoked on the main thread.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routinginterface-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RoutingInterface-class.html">/sdk-for-flutter-explore-routing-routinginterface-class</a></li>
 <li class="self-crumb">returnToRouteWithTraveledDistance abstract method</li>
 </ol>
 <h5>RoutingInterface class</h5>
@@ -134,5 +133,4 @@ It is always invoked on the main thread.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

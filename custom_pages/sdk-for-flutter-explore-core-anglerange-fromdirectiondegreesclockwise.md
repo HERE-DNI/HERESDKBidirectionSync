@@ -1,10 +1,9 @@
 ---
-title: "fromDirectionDegreesClockwise static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-anglerange-fromdirectiondegreesclockwise"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- fromDirectionDegreesClockwise.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-anglerange-fromdirectiondegreesclockwise"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-anglerange-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a></li>
 <li class="self-crumb">fromDirectionDegreesClockwise static method</li>
 </ol>
 <div class="self-name">fromDirectionDegreesClockwise</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>fromDirectionDegreesClockwise static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-anglerange-class
+<a href="../../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a>
 fromDirectionDegreesClockwise(<wbr/><ol class="parameter-list single-line"> <li>double center, </li>
 <li>double extent</li>
 </ol>)
@@ -63,7 +62,7 @@ The value will be normalized to [0.0, 360.0).</p>
 The value will be clamped to the range of [0, 360] degrees.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-anglerange-class. Created AngleRange from the provided center angle and the range's extent.</p>
+<p>Returns <a href="../../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a>. Created AngleRange from the provided center angle and the range's extent.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -77,9 +76,9 @@ The value will be clamped to the range of [0, 360] degrees.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-anglerange-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a></li>
 <li class="self-crumb">fromDirectionDegreesClockwise static method</li>
 </ol>
 <h5>AngleRange class</h5>
@@ -96,5 +95,4 @@ The value will be clamped to the range of [0, 360] degrees.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

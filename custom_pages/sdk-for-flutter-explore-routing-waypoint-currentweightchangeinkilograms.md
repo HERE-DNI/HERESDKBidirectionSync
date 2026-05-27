@@ -1,10 +1,9 @@
 ---
-title: "currentWeightChangeInKilograms property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-waypoint-currentweightchangeinkilograms"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- currentWeightChangeInKilograms.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-waypoint-currentweightchangeinkilograms"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-waypoint-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a></li>
 <li class="self-crumb">currentWeightChangeInKilograms property</li>
 </ol>
 <div class="self-name">currentWeightChangeInKilograms</div>
@@ -50,10 +49,10 @@ Changes to the configuration of the vehicle, such as adding a trailer, aren't su
 Relative value in kilograms. Available range: from -40000 to 40000 (inclusive).
 <strong>Note:</strong></p>
 <ul>
-<li>A route request with this parameter requires to set /sdk-for-flutter-explore-transport-vehiclespecification-currentweightinkilograms and
-/sdk-for-flutter-explore-transport-vehiclespecification-grossweightinkilograms.</li>
-<li>This feature is supported in transport modes of /sdk-for-flutter-explore-transport-transportmode, /sdk-for-flutter-explore-transport-transportmode, or
-/sdk-for-flutter-explore-transport-transportmode.</li>
+<li>A route request with this parameter requires to set <a href="../../transport/VehicleSpecification/currentWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-currentweightinkilograms</a> and
+<a href="../../transport/VehicleSpecification/grossWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-grossweightinkilograms</a>.</li>
+<li>This feature is supported in transport modes of <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>, <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>, or
+<a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>.</li>
 </ul>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
@@ -70,9 +69,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-waypoint-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a></li>
 <li class="self-crumb">currentWeightChangeInKilograms property</li>
 </ol>
 <h5>Waypoint class</h5>
@@ -89,5 +88,4 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

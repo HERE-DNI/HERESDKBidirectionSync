@@ -1,10 +1,9 @@
 ---
-title: "withDataSource abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-withdatasource"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withDataSource.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-maplayerbuilder-withdatasource"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-maplayerbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a></li>
 <li class="self-crumb">withDataSource abstract method</li>
 </ol>
 <div class="self-name">withDataSource</div>
@@ -38,9 +37,9 @@ menu
 <div>
 <h1>withDataSource abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-maplayerbuilder-class
+<a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>
 withDataSource(<wbr/><ol class="parameter-list single-line"> <li>String dataSourceName, </li>
-<li>/sdk-for-flutter-explore-mapview-mapcontenttype contentType</li>
+<li><a href="../../mapview/MapContentType.html">/sdk-for-flutter-explore-mapview-mapcontenttype</a> contentType</li>
 </ol>)
 
       
@@ -58,7 +57,7 @@ of data for the layer.</p>
 <p><code>contentType</code> The renderable content type supplied by the data source.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-maplayerbuilder-class. This class instance.</p>
+<p>Returns <a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a>. This class instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -72,9 +71,9 @@ of data for the layer.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-maplayerbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapLayerBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerbuilder-class</a></li>
 <li class="self-crumb">withDataSource abstract method</li>
 </ol>
 <h5>MapLayerBuilder class</h5>
@@ -91,5 +90,4 @@ of data for the layer.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

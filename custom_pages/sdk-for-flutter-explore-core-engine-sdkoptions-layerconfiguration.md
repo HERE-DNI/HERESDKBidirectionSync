@@ -1,10 +1,9 @@
 ---
-title: "layerConfiguration property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- layerConfiguration.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
 <li class="self-crumb">layerConfiguration property</li>
 </ol>
 <div class="self-name">layerConfiguration</div>
@@ -38,32 +37,32 @@ menu
 <div>
 <h1>layerConfiguration property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-engine-layerconfiguration-class
+<a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a>
 layerConfiguration
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>Defines a list of data features that can be enabled / disabled. Once set to /sdk-for-flutter-explore-core-engine-sdkoptions-class when
+<p>Defines a list of data features that can be enabled / disabled. Once set to <a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a> when
 a new HERE SDK is constructed, it will affect the map cache and offline maps.
 When disabling certain features, less data will be prefetched when the map is rendered. Map
 data that was already cached will not be removed until the least recently used strategy (LRU)
 applies. That means you cannot remove any content from the map cache by updating the
-/sdk-for-flutter-explore-core-engine-layerconfiguration-class. However, for new map data, it will be applied.
-For offline maps, this /sdk-for-flutter-explore-core-engine-layerconfiguration-class can reduce the download size of all regions.
-Note that the /sdk-for-flutter-explore-core-engine-layerconfiguration-class is applied globally to all regions that will be downloaded
+<a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a>. However, for new map data, it will be applied.
+For offline maps, this <a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a> can reduce the download size of all regions.
+Note that the <a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a> is applied globally to all regions that will be downloaded
 in the future. It will not affect already downloaded regions. Updating a region will also
-not update the /sdk-for-flutter-explore-core-engine-layerconfiguration-class. Only the /sdk-for-flutter-explore-core-engine-layerconfiguration-class will be used that was set
+not update the <a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a>. Only the <a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a> will be used that was set
 globally when a region was downloaded for the first time. If you want to update the
-/sdk-for-flutter-explore-core-engine-layerconfiguration-class for an already downloaded region, please delete the region and download it again.</p>
+<a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a> for an already downloaded region, please delete the region and download it again.</p>
 <p>Please also note</p>
 <ul>
-<li>The /sdk-for-flutter-explore-core-engine-layerconfiguration-class is only applicable for the HERE SDK (Navigate) that contains the offline maps
+<li>The <a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a> is only applicable for the HERE SDK (Navigate) that contains the offline maps
 feature. It has no effect on other licenses.</li>
-<li>The /sdk-for-flutter-explore-core-engine-layerconfiguration-class cannot be set separately for a region, it will be applied globally
+<li>The <a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a> cannot be set separately for a region, it will be applied globally
 for all regions that will be downloaded in the future.</li>
-<li>It is not possible to specify a separate /sdk-for-flutter-explore-core-engine-layerconfiguration-class for the map cache and offline maps.
-The /sdk-for-flutter-explore-core-engine-layerconfiguration-class will be always applied to both.</li>
-<li>The /sdk-for-flutter-explore-core-engine-layerconfiguration-class does affect the map cache when a device has connectivity. Even
+<li>It is not possible to specify a separate <a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a> for the map cache and offline maps.
+The <a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a> will be always applied to both.</li>
+<li>The <a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a> does affect the map cache when a device has connectivity. Even
 when a device has connectivity it will only download the specified layers.</li>
 <li>This is a beta feature and thus there can be bugs and unexpected behavior.</li>
 </ul>
@@ -80,9 +79,9 @@ when a device has connectivity it will only download the specified layers.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
 <li class="self-crumb">layerConfiguration property</li>
 </ol>
 <h5>SDKOptions class</h5>
@@ -99,5 +98,4 @@ when a device has connectivity it will only download the specified layers.</li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

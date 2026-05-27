@@ -1,10 +1,9 @@
 ---
-title: "getType abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-metadata-gettype"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- getType.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-metadata-gettype"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-metadata-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a></li>
 <li class="self-crumb">getType abstract method</li>
 </ol>
 <div class="self-name">getType</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>getType abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-metadatatype?
+<a href="../../core/MetadataType.html">/sdk-for-flutter-explore-core-metadatatype</a>?
 getType(<wbr/><ol class="parameter-list single-line"> <li>String key</li>
 </ol>)
 
@@ -53,7 +52,7 @@ to call. i.e. getDouble(), getInteger() etc.</p>
 <ul>
 <li><code>key</code> The name of the key for which to obtain the type.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-metadatatype. An enumeration describing the type of the value associated with the key.</p>
+<p>Returns <a href="../../core/MetadataType.html">/sdk-for-flutter-explore-core-metadatatype</a>. An enumeration describing the type of the value associated with the key.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -67,9 +66,9 @@ to call. i.e. getDouble(), getInteger() etc.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-metadata-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a></li>
 <li class="self-crumb">getType abstract method</li>
 </ol>
 <h5>Metadata class</h5>
@@ -86,5 +85,4 @@ to call. i.e. getDouble(), getInteger() etc.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

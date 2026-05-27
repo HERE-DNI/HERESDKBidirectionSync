@@ -1,10 +1,9 @@
 ---
-title: "withStorageLevelOffset static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-withstorageleveloffset"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withStorageLevelOffset.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapLayerMapMeasureDependentStorageLevels-class.html">/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class</a></li>
 <li class="self-crumb">withStorageLevelOffset static method</li>
 </ol>
 <div class="self-name">withStorageLevelOffset</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>withStorageLevelOffset static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class
+<a href="../../mapview/MapLayerMapMeasureDependentStorageLevels-class.html">/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class</a>
 withStorageLevelOffset(<wbr/><ol class="parameter-list single-line"> <li>int offset</li>
 </ol>)
 
@@ -46,7 +45,7 @@ withStorageLevelOffset(<wbr/><ol class="parameter-list single-line"> <li>int off
 
     </section>
 <section class="desc markdown">
-<p>Creates an instance of /sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class with the specified storage level offset.</p>
+<p>Creates an instance of <a href="../../mapview/MapLayerMapMeasureDependentStorageLevels-class.html">/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class</a> with the specified storage level offset.</p>
 <p>This creates a map where the storage level is determined by applying an "offset" to the zoom level.
 A negative offset results in a storage level lower than the zoom level, while a positive offset increases it.
 For example, with an offset of 0, the storage level matches the zoom level directly.
@@ -58,7 +57,7 @@ the storage level is further reduced for data near the horizon.</p>
 <li><code>offset</code> Defines an offset of storage level from the zoom level.
 The value will be clamped to a range of -3 to 3.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class. MapLayerMapMeasureDependentStorageLevels instance.</p>
+<p>Returns <a href="../../mapview/MapLayerMapMeasureDependentStorageLevels-class.html">/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class</a>. MapLayerMapMeasureDependentStorageLevels instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -72,9 +71,9 @@ The value will be clamped to a range of -3 to 3.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapLayerMapMeasureDependentStorageLevels-class.html">/sdk-for-flutter-explore-mapview-maplayermapmeasuredependentstoragelevels-class</a></li>
 <li class="self-crumb">withStorageLevelOffset static method</li>
 </ol>
 <h5>MapLayerMapMeasureDependentStorageLevels class</h5>
@@ -91,5 +90,4 @@ The value will be clamped to a range of -3 to 3.</li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

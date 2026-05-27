@@ -1,10 +1,9 @@
 ---
-title: "zoomRange property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapcameralimits-zoomrange"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- zoomRange.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcameralimits-zoomrange"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcameralimits-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraLimits-class.html">/sdk-for-flutter-explore-mapview-mapcameralimits-class</a></li>
 <li class="self-crumb">zoomRange property</li>
 </ol>
 <div class="self-name">zoomRange</div>
@@ -39,13 +38,13 @@ menu
 <h1>zoomRange property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-mapmeasurerange-class
+<a href="../../mapview/MapMeasureRange-class.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-class</a>
 zoomRange
 </section>
 <section class="desc markdown">
 <p>The zoom range that can be applied to the camera.
 Gets the currently set camera zoom range.</p>
-<p>By default, a /sdk-for-flutter-explore-mapview-mapcameralimits-minzoomlevel-/sdk-for-flutter-explore-mapview-mapcameralimits-maxzoomlevel zoom range is set during initialization.</p>
+<p>By default, a <a href="../../mapview/MapCameraLimits/minZoomLevel.html">/sdk-for-flutter-explore-mapview-mapcameralimits-minzoomlevel</a>-<a href="../../mapview/MapCameraLimits/maxZoomLevel.html">/sdk-for-flutter-explore-mapview-mapcameralimits-maxzoomlevel</a> zoom range is set during initialization.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -55,12 +54,12 @@ Gets the currently set camera zoom range.</p>
 <section id="setter">
 <section class="multi-line-signature">
 void
-zoomRange=(<wbr/>/sdk-for-flutter-explore-mapview-mapmeasurerange-class value)
+zoomRange=(<wbr/><a href="../../mapview/MapMeasureRange-class.html">/sdk-for-flutter-explore-mapview-mapmeasurerange-class</a> value)
 </section>
 <section class="desc markdown">
 <p>The zoom range that can be applied to the camera.
 Sets a new camera zoom range.</p>
-<p>The supported values fall inside /sdk-for-flutter-explore-mapview-mapcameralimits-minzoomlevel-/sdk-for-flutter-explore-mapview-mapcameralimits-maxzoomlevel range.
+<p>The supported values fall inside <a href="../../mapview/MapCameraLimits/minZoomLevel.html">/sdk-for-flutter-explore-mapview-mapcameralimits-minzoomlevel</a>-<a href="../../mapview/MapCameraLimits/maxZoomLevel.html">/sdk-for-flutter-explore-mapview-mapcameralimits-maxzoomlevel</a> range.
 Values outside the supported zoom range are ignored.</p>
 <p>If the current camera zoom exceeds the limit range, it will immediately be set to minimum or maximum, depending on which is closest.</p>
 <p>This new limit range becomes active during the next rendering loop.</p>
@@ -78,9 +77,9 @@ Values outside the supported zoom range are ignored.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcameralimits-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraLimits-class.html">/sdk-for-flutter-explore-mapview-mapcameralimits-class</a></li>
 <li class="self-crumb">zoomRange property</li>
 </ol>
 <h5>MapCameraLimits class</h5>
@@ -97,5 +96,4 @@ Values outside the supported zoom range are ignored.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

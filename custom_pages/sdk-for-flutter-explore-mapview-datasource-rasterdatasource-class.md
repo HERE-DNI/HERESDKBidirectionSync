@@ -1,10 +1,9 @@
 ---
-title: "RasterDataSource class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasource-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- RasterDataSource-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -33,8 +32,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-rasterdatasource-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">RasterDataSource class</li>
 </ol>
 <div class="self-name">RasterDataSource</div>
@@ -76,14 +75,14 @@ a newly created map layer.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="RasterDataSource">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-rasterdatasource(/sdk-for-flutter-explore-mapview-mapcontext-class context, /sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-class configuration)
+<a href="../mapview.datasource/RasterDataSource/RasterDataSource.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-rasterdatasource</a>(<a href="../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> context, <a href="../mapview.datasource/RasterDataSourceConfiguration-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-class</a> configuration)
 </dt>
 <dd>
           Creates a RasterDataSource instance with the provided data source configuration.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="RasterDataSource.withConfigurationAndListener">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-rasterdatasource-withconfigurationandlistener(/sdk-for-flutter-explore-mapview-mapcontext-class context, /sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-class configuration, /sdk-for-flutter-explore-mapview-datasource-rasterdatasourcelistener-class listener)
+<a href="../mapview.datasource/RasterDataSource/RasterDataSource.withConfigurationAndListener.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-rasterdatasource-withconfigurationandlistener</a>(<a href="../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> context, <a href="../mapview.datasource/RasterDataSourceConfiguration-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfiguration-class</a> configuration, <a href="../mapview.datasource/RasterDataSourceListener-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourcelistener-class</a> listener)
 </dt>
 <dd>
           Creates a RasterDataSource instance with the provided data source configuration and
@@ -91,14 +90,14 @@ registers a listener.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="RasterDataSource.withTileSource">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-rasterdatasource-withtilesource(/sdk-for-flutter-explore-mapview-mapcontext-class context, String name, /sdk-for-flutter-explore-mapview-datasource-rastertilesource-class tileSource)
+<a href="../mapview.datasource/RasterDataSource/RasterDataSource.withTileSource.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-rasterdatasource-withtilesource</a>(<a href="../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> context, String name, <a href="../mapview.datasource/RasterTileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-rastertilesource-class</a> tileSource)
 </dt>
 <dd>
           Creates a RasterDataSource instance with the provided raster tile source.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="RasterDataSource.withTileSourceAndListener">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-rasterdatasource-withtilesourceandlistener(/sdk-for-flutter-explore-mapview-mapcontext-class context, String name, /sdk-for-flutter-explore-mapview-datasource-rastertilesource-class tileSource, /sdk-for-flutter-explore-mapview-datasource-rasterdatasourcelistener-class listener)
+<a href="../mapview.datasource/RasterDataSource/RasterDataSource.withTileSourceAndListener.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-rasterdatasource-withtilesourceandlistener</a>(<a href="../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> context, String name, <a href="../mapview.datasource/RasterTileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-rastertilesource-class</a> tileSource, <a href="../mapview.datasource/RasterDataSourceListener-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourcelistener-class</a> listener)
 </dt>
 <dd>
           Creates a RasterDataSource instance with the provided raster tile source and registers
@@ -111,7 +110,7 @@ a listener.
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-hashcode
+<a href="../mapview.datasource/RasterDataSource/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -119,7 +118,7 @@ a listener.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-runtimetype
+<a href="../mapview.datasource/RasterDataSource/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -132,7 +131,7 @@ a listener.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="addListener">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-addlistener(<wbr/>/sdk-for-flutter-explore-mapview-datasource-rasterdatasourcelistener-class listener)
+<a href="../mapview.datasource/RasterDataSource/addListener.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-addlistener</a>(<wbr/><a href="../mapview.datasource/RasterDataSourceListener-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourcelistener-class</a> listener)
     → void
 
 </dt>
@@ -142,7 +141,7 @@ a listener.
 
 </dd>
 <dt class="callable" id="changeConfiguration">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-changeconfiguration(<wbr/>/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-class configuration)
+<a href="../mapview.datasource/RasterDataSource/changeConfiguration.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-changeconfiguration</a>(<wbr/><a href="../mapview.datasource/RasterDataSourceConfigurationUpdate-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourceconfigurationupdate-class</a> configuration)
     → void
 
 </dt>
@@ -152,7 +151,7 @@ a listener.
 
 </dd>
 <dt class="callable" id="destroy">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-destroy(<wbr/>)
+<a href="../mapview.datasource/RasterDataSource/destroy.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-destroy</a>(<wbr/>)
     → void
 
 </dt>
@@ -162,7 +161,7 @@ a listener.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview.datasource/RasterDataSource/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -171,7 +170,7 @@ a listener.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="removeListener">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-removelistener(<wbr/>/sdk-for-flutter-explore-mapview-datasource-rasterdatasourcelistener-class listener)
+<a href="../mapview.datasource/RasterDataSource/removeListener.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-removelistener</a>(<wbr/><a href="../mapview.datasource/RasterDataSourceListener-class.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasourcelistener-class</a> listener)
     → void
 
 </dt>
@@ -181,7 +180,7 @@ a listener.
 
 </dd>
 <dt class="callable" id="removeListeners">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-removelisteners(<wbr/>)
+<a href="../mapview.datasource/RasterDataSource/removeListeners.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-removelisteners</a>(<wbr/>)
     → void
 
 </dt>
@@ -191,7 +190,7 @@ a listener.
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-tostring(<wbr/>)
+<a href="../mapview.datasource/RasterDataSource/toString.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -205,7 +204,7 @@ a listener.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-operator-equals(<wbr/>Object other)
+<a href="../mapview.datasource/RasterDataSource/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-rasterdatasource-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -223,8 +222,8 @@ a listener.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">RasterDataSource class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -241,5 +240,4 @@ a listener.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

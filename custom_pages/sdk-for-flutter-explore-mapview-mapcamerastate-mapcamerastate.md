@@ -1,10 +1,9 @@
 ---
-title: "MapCameraState constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapcamerastate-mapcamerastate"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapCameraState.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcamerastate-mapcamerastate"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcamerastate-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraState-class.html">/sdk-for-flutter-explore-mapview-mapcamerastate-class</a></li>
 <li class="self-crumb">MapCameraState constructor</li>
 </ol>
 <div class="self-name">MapCameraState</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>MapCameraState constructor</h1></div>
 <section class="multi-line-signature">
-MapCameraState(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-core-geocoordinates-class targetCoordinates, </li>
-<li>/sdk-for-flutter-explore-core-geoorientation-class orientationAtTarget, </li>
+MapCameraState(<wbr/><ol class="parameter-list"> <li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> targetCoordinates, </li>
+<li><a href="../../core/GeoOrientation-class.html">/sdk-for-flutter-explore-core-geoorientation-class</a> orientationAtTarget, </li>
 <li>double distanceToTargetInMeters, </li>
 <li>double zoomLevel, </li>
 </ol>)
@@ -69,9 +68,9 @@ will consider the target point as being located on the ground.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcamerastate-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraState-class.html">/sdk-for-flutter-explore-mapview-mapcamerastate-class</a></li>
 <li class="self-crumb">MapCameraState constructor</li>
 </ol>
 <h5>MapCameraState class</h5>
@@ -88,5 +87,4 @@ will consider the target point as being located on the ground.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

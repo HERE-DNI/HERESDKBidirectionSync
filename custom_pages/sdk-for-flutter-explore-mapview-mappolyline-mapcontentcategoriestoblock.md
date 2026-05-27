@@ -1,10 +1,9 @@
 ---
-title: "mapContentCategoriesToBlock property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mappolyline-mapcontentcategoriestoblock"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- mapContentCategoriesToBlock.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolyline-mapcontentcategoriestoblock"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolyline-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a></li>
 <li class="self-crumb">mapContentCategoriesToBlock property</li>
 </ol>
 <div class="self-name">mapContentCategoriesToBlock</div>
@@ -39,7 +38,7 @@ menu
 <h1>mapContentCategoriesToBlock property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapcontentcategory&gt;
+List&lt;<wbr/><a href="../../mapview/MapContentCategory.html">/sdk-for-flutter-explore-mapview-mapcontentcategory</a>&gt;
 mapContentCategoriesToBlock
 </section>
 <section class="desc markdown">
@@ -55,7 +54,7 @@ Gets list of map content categories this polyline should block.</p>
 <section id="setter">
 <section class="multi-line-signature">
 void
-mapContentCategoriesToBlock=(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapcontentcategory&gt; value)
+mapContentCategoriesToBlock=(<wbr/>List&lt;<wbr/><a href="../../mapview/MapContentCategory.html">/sdk-for-flutter-explore-mapview-mapcontentcategory</a>&gt; value)
 </section>
 <section class="desc markdown">
 <p>List of map content categories this polyline should block.
@@ -77,9 +76,9 @@ Sets list of map content categories this polyline should block.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolyline-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a></li>
 <li class="self-crumb">mapContentCategoriesToBlock property</li>
 </ol>
 <h5>MapPolyline class</h5>
@@ -96,5 +95,4 @@ Sets list of map content categories this polyline should block.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

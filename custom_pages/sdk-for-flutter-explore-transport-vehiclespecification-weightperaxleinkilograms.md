@@ -1,10 +1,9 @@
 ---
-title: "weightPerAxleInKilograms property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-vehiclespecification-weightperaxleinkilograms"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- weightPerAxleInKilograms.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecification-weightperaxleinkil
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecification-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a></li>
 <li class="self-crumb">weightPerAxleInKilograms property</li>
 </ol>
 <div class="self-name">weightPerAxleInKilograms</div>
@@ -50,12 +49,12 @@ The provided value must be greater or equal to 0.
 By default, it is not set.</p>
 <p><strong>Notes:</strong></p>
 <ul>
-<li>/sdk-for-flutter-explore-transport-vehiclespecification-weightperaxleinkilograms and /sdk-for-flutter-explore-transport-vehiclespecification-weightperaxlegroup are incompatible.
+<li><a href="../../transport/VehicleSpecification/weightPerAxleInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-weightperaxleinkilograms</a> and <a href="../../transport/VehicleSpecification/weightPerAxleGroup.html">/sdk-for-flutter-explore-transport-vehiclespecification-weightperaxlegroup</a> are incompatible.
 When available for your edition, if both attributes are set, during online <code>RoutingEngine</code> an <code>RoutingError.INVALID_PARAMETER</code>
 error is generated. Otherwise, when offline <code>RoutingEngine</code> is in place, both parameters are evaluated and the
 maximum value between them will be used.</li>
-<li>Supported in /sdk-for-flutter-explore-transport-transportmode, /sdk-for-flutter-explore-transport-transportmode, /sdk-for-flutter-explore-transport-transportmode,
-/sdk-for-flutter-explore-transport-transportmode (Beta), /sdk-for-flutter-explore-transport-transportmode (Beta) transport modes.</li>
+<li>Supported in <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>, <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>, <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>,
+<a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> (Beta), <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> (Beta) transport modes.</li>
 </ul>
 </section>
 <section class="summary source-code" id="source">
@@ -70,9 +69,9 @@ maximum value between them will be used.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecification-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a></li>
 <li class="self-crumb">weightPerAxleInKilograms property</li>
 </ol>
 <h5>VehicleSpecification class</h5>
@@ -89,5 +88,4 @@ maximum value between them will be used.</li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

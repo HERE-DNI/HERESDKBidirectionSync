@@ -1,10 +1,9 @@
 ---
-title: "confidence property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-traffic-trafficflow-confidence"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- confidence.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficflow-confidence"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficflow-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficFlow-class.html">/sdk-for-flutter-explore-traffic-trafficflow-class</a></li>
 <li class="self-crumb">confidence property</li>
 </ol>
 <div class="self-name">confidence</div>
@@ -70,9 +69,9 @@ Gets the confidence field value which is normalized value between 0.0 and 1.0.</
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficflow-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficFlow-class.html">/sdk-for-flutter-explore-traffic-trafficflow-class</a></li>
 <li class="self-crumb">confidence property</li>
 </ol>
 <h5>TrafficFlow class</h5>
@@ -89,5 +88,4 @@ Gets the confidence field value which is normalized value between 0.0 and 1.0.</
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "resetTrafficRefreshPeriod static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapcontentsettings-resettrafficrefreshperiod"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- resetTrafficRefreshPeriod.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcontentsettings-resettrafficrefreshper
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcontentsettings-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapContentSettings-class.html">/sdk-for-flutter-explore-mapview-mapcontentsettings-class</a></li>
 <li class="self-crumb">resetTrafficRefreshPeriod static method</li>
 </ol>
 <div class="self-name">resetTrafficRefreshPeriod</div>
@@ -60,9 +59,9 @@ validity time and the refresh period derived from the refresh period of the traf
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcontentsettings-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapContentSettings-class.html">/sdk-for-flutter-explore-mapview-mapcontentsettings-class</a></li>
 <li class="self-crumb">resetTrafficRefreshPeriod static method</li>
 </ol>
 <h5>MapContentSettings class</h5>
@@ -79,5 +78,4 @@ validity time and the refresh period derived from the refresh period of the traf
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

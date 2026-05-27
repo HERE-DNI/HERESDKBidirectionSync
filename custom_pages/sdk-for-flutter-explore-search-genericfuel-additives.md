@@ -1,10 +1,9 @@
 ---
-title: "additives property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-genericfuel-additives"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- additives.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-genericfuel-additives"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-genericfuel-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/GenericFuel-class.html">/sdk-for-flutter-explore-search-genericfuel-class</a></li>
 <li class="self-crumb">additives property</li>
 </ol>
 <div class="self-name">additives</div>
@@ -39,7 +38,7 @@ menu
 <h1>additives property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-search-fueladditive-class&gt;
+        List&lt;<wbr/><a href="../../search/FuelAdditive-class.html">/sdk-for-flutter-explore-search-fueladditive-class</a>&gt;
 additives
 <div class="features">getter/setter pair</div>
 </section>
@@ -59,9 +58,9 @@ The list can be empty when no fuel additives are available or when the informati
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-genericfuel-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/GenericFuel-class.html">/sdk-for-flutter-explore-search-genericfuel-class</a></li>
 <li class="self-crumb">additives property</li>
 </ol>
 <h5>GenericFuel class</h5>
@@ -78,5 +77,4 @@ The list can be empty when no fuel additives are available or when the informati
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

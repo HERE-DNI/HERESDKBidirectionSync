@@ -1,10 +1,9 @@
 ---
-title: "offset property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-passthroughwaypoint-offset"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- offset.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-passthroughwaypoint-offset"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-passthroughwaypoint-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/PassThroughWaypoint-class.html">/sdk-for-flutter-explore-routing-passthroughwaypoint-class</a></li>
 <li class="self-crumb">offset property</li>
 </ol>
 <div class="self-name">offset</div>
@@ -44,7 +43,7 @@ menu
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>Index over /sdk-for-flutter-explore-routing-section-geometry where the passthrough waypoint is located.</p>
+<p>Index over <a href="../../routing/Section/geometry.html">/sdk-for-flutter-explore-routing-section-geometry</a> where the passthrough waypoint is located.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -58,9 +57,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-passthroughwaypoint-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/PassThroughWaypoint-class.html">/sdk-for-flutter-explore-routing-passthroughwaypoint-class</a></li>
 <li class="self-crumb">offset property</li>
 </ol>
 <h5>PassThroughWaypoint class</h5>
@@ -77,5 +76,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

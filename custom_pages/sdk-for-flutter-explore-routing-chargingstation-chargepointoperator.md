@@ -1,10 +1,9 @@
 ---
-title: "chargePointOperator property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-chargingstation-chargepointoperator"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- chargePointOperator.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-chargingstation-chargepointoperator"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-chargingstation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/ChargingStation-class.html">/sdk-for-flutter-explore-routing-chargingstation-class</a></li>
 <li class="self-crumb">chargePointOperator property</li>
 </ol>
 <div class="self-name">chargePointOperator</div>
@@ -38,14 +37,14 @@ menu
 <div>
 <h1>chargePointOperator property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-nameid-class?
+<a href="../../core/NameID-class.html">/sdk-for-flutter-explore-core-nameid-class</a>?
         chargePointOperator
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Charging station charge-point-operator.
-/sdk-for-flutter-explore-core-nameid-name reflect to charge-point-operator name.
-/sdk-for-flutter-explore-core-nameid-id reflect to charge-point-operator ID.</p>
+<a href="../../core/NameID/name.html">/sdk-for-flutter-explore-core-nameid-name</a> reflect to charge-point-operator name.
+<a href="../../core/NameID/id.html">/sdk-for-flutter-explore-core-nameid-id</a> reflect to charge-point-operator ID.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +58,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-chargingstation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/ChargingStation-class.html">/sdk-for-flutter-explore-routing-chargingstation-class</a></li>
 <li class="self-crumb">chargePointOperator property</li>
 </ol>
 <h5>ChargingStation class</h5>
@@ -78,5 +77,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

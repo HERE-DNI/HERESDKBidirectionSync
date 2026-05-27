@@ -1,10 +1,9 @@
 ---
-title: "Details constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-details-details"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Details.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-details-details"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-details-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/Details-class.html">/sdk-for-flutter-explore-search-details-class</a></li>
 <li class="self-crumb">Details constructor</li>
 </ol>
 <div class="self-name">Details</div>
@@ -38,19 +37,19 @@ menu
 <div>
 <h1>Details constructor</h1></div>
 <section class="multi-line-signature">
-Details(<wbr/><ol class="parameter-list"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-search-contact-class&gt; contacts, </li>
-<li>List&lt;<wbr/>/sdk-for-flutter-explore-search-openinghours-class&gt; openingHours, </li>
-<li>List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt; categories, </li>
-<li>List&lt;<wbr/>/sdk-for-flutter-explore-search-webimage-class&gt; images, </li>
-<li>List&lt;<wbr/>/sdk-for-flutter-explore-search-webeditorial-class&gt; editorials, </li>
-<li>List&lt;<wbr/>/sdk-for-flutter-explore-search-webrating-class&gt; ratings, </li>
-<li>List&lt;<wbr/>/sdk-for-flutter-explore-search-supplierreference-class&gt; references, [</li>
-<li>/sdk-for-flutter-explore-search-evchargingpool-class? evChargingPool = null, </li>
-<li>/sdk-for-flutter-explore-search-truckamenities-class? truckAmenities = null, </li>
-<li>/sdk-for-flutter-explore-search-fuelstation-class? fuelStation = null, </li>
-<li>List&lt;<wbr/>/sdk-for-flutter-explore-search-placefoodtype-class&gt; foodTypes = const [], </li>
-<li>/sdk-for-flutter-explore-search-poipaymentdetails-class? payment = null, </li>
-<li>/sdk-for-flutter-explore-search-evcharginglocation-class? evChargingLocation = null, </li>
+Details(<wbr/><ol class="parameter-list"> <li>List&lt;<wbr/><a href="../../search/Contact-class.html">/sdk-for-flutter-explore-search-contact-class</a>&gt; contacts, </li>
+<li>List&lt;<wbr/><a href="../../search/OpeningHours-class.html">/sdk-for-flutter-explore-search-openinghours-class</a>&gt; openingHours, </li>
+<li>List&lt;<wbr/><a href="../../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt; categories, </li>
+<li>List&lt;<wbr/><a href="../../search/WebImage-class.html">/sdk-for-flutter-explore-search-webimage-class</a>&gt; images, </li>
+<li>List&lt;<wbr/><a href="../../search/WebEditorial-class.html">/sdk-for-flutter-explore-search-webeditorial-class</a>&gt; editorials, </li>
+<li>List&lt;<wbr/><a href="../../search/WebRating-class.html">/sdk-for-flutter-explore-search-webrating-class</a>&gt; ratings, </li>
+<li>List&lt;<wbr/><a href="../../search/SupplierReference-class.html">/sdk-for-flutter-explore-search-supplierreference-class</a>&gt; references, [</li>
+<li><a href="../../search/EVChargingPool-class.html">/sdk-for-flutter-explore-search-evchargingpool-class</a>? evChargingPool = null, </li>
+<li><a href="../../search/TruckAmenities-class.html">/sdk-for-flutter-explore-search-truckamenities-class</a>? truckAmenities = null, </li>
+<li><a href="../../search/FuelStation-class.html">/sdk-for-flutter-explore-search-fuelstation-class</a>? fuelStation = null, </li>
+<li>List&lt;<wbr/><a href="../../search/PlaceFoodType-class.html">/sdk-for-flutter-explore-search-placefoodtype-class</a>&gt; foodTypes = const [], </li>
+<li><a href="../../search/POIPaymentDetails-class.html">/sdk-for-flutter-explore-search-poipaymentdetails-class</a>? payment = null, </li>
+<li><a href="../../search/EVChargingLocation-class.html">/sdk-for-flutter-explore-search-evcharginglocation-class</a>? evChargingLocation = null, </li>
 </ol>])
     </section>
 <section class="desc markdown">
@@ -58,38 +57,38 @@ Details(<wbr/><ol class="parameter-list"> <li>List&lt;<wbr/>/sdk-for-flutter-exp
 <ul>
 <li><code>contacts</code> The list of contact information of the place.</li>
 </ul>
-<p><strong>Note:</strong> Not available as part of /sdk-for-flutter-explore-search-suggestion-class results.</p>
+<p><strong>Note:</strong> Not available as part of <a href="../../search/Suggestion-class.html">/sdk-for-flutter-explore-search-suggestion-class</a> results.</p>
 <ul>
 <li><code>openingHours</code> The list of opening hours information of the place.</li>
 </ul>
-<p><strong>Note:</strong> Not available as part of /sdk-for-flutter-explore-search-suggestion-class results.</p>
+<p><strong>Note:</strong> Not available as part of <a href="../../search/Suggestion-class.html">/sdk-for-flutter-explore-search-suggestion-class</a> results.</p>
 <ul>
 <li><code>categories</code> The list of categories assigned to this place.</li>
 <li><code>images</code> The list of images associated with the place.
 The images are provided by external suppliers and are only available to users with
 valid contracts with said suppliers. If the user has no such contracts, the list is empty.</li>
 </ul>
-<p><strong>Note:</strong> Not available as part of /sdk-for-flutter-explore-search-suggestion-class results.</p>
+<p><strong>Note:</strong> Not available as part of <a href="../../search/Suggestion-class.html">/sdk-for-flutter-explore-search-suggestion-class</a> results.</p>
 <ul>
 <li><code>editorials</code> The list of editorials associated with the place.
 The editorials are provided by external suppliers and are only available to users with
 valid contracts with said suppliers. If the user has no such contracts, the list is empty.</li>
 </ul>
-<p><strong>Note:</strong> Not available as part of /sdk-for-flutter-explore-search-suggestion-class results.</p>
+<p><strong>Note:</strong> Not available as part of <a href="../../search/Suggestion-class.html">/sdk-for-flutter-explore-search-suggestion-class</a> results.</p>
 <ul>
 <li><code>ratings</code> The list of ratings associated with the place.
 The ratings are provided by external suppliers and are only available to users with
 valid contracts with said suppliers. If the user has no such contracts, the list is empty.</li>
 </ul>
-<p><strong>Note:</strong> Not available as part of /sdk-for-flutter-explore-search-suggestion-class results.</p>
+<p><strong>Note:</strong> Not available as part of <a href="../../search/Suggestion-class.html">/sdk-for-flutter-explore-search-suggestion-class</a> results.</p>
 <ul>
 <li><code>references</code> The list of supplier references to this place.
 The references are provided by external suppliers and are only available to users with
 valid contracts with said suppliers. If the user has no such contracts, the list is empty.</li>
 <li><code>evChargingPool</code> EV charging pool details. It is available only for a place that is a charging pool
 for electric vehicles.
-It is fully supported for offline search, provided that /sdk-for-flutter-explore-core-engine-layerconfigurationfeature
-is enabled in /sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration.</li>
+It is fully supported for offline search, provided that <a href="../../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a>
+is enabled in <a href="../../core.engine/SDKOptions/layerConfiguration.html">/sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration</a>.</li>
 </ul>
 <p>For online search, this feature is only available if it is explicitly enabled.
 To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
@@ -101,14 +100,14 @@ To enable fuel station details or truck amenities, the custom option value can b
 as "ev,truck", "ev,truck,fuel" etc.</p>
 <ul>
 <li><code>truckAmenities</code> Additional information that is available only for places that contain truck amenities.
-It is fully supported for offline search, provided that /sdk-for-flutter-explore-core-engine-layerconfigurationfeature
-is enabled in /sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration.</li>
+It is fully supported for offline search, provided that <a href="../../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a>
+is enabled in <a href="../../core.engine/SDKOptions/layerConfiguration.html">/sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration</a>.</li>
 </ul>
 <p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
 only for selected customers. The field is always null for everyone that is not part of
 the closed-alpha group.
 Participants of the closed-alpha group can get access from HERE to use this feature.
-If the credentials are not enabled, a /sdk-for-flutter-explore-search-searcherror will be propagated.</p>
+If the credentials are not enabled, a <a href="../../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a> will be propagated.</p>
 <p>For online search, this feature is only available if it is explicitly enabled.
 To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
 name: "lookup.show" or "discover.show" or "autosuggest.show" or "browse.show"
@@ -121,14 +120,14 @@ unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
 <ul>
 <li><code>fuelStation</code> Fuel station details. It is available only if a place is a fuel station and contain fuel data.
-It is fully supported for offline search, provided that /sdk-for-flutter-explore-core-engine-layerconfigurationfeature
-is enabled in /sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration.</li>
+It is fully supported for offline search, provided that <a href="../../core.engine/LayerConfigurationFeature.html">/sdk-for-flutter-explore-core-engine-layerconfigurationfeature</a>
+is enabled in <a href="../../core.engine/SDKOptions/layerConfiguration.html">/sdk-for-flutter-explore-core-engine-sdkoptions-layerconfiguration</a>.</li>
 </ul>
 <p><strong>Note:</strong> Currently, for online search, this is a closed-alpha feature, so it is available
 only for selected customers. The field is always null for everyone that is not part of
 the closed-alpha group.
 Participants of the closed-alpha group can get access from HERE to use this feature.
-If the credentials are not enabled, a /sdk-for-flutter-explore-search-searcherror will be propagated.</p>
+If the credentials are not enabled, a <a href="../../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a> will be propagated.</p>
 <p>For online search, this feature is only available if it is explicitly enabled.
 To do that, call <code>SearchEngine.set_custom_option()</code> with arguments:
 name: "lookup.show" or "discover.show" or "autosuggest.show" or "browse.show"
@@ -168,9 +167,9 @@ Related APIs may change for new releases without a deprecation process.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-details-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/Details-class.html">/sdk-for-flutter-explore-search-details-class</a></li>
 <li class="self-crumb">Details constructor</li>
 </ol>
 <h5>Details class</h5>
@@ -187,5 +186,4 @@ Related APIs may change for new releases without a deprecation process.</li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

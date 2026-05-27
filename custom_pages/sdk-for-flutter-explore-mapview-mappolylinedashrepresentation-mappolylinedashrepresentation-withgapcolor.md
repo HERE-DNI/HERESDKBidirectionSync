@@ -1,10 +1,9 @@
 ---
-title: "MapPolylineDashRepresentation.withGapColor constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-mappolylinedashrepresentation-withgapcolor"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapPolylineDashRepresentation.withGapColor.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-mappolyline
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolylineDashRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-class</a></li>
 <li class="self-crumb">MapPolylineDashRepresentation.withGapColor factory constructor</li>
 </ol>
 <div class="self-name">MapPolylineDashRepresentation.withGapColor</div>
@@ -38,9 +37,9 @@ menu
 <div>
 <h1>MapPolylineDashRepresentation.withGapColor constructor</h1></div>
 <section class="multi-line-signature">
-MapPolylineDashRepresentation.withGapColor(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class lineWidth, </li>
-<li>/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class dashLength, </li>
-<li>/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class gapLength, </li>
+MapPolylineDashRepresentation.withGapColor(<wbr/><ol class="parameter-list"> <li><a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> lineWidth, </li>
+<li><a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> dashLength, </li>
+<li><a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> gapLength, </li>
 <li>Color dashColor, </li>
 <li>Color gapColor, </li>
 </ol>)
@@ -50,16 +49,16 @@ MapPolylineDashRepresentation.withGapColor(<wbr/><ol class="parameter-list"> <li
 <p>At map measures smaller than the smallest map measure in the <code>lineWidth</code>,
 <code>dashLength</code> and <code>gapLength</code>, the value used for rendering is constant
 and equal to the value given for the smallest map measure in the
-respective /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class object.</p>
+respective <a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> object.</p>
 <p>At map measures bigger than the biggest map measure in the <code>lineWidth</code>,
 <code>dashLength</code> and <code>gapLength</code>, the value used for rendering is constant
 and equal to the value given for the biggest map measure in the
-respective /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class object.</p>
+respective <a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> object.</p>
 <p>At map measures between two nearest given map measures, the values are
 linearly interpolated between values given for these map measures.</p>
-<p>For /sdk-for-flutter-explore-mapview-mapmeasurekind only /sdk-for-flutter-explore-mapview-mapmeasurekind is supported.</p>
-<p>For /sdk-for-flutter-explore-mapview-rendersizeunit only /sdk-for-flutter-explore-mapview-rendersizeunit is supported.</p>
-<p>All sizes must not be 0 (/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizes with all values set to 0.0).</p>
+<p>For <a href="../../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> only <a href="../../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> is supported.</p>
+<p>For <a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> only <a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> is supported.</p>
+<p>All sizes must not be 0 (<a href="../../mapview/MapMeasureDependentRenderSize/sizes.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizes</a> with all values set to 0.0).</p>
 <ul>
 <li>
 <p><code>lineWidth</code> The width of the polyline depending on the map measure.</p>
@@ -77,7 +76,7 @@ linearly interpolated between values given for these map measures.</p>
 <p><code>gapColor</code> The color of the gaps.</p>
 </li>
 </ul>
-<p>Throws /sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-class. In case of invalid input parameters.</p>
+<p>Throws <a href="../../mapview/MapPolylineRepresentationInstantiationException-class.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-class</a>. In case of invalid input parameters.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -91,9 +90,9 @@ linearly interpolated between values given for these map measures.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolylineDashRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-class</a></li>
 <li class="self-crumb">MapPolylineDashRepresentation.withGapColor factory constructor</li>
 </ol>
 <h5>MapPolylineDashRepresentation class</h5>
@@ -110,5 +109,4 @@ linearly interpolated between values given for these map measures.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

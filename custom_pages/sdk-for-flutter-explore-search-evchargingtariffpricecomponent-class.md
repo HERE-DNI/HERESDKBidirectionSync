@@ -1,10 +1,9 @@
 ---
-title: "EVChargingTariffPriceComponent class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVChargingTariffPriceComponent-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +28,8 @@ slug: "sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVChargingTariffPriceComponent class</li>
 </ol>
 <div class="self-name">EVChargingTariffPriceComponent</div>
@@ -62,7 +61,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVChargingTariffPriceComponent">
-/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-evchargingtariffpricecomponent()
+<a href="../search/EVChargingTariffPriceComponent/EVChargingTariffPriceComponent.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-evchargingtariffpricecomponent</a>()
 </dt>
 <dd>
 </dd>
@@ -72,15 +71,15 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="dimension">
-/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-dimension
-↔ /sdk-for-flutter-explore-search-evchargingtariffdimension
+<a href="../search/EVChargingTariffPriceComponent/dimension.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-dimension</a>
+↔ <a href="../search/EVChargingTariffDimension.html">/sdk-for-flutter-explore-search-evchargingtariffdimension</a>
 </dt>
 <dd>
   The dimension or type of the price component.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-hashcode
+<a href="../search/EVChargingTariffPriceComponent/hashCode.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-hashcode</a>
 → int
 </dt>
 <dd>
@@ -88,15 +87,15 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="price">
-/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-price
+<a href="../search/EVChargingTariffPriceComponent/price.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-price</a>
 ↔ double
 </dt>
 <dd>
-  The price per unit, excluding VAT. The units are defined by the /sdk-for-flutter-explore-search-evchargingtariffpricecomponent-dimension
+  The price per unit, excluding VAT. The units are defined by the <a href="../search/EVChargingTariffPriceComponent/dimension.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-dimension</a>
 <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-runtimetype
+<a href="../search/EVChargingTariffPriceComponent/runtimeType.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -104,20 +103,20 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="step">
-/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-step
+<a href="../search/EVChargingTariffPriceComponent/step.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-step</a>
 ↔ double?
 </dt>
 <dd>
   Dimension quantity used as a unit of billing. Present for all other dimensions except
-/sdk-for-flutter-explore-search-evchargingtariffdimension. The customer is charged price for each full or partial
-step of the dimension consumed. For /sdk-for-flutter-explore-search-evchargingtariffdimension, the step size unit
-is 1 Wh, for /sdk-for-flutter-explore-search-evchargingtariffdimension and /sdk-for-flutter-explore-search-evchargingtariffdimension
+<a href="../search/EVChargingTariffDimension.html">/sdk-for-flutter-explore-search-evchargingtariffdimension</a>. The customer is charged price for each full or partial
+step of the dimension consumed. For <a href="../search/EVChargingTariffDimension.html">/sdk-for-flutter-explore-search-evchargingtariffdimension</a>, the step size unit
+is 1 Wh, for <a href="../search/EVChargingTariffDimension.html">/sdk-for-flutter-explore-search-evchargingtariffdimension</a> and <a href="../search/EVChargingTariffDimension.html">/sdk-for-flutter-explore-search-evchargingtariffdimension</a>
 it is 1 second. For example, if step is 300 for time, then time is billed in 5 minute steps, rounded upwards.
 Similarly, if step is 100 for energy, then energy is billed in 100 Wh = 0.1 kWh steps.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="vat">
-/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-vat
+<a href="../search/EVChargingTariffPriceComponent/vat.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-vat</a>
 ↔ double?
 </dt>
 <dd>
@@ -130,7 +129,7 @@ Similarly, if step is 100 for energy, then energy is billed in 100 Wh = 0.1 kWh 
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/EVChargingTariffPriceComponent/noSuchMethod.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -139,7 +138,7 @@ Similarly, if step is 100 for energy, then energy is billed in 100 Wh = 0.1 kWh 
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-tostring(<wbr/>)
+<a href="../search/EVChargingTariffPriceComponent/toString.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -153,7 +152,7 @@ Similarly, if step is 100 for energy, then energy is billed in 100 Wh = 0.1 kWh 
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-operator-equals(<wbr/>Object other)
+<a href="../search/EVChargingTariffPriceComponent/operator_equals.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -172,8 +171,8 @@ Similarly, if step is 100 for energy, then energy is billed in 100 Wh = 0.1 kWh 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVChargingTariffPriceComponent class</li>
 </ol>
 <h5>search library</h5>
@@ -190,5 +189,4 @@ Similarly, if step is 100 for energy, then energy is billed in 100 Wh = 0.1 kWh 
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "quad abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-meshbuilder-quad"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- quad.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-meshbuilder-quad"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-meshbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MeshBuilder-class.html">/sdk-for-flutter-explore-mapview-meshbuilder-class</a></li>
 <li class="self-crumb">quad abstract method</li>
 </ol>
 <div class="self-name">quad</div>
@@ -38,11 +37,11 @@ menu
 <div>
 <h1>quad abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-quadmeshbuilder-class
-quad(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-core-point3d-class a, </li>
-<li>/sdk-for-flutter-explore-core-point3d-class b, </li>
-<li>/sdk-for-flutter-explore-core-point3d-class c, </li>
-<li>/sdk-for-flutter-explore-core-point3d-class d, </li>
+<a href="../../mapview/QuadMeshBuilder-class.html">/sdk-for-flutter-explore-mapview-quadmeshbuilder-class</a>
+quad(<wbr/><ol class="parameter-list"> <li><a href="../../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a> a, </li>
+<li><a href="../../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a> b, </li>
+<li><a href="../../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a> c, </li>
+<li><a href="../../core/Point3D-class.html">/sdk-for-flutter-explore-core-point3d-class</a> d, </li>
 </ol>)
 
       
@@ -67,7 +66,7 @@ counter-clockwise winding.</p>
 <p><code>d</code> Fourth vertex of the quad.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-quadmeshbuilder-class. A /sdk-for-flutter-explore-mapview-quadmeshbuilder-class instance.</p>
+<p>Returns <a href="../../mapview/QuadMeshBuilder-class.html">/sdk-for-flutter-explore-mapview-quadmeshbuilder-class</a>. A <a href="../../mapview/QuadMeshBuilder-class.html">/sdk-for-flutter-explore-mapview-quadmeshbuilder-class</a> instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -81,9 +80,9 @@ counter-clockwise winding.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-meshbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MeshBuilder-class.html">/sdk-for-flutter-explore-mapview-meshbuilder-class</a></li>
 <li class="self-crumb">quad abstract method</li>
 </ol>
 <h5>MeshBuilder class</h5>
@@ -100,5 +99,4 @@ counter-clockwise winding.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "partnerId property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-emobilityserviceprovider-partnerid"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- partnerId.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-emobilityserviceprovider-partnerid"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-emobilityserviceprovider-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EMobilityServiceProvider-class.html">/sdk-for-flutter-explore-search-emobilityserviceprovider-class</a></li>
 <li class="self-crumb">partnerId property</li>
 </ol>
 <div class="self-name">partnerId</div>
@@ -59,9 +58,9 @@ It can be used for filtering when searching for EV charging stations.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-emobilityserviceprovider-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EMobilityServiceProvider-class.html">/sdk-for-flutter-explore-search-emobilityserviceprovider-class</a></li>
 <li class="self-crumb">partnerId property</li>
 </ol>
 <h5>EMobilityServiceProvider class</h5>
@@ -78,5 +77,4 @@ It can be used for filtering when searching for EV charging stations.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

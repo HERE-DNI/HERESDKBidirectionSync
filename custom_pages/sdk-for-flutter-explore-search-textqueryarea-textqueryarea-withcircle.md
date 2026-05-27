@@ -1,10 +1,9 @@
 ---
-title: "TextQueryArea.withCircle constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcircle"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TextQueryArea.withCircle.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-textqueryarea-textqueryarea-withcircle"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-textqueryarea-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/TextQueryArea-class.html">/sdk-for-flutter-explore-search-textqueryarea-class</a></li>
 <li class="self-crumb">TextQueryArea.withCircle factory constructor</li>
 </ol>
 <div class="self-name">TextQueryArea.withCircle</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>TextQueryArea.withCircle constructor</h1></div>
 <section class="multi-line-signature">
-TextQueryArea.withCircle(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geocircle-class circleArea</li>
+TextQueryArea.withCircle(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a> circleArea</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -60,9 +59,9 @@ TextQueryArea.withCircle(<wbr/><ol class="parameter-list single-line"> <li>/sdk-
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-textqueryarea-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/TextQueryArea-class.html">/sdk-for-flutter-explore-search-textqueryarea-class</a></li>
 <li class="self-crumb">TextQueryArea.withCircle factory constructor</li>
 </ol>
 <h5>TextQueryArea class</h5>
@@ -79,5 +78,4 @@ TextQueryArea.withCircle(<wbr/><ol class="parameter-list single-line"> <li>/sdk-
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

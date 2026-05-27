@@ -1,10 +1,9 @@
 ---
-title: "eMobilityServiceProviders property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evchargingpool-emobilityserviceproviders"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- eMobilityServiceProviders.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evchargingpool-emobilityserviceproviders"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingpool-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingPool-class.html">/sdk-for-flutter-explore-search-evchargingpool-class</a></li>
 <li class="self-crumb">eMobilityServiceProviders property</li>
 </ol>
 <div class="self-name">eMobilityServiceProviders</div>
@@ -39,7 +38,7 @@ menu
 <h1>eMobilityServiceProviders property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-search-emobilityserviceprovider-class&gt;
+        List&lt;<wbr/><a href="../../search/EMobilityServiceProvider-class.html">/sdk-for-flutter-explore-search-emobilityserviceprovider-class</a>&gt;
 eMobilityServiceProviders
 <div class="features">getter/setter pair</div>
 </section>
@@ -59,9 +58,9 @@ Only online search fills this field.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingpool-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingPool-class.html">/sdk-for-flutter-explore-search-evchargingpool-class</a></li>
 <li class="self-crumb">eMobilityServiceProviders property</li>
 </ol>
 <h5>EVChargingPool class</h5>
@@ -78,5 +77,4 @@ Only online search fills this field.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

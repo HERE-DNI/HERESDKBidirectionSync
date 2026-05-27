@@ -1,10 +1,9 @@
 ---
-title: "MapPolygon.withOutlineColorAndOutlineWidthInPixels constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mappolygon-mappolygon-withoutlinecolorandoutlinewidthinpixels"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapPolygon.withOutlineColorAndOutlineWidthInPixels.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolygon-mappolygon-withoutlinecolorand
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolygon-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolygon-class.html">/sdk-for-flutter-explore-mapview-mappolygon-class</a></li>
 <li class="self-crumb">MapPolygon.withOutlineColorAndOutlineWidthInPixels factory constructor</li>
 </ol>
 <div class="self-name">MapPolygon.withOutlineColorAndOutlineWidthInPixels</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>MapPolygon.withOutlineColorAndOutlineWidthInPixels constructor</h1></div>
 <section class="multi-line-signature">
-MapPolygon.withOutlineColorAndOutlineWidthInPixels(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-core-geopolygon-class geometry, </li>
+MapPolygon.withOutlineColorAndOutlineWidthInPixels(<wbr/><ol class="parameter-list"> <li><a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a> geometry, </li>
 <li>Color color, </li>
 <li>Color outlineColor, </li>
 <li>double outlineWidthInPixels, </li>
@@ -89,9 +88,9 @@ artifacts.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolygon-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolygon-class.html">/sdk-for-flutter-explore-mapview-mappolygon-class</a></li>
 <li class="self-crumb">MapPolygon.withOutlineColorAndOutlineWidthInPixels factory constructor</li>
 </ol>
 <h5>MapPolygon class</h5>
@@ -108,5 +107,4 @@ artifacts.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

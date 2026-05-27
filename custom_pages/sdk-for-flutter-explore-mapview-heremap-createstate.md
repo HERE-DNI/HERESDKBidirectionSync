@@ -1,10 +1,9 @@
 ---
-title: "createState method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-heremap-createstate"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- createState.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-heremap-createstate"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-heremap-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/HereMap-class.html">/sdk-for-flutter-explore-mapview-heremap-class</a></li>
 <li class="self-crumb">createState method</li>
 </ol>
 <div class="self-name">createState</div>
@@ -60,7 +59,7 @@ State&lt;SomeWidget&gt; createState() =&gt; _SomeWidgetState();
 a <code>StatefulWidget</code>. For example, if the widget is inserted into the tree
 in multiple locations, the framework will create a separate <code>State</code> object
 for each location. Similarly, if the widget is removed from the tree and
-later inserted into the tree again, the framework will call /sdk-for-flutter-explore-mapview-heremap-createstate
+later inserted into the tree again, the framework will call <a href="../../mapview/HereMap/createState.html">/sdk-for-flutter-explore-mapview-heremap-createstate</a>
 again to create a fresh <code>State</code> object, simplifying the lifecycle of
 <code>State</code> objects.</p>
 </section>
@@ -77,9 +76,9 @@ State&lt;StatefulWidget&gt; createState() =&gt; _HereMapState();</code></pre>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-heremap-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/HereMap-class.html">/sdk-for-flutter-explore-mapview-heremap-class</a></li>
 <li class="self-crumb">createState method</li>
 </ol>
 <h5>HereMap class</h5>
@@ -96,5 +95,4 @@ State&lt;StatefulWidget&gt; createState() =&gt; _HereMapState();</code></pre>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

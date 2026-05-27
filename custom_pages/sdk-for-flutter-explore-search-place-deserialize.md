@@ -1,10 +1,9 @@
 ---
-title: "deserialize static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-place-deserialize"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- deserialize.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-place-deserialize"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-place-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a></li>
 <li class="self-crumb">deserialize static method</li>
 </ol>
 <div class="self-name">deserialize</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>deserialize static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-search-place-class
+<a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a>
 deserialize(<wbr/><ol class="parameter-list single-line"> <li>String serializedPlace</li>
 </ol>)
 
@@ -46,12 +45,12 @@ deserialize(<wbr/><ol class="parameter-list single-line"> <li>String serializedP
 
     </section>
 <section class="desc markdown">
-<p>Returns a /sdk-for-flutter-explore-search-place-class created from serialized string.</p>
+<p>Returns a <a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a> created from serialized string.</p>
 <ul>
 <li><code>serializedPlace</code> The serialized place</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-search-place-class. A /sdk-for-flutter-explore-search-place-class created from serialized string.</p>
-<p>Throws /sdk-for-flutter-explore-search-placeserializationexceptionexception-class. Indicates what went wrong during deserialization attempt.</p>
+<p>Returns <a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a>. A <a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a> created from serialized string.</p>
+<p>Throws <a href="../../search/PlaceSerializationExceptionException-class.html">/sdk-for-flutter-explore-search-placeserializationexceptionexception-class</a>. Indicates what went wrong during deserialization attempt.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -65,9 +64,9 @@ deserialize(<wbr/><ol class="parameter-list single-line"> <li>String serializedP
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-place-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a></li>
 <li class="self-crumb">deserialize static method</li>
 </ol>
 <h5>Place class</h5>
@@ -84,5 +83,4 @@ deserialize(<wbr/><ol class="parameter-list single-line"> <li>String serializedP
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

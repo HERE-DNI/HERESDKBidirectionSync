@@ -1,10 +1,9 @@
 ---
-title: "Attribution constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-attribution-attribution"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Attribution.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-attribution-attribution"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-attribution-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Attribution-class.html">/sdk-for-flutter-explore-routing-attribution-class</a></li>
 <li class="self-crumb">Attribution constructor</li>
 </ol>
 <div class="self-name">Attribution</div>
@@ -40,7 +39,7 @@ menu
 <section class="multi-line-signature">
 Attribution(<wbr/><ol class="parameter-list single-line"> <li>String id, </li>
 <li>String text, </li>
-<li>/sdk-for-flutter-explore-routing-attributiontype type</li>
+<li><a href="../../routing/AttributionType.html">/sdk-for-flutter-explore-routing-attributiontype</a> type</li>
 </ol>)
     </section>
 <section class="summary source-code" id="source">
@@ -56,9 +55,9 @@ Attribution(<wbr/><ol class="parameter-list single-line"> <li>String id, </li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-attribution-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Attribution-class.html">/sdk-for-flutter-explore-routing-attribution-class</a></li>
 <li class="self-crumb">Attribution constructor</li>
 </ol>
 <h5>Attribution class</h5>
@@ -75,5 +74,4 @@ Attribution(<wbr/><ol class="parameter-list single-line"> <li>String id, </li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "HereMapController class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-heremapcontroller-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- HereMapController-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -51,8 +50,8 @@ slug: "sdk-for-flutter-explore-mapview-heremapcontroller-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">HereMapController class</li>
 </ol>
 <div class="self-name">HereMapController</div>
@@ -76,7 +75,7 @@ menu
 <div>
 <h1>HereMapController class abstract</h1></div>
 <section class="desc markdown">
-<p>Allows interacting with the map displayed by /sdk-for-flutter-explore-mapview-heremap-class widget.</p>
+<p>Allows interacting with the map displayed by <a href="../mapview/HereMap-class.html">/sdk-for-flutter-explore-mapview-heremap-class</a> widget.</p>
 </section>
 <section>
 <dl class="dl-horizontal">
@@ -84,7 +83,7 @@ menu
 <dd>
 <ul class="gt-separated dark clazz-relationships">
 <li>Object</li>
-<li>/sdk-for-flutter-explore-mapview-mapviewbase-class</li>
+<li><a href="../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a></li>
 <li>HereMapController</li>
 </ul>
 </dd>
@@ -94,7 +93,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="HereMapController">
-/sdk-for-flutter-explore-mapview-heremapcontroller-heremapcontroller(int id)
+<a href="../mapview/HereMapController/HereMapController.html">/sdk-for-flutter-explore-mapview-heremapcontroller-heremapcontroller</a>(int id)
 </dt>
 <dd>
 <div class="constructor-modifier features">factory</div>
@@ -105,8 +104,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="camera">
-/sdk-for-flutter-explore-mapview-mapviewbase-camera
-→ /sdk-for-flutter-explore-mapview-mapcamera-class
+<a href="../mapview/MapViewBase/camera.html">/sdk-for-flutter-explore-mapview-mapviewbase-camera</a>
+→ <a href="../mapview/MapCamera-class.html">/sdk-for-flutter-explore-mapview-mapcamera-class</a>
 </dt>
 <dd class="inherited">
   The camera to control the view for the map.
@@ -114,7 +113,7 @@ Gets the camera to control the view for the map.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="frameRate">
-/sdk-for-flutter-explore-mapview-mapviewbase-framerate
+<a href="../mapview/MapViewBase/frameRate.html">/sdk-for-flutter-explore-mapview-mapviewbase-framerate</a>
 ↔ int
 </dt>
 <dd class="inherited">
@@ -123,8 +122,8 @@ Gets maximum render frame rate in frames per second.
   <div class="features">getter/setter pairinherited</div>
 </dd>
 <dt class="property inherited" id="gestures">
-/sdk-for-flutter-explore-mapview-mapviewbase-gestures
-→ /sdk-for-flutter-explore-gestures-gestures-class
+<a href="../mapview/MapViewBase/gestures.html">/sdk-for-flutter-explore-mapview-mapviewbase-gestures</a>
+→ <a href="../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a>
 </dt>
 <dd class="inherited">
   The gestures control object for setting up the capture of gestures.
@@ -132,7 +131,7 @@ Gets the gestures control object.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-mapviewbase-hashcode
+<a href="../mapview/MapViewBase/hashCode.html">/sdk-for-flutter-explore-mapview-mapviewbase-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -140,16 +139,16 @@ Gets the gestures control object.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="hereMapControllerCore">
-/sdk-for-flutter-explore-mapview-mapviewbase-heremapcontrollercore
-→ /sdk-for-flutter-explore-mapview-heremapcontrollercore-class
+<a href="../mapview/MapViewBase/hereMapControllerCore.html">/sdk-for-flutter-explore-mapview-mapviewbase-heremapcontrollercore</a>
+→ <a href="../mapview/HereMapControllerCore-class.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-class</a>
 </dt>
 <dd class="inherited">
   Here Map associated with this map view.
-Gets the /sdk-for-flutter-explore-mapview-heremapcontrollercore-class associated with this map view.
+Gets the <a href="../mapview/HereMapControllerCore-class.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-class</a> associated with this map view.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="isValid">
-/sdk-for-flutter-explore-mapview-mapviewbase-isvalid
+<a href="../mapview/MapViewBase/isValid.html">/sdk-for-flutter-explore-mapview-mapviewbase-isvalid</a>
 → bool
 </dt>
 <dd class="inherited">
@@ -159,8 +158,8 @@ Returns <code>true</code> if this instance is valid, <code>false</code> otherwis
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="mapContext">
-/sdk-for-flutter-explore-mapview-mapviewbase-mapcontext
-→ /sdk-for-flutter-explore-mapview-mapcontext-class
+<a href="../mapview/MapViewBase/mapContext.html">/sdk-for-flutter-explore-mapview-mapviewbase-mapcontext</a>
+→ <a href="../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a>
 </dt>
 <dd class="inherited">
   Map context associated with this map view.
@@ -168,8 +167,8 @@ Gets the map context associated with this map view.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="mapScene">
-/sdk-for-flutter-explore-mapview-mapviewbase-mapscene
-→ /sdk-for-flutter-explore-mapview-mapscene-class
+<a href="../mapview/MapViewBase/mapScene.html">/sdk-for-flutter-explore-mapview-mapviewbase-mapscene</a>
+→ <a href="../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a>
 </dt>
 <dd class="inherited">
   Map scene associated with this map view.
@@ -177,7 +176,7 @@ Gets the map scene associated with this map view.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="pixelScale">
-/sdk-for-flutter-explore-mapview-mapviewbase-pixelscale
+<a href="../mapview/MapViewBase/pixelScale.html">/sdk-for-flutter-explore-mapview-mapviewbase-pixelscale</a>
 → double
 </dt>
 <dd class="inherited">
@@ -185,7 +184,7 @@ Gets the map scene associated with this map view.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mapviewbase-runtimetype
+<a href="../mapview/MapViewBase/runtimeType.html">/sdk-for-flutter-explore-mapview-mapviewbase-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -193,20 +192,20 @@ Gets the map scene associated with this map view.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="viewportSize">
-/sdk-for-flutter-explore-mapview-mapviewbase-viewportsize
-→ /sdk-for-flutter-explore-core-size2d-class
+<a href="../mapview/MapViewBase/viewportSize.html">/sdk-for-flutter-explore-mapview-mapviewbase-viewportsize</a>
+→ <a href="../core/Size2D-class.html">/sdk-for-flutter-explore-core-size2d-class</a>
 </dt>
 <dd class="inherited">
   The size of this map view in physical pixels.
 If internally the map view's render surface is not attached yet
-(see: /sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class), or after the map view has been destroyed
+(see: <a href="../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a>), or after the map view has been destroyed
 then a <code>Size2D</code> with zero width and height is returned.
 Gets the size of this map view in physical pixels.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="watermarkSize">
-/sdk-for-flutter-explore-mapview-mapviewbase-watermarksize
-→ /sdk-for-flutter-explore-core-size2d-class
+<a href="../mapview/MapViewBase/watermarkSize.html">/sdk-for-flutter-explore-mapview-mapviewbase-watermarksize</a>
+→ <a href="../core/Size2D-class.html">/sdk-for-flutter-explore-core-size2d-class</a>
 </dt>
 <dd class="inherited">
   Provides the size of the watermark in physical pixels.
@@ -214,8 +213,8 @@ Returns the watermark size in physical pixels.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="widgetPins">
-/sdk-for-flutter-explore-mapview-heremapcontroller-widgetpins
-→ List&lt;<wbr/>/sdk-for-flutter-explore-mapview-widgetpin-class&gt;
+<a href="../mapview/HereMapController/widgetPins.html">/sdk-for-flutter-explore-mapview-heremapcontroller-widgetpins</a>
+→ List&lt;<wbr/><a href="../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a>&gt;
 </dt>
 <dd>
   Gets a list of currently added widget pins.
@@ -227,17 +226,17 @@ Returns the watermark size in physical pixels.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="addLifecycleListener">
-/sdk-for-flutter-explore-mapview-mapviewbase-addlifecyclelistener(<wbr/>/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class lifecycleListener)
+<a href="../mapview/MapViewBase/addLifecycleListener.html">/sdk-for-flutter-explore-mapview-mapviewbase-addlifecyclelistener</a>(<wbr/><a href="../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a> lifecycleListener)
     → void
 
 </dt>
 <dd class="inherited">
-  Adds a /sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class to this map view.
+  Adds a <a href="../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a> to this map view.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="geoToViewCoordinates">
-/sdk-for-flutter-explore-mapview-mapviewbase-geotoviewcoordinates(<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class geoCoordinates)
-    → /sdk-for-flutter-explore-core-point2d-class?
+<a href="../mapview/MapViewBase/geoToViewCoordinates.html">/sdk-for-flutter-explore-mapview-mapviewbase-geotoviewcoordinates</a>(<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> geoCoordinates)
+    → <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>?
 
 </dt>
 <dd class="inherited">
@@ -245,7 +244,7 @@ Returns the watermark size in physical pixels.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mapviewbase-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapViewBase/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapviewbase-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -254,7 +253,7 @@ Returns the watermark size in physical pixels.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="pause">
-/sdk-for-flutter-explore-mapview-heremapcontroller-pause(<wbr/>)
+<a href="../mapview/HereMapController/pause.html">/sdk-for-flutter-explore-mapview-heremapcontroller-pause</a>(<wbr/>)
     → void
 
 </dt>
@@ -264,7 +263,7 @@ Returns the watermark size in physical pixels.
 
 </dd>
 <dt class="callable inherited" id="pick">
-/sdk-for-flutter-explore-mapview-mapviewbase-pick(<wbr/>/sdk-for-flutter-explore-mapview-mapscenemappickfilter-class? filter, /sdk-for-flutter-explore-core-rectangle2d-class viewArea, /sdk-for-flutter-explore-mapview-mapviewbasemappickcallback callback)
+<a href="../mapview/MapViewBase/pick.html">/sdk-for-flutter-explore-mapview-mapviewbase-pick</a>(<wbr/><a href="../mapview/MapSceneMapPickFilter-class.html">/sdk-for-flutter-explore-mapview-mapscenemappickfilter-class</a>? filter, <a href="../core/Rectangle2D-class.html">/sdk-for-flutter-explore-core-rectangle2d-class</a> viewArea, <a href="../mapview/MapViewBaseMapPickCallback.html">/sdk-for-flutter-explore-mapview-mapviewbasemappickcallback</a> callback)
     → void
 
 </dt>
@@ -273,8 +272,8 @@ Returns the watermark size in physical pixels.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="pinWidget">
-/sdk-for-flutter-explore-mapview-heremapcontroller-pinwidget(<wbr/>Widget widget, /sdk-for-flutter-explore-core-geocoordinates-class coordinates, {/sdk-for-flutter-explore-core-anchor2d-class? anchor})
-    → /sdk-for-flutter-explore-mapview-widgetpin-class?
+<a href="../mapview/HereMapController/pinWidget.html">/sdk-for-flutter-explore-mapview-heremapcontroller-pinwidget</a>(<wbr/>Widget widget, <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates, {<a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a>? anchor})
+    → <a href="../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a>?
 
 </dt>
 <dd>
@@ -284,16 +283,16 @@ control the pinning.
 
 </dd>
 <dt class="callable inherited" id="removeLifecycleListener">
-/sdk-for-flutter-explore-mapview-mapviewbase-removelifecyclelistener(<wbr/>/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class lifecycleListener)
+<a href="../mapview/MapViewBase/removeLifecycleListener.html">/sdk-for-flutter-explore-mapview-mapviewbase-removelifecyclelistener</a>(<wbr/><a href="../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a> lifecycleListener)
     → void
 
 </dt>
 <dd class="inherited">
-  Removes a /sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class from this map view.
+  Removes a <a href="../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a> from this map view.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="resume">
-/sdk-for-flutter-explore-mapview-heremapcontroller-resume(<wbr/>)
+<a href="../mapview/HereMapController/resume.html">/sdk-for-flutter-explore-mapview-heremapcontroller-resume</a>(<wbr/>)
     → void
 
 </dt>
@@ -303,7 +302,7 @@ control the pinning.
 
 </dd>
 <dt class="callable inherited" id="setWatermarkLocation">
-/sdk-for-flutter-explore-mapview-mapviewbase-setwatermarklocation(<wbr/>/sdk-for-flutter-explore-core-anchor2d-class anchor, /sdk-for-flutter-explore-core-point2d-class offset)
+<a href="../mapview/MapViewBase/setWatermarkLocation.html">/sdk-for-flutter-explore-mapview-mapviewbase-setwatermarklocation</a>(<wbr/><a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a> anchor, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> offset)
     → void
 
 </dt>
@@ -312,7 +311,7 @@ control the pinning.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="takeScreenshot">
-/sdk-for-flutter-explore-mapview-heremapcontroller-takescreenshot(<wbr/>/sdk-for-flutter-explore-mapview-takescreenshotcallback callback)
+<a href="../mapview/HereMapController/takeScreenshot.html">/sdk-for-flutter-explore-mapview-heremapcontroller-takescreenshot</a>(<wbr/><a href="../mapview/TakeScreenshotCallback.html">/sdk-for-flutter-explore-mapview-takescreenshotcallback</a> callback)
     → void
 
 </dt>
@@ -322,7 +321,7 @@ control the pinning.
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mapviewbase-tostring(<wbr/>)
+<a href="../mapview/MapViewBase/toString.html">/sdk-for-flutter-explore-mapview-mapviewbase-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -331,20 +330,20 @@ control the pinning.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="unpinWidget">
-/sdk-for-flutter-explore-mapview-heremapcontroller-unpinwidget(<wbr/>Widget widget)
+<a href="../mapview/HereMapController/unpinWidget.html">/sdk-for-flutter-explore-mapview-heremapcontroller-unpinwidget</a>(<wbr/>Widget widget)
     → void
 
 </dt>
 <dd>
-  Removes a /sdk-for-flutter-explore-mapview-widgetpin-class from the MapView by specifying the corresponding <code>Widget</code>.
+  Removes a <a href="../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a> from the MapView by specifying the corresponding <code>Widget</code>.
 Trying to unpin a widget that was not pinned or has been unpinned before has no effect.
 All pinned widgets equal to <code>widget</code> will be removed.
   
 
 </dd>
 <dt class="callable inherited" id="viewToGeoCoordinates">
-/sdk-for-flutter-explore-mapview-mapviewbase-viewtogeocoordinates(<wbr/>/sdk-for-flutter-explore-core-point2d-class viewCoordinates)
-    → /sdk-for-flutter-explore-core-geocoordinates-class?
+<a href="../mapview/MapViewBase/viewToGeoCoordinates.html">/sdk-for-flutter-explore-mapview-mapviewbase-viewtogeocoordinates</a>(<wbr/><a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> viewCoordinates)
+    → <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
 
 </dt>
 <dd class="inherited">
@@ -357,7 +356,7 @@ All pinned widgets equal to <code>widget</code> will be removed.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-mapviewbase-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapViewBase/operator_equals.html">/sdk-for-flutter-explore-mapview-mapviewbase-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -371,16 +370,16 @@ All pinned widgets equal to <code>widget</code> will be removed.
 <h2>Static Properties</h2>
 <dl class="properties">
 <dt class="property" id="primaryLanguage">
-/sdk-for-flutter-explore-mapview-heremapcontroller-primarylanguage
-↔ /sdk-for-flutter-explore-core-languagecode?
+<a href="../mapview/HereMapController/primaryLanguage.html">/sdk-for-flutter-explore-mapview-heremapcontroller-primarylanguage</a>
+↔ <a href="../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>?
 </dt>
 <dd>
   The code of desired primary map display language.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="secondaryLanguage">
-/sdk-for-flutter-explore-mapview-heremapcontroller-secondarylanguage
-↔ /sdk-for-flutter-explore-core-languagecode?
+<a href="../mapview/HereMapController/secondaryLanguage.html">/sdk-for-flutter-explore-mapview-heremapcontroller-secondarylanguage</a>
+↔ <a href="../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>?
 </dt>
 <dd>
   The code of desired secondary map display language.
@@ -388,12 +387,12 @@ Note: This feature is in beta state and thus there can be bugs and unexpected be
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="shadowQuality">
-/sdk-for-flutter-explore-mapview-heremapcontroller-shadowquality
-↔ /sdk-for-flutter-explore-mapview-shadowquality
+<a href="../mapview/HereMapController/shadowQuality.html">/sdk-for-flutter-explore-mapview-heremapcontroller-shadowquality</a>
+↔ <a href="../mapview/ShadowQuality.html">/sdk-for-flutter-explore-mapview-shadowquality</a>
 </dt>
 <dd>
   The current shadow quality.
-Default shadow quality is /sdk-for-flutter-explore-mapview-shadowquality.
+Default shadow quality is <a href="../mapview/ShadowQuality.html">/sdk-for-flutter-explore-mapview-shadowquality</a>.
 Note: This feature is in beta state and thus there can be bugs and unexpected behavior.
   <div class="features">getter/setter pair</div>
 </dd>
@@ -407,8 +406,8 @@ Note: This feature is in beta state and thus there can be bugs and unexpected be
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">HereMapController class</li>
 </ol>
 <h5>mapview library</h5>
@@ -425,5 +424,4 @@ Note: This feature is in beta state and thus there can be bugs and unexpected be
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

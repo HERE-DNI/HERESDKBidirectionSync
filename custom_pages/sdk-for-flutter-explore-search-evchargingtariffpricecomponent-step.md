@@ -1,10 +1,9 @@
 ---
-title: "step property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evchargingtariffpricecomponent-step"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- step.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evchargingtariffpricecomponent-step"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingTariffPriceComponent-class.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class</a></li>
 <li class="self-crumb">step property</li>
 </ol>
 <div class="self-name">step</div>
@@ -45,9 +44,9 @@ menu
 </section>
 <section class="desc markdown">
 <p>Dimension quantity used as a unit of billing. Present for all other dimensions except
-/sdk-for-flutter-explore-search-evchargingtariffdimension. The customer is charged price for each full or partial
-step of the dimension consumed. For /sdk-for-flutter-explore-search-evchargingtariffdimension, the step size unit
-is 1 Wh, for /sdk-for-flutter-explore-search-evchargingtariffdimension and /sdk-for-flutter-explore-search-evchargingtariffdimension
+<a href="../../search/EVChargingTariffDimension.html">/sdk-for-flutter-explore-search-evchargingtariffdimension</a>. The customer is charged price for each full or partial
+step of the dimension consumed. For <a href="../../search/EVChargingTariffDimension.html">/sdk-for-flutter-explore-search-evchargingtariffdimension</a>, the step size unit
+is 1 Wh, for <a href="../../search/EVChargingTariffDimension.html">/sdk-for-flutter-explore-search-evchargingtariffdimension</a> and <a href="../../search/EVChargingTariffDimension.html">/sdk-for-flutter-explore-search-evchargingtariffdimension</a>
 it is 1 second. For example, if step is 300 for time, then time is billed in 5 minute steps, rounded upwards.
 Similarly, if step is 100 for energy, then energy is billed in 100 Wh = 0.1 kWh steps.</p>
 </section>
@@ -63,9 +62,9 @@ Similarly, if step is 100 for energy, then energy is billed in 100 Wh = 0.1 kWh 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingTariffPriceComponent-class.html">/sdk-for-flutter-explore-search-evchargingtariffpricecomponent-class</a></li>
 <li class="self-crumb">step property</li>
 </ol>
 <h5>EVChargingTariffPriceComponent class</h5>
@@ -82,5 +81,4 @@ Similarly, if step is 100 for energy, then energy is billed in 100 Wh = 0.1 kWh 
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

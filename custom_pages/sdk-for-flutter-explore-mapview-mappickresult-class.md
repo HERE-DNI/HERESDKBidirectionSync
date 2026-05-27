@@ -1,10 +1,9 @@
 ---
-title: "MapPickResult class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mappickresult-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapPickResult-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-mapview-mappickresult-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapPickResult class</li>
 </ol>
 <div class="self-name">MapPickResult</div>
@@ -59,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapPickResult">
-/sdk-for-flutter-explore-mapview-mappickresult-mappickresult()
+<a href="../mapview/MapPickResult/MapPickResult.html">/sdk-for-flutter-explore-mapview-mappickresult-mappickresult</a>()
 </dt>
 <dd>
 </dd>
@@ -69,8 +68,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="customLayerObjectDescriptors">
-/sdk-for-flutter-explore-mapview-mappickresult-customlayerobjectdescriptors
-→ List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapobjectdescriptor-class&gt;?
+<a href="../mapview/MapPickResult/customLayerObjectDescriptors.html">/sdk-for-flutter-explore-mapview-mappickresult-customlayerobjectdescriptors</a>
+→ List&lt;<wbr/><a href="../mapview/MapObjectDescriptor-class.html">/sdk-for-flutter-explore-mapview-mapobjectdescriptor-class</a>&gt;?
 </dt>
 <dd>
   List of map object descriptors representing picked objects from custom user data layers.
@@ -78,7 +77,7 @@ Gets a list of map object descriptors representing picked objects from custom us
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-mappickresult-hashcode
+<a href="../mapview/MapPickResult/hashCode.html">/sdk-for-flutter-explore-mapview-mappickresult-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -86,8 +85,8 @@ Gets a list of map object descriptors representing picked objects from custom us
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="mapContent">
-/sdk-for-flutter-explore-mapview-mappickresult-mapcontent
-→ /sdk-for-flutter-explore-mapview-pickmapcontentresult-class?
+<a href="../mapview/MapPickResult/mapContent.html">/sdk-for-flutter-explore-mapview-mappickresult-mapcontent</a>
+→ <a href="../mapview/PickMapContentResult-class.html">/sdk-for-flutter-explore-mapview-pickmapcontentresult-class</a>?
 </dt>
 <dd>
   Picked map content result.
@@ -95,8 +94,8 @@ Gets a picked map content result.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="mapItems">
-/sdk-for-flutter-explore-mapview-mappickresult-mapitems
-→ /sdk-for-flutter-explore-mapview-pickmapitemsresult-class?
+<a href="../mapview/MapPickResult/mapItems.html">/sdk-for-flutter-explore-mapview-mappickresult-mapitems</a>
+→ <a href="../mapview/PickMapItemsResult-class.html">/sdk-for-flutter-explore-mapview-pickmapitemsresult-class</a>?
 </dt>
 <dd>
   Picked map items result.
@@ -104,7 +103,7 @@ Gets a picked map items result.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mappickresult-runtimetype
+<a href="../mapview/MapPickResult/runtimeType.html">/sdk-for-flutter-explore-mapview-mappickresult-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -117,7 +116,7 @@ Gets a picked map items result.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mappickresult-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapPickResult/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mappickresult-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -126,7 +125,7 @@ Gets a picked map items result.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mappickresult-tostring(<wbr/>)
+<a href="../mapview/MapPickResult/toString.html">/sdk-for-flutter-explore-mapview-mappickresult-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -140,7 +139,7 @@ Gets a picked map items result.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-mappickresult-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapPickResult/operator_equals.html">/sdk-for-flutter-explore-mapview-mappickresult-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -158,8 +157,8 @@ Gets a picked map items result.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapPickResult class</li>
 </ol>
 <h5>mapview library</h5>
@@ -176,5 +175,4 @@ Gets a picked map items result.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

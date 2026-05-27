@@ -1,10 +1,9 @@
 ---
-title: "RouteTextOptions class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-routetextoptions-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- RouteTextOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-routing-routetextoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">RouteTextOptions class</li>
 </ol>
 <div class="self-name">RouteTextOptions</div>
@@ -59,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="RouteTextOptions">
-/sdk-for-flutter-explore-routing-routetextoptions-routetextoptions()
+<a href="../routing/RouteTextOptions/RouteTextOptions.html">/sdk-for-flutter-explore-routing-routetextoptions-routetextoptions</a>()
 </dt>
 <dd>
 </dd>
@@ -69,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-routetextoptions-hashcode
+<a href="../routing/RouteTextOptions/hashCode.html">/sdk-for-flutter-explore-routing-routetextoptions-hashcode</a>
 → int
 </dt>
 <dd>
@@ -77,8 +76,8 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="language">
-/sdk-for-flutter-explore-routing-routetextoptions-language
-↔ /sdk-for-flutter-explore-core-languagecode
+<a href="../routing/RouteTextOptions/language.html">/sdk-for-flutter-explore-routing-routetextoptions-language</a>
+↔ <a href="../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>
 </dt>
 <dd>
   The language for all textual information. When the specified language is not supported,
@@ -86,7 +85,7 @@ the default language is used, which is English (United States).
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-routetextoptions-runtimetype
+<a href="../routing/RouteTextOptions/runtimeType.html">/sdk-for-flutter-explore-routing-routetextoptions-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -94,17 +93,17 @@ the default language is used, which is English (United States).
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="textUsageOptions">
-/sdk-for-flutter-explore-routing-routetextoptions-textusageoptions
-↔ /sdk-for-flutter-explore-routing-textusageoptions-class
+<a href="../routing/RouteTextOptions/textUsageOptions.html">/sdk-for-flutter-explore-routing-routetextoptions-textusageoptions</a>
+↔ <a href="../routing/TextUsageOptions-class.html">/sdk-for-flutter-explore-routing-textusageoptions-class</a>
 </dt>
 <dd>
   An option whether street name, road number and sign post direction should be used when generating notification.
-Defaults to each attribute as /sdk-for-flutter-explore-routing-localizedtextpreference.
+Defaults to each attribute as <a href="../routing/LocalizedTextPreference.html">/sdk-for-flutter-explore-routing-localizedtextpreference</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="unitSystem">
-/sdk-for-flutter-explore-routing-routetextoptions-unitsystem
-↔ /sdk-for-flutter-explore-core-unitsystem
+<a href="../routing/RouteTextOptions/unitSystem.html">/sdk-for-flutter-explore-routing-routetextoptions-unitsystem</a>
+↔ <a href="../core/UnitSystem.html">/sdk-for-flutter-explore-core-unitsystem</a>
 </dt>
 <dd>
   Defines the measurement system used in instruction text. When imperial is selected,
@@ -117,7 +116,7 @@ units used are based on the language specified in the request. Defaults to metri
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-routetextoptions-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/RouteTextOptions/noSuchMethod.html">/sdk-for-flutter-explore-routing-routetextoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -126,7 +125,7 @@ units used are based on the language specified in the request. Defaults to metri
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-routetextoptions-tostring(<wbr/>)
+<a href="../routing/RouteTextOptions/toString.html">/sdk-for-flutter-explore-routing-routetextoptions-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -140,7 +139,7 @@ units used are based on the language specified in the request. Defaults to metri
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-routetextoptions-operator-equals(<wbr/>Object other)
+<a href="../routing/RouteTextOptions/operator_equals.html">/sdk-for-flutter-explore-routing-routetextoptions-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -159,8 +158,8 @@ units used are based on the language specified in the request. Defaults to metri
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">RouteTextOptions class</li>
 </ol>
 <h5>routing library</h5>
@@ -177,5 +176,4 @@ units used are based on the language specified in the request. Defaults to metri
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

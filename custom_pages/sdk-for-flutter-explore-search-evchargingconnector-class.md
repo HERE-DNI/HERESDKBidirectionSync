@@ -1,10 +1,9 @@
 ---
-title: "EVChargingConnector class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-evchargingconnector-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVChargingConnector-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -34,8 +33,8 @@ slug: "sdk-for-flutter-explore-search-evchargingconnector-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVChargingConnector class</li>
 </ol>
 <div class="self-name">EVChargingConnector</div>
@@ -67,7 +66,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVChargingConnector">
-/sdk-for-flutter-explore-search-evchargingconnector-evchargingconnector()
+<a href="../search/EVChargingConnector/EVChargingConnector.html">/sdk-for-flutter-explore-search-evchargingconnector-evchargingconnector</a>()
 </dt>
 <dd>
 </dd>
@@ -77,24 +76,24 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="connectorType">
-/sdk-for-flutter-explore-search-evchargingconnector-connectortype
+<a href="../search/EVChargingConnector/connectorType.html">/sdk-for-flutter-explore-search-evchargingconnector-connectortype</a>
 ↔ String
 </dt>
 <dd>
   Standardized type of the connector.
-Should be one of the constants defined in /sdk-for-flutter-explore-ev-evchargingconnectortype-class.
+Should be one of the constants defined in <a href="../ev/EVChargingConnectorType-class.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-class</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="format">
-/sdk-for-flutter-explore-search-evchargingconnector-format
-↔ /sdk-for-flutter-explore-ev-evchargingconnectorformat
+<a href="../search/EVChargingConnector/format.html">/sdk-for-flutter-explore-search-evchargingconnector-format</a>
+↔ <a href="../ev/EVChargingConnectorFormat.html">/sdk-for-flutter-explore-ev-evchargingconnectorformat</a>
 </dt>
 <dd>
   Format of the connector, whether it is a socket or a cable.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-evchargingconnector-hashcode
+<a href="../search/EVChargingConnector/hashCode.html">/sdk-for-flutter-explore-search-evchargingconnector-hashcode</a>
 → int
 </dt>
 <dd>
@@ -102,7 +101,7 @@ Should be one of the constants defined in /sdk-for-flutter-explore-ev-evcharging
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="id">
-/sdk-for-flutter-explore-search-evchargingconnector-id
+<a href="../search/EVChargingConnector/id.html">/sdk-for-flutter-explore-search-evchargingconnector-id</a>
 ↔ String
 </dt>
 <dd>
@@ -110,7 +109,7 @@ Should be one of the constants defined in /sdk-for-flutter-explore-ev-evcharging
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxCurrentInAmperes">
-/sdk-for-flutter-explore-search-evchargingconnector-maxcurrentinamperes
+<a href="../search/EVChargingConnector/maxCurrentInAmperes.html">/sdk-for-flutter-explore-search-evchargingconnector-maxcurrentinamperes</a>
 ↔ int
 </dt>
 <dd>
@@ -118,7 +117,7 @@ Should be one of the constants defined in /sdk-for-flutter-explore-ev-evcharging
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxPowerInWatts">
-/sdk-for-flutter-explore-search-evchargingconnector-maxpowerinwatts
+<a href="../search/EVChargingConnector/maxPowerInWatts.html">/sdk-for-flutter-explore-search-evchargingconnector-maxpowerinwatts</a>
 ↔ int?
 </dt>
 <dd>
@@ -128,7 +127,7 @@ voltage and amperage.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxVoltageInVolts">
-/sdk-for-flutter-explore-search-evchargingconnector-maxvoltageinvolts
+<a href="../search/EVChargingConnector/maxVoltageInVolts.html">/sdk-for-flutter-explore-search-evchargingconnector-maxvoltageinvolts</a>
 ↔ int
 </dt>
 <dd>
@@ -136,15 +135,15 @@ voltage and amperage.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="powerType">
-/sdk-for-flutter-explore-search-evchargingconnector-powertype
-↔ /sdk-for-flutter-explore-core-powertype
+<a href="../search/EVChargingConnector/powerType.html">/sdk-for-flutter-explore-search-evchargingconnector-powertype</a>
+↔ <a href="../core/PowerType.html">/sdk-for-flutter-explore-core-powertype</a>
 </dt>
 <dd>
   Type of electrical power used by the connector.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-evchargingconnector-runtimetype
+<a href="../search/EVChargingConnector/runtimeType.html">/sdk-for-flutter-explore-search-evchargingconnector-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -152,7 +151,7 @@ voltage and amperage.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="tariffIndexes">
-/sdk-for-flutter-explore-search-evchargingconnector-tariffindexes
+<a href="../search/EVChargingConnector/tariffIndexes.html">/sdk-for-flutter-explore-search-evchargingconnector-tariffindexes</a>
 ↔ List&lt;<wbr/>int&gt;
 </dt>
 <dd>
@@ -162,7 +161,7 @@ Available only if <code>EVChargingLocationFeature.TARIFFS</code> is included in
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="termsAndConditionsUrl">
-/sdk-for-flutter-explore-search-evchargingconnector-termsandconditionsurl
+<a href="../search/EVChargingConnector/termsAndConditionsUrl.html">/sdk-for-flutter-explore-search-evchargingconnector-termsandconditionsurl</a>
 ↔ String?
 </dt>
 <dd>
@@ -175,7 +174,7 @@ Available only if <code>EVChargingLocationFeature.TARIFFS</code> is included in
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-evchargingconnector-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/EVChargingConnector/noSuchMethod.html">/sdk-for-flutter-explore-search-evchargingconnector-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -184,7 +183,7 @@ Available only if <code>EVChargingLocationFeature.TARIFFS</code> is included in
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-evchargingconnector-tostring(<wbr/>)
+<a href="../search/EVChargingConnector/toString.html">/sdk-for-flutter-explore-search-evchargingconnector-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -198,7 +197,7 @@ Available only if <code>EVChargingLocationFeature.TARIFFS</code> is included in
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-evchargingconnector-operator-equals(<wbr/>Object other)
+<a href="../search/EVChargingConnector/operator_equals.html">/sdk-for-flutter-explore-search-evchargingconnector-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -217,8 +216,8 @@ Available only if <code>EVChargingLocationFeature.TARIFFS</code> is included in
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVChargingConnector class</li>
 </ol>
 <h5>search library</h5>
@@ -235,5 +234,4 @@ Available only if <code>EVChargingLocationFeature.TARIFFS</code> is included in
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

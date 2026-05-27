@@ -3,8 +3,7 @@ title: "RenderSize constructor"
 slug: "sdk-for-flutter-explore-mapview-rendersize-rendersize"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- RenderSize.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-rendersize-rendersize"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-rendersize-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/RenderSize-class.html">/sdk-for-flutter-explore-mapview-rendersize-class</a></li>
 <li class="self-crumb">RenderSize constructor</li>
 </ol>
 <div class="self-name">RenderSize</div>
@@ -48,9 +47,9 @@ RenderSize(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-rendersize-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/RenderSize-class.html">/sdk-for-flutter-explore-mapview-rendersize-class</a></li>
 <li class="self-crumb">RenderSize constructor</li>
 </ol>
 <h5>RenderSize class</h5>
@@ -67,5 +66,4 @@ RenderSize(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

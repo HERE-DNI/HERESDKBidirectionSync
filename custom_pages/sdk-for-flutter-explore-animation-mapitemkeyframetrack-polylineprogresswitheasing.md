@@ -1,10 +1,9 @@
 ---
-title: "polylineProgressWithEasing static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-animation-mapitemkeyframetrack-polylineprogresswitheasing"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- polylineProgressWithEasing.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-animation-mapitemkeyframetrack-polylineprogresswi
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../../animation/MapItemKeyFrameTrack-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</a></li>
 <li class="self-crumb">polylineProgressWithEasing static method</li>
 </ol>
 <div class="self-name">polylineProgressWithEasing</div>
@@ -38,10 +37,10 @@ menu
 <div>
 <h1>polylineProgressWithEasing static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class
-polylineProgressWithEasing(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-animation-scalarkeyframe-class&gt; keyframes, </li>
-<li>/sdk-for-flutter-explore-animation-easing-class easing, </li>
-<li>/sdk-for-flutter-explore-animation-keyframeinterpolationmode interpolationMode</li>
+<a href="../../animation/MapItemKeyFrameTrack-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</a>
+polylineProgressWithEasing(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../animation/ScalarKeyframe-class.html">/sdk-for-flutter-explore-animation-scalarkeyframe-class</a>&gt; keyframes, </li>
+<li><a href="../../animation/Easing-class.html">/sdk-for-flutter-explore-animation-easing-class</a> easing, </li>
+<li><a href="../../animation/KeyframeInterpolationMode.html">/sdk-for-flutter-explore-animation-keyframeinterpolationmode</a> interpolationMode</li>
 </ol>)
 
       
@@ -49,7 +48,7 @@ polylineProgressWithEasing(<wbr/><ol class="parameter-list single-line"> <li>Lis
     </section>
 <section class="desc markdown">
 <p>Creates a keyframe track used to animate the progress of a polyline.</p>
-<p>Each scalar keyframe specifies the value of /sdk-for-flutter-explore-mapview-mappolyline-progress
+<p>Each scalar keyframe specifies the value of <a href="../../mapview/MapPolyline/progress.html">/sdk-for-flutter-explore-mapview-mappolyline-progress</a>
 at key points of the animation.</p>
 <ul>
 <li>
@@ -63,8 +62,8 @@ over time.</p>
 <p><code>interpolationMode</code> The type of interpolation done between keyframe values.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-animation-mapitemkeyframetrack-class. MapItemKeyFrameTrack instance.</p>
-<p>Throws /sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-class. If the supplied keyframe list is empty or first keyframe duration is not 0.</p>
+<p>Returns <a href="../../animation/MapItemKeyFrameTrack-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</a>. MapItemKeyFrameTrack instance.</p>
+<p>Throws <a href="../../animation/MapItemKeyFrameTrackInstantiationException-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrackinstantiationexception-class</a>. If the supplied keyframe list is empty or first keyframe duration is not 0.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -78,9 +77,9 @@ over time.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../../animation/MapItemKeyFrameTrack-class.html">/sdk-for-flutter-explore-animation-mapitemkeyframetrack-class</a></li>
 <li class="self-crumb">polylineProgressWithEasing static method</li>
 </ol>
 <h5>MapItemKeyFrameTrack class</h5>
@@ -97,5 +96,4 @@ over time.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

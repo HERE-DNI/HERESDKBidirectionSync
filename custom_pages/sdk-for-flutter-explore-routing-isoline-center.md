@@ -1,10 +1,9 @@
 ---
-title: "center property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-isoline-center"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- center.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-isoline-center"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-isoline-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Isoline-class.html">/sdk-for-flutter-explore-routing-isoline-class</a></li>
 <li class="self-crumb">center property</li>
 </ol>
 <div class="self-name">center</div>
@@ -39,7 +38,7 @@ menu
 <h1>center property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-routing-mapmatchedcoordinates-class
+<a href="../../routing/MapMatchedCoordinates-class.html">/sdk-for-flutter-explore-routing-mapmatchedcoordinates-class</a>
 center
 </section>
 <section class="desc markdown">
@@ -61,9 +60,9 @@ Gets the center point that was used to calculate this isoline.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-isoline-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Isoline-class.html">/sdk-for-flutter-explore-routing-isoline-class</a></li>
 <li class="self-crumb">center property</li>
 </ol>
 <h5>Isoline class</h5>
@@ -80,5 +79,4 @@ Gets the center point that was used to calculate this isoline.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "EasingInstantiationException class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-animation-easinginstantiationexception-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EasingInstantiationException-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-animation-easinginstantiationexception-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
 <li class="self-crumb">EasingInstantiationException class</li>
 </ol>
 <div class="self-name">EasingInstantiationException</div>
@@ -51,13 +50,13 @@ menu
 <div>
 <h1>EasingInstantiationException class</h1></div>
 <section class="desc markdown">
-<p>Thrown when a problem occurs while trying to create an /sdk-for-flutter-explore-animation-easing-class.</p>
+<p>Thrown when a problem occurs while trying to create an <a href="../animation/Easing-class.html">/sdk-for-flutter-explore-animation-easing-class</a>.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EasingInstantiationException">
-/sdk-for-flutter-explore-animation-easinginstantiationexception-easinginstantiationexception(/sdk-for-flutter-explore-animation-easinginstantiationerrorcode error)
+<a href="../animation/EasingInstantiationException/EasingInstantiationException.html">/sdk-for-flutter-explore-animation-easinginstantiationexception-easinginstantiationexception</a>(<a href="../animation/EasingInstantiationErrorCode.html">/sdk-for-flutter-explore-animation-easinginstantiationerrorcode</a> error)
 </dt>
 <dd>
 </dd>
@@ -67,14 +66,14 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="error">
-/sdk-for-flutter-explore-animation-easinginstantiationexception-error
-→ /sdk-for-flutter-explore-animation-easinginstantiationerrorcode
+<a href="../animation/EasingInstantiationException/error.html">/sdk-for-flutter-explore-animation-easinginstantiationexception-error</a>
+→ <a href="../animation/EasingInstantiationErrorCode.html">/sdk-for-flutter-explore-animation-easinginstantiationerrorcode</a>
 </dt>
 <dd>
 <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-animation-easinginstantiationexception-hashcode
+<a href="../animation/EasingInstantiationException/hashCode.html">/sdk-for-flutter-explore-animation-easinginstantiationexception-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -82,7 +81,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-animation-easinginstantiationexception-runtimetype
+<a href="../animation/EasingInstantiationException/runtimeType.html">/sdk-for-flutter-explore-animation-easinginstantiationexception-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -95,7 +94,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-animation-easinginstantiationexception-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../animation/EasingInstantiationException/noSuchMethod.html">/sdk-for-flutter-explore-animation-easinginstantiationexception-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -104,7 +103,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-animation-easinginstantiationexception-tostring(<wbr/>)
+<a href="../animation/EasingInstantiationException/toString.html">/sdk-for-flutter-explore-animation-easinginstantiationexception-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -118,7 +117,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-animation-easinginstantiationexception-operator-equals(<wbr/>Object other)
+<a href="../animation/EasingInstantiationException/operator_equals.html">/sdk-for-flutter-explore-animation-easinginstantiationexception-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -136,8 +135,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
 <li class="self-crumb">EasingInstantiationException class</li>
 </ol>
 <h5>animation library</h5>
@@ -154,5 +153,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

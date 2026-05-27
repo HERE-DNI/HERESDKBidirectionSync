@@ -1,10 +1,9 @@
 ---
-title: "ScooterOptions class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-scooteroptions-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- ScooterOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -34,8 +33,8 @@ slug: "sdk-for-flutter-explore-routing-scooteroptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">ScooterOptions class</li>
 </ol>
 <div class="self-name">ScooterOptions</div>
@@ -66,7 +65,7 @@ menu
 <dt>Annotations</dt>
 <dd>
 <ul class="annotation-list clazz-relationships">
-<li>@Deprecated("Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use `RoutingOptions` class instead.")</li>
 </ul>
 </dd>
 </dl>
@@ -75,7 +74,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="ScooterOptions">
-/sdk-for-flutter-explore-routing-scooteroptions-scooteroptions()
+<a href="../routing/ScooterOptions/ScooterOptions.html">/sdk-for-flutter-explore-routing-scooteroptions-scooteroptions</a>()
 </dt>
 <dd>
 </dd>
@@ -85,25 +84,25 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="allowHighway">
-/sdk-for-flutter-explore-routing-scooteroptions-allowhighway
+<a href="../routing/ScooterOptions/allowHighway.html">/sdk-for-flutter-explore-routing-scooteroptions-allowhighway</a>
 ↔ bool
 </dt>
 <dd>
   Specifies whether scooter is allowed on highway or not. <code>True</code> means scooter is
 allowed to use highways and <code>false</code> means otherwise. By default it is set to <code>false</code>.
-Note that there is a similar parameter in /sdk-for-flutter-explore-routing-avoidanceoptions-class, to
-disallow highway usage, see /sdk-for-flutter-explore-routing-roadfeatures.
+Note that there is a similar parameter in <a href="../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a>, to
+disallow highway usage, see <a href="../routing/RoadFeatures.html">/sdk-for-flutter-explore-routing-roadfeatures</a>.
 As the avoidance options takes precedence, if this parameter is also used, then
 scooters are not allowed to use highways even if <code>allowHighway</code> is set to <code>true</code>.
 However, if no alternative route is possible, the calculated route may use highways.
-In such a case, a /sdk-for-flutter-explore-routing-sectionnotice-class will be provided in the related /sdk-for-flutter-explore-routing-section-class
+In such a case, a <a href="../routing/SectionNotice-class.html">/sdk-for-flutter-explore-routing-sectionnotice-class</a> will be provided in the related <a href="../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a>
 to indicate that the highway usage restriction is violated on this route.
 A few examples:
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="avoidanceOptions">
-/sdk-for-flutter-explore-routing-scooteroptions-avoidanceoptions
-↔ /sdk-for-flutter-explore-routing-avoidanceoptions-class
+<a href="../routing/ScooterOptions/avoidanceOptions.html">/sdk-for-flutter-explore-routing-scooteroptions-avoidanceoptions</a>
+↔ <a href="../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a>
 </dt>
 <dd>
   Options to specify restrictions for route calculations. By default
@@ -111,7 +110,7 @@ no restrictions are applied.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="engineSizeInCubicCentimeters">
-/sdk-for-flutter-explore-routing-scooteroptions-enginesizeincubiccentimeters
+<a href="../routing/ScooterOptions/engineSizeInCubicCentimeters.html">/sdk-for-flutter-explore-routing-scooteroptions-enginesizeincubiccentimeters</a>
 ↔ int?
 </dt>
 <dd>
@@ -120,7 +119,7 @@ is <code>null</code>, which means the scooter route calculation ignores all engi
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-scooteroptions-hashcode
+<a href="../routing/ScooterOptions/hashCode.html">/sdk-for-flutter-explore-routing-scooteroptions-hashcode</a>
 → int
 </dt>
 <dd>
@@ -128,7 +127,7 @@ is <code>null</code>, which means the scooter route calculation ignores all engi
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="lastCharacterOfLicensePlate">
-/sdk-for-flutter-explore-routing-scooteroptions-lastcharacteroflicenseplate
+<a href="../routing/ScooterOptions/lastCharacterOfLicensePlate.html">/sdk-for-flutter-explore-routing-scooteroptions-lastcharacteroflicenseplate</a>
 ↔ String?
 </dt>
 <dd>
@@ -142,15 +141,15 @@ Example usage: "7", when the license plate of a vehicle looks like "B-ET-182487"
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxSpeedOnSegments">
-/sdk-for-flutter-explore-routing-scooteroptions-maxspeedonsegments
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-maxspeedonsegment-class&gt;
+<a href="../routing/ScooterOptions/maxSpeedOnSegments.html">/sdk-for-flutter-explore-routing-scooteroptions-maxspeedonsegments</a>
+↔ List&lt;<wbr/><a href="../routing/MaxSpeedOnSegment-class.html">/sdk-for-flutter-explore-routing-maxspeedonsegment-class</a>&gt;
 </dt>
 <dd>
-  Segments with restriction on maximum /sdk-for-flutter-explore-routing-dynamicspeedinfo-basespeedinmeterspersecond.
+  Segments with restriction on maximum <a href="../routing/DynamicSpeedInfo/baseSpeedInMetersPerSecond.html">/sdk-for-flutter-explore-routing-dynamicspeedinfo-basespeedinmeterspersecond</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="occupantsNumber">
-/sdk-for-flutter-explore-routing-scooteroptions-occupantsnumber
+<a href="../routing/ScooterOptions/occupantsNumber.html">/sdk-for-flutter-explore-routing-scooteroptions-occupantsnumber</a>
 ↔ int
 </dt>
 <dd>
@@ -160,15 +159,15 @@ This option is only relevant for Japan and will be ignored for other countries.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="routeOptions">
-/sdk-for-flutter-explore-routing-scooteroptions-routeoptions
-↔ /sdk-for-flutter-explore-routing-routeoptions-class
+<a href="../routing/ScooterOptions/routeOptions.html">/sdk-for-flutter-explore-routing-scooteroptions-routeoptions</a>
+↔ <a href="../routing/RouteOptions-class.html">/sdk-for-flutter-explore-routing-routeoptions-class</a>
 </dt>
 <dd>
   Specifies the common route calculation options.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-scooteroptions-runtimetype
+<a href="../routing/ScooterOptions/runtimeType.html">/sdk-for-flutter-explore-routing-scooteroptions-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -176,8 +175,8 @@ This option is only relevant for Japan and will be ignored for other countries.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="textOptions">
-/sdk-for-flutter-explore-routing-scooteroptions-textoptions
-↔ /sdk-for-flutter-explore-routing-routetextoptions-class
+<a href="../routing/ScooterOptions/textOptions.html">/sdk-for-flutter-explore-routing-scooteroptions-textoptions</a>
+↔ <a href="../routing/RouteTextOptions-class.html">/sdk-for-flutter-explore-routing-routetextoptions-class</a>
 </dt>
 <dd>
   Customize textual content returned from the route calculation, such
@@ -185,8 +184,8 @@ as localization, format, and unit system.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="tollOptions">
-/sdk-for-flutter-explore-routing-scooteroptions-tolloptions
-↔ /sdk-for-flutter-explore-routing-tolloptions-class
+<a href="../routing/ScooterOptions/tollOptions.html">/sdk-for-flutter-explore-routing-scooteroptions-tolloptions</a>
+↔ <a href="../routing/TollOptions-class.html">/sdk-for-flutter-explore-routing-tolloptions-class</a>
 </dt>
 <dd>
   Options to specify how the tolls should be calculated,
@@ -199,7 +198,7 @@ such as transponders, vehicle category, and emission type.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-scooteroptions-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/ScooterOptions/noSuchMethod.html">/sdk-for-flutter-explore-routing-scooteroptions-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -208,7 +207,7 @@ such as transponders, vehicle category, and emission type.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-scooteroptions-tostring(<wbr/>)
+<a href="../routing/ScooterOptions/toString.html">/sdk-for-flutter-explore-routing-scooteroptions-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -222,7 +221,7 @@ such as transponders, vehicle category, and emission type.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-scooteroptions-operator-equals(<wbr/>Object other)
+<a href="../routing/ScooterOptions/operator_equals.html">/sdk-for-flutter-explore-routing-scooteroptions-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -241,8 +240,8 @@ such as transponders, vehicle category, and emission type.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">ScooterOptions class</li>
 </ol>
 <h5>routing library</h5>
@@ -259,5 +258,4 @@ such as transponders, vehicle category, and emission type.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

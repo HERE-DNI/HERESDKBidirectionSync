@@ -1,10 +1,9 @@
 ---
-title: "code property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-sectionnotice-code"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- code.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-sectionnotice-code"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-sectionnotice-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/SectionNotice-class.html">/sdk-for-flutter-explore-routing-sectionnotice-class</a></li>
 <li class="self-crumb">code property</li>
 </ol>
 <div class="self-name">code</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>code property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-routing-sectionnoticecode
+<a href="../../routing/SectionNoticeCode.html">/sdk-for-flutter-explore-routing-sectionnoticecode</a>
 code
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +56,9 @@ code
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-sectionnotice-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/SectionNotice-class.html">/sdk-for-flutter-explore-routing-sectionnotice-class</a></li>
 <li class="self-crumb">code property</li>
 </ol>
 <h5>SectionNotice class</h5>
@@ -76,5 +75,4 @@ code
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

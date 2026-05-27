@@ -1,10 +1,9 @@
 ---
-title: "LogControl class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-engine-logcontrol-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- LogControl-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -31,8 +30,8 @@ slug: "sdk-for-flutter-explore-core-engine-logcontrol-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
 <li class="self-crumb">LogControl class</li>
 </ol>
 <div class="self-name">LogControl</div>
@@ -63,7 +62,7 @@ setting a custom log appender to receive log messages from the SDK.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="LogControl">
-/sdk-for-flutter-explore-core-engine-logcontrol-logcontrol()
+<a href="../core.engine/LogControl/LogControl.html">/sdk-for-flutter-explore-core-engine-logcontrol-logcontrol</a>()
 </dt>
 <dd>
 </dd>
@@ -73,7 +72,7 @@ setting a custom log appender to receive log messages from the SDK.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-core-engine-logcontrol-hashcode
+<a href="../core.engine/LogControl/hashCode.html">/sdk-for-flutter-explore-core-engine-logcontrol-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -81,7 +80,7 @@ setting a custom log appender to receive log messages from the SDK.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-engine-logcontrol-runtimetype
+<a href="../core.engine/LogControl/runtimeType.html">/sdk-for-flutter-explore-core-engine-logcontrol-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -94,7 +93,7 @@ setting a custom log appender to receive log messages from the SDK.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-engine-logcontrol-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core.engine/LogControl/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-logcontrol-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -103,7 +102,7 @@ setting a custom log appender to receive log messages from the SDK.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-engine-logcontrol-tostring(<wbr/>)
+<a href="../core.engine/LogControl/toString.html">/sdk-for-flutter-explore-core-engine-logcontrol-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -117,7 +116,7 @@ setting a custom log appender to receive log messages from the SDK.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-core-engine-logcontrol-operator-equals(<wbr/>Object other)
+<a href="../core.engine/LogControl/operator_equals.html">/sdk-for-flutter-explore-core-engine-logcontrol-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -131,7 +130,7 @@ setting a custom log appender to receive log messages from the SDK.</p>
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="disableLoggingToConsole">
-/sdk-for-flutter-explore-core-engine-logcontrol-disableloggingtoconsole(<wbr/>)
+<a href="../core.engine/LogControl/disableLoggingToConsole.html">/sdk-for-flutter-explore-core-engine-logcontrol-disableloggingtoconsole</a>(<wbr/>)
     → void
 
 </dt>
@@ -141,7 +140,7 @@ setting a custom log appender to receive log messages from the SDK.</p>
 
 </dd>
 <dt class="callable" id="enableLoggingToConsole">
-/sdk-for-flutter-explore-core-engine-logcontrol-enableloggingtoconsole(<wbr/>/sdk-for-flutter-explore-core-engine-loglevel level)
+<a href="../core.engine/LogControl/enableLoggingToConsole.html">/sdk-for-flutter-explore-core-engine-logcontrol-enableloggingtoconsole</a>(<wbr/><a href="../core.engine/LogLevel.html">/sdk-for-flutter-explore-core-engine-loglevel</a> level)
     → void
 
 </dt>
@@ -151,7 +150,7 @@ setting a custom log appender to receive log messages from the SDK.</p>
 
 </dd>
 <dt class="callable" id="removeAppender">
-/sdk-for-flutter-explore-core-engine-logcontrol-removeappender(<wbr/>)
+<a href="../core.engine/LogControl/removeAppender.html">/sdk-for-flutter-explore-core-engine-logcontrol-removeappender</a>(<wbr/>)
     → void
 
 </dt>
@@ -161,7 +160,7 @@ setting a custom log appender to receive log messages from the SDK.</p>
 
 </dd>
 <dt class="callable" id="setAppender">
-/sdk-for-flutter-explore-core-engine-logcontrol-setappender(<wbr/>/sdk-for-flutter-explore-core-engine-loglevel level, String path)
+<a href="../core.engine/LogControl/setAppender.html">/sdk-for-flutter-explore-core-engine-logcontrol-setappender</a>(<wbr/><a href="../core.engine/LogLevel.html">/sdk-for-flutter-explore-core-engine-loglevel</a> level, String path)
     → void
 
 </dt>
@@ -171,7 +170,7 @@ setting a custom log appender to receive log messages from the SDK.</p>
 
 </dd>
 <dt class="callable" id="setCustomAppender">
-/sdk-for-flutter-explore-core-engine-logcontrol-setcustomappender(<wbr/>/sdk-for-flutter-explore-core-engine-loglevel level, /sdk-for-flutter-explore-core-engine-logappender-class appender)
+<a href="../core.engine/LogControl/setCustomAppender.html">/sdk-for-flutter-explore-core-engine-logcontrol-setcustomappender</a>(<wbr/><a href="../core.engine/LogLevel.html">/sdk-for-flutter-explore-core-engine-loglevel</a> level, <a href="../core.engine/LogAppender-class.html">/sdk-for-flutter-explore-core-engine-logappender-class</a> appender)
     → void
 
 </dt>
@@ -190,8 +189,8 @@ setting a custom log appender to receive log messages from the SDK.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
 <li class="self-crumb">LogControl class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -208,5 +207,4 @@ setting a custom log appender to receive log messages from the SDK.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

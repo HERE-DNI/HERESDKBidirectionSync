@@ -1,10 +1,9 @@
 ---
-title: "CategoryQuery.withCategoryAndFilterInArea constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-categoryquery-categoryquery-withcategoryandfilterinarea"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- CategoryQuery.withCategoryAndFilterInArea.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-categoryquery-categoryquery-withcategoryan
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-categoryquery-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/CategoryQuery-class.html">/sdk-for-flutter-explore-search-categoryquery-class</a></li>
 <li class="self-crumb">CategoryQuery.withCategoryAndFilterInArea factory constructor</li>
 </ol>
 <div class="self-name">CategoryQuery.withCategoryAndFilterInArea</div>
@@ -38,9 +37,9 @@ menu
 <div>
 <h1>CategoryQuery.withCategoryAndFilterInArea constructor</h1></div>
 <section class="multi-line-signature">
-CategoryQuery.withCategoryAndFilterInArea(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-search-placecategory-class category, </li>
+CategoryQuery.withCategoryAndFilterInArea(<wbr/><ol class="parameter-list single-line"> <li><a href="../../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a> category, </li>
 <li>String filter, </li>
-<li>/sdk-for-flutter-explore-search-categoryqueryarea-class area</li>
+<li><a href="../../search/CategoryQueryArea-class.html">/sdk-for-flutter-explore-search-categoryqueryarea-class</a> area</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -70,9 +69,9 @@ Results with a partial match are included in the response.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-categoryquery-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/CategoryQuery-class.html">/sdk-for-flutter-explore-search-categoryquery-class</a></li>
 <li class="self-crumb">CategoryQuery.withCategoryAndFilterInArea factory constructor</li>
 </ol>
 <h5>CategoryQuery class</h5>
@@ -89,5 +88,4 @@ Results with a partial match are included in the response.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

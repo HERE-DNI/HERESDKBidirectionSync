@@ -1,10 +1,9 @@
 ---
-title: "fromRadians static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-angle-fromradians"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- fromRadians.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-angle-fromradians"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-angle-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/Angle-class.html">/sdk-for-flutter-explore-core-angle-class</a></li>
 <li class="self-crumb">fromRadians static method</li>
 </ol>
 <div class="self-name">fromRadians</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>fromRadians static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-angle-class
+<a href="../../core/Angle-class.html">/sdk-for-flutter-explore-core-angle-class</a>
 fromRadians(<wbr/><ol class="parameter-list single-line"> <li>double angle</li>
 </ol>)
 
@@ -50,7 +49,7 @@ fromRadians(<wbr/><ol class="parameter-list single-line"> <li>double angle</li>
 <ul>
 <li><code>angle</code> Angle value in radians.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-angle-class. The angle as specified by input in radians.</p>
+<p>Returns <a href="../../core/Angle-class.html">/sdk-for-flutter-explore-core-angle-class</a>. The angle as specified by input in radians.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -64,9 +63,9 @@ fromRadians(<wbr/><ol class="parameter-list single-line"> <li>double angle</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-angle-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/Angle-class.html">/sdk-for-flutter-explore-core-angle-class</a></li>
 <li class="self-crumb">fromRadians static method</li>
 </ol>
 <h5>Angle class</h5>
@@ -83,5 +82,4 @@ fromRadians(<wbr/><ol class="parameter-list single-line"> <li>double angle</li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

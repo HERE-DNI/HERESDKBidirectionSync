@@ -1,10 +1,9 @@
 ---
-title: "PointDataBuilder class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PointDataBuilder-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">PointDataBuilder class</li>
 </ol>
 <div class="self-name">PointDataBuilder</div>
@@ -53,7 +52,7 @@ menu
 <div>
 <h1>PointDataBuilder class abstract</h1></div>
 <section class="desc markdown">
-<p>Builder of /sdk-for-flutter-explore-mapview-datasource-pointdata-class instances.</p>
+<p>Builder of <a href="../mapview.datasource/PointData-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdata-class</a> instances.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -61,7 +60,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PointDataBuilder">
-/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-pointdatabuilder()
+<a href="../mapview.datasource/PointDataBuilder/PointDataBuilder.html">/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-pointdatabuilder</a>()
 </dt>
 <dd>
           Creates a builder instance.
@@ -73,7 +72,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-hashcode
+<a href="../mapview.datasource/PointDataBuilder/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -81,7 +80,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-runtimetype
+<a href="../mapview.datasource/PointDataBuilder/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -94,17 +93,16 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="build">
-/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-build(<wbr/>)
-    → /sdk-for-flutter-explore-mapview-datasource-pointdata-class
-
+<a href="../mapview.datasource/PointDataBuilder/build.html">/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-build</a>(<wbr/>)
+    → <a href="../mapview.datasource/PointData-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdata-class</a>
 </dt>
 <dd>
-  Builds an instance of /sdk-for-flutter-explore-mapview-datasource-pointdata-class and resets the builder instance.
+  Builds an instance of <a href="../mapview.datasource/PointData-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdata-class</a> and resets the builder instance.
   
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview.datasource/PointDataBuilder/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -113,7 +111,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-tostring(<wbr/>)
+<a href="../mapview.datasource/PointDataBuilder/toString.html">/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -122,9 +120,8 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="withAttributes">
-/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-withattributes(<wbr/>/sdk-for-flutter-explore-mapview-datasource-dataattributes-class attributes)
-    → /sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-class
-
+<a href="../mapview.datasource/PointDataBuilder/withAttributes.html">/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-withattributes</a>(<wbr/><a href="../mapview.datasource/DataAttributes-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributes-class</a> attributes)
+    → <a href="../mapview.datasource/PointDataBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-class</a>
 </dt>
 <dd>
   Configures the builder with custom attributes for point to be created.
@@ -132,9 +129,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="withCoordinates">
-/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-withcoordinates(<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class coordinates)
-    → /sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-class
-
+<a href="../mapview.datasource/PointDataBuilder/withCoordinates.html">/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-withcoordinates</a>(<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates)
+    → <a href="../mapview.datasource/PointDataBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-class</a>
 </dt>
 <dd>
   Configures the builder with geodetic coordinates for point to be created.
@@ -147,7 +143,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-operator-equals(<wbr/>Object other)
+<a href="../mapview.datasource/PointDataBuilder/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -165,8 +161,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">PointDataBuilder class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -183,5 +179,4 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

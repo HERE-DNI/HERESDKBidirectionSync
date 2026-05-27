@@ -1,10 +1,9 @@
 ---
-title: "TrafficOnSection class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-trafficonsection-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TrafficOnSection-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-routing-trafficonsection-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">TrafficOnSection class</li>
 </ol>
 <div class="self-name">TrafficOnSection</div>
@@ -61,7 +60,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TrafficOnSection">
-/sdk-for-flutter-explore-routing-trafficonsection-trafficonsection(/sdk-for-flutter-explore-routing-routeplace-class departurePlace, /sdk-for-flutter-explore-routing-routeplace-class arrivalPlace)
+<a href="../routing/TrafficOnSection/TrafficOnSection.html">/sdk-for-flutter-explore-routing-trafficonsection-trafficonsection</a>(<a href="../routing/RoutePlace-class.html">/sdk-for-flutter-explore-routing-routeplace-class</a> departurePlace, <a href="../routing/RoutePlace-class.html">/sdk-for-flutter-explore-routing-routeplace-class</a> arrivalPlace)
 </dt>
 <dd>
 </dd>
@@ -71,31 +70,31 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="arrivalPlace">
-/sdk-for-flutter-explore-routing-trafficonsection-arrivalplace
-↔ /sdk-for-flutter-explore-routing-routeplace-class
+<a href="../routing/TrafficOnSection/arrivalPlace.html">/sdk-for-flutter-explore-routing-trafficonsection-arrivalplace</a>
+↔ <a href="../routing/RoutePlace-class.html">/sdk-for-flutter-explore-routing-routeplace-class</a>
 </dt>
 <dd>
   Describes the arrival place.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="departurePlace">
-/sdk-for-flutter-explore-routing-trafficonsection-departureplace
-↔ /sdk-for-flutter-explore-routing-routeplace-class
+<a href="../routing/TrafficOnSection/departurePlace.html">/sdk-for-flutter-explore-routing-trafficonsection-departureplace</a>
+↔ <a href="../routing/RoutePlace-class.html">/sdk-for-flutter-explore-routing-routeplace-class</a>
 </dt>
 <dd>
   Describes the departure place.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="geometry">
-/sdk-for-flutter-explore-routing-trafficonsection-geometry
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt;
+<a href="../routing/TrafficOnSection/geometry.html">/sdk-for-flutter-explore-routing-trafficonsection-geometry</a>
+↔ List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt;
 </dt>
 <dd>
   List of coordinates representing the polyline of this section.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-trafficonsection-hashcode
+<a href="../routing/TrafficOnSection/hashCode.html">/sdk-for-flutter-explore-routing-trafficonsection-hashcode</a>
 → int
 </dt>
 <dd>
@@ -103,7 +102,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-trafficonsection-runtimetype
+<a href="../routing/TrafficOnSection/runtimeType.html">/sdk-for-flutter-explore-routing-trafficonsection-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -111,16 +110,16 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="trafficIncidents">
-/sdk-for-flutter-explore-routing-trafficonsection-trafficincidents
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-trafficincidentonroute-class&gt;
+<a href="../routing/TrafficOnSection/trafficIncidents.html">/sdk-for-flutter-explore-routing-trafficonsection-trafficincidents</a>
+↔ List&lt;<wbr/><a href="../routing/TrafficIncidentOnRoute-class.html">/sdk-for-flutter-explore-routing-trafficincidentonroute-class</a>&gt;
 </dt>
 <dd>
   List of traffic incidents.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="trafficSpans">
-/sdk-for-flutter-explore-routing-trafficonsection-trafficspans
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-trafficonspan-class&gt;
+<a href="../routing/TrafficOnSection/trafficSpans.html">/sdk-for-flutter-explore-routing-trafficonsection-trafficspans</a>
+↔ List&lt;<wbr/><a href="../routing/TrafficOnSpan-class.html">/sdk-for-flutter-explore-routing-trafficonspan-class</a>&gt;
 </dt>
 <dd>
   List of traffic spans.
@@ -132,7 +131,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-trafficonsection-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/TrafficOnSection/noSuchMethod.html">/sdk-for-flutter-explore-routing-trafficonsection-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -141,7 +140,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-trafficonsection-tostring(<wbr/>)
+<a href="../routing/TrafficOnSection/toString.html">/sdk-for-flutter-explore-routing-trafficonsection-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -155,7 +154,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-trafficonsection-operator-equals(<wbr/>Object other)
+<a href="../routing/TrafficOnSection/operator_equals.html">/sdk-for-flutter-explore-routing-trafficonsection-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -174,8 +173,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">TrafficOnSection class</li>
 </ol>
 <h5>routing library</h5>
@@ -192,5 +191,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

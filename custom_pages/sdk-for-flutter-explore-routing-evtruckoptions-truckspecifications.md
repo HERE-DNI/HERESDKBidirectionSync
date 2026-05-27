@@ -1,10 +1,9 @@
 ---
-title: "truckSpecifications property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-evtruckoptions-truckspecifications"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- truckSpecifications.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-evtruckoptions-truckspecifications"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-evtruckoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/EVTruckOptions-class.html">/sdk-for-flutter-explore-routing-evtruckoptions-class</a></li>
 <li class="self-crumb">truckSpecifications property</li>
 </ol>
 <div class="self-name">truckSpecifications</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>truckSpecifications property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-transport-truckspecifications-class
+<a class="deprecated" href="../../transport/TruckSpecifications-class.html">/sdk-for-flutter-explore-transport-truckspecifications-class</a>
 truckSpecifications
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +56,9 @@ truckSpecifications
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-evtruckoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/EVTruckOptions-class.html">/sdk-for-flutter-explore-routing-evtruckoptions-class</a></li>
 <li class="self-crumb">truckSpecifications property</li>
 </ol>
 <h5>EVTruckOptions class</h5>
@@ -76,5 +75,4 @@ truckSpecifications
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

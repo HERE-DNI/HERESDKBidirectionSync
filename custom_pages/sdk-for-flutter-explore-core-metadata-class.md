@@ -1,10 +1,9 @@
 ---
-title: "Metadata class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-metadata-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Metadata-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -37,8 +36,8 @@ slug: "sdk-for-flutter-explore-core-metadata-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">Metadata class</li>
 </ol>
 <div class="self-name">Metadata</div>
@@ -71,7 +70,7 @@ types by the use of the CustomMetadataValue abstract class.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Metadata">
-/sdk-for-flutter-explore-core-metadata-metadata()
+<a href="../core/Metadata/Metadata.html">/sdk-for-flutter-explore-core-metadata-metadata</a>()
 </dt>
 <dd>
           Creates an instance of this class.
@@ -83,7 +82,7 @@ types by the use of the CustomMetadataValue abstract class.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-core-metadata-hashcode
+<a href="../core/Metadata/hashCode.html">/sdk-for-flutter-explore-core-metadata-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -91,7 +90,7 @@ types by the use of the CustomMetadataValue abstract class.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-metadata-runtimetype
+<a href="../core/Metadata/runtimeType.html">/sdk-for-flutter-explore-core-metadata-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -104,8 +103,8 @@ types by the use of the CustomMetadataValue abstract class.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="getCustomValue">
-/sdk-for-flutter-explore-core-metadata-getcustomvalue(<wbr/>String key)
-    → /sdk-for-flutter-explore-core-custommetadatavalue-class?
+<a href="../core/Metadata/getCustomValue.html">/sdk-for-flutter-explore-core-metadata-getcustomvalue</a>(<wbr/>String key)
+    → <a href="../core/CustomMetadataValue-class.html">/sdk-for-flutter-explore-core-custommetadatavalue-class</a>?
 
 </dt>
 <dd>
@@ -114,7 +113,7 @@ types by the use of the CustomMetadataValue abstract class.</p>
 
 </dd>
 <dt class="callable" id="getDouble">
-/sdk-for-flutter-explore-core-metadata-getdouble(<wbr/>String key)
+<a href="../core/Metadata/getDouble.html">/sdk-for-flutter-explore-core-metadata-getdouble</a>(<wbr/>String key)
     → double?
 
 </dt>
@@ -124,8 +123,8 @@ types by the use of the CustomMetadataValue abstract class.</p>
 
 </dd>
 <dt class="callable" id="getGeoCoordinates">
-/sdk-for-flutter-explore-core-metadata-getgeocoordinates(<wbr/>String key)
-    → /sdk-for-flutter-explore-core-geocoordinates-class?
+<a href="../core/Metadata/getGeoCoordinates.html">/sdk-for-flutter-explore-core-metadata-getgeocoordinates</a>(<wbr/>String key)
+    → <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
 
 </dt>
 <dd>
@@ -134,7 +133,7 @@ types by the use of the CustomMetadataValue abstract class.</p>
 
 </dd>
 <dt class="callable" id="getInteger">
-/sdk-for-flutter-explore-core-metadata-getinteger(<wbr/>String key)
+<a href="../core/Metadata/getInteger.html">/sdk-for-flutter-explore-core-metadata-getinteger</a>(<wbr/>String key)
     → int?
 
 </dt>
@@ -144,7 +143,7 @@ types by the use of the CustomMetadataValue abstract class.</p>
 
 </dd>
 <dt class="callable" id="getString">
-/sdk-for-flutter-explore-core-metadata-getstring(<wbr/>String key)
+<a href="../core/Metadata/getString.html">/sdk-for-flutter-explore-core-metadata-getstring</a>(<wbr/>String key)
     → String?
 
 </dt>
@@ -154,8 +153,8 @@ types by the use of the CustomMetadataValue abstract class.</p>
 
 </dd>
 <dt class="callable" id="getType">
-/sdk-for-flutter-explore-core-metadata-gettype(<wbr/>String key)
-    → /sdk-for-flutter-explore-core-metadatatype?
+<a href="../core/Metadata/getType.html">/sdk-for-flutter-explore-core-metadata-gettype</a>(<wbr/>String key)
+    → <a href="../core/MetadataType.html">/sdk-for-flutter-explore-core-metadatatype</a>?
 
 </dt>
 <dd>
@@ -164,7 +163,7 @@ types by the use of the CustomMetadataValue abstract class.</p>
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-metadata-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/Metadata/noSuchMethod.html">/sdk-for-flutter-explore-core-metadata-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -173,7 +172,7 @@ types by the use of the CustomMetadataValue abstract class.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="removeValue">
-/sdk-for-flutter-explore-core-metadata-removevalue(<wbr/>String key)
+<a href="../core/Metadata/removeValue.html">/sdk-for-flutter-explore-core-metadata-removevalue</a>(<wbr/>String key)
     → void
 
 </dt>
@@ -183,7 +182,7 @@ types by the use of the CustomMetadataValue abstract class.</p>
 
 </dd>
 <dt class="callable" id="setCustomValue">
-/sdk-for-flutter-explore-core-metadata-setcustomvalue(<wbr/>String key, /sdk-for-flutter-explore-core-custommetadatavalue-class value)
+<a href="../core/Metadata/setCustomValue.html">/sdk-for-flutter-explore-core-metadata-setcustomvalue</a>(<wbr/>String key, <a href="../core/CustomMetadataValue-class.html">/sdk-for-flutter-explore-core-custommetadatavalue-class</a> value)
     → void
 
 </dt>
@@ -193,7 +192,7 @@ types by the use of the CustomMetadataValue abstract class.</p>
 
 </dd>
 <dt class="callable" id="setDouble">
-/sdk-for-flutter-explore-core-metadata-setdouble(<wbr/>String key, double value)
+<a href="../core/Metadata/setDouble.html">/sdk-for-flutter-explore-core-metadata-setdouble</a>(<wbr/>String key, double value)
     → void
 
 </dt>
@@ -203,7 +202,7 @@ types by the use of the CustomMetadataValue abstract class.</p>
 
 </dd>
 <dt class="callable" id="setGeoCoordinates">
-/sdk-for-flutter-explore-core-metadata-setgeocoordinates(<wbr/>String key, /sdk-for-flutter-explore-core-geocoordinates-class value)
+<a href="../core/Metadata/setGeoCoordinates.html">/sdk-for-flutter-explore-core-metadata-setgeocoordinates</a>(<wbr/>String key, <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> value)
     → void
 
 </dt>
@@ -213,7 +212,7 @@ types by the use of the CustomMetadataValue abstract class.</p>
 
 </dd>
 <dt class="callable" id="setInteger">
-/sdk-for-flutter-explore-core-metadata-setinteger(<wbr/>String key, int value)
+<a href="../core/Metadata/setInteger.html">/sdk-for-flutter-explore-core-metadata-setinteger</a>(<wbr/>String key, int value)
     → void
 
 </dt>
@@ -223,7 +222,7 @@ types by the use of the CustomMetadataValue abstract class.</p>
 
 </dd>
 <dt class="callable" id="setString">
-/sdk-for-flutter-explore-core-metadata-setstring(<wbr/>String key, String value)
+<a href="../core/Metadata/setString.html">/sdk-for-flutter-explore-core-metadata-setstring</a>(<wbr/>String key, String value)
     → void
 
 </dt>
@@ -233,7 +232,7 @@ types by the use of the CustomMetadataValue abstract class.</p>
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-metadata-tostring(<wbr/>)
+<a href="../core/Metadata/toString.html">/sdk-for-flutter-explore-core-metadata-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -247,7 +246,7 @@ types by the use of the CustomMetadataValue abstract class.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-core-metadata-operator-equals(<wbr/>Object other)
+<a href="../core/Metadata/operator_equals.html">/sdk-for-flutter-explore-core-metadata-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -265,8 +264,8 @@ types by the use of the CustomMetadataValue abstract class.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">Metadata class</li>
 </ol>
 <h5>core library</h5>
@@ -283,5 +282,4 @@ types by the use of the CustomMetadataValue abstract class.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

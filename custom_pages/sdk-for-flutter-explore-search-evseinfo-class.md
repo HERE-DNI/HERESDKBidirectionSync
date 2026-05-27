@@ -1,10 +1,9 @@
 ---
-title: "EVSEInfo class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-evseinfo-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVSEInfo-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -36,8 +35,8 @@ slug: "sdk-for-flutter-explore-search-evseinfo-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVSEInfo class</li>
 </ol>
 <div class="self-name">EVSEInfo</div>
@@ -69,7 +68,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="EVSEInfo">
-/sdk-for-flutter-explore-search-evseinfo-evseinfo()
+<a href="../search/EVSEInfo/EVSEInfo.html">/sdk-for-flutter-explore-search-evseinfo-evseinfo</a>()
 </dt>
 <dd>
 </dd>
@@ -79,31 +78,31 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="capabilities">
-/sdk-for-flutter-explore-search-evseinfo-capabilities
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-ev-evsecapability&gt;
+<a href="../search/EVSEInfo/capabilities.html">/sdk-for-flutter-explore-search-evseinfo-capabilities</a>
+↔ List&lt;<wbr/><a href="../ev/EVSECapability.html">/sdk-for-flutter-explore-ev-evsecapability</a>&gt;
 </dt>
 <dd>
   Capabilities of the EVSE.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="connectors">
-/sdk-for-flutter-explore-search-evseinfo-connectors
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-search-evchargingconnector-class&gt;
+<a href="../search/EVSEInfo/connectors.html">/sdk-for-flutter-explore-search-evseinfo-connectors</a>
+↔ List&lt;<wbr/><a href="../search/EVChargingConnector-class.html">/sdk-for-flutter-explore-search-evchargingconnector-class</a>&gt;
 </dt>
 <dd>
   List of available connectors on the EVSE. An operational EVSE should have at least one connector.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="coordinates">
-/sdk-for-flutter-explore-search-evseinfo-coordinates
-↔ /sdk-for-flutter-explore-core-geocoordinates-class?
+<a href="../search/EVSEInfo/coordinates.html">/sdk-for-flutter-explore-search-evseinfo-coordinates</a>
+↔ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
 </dt>
 <dd>
   The geographic coordinates of the EVSE.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="evseID">
-/sdk-for-flutter-explore-search-evseinfo-evseid
+<a href="../search/EVSEInfo/evseID.html">/sdk-for-flutter-explore-search-evseinfo-evseid</a>
 ↔ String?
 </dt>
 <dd>
@@ -111,7 +110,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="floorLevel">
-/sdk-for-flutter-explore-search-evseinfo-floorlevel
+<a href="../search/EVSEInfo/floorLevel.html">/sdk-for-flutter-explore-search-evseinfo-floorlevel</a>
 ↔ String?
 </dt>
 <dd>
@@ -119,7 +118,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-evseinfo-hashcode
+<a href="../search/EVSEInfo/hashCode.html">/sdk-for-flutter-explore-search-evseinfo-hashcode</a>
 → int
 </dt>
 <dd>
@@ -127,7 +126,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="id">
-/sdk-for-flutter-explore-search-evseinfo-id
+<a href="../search/EVSEInfo/id.html">/sdk-for-flutter-explore-search-evseinfo-id</a>
 ↔ String?
 </dt>
 <dd>
@@ -135,7 +134,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="lastUpdated">
-/sdk-for-flutter-explore-search-evseinfo-lastupdated
+<a href="../search/EVSEInfo/lastUpdated.html">/sdk-for-flutter-explore-search-evseinfo-lastupdated</a>
 ↔ DateTime
 </dt>
 <dd>
@@ -143,15 +142,15 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="paymentSupports">
-/sdk-for-flutter-explore-search-evseinfo-paymentsupports
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-ev-evsepaymentsupport&gt;
+<a href="../search/EVSEInfo/paymentSupports.html">/sdk-for-flutter-explore-search-evseinfo-paymentsupports</a>
+↔ List&lt;<wbr/><a href="../ev/EVSEPaymentSupport.html">/sdk-for-flutter-explore-ev-evsepaymentsupport</a>&gt;
 </dt>
 <dd>
   List of payment support functionalities on EVSE for ad-hoc customers (without pre-registration).
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="physicalReference">
-/sdk-for-flutter-explore-search-evseinfo-physicalreference
+<a href="../search/EVSEInfo/physicalReference.html">/sdk-for-flutter-explore-search-evseinfo-physicalreference</a>
 ↔ String?
 </dt>
 <dd>
@@ -159,7 +158,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-evseinfo-runtimetype
+<a href="../search/EVSEInfo/runtimeType.html">/sdk-for-flutter-explore-search-evseinfo-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -167,21 +166,21 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="status">
-/sdk-for-flutter-explore-search-evseinfo-status
-↔ /sdk-for-flutter-explore-ev-evsestate
+<a href="../search/EVSEInfo/status.html">/sdk-for-flutter-explore-search-evseinfo-status</a>
+↔ <a href="../ev/EVSEState.html">/sdk-for-flutter-explore-ev-evsestate</a>
 </dt>
 <dd>
   Status of the EVSE.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="uid">
-/sdk-for-flutter-explore-search-evseinfo-uid
+<a href="../search/EVSEInfo/uid.html">/sdk-for-flutter-explore-search-evseinfo-uid</a>
 ↔ String
 </dt>
 <dd>
   Uniquely identifies the EVSE within the CPOs platform (and suboperator platforms).
 For example a database ID or the actual "EVSE ID". This field can never be changed, modified or renamed.
-This is the 'technical' identification of the EVSE, not to be used as 'human readable' identification, use the field /sdk-for-flutter-explore-search-evseinfo-id for that.
+This is the 'technical' identification of the EVSE, not to be used as 'human readable' identification, use the field <a href="../search/EVSEInfo/id.html">/sdk-for-flutter-explore-search-evseinfo-id</a> for that.
   <div class="features">getter/setter pair</div>
 </dd>
 </dl>
@@ -190,7 +189,7 @@ This is the 'technical' identification of the EVSE, not to be used as 'human rea
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-evseinfo-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/EVSEInfo/noSuchMethod.html">/sdk-for-flutter-explore-search-evseinfo-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -199,7 +198,7 @@ This is the 'technical' identification of the EVSE, not to be used as 'human rea
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-evseinfo-tostring(<wbr/>)
+<a href="../search/EVSEInfo/toString.html">/sdk-for-flutter-explore-search-evseinfo-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -213,7 +212,7 @@ This is the 'technical' identification of the EVSE, not to be used as 'human rea
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-evseinfo-operator-equals(<wbr/>Object other)
+<a href="../search/EVSEInfo/operator_equals.html">/sdk-for-flutter-explore-search-evseinfo-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -232,8 +231,8 @@ This is the 'technical' identification of the EVSE, not to be used as 'human rea
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">EVSEInfo class</li>
 </ol>
 <h5>search library</h5>
@@ -250,5 +249,4 @@ This is the 'technical' identification of the EVSE, not to be used as 'human rea
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

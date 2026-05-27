@@ -1,10 +1,9 @@
 ---
-title: "id property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-placefoodtype-id"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- id.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-placefoodtype-id"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-placefoodtype-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/PlaceFoodType-class.html">/sdk-for-flutter-explore-search-placefoodtype-class</a></li>
 <li class="self-crumb">id property</li>
 </ol>
 <div class="self-name">id</div>
@@ -61,9 +60,9 @@ The complete list of supported food type IDs can be found
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-placefoodtype-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/PlaceFoodType-class.html">/sdk-for-flutter-explore-search-placefoodtype-class</a></li>
 <li class="self-crumb">id property</li>
 </ol>
 <h5>PlaceFoodType class</h5>
@@ -80,5 +79,4 @@ The complete list of supported food type IDs can be found
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

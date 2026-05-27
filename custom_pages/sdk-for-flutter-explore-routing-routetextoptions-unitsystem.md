@@ -1,10 +1,9 @@
 ---
-title: "unitSystem property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-routetextoptions-unitsystem"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- unitSystem.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-routetextoptions-unitsystem"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routetextoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RouteTextOptions-class.html">/sdk-for-flutter-explore-routing-routetextoptions-class</a></li>
 <li class="self-crumb">unitSystem property</li>
 </ol>
 <div class="self-name">unitSystem</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>unitSystem property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-unitsystem
+<a href="../../core/UnitSystem.html">/sdk-for-flutter-explore-core-unitsystem</a>
 unitSystem
 <div class="features">getter/setter pair</div>
 </section>
@@ -58,9 +57,9 @@ units used are based on the language specified in the request. Defaults to metri
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routetextoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RouteTextOptions-class.html">/sdk-for-flutter-explore-routing-routetextoptions-class</a></li>
 <li class="self-crumb">unitSystem property</li>
 </ol>
 <h5>RouteTextOptions class</h5>
@@ -77,5 +76,4 @@ units used are based on the language specified in the request. Defaults to metri
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

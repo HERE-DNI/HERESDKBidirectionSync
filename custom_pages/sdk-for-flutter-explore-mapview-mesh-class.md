@@ -1,10 +1,9 @@
 ---
-title: "Mesh class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mesh-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Mesh-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +24,8 @@ slug: "sdk-for-flutter-explore-mapview-mesh-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">Mesh class</li>
 </ol>
 <div class="self-name">Mesh</div>
@@ -51,15 +50,15 @@ menu
 <h1>Mesh class abstract</h1></div>
 <section class="desc markdown">
 <p>Represents a mesh in 3D space.</p>
-<p>Such meshes are built using /sdk-for-flutter-explore-mapview-meshbuilder-class.</p>
+<p>Such meshes are built using <a href="../mapview/MeshBuilder-class.html">/sdk-for-flutter-explore-mapview-meshbuilder-class</a>.</p>
 <p>The class is not offering any methods, as its data is only meant to be consumed internally
-when being passed to /sdk-for-flutter-explore-mapview-mapmarker3dmodel-class constructor.</p>
+when being passed to <a href="../mapview/MapMarker3DModel-class.html">/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</a> constructor.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Mesh">
-/sdk-for-flutter-explore-mapview-mesh-mesh()
+<a href="../mapview/Mesh/Mesh.html">/sdk-for-flutter-explore-mapview-mesh-mesh</a>()
 </dt>
 <dd>
 </dd>
@@ -69,7 +68,7 @@ when being passed to /sdk-for-flutter-explore-mapview-mapmarker3dmodel-class con
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-mesh-hashcode
+<a href="../mapview/Mesh/hashCode.html">/sdk-for-flutter-explore-mapview-mesh-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -77,7 +76,7 @@ when being passed to /sdk-for-flutter-explore-mapview-mapmarker3dmodel-class con
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mesh-runtimetype
+<a href="../mapview/Mesh/runtimeType.html">/sdk-for-flutter-explore-mapview-mesh-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -90,7 +89,7 @@ when being passed to /sdk-for-flutter-explore-mapview-mapmarker3dmodel-class con
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mesh-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/Mesh/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mesh-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -99,7 +98,7 @@ when being passed to /sdk-for-flutter-explore-mapview-mapmarker3dmodel-class con
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mesh-tostring(<wbr/>)
+<a href="../mapview/Mesh/toString.html">/sdk-for-flutter-explore-mapview-mesh-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -113,7 +112,7 @@ when being passed to /sdk-for-flutter-explore-mapview-mapmarker3dmodel-class con
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-mesh-operator-equals(<wbr/>Object other)
+<a href="../mapview/Mesh/operator_equals.html">/sdk-for-flutter-explore-mapview-mesh-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -131,8 +130,8 @@ when being passed to /sdk-for-flutter-explore-mapview-mapmarker3dmodel-class con
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">Mesh class</li>
 </ol>
 <h5>mapview library</h5>
@@ -149,5 +148,4 @@ when being passed to /sdk-for-flutter-explore-mapview-mapmarker3dmodel-class con
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

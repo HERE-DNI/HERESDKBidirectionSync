@@ -3,8 +3,7 @@ title: "TrafficDataProvider constructor"
 slug: "sdk-for-flutter-explore-traffic-trafficdataprovider-trafficdataprovider"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TrafficDataProvider.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficdataprovider-trafficdataprovider"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficdataprovider-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficDataProvider-class.html">/sdk-for-flutter-explore-traffic-trafficdataprovider-class</a></li>
 <li class="self-crumb">TrafficDataProvider constructor</li>
 </ol>
 <div class="self-name">TrafficDataProvider</div>
@@ -48,9 +47,9 @@ TrafficDataProvider(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficdataprovider-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficDataProvider-class.html">/sdk-for-flutter-explore-traffic-trafficdataprovider-class</a></li>
 <li class="self-crumb">TrafficDataProvider constructor</li>
 </ol>
 <h5>TrafficDataProvider class</h5>
@@ -67,5 +66,4 @@ TrafficDataProvider(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

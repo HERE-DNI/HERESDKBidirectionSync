@@ -1,10 +1,9 @@
 ---
-title: "drawOrderType property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mappolyline-drawordertype"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- drawOrderType.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolyline-drawordertype"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolyline-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a></li>
 <li class="self-crumb">drawOrderType property</li>
 </ol>
 <div class="self-name">drawOrderType</div>
@@ -39,13 +38,13 @@ menu
 <h1>drawOrderType property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-drawordertype
+<a href="../../mapview/DrawOrderType.html">/sdk-for-flutter-explore-mapview-drawordertype</a>
 drawOrderType
 </section>
 <section class="desc markdown">
 <p>The draw order type of the polyline.
 Gets the draw order type of the polyline.</p>
-<p>The default value is /sdk-for-flutter-explore-mapview-drawordertype.</p>
+<p>The default value is <a href="../../mapview/DrawOrderType.html">/sdk-for-flutter-explore-mapview-drawordertype</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -55,22 +54,22 @@ Gets the draw order type of the polyline.</p>
 <section id="setter">
 <section class="multi-line-signature">
 void
-drawOrderType=(<wbr/>/sdk-for-flutter-explore-mapview-drawordertype value)
+drawOrderType=(<wbr/><a href="../../mapview/DrawOrderType.html">/sdk-for-flutter-explore-mapview-drawordertype</a> value)
 </section>
 <section class="desc markdown">
 <p>The draw order type of the polyline.
 Sets the draw order type of the polyline.</p>
-<p>For /sdk-for-flutter-explore-mapview-drawordertype, map polylines with outlines having
+<p>For <a href="../../mapview/DrawOrderType.html">/sdk-for-flutter-explore-mapview-drawordertype</a>, map polylines with outlines having
 the same draw order are drawn as a whole in the order of addition to a map scene. There
 is no possibility that parts of another polyline, regardless of its draw order value,
 are drawn between outline and mainline of another polyline.</p>
-<p>With /sdk-for-flutter-explore-mapview-drawordertype, polylines are rendered one by one.</p>
-<p>For /sdk-for-flutter-explore-mapview-drawordertype, for multiple polylines with
+<p>With <a href="../../mapview/DrawOrderType.html">/sdk-for-flutter-explore-mapview-drawordertype</a>, polylines are rendered one by one.</p>
+<p>For <a href="../../mapview/DrawOrderType.html">/sdk-for-flutter-explore-mapview-drawordertype</a>, for multiple polylines with
 outlines having the same draw order, all outlines are rendered first in an arbitrary order
 and then all mainlines are drawn on top of those polylines in an arbitrary order.</p>
-<p>/sdk-for-flutter-explore-mapview-drawordertype allows speeding up the rendering
+<p><a href="../../mapview/DrawOrderType.html">/sdk-for-flutter-explore-mapview-drawordertype</a> allows speeding up the rendering
 process and keeping high frame rates when many similar polylines (with same styling
-attributes and /sdk-for-flutter-explore-mapview-mappolylinerepresentation-class) are present in a map scene.</p>
+attributes and <a href="../../mapview/MapPolylineRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentation-class</a>) are present in a map scene.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -85,9 +84,9 @@ attributes and /sdk-for-flutter-explore-mapview-mappolylinerepresentation-class)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolyline-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a></li>
 <li class="self-crumb">drawOrderType property</li>
 </ol>
 <h5>MapPolyline class</h5>
@@ -104,5 +103,4 @@ attributes and /sdk-for-flutter-explore-mapview-mappolylinerepresentation-class)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

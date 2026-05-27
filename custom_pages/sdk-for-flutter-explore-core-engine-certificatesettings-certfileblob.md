@@ -1,10 +1,9 @@
 ---
-title: "certFileBlob property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-certificatesettings-certfileblob"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- certFileBlob.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-certificatesettings-certfileblob"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-certificatesettings-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/CertificateSettings-class.html">/sdk-for-flutter-explore-core-engine-certificatesettings-class</a></li>
 <li class="self-crumb">certFileBlob property</li>
 </ol>
 <div class="self-name">certFileBlob</div>
@@ -62,9 +61,9 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-certificatesettings-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/CertificateSettings-class.html">/sdk-for-flutter-explore-core-engine-certificatesettings-class</a></li>
 <li class="self-crumb">certFileBlob property</li>
 </ol>
 <h5>CertificateSettings class</h5>
@@ -81,5 +80,4 @@ behaviors. Related APIs may change for new releases without a deprecation proces
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

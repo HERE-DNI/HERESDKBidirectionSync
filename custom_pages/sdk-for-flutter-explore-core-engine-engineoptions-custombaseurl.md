@@ -1,10 +1,9 @@
 ---
-title: "customBaseUrl property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-engineoptions-custombaseurl"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- customBaseUrl.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-engineoptions-custombaseurl"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-engineoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/EngineOptions-class.html">/sdk-for-flutter-explore-core-engine-engineoptions-class</a></li>
 <li class="self-crumb">customBaseUrl property</li>
 </ol>
 <div class="self-name">customBaseUrl</div>
@@ -61,9 +60,9 @@ Please contact your HERE representative to learn about possible custom base URL 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-engineoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/EngineOptions-class.html">/sdk-for-flutter-explore-core-engine-engineoptions-class</a></li>
 <li class="self-crumb">customBaseUrl property</li>
 </ol>
 <h5>EngineOptions class</h5>
@@ -80,5 +79,4 @@ Please contact your HERE representative to learn about possible custom base URL 
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

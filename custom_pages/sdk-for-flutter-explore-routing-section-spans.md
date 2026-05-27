@@ -1,10 +1,9 @@
 ---
-title: "spans property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-section-spans"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- spans.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-section-spans"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-section-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a></li>
 <li class="self-crumb">spans property</li>
 </ol>
 <div class="self-name">spans</div>
@@ -39,12 +38,12 @@ menu
 <h1>spans property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-List&lt;<wbr/>/sdk-for-flutter-explore-routing-span-class&gt;
+List&lt;<wbr/><a href="../../routing/Span-class.html">/sdk-for-flutter-explore-routing-span-class</a>&gt;
 spans
 </section>
 <section class="desc markdown">
-<p>The /sdk-for-flutter-explore-routing-span-class's that constitute this section.
-Gets the /sdk-for-flutter-explore-routing-span-class's that constitute this section.</p>
+<p>The <a href="../../routing/Span-class.html">/sdk-for-flutter-explore-routing-span-class</a>'s that constitute this section.
+Gets the <a href="../../routing/Span-class.html">/sdk-for-flutter-explore-routing-span-class</a>'s that constitute this section.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +58,9 @@ Gets the /sdk-for-flutter-explore-routing-span-class's that constitute this sect
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-section-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a></li>
 <li class="self-crumb">spans property</li>
 </ol>
 <h5>Section class</h5>
@@ -78,5 +77,4 @@ Gets the /sdk-for-flutter-explore-routing-span-class's that constitute this sect
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

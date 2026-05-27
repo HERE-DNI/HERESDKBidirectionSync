@@ -1,10 +1,9 @@
 ---
-title: "Rectangle2D class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-rectangle2d-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Rectangle2D-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-core-rectangle2d-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">Rectangle2D class</li>
 </ol>
 <div class="self-name">Rectangle2D</div>
@@ -58,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Rectangle2D">
-/sdk-for-flutter-explore-core-rectangle2d-rectangle2d(/sdk-for-flutter-explore-core-point2d-class origin, /sdk-for-flutter-explore-core-size2d-class size)
+<a href="../core/Rectangle2D/Rectangle2D.html">/sdk-for-flutter-explore-core-rectangle2d-rectangle2d</a>(<a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> origin, <a href="../core/Size2D-class.html">/sdk-for-flutter-explore-core-size2d-class</a> size)
 </dt>
 <dd>
           Creates a new instance.
@@ -69,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-core-rectangle2d-hashcode
+<a href="../core/Rectangle2D/hashCode.html">/sdk-for-flutter-explore-core-rectangle2d-hashcode</a>
 → int
 </dt>
 <dd>
@@ -77,8 +76,8 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="origin">
-/sdk-for-flutter-explore-core-rectangle2d-origin
-↔ /sdk-for-flutter-explore-core-point2d-class
+<a href="../core/Rectangle2D/origin.html">/sdk-for-flutter-explore-core-rectangle2d-origin</a>
+↔ <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>
 </dt>
 <dd>
   The origin specifies the top-left corner of the rectangle.
@@ -89,7 +88,7 @@ The height expands towards the bottom of the view.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-rectangle2d-runtimetype
+<a href="../core/Rectangle2D/runtimeType.html">/sdk-for-flutter-explore-core-rectangle2d-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -97,8 +96,8 @@ The height expands towards the bottom of the view.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="size">
-/sdk-for-flutter-explore-core-rectangle2d-size
-↔ /sdk-for-flutter-explore-core-size2d-class
+<a href="../core/Rectangle2D/size.html">/sdk-for-flutter-explore-core-rectangle2d-size</a>
+↔ <a href="../core/Size2D-class.html">/sdk-for-flutter-explore-core-size2d-class</a>
 </dt>
 <dd>
   The size specifies the width and height of the rectangle.
@@ -110,7 +109,7 @@ The height expands towards the bottom of the view.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-rectangle2d-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/Rectangle2D/noSuchMethod.html">/sdk-for-flutter-explore-core-rectangle2d-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -119,7 +118,7 @@ The height expands towards the bottom of the view.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-rectangle2d-tostring(<wbr/>)
+<a href="../core/Rectangle2D/toString.html">/sdk-for-flutter-explore-core-rectangle2d-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -133,7 +132,7 @@ The height expands towards the bottom of the view.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-core-rectangle2d-operator-equals(<wbr/>Object other)
+<a href="../core/Rectangle2D/operator_equals.html">/sdk-for-flutter-explore-core-rectangle2d-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -152,8 +151,8 @@ The height expands towards the bottom of the view.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">Rectangle2D class</li>
 </ol>
 <h5>core library</h5>
@@ -170,5 +169,4 @@ The height expands towards the bottom of the view.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

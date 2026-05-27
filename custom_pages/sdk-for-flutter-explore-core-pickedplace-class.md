@@ -1,10 +1,9 @@
 ---
-title: "PickedPlace class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-pickedplace-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PickedPlace-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-core-pickedplace-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">PickedPlace class</li>
 </ol>
 <div class="self-name">PickedPlace</div>
@@ -59,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PickedPlace">
-/sdk-for-flutter-explore-core-pickedplace-pickedplace(String name, /sdk-for-flutter-explore-core-geocoordinates-class coordinates, String placeCategoryId)
+<a href="../core/PickedPlace/PickedPlace.html">/sdk-for-flutter-explore-core-pickedplace-pickedplace</a>(String name, <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates, String placeCategoryId)
 </dt>
 <dd>
           Creates a new instance.
@@ -70,15 +69,15 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="coordinates">
-/sdk-for-flutter-explore-core-pickedplace-coordinates
-↔ /sdk-for-flutter-explore-core-geocoordinates-class
+<a href="../core/PickedPlace/coordinates.html">/sdk-for-flutter-explore-core-pickedplace-coordinates</a>
+↔ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 </dt>
 <dd>
   The geographic coordinates of the POI.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-core-pickedplace-hashcode
+<a href="../core/PickedPlace/hashCode.html">/sdk-for-flutter-explore-core-pickedplace-hashcode</a>
 → int
 </dt>
 <dd>
@@ -86,7 +85,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="name">
-/sdk-for-flutter-explore-core-pickedplace-name
+<a href="../core/PickedPlace/name.html">/sdk-for-flutter-explore-core-pickedplace-name</a>
 ↔ String
 </dt>
 <dd>
@@ -94,7 +93,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="placeCategoryId">
-/sdk-for-flutter-explore-core-pickedplace-placecategoryid
+<a href="../core/PickedPlace/placeCategoryId.html">/sdk-for-flutter-explore-core-pickedplace-placecategoryid</a>
 ↔ String
 </dt>
 <dd>
@@ -105,7 +104,7 @@ This is the same String value as <code>PlaceCategory.id</code> that can be obtai
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-pickedplace-runtimetype
+<a href="../core/PickedPlace/runtimeType.html">/sdk-for-flutter-explore-core-pickedplace-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -118,7 +117,7 @@ This is the same String value as <code>PlaceCategory.id</code> that can be obtai
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-pickedplace-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/PickedPlace/noSuchMethod.html">/sdk-for-flutter-explore-core-pickedplace-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -127,7 +126,7 @@ This is the same String value as <code>PlaceCategory.id</code> that can be obtai
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-pickedplace-tostring(<wbr/>)
+<a href="../core/PickedPlace/toString.html">/sdk-for-flutter-explore-core-pickedplace-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -141,7 +140,7 @@ This is the same String value as <code>PlaceCategory.id</code> that can be obtai
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-core-pickedplace-operator-equals(<wbr/>Object other)
+<a href="../core/PickedPlace/operator_equals.html">/sdk-for-flutter-explore-core-pickedplace-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -160,8 +159,8 @@ This is the same String value as <code>PlaceCategory.id</code> that can be obtai
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">PickedPlace class</li>
 </ol>
 <h5>core library</h5>
@@ -178,5 +177,4 @@ This is the same String value as <code>PlaceCategory.id</code> that can be obtai
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

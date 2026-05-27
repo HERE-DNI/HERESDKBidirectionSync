@@ -1,10 +1,9 @@
 ---
-title: "TimeOfDayRange class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-timeofdayrange-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TimeOfDayRange-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-search-timeofdayrange-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">TimeOfDayRange class</li>
 </ol>
 <div class="self-name">TimeOfDayRange</div>
@@ -54,8 +53,8 @@ menu
 <section class="desc markdown">
 <p>Time period when the tariff element is valid, in local time.</p>
 <p>The time period wraps around to
-the next day, when end time of the period /sdk-for-flutter-explore-search-timeofdayrange-to
-is smaller than the beginning /sdk-for-flutter-explore-search-timeofdayrange-from.
+the next day, when end time of the period <a href="../search/TimeOfDayRange/to.html">/sdk-for-flutter-explore-search-timeofdayrange-to</a>
+is smaller than the beginning <a href="../search/TimeOfDayRange/from.html">/sdk-for-flutter-explore-search-timeofdayrange-from</a>.
 <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -63,7 +62,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TimeOfDayRange">
-/sdk-for-flutter-explore-search-timeofdayrange-timeofdayrange()
+<a href="../search/TimeOfDayRange/TimeOfDayRange.html">/sdk-for-flutter-explore-search-timeofdayrange-timeofdayrange</a>()
 </dt>
 <dd>
 </dd>
@@ -73,7 +72,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="from">
-/sdk-for-flutter-explore-search-timeofdayrange-from
+<a href="../search/TimeOfDayRange/from.html">/sdk-for-flutter-explore-search-timeofdayrange-from</a>
 ↔ String
 </dt>
 <dd>
@@ -81,7 +80,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-timeofdayrange-hashcode
+<a href="../search/TimeOfDayRange/hashCode.html">/sdk-for-flutter-explore-search-timeofdayrange-hashcode</a>
 → int
 </dt>
 <dd>
@@ -89,7 +88,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-timeofdayrange-runtimetype
+<a href="../search/TimeOfDayRange/runtimeType.html">/sdk-for-flutter-explore-search-timeofdayrange-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -97,7 +96,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="to">
-/sdk-for-flutter-explore-search-timeofdayrange-to
+<a href="../search/TimeOfDayRange/to.html">/sdk-for-flutter-explore-search-timeofdayrange-to</a>
 ↔ String
 </dt>
 <dd>
@@ -111,7 +110,7 @@ The period is exclusive of the given value.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-timeofdayrange-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/TimeOfDayRange/noSuchMethod.html">/sdk-for-flutter-explore-search-timeofdayrange-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -120,7 +119,7 @@ The period is exclusive of the given value.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-timeofdayrange-tostring(<wbr/>)
+<a href="../search/TimeOfDayRange/toString.html">/sdk-for-flutter-explore-search-timeofdayrange-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -134,7 +133,7 @@ The period is exclusive of the given value.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-timeofdayrange-operator-equals(<wbr/>Object other)
+<a href="../search/TimeOfDayRange/operator_equals.html">/sdk-for-flutter-explore-search-timeofdayrange-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -153,8 +152,8 @@ The period is exclusive of the given value.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">TimeOfDayRange class</li>
 </ol>
 <h5>search library</h5>
@@ -171,5 +170,4 @@ The period is exclusive of the given value.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

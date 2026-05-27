@@ -1,10 +1,9 @@
 ---
-title: "onPan abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-gestures-panlistener-onpan"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- onPan.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-gestures-panlistener-onpan"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-panlistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/PanListener-class.html">/sdk-for-flutter-explore-gestures-panlistener-class</a></li>
 <li class="self-crumb">onPan abstract method</li>
 </ol>
 <div class="self-name">onPan</div>
@@ -39,9 +38,9 @@ menu
 <h1>onPan abstract method</h1></div>
 <section class="multi-line-signature">
 void
-onPan(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-gestures-gesturestate state, </li>
-<li>/sdk-for-flutter-explore-core-point2d-class origin, </li>
-<li>/sdk-for-flutter-explore-core-point2d-class translation, </li>
+onPan(<wbr/><ol class="parameter-list"> <li><a href="../../gestures/GestureState.html">/sdk-for-flutter-explore-gestures-gesturestate</a> state, </li>
+<li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> origin, </li>
+<li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> translation, </li>
 <li>double velocity, </li>
 </ol>)
 
@@ -77,9 +76,9 @@ onPan(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-gestures-ge
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-panlistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/PanListener-class.html">/sdk-for-flutter-explore-gestures-panlistener-class</a></li>
 <li class="self-crumb">onPan abstract method</li>
 </ol>
 <h5>PanListener class</h5>
@@ -96,5 +95,4 @@ onPan(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-gestures-ge
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

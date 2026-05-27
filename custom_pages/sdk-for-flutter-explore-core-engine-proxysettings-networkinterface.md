@@ -1,10 +1,9 @@
 ---
-title: "networkInterface property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-proxysettings-networkinterface"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- networkInterface.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-proxysettings-networkinterface"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-proxysettings-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/ProxySettings-class.html">/sdk-for-flutter-explore-core-engine-proxysettings-class</a></li>
 <li class="self-crumb">networkInterface property</li>
 </ol>
 <div class="self-name">networkInterface</div>
@@ -59,9 +58,9 @@ Default value is "wlan0". If not set then no interface is used.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-proxysettings-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/ProxySettings-class.html">/sdk-for-flutter-explore-core-engine-proxysettings-class</a></li>
 <li class="self-crumb">networkInterface property</li>
 </ol>
 <h5>ProxySettings class</h5>
@@ -78,5 +77,4 @@ Default value is "wlan0". If not set then no interface is used.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

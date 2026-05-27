@@ -1,10 +1,9 @@
 ---
-title: "onPause abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-onpause"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- onPause.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-onpause"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a></li>
 <li class="self-crumb">onPause abstract method</li>
 </ol>
 <div class="self-name">onPause</div>
@@ -45,10 +44,10 @@ onPause(<wbr/>)
 
     </section>
 <section class="desc markdown">
-<p>Called when the map view to which this /sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class is attached to gets paused
+<p>Called when the map view to which this <a href="../../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a> is attached to gets paused
 (usually when the app goes into background).</p>
 <p>This should be used by components that
-perform continuous updates to pause those updates until /sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-onresume
+perform continuous updates to pause those updates until <a href="../../mapview/MapViewLifecycleListener/onResume.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-onresume</a>
 is called.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -63,9 +62,9 @@ is called.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a></li>
 <li class="self-crumb">onPause abstract method</li>
 </ol>
 <h5>MapViewLifecycleListener class</h5>
@@ -82,5 +81,4 @@ is called.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

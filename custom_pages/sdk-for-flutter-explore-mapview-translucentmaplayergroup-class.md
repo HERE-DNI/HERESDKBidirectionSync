@@ -1,10 +1,9 @@
 ---
-title: "TranslucentMapLayerGroup class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-translucentmaplayergroup-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TranslucentMapLayerGroup-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-mapview-translucentmaplayergroup-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">TranslucentMapLayerGroup class</li>
 </ol>
 <div class="self-name">TranslucentMapLayerGroup</div>
@@ -53,7 +52,7 @@ menu
 <div>
 <h1>TranslucentMapLayerGroup class abstract</h1></div>
 <section class="desc markdown">
-<p>A translucent layer group that can be the target for /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-ingroup.</p>
+<p>A translucent layer group that can be the target for <a href="../mapview/MapLayerPriorityBuilder/inGroup.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-ingroup</a>.</p>
 <p>Currently, only custom line layers can be added to a translucent layer group.
 Custom line layers in a translucent layer group are rendered in an offscreen translucent pass so
 that overlapping translucent line geometry is not alpha blended with itself.
@@ -105,14 +104,14 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TranslucentMapLayerGroup.create">
-/sdk-for-flutter-explore-mapview-translucentmaplayergroup-translucentmaplayergroup-create(String name, /sdk-for-flutter-explore-mapview-heremapcontrollercore-class aMap)
+<a href="../mapview/TranslucentMapLayerGroup/TranslucentMapLayerGroup.create.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-translucentmaplayergroup-create</a>(String name, <a href="../mapview/HereMapControllerCore-class.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-class</a> aMap)
 </dt>
 <dd>
           Creates an instance of the group.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="TranslucentMapLayerGroup.withPriority">
-/sdk-for-flutter-explore-mapview-translucentmaplayergroup-translucentmaplayergroup-withpriority(String name, /sdk-for-flutter-explore-mapview-heremapcontrollercore-class aMap, /sdk-for-flutter-explore-mapview-maplayerpriority-class priority)
+<a href="../mapview/TranslucentMapLayerGroup/TranslucentMapLayerGroup.withPriority.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-translucentmaplayergroup-withpriority</a>(String name, <a href="../mapview/HereMapControllerCore-class.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-class</a> aMap, <a href="../mapview/MapLayerPriority-class.html">/sdk-for-flutter-explore-mapview-maplayerpriority-class</a> priority)
 </dt>
 <dd>
           Creates an instance of the group.
@@ -124,7 +123,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-translucentmaplayergroup-hashcode
+<a href="../mapview/TranslucentMapLayerGroup/hashCode.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -132,7 +131,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-translucentmaplayergroup-runtimetype
+<a href="../mapview/TranslucentMapLayerGroup/runtimeType.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -145,7 +144,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="destroy">
-/sdk-for-flutter-explore-mapview-translucentmaplayergroup-destroy(<wbr/>)
+<a href="../mapview/TranslucentMapLayerGroup/destroy.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-destroy</a>(<wbr/>)
     → void
 
 </dt>
@@ -155,7 +154,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-translucentmaplayergroup-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/TranslucentMapLayerGroup/noSuchMethod.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -164,7 +163,7 @@ Related APIs may change for new releases without a deprecation process.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="setPriority">
-/sdk-for-flutter-explore-mapview-translucentmaplayergroup-setpriority(<wbr/>/sdk-for-flutter-explore-mapview-maplayerpriority-class priority)
+<a href="../mapview/TranslucentMapLayerGroup/setPriority.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-setpriority</a>(<wbr/><a href="../mapview/MapLayerPriority-class.html">/sdk-for-flutter-explore-mapview-maplayerpriority-class</a> priority)
     → void
 
 </dt>
@@ -174,7 +173,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-translucentmaplayergroup-tostring(<wbr/>)
+<a href="../mapview/TranslucentMapLayerGroup/toString.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -188,7 +187,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-translucentmaplayergroup-operator-equals(<wbr/>Object other)
+<a href="../mapview/TranslucentMapLayerGroup/operator_equals.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -206,8 +205,8 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">TranslucentMapLayerGroup class</li>
 </ol>
 <h5>mapview library</h5>
@@ -224,5 +223,4 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "MapMarkerTextStyle class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mapmarkertextstyle-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapMarkerTextStyle-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -33,8 +32,8 @@ slug: "sdk-for-flutter-explore-mapview-mapmarkertextstyle-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapMarkerTextStyle class</li>
 </ol>
 <div class="self-name">MapMarkerTextStyle</div>
@@ -58,31 +57,31 @@ menu
 <div>
 <h1>MapMarkerTextStyle class abstract</h1></div>
 <section class="desc markdown">
-<p>Styling options for the text of a /sdk-for-flutter-explore-mapview-mapmarker-class.</p>
+<p>Styling options for the text of a <a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapMarkerTextStyle">
-/sdk-for-flutter-explore-mapview-mapmarkertextstyle-mapmarkertextstyle()
+<a href="../mapview/MapMarkerTextStyle/MapMarkerTextStyle.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-mapmarkertextstyle</a>()
 </dt>
 <dd>
-          Creates a default set of styling options for the text of a /sdk-for-flutter-explore-mapview-mapmarker-class that consists of
+          Creates a default set of styling options for the text of a <a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a> that consists of
 the following values:
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="MapMarkerTextStyle.make">
-/sdk-for-flutter-explore-mapview-mapmarkertextstyle-mapmarkertextstyle-make(double textSize, Color textColor, double textOutlineSize, Color textOutlineColor, List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmarkertextstyleplacement&gt; placements)
+<a href="../mapview/MapMarkerTextStyle/MapMarkerTextStyle.make.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-mapmarkertextstyle-make</a>(double textSize, Color textColor, double textOutlineSize, Color textOutlineColor, List&lt;<wbr/><a href="../mapview/MapMarkerTextStylePlacement.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyleplacement</a>&gt; placements)
 </dt>
 <dd>
-          Creates a set of styling options for the text of a /sdk-for-flutter-explore-mapview-mapmarker-class.
+          Creates a set of styling options for the text of a <a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="MapMarkerTextStyle.withFont">
-/sdk-for-flutter-explore-mapview-mapmarkertextstyle-mapmarkertextstyle-withfont(double textSize, Color textColor, double textOutlineSize, Color textOutlineColor, List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmarkertextstyleplacement&gt; placements, String fontName)
+<a href="../mapview/MapMarkerTextStyle/MapMarkerTextStyle.withFont.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-mapmarkertextstyle-withfont</a>(double textSize, Color textColor, double textOutlineSize, Color textOutlineColor, List&lt;<wbr/><a href="../mapview/MapMarkerTextStylePlacement.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyleplacement</a>&gt; placements, String fontName)
 </dt>
 <dd>
-          Creates a set of styling options for the text of a /sdk-for-flutter-explore-mapview-mapmarker-class.
+          Creates a set of styling options for the text of a <a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>.
             <div class="constructor-modifier features">factory</div>
 </dd>
 </dl>
@@ -91,7 +90,7 @@ the following values:
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="fontName">
-/sdk-for-flutter-explore-mapview-mapmarkertextstyle-fontname
+<a href="../mapview/MapMarkerTextStyle/fontName.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-fontname</a>
 → String
 </dt>
 <dd>
@@ -100,7 +99,7 @@ Gets the font name.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-mapmarkertextstyle-hashcode
+<a href="../mapview/MapMarkerTextStyle/hashCode.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -108,16 +107,16 @@ Gets the font name.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="placements">
-/sdk-for-flutter-explore-mapview-mapmarkertextstyle-placements
-→ List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmarkertextstyleplacement&gt;
+<a href="../mapview/MapMarkerTextStyle/placements.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-placements</a>
+→ List&lt;<wbr/><a href="../mapview/MapMarkerTextStylePlacement.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyleplacement</a>&gt;
 </dt>
 <dd>
-  List of possible text placements relative to the icon of a /sdk-for-flutter-explore-mapview-mapmarker-class.
-Gets the possible text placements relative to the icon of a /sdk-for-flutter-explore-mapview-mapmarker-class.
+  List of possible text placements relative to the icon of a <a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>.
+Gets the possible text placements relative to the icon of a <a href="../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mapmarkertextstyle-runtimetype
+<a href="../mapview/MapMarkerTextStyle/runtimeType.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -125,7 +124,7 @@ Gets the possible text placements relative to the icon of a /sdk-for-flutter-exp
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="textColor">
-/sdk-for-flutter-explore-mapview-mapmarkertextstyle-textcolor
+<a href="../mapview/MapMarkerTextStyle/textColor.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-textcolor</a>
 → Color
 </dt>
 <dd>
@@ -134,7 +133,7 @@ Gets the text color.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="textOutlineColor">
-/sdk-for-flutter-explore-mapview-mapmarkertextstyle-textoutlinecolor
+<a href="../mapview/MapMarkerTextStyle/textOutlineColor.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-textoutlinecolor</a>
 → Color
 </dt>
 <dd>
@@ -143,7 +142,7 @@ Gets the text outline color.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="textOutlineSize">
-/sdk-for-flutter-explore-mapview-mapmarkertextstyle-textoutlinesize
+<a href="../mapview/MapMarkerTextStyle/textOutlineSize.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-textoutlinesize</a>
 → double
 </dt>
 <dd>
@@ -152,7 +151,7 @@ Gets the text outline size in pixels.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="textSize">
-/sdk-for-flutter-explore-mapview-mapmarkertextstyle-textsize
+<a href="../mapview/MapMarkerTextStyle/textSize.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-textsize</a>
 → double
 </dt>
 <dd>
@@ -166,7 +165,7 @@ Gets the text size in pixels.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mapmarkertextstyle-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapMarkerTextStyle/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -175,7 +174,7 @@ Gets the text size in pixels.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mapmarkertextstyle-tostring(<wbr/>)
+<a href="../mapview/MapMarkerTextStyle/toString.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -189,7 +188,7 @@ Gets the text size in pixels.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-mapmarkertextstyle-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapMarkerTextStyle/operator_equals.html">/sdk-for-flutter-explore-mapview-mapmarkertextstyle-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -207,8 +206,8 @@ Gets the text size in pixels.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapMarkerTextStyle class</li>
 </ol>
 <h5>mapview library</h5>
@@ -225,5 +224,4 @@ Gets the text size in pixels.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

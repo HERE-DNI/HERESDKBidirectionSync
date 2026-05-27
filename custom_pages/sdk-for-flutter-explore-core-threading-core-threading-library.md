@@ -1,10 +1,9 @@
 ---
-title: "core.threading library"
+title: "Classes"
 slug: "sdk-for-flutter-explore-core-threading-core-threading-library"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- core.threading-library.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -19,7 +18,7 @@ slug: "sdk-for-flutter-explore-core-threading-core-threading-library"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
 <li class="self-crumb">core.threading.dart</li>
 </ol>
 <div class="self-name">core.threading</div>
@@ -47,7 +46,7 @@ menu
 <h2>Classes</h2>
 <dl>
 <dt id="TaskHandle">
-/sdk-for-flutter-explore-core-threading-taskhandle-class
+<a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Handle used for the manipulation of the task.
@@ -58,7 +57,7 @@ menu
 <h2>Enums</h2>
 <dl>
 <dt id="TaskOutcome">
-/sdk-for-flutter-explore-core-threading-taskoutcome
+<a href="../core.threading/TaskOutcome.html">/sdk-for-flutter-explore-core-threading-taskoutcome</a>
 </dt>
 <dd>
   This enum represents that a task has been completed.
@@ -69,8 +68,8 @@ menu
 <h2>Typedefs</h2>
 <dl>
 <dt class="callable" id="OnTaskCompleted">
-/sdk-for-flutter-explore-core-threading-ontaskcompleted
-= void Function(/sdk-for-flutter-explore-core-threading-taskoutcome taskOutcome)
+<a href="../core.threading/OnTaskCompleted.html">/sdk-for-flutter-explore-core-threading-ontaskcompleted</a>
+= void Function(<a href="../core.threading/TaskOutcome.html">/sdk-for-flutter-explore-core-threading-taskoutcome</a> taskOutcome)
 
 </dt>
 <dd>
@@ -88,25 +87,25 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
 <li class="self-crumb">core.threading.dart</li>
 </ol>
 <h5>here_sdk package</h5>
 <ol>
 <li class="section-title">Libraries</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-errors-core-errors-library</li>
-<li>/sdk-for-flutter-explore-core-threading-core-threading-library</li>
-<li>/sdk-for-flutter-explore-ev-ev-library</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../core.errors/core.errors-library.html">/sdk-for-flutter-explore-core-errors-core-errors-library</a></li>
+<li><a href="../core.threading/core.threading-library.html">/sdk-for-flutter-explore-core-threading-core-threading-library</a></li>
+<li><a href="../ev/ev-library.html">/sdk-for-flutter-explore-ev-ev-library</a></li>
+<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
 </ol>
 </div>
 <div class="sidebar sidebar-offcanvas-right" id="dartdoc-sidebar-right">
@@ -121,5 +120,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "WidgetPin constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-widgetpin-widgetpin"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- WidgetPin.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-widgetpin-widgetpin"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-widgetpin-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a></li>
 <li class="self-crumb">WidgetPin factory constructor</li>
 </ol>
 <div class="self-name">WidgetPin</div>
@@ -39,16 +38,16 @@ menu
 <h1>WidgetPin constructor</h1></div>
 <section class="multi-line-signature">
 WidgetPin(<wbr/>{<ol class="parameter-list"> <li>required Widget child, </li>
-<li>required /sdk-for-flutter-explore-core-geocoordinates-class coordinates, </li>
-<li>/sdk-for-flutter-explore-core-anchor2d-class? anchor, </li>
+<li>required <a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates, </li>
+<li><a href="../../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a>? anchor, </li>
 <li>dynamic onChange()?, </li>
-<li>dynamic onUnpin(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-widgetpin-class</li>
+<li>dynamic onUnpin(<ol class="parameter-list single-line"> <li><a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a></li>
 </ol>)?, </li>
 </ol>})
     </section>
 <section class="desc markdown">
-<p>Creates a /sdk-for-flutter-explore-mapview-widgetpin-class displaying child <code>Widget</code> at coordinates location on the map
-Don't use this constructor directly. Instead use /sdk-for-flutter-explore-mapview-heremapcontroller-pinwidget to create a /sdk-for-flutter-explore-mapview-widgetpin-class.</p>
+<p>Creates a <a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a> displaying child <code>Widget</code> at coordinates location on the map
+Don't use this constructor directly. Instead use <a href="../../mapview/HereMapController/pinWidget.html">/sdk-for-flutter-explore-mapview-heremapcontroller-pinwidget</a> to create a <a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -75,9 +74,9 @@ Don't use this constructor directly. Instead use /sdk-for-flutter-explore-mapvie
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-widgetpin-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/WidgetPin-class.html">/sdk-for-flutter-explore-mapview-widgetpin-class</a></li>
 <li class="self-crumb">WidgetPin factory constructor</li>
 </ol>
 <h5>WidgetPin class</h5>
@@ -94,5 +93,4 @@ Don't use this constructor directly. Instead use /sdk-for-flutter-explore-mapvie
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

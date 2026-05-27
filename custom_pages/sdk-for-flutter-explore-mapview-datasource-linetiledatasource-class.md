@@ -1,10 +1,9 @@
 ---
-title: "LineTileDataSource class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-datasource-linetiledatasource-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- LineTileDataSource-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-linetiledatasource-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">LineTileDataSource class</li>
 </ol>
 <div class="self-name">LineTileDataSource</div>
@@ -54,7 +53,7 @@ menu
 <h1>LineTileDataSource class abstract</h1></div>
 <section class="desc markdown">
 <p>Line tile data source allows the rendering engine access to user managed data sets of
-geodetic lines and their attributes through a /sdk-for-flutter-explore-mapview-datasource-linetilesource-class.</p>
+geodetic lines and their attributes through a <a href="../mapview.datasource/LineTileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-linetilesource-class</a>.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected
 behavior. Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -62,7 +61,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="LineTileDataSource">
-/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-linetiledatasource()
+<a href="../mapview.datasource/LineTileDataSource/LineTileDataSource.html">/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-linetiledatasource</a>()
 </dt>
 <dd>
 </dd>
@@ -72,7 +71,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-hashcode
+<a href="../mapview.datasource/LineTileDataSource/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -80,7 +79,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-runtimetype
+<a href="../mapview.datasource/LineTileDataSource/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -93,7 +92,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="destroy">
-/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-destroy(<wbr/>)
+<a href="../mapview.datasource/LineTileDataSource/destroy.html">/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-destroy</a>(<wbr/>)
     → void
 
 </dt>
@@ -103,7 +102,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview.datasource/LineTileDataSource/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -112,7 +111,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-tostring(<wbr/>)
+<a href="../mapview.datasource/LineTileDataSource/toString.html">/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -126,7 +125,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-operator-equals(<wbr/>Object other)
+<a href="../mapview.datasource/LineTileDataSource/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -140,12 +139,11 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="create">
-/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-create(<wbr/>/sdk-for-flutter-explore-mapview-mapcontext-class context, String name, /sdk-for-flutter-explore-mapview-datasource-linetilesource-class tileSource)
-    → /sdk-for-flutter-explore-mapview-datasource-linetiledatasource-class
-
+<a href="../mapview.datasource/LineTileDataSource/create.html">/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-create</a>(<wbr/><a href="../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> context, String name, <a href="../mapview.datasource/LineTileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-linetilesource-class</a> tileSource)
+    → <a href="../mapview.datasource/LineTileDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-class</a>
 </dt>
 <dd>
-  Creates a named /sdk-for-flutter-explore-mapview-datasource-linetiledatasource-class in the given context over a given /sdk-for-flutter-explore-mapview-datasource-linetilesource-class.
+  Creates a named <a href="../mapview.datasource/LineTileDataSource-class.html">/sdk-for-flutter-explore-mapview-datasource-linetiledatasource-class</a> in the given context over a given <a href="../mapview.datasource/LineTileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-linetilesource-class</a>.
   
 
 </dd>
@@ -159,8 +157,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">LineTileDataSource class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -177,5 +175,4 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

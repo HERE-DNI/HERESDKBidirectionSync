@@ -1,10 +1,9 @@
 ---
-title: "truckFuels property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-fuelstation-truckfuels"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- truckFuels.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-fuelstation-truckfuels"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-fuelstation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/FuelStation-class.html">/sdk-for-flutter-explore-search-fuelstation-class</a></li>
 <li class="self-crumb">truckFuels property</li>
 </ol>
 <div class="self-name">truckFuels</div>
@@ -39,7 +38,7 @@ menu
 <h1>truckFuels property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-search-truckfuel-class&gt;
+        List&lt;<wbr/><a href="../../search/TruckFuel-class.html">/sdk-for-flutter-explore-search-truckfuel-class</a>&gt;
 truckFuels
 <div class="features">getter/setter pair</div>
 </section>
@@ -59,9 +58,9 @@ The list can be empty when no truck fuels are offered or when the information is
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-fuelstation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/FuelStation-class.html">/sdk-for-flutter-explore-search-fuelstation-class</a></li>
 <li class="self-crumb">truckFuels property</li>
 </ol>
 <h5>FuelStation class</h5>
@@ -78,5 +77,4 @@ The list can be empty when no truck fuels are offered or when the information is
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

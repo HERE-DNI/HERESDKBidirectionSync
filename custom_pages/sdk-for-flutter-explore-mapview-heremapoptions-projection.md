@@ -1,10 +1,9 @@
 ---
-title: "projection property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-heremapoptions-projection"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- projection.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-heremapoptions-projection"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-heremapoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/HereMapOptions-class.html">/sdk-for-flutter-explore-mapview-heremapoptions-class</a></li>
 <li class="self-crumb">projection property</li>
 </ol>
 <div class="self-name">projection</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>projection property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-mapprojection
+<a href="../../mapview/MapProjection.html">/sdk-for-flutter-explore-mapview-mapprojection</a>
 projection
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +56,9 @@ projection
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-heremapoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/HereMapOptions-class.html">/sdk-for-flutter-explore-mapview-heremapoptions-class</a></li>
 <li class="self-crumb">projection property</li>
 </ol>
 <h5>HereMapOptions class</h5>
@@ -76,5 +75,4 @@ projection
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

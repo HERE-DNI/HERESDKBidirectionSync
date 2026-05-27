@@ -1,10 +1,9 @@
 ---
-title: "GeoOrientation constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-geoorientation-geoorientation"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- GeoOrientation.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-geoorientation-geoorientation"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geoorientation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoOrientation-class.html">/sdk-for-flutter-explore-core-geoorientation-class</a></li>
 <li class="self-crumb">GeoOrientation factory constructor</li>
 </ol>
 <div class="self-name">GeoOrientation</div>
@@ -64,9 +63,9 @@ GeoOrientation(<wbr/><ol class="parameter-list single-line"> <li>double bearing,
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geoorientation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoOrientation-class.html">/sdk-for-flutter-explore-core-geoorientation-class</a></li>
 <li class="self-crumb">GeoOrientation factory constructor</li>
 </ol>
 <h5>GeoOrientation class</h5>
@@ -83,5 +82,4 @@ GeoOrientation(<wbr/><ol class="parameter-list single-line"> <li>double bearing,
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

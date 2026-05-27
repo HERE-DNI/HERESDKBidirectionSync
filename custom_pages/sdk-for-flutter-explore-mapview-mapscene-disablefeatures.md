@@ -1,10 +1,9 @@
 ---
-title: "disableFeatures abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapscene-disablefeatures"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- disableFeatures.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscene-disablefeatures"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
 <li class="self-crumb">disableFeatures abstract method</li>
 </ol>
 <div class="self-name">disableFeatures</div>
@@ -48,14 +47,14 @@ disableFeatures(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>
 <section class="desc markdown">
 <p>Disables specified map features.</p>
 <p>Those will become inactive
-after next map redraw, meaning that /sdk-for-flutter-explore-mapview-mapscene-getactivefeatures will
+after next map redraw, meaning that <a href="../../mapview/MapScene/getActiveFeatures.html">/sdk-for-flutter-explore-mapview-mapscene-getactivefeatures</a> will
 return updated list of active features only after the redraw happens.</p>
 <p>Does not affect features that were not specified.
 Unsupported features are ignored.</p>
 <p>May cause the current map configuration to be reloaded.</p>
-<p>See /sdk-for-flutter-explore-mapview-mapfeatures-class for feature names.</p>
+<p>See <a href="../../mapview/MapFeatures-class.html">/sdk-for-flutter-explore-mapview-mapfeatures-class</a> for feature names.</p>
 <ul>
-<li><code>features</code> The names of features to disable (see /sdk-for-flutter-explore-mapview-mapfeatures-class).</li>
+<li><code>features</code> The names of features to disable (see <a href="../../mapview/MapFeatures-class.html">/sdk-for-flutter-explore-mapview-mapfeatures-class</a>).</li>
 </ul>
 </section>
 <section class="summary source-code" id="source">
@@ -70,9 +69,9 @@ Unsupported features are ignored.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
 <li class="self-crumb">disableFeatures abstract method</li>
 </ol>
 <h5>MapScene class</h5>
@@ -89,5 +88,4 @@ Unsupported features are ignored.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

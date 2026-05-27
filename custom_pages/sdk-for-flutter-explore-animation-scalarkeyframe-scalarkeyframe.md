@@ -1,10 +1,9 @@
 ---
-title: "ScalarKeyframe constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-animation-scalarkeyframe-scalarkeyframe"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- ScalarKeyframe.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-animation-scalarkeyframe-scalarkeyframe"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-animation-scalarkeyframe-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../../animation/ScalarKeyframe-class.html">/sdk-for-flutter-explore-animation-scalarkeyframe-class</a></li>
 <li class="self-crumb">ScalarKeyframe factory constructor</li>
 </ol>
 <div class="self-name">ScalarKeyframe</div>
@@ -66,9 +65,9 @@ Negative duration value gets clamped to 0.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-animation-scalarkeyframe-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../../animation/ScalarKeyframe-class.html">/sdk-for-flutter-explore-animation-scalarkeyframe-class</a></li>
 <li class="self-crumb">ScalarKeyframe factory constructor</li>
 </ol>
 <h5>ScalarKeyframe class</h5>
@@ -85,5 +84,4 @@ Negative duration value gets clamped to 0.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

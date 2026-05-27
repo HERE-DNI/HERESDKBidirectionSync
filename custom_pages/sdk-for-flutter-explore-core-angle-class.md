@@ -1,10 +1,9 @@
 ---
-title: "Angle class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-angle-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Angle-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-core-angle-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">Angle class</li>
 </ol>
 <div class="self-name">Angle</div>
@@ -61,7 +60,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Angle">
-/sdk-for-flutter-explore-core-angle-angle()
+<a href="../core/Angle/Angle.html">/sdk-for-flutter-explore-core-angle-angle</a>()
 </dt>
 <dd>
 </dd>
@@ -71,7 +70,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="degrees">
-/sdk-for-flutter-explore-core-angle-degrees
+<a href="../core/Angle/degrees.html">/sdk-for-flutter-explore-core-angle-degrees</a>
 → double
 </dt>
 <dd>
@@ -80,7 +79,7 @@ Gets the value of this angle in degrees.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-core-angle-hashcode
+<a href="../core/Angle/hashCode.html">/sdk-for-flutter-explore-core-angle-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -88,7 +87,7 @@ Gets the value of this angle in degrees.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="radians">
-/sdk-for-flutter-explore-core-angle-radians
+<a href="../core/Angle/radians.html">/sdk-for-flutter-explore-core-angle-radians</a>
 → double
 </dt>
 <dd>
@@ -97,7 +96,7 @@ Gets the value of this angle in radians.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-angle-runtimetype
+<a href="../core/Angle/runtimeType.html">/sdk-for-flutter-explore-core-angle-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -110,7 +109,7 @@ Gets the value of this angle in radians.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-angle-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/Angle/noSuchMethod.html">/sdk-for-flutter-explore-core-angle-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -119,7 +118,7 @@ Gets the value of this angle in radians.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-angle-tostring(<wbr/>)
+<a href="../core/Angle/toString.html">/sdk-for-flutter-explore-core-angle-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -133,7 +132,7 @@ Gets the value of this angle in radians.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-core-angle-operator-equals(<wbr/>Object other)
+<a href="../core/Angle/operator_equals.html">/sdk-for-flutter-explore-core-angle-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -147,9 +146,8 @@ Gets the value of this angle in radians.
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="fromDegrees">
-/sdk-for-flutter-explore-core-angle-fromdegrees(<wbr/>double angle)
-    → /sdk-for-flutter-explore-core-angle-class
-
+<a href="../core/Angle/fromDegrees.html">/sdk-for-flutter-explore-core-angle-fromdegrees</a>(<wbr/>double angle)
+    → <a href="../core/Angle-class.html">/sdk-for-flutter-explore-core-angle-class</a>
 </dt>
 <dd>
   Creates a new angle object based on the supplied angle value in degrees.
@@ -157,9 +155,8 @@ Gets the value of this angle in radians.
 
 </dd>
 <dt class="callable" id="fromRadians">
-/sdk-for-flutter-explore-core-angle-fromradians(<wbr/>double angle)
-    → /sdk-for-flutter-explore-core-angle-class
-
+<a href="../core/Angle/fromRadians.html">/sdk-for-flutter-explore-core-angle-fromradians</a>(<wbr/>double angle)
+    → <a href="../core/Angle-class.html">/sdk-for-flutter-explore-core-angle-class</a>
 </dt>
 <dd>
   Creates a new angle object based on the supplied angle value in radians.
@@ -176,8 +173,8 @@ Gets the value of this angle in radians.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">Angle class</li>
 </ol>
 <h5>core library</h5>
@@ -194,5 +191,4 @@ Gets the value of this angle in radians.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

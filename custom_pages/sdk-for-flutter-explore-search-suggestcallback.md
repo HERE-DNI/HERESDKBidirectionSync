@@ -1,10 +1,9 @@
 ---
-title: "SuggestCallback typedef"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-suggestcallback"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- SuggestCallback.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,8 +11,8 @@ slug: "sdk-for-flutter-explore-search-suggestcallback"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">SuggestCallback typedef</li>
 </ol>
 <div class="self-name">SuggestCallback</div>
@@ -38,7 +37,7 @@ menu
 <h1>SuggestCallback typedef</h1></div>
 <section class="multi-line-signature">
 SuggestCallback =
-     void Function(/sdk-for-flutter-explore-search-searcherror? searchError, List&lt;<wbr/>/sdk-for-flutter-explore-search-suggestion-class&gt;? suggestions)
+     void Function(<a href="../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a>? searchError, List&lt;<wbr/><a href="../search/Suggestion-class.html">/sdk-for-flutter-explore-search-suggestion-class</a>&gt;? suggestions)
 </section>
 <section class="desc markdown">
 <p>The method will be called on the main thread when a suggest call has been completed.</p>
@@ -65,8 +64,8 @@ Both arguments cannot be <code>null</code> at the same time - or not <code>null<
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">SuggestCallback typedef</li>
 </ol>
 <h5>search library</h5>
@@ -83,5 +82,4 @@ Both arguments cannot be <code>null</code> at the same time - or not <code>null<
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

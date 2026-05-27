@@ -1,10 +1,9 @@
 ---
-title: "Waypoint class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-waypoint-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Waypoint-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -40,8 +39,8 @@ slug: "sdk-for-flutter-explore-routing-waypoint-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">Waypoint class</li>
 </ol>
 <div class="self-name">Waypoint</div>
@@ -71,13 +70,13 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Waypoint">
-/sdk-for-flutter-explore-routing-waypoint-waypoint(/sdk-for-flutter-explore-core-geocoordinates-class coordinates, [/sdk-for-flutter-explore-routing-waypointtype type = WaypointType.stopover, int transitRadiusInMeters = 0, double? headingInDegrees = null, /sdk-for-flutter-explore-core-geocoordinates-class? sideOfStreetHint = null, /sdk-for-flutter-explore-core-geocoordinates-class? displayLocation = null, int? minCourseDistanceInMeters = null, String? nameHint = null, /sdk-for-flutter-explore-routing-matchsideofstreet? matchSideOfStreet = null, Duration duration = const Duration(seconds: 0), /sdk-for-flutter-explore-routing-segmentreference-class? segmentHint = null, int? onRoadThresholdInMeters = null, /sdk-for-flutter-explore-routing-chargingstop-class? chargingStop = null, int? currentWeightChangeInKilograms = null])
+<a href="../routing/Waypoint/Waypoint.html">/sdk-for-flutter-explore-routing-waypoint-waypoint</a>(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates, [<a href="../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a> type = WaypointType.stopover, int transitRadiusInMeters = 0, double? headingInDegrees = null, <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>? sideOfStreetHint = null, <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>? displayLocation = null, int? minCourseDistanceInMeters = null, String? nameHint = null, <a href="../routing/MatchSideOfStreet.html">/sdk-for-flutter-explore-routing-matchsideofstreet</a>? matchSideOfStreet = null, Duration duration = const Duration(seconds: 0), <a href="../routing/SegmentReference-class.html">/sdk-for-flutter-explore-routing-segmentreference-class</a>? segmentHint = null, int? onRoadThresholdInMeters = null, <a href="../routing/ChargingStop-class.html">/sdk-for-flutter-explore-routing-chargingstop-class</a>? chargingStop = null, int? currentWeightChangeInKilograms = null])
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="Waypoint.withDefaults">
-/sdk-for-flutter-explore-routing-waypoint-waypoint-withdefaults(/sdk-for-flutter-explore-core-geocoordinates-class coordinates)
+<a href="../routing/Waypoint/Waypoint.withDefaults.html">/sdk-for-flutter-explore-routing-waypoint-waypoint-withdefaults</a>(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates)
 </dt>
 <dd>
           Creates a new instance.
@@ -88,8 +87,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="chargingStop">
-/sdk-for-flutter-explore-routing-waypoint-chargingstop
-↔ /sdk-for-flutter-explore-routing-chargingstop-class?
+<a href="../routing/Waypoint/chargingStop.html">/sdk-for-flutter-explore-routing-waypoint-chargingstop</a>
+↔ <a href="../routing/ChargingStop-class.html">/sdk-for-flutter-explore-routing-chargingstop-class</a>?
 </dt>
 <dd>
   Specifies of a user-planned charging stop.
@@ -101,15 +100,15 @@ route calculation may suggest a better charging stop instead of this stop.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="coordinates">
-/sdk-for-flutter-explore-routing-waypoint-coordinates
-↔ /sdk-for-flutter-explore-core-geocoordinates-class
+<a href="../routing/Waypoint/coordinates.html">/sdk-for-flutter-explore-routing-waypoint-coordinates</a>
+↔ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 </dt>
 <dd>
   The waypoint's geographic coordinates.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="currentWeightChangeInKilograms">
-/sdk-for-flutter-explore-routing-waypoint-currentweightchangeinkilograms
+<a href="../routing/Waypoint/currentWeightChangeInKilograms.html">/sdk-for-flutter-explore-routing-waypoint-currentweightchangeinkilograms</a>
 ↔ int?
 </dt>
 <dd>
@@ -121,29 +120,29 @@ Relative value in kilograms. Available range: from -40000 to 40000 (inclusive).
 <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="displayLocation">
-/sdk-for-flutter-explore-routing-waypoint-displaylocation
-↔ /sdk-for-flutter-explore-core-geocoordinates-class?
+<a href="../routing/Waypoint/displayLocation.html">/sdk-for-flutter-explore-routing-waypoint-displaylocation</a>
+↔ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
 </dt>
 <dd>
   Optional coordinates to indicate physical location of the Points of Interest (PoI).
-It is different from coordinates and /sdk-for-flutter-explore-routing-waypoint-sideofstreethint which are generally expected to to be
+It is different from coordinates and <a href="../routing/Waypoint/sideOfStreetHint.html">/sdk-for-flutter-explore-routing-waypoint-sideofstreethint</a> which are generally expected to to be
 on the navigable road network and can be different from actual location of the PoI.
 display_location is used for visualization of the PoI regardless of road network.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="duration">
-/sdk-for-flutter-explore-routing-waypoint-duration
+<a href="../routing/Waypoint/duration.html">/sdk-for-flutter-explore-routing-waypoint-duration</a>
 ↔ Duration
 </dt>
 <dd>
-  The duration in seconds that should be spent at a waypoint of type /sdk-for-flutter-explore-routing-waypointtype.
+  The duration in seconds that should be spent at a waypoint of type <a href="../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a>.
 Impacts time-aware calculations.
-Ignored for waypoints of type /sdk-for-flutter-explore-routing-waypointtype.
+Ignored for waypoints of type <a href="../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a>.
 The default duration is 0 seconds.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-waypoint-hashcode
+<a href="../routing/Waypoint/hashCode.html">/sdk-for-flutter-explore-routing-waypoint-hashcode</a>
 → int
 </dt>
 <dd>
@@ -151,7 +150,7 @@ The default duration is 0 seconds.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="headingInDegrees">
-/sdk-for-flutter-explore-routing-waypoint-headingindegrees
+<a href="../routing/Waypoint/headingInDegrees.html">/sdk-for-flutter-explore-routing-waypoint-headingindegrees</a>
 ↔ double?
 </dt>
 <dd>
@@ -164,15 +163,15 @@ heading is ignored for route calculation.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="matchSideOfStreet">
-/sdk-for-flutter-explore-routing-waypoint-matchsideofstreet
-↔ /sdk-for-flutter-explore-routing-matchsideofstreet?
+<a href="../routing/Waypoint/matchSideOfStreet.html">/sdk-for-flutter-explore-routing-waypoint-matchsideofstreet</a>
+↔ <a href="../routing/MatchSideOfStreet.html">/sdk-for-flutter-explore-routing-matchsideofstreet</a>?
 </dt>
 <dd>
-  Specifies how the location set by /sdk-for-flutter-explore-routing-waypoint-sideofstreethint should be handled. Note that this setting might affect the geometry of the resulting route.
+  Specifies how the location set by <a href="../routing/Waypoint/sideOfStreetHint.html">/sdk-for-flutter-explore-routing-waypoint-sideofstreethint</a> should be handled. Note that this setting might affect the geometry of the resulting route.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="minCourseDistanceInMeters">
-/sdk-for-flutter-explore-routing-waypoint-mincoursedistanceinmeters
+<a href="../routing/Waypoint/minCourseDistanceInMeters.html">/sdk-for-flutter-explore-routing-waypoint-mincoursedistanceinmeters</a>
 ↔ int?
 </dt>
 <dd>
@@ -182,7 +181,7 @@ as a sharp right turn.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="nameHint">
-/sdk-for-flutter-explore-routing-waypoint-namehint
+<a href="../routing/Waypoint/nameHint.html">/sdk-for-flutter-explore-routing-waypoint-namehint</a>
 ↔ String?
 </dt>
 <dd>
@@ -193,7 +192,7 @@ select a residential street.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="onRoadThresholdInMeters">
-/sdk-for-flutter-explore-routing-waypoint-onroadthresholdinmeters
+<a href="../routing/Waypoint/onRoadThresholdInMeters.html">/sdk-for-flutter-explore-routing-waypoint-onroadthresholdinmeters</a>
 ↔ int?
 </dt>
 <dd>
@@ -203,7 +202,7 @@ Outside the threshold only segments which aren't one of highway/bridge/tunnel/sl
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-waypoint-runtimetype
+<a href="../routing/Waypoint/runtimeType.html">/sdk-for-flutter-explore-routing-waypoint-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -211,8 +210,8 @@ Outside the threshold only segments which aren't one of highway/bridge/tunnel/sl
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="segmentHint">
-/sdk-for-flutter-explore-routing-waypoint-segmenthint
-↔ /sdk-for-flutter-explore-routing-segmentreference-class?
+<a href="../routing/Waypoint/segmentHint.html">/sdk-for-flutter-explore-routing-waypoint-segmenthint</a>
+↔ <a href="../routing/SegmentReference-class.html">/sdk-for-flutter-explore-routing-segmentreference-class</a>?
 </dt>
 <dd>
   Optional segment hint causes the router to try and match to the specified segment.
@@ -222,19 +221,19 @@ Only topology segment id and travel direction are used to define the segment hin
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="sideOfStreetHint">
-/sdk-for-flutter-explore-routing-waypoint-sideofstreethint
-↔ /sdk-for-flutter-explore-core-geocoordinates-class?
+<a href="../routing/Waypoint/sideOfStreetHint.html">/sdk-for-flutter-explore-routing-waypoint-sideofstreethint</a>
+↔ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
 </dt>
 <dd>
   Optional coordinates to indicate which side of the street should be used to reach the waypoint.
 For example, if the location is to the left of the street, the router will prefer using that side
 in case the street has dividers.
-Note that this option is ignored if the user sets /sdk-for-flutter-explore-routing-waypoint-transitradiusinmeters option with a
+Note that this option is ignored if the user sets <a href="../routing/Waypoint/transitRadiusInMeters.html">/sdk-for-flutter-explore-routing-waypoint-transitradiusinmeters</a> option with a
 value greater than zero.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="transitRadiusInMeters">
-/sdk-for-flutter-explore-routing-waypoint-transitradiusinmeters
+<a href="../routing/Waypoint/transitRadiusInMeters.html">/sdk-for-flutter-explore-routing-waypoint-transitradiusinmeters</a>
 ↔ int
 </dt>
 <dd>
@@ -245,17 +244,17 @@ radius of 5000m. The default transit radius is zero.
 If the route should pass the waypoint as close as possible, the default value
 should be kept. Note that the waypoint will be map-matched to a road.
 Non-zero values allow a greater tolerance.
-Note that /sdk-for-flutter-explore-routing-waypoint-sideofstreethint option is ignored if the user sets this option with a value
+Note that <a href="../routing/Waypoint/sideOfStreetHint.html">/sdk-for-flutter-explore-routing-waypoint-sideofstreethint</a> option is ignored if the user sets this option with a value
 greater than zero.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="type">
-/sdk-for-flutter-explore-routing-waypoint-type
-↔ /sdk-for-flutter-explore-routing-waypointtype
+<a href="../routing/Waypoint/type.html">/sdk-for-flutter-explore-routing-waypoint-type</a>
+↔ <a href="../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a>
 </dt>
 <dd>
   Defines how a waypoint should be considered for route calculation.
-The default waypoint type is /sdk-for-flutter-explore-routing-waypointtype.
+The default waypoint type is <a href="../routing/WaypointType.html">/sdk-for-flutter-explore-routing-waypointtype</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 </dl>
@@ -264,7 +263,7 @@ The default waypoint type is /sdk-for-flutter-explore-routing-waypointtype.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-waypoint-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/Waypoint/noSuchMethod.html">/sdk-for-flutter-explore-routing-waypoint-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -273,7 +272,7 @@ The default waypoint type is /sdk-for-flutter-explore-routing-waypointtype.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-waypoint-tostring(<wbr/>)
+<a href="../routing/Waypoint/toString.html">/sdk-for-flutter-explore-routing-waypoint-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -287,7 +286,7 @@ The default waypoint type is /sdk-for-flutter-explore-routing-waypointtype.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-waypoint-operator-equals(<wbr/>Object other)
+<a href="../routing/Waypoint/operator_equals.html">/sdk-for-flutter-explore-routing-waypoint-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -306,8 +305,8 @@ The default waypoint type is /sdk-for-flutter-explore-routing-waypointtype.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">Waypoint class</li>
 </ol>
 <h5>routing library</h5>
@@ -324,5 +323,4 @@ The default waypoint type is /sdk-for-flutter-explore-routing-waypointtype.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

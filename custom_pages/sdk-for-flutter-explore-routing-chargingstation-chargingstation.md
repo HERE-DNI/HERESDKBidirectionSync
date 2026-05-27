@@ -1,10 +1,9 @@
 ---
-title: "ChargingStation constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-chargingstation-chargingstation"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- ChargingStation.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-chargingstation-chargingstation"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-chargingstation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/ChargingStation-class.html">/sdk-for-flutter-explore-routing-chargingstation-class</a></li>
 <li class="self-crumb">ChargingStation constructor</li>
 </ol>
 <div class="self-name">ChargingStation</div>
@@ -40,7 +39,7 @@ menu
 <section class="multi-line-signature">
 ChargingStation(<wbr/><ol class="parameter-list single-line"> <li>String? id, </li>
 <li>String? name, </li>
-<li>/sdk-for-flutter-explore-routing-chargingconnectorattributes-class? connectorAttributes</li>
+<li><a href="../../routing/ChargingConnectorAttributes-class.html">/sdk-for-flutter-explore-routing-chargingconnectorattributes-class</a>? connectorAttributes</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -67,9 +66,9 @@ name associated with the station.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-chargingstation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/ChargingStation-class.html">/sdk-for-flutter-explore-routing-chargingstation-class</a></li>
 <li class="self-crumb">ChargingStation constructor</li>
 </ol>
 <h5>ChargingStation class</h5>
@@ -86,5 +85,4 @@ name associated with the station.</li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

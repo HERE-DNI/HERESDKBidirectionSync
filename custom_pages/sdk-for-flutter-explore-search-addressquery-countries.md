@@ -1,10 +1,9 @@
 ---
-title: "countries property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-addressquery-countries"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- countries.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-addressquery-countries"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-addressquery-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/AddressQuery-class.html">/sdk-for-flutter-explore-search-addressquery-class</a></li>
 <li class="self-crumb">countries property</li>
 </ol>
 <div class="self-name">countries</div>
@@ -39,7 +38,7 @@ menu
 <h1>countries property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-core-countrycode&gt;
+        List&lt;<wbr/><a href="../../core/CountryCode.html">/sdk-for-flutter-explore-core-countrycode</a>&gt;
 countries
 <div class="features">final</div>
 </section>
@@ -59,9 +58,9 @@ Not supported in <code>OfflineSearchEngine</code> (only available for the Naviga
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-addressquery-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/AddressQuery-class.html">/sdk-for-flutter-explore-search-addressquery-class</a></li>
 <li class="self-crumb">countries property</li>
 </ol>
 <h5>AddressQuery class</h5>
@@ -78,5 +77,4 @@ Not supported in <code>OfflineSearchEngine</code> (only available for the Naviga
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

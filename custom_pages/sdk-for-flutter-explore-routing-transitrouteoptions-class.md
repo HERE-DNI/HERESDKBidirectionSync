@@ -1,10 +1,9 @@
 ---
-title: "TransitRouteOptions class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-transitrouteoptions-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TransitRouteOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -36,8 +35,8 @@ slug: "sdk-for-flutter-explore-routing-transitrouteoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">TransitRouteOptions class</li>
 </ol>
 <div class="self-name">TransitRouteOptions</div>
@@ -67,7 +66,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TransitRouteOptions">
-/sdk-for-flutter-explore-routing-transitrouteoptions-transitrouteoptions()
+<a href="../routing/TransitRouteOptions/TransitRouteOptions.html">/sdk-for-flutter-explore-routing-transitrouteoptions-transitrouteoptions</a>()
 </dt>
 <dd>
 </dd>
@@ -77,7 +76,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="alternatives">
-/sdk-for-flutter-explore-routing-transitrouteoptions-alternatives
+<a href="../routing/TransitRouteOptions/alternatives.html">/sdk-for-flutter-explore-routing-transitrouteoptions-alternatives</a>
 ↔ int
 </dt>
 <dd>
@@ -87,7 +86,7 @@ By default, it is 0 and only one route is calculated.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="arrivalTime">
-/sdk-for-flutter-explore-routing-transitrouteoptions-arrivaltime
+<a href="../routing/TransitRouteOptions/arrivalTime.html">/sdk-for-flutter-explore-routing-transitrouteoptions-arrivaltime</a>
 ↔ DateTime?
 </dt>
 <dd>
@@ -95,7 +94,7 @@ By default, it is 0 and only one route is calculated.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="changes">
-/sdk-for-flutter-explore-routing-transitrouteoptions-changes
+<a href="../routing/TransitRouteOptions/changes.html">/sdk-for-flutter-explore-routing-transitrouteoptions-changes</a>
 ↔ int?
 </dt>
 <dd>
@@ -105,7 +104,7 @@ The provided value must be in the range [0, 6].
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="departureTime">
-/sdk-for-flutter-explore-routing-transitrouteoptions-departuretime
+<a href="../routing/TransitRouteOptions/departureTime.html">/sdk-for-flutter-explore-routing-transitrouteoptions-departuretime</a>
 ↔ DateTime?
 </dt>
 <dd>
@@ -114,7 +113,7 @@ If it is not specified, it is set to the current time.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-transitrouteoptions-hashcode
+<a href="../routing/TransitRouteOptions/hashCode.html">/sdk-for-flutter-explore-routing-transitrouteoptions-hashcode</a>
 → int
 </dt>
 <dd>
@@ -122,8 +121,8 @@ If it is not specified, it is set to the current time.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="modeFilter">
-/sdk-for-flutter-explore-routing-transitrouteoptions-modefilter
-↔ /sdk-for-flutter-explore-routing-transitmodefilter
+<a href="../routing/TransitRouteOptions/modeFilter.html">/sdk-for-flutter-explore-routing-transitrouteoptions-modefilter</a>
+↔ <a href="../routing/TransitModeFilter.html">/sdk-for-flutter-explore-routing-transitmodefilter</a>
 </dt>
 <dd>
   Defines inclusion or exclusion of transit modes for route calculation.
@@ -131,12 +130,12 @@ By default, the inclusion mode is used.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="modes">
-/sdk-for-flutter-explore-routing-transitrouteoptions-modes
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-transitmode&gt;
+<a href="../routing/TransitRouteOptions/modes.html">/sdk-for-flutter-explore-routing-transitrouteoptions-modes</a>
+↔ List&lt;<wbr/><a href="../routing/TransitMode.html">/sdk-for-flutter-explore-routing-transitmode</a>&gt;
 </dt>
 <dd>
   This list is used to determine which transit modes should be used for route calculation,
-/sdk-for-flutter-explore-routing-transitrouteoptions-modefilter specifies whether this list is an inclusion or an exclusion.
+<a href="../routing/TransitRouteOptions/modeFilter.html">/sdk-for-flutter-explore-routing-transitrouteoptions-modefilter</a> specifies whether this list is an inclusion or an exclusion.
 For example, specifying subway and bus transit modes with the include filter, returns only subway
 and bus transit modes, and with the exclude filter, returns all the transit modes except subway
 and bus. When not set, all the supported transit modes are permitted.
@@ -144,7 +143,7 @@ By default, this list is empty.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="pedestrianMaxDistanceInMeters">
-/sdk-for-flutter-explore-routing-transitrouteoptions-pedestrianmaxdistanceinmeters
+<a href="../routing/TransitRouteOptions/pedestrianMaxDistanceInMeters.html">/sdk-for-flutter-explore-routing-transitrouteoptions-pedestrianmaxdistanceinmeters</a>
 ↔ int
 </dt>
 <dd>
@@ -154,7 +153,7 @@ The default value is 2000 meters.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="pedestrianSpeedInMetersPerSecond">
-/sdk-for-flutter-explore-routing-transitrouteoptions-pedestrianspeedinmeterspersecond
+<a href="../routing/TransitRouteOptions/pedestrianSpeedInMetersPerSecond.html">/sdk-for-flutter-explore-routing-transitrouteoptions-pedestrianspeedinmeterspersecond</a>
 ↔ double
 </dt>
 <dd>
@@ -165,7 +164,7 @@ The default value is 1.0 mps.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-transitrouteoptions-runtimetype
+<a href="../routing/TransitRouteOptions/runtimeType.html">/sdk-for-flutter-explore-routing-transitrouteoptions-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -173,8 +172,8 @@ The default value is 1.0 mps.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="textOptions">
-/sdk-for-flutter-explore-routing-transitrouteoptions-textoptions
-↔ /sdk-for-flutter-explore-routing-routetextoptions-class
+<a href="../routing/TransitRouteOptions/textOptions.html">/sdk-for-flutter-explore-routing-transitrouteoptions-textoptions</a>
+↔ <a href="../routing/RouteTextOptions-class.html">/sdk-for-flutter-explore-routing-routetextoptions-class</a>
 </dt>
 <dd>
   Customize textual content returned from the route calculation, such
@@ -187,7 +186,7 @@ as localization, format, and unit system.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-transitrouteoptions-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/TransitRouteOptions/noSuchMethod.html">/sdk-for-flutter-explore-routing-transitrouteoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -196,7 +195,7 @@ as localization, format, and unit system.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-transitrouteoptions-tostring(<wbr/>)
+<a href="../routing/TransitRouteOptions/toString.html">/sdk-for-flutter-explore-routing-transitrouteoptions-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -210,7 +209,7 @@ as localization, format, and unit system.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-transitrouteoptions-operator-equals(<wbr/>Object other)
+<a href="../routing/TransitRouteOptions/operator_equals.html">/sdk-for-flutter-explore-routing-transitrouteoptions-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -225,9 +224,8 @@ as localization, format, and unit system.
 <h2>Static Methods</h2>
 <dl class="callables">
 <dt class="callable" id="fromDefaultParameterConfiguration">
-/sdk-for-flutter-explore-routing-transitrouteoptions-fromdefaultparameterconfiguration(<wbr/>)
-    → /sdk-for-flutter-explore-routing-transitrouteoptions-class
-
+<a href="../routing/TransitRouteOptions/fromDefaultParameterConfiguration.html">/sdk-for-flutter-explore-routing-transitrouteoptions-fromdefaultparameterconfiguration</a>(<wbr/>)
+    → <a href="../routing/TransitRouteOptions-class.html">/sdk-for-flutter-explore-routing-transitrouteoptions-class</a>
 </dt>
 <dd>
   Returns TransitRouteOptions instance with default values used in SDK.
@@ -244,8 +242,8 @@ as localization, format, and unit system.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">TransitRouteOptions class</li>
 </ol>
 <h5>routing library</h5>
@@ -262,5 +260,4 @@ as localization, format, and unit system.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

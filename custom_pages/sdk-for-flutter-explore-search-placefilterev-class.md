@@ -1,10 +1,9 @@
 ---
-title: "PlaceFilterEv class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-placefilterev-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PlaceFilterEv-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-search-placefilterev-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">PlaceFilterEv class</li>
 </ol>
 <div class="self-name">PlaceFilterEv</div>
@@ -61,7 +60,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PlaceFilterEv">
-/sdk-for-flutter-explore-search-placefilterev-placefilterev()
+<a href="../search/PlaceFilterEv/PlaceFilterEv.html">/sdk-for-flutter-explore-search-placefilterev-placefilterev</a>()
 </dt>
 <dd>
 </dd>
@@ -71,7 +70,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="connectorTypeIDs">
-/sdk-for-flutter-explore-search-placefilterev-connectortypeids
+<a href="../search/PlaceFilterEv/connectorTypeIDs.html">/sdk-for-flutter-explore-search-placefilterev-connectortypeids</a>
 ↔ List&lt;<wbr/>String&gt;
 </dt>
 <dd>
@@ -81,8 +80,8 @@ For more information on the current connector types, see
 <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="currentType">
-/sdk-for-flutter-explore-search-placefilterev-currenttype
-↔ /sdk-for-flutter-explore-core-currenttype?
+<a href="../search/PlaceFilterEv/currentType.html">/sdk-for-flutter-explore-search-placefilterev-currenttype</a>
+↔ <a href="../core/CurrentType.html">/sdk-for-flutter-explore-core-currenttype</a>?
 </dt>
 <dd>
   Filter to retrieve EV charging stations with the given current type
@@ -91,7 +90,7 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="eMobilityServiceProviderPartnerIDs">
-/sdk-for-flutter-explore-search-placefilterev-emobilityserviceproviderpartnerids
+<a href="../search/PlaceFilterEv/eMobilityServiceProviderPartnerIDs.html">/sdk-for-flutter-explore-search-placefilterev-emobilityserviceproviderpartnerids</a>
 ↔ List&lt;<wbr/>String&gt;
 </dt>
 <dd>
@@ -99,7 +98,7 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-placefilterev-hashcode
+<a href="../search/PlaceFilterEv/hashCode.html">/sdk-for-flutter-explore-search-placefilterev-hashcode</a>
 → int
 </dt>
 <dd>
@@ -107,7 +106,7 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="minPowerInKilowatts">
-/sdk-for-flutter-explore-search-placefilterev-minpowerinkilowatts
+<a href="../search/PlaceFilterEv/minPowerInKilowatts.html">/sdk-for-flutter-explore-search-placefilterev-minpowerinkilowatts</a>
 ↔ double?
 </dt>
 <dd>
@@ -117,7 +116,7 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-placefilterev-runtimetype
+<a href="../search/PlaceFilterEv/runtimeType.html">/sdk-for-flutter-explore-search-placefilterev-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -125,7 +124,7 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="supplierNames">
-/sdk-for-flutter-explore-search-placefilterev-suppliernames
+<a href="../search/PlaceFilterEv/supplierNames.html">/sdk-for-flutter-explore-search-placefilterev-suppliernames</a>
 ↔ List&lt;<wbr/>String&gt;
 </dt>
 <dd>
@@ -138,7 +137,7 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-placefilterev-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/PlaceFilterEv/noSuchMethod.html">/sdk-for-flutter-explore-search-placefilterev-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -147,7 +146,7 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-placefilterev-tostring(<wbr/>)
+<a href="../search/PlaceFilterEv/toString.html">/sdk-for-flutter-explore-search-placefilterev-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -161,7 +160,7 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-placefilterev-operator-equals(<wbr/>Object other)
+<a href="../search/PlaceFilterEv/operator_equals.html">/sdk-for-flutter-explore-search-placefilterev-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -180,8 +179,8 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">PlaceFilterEv class</li>
 </ol>
 <h5>search library</h5>
@@ -198,5 +197,4 @@ Not supported for <code>suggestByText</code> in <code>OfflineSearchEngine</code>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

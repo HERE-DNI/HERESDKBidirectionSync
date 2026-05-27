@@ -1,10 +1,9 @@
 ---
-title: "ProxySettings constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-proxysettings-proxysettings"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- ProxySettings.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-proxysettings-proxysettings"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-proxysettings-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/ProxySettings-class.html">/sdk-for-flutter-explore-core-engine-proxysettings-class</a></li>
 <li class="self-crumb">ProxySettings constructor</li>
 </ol>
 <div class="self-name">ProxySettings</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>ProxySettings constructor</h1></div>
 <section class="multi-line-signature">
-ProxySettings(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-engine-proxysettingsproxytype type, </li>
+ProxySettings(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.engine/ProxySettingsProxyType.html">/sdk-for-flutter-explore-core-engine-proxysettingsproxytype</a> type, </li>
 <li>InternetAddress ipAddress, </li>
 <li>int port</li>
 </ol>)
@@ -56,9 +55,9 @@ ProxySettings(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-proxysettings-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/ProxySettings-class.html">/sdk-for-flutter-explore-core-engine-proxysettings-class</a></li>
 <li class="self-crumb">ProxySettings constructor</li>
 </ol>
 <h5>ProxySettings class</h5>
@@ -75,5 +74,4 @@ ProxySettings(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "metadata property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapmarker-metadata"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- metadata.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker-metadata"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarker-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a></li>
 <li class="self-crumb">metadata property</li>
 </ol>
 <div class="self-name">metadata</div>
@@ -39,11 +38,11 @@ menu
 <h1>metadata property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-metadata-class?
+<a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a>?
 metadata
 </section>
 <section class="desc markdown">
-<p>The Metadata instance attached to this marker, see /sdk-for-flutter-explore-core-metadata-class.
+<p>The Metadata instance attached to this marker, see <a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a>.
 Gets the Metadata instance attached to this marker.
 This will be <code>null</code> if nothing has been attached before.</p>
 </section>
@@ -55,10 +54,10 @@ This will be <code>null</code> if nothing has been attached before.</p>
 <section id="setter">
 <section class="multi-line-signature">
 void
-metadata=(<wbr/>/sdk-for-flutter-explore-core-metadata-class? value)
+metadata=(<wbr/><a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a>? value)
 </section>
 <section class="desc markdown">
-<p>The Metadata instance attached to this marker, see /sdk-for-flutter-explore-core-metadata-class.
+<p>The Metadata instance attached to this marker, see <a href="../../core/Metadata-class.html">/sdk-for-flutter-explore-core-metadata-class</a>.
 Sets the Metadata instance attached to this marker.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -74,9 +73,9 @@ Sets the Metadata instance attached to this marker.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarker-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a></li>
 <li class="self-crumb">metadata property</li>
 </ol>
 <h5>MapMarker class</h5>
@@ -93,5 +92,4 @@ Sets the Metadata instance attached to this marker.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

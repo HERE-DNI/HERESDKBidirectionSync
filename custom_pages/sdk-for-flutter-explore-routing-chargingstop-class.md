@@ -1,10 +1,9 @@
 ---
-title: "ChargingStop class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-chargingstop-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- ChargingStop-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -32,8 +31,8 @@ slug: "sdk-for-flutter-explore-routing-chargingstop-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">ChargingStop class</li>
 </ol>
 <div class="self-name">ChargingStop</div>
@@ -59,22 +58,22 @@ menu
 <section class="desc markdown">
 <p>The options to specify a user-planned charging stop.</p>
 <p><strong>Note:</strong>
-In order to specify this /sdk-for-flutter-explore-routing-chargingstop-class, it is also required to set
+In order to specify this <a href="../routing/ChargingStop-class.html">/sdk-for-flutter-explore-routing-chargingstop-class</a>, it is also required to set
 <code>sdk.routing.BatterySpecifications.total_capacity_in_kilowatt_hours</code>, <code>sdk.routing.BatterySpecifications.initial_charge_in_kilowatt_hours</code>,
-and /sdk-for-flutter-explore-routing-batteryspecifications-chargingcurve.
+and <a href="../routing/BatterySpecifications/chargingCurve.html">/sdk-for-flutter-explore-routing-batteryspecifications-chargingcurve</a>.
 Without all of them, the route calculation will fail as an invalid parameter error.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="ChargingStop">
-/sdk-for-flutter-explore-routing-chargingstop-chargingstop(double powerInKilowatts, double currentInAmperes, double voltageInVolts, /sdk-for-flutter-explore-routing-chargingsupplytype? supplyType, Duration? minDuration, Duration? maxDuration)
+<a href="../routing/ChargingStop/ChargingStop.html">/sdk-for-flutter-explore-routing-chargingstop-chargingstop</a>(double powerInKilowatts, double currentInAmperes, double voltageInVolts, <a href="../routing/ChargingSupplyType.html">/sdk-for-flutter-explore-routing-chargingsupplytype</a>? supplyType, Duration? minDuration, Duration? maxDuration)
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="ChargingStop.withDefaults">
-/sdk-for-flutter-explore-routing-chargingstop-chargingstop-withdefaults()
+<a href="../routing/ChargingStop/ChargingStop.withDefaults.html">/sdk-for-flutter-explore-routing-chargingstop-chargingstop-withdefaults</a>()
 </dt>
 <dd>
           Creates a new instance.
@@ -85,7 +84,7 @@ Without all of them, the route calculation will fail as an invalid parameter err
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="currentInAmperes">
-/sdk-for-flutter-explore-routing-chargingstop-currentinamperes
+<a href="../routing/ChargingStop/currentInAmperes.html">/sdk-for-flutter-explore-routing-chargingstop-currentinamperes</a>
 ↔ double
 </dt>
 <dd>
@@ -93,7 +92,7 @@ Without all of them, the route calculation will fail as an invalid parameter err
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-chargingstop-hashcode
+<a href="../routing/ChargingStop/hashCode.html">/sdk-for-flutter-explore-routing-chargingstop-hashcode</a>
 → int
 </dt>
 <dd>
@@ -101,31 +100,31 @@ Without all of them, the route calculation will fail as an invalid parameter err
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="maxDuration">
-/sdk-for-flutter-explore-routing-chargingstop-maxduration
+<a href="../routing/ChargingStop/maxDuration.html">/sdk-for-flutter-explore-routing-chargingstop-maxduration</a>
 ↔ Duration?
 </dt>
 <dd>
   The maximum duration the user plans to charge at the station,
-including /sdk-for-flutter-explore-routing-batteryspecifications-chargingsetupduration.
+including <a href="../routing/BatterySpecifications/chargingSetupDuration.html">/sdk-for-flutter-explore-routing-batteryspecifications-chargingsetupduration</a>.
 <strong>Note:</strong>
 At least one of <code>min_duration</code> and <code>max_duration</code> is required for a user-planned charging stop.
 For most use cases, providing at least <code>min_duration</code> is recommended.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="minDuration">
-/sdk-for-flutter-explore-routing-chargingstop-minduration
+<a href="../routing/ChargingStop/minDuration.html">/sdk-for-flutter-explore-routing-chargingstop-minduration</a>
 ↔ Duration?
 </dt>
 <dd>
   The minimum duration the user expects to charge at the station,
-including /sdk-for-flutter-explore-routing-batteryspecifications-chargingsetupduration.
+including <a href="../routing/BatterySpecifications/chargingSetupDuration.html">/sdk-for-flutter-explore-routing-batteryspecifications-chargingsetupduration</a>.
 <strong>Note:</strong>
 At least one of <code>min_duration</code> and <code>max_duration</code> is required for a user-planned charging stop.
 For most use cases, providing at least <code>min_duration</code> is recommended.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="powerInKilowatts">
-/sdk-for-flutter-explore-routing-chargingstop-powerinkilowatts
+<a href="../routing/ChargingStop/powerInKilowatts.html">/sdk-for-flutter-explore-routing-chargingstop-powerinkilowatts</a>
 ↔ double
 </dt>
 <dd>
@@ -133,7 +132,7 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-chargingstop-runtimetype
+<a href="../routing/ChargingStop/runtimeType.html">/sdk-for-flutter-explore-routing-chargingstop-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -141,15 +140,15 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="supplyType">
-/sdk-for-flutter-explore-routing-chargingstop-supplytype
-↔ /sdk-for-flutter-explore-routing-chargingsupplytype?
+<a href="../routing/ChargingStop/supplyType.html">/sdk-for-flutter-explore-routing-chargingstop-supplytype</a>
+↔ <a href="../routing/ChargingSupplyType.html">/sdk-for-flutter-explore-routing-chargingsupplytype</a>?
 </dt>
 <dd>
   Supply type of the suggested connector.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="voltageInVolts">
-/sdk-for-flutter-explore-routing-chargingstop-voltageinvolts
+<a href="../routing/ChargingStop/voltageInVolts.html">/sdk-for-flutter-explore-routing-chargingstop-voltageinvolts</a>
 ↔ double
 </dt>
 <dd>
@@ -162,7 +161,7 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-chargingstop-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/ChargingStop/noSuchMethod.html">/sdk-for-flutter-explore-routing-chargingstop-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -171,7 +170,7 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-chargingstop-tostring(<wbr/>)
+<a href="../routing/ChargingStop/toString.html">/sdk-for-flutter-explore-routing-chargingstop-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -185,7 +184,7 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-chargingstop-operator-equals(<wbr/>Object other)
+<a href="../routing/ChargingStop/operator_equals.html">/sdk-for-flutter-explore-routing-chargingstop-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -204,8 +203,8 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">ChargingStop class</li>
 </ol>
 <h5>routing library</h5>
@@ -222,5 +221,4 @@ For most use cases, providing at least <code>min_duration</code> is recommended.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

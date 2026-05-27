@@ -1,10 +1,9 @@
 ---
-title: "removeMapMarkers abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapscene-removemapmarkers"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- removeMapMarkers.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapscene-removemapmarkers"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
 <li class="self-crumb">removeMapMarkers abstract method</li>
 </ol>
 <div class="self-name">removeMapMarkers</div>
@@ -39,7 +38,7 @@ menu
 <h1>removeMapMarkers abstract method</h1></div>
 <section class="multi-line-signature">
 void
-removeMapMarkers(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-mapview-mapmarker-class&gt; markers</li>
+removeMapMarkers(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../mapview/MapMarker-class.html">/sdk-for-flutter-explore-mapview-mapmarker-class</a>&gt; markers</li>
 </ol>)
 
       
@@ -65,9 +64,9 @@ a part of this scene or belong to a marker cluster has no effect.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapscene-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a></li>
 <li class="self-crumb">removeMapMarkers abstract method</li>
 </ol>
 <h5>MapScene class</h5>
@@ -84,5 +83,4 @@ a part of this scene or belong to a marker cluster has no effect.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

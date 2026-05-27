@@ -1,10 +1,9 @@
 ---
-title: "TransitIncident constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-transitincident-transitincident"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TransitIncident.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-transitincident-transitincident"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-transitincident-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TransitIncident-class.html">/sdk-for-flutter-explore-routing-transitincident-class</a></li>
 <li class="self-crumb">TransitIncident constructor</li>
 </ol>
 <div class="self-name">TransitIncident</div>
@@ -40,8 +39,8 @@ menu
 <section class="multi-line-signature">
 TransitIncident(<wbr/><ol class="parameter-list"> <li>String? summary, </li>
 <li>String? description, </li>
-<li>/sdk-for-flutter-explore-routing-transitincidenttype? type, </li>
-<li>/sdk-for-flutter-explore-routing-transitincidenteffect? effect, </li>
+<li><a href="../../routing/TransitIncidentType.html">/sdk-for-flutter-explore-routing-transitincidenttype</a>? type, </li>
+<li><a href="../../routing/TransitIncidentEffect.html">/sdk-for-flutter-explore-routing-transitincidenteffect</a>? effect, </li>
 <li>DateTime? validFrom, </li>
 <li>DateTime? validUntil, </li>
 <li>String? url, </li>
@@ -71,9 +70,9 @@ TransitIncident(<wbr/><ol class="parameter-list"> <li>String? summary, </li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-transitincident-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TransitIncident-class.html">/sdk-for-flutter-explore-routing-transitincident-class</a></li>
 <li class="self-crumb">TransitIncident constructor</li>
 </ol>
 <h5>TransitIncident class</h5>
@@ -90,5 +89,4 @@ TransitIncident(<wbr/><ol class="parameter-list"> <li>String? summary, </li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

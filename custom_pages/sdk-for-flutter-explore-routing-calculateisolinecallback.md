@@ -1,10 +1,9 @@
 ---
-title: "CalculateIsolineCallback typedef"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-calculateisolinecallback"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- CalculateIsolineCallback.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,8 +11,8 @@ slug: "sdk-for-flutter-explore-routing-calculateisolinecallback"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">CalculateIsolineCallback typedef</li>
 </ol>
 <div class="self-name">CalculateIsolineCallback</div>
@@ -38,14 +37,14 @@ menu
 <h1>CalculateIsolineCallback typedef</h1></div>
 <section class="multi-line-signature">
 CalculateIsolineCallback =
-     void Function(/sdk-for-flutter-explore-routing-routingerror? routingError, List&lt;<wbr/>/sdk-for-flutter-explore-routing-isoline-class&gt;? isolines)
+     void Function(<a href="../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a>? routingError, List&lt;<wbr/><a href="../routing/Isoline-class.html">/sdk-for-flutter-explore-routing-isoline-class</a>&gt;? isolines)
 </section>
 <section class="desc markdown">
 <p>A function which is called by the RoutingEngine after isoline calculation has completed.</p>
 <p>It is always called on the main thread.
 The first argument is the error in case of a failure. It is <code>null</code> for an operation that succeeds.
 The second argument holds a list of calculated isolines. The list is <code>null</code> in case of an error.
-The size of the list matches the size of the provided sdk.routing.IsolineOptions.<code>range_values</code>:
+The size of the list matches the size of the provided sdk.routing.IsolineOptions.range_values:
 For each range limit, one isoline is calculated.</p>
 <ul>
 <li>
@@ -68,8 +67,8 @@ For each range limit, one isoline is calculated.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">CalculateIsolineCallback typedef</li>
 </ol>
 <h5>routing library</h5>
@@ -86,5 +85,4 @@ For each range limit, one isoline is calculated.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

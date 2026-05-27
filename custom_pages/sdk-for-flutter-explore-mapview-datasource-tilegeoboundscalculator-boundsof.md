@@ -1,10 +1,9 @@
 ---
-title: "boundsOf abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-boundsof"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- boundsOf.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-bounds
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/TileGeoBoundsCalculator-class.html">/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-class</a></li>
 <li class="self-crumb">boundsOf abstract method</li>
 </ol>
 <div class="self-name">boundsOf</div>
@@ -38,21 +37,21 @@ menu
 <div>
 <h1>boundsOf abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-geobox-class
-boundsOf(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-datasource-tilekey-class tileKey</li>
+<a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>
+boundsOf(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a> tileKey</li>
 </ol>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Computes the geodetic bounds (as /sdk-for-flutter-explore-core-geobox-class) for a tile identified by /sdk-for-flutter-explore-mapview-datasource-tilekey-class.</p>
+<p>Computes the geodetic bounds (as <a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>) for a tile identified by <a href="../../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a>.</p>
 <ul>
-<li><code>tileKey</code> /sdk-for-flutter-explore-mapview-datasource-tilekey-class to compute geodetic bounds for.
+<li><code>tileKey</code> <a href="../../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a> to compute geodetic bounds for.
 The geodetic bounds would be calculated relative to the tiling scheme
-provided at this /sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-class instance creation.</li>
+provided at this <a href="../../mapview.datasource/TileGeoBoundsCalculator-class.html">/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-class</a> instance creation.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-geobox-class. The geodetic bounds of tile identified by given /sdk-for-flutter-explore-mapview-datasource-tilekey-class.</p>
+<p>Returns <a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>. The geodetic bounds of tile identified by given <a href="../../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -66,9 +65,9 @@ provided at this /sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalcul
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/TileGeoBoundsCalculator-class.html">/sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalculator-class</a></li>
 <li class="self-crumb">boundsOf abstract method</li>
 </ol>
 <h5>TileGeoBoundsCalculator class</h5>
@@ -85,5 +84,4 @@ provided at this /sdk-for-flutter-explore-mapview-datasource-tilegeoboundscalcul
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "MaxAxleGroupWeight class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-maxaxlegroupweight-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MaxAxleGroupWeight-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-routing-maxaxlegroupweight-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">MaxAxleGroupWeight class</li>
 </ol>
 <div class="self-name">MaxAxleGroupWeight</div>
@@ -58,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MaxAxleGroupWeight">
-/sdk-for-flutter-explore-routing-maxaxlegroupweight-maxaxlegroupweight(int maxWeightInKilograms, String axleGroupType)
+<a href="../routing/MaxAxleGroupWeight/MaxAxleGroupWeight.html">/sdk-for-flutter-explore-routing-maxaxlegroupweight-maxaxlegroupweight</a>(int maxWeightInKilograms, String axleGroupType)
 </dt>
 <dd>
           Creates a new instance.
@@ -69,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="axleGroupType">
-/sdk-for-flutter-explore-routing-maxaxlegroupweight-axlegrouptype
+<a href="../routing/MaxAxleGroupWeight/axleGroupType.html">/sdk-for-flutter-explore-routing-maxaxlegroupweight-axlegrouptype</a>
 ↔ String
 </dt>
 <dd>
@@ -77,7 +76,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-maxaxlegroupweight-hashcode
+<a href="../routing/MaxAxleGroupWeight/hashCode.html">/sdk-for-flutter-explore-routing-maxaxlegroupweight-hashcode</a>
 → int
 </dt>
 <dd>
@@ -85,7 +84,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="maxWeightInKilograms">
-/sdk-for-flutter-explore-routing-maxaxlegroupweight-maxweightinkilograms
+<a href="../routing/MaxAxleGroupWeight/maxWeightInKilograms.html">/sdk-for-flutter-explore-routing-maxaxlegroupweight-maxweightinkilograms</a>
 ↔ int
 </dt>
 <dd>
@@ -93,7 +92,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-maxaxlegroupweight-runtimetype
+<a href="../routing/MaxAxleGroupWeight/runtimeType.html">/sdk-for-flutter-explore-routing-maxaxlegroupweight-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -106,7 +105,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-maxaxlegroupweight-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/MaxAxleGroupWeight/noSuchMethod.html">/sdk-for-flutter-explore-routing-maxaxlegroupweight-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -115,7 +114,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-maxaxlegroupweight-tostring(<wbr/>)
+<a href="../routing/MaxAxleGroupWeight/toString.html">/sdk-for-flutter-explore-routing-maxaxlegroupweight-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -129,7 +128,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-maxaxlegroupweight-operator-equals(<wbr/>Object other)
+<a href="../routing/MaxAxleGroupWeight/operator_equals.html">/sdk-for-flutter-explore-routing-maxaxlegroupweight-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -148,8 +147,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">MaxAxleGroupWeight class</li>
 </ol>
 <h5>routing library</h5>
@@ -166,5 +165,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

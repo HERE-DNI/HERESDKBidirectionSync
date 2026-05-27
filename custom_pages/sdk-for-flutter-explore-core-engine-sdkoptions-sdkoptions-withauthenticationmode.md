@@ -1,10 +1,9 @@
 ---
-title: "SDKOptions.withAuthenticationMode constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-sdkoptions-sdkoptions-withauthenticationmode"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- SDKOptions.withAuthenticationMode.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdkoptions-sdkoptions-withauthenticat
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
 <li class="self-crumb">SDKOptions.withAuthenticationMode factory constructor</li>
 </ol>
 <div class="self-name">SDKOptions.withAuthenticationMode</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>SDKOptions.withAuthenticationMode constructor</h1></div>
 <section class="multi-line-signature">
-SDKOptions.withAuthenticationMode(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-engine-authenticationmode-class authenticationMode</li>
+SDKOptions.withAuthenticationMode(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.engine/AuthenticationMode-class.html">/sdk-for-flutter-explore-core-engine-authenticationmode-class</a> authenticationMode</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -60,9 +59,9 @@ SDKOptions.withAuthenticationMode(<wbr/><ol class="parameter-list single-line"> 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
 <li class="self-crumb">SDKOptions.withAuthenticationMode factory constructor</li>
 </ol>
 <h5>SDKOptions class</h5>
@@ -79,5 +78,4 @@ SDKOptions.withAuthenticationMode(<wbr/><ol class="parameter-list single-line"> 
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

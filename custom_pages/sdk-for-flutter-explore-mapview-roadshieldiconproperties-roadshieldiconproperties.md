@@ -1,10 +1,9 @@
 ---
-title: "RoadShieldIconProperties constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-roadshieldiconproperties-roadshieldiconproperties"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- RoadShieldIconProperties.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-roadshieldiconproperties-roadshieldiconpr
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-roadshieldiconproperties-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/RoadShieldIconProperties-class.html">/sdk-for-flutter-explore-mapview-roadshieldiconproperties-class</a></li>
 <li class="self-crumb">RoadShieldIconProperties constructor</li>
 </ol>
 <div class="self-name">RoadShieldIconProperties</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>RoadShieldIconProperties constructor</h1></div>
 <section class="multi-line-signature">
-RoadShieldIconProperties(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-core-routetype routeType, </li>
+RoadShieldIconProperties(<wbr/><ol class="parameter-list"> <li><a href="../../core/RouteType.html">/sdk-for-flutter-explore-core-routetype</a> routeType, </li>
 <li>String countryCode, </li>
 <li>String stateCode, </li>
 <li>String routeNumberName, </li>
@@ -65,7 +64,7 @@ such as <code>routeType</code>, <code>countryCode</code> and <code>stateCode</co
 of a road shield icon.</li>
 </ul>
 <p>Note that the actual text which will be displayed on the road shield icon is set with
-/sdk-for-flutter-explore-mapview-roadshieldiconproperties-shieldtext. In order to determine the visuals of the icon, <code>countryCode</code>, <code>routeType</code>
+<a href="../../mapview/RoadShieldIconProperties/shieldText.html">/sdk-for-flutter-explore-mapview-roadshieldiconproperties-shieldtext</a>. In order to determine the visuals of the icon, <code>countryCode</code>, <code>routeType</code>
 and eventually the <code>stateCode</code> is in most cases sufficient to determine the type of road
 shield. In this case an empty string should be passed.</p>
 <p><strong>Note:</strong> Texts that contain a <code>CardinalDirection</code> are currently not supported and may lead
@@ -88,9 +87,9 @@ in reality. It will be in the output road-shield icon.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-roadshieldiconproperties-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/RoadShieldIconProperties-class.html">/sdk-for-flutter-explore-mapview-roadshieldiconproperties-class</a></li>
 <li class="self-crumb">RoadShieldIconProperties constructor</li>
 </ol>
 <h5>RoadShieldIconProperties class</h5>
@@ -107,5 +106,4 @@ in reality. It will be in the output road-shield icon.</li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

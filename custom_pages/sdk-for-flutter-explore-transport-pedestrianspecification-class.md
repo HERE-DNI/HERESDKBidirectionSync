@@ -1,10 +1,9 @@
 ---
-title: "PedestrianSpecification class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-transport-pedestrianspecification-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PedestrianSpecification-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-transport-pedestrianspecification-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
 <li class="self-crumb">PedestrianSpecification class</li>
 </ol>
 <div class="self-name">PedestrianSpecification</div>
@@ -57,7 +56,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PedestrianSpecification">
-/sdk-for-flutter-explore-transport-pedestrianspecification-pedestrianspecification()
+<a href="../transport/PedestrianSpecification/PedestrianSpecification.html">/sdk-for-flutter-explore-transport-pedestrianspecification-pedestrianspecification</a>()
 </dt>
 <dd>
 </dd>
@@ -67,7 +66,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-transport-pedestrianspecification-hashcode
+<a href="../transport/PedestrianSpecification/hashCode.html">/sdk-for-flutter-explore-transport-pedestrianspecification-hashcode</a>
 → int
 </dt>
 <dd>
@@ -75,7 +74,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-transport-pedestrianspecification-runtimetype
+<a href="../transport/PedestrianSpecification/runtimeType.html">/sdk-for-flutter-explore-transport-pedestrianspecification-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -83,7 +82,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="walkingSpeedInMetersPerSecond">
-/sdk-for-flutter-explore-transport-pedestrianspecification-walkingspeedinmeterspersecond
+<a href="../transport/PedestrianSpecification/walkingSpeedInMetersPerSecond.html">/sdk-for-flutter-explore-transport-pedestrianspecification-walkingspeedinmeterspersecond</a>
 ↔ double
 </dt>
 <dd>
@@ -98,7 +97,7 @@ Defaults to a speed of 1 meter per second.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-transport-pedestrianspecification-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../transport/PedestrianSpecification/noSuchMethod.html">/sdk-for-flutter-explore-transport-pedestrianspecification-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -107,7 +106,7 @@ Defaults to a speed of 1 meter per second.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-transport-pedestrianspecification-tostring(<wbr/>)
+<a href="../transport/PedestrianSpecification/toString.html">/sdk-for-flutter-explore-transport-pedestrianspecification-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -121,7 +120,7 @@ Defaults to a speed of 1 meter per second.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-transport-pedestrianspecification-operator-equals(<wbr/>Object other)
+<a href="../transport/PedestrianSpecification/operator_equals.html">/sdk-for-flutter-explore-transport-pedestrianspecification-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -140,8 +139,8 @@ Defaults to a speed of 1 meter per second.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
 <li class="self-crumb">PedestrianSpecification class</li>
 </ol>
 <h5>transport library</h5>
@@ -158,5 +157,4 @@ Defaults to a speed of 1 meter per second.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "sizes property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizes"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- sizes.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizes"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a></li>
 <li class="self-crumb">sizes property</li>
 </ol>
 <div class="self-name">sizes</div>
@@ -45,7 +44,7 @@ sizes
 </section>
 <section class="desc markdown">
 <p>The dictionary describing the size (value) per map measure (key).</p>
-<p>Units of keys and values are defined in /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-measurekind and /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizeunit.</p>
+<p>Units of keys and values are defined in <a href="../../mapview/MapMeasureDependentRenderSize/measureKind.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-measurekind</a> and <a href="../../mapview/MapMeasureDependentRenderSize/sizeUnit.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizeunit</a>.</p>
 <p><code>sizes</code> with a single entry indicates using a fixed size value across all map measures.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -60,9 +59,9 @@ sizes
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a></li>
 <li class="self-crumb">sizes property</li>
 </ol>
 <h5>MapMeasureDependentRenderSize class</h5>
@@ -79,5 +78,4 @@ sizes
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

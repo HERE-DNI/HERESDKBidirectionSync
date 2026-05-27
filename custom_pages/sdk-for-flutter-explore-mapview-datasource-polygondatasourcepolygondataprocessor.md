@@ -1,10 +1,9 @@
 ---
-title: "PolygonDataSourcePolygonDataProcessor typedef"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-polygondatasourcepolygondataprocessor"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PolygonDataSourcePolygonDataProcessor.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,8 +11,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-polygondatasourcepolygondatapr
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">PolygonDataSourcePolygonDataProcessor typedef</li>
 </ol>
 <div class="self-name">PolygonDataSourcePolygonDataProcessor</div>
@@ -38,7 +37,7 @@ menu
 <h1>PolygonDataSourcePolygonDataProcessor typedef</h1></div>
 <section class="multi-line-signature">
 PolygonDataSourcePolygonDataProcessor =
-     bool Function(/sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-class polygonAccessor)
+     bool Function(<a href="../mapview.datasource/PolygonDataAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-polygondataaccessor-class</a> polygonAccessor)
 </section>
 <section class="desc markdown">
 <p>Called for each polygon, allowing inspection, removal or update of coordinates and attributes.</p>
@@ -59,8 +58,8 @@ PolygonDataSourcePolygonDataProcessor =
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">PolygonDataSourcePolygonDataProcessor typedef</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -77,5 +76,4 @@ PolygonDataSourcePolygonDataProcessor =
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

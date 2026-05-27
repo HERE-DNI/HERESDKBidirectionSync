@@ -1,10 +1,9 @@
 ---
-title: "getPreferredValueForLocales method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-localizedroadnumbers-getpreferredvalueforlocales"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- getPreferredValueForLocales.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-localizedroadnumbers-getpreferredvaluefor
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-localizedroadnumbers-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/LocalizedRoadNumbers-class.html">/sdk-for-flutter-explore-routing-localizedroadnumbers-class</a></li>
 <li class="self-crumb">getPreferredValueForLocales method</li>
 </ol>
 <div class="self-name">getPreferredValueForLocales</div>
@@ -69,9 +68,9 @@ default or <code>null</code> if list is empty.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-localizedroadnumbers-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/LocalizedRoadNumbers-class.html">/sdk-for-flutter-explore-routing-localizedroadnumbers-class</a></li>
 <li class="self-crumb">getPreferredValueForLocales method</li>
 </ol>
 <h5>LocalizedRoadNumbers class</h5>
@@ -88,5 +87,4 @@ default or <code>null</code> if list is empty.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

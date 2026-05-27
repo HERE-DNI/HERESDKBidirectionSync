@@ -1,10 +1,9 @@
 ---
-title: "containingGeoCoordinates static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-geobox-containinggeocoordinates"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- containingGeoCoordinates.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-geobox-containinggeocoordinates"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geobox-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a></li>
 <li class="self-crumb">containingGeoCoordinates static method</li>
 </ol>
 <div class="self-name">containingGeoCoordinates</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>containingGeoCoordinates static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-geobox-class?
-containingGeoCoordinates(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt; geoCoordinates</li>
+<a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>?
+containingGeoCoordinates(<wbr/><ol class="parameter-list single-line"> <li>List&lt;<wbr/><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt; geoCoordinates</li>
 </ol>)
 
       
@@ -52,7 +51,7 @@ The altitude values of the input coordinates are not considered for the result.<
 <ul>
 <li><code>geoCoordinates</code> List of coordinates to encompass inside bounding box.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-geobox-class. <code>GeoBox</code> containing all supplied coordinates, or <code>null</code> if less than two coordinates were provided.</p>
+<p>Returns <a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>. <code>GeoBox</code> containing all supplied coordinates, or <code>null</code> if less than two coordinates were provided.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -66,9 +65,9 @@ The altitude values of the input coordinates are not considered for the result.<
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geobox-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a></li>
 <li class="self-crumb">containingGeoCoordinates static method</li>
 </ol>
 <h5>GeoBox class</h5>
@@ -85,5 +84,4 @@ The altitude values of the input coordinates are not considered for the result.<
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "status property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-transitdeparture-status"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- status.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-transitdeparture-status"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-transitdeparture-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TransitDeparture-class.html">/sdk-for-flutter-explore-routing-transitdeparture-class</a></li>
 <li class="self-crumb">status property</li>
 </ol>
 <div class="self-name">status</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>status property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-routing-transitdeparturestatus?
+<a href="../../routing/TransitDepartureStatus.html">/sdk-for-flutter-explore-routing-transitdeparturestatus</a>?
         status
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +56,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-transitdeparture-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TransitDeparture-class.html">/sdk-for-flutter-explore-routing-transitdeparture-class</a></li>
 <li class="self-crumb">status property</li>
 </ol>
 <h5>TransitDeparture class</h5>
@@ -76,5 +75,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

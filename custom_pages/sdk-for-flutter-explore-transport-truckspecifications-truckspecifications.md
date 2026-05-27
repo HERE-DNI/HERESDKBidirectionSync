@@ -1,10 +1,9 @@
 ---
-title: "TruckSpecifications constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-truckspecifications-truckspecifications"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TruckSpecifications.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-truckspecifications-truckspecifications
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-truckspecifications-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/TruckSpecifications-class.html">/sdk-for-flutter-explore-transport-truckspecifications-class</a></li>
 <li class="self-crumb">TruckSpecifications constructor</li>
 </ol>
 <div class="self-name">TruckSpecifications</div>
@@ -41,13 +40,13 @@ menu
 TruckSpecifications(<wbr/>[<ol class="parameter-list"> <li>int? grossWeightInKilograms = null, </li>
 <li>int? currentWeightInKilograms = null, </li>
 <li>int? weightPerAxleInKilograms = null, </li>
-<li>/sdk-for-flutter-explore-transport-weightperaxlegroup-class? weightPerAxleGroup = null, </li>
+<li><a href="../../transport/WeightPerAxleGroup-class.html">/sdk-for-flutter-explore-transport-weightperaxlegroup-class</a>? weightPerAxleGroup = null, </li>
 <li>int? heightInCentimeters = null, </li>
 <li>int? widthInCentimeters = null, </li>
 <li>int? lengthInCentimeters = null, </li>
 <li>int? axleCount = null, </li>
 <li>int? trailerCount = null, </li>
-<li>/sdk-for-flutter-explore-transport-trucktype truckType = TruckType.straight, </li>
+<li><a class="deprecated" href="../../transport/TruckType.html">/sdk-for-flutter-explore-transport-trucktype</a> truckType = TruckType.straight, </li>
 <li>bool isTruckLight = false, </li>
 <li>int? payloadCapacityInKilograms = null, </li>
 <li>int? trailerAxleCount = null, </li>
@@ -58,10 +57,10 @@ TruckSpecifications(<wbr/>[<ol class="parameter-list"> <li>int? grossWeightInKil
 <ul>
 <li><code>grossWeightInKilograms</code> Gross truck weight, including trailers and shipped goods when loaded at capacity, specified in
 kilograms. The provided value must be greater than or equal to 0. If unspecified,
-it will default to /sdk-for-flutter-explore-transport-truckspecifications-currentweightinkilograms. By default, it is not set.</li>
+it will default to <a href="../../transport/TruckSpecifications/currentWeightInKilograms.html">/sdk-for-flutter-explore-transport-truckspecifications-currentweightinkilograms</a>. By default, it is not set.</li>
 <li><code>currentWeightInKilograms</code> Current truck weight, including trailers and shipped goods currently loaded, specified in
 kilograms. The provided value must be greater than or equal to 0. If unspecified,
-it will default to /sdk-for-flutter-explore-transport-truckspecifications-grossweightinkilograms. By default, it is not set.</li>
+it will default to <a href="../../transport/TruckSpecifications/grossWeightInKilograms.html">/sdk-for-flutter-explore-transport-truckspecifications-grossweightinkilograms</a>. By default, it is not set.</li>
 <li><code>weightPerAxleInKilograms</code> Heaviest weight per axle, regardless of axle type or axle group.
 It is evaluated against all axle weight restrictions, including single axle and tandem axle weight restrictions.
 The provided value must be greater or equal to 0.
@@ -86,13 +85,13 @@ equal to 2. By default, it is not set.
 Route calculation: When not set, possible axle count restrictions will not be
 taken into consideration.
 Rendering <code>sdk.mapview.TruckProfile</code>: When set, truck restriction icons for an axle count
-greater than /sdk-for-flutter-explore-transport-truckspecifications-axlecount will not be displayed.
-When specifying /sdk-for-flutter-explore-transport-truckspecifications-traileraxlecount, then /sdk-for-flutter-explore-transport-truckspecifications-axlecount is required and must be greater than /sdk-for-flutter-explore-transport-truckspecifications-traileraxlecount.</li>
+greater than <a href="../../transport/TruckSpecifications/axleCount.html">/sdk-for-flutter-explore-transport-truckspecifications-axlecount</a> will not be displayed.
+When specifying <a href="../../transport/TruckSpecifications/trailerAxleCount.html">/sdk-for-flutter-explore-transport-truckspecifications-traileraxlecount</a>, then <a href="../../transport/TruckSpecifications/axleCount.html">/sdk-for-flutter-explore-transport-truckspecifications-axlecount</a> is required and must be greater than <a href="../../transport/TruckSpecifications/trailerAxleCount.html">/sdk-for-flutter-explore-transport-truckspecifications-traileraxlecount</a>.</li>
 <li><code>trailerCount</code> Defines number of trailers attached to the vehicle. The provided value must be in the range
 [0, 255]. By default, it is not set.
-When specifying /sdk-for-flutter-explore-transport-truckspecifications-traileraxlecount, then /sdk-for-flutter-explore-transport-truckspecifications-trailercount is required and must be greater than 0.</li>
-<li><code>truckType</code> Defines the type of truck. By default, it is /sdk-for-flutter-explore-transport-trucktype.
-Rendering <code>sdk.mapview.TruckProfile</code>: /sdk-for-flutter-explore-transport-truckspecifications-trucktype is ignored and has no effect.</li>
+When specifying <a href="../../transport/TruckSpecifications/trailerAxleCount.html">/sdk-for-flutter-explore-transport-truckspecifications-traileraxlecount</a>, then <a href="../../transport/TruckSpecifications/trailerCount.html">/sdk-for-flutter-explore-transport-truckspecifications-trailercount</a> is required and must be greater than 0.</li>
+<li><code>truckType</code> Defines the type of truck. By default, it is <a href="../../transport/TruckType.html">/sdk-for-flutter-explore-transport-trucktype</a>.
+Rendering <code>sdk.mapview.TruckProfile</code>: <a href="../../transport/TruckSpecifications/truckType.html">/sdk-for-flutter-explore-transport-truckspecifications-trucktype</a> is ignored and has no effect.</li>
 <li><code>isTruckLight</code> A flag indicating whether the truck is light enough to be classified more as a car than a truck in Japan.
 The flag should not be set to <code>true</code> in other countries than Japan. The flag defaults to <code>false</code>.</li>
 </ul>
@@ -114,8 +113,8 @@ Related APIs may change for new releases with a deprecation process.</p>
 <li><code>payloadCapacityInKilograms</code> Allowed payload capacity, including trailers, specified in kilograms. The provided value
 must be greater then or equal to 0. By default, it is not set.</li>
 <li><code>trailerAxleCount</code> Defines total number of axles across all the trailers attached to the vehicle.
-This number is included in /sdk-for-flutter-explore-transport-truckspecifications-axlecount, hence /sdk-for-flutter-explore-transport-truckspecifications-traileraxlecount must be less than /sdk-for-flutter-explore-transport-truckspecifications-axlecount
-and greater than or equal to 1. /sdk-for-flutter-explore-transport-truckspecifications-axlecount and /sdk-for-flutter-explore-transport-truckspecifications-trailercount are required to specify /sdk-for-flutter-explore-transport-truckspecifications-traileraxlecount.
+This number is included in <a href="../../transport/TruckSpecifications/axleCount.html">/sdk-for-flutter-explore-transport-truckspecifications-axlecount</a>, hence <a href="../../transport/TruckSpecifications/trailerAxleCount.html">/sdk-for-flutter-explore-transport-truckspecifications-traileraxlecount</a> must be less than <a href="../../transport/TruckSpecifications/axleCount.html">/sdk-for-flutter-explore-transport-truckspecifications-axlecount</a>
+and greater than or equal to 1. <a href="../../transport/TruckSpecifications/axleCount.html">/sdk-for-flutter-explore-transport-truckspecifications-axlecount</a> and <a href="../../transport/TruckSpecifications/trailerCount.html">/sdk-for-flutter-explore-transport-truckspecifications-trailercount</a> are required to specify <a href="../../transport/TruckSpecifications/trailerAxleCount.html">/sdk-for-flutter-explore-transport-truckspecifications-traileraxlecount</a>.
 By default, it is not set.
 Note: This parameter is currently used only for the calculation of tolls in regions where it is applicable.</li>
 </ul>
@@ -133,9 +132,9 @@ Note: This parameter is currently used only for the calculation of tolls in regi
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-truckspecifications-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/TruckSpecifications-class.html">/sdk-for-flutter-explore-transport-truckspecifications-class</a></li>
 <li class="self-crumb">TruckSpecifications constructor</li>
 </ol>
 <h5>TruckSpecifications class</h5>
@@ -152,5 +151,4 @@ Note: This parameter is currently used only for the calculation of tolls in regi
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

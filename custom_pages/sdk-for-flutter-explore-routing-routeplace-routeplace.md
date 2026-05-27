@@ -1,10 +1,9 @@
 ---
-title: "RoutePlace constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-routeplace-routeplace"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- RoutePlace.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-routeplace-routeplace"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routeplace-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RoutePlace-class.html">/sdk-for-flutter-explore-routing-routeplace-class</a></li>
 <li class="self-crumb">RoutePlace constructor</li>
 </ol>
 <div class="self-name">RoutePlace</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>RoutePlace constructor</h1></div>
 <section class="multi-line-signature">
-RoutePlace(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-routing-routeplacetype type, </li>
-<li>/sdk-for-flutter-explore-core-geocoordinates-class mapMatchedCoordinates</li>
+RoutePlace(<wbr/><ol class="parameter-list single-line"> <li><a href="../../routing/RoutePlaceType.html">/sdk-for-flutter-explore-routing-routeplacetype</a> type, </li>
+<li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> mapMatchedCoordinates</li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -62,9 +61,9 @@ RoutePlace(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-ex
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-routeplace-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RoutePlace-class.html">/sdk-for-flutter-explore-routing-routeplace-class</a></li>
 <li class="self-crumb">RoutePlace constructor</li>
 </ol>
 <h5>RoutePlace class</h5>
@@ -81,5 +80,4 @@ RoutePlace(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-ex
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "PlaceIdSearchCallback typedef"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-placeidsearchcallback"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PlaceIdSearchCallback.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,8 +11,8 @@ slug: "sdk-for-flutter-explore-search-placeidsearchcallback"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">PlaceIdSearchCallback typedef</li>
 </ol>
 <div class="self-name">PlaceIdSearchCallback</div>
@@ -38,7 +37,7 @@ menu
 <h1>PlaceIdSearchCallback typedef</h1></div>
 <section class="multi-line-signature">
 PlaceIdSearchCallback =
-     void Function(/sdk-for-flutter-explore-search-searcherror? searchError, /sdk-for-flutter-explore-search-place-class? place)
+     void Function(<a href="../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a>? searchError, <a href="../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a>? place)
 </section>
 <section class="desc markdown">
 <p>The method will be called on the main thread when a search by id call has been completed.</p>
@@ -63,8 +62,8 @@ PlaceIdSearchCallback =
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">PlaceIdSearchCallback typedef</li>
 </ol>
 <h5>search library</h5>
@@ -81,5 +80,4 @@ PlaceIdSearchCallback =
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

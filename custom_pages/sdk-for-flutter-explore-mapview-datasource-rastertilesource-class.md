@@ -1,10 +1,9 @@
 ---
-title: "RasterTileSource class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-datasource-rastertilesource-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- RasterTileSource-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -31,8 +30,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-rastertilesource-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">RasterTileSource class</li>
 </ol>
 <div class="self-name">RasterTileSource</div>
@@ -66,7 +65,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <dt>Implemented types</dt>
 <dd>
 <ul class="comma-separated clazz-relationships">
-<li>/sdk-for-flutter-explore-mapview-datasource-tilesource-class</li>
+<li><a href="../mapview.datasource/TileSource-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesource-class</a></li>
 </ul>
 </dd>
 </dl>
@@ -75,7 +74,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="RasterTileSource">
-/sdk-for-flutter-explore-mapview-datasource-rastertilesource-rastertilesource(/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class getDataVersionLambda(/sdk-for-flutter-explore-mapview-datasource-tilekey-class), void addListenerLambda(/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-class), void removeListenerLambda(/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-class), /sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class? loadTileLambda(/sdk-for-flutter-explore-mapview-datasource-tilekey-class, /sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-class), /sdk-for-flutter-explore-mapview-datasource-tilingscheme tilingSchemeGetLambda(), List&lt;<wbr/>int&gt; storageLevelsGetLambda())
+<a href="../mapview.datasource/RasterTileSource/RasterTileSource.html">/sdk-for-flutter-explore-mapview-datasource-rastertilesource-rastertilesource</a>(<a href="../mapview.datasource/TileSourceDataVersion-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class</a> getDataVersionLambda(<a href="../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a>), void addListenerLambda(<a href="../mapview.datasource/TileSourceListener-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-class</a>), void removeListenerLambda(<a href="../mapview.datasource/TileSourceListener-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-class</a>), <a href="../mapview.datasource/TileSourceLoadTileRequestHandle-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class</a>? loadTileLambda(<a href="../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a>, <a href="../mapview.datasource/RasterTileSourceLoadResultHandler-class.html">/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-class</a>), <a href="../mapview.datasource/TilingScheme.html">/sdk-for-flutter-explore-mapview-datasource-tilingscheme</a> tilingSchemeGetLambda(), List&lt;<wbr/>int&gt; storageLevelsGetLambda())
 </dt>
 <dd>
           A source of raster tiles.
@@ -87,7 +86,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-datasource-tilesource-hashcode
+<a href="../mapview.datasource/TileSource/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-tilesource-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -95,7 +94,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-datasource-tilesource-runtimetype
+<a href="../mapview.datasource/TileSource/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-tilesource-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -103,7 +102,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="storageLevels">
-/sdk-for-flutter-explore-mapview-datasource-tilesource-storagelevels
+<a href="../mapview.datasource/TileSource/storageLevels.html">/sdk-for-flutter-explore-mapview-datasource-tilesource-storagelevels</a>
 → List&lt;<wbr/>int&gt;
 </dt>
 <dd class="inherited">
@@ -113,8 +112,8 @@ Gets the storage levels available for this data source. Supported range [0, 31].
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="tilingScheme">
-/sdk-for-flutter-explore-mapview-datasource-tilesource-tilingscheme
-→ /sdk-for-flutter-explore-mapview-datasource-tilingscheme
+<a href="../mapview.datasource/TileSource/tilingScheme.html">/sdk-for-flutter-explore-mapview-datasource-tilesource-tilingscheme</a>
+→ <a href="../mapview.datasource/TilingScheme.html">/sdk-for-flutter-explore-mapview-datasource-tilingscheme</a>
 </dt>
 <dd class="inherited">
   The tiling scheme used by this source.
@@ -127,7 +126,7 @@ Gets the tiling scheme used by this source.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="addListener">
-/sdk-for-flutter-explore-mapview-datasource-tilesource-addlistener(<wbr/>/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-class listener)
+<a href="../mapview.datasource/TileSource/addListener.html">/sdk-for-flutter-explore-mapview-datasource-tilesource-addlistener</a>(<wbr/><a href="../mapview.datasource/TileSourceListener-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-class</a> listener)
     → void
 
 </dt>
@@ -136,17 +135,16 @@ Gets the tiling scheme used by this source.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="getDataVersion">
-/sdk-for-flutter-explore-mapview-datasource-tilesource-getdataversion(<wbr/>/sdk-for-flutter-explore-mapview-datasource-tilekey-class tileKey)
-    → /sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class
-
+<a href="../mapview.datasource/TileSource/getDataVersion.html">/sdk-for-flutter-explore-mapview-datasource-tilesource-getdataversion</a>(<wbr/><a href="../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a> tileKey)
+    → <a href="../mapview.datasource/TileSourceDataVersion-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcedataversion-class</a>
 </dt>
 <dd class="inherited">
   Gets the current data version of a tile.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="loadTile">
-/sdk-for-flutter-explore-mapview-datasource-rastertilesource-loadtile(<wbr/>/sdk-for-flutter-explore-mapview-datasource-tilekey-class tileKey, /sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-class completionHandler)
-    → /sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class?
+<a href="../mapview.datasource/RasterTileSource/loadTile.html">/sdk-for-flutter-explore-mapview-datasource-rastertilesource-loadtile</a>(<wbr/><a href="../mapview.datasource/TileKey-class.html">/sdk-for-flutter-explore-mapview-datasource-tilekey-class</a> tileKey, <a href="../mapview.datasource/RasterTileSourceLoadResultHandler-class.html">/sdk-for-flutter-explore-mapview-datasource-rastertilesourceloadresulthandler-class</a> completionHandler)
+    → <a href="../mapview.datasource/TileSourceLoadTileRequestHandle-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class</a>?
 
 </dt>
 <dd>
@@ -155,7 +153,7 @@ Gets the tiling scheme used by this source.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-datasource-tilesource-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview.datasource/TileSource/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-tilesource-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -164,7 +162,7 @@ Gets the tiling scheme used by this source.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="removeListener">
-/sdk-for-flutter-explore-mapview-datasource-tilesource-removelistener(<wbr/>/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-class listener)
+<a href="../mapview.datasource/TileSource/removeListener.html">/sdk-for-flutter-explore-mapview-datasource-tilesource-removelistener</a>(<wbr/><a href="../mapview.datasource/TileSourceListener-class.html">/sdk-for-flutter-explore-mapview-datasource-tilesourcelistener-class</a> listener)
     → void
 
 </dt>
@@ -173,7 +171,7 @@ Gets the tiling scheme used by this source.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-datasource-tilesource-tostring(<wbr/>)
+<a href="../mapview.datasource/TileSource/toString.html">/sdk-for-flutter-explore-mapview-datasource-tilesource-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -187,7 +185,7 @@ Gets the tiling scheme used by this source.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-datasource-tilesource-operator-equals(<wbr/>Object other)
+<a href="../mapview.datasource/TileSource/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-tilesource-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -205,8 +203,8 @@ Gets the tiling scheme used by this source.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">RasterTileSource class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -223,5 +221,4 @@ Gets the tiling scheme used by this source.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

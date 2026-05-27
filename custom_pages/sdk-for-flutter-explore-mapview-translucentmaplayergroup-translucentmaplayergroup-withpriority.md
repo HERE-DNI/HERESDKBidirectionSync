@@ -1,10 +1,9 @@
 ---
-title: "TranslucentMapLayerGroup.withPriority constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-translucentmaplayergroup-translucentmaplayergroup-withpriority"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TranslucentMapLayerGroup.withPriority.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-translucentmaplayergroup-translucentmapla
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/TranslucentMapLayerGroup-class.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</a></li>
 <li class="self-crumb">TranslucentMapLayerGroup.withPriority factory constructor</li>
 </ol>
 <div class="self-name">TranslucentMapLayerGroup.withPriority</div>
@@ -39,31 +38,31 @@ menu
 <h1>TranslucentMapLayerGroup.withPriority constructor</h1></div>
 <section class="multi-line-signature">
 TranslucentMapLayerGroup.withPriority(<wbr/><ol class="parameter-list single-line"> <li>String name, </li>
-<li>/sdk-for-flutter-explore-mapview-heremapcontrollercore-class aMap, </li>
-<li>/sdk-for-flutter-explore-mapview-maplayerpriority-class priority</li>
+<li><a href="../../mapview/HereMapControllerCore-class.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-class</a> aMap, </li>
+<li><a href="../../mapview/MapLayerPriority-class.html">/sdk-for-flutter-explore-mapview-maplayerpriority-class</a> priority</li>
 </ol>)
     </section>
 <section class="desc markdown">
 <p>Creates an instance of the group.</p>
 <ul>
 <li>
-<p><code>name</code> Name of the group. Must be unique across /sdk-for-flutter-explore-mapview-maplayer-class and /sdk-for-flutter-explore-mapview-translucentmaplayergroup-class.</p>
+<p><code>name</code> Name of the group. Must be unique across <a href="../../mapview/MapLayer-class.html">/sdk-for-flutter-explore-mapview-maplayer-class</a> and <a href="../../mapview/TranslucentMapLayerGroup-class.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</a>.</p>
 </li>
 <li>
 <p><code>aMap</code> The map to attach the group to.</p>
 </li>
 <li>
-<p><code>priority</code> The /sdk-for-flutter-explore-mapview-maplayerpriority-class which should be applied to position the group.
-The /sdk-for-flutter-explore-mapview-maplayerpriority-class must contain only one priority and this priority must have no
-category and no group, i.e. /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-ingroup and
-/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-withcategory should not be used when building the
-/sdk-for-flutter-explore-mapview-maplayerpriority-class.
+<p><code>priority</code> The <a href="../../mapview/MapLayerPriority-class.html">/sdk-for-flutter-explore-mapview-maplayerpriority-class</a> which should be applied to position the group.
+The <a href="../../mapview/MapLayerPriority-class.html">/sdk-for-flutter-explore-mapview-maplayerpriority-class</a> must contain only one priority and this priority must have no
+category and no group, i.e. <a href="../../mapview/MapLayerPriorityBuilder/inGroup.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-ingroup</a> and
+<a href="../../mapview/MapLayerPriorityBuilder/withCategory.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-withcategory</a> should not be used when building the
+<a href="../../mapview/MapLayerPriority-class.html">/sdk-for-flutter-explore-mapview-maplayerpriority-class</a>.
 Example:</p>
 </li>
 </ul>
 <p>new MapLayerPriorityBuilder().renderedAfterLayer("water").build()</p>
 <p><code>MapLayerPriorityBuilder().renderedAfterLayer("water").build()</code></p>
-<p>Throws /sdk-for-flutter-explore-mapview-translucentmaplayergroupinstantiationexception-class. In case of invalid input parameters.</p>
+<p>Throws <a href="../../mapview/TranslucentMapLayerGroupInstantiationException-class.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroupinstantiationexception-class</a>. In case of invalid input parameters.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -77,9 +76,9 @@ Example:</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/TranslucentMapLayerGroup-class.html">/sdk-for-flutter-explore-mapview-translucentmaplayergroup-class</a></li>
 <li class="self-crumb">TranslucentMapLayerGroup.withPriority factory constructor</li>
 </ol>
 <h5>TranslucentMapLayerGroup class</h5>
@@ -96,5 +95,4 @@ Example:</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

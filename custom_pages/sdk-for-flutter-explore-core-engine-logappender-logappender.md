@@ -1,10 +1,9 @@
 ---
-title: "LogAppender constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-logappender-logappender"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- LogAppender.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-logappender-logappender"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-logappender-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/LogAppender-class.html">/sdk-for-flutter-explore-core-engine-logappender-class</a></li>
 <li class="self-crumb">LogAppender factory constructor</li>
 </ol>
 <div class="self-name">LogAppender</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>LogAppender constructor</h1></div>
 <section class="multi-line-signature">
-LogAppender(<wbr/><ol class="parameter-list single-line"> <li>void logLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-engine-loglevel, </li>
+LogAppender(<wbr/><ol class="parameter-list single-line"> <li>void logLambda(<ol class="parameter-list single-line"> <li><a href="../../core.engine/LogLevel.html">/sdk-for-flutter-explore-core-engine-loglevel</a>, </li>
 <li>String</li>
 </ol>)</li>
 </ol>)
@@ -64,9 +63,9 @@ LogAppender(<wbr/><ol class="parameter-list single-line"> <li>void logLambda(<ol
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-logappender-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/LogAppender-class.html">/sdk-for-flutter-explore-core-engine-logappender-class</a></li>
 <li class="self-crumb">LogAppender factory constructor</li>
 </ol>
 <h5>LogAppender class</h5>
@@ -83,5 +82,4 @@ LogAppender(<wbr/><ol class="parameter-list single-line"> <li>void logLambda(<ol
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

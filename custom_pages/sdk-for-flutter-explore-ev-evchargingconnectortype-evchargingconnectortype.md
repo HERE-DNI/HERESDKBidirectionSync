@@ -3,8 +3,7 @@ title: "EVChargingConnectorType constructor"
 slug: "sdk-for-flutter-explore-ev-evchargingconnectortype-evchargingconnectortype"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVChargingConnectorType.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-ev-evchargingconnectortype-evchargingconnectortyp
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-ev-ev-library</li>
-<li>/sdk-for-flutter-explore-ev-evchargingconnectortype-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../ev/ev-library.html">/sdk-for-flutter-explore-ev-ev-library</a></li>
+<li><a href="../../ev/EVChargingConnectorType-class.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-class</a></li>
 <li class="self-crumb">EVChargingConnectorType constructor</li>
 </ol>
 <div class="self-name">EVChargingConnectorType</div>
@@ -48,9 +47,9 @@ EVChargingConnectorType(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-ev-ev-library</li>
-<li>/sdk-for-flutter-explore-ev-evchargingconnectortype-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../ev/ev-library.html">/sdk-for-flutter-explore-ev-ev-library</a></li>
+<li><a href="../../ev/EVChargingConnectorType-class.html">/sdk-for-flutter-explore-ev-evchargingconnectortype-class</a></li>
 <li class="self-crumb">EVChargingConnectorType constructor</li>
 </ol>
 <h5>EVChargingConnectorType class</h5>
@@ -67,5 +66,4 @@ EVChargingConnectorType(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

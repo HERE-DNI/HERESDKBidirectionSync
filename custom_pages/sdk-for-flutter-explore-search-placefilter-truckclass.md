@@ -1,10 +1,9 @@
 ---
-title: "truckClass property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-placefilter-truckclass"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- truckClass.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-placefilter-truckclass"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-placefilter-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/PlaceFilter-class.html">/sdk-for-flutter-explore-search-placefilter-class</a></li>
 <li class="self-crumb">truckClass property</li>
 </ol>
 <div class="self-name">truckClass</div>
@@ -38,16 +37,16 @@ menu
 <div>
 <h1>truckClass property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-transport-truckclass?
+<a href="../../transport/TruckClass.html">/sdk-for-flutter-explore-transport-truckclass</a>?
         truckClass
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>Should be used to find only the /sdk-for-flutter-explore-search-fuelstation-class search results with minimum supported /sdk-for-flutter-explore-transport-truckclass.
+<p>Should be used to find only the <a href="../../search/FuelStation-class.html">/sdk-for-flutter-explore-search-fuelstation-class</a> search results with minimum supported <a href="../../transport/TruckClass.html">/sdk-for-flutter-explore-transport-truckclass</a>.
 This filter is only available to use with the <code>SearchEngine</code>.
 The <code>OfflineSearchEngine</code> (only available for the Navigate license) does not apply this filter.
-/sdk-for-flutter-explore-transport-truckclass is not accepted in the filter.
-Otherwise will result in /sdk-for-flutter-explore-search-searcherror.</p>
+<a href="../../transport/TruckClass.html">/sdk-for-flutter-explore-transport-truckclass</a> is not accepted in the filter.
+Otherwise will result in <a href="../../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a>.</p>
 <p><strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -63,9 +62,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-placefilter-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/PlaceFilter-class.html">/sdk-for-flutter-explore-search-placefilter-class</a></li>
 <li class="self-crumb">truckClass property</li>
 </ol>
 <h5>PlaceFilter class</h5>
@@ -82,5 +81,4 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

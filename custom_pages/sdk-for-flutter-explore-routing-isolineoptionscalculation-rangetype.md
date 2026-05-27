@@ -1,10 +1,9 @@
 ---
-title: "rangeType property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-isolineoptionscalculation-rangetype"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- rangeType.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-isolineoptionscalculation-rangetype"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/IsolineOptionsCalculation-class.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</a></li>
 <li class="self-crumb">rangeType property</li>
 </ol>
 <div class="self-name">rangeType</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>rangeType property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-routing-isolinerangetype
+<a href="../../routing/IsolineRangeType.html">/sdk-for-flutter-explore-routing-isolinerangetype</a>
 rangeType
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +56,9 @@ rangeType
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/IsolineOptionsCalculation-class.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</a></li>
 <li class="self-crumb">rangeType property</li>
 </ol>
 <h5>IsolineOptionsCalculation class</h5>
@@ -76,5 +75,4 @@ rangeType
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

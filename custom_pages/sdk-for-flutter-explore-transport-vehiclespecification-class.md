@@ -1,10 +1,9 @@
 ---
-title: "VehicleSpecification class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-transport-vehiclespecification-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- VehicleSpecification-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -48,8 +47,8 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecification-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
 <li class="self-crumb">VehicleSpecification class</li>
 </ol>
 <div class="self-name">VehicleSpecification</div>
@@ -81,7 +80,7 @@ Only the fields that are set are considered for restriction handling.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="VehicleSpecification">
-/sdk-for-flutter-explore-transport-vehiclespecification-vehiclespecification()
+<a href="../transport/VehicleSpecification/VehicleSpecification.html">/sdk-for-flutter-explore-transport-vehiclespecification-vehiclespecification</a>()
 </dt>
 <dd>
 </dd>
@@ -91,30 +90,30 @@ Only the fields that are set are considered for restriction handling.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="axleCount">
-/sdk-for-flutter-explore-transport-vehiclespecification-axlecount
+<a href="../transport/VehicleSpecification/axleCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-axlecount</a>
 ↔ int?
 </dt>
 <dd>
   Defines total number of axles in the vehicle. The provided value must be greater than or equal to 2.
 By default, it is not set.
 Route calculation: When not set, possible axle count restrictions will not be taken into consideration.
-Rendering: When set, truck restriction icons for an axle count greater than /sdk-for-flutter-explore-transport-vehiclespecification-axlecount will not be displayed.
-When specifying /sdk-for-flutter-explore-transport-vehiclespecification-traileraxlecount, then /sdk-for-flutter-explore-transport-vehiclespecification-axlecount is required and must be greater than /sdk-for-flutter-explore-transport-vehiclespecification-traileraxlecount.
+Rendering: When set, truck restriction icons for an axle count greater than <a href="../transport/VehicleSpecification/axleCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-axlecount</a> will not be displayed.
+When specifying <a href="../transport/VehicleSpecification/trailerAxleCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-traileraxlecount</a>, then <a href="../transport/VehicleSpecification/axleCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-axlecount</a> is required and must be greater than <a href="../transport/VehicleSpecification/trailerAxleCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-traileraxlecount</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="currentWeightInKilograms">
-/sdk-for-flutter-explore-transport-vehiclespecification-currentweightinkilograms
+<a href="../transport/VehicleSpecification/currentWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-currentweightinkilograms</a>
 ↔ int?
 </dt>
 <dd>
   Current truck weight, including trailers and shipped goods currently loaded, specified in
 kilograms. The provided value must be greater than or equal to 0. If unspecified,
-it will default to /sdk-for-flutter-explore-transport-vehiclespecification-grossweightinkilograms.
+it will default to <a href="../transport/VehicleSpecification/grossWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-grossweightinkilograms</a>.
 By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="emptyWeightInKilograms">
-/sdk-for-flutter-explore-transport-vehiclespecification-emptyweightinkilograms
+<a href="../transport/VehicleSpecification/emptyWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-emptyweightinkilograms</a>
 ↔ int?
 </dt>
 <dd>
@@ -124,7 +123,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="engineSizeInCubicCentimeters">
-/sdk-for-flutter-explore-transport-vehiclespecification-enginesizeincubiccentimeters
+<a href="../transport/VehicleSpecification/engineSizeInCubicCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecification-enginesizeincubiccentimeters</a>
 ↔ int?
 </dt>
 <dd>
@@ -134,18 +133,18 @@ road.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="grossWeightInKilograms">
-/sdk-for-flutter-explore-transport-vehiclespecification-grossweightinkilograms
+<a href="../transport/VehicleSpecification/grossWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-grossweightinkilograms</a>
 ↔ int?
 </dt>
 <dd>
   Gross truck weight, including trailers and shipped goods when loaded at capacity, specified in
 kilograms. The provided value must be greater than or equal to 0. If unspecified,
-it will default to /sdk-for-flutter-explore-transport-vehiclespecification-currentweightinkilograms.
+it will default to <a href="../transport/VehicleSpecification/currentWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-currentweightinkilograms</a>.
 By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-transport-vehiclespecification-hashcode
+<a href="../transport/VehicleSpecification/hashCode.html">/sdk-for-flutter-explore-transport-vehiclespecification-hashcode</a>
 → int
 </dt>
 <dd>
@@ -153,17 +152,17 @@ By default, it is not set.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="hazardousMaterials">
-/sdk-for-flutter-explore-transport-vehiclespecification-hazardousmaterials
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-transport-hazardousmaterial&gt;
+<a href="../transport/VehicleSpecification/hazardousMaterials.html">/sdk-for-flutter-explore-transport-vehiclespecification-hazardousmaterials</a>
+↔ List&lt;<wbr/><a href="../transport/HazardousMaterial.html">/sdk-for-flutter-explore-transport-hazardousmaterial</a>&gt;
 </dt>
 <dd>
   Specifies a list of hazardous materials shipped in the vehicle.
-Refer to /sdk-for-flutter-explore-transport-hazardousmaterial for the available options.
+Refer to <a href="../transport/HazardousMaterial.html">/sdk-for-flutter-explore-transport-hazardousmaterial</a> for the available options.
 By default, it is an empty list.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="heightInCentimeters">
-/sdk-for-flutter-explore-transport-vehiclespecification-heightincentimeters
+<a href="../transport/VehicleSpecification/heightInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecification-heightincentimeters</a>
 ↔ int?
 </dt>
 <dd>
@@ -172,7 +171,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isCommercial">
-/sdk-for-flutter-explore-transport-vehiclespecification-iscommercial
+<a href="../transport/VehicleSpecification/isCommercial.html">/sdk-for-flutter-explore-transport-vehiclespecification-iscommercial</a>
 ↔ bool
 </dt>
 <dd>
@@ -181,7 +180,7 @@ Defaults to <code>false</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isTruckLight">
-/sdk-for-flutter-explore-transport-vehiclespecification-istrucklight
+<a href="../transport/VehicleSpecification/isTruckLight.html">/sdk-for-flutter-explore-transport-vehiclespecification-istrucklight</a>
 ↔ bool
 </dt>
 <dd>
@@ -191,7 +190,7 @@ Defaults to <code>false</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="kingpinToRearAxleDistanceInCentimeters">
-/sdk-for-flutter-explore-transport-vehiclespecification-kingpintorearaxledistanceincentimeters
+<a href="../transport/VehicleSpecification/kingpinToRearAxleDistanceInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecification-kingpintorearaxledistanceincentimeters</a>
 ↔ int?
 </dt>
 <dd>
@@ -199,7 +198,7 @@ Defaults to <code>false</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="lastCharacterOfLicensePlate">
-/sdk-for-flutter-explore-transport-vehiclespecification-lastcharacteroflicenseplate
+<a href="../transport/VehicleSpecification/lastCharacterOfLicensePlate.html">/sdk-for-flutter-explore-transport-vehiclespecification-lastcharacteroflicenseplate</a>
 ↔ String?
 </dt>
 <dd>
@@ -209,7 +208,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="lengthInCentimeters">
-/sdk-for-flutter-explore-transport-vehiclespecification-lengthincentimeters
+<a href="../transport/VehicleSpecification/lengthInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecification-lengthincentimeters</a>
 ↔ int?
 </dt>
 <dd>
@@ -218,7 +217,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="occupancy">
-/sdk-for-flutter-explore-transport-vehiclespecification-occupancy
+<a href="../transport/VehicleSpecification/occupancy.html">/sdk-for-flutter-explore-transport-vehiclespecification-occupancy</a>
 ↔ int?
 </dt>
 <dd>
@@ -229,7 +228,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="payloadCapacityInKilograms">
-/sdk-for-flutter-explore-transport-vehiclespecification-payloadcapacityinkilograms
+<a href="../transport/VehicleSpecification/payloadCapacityInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-payloadcapacityinkilograms</a>
 ↔ int?
 </dt>
 <dd>
@@ -239,7 +238,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-transport-vehiclespecification-runtimetype
+<a href="../transport/VehicleSpecification/runtimeType.html">/sdk-for-flutter-explore-transport-vehiclespecification-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -247,7 +246,7 @@ By default, it is not set.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="tiresCount">
-/sdk-for-flutter-explore-transport-vehiclespecification-tirescount
+<a href="../transport/VehicleSpecification/tiresCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-tirescount</a>
 ↔ int?
 </dt>
 <dd>
@@ -257,71 +256,71 @@ Otherwise it is guaranteed to be in the range [1, 255].
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="trailerAxleCount">
-/sdk-for-flutter-explore-transport-vehiclespecification-traileraxlecount
+<a href="../transport/VehicleSpecification/trailerAxleCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-traileraxlecount</a>
 ↔ int?
 </dt>
 <dd>
   Defines total number of axles across all the trailers attached to the vehicle.
-This number is included in /sdk-for-flutter-explore-transport-vehiclespecification-axlecount, hence /sdk-for-flutter-explore-transport-vehiclespecification-traileraxlecount must be less than /sdk-for-flutter-explore-transport-vehiclespecification-axlecount
-and greater than or equal to 1. /sdk-for-flutter-explore-transport-vehiclespecification-axlecount and /sdk-for-flutter-explore-transport-vehiclespecification-trailercount are required to specify /sdk-for-flutter-explore-transport-vehiclespecification-traileraxlecount.
+This number is included in <a href="../transport/VehicleSpecification/axleCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-axlecount</a>, hence <a href="../transport/VehicleSpecification/trailerAxleCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-traileraxlecount</a> must be less than <a href="../transport/VehicleSpecification/axleCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-axlecount</a>
+and greater than or equal to 1. <a href="../transport/VehicleSpecification/axleCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-axlecount</a> and <a href="../transport/VehicleSpecification/trailerCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-trailercount</a> are required to specify <a href="../transport/VehicleSpecification/trailerAxleCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-traileraxlecount</a>.
 By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="trailerCount">
-/sdk-for-flutter-explore-transport-vehiclespecification-trailercount
+<a href="../transport/VehicleSpecification/trailerCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-trailercount</a>
 ↔ int?
 </dt>
 <dd>
   Defines number of trailers attached to the vehicle. The provided value must be in the range [0, 255].
 By default, it is not set.
-When specifying /sdk-for-flutter-explore-transport-vehiclespecification-traileraxlecount, then /sdk-for-flutter-explore-transport-vehiclespecification-trailercount is required and must be greater than 0.
+When specifying <a href="../transport/VehicleSpecification/trailerAxleCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-traileraxlecount</a>, then <a href="../transport/VehicleSpecification/trailerCount.html">/sdk-for-flutter-explore-transport-vehiclespecification-trailercount</a> is required and must be greater than 0.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="truckCategory">
-/sdk-for-flutter-explore-transport-vehiclespecification-truckcategory
-↔ /sdk-for-flutter-explore-transport-truckcategory?
+<a href="../transport/VehicleSpecification/truckCategory.html">/sdk-for-flutter-explore-transport-vehiclespecification-truckcategory</a>
+↔ <a href="../transport/TruckCategory.html">/sdk-for-flutter-explore-transport-truckcategory</a>?
 </dt>
 <dd>
   Defines the truck category.
 By default, it is not set.
-Rendering: /sdk-for-flutter-explore-transport-vehiclespecification-truckcategory is ignored and has no effect.
+Rendering: <a href="../transport/VehicleSpecification/truckCategory.html">/sdk-for-flutter-explore-transport-vehiclespecification-truckcategory</a> is ignored and has no effect.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="truckType">
-/sdk-for-flutter-explore-transport-vehiclespecification-trucktype
-↔ /sdk-for-flutter-explore-transport-trucktype
+<a class="deprecated" href="../transport/VehicleSpecification/truckType.html">/sdk-for-flutter-explore-transport-vehiclespecification-trucktype</a>
+↔ <a class="deprecated" href="../transport/TruckType.html">/sdk-for-flutter-explore-transport-trucktype</a>
 </dt>
 <dd>
   Will be replaced with <code>truckCategory</code> when the <code>TruckSpecification</code> will be replaced by <code>VehicleSpecification</code>.
 Defines the type of truck.
-Defaults to /sdk-for-flutter-explore-transport-trucktype.
-Rendering <code>sdk.mapview.TruckProfile</code>: /sdk-for-flutter-explore-transport-vehiclespecification-trucktype is ignored and has no effect.
+Defaults to <a href="../transport/TruckType.html">/sdk-for-flutter-explore-transport-trucktype</a>.
+Rendering <code>sdk.mapview.TruckProfile</code>: <a class="deprecated" href="../transport/VehicleSpecification/truckType.html">/sdk-for-flutter-explore-transport-vehiclespecification-trucktype</a> is ignored and has no effect.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="tunnelCategory">
-/sdk-for-flutter-explore-transport-vehiclespecification-tunnelcategory
-↔ /sdk-for-flutter-explore-transport-tunnelcategory?
+<a href="../transport/VehicleSpecification/tunnelCategory.html">/sdk-for-flutter-explore-transport-vehiclespecification-tunnelcategory</a>
+↔ <a href="../transport/TunnelCategory.html">/sdk-for-flutter-explore-transport-tunnelcategory</a>?
 </dt>
 <dd>
   Specifies the tunnel categories to restrict certain route links.
 The route will pass only through tunnels of a less strict category.
-Refer to /sdk-for-flutter-explore-transport-tunnelcategory for the available options.
+Refer to <a href="../transport/TunnelCategory.html">/sdk-for-flutter-explore-transport-tunnelcategory</a> for the available options.
 By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="weightPerAxleGroup">
-/sdk-for-flutter-explore-transport-vehiclespecification-weightperaxlegroup
-↔ /sdk-for-flutter-explore-transport-weightperaxlegroup-class?
+<a href="../transport/VehicleSpecification/weightPerAxleGroup.html">/sdk-for-flutter-explore-transport-vehiclespecification-weightperaxlegroup</a>
+↔ <a href="../transport/WeightPerAxleGroup-class.html">/sdk-for-flutter-explore-transport-weightperaxlegroup-class</a>?
 </dt>
 <dd>
-  Allows specification of axle weights in a more fine-grained way than /sdk-for-flutter-explore-transport-vehiclespecification-weightperaxleinkilograms.
+  Allows specification of axle weights in a more fine-grained way than <a href="../transport/VehicleSpecification/weightPerAxleInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-weightperaxleinkilograms</a>.
 This is relevant in countries with signs and regulations that specify different limits for different axle
 groups, like the USA and Sweden.
 By default is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="weightPerAxleInKilograms">
-/sdk-for-flutter-explore-transport-vehiclespecification-weightperaxleinkilograms
+<a href="../transport/VehicleSpecification/weightPerAxleInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-weightperaxleinkilograms</a>
 ↔ int?
 </dt>
 <dd>
@@ -332,7 +331,7 @@ By default, it is not set.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="widthInCentimeters">
-/sdk-for-flutter-explore-transport-vehiclespecification-widthincentimeters
+<a href="../transport/VehicleSpecification/widthInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecification-widthincentimeters</a>
 ↔ int?
 </dt>
 <dd>
@@ -346,7 +345,7 @@ By default, it is not set.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-transport-vehiclespecification-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../transport/VehicleSpecification/noSuchMethod.html">/sdk-for-flutter-explore-transport-vehiclespecification-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -355,7 +354,7 @@ By default, it is not set.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-transport-vehiclespecification-tostring(<wbr/>)
+<a href="../transport/VehicleSpecification/toString.html">/sdk-for-flutter-explore-transport-vehiclespecification-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -369,7 +368,7 @@ By default, it is not set.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-transport-vehiclespecification-operator-equals(<wbr/>Object other)
+<a href="../transport/VehicleSpecification/operator_equals.html">/sdk-for-flutter-explore-transport-vehiclespecification-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -388,8 +387,8 @@ By default, it is not set.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
 <li class="self-crumb">VehicleSpecification class</li>
 </ol>
 <h5>transport library</h5>
@@ -406,5 +405,4 @@ By default, it is not set.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

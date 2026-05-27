@@ -1,10 +1,9 @@
 ---
-title: "Suggestion class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-suggestion-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Suggestion-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -31,8 +30,8 @@ slug: "sdk-for-flutter-explore-search-suggestion-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">Suggestion class</li>
 </ol>
 <div class="self-name">Suggestion</div>
@@ -58,9 +57,9 @@ menu
 <section class="desc markdown">
 <p>Suggestion is meant to provide relevant suggestions to partial queries, like "restaur", "starbu", "eiffel".</p>
 <p>Represents a relevant response to user queries.
-Suggestions (please check /sdk-for-flutter-explore-search-suggestiontype) are either:
-Place: /sdk-for-flutter-explore-search-suggestiontype
-Query: /sdk-for-flutter-explore-search-suggestiontype or /sdk-for-flutter-explore-search-suggestiontype</p>
+Suggestions (please check <a href="../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a>) are either:
+Place: <a href="../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a>
+Query: <a href="../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a> or <a href="../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a></p>
 <p>With "Place" you get data for a concrete place in the world.
 With "Query" something to follow-up, a way to perform more focused search.</p>
 </section>
@@ -68,7 +67,7 @@ With "Query" something to follow-up, a way to perform more focused search.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Suggestion">
-/sdk-for-flutter-explore-search-suggestion-suggestion()
+<a href="../search/Suggestion/Suggestion.html">/sdk-for-flutter-explore-search-suggestion-suggestion</a>()
 </dt>
 <dd>
 </dd>
@@ -78,7 +77,7 @@ With "Query" something to follow-up, a way to perform more focused search.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-search-suggestion-hashcode
+<a href="../search/Suggestion/hashCode.html">/sdk-for-flutter-explore-search-suggestion-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -86,44 +85,44 @@ With "Query" something to follow-up, a way to perform more focused search.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="href">
-/sdk-for-flutter-explore-search-suggestion-href
+<a href="../search/Suggestion/href.html">/sdk-for-flutter-explore-search-suggestion-href</a>
 → String?
 </dt>
 <dd>
   Direct URL for precise query.
-Available only for /sdk-for-flutter-explore-search-suggestiontype and /sdk-for-flutter-explore-search-suggestiontype.
+Available only for <a href="../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a> and <a href="../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a>.
 This is not supported in offline search.
 Gets the direct link for Discover query.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="id">
-/sdk-for-flutter-explore-search-suggestion-id
+<a href="../search/Suggestion/id.html">/sdk-for-flutter-explore-search-suggestion-id</a>
 → String?
 </dt>
 <dd>
   The unique id of suggested item. It can be used to query further information.
-For online search, suggestion of type /sdk-for-flutter-explore-search-suggestiontype
+For online search, suggestion of type <a href="../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a>
 will have Suggestion.id same as Place.id.
-For offline search, only suggestion of type /sdk-for-flutter-explore-search-suggestiontype,
+For offline search, only suggestion of type <a href="../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a>,
 will have this property filled with identifier number of an associated chain.
 For example, the chain ID "8778" corresponds to the chain name "ABC Shop".
-For other types, /sdk-for-flutter-explore-search-suggestiontype and /sdk-for-flutter-explore-search-suggestiontype
+For other types, <a href="../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a> and <a href="../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a>
 this property will be null.
 Gets the suggested item id.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="place">
-/sdk-for-flutter-explore-search-suggestion-place
-→ /sdk-for-flutter-explore-search-place-class?
+<a href="../search/Suggestion/place.html">/sdk-for-flutter-explore-search-suggestion-place</a>
+→ <a href="../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a>?
 </dt>
 <dd>
   The suggested place.
-Available only for /sdk-for-flutter-explore-search-suggestiontype.
+Available only for <a href="../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a>.
 Gets the suggested place item.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-suggestion-runtimetype
+<a href="../search/Suggestion/runtimeType.html">/sdk-for-flutter-explore-search-suggestion-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -131,7 +130,7 @@ Gets the suggested place item.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="title">
-/sdk-for-flutter-explore-search-suggestion-title
+<a href="../search/Suggestion/title.html">/sdk-for-flutter-explore-search-suggestion-title</a>
 → String
 </dt>
 <dd>
@@ -140,8 +139,8 @@ Gets the localized title for the suggestion.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="type">
-/sdk-for-flutter-explore-search-suggestion-type
-→ /sdk-for-flutter-explore-search-suggestiontype
+<a href="../search/Suggestion/type.html">/sdk-for-flutter-explore-search-suggestion-type</a>
+→ <a href="../search/SuggestionType.html">/sdk-for-flutter-explore-search-suggestiontype</a>
 </dt>
 <dd>
   Type of the suggestion.
@@ -154,8 +153,8 @@ Gets the type of suggestion.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="getHighlights">
-/sdk-for-flutter-explore-search-suggestion-gethighlights(<wbr/>)
-    → Map&lt;<wbr/>/sdk-for-flutter-explore-search-highlighttype, List&lt;<wbr/>/sdk-for-flutter-explore-search-indexrange-class&gt;&gt;
+<a href="../search/Suggestion/getHighlights.html">/sdk-for-flutter-explore-search-suggestion-gethighlights</a>(<wbr/>)
+    → Map&lt;<wbr/><a href="../search/HighlightType.html">/sdk-for-flutter-explore-search-highlighttype</a>, List&lt;<wbr/><a href="../search/IndexRange-class.html">/sdk-for-flutter-explore-search-indexrange-class</a>&gt;&gt;
 
 </dt>
 <dd>
@@ -164,7 +163,7 @@ Gets the type of suggestion.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-suggestion-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/Suggestion/noSuchMethod.html">/sdk-for-flutter-explore-search-suggestion-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -173,7 +172,7 @@ Gets the type of suggestion.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-suggestion-tostring(<wbr/>)
+<a href="../search/Suggestion/toString.html">/sdk-for-flutter-explore-search-suggestion-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -187,7 +186,7 @@ Gets the type of suggestion.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-search-suggestion-operator-equals(<wbr/>Object other)
+<a href="../search/Suggestion/operator_equals.html">/sdk-for-flutter-explore-search-suggestion-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -205,8 +204,8 @@ Gets the type of suggestion.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">Suggestion class</li>
 </ol>
 <h5>search library</h5>
@@ -223,5 +222,4 @@ Gets the type of suggestion.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

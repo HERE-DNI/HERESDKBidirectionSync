@@ -1,10 +1,9 @@
 ---
-title: "avoidPolygonArea property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-avoidpolygonareaoptions-avoidpolygonarea"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- avoidPolygonArea.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-avoidpolygonareaoptions-avoidpolygonarea"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/AvoidPolygonAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-class</a></li>
 <li class="self-crumb">avoidPolygonArea property</li>
 </ol>
 <div class="self-name">avoidPolygonArea</div>
@@ -38,13 +37,13 @@ menu
 <div>
 <h1>avoidPolygonArea property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-geopolygon-class
+<a href="../../core/GeoPolygon-class.html">/sdk-for-flutter-explore-core-geopolygon-class</a>
 avoidPolygonArea
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Area of polygon shape which routes must not cross. Strictly enforced.
-Violations are reported as /sdk-for-flutter-explore-routing-sectionnoticecode.
+Violations are reported as <a href="../../routing/SectionNoticeCode.html">/sdk-for-flutter-explore-routing-sectionnoticecode</a>.
 <strong>Note:</strong> This avoidance option is not supported for <code>IsolineOptions</code>. If it is defined for isoline calculation then an <code>sdk.routing.RoutingError.INVALID_PARAMETER</code> error is generated.</p>
 </section>
 <section class="summary source-code" id="source">
@@ -59,9 +58,9 @@ Violations are reported as /sdk-for-flutter-explore-routing-sectionnoticecode.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/AvoidPolygonAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidpolygonareaoptions-class</a></li>
 <li class="self-crumb">avoidPolygonArea property</li>
 </ol>
 <h5>AvoidPolygonAreaOptions class</h5>
@@ -78,5 +77,4 @@ Violations are reported as /sdk-for-flutter-explore-routing-sectionnoticecode.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

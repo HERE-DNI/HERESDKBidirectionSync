@@ -1,10 +1,9 @@
 ---
-title: "MapPolylineRepresentation class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mappolylinerepresentation-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapPolylineRepresentation-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -25,8 +24,8 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinerepresentation-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapPolylineRepresentation class</li>
 </ol>
 <div class="self-name">MapPolylineRepresentation</div>
@@ -50,22 +49,22 @@ menu
 <div>
 <h1>MapPolylineRepresentation class abstract</h1></div>
 <section class="desc markdown">
-<p>Base class to represent the visual appearance of a /sdk-for-flutter-explore-mapview-mappolyline-class.</p>
+<p>Base class to represent the visual appearance of a <a href="../mapview/MapPolyline-class.html">/sdk-for-flutter-explore-mapview-mappolyline-class</a>.</p>
 </section>
 <section>
 <dl class="dl-horizontal">
 <dt>Implemented types</dt>
 <dd>
 <ul class="comma-separated clazz-relationships">
-<li>/sdk-for-flutter-explore-mapview-mapitemrepresentation-class</li>
+<li><a href="../mapview/MapItemRepresentation-class.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-class</a></li>
 </ul>
 </dd>
 <dt>Implementers</dt>
 <dd><ul class="comma-separated clazz-relationships">
-<li>/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-class</li>
-<li>/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-class</li>
-<li>/sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-class</li>
-<li>/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-class</li>
+<li><a href="../mapview/MapPolylineDashImageRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-class</a></li>
+<li><a href="../mapview/MapPolylineDashRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinedashrepresentation-class</a></li>
+<li><a href="../mapview/MapPolylineSolidMultiColorRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinesolidmulticolorrepresentation-class</a></li>
+<li><a href="../mapview/MapPolylineSolidRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-class</a></li>
 </ul></dd>
 </dl>
 </section>
@@ -73,7 +72,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapPolylineRepresentation">
-/sdk-for-flutter-explore-mapview-mappolylinerepresentation-mappolylinerepresentation()
+<a href="../mapview/MapPolylineRepresentation/MapPolylineRepresentation.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentation-mappolylinerepresentation</a>()
 </dt>
 <dd>
 </dd>
@@ -83,7 +82,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-hashcode
+<a href="../mapview/MapItemRepresentation/hashCode.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -91,7 +90,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-runtimetype
+<a href="../mapview/MapItemRepresentation/runtimeType.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -104,7 +103,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapItemRepresentation/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -113,7 +112,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-tostring(<wbr/>)
+<a href="../mapview/MapItemRepresentation/toString.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -127,7 +126,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-mapitemrepresentation-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapItemRepresentation/operator_equals.html">/sdk-for-flutter-explore-mapview-mapitemrepresentation-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -145,8 +144,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapPolylineRepresentation class</li>
 </ol>
 <h5>mapview library</h5>
@@ -163,5 +162,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

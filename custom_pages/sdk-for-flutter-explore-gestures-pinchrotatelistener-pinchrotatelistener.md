@@ -1,10 +1,9 @@
 ---
-title: "PinchRotateListener constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-gestures-pinchrotatelistener-pinchrotatelistener"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PinchRotateListener.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-gestures-pinchrotatelistener-pinchrotatelistener"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-pinchrotatelistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/PinchRotateListener-class.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-class</a></li>
 <li class="self-crumb">PinchRotateListener factory constructor</li>
 </ol>
 <div class="self-name">PinchRotateListener</div>
@@ -38,11 +37,11 @@ menu
 <div>
 <h1>PinchRotateListener constructor</h1></div>
 <section class="multi-line-signature">
-PinchRotateListener(<wbr/><ol class="parameter-list single-line"> <li>void onPinchRotateLambda(<ol class="parameter-list"> <li>/sdk-for-flutter-explore-gestures-gesturestate, </li>
-<li>/sdk-for-flutter-explore-core-point2d-class, </li>
-<li>/sdk-for-flutter-explore-core-point2d-class, </li>
+PinchRotateListener(<wbr/><ol class="parameter-list single-line"> <li>void onPinchRotateLambda(<ol class="parameter-list"> <li><a href="../../gestures/GestureState.html">/sdk-for-flutter-explore-gestures-gesturestate</a>, </li>
+<li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>, </li>
+<li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>, </li>
 <li>double, </li>
-<li>/sdk-for-flutter-explore-core-angle-class, </li>
+<li><a href="../../core/Angle-class.html">/sdk-for-flutter-explore-core-angle-class</a>, </li>
 </ol>)</li>
 </ol>)
     </section>
@@ -69,9 +68,9 @@ and at least one of them moves.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-pinchrotatelistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/PinchRotateListener-class.html">/sdk-for-flutter-explore-gestures-pinchrotatelistener-class</a></li>
 <li class="self-crumb">PinchRotateListener factory constructor</li>
 </ol>
 <h5>PinchRotateListener class</h5>
@@ -88,5 +87,4 @@ and at least one of them moves.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

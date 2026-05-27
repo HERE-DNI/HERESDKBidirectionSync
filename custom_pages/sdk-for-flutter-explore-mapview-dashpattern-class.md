@@ -1,10 +1,9 @@
 ---
-title: "DashPattern class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-dashpattern-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- DashPattern-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-mapview-dashpattern-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">DashPattern class</li>
 </ol>
 <div class="self-name">DashPattern</div>
@@ -69,14 +68,14 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="DashPattern">
-/sdk-for-flutter-explore-mapview-dashpattern-dashpattern(double gapLength, double dashLength)
+<a href="../mapview/DashPattern/DashPattern.html">/sdk-for-flutter-explore-mapview-dashpattern-dashpattern</a>(double gapLength, double dashLength)
 </dt>
 <dd>
           Creates a simple dash pattern in which the lengths of a dash and gap can be different.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="DashPattern.uniform">
-/sdk-for-flutter-explore-mapview-dashpattern-dashpattern-uniform(double dashLength)
+<a href="../mapview/DashPattern/DashPattern.uniform.html">/sdk-for-flutter-explore-mapview-dashpattern-dashpattern-uniform</a>(double dashLength)
 </dt>
 <dd>
           Creates a uniform dash pattern in which the length of a gap is the same
@@ -89,7 +88,7 @@ as the length of a dash.
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="firstDashLength">
-/sdk-for-flutter-explore-mapview-dashpattern-firstdashlength
+<a href="../mapview/DashPattern/firstDashLength.html">/sdk-for-flutter-explore-mapview-dashpattern-firstdashlength</a>
 → double
 </dt>
 <dd>
@@ -97,7 +96,7 @@ as the length of a dash.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="firstGapLength">
-/sdk-for-flutter-explore-mapview-dashpattern-firstgaplength
+<a href="../mapview/DashPattern/firstGapLength.html">/sdk-for-flutter-explore-mapview-dashpattern-firstgaplength</a>
 → double
 </dt>
 <dd>
@@ -105,7 +104,7 @@ as the length of a dash.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-mapview-dashpattern-hashcode
+<a href="../mapview/DashPattern/hashCode.html">/sdk-for-flutter-explore-mapview-dashpattern-hashcode</a>
 → int
 </dt>
 <dd>
@@ -113,7 +112,7 @@ as the length of a dash.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-dashpattern-runtimetype
+<a href="../mapview/DashPattern/runtimeType.html">/sdk-for-flutter-explore-mapview-dashpattern-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -126,7 +125,7 @@ as the length of a dash.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-dashpattern-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/DashPattern/noSuchMethod.html">/sdk-for-flutter-explore-mapview-dashpattern-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -135,7 +134,7 @@ as the length of a dash.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-dashpattern-tostring(<wbr/>)
+<a href="../mapview/DashPattern/toString.html">/sdk-for-flutter-explore-mapview-dashpattern-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -149,7 +148,7 @@ as the length of a dash.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-mapview-dashpattern-operator-equals(<wbr/>Object other)
+<a href="../mapview/DashPattern/operator_equals.html">/sdk-for-flutter-explore-mapview-dashpattern-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -168,8 +167,8 @@ as the length of a dash.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">DashPattern class</li>
 </ol>
 <h5>mapview library</h5>
@@ -186,5 +185,4 @@ as the length of a dash.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

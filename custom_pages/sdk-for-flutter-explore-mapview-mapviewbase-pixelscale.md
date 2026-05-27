@@ -1,10 +1,9 @@
 ---
-title: "pixelScale property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapviewbase-pixelscale"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- pixelScale.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapviewbase-pixelscale"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapviewbase-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a></li>
 <li class="self-crumb">pixelScale property</li>
 </ol>
 <div class="self-name">pixelScale</div>
@@ -47,7 +46,7 @@ pixelScale
 <p>Pixel scale is 0.0 if the map view is not initialized.</p>
 <p>In cases where the <code>MapView</code> moves in between screens (e.g. from main screen to a CarPlay screen),
 / the most up-to-date pixel scale value can be obtained after a render target gets attached to the view.
-/ To get notified when a render target gets attached to the <code>MapView</code>, see /sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class.
+/ To get notified when a render target gets attached to the <code>MapView</code>, see <a href="../../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a>.
 It is used to support screen resolution and size independence.
 This value is a derivative of the device's screen pixel density and is a direct analog of</p>
 <p>devicePixelRatio from FlutterView, ViewConfiguration or MediaQueryData.
@@ -70,9 +69,9 @@ Gets the pixel scale factor used by this <code>MapView</code>.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapviewbase-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a></li>
 <li class="self-crumb">pixelScale property</li>
 </ol>
 <h5>MapViewBase class</h5>
@@ -89,5 +88,4 @@ Gets the pixel scale factor used by this <code>MapView</code>.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

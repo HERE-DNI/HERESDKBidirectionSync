@@ -1,10 +1,9 @@
 ---
-title: "PhysicalConsumptionModel class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-physicalconsumptionmodel-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PhysicalConsumptionModel-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -31,8 +30,8 @@ slug: "sdk-for-flutter-explore-routing-physicalconsumptionmodel-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">PhysicalConsumptionModel class</li>
 </ol>
 <div class="self-name">PhysicalConsumptionModel</div>
@@ -58,7 +57,7 @@ menu
 <section class="desc markdown">
 <p>Defines the physical consumption model for electric vehicles,
 using vehicle-specific parameters to calculate energy consumption along a route.</p>
-<p><strong>Note:</strong> /sdk-for-flutter-explore-transport-vehiclespecification-currentweightinkilograms must be set.
+<p><strong>Note:</strong> <a href="../transport/VehicleSpecification/currentWeightInKilograms.html">/sdk-for-flutter-explore-transport-vehiclespecification-currentweightinkilograms</a> must be set.
 <strong>Note:</strong> This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
 </section>
@@ -66,7 +65,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PhysicalConsumptionModel">
-/sdk-for-flutter-explore-routing-physicalconsumptionmodel-physicalconsumptionmodel()
+<a href="../routing/PhysicalConsumptionModel/PhysicalConsumptionModel.html">/sdk-for-flutter-explore-routing-physicalconsumptionmodel-physicalconsumptionmodel</a>()
 </dt>
 <dd>
 </dd>
@@ -76,7 +75,7 @@ Related APIs may change for new releases without a deprecation process.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="airDragCoefficient">
-/sdk-for-flutter-explore-routing-physicalconsumptionmodel-airdragcoefficient
+<a href="../routing/PhysicalConsumptionModel/airDragCoefficient.html">/sdk-for-flutter-explore-routing-physicalconsumptionmodel-airdragcoefficient</a>
 ↔ double
 </dt>
 <dd>
@@ -85,7 +84,7 @@ More streamlined vehicles are more aerodynamic and therefore have smaller drag c
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="auxiliaryPowerConsumptionInWatts">
-/sdk-for-flutter-explore-routing-physicalconsumptionmodel-auxiliarypowerconsumptioninwatts
+<a href="../routing/PhysicalConsumptionModel/auxiliaryPowerConsumptionInWatts.html">/sdk-for-flutter-explore-routing-physicalconsumptionmodel-auxiliarypowerconsumptioninwatts</a>
 ↔ double
 </dt>
 <dd>
@@ -93,7 +92,7 @@ More streamlined vehicles are more aerodynamic and therefore have smaller drag c
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="driveTrainEfficiency">
-/sdk-for-flutter-explore-routing-physicalconsumptionmodel-drivetrainefficiency
+<a href="../routing/PhysicalConsumptionModel/driveTrainEfficiency.html">/sdk-for-flutter-explore-routing-physicalconsumptionmodel-drivetrainefficiency</a>
 ↔ double
 </dt>
 <dd>
@@ -103,17 +102,17 @@ Supported range from 0 to 1
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="frontalAreaInSquareMeters">
-/sdk-for-flutter-explore-routing-physicalconsumptionmodel-frontalareainsquaremeters
+<a href="../routing/PhysicalConsumptionModel/frontalAreaInSquareMeters.html">/sdk-for-flutter-explore-routing-physicalconsumptionmodel-frontalareainsquaremeters</a>
 ↔ double
 </dt>
 <dd>
   Frontal area represents the total cross section area of the vehicle as viewed from the front, specified in square meters.
 Physical consumption model is using this value in combination with <code>airDragCoefficient</code> to calculate the consumption caused by air resistance.
-As fallback /sdk-for-flutter-explore-transport-vehiclespecification-widthincentimeters and /sdk-for-flutter-explore-transport-vehiclespecification-heightincentimeters are used.
+As fallback <a href="../transport/VehicleSpecification/widthInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecification-widthincentimeters</a> and <a href="../transport/VehicleSpecification/heightInCentimeters.html">/sdk-for-flutter-explore-transport-vehiclespecification-heightincentimeters</a> are used.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-physicalconsumptionmodel-hashcode
+<a href="../routing/PhysicalConsumptionModel/hashCode.html">/sdk-for-flutter-explore-routing-physicalconsumptionmodel-hashcode</a>
 → int
 </dt>
 <dd>
@@ -121,7 +120,7 @@ As fallback /sdk-for-flutter-explore-transport-vehiclespecification-widthincenti
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="recuperationEfficiency">
-/sdk-for-flutter-explore-routing-physicalconsumptionmodel-recuperationefficiency
+<a href="../routing/PhysicalConsumptionModel/recuperationEfficiency.html">/sdk-for-flutter-explore-routing-physicalconsumptionmodel-recuperationefficiency</a>
 ↔ double
 </dt>
 <dd>
@@ -129,7 +128,7 @@ As fallback /sdk-for-flutter-explore-transport-vehiclespecification-widthincenti
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="rollingResistanceCoefficient">
-/sdk-for-flutter-explore-routing-physicalconsumptionmodel-rollingresistancecoefficient
+<a href="../routing/PhysicalConsumptionModel/rollingResistanceCoefficient.html">/sdk-for-flutter-explore-routing-physicalconsumptionmodel-rollingresistancecoefficient</a>
 ↔ double
 </dt>
 <dd>
@@ -139,7 +138,7 @@ The coefficient of rolling resistance is a numerical value indicating the severi
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-physicalconsumptionmodel-runtimetype
+<a href="../routing/PhysicalConsumptionModel/runtimeType.html">/sdk-for-flutter-explore-routing-physicalconsumptionmodel-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -152,7 +151,7 @@ The coefficient of rolling resistance is a numerical value indicating the severi
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-physicalconsumptionmodel-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/PhysicalConsumptionModel/noSuchMethod.html">/sdk-for-flutter-explore-routing-physicalconsumptionmodel-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -161,7 +160,7 @@ The coefficient of rolling resistance is a numerical value indicating the severi
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-physicalconsumptionmodel-tostring(<wbr/>)
+<a href="../routing/PhysicalConsumptionModel/toString.html">/sdk-for-flutter-explore-routing-physicalconsumptionmodel-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -175,7 +174,7 @@ The coefficient of rolling resistance is a numerical value indicating the severi
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-physicalconsumptionmodel-operator-equals(<wbr/>Object other)
+<a href="../routing/PhysicalConsumptionModel/operator_equals.html">/sdk-for-flutter-explore-routing-physicalconsumptionmodel-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -194,8 +193,8 @@ The coefficient of rolling resistance is a numerical value indicating the severi
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">PhysicalConsumptionModel class</li>
 </ol>
 <h5>routing library</h5>
@@ -212,5 +211,4 @@ The coefficient of rolling resistance is a numerical value indicating the severi
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

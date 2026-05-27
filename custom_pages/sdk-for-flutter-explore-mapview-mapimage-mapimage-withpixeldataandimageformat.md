@@ -1,10 +1,9 @@
 ---
-title: "MapImage.withPixelDataAndImageFormat constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapimage-mapimage-withpixeldataandimageformat"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapImage.withPixelDataAndImageFormat.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapimage-mapimage-withpixeldataandimagefo
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapimage-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a></li>
 <li class="self-crumb">MapImage.withPixelDataAndImageFormat factory constructor</li>
 </ol>
 <div class="self-name">MapImage.withPixelDataAndImageFormat</div>
@@ -39,12 +38,12 @@ menu
 <h1>MapImage.withPixelDataAndImageFormat constructor</h1></div>
 <section class="multi-line-signature">
 MapImage.withPixelDataAndImageFormat(<wbr/><ol class="parameter-list single-line"> <li>Uint8List pixelData, </li>
-<li>/sdk-for-flutter-explore-mapview-imageformat imageFormat</li>
+<li><a href="../../mapview/ImageFormat.html">/sdk-for-flutter-explore-mapview-imageformat</a> imageFormat</li>
 </ol>)
     </section>
 <section class="desc markdown">
 <p>Creates a new map image from the provided image data.</p>
-<p>Currently only /sdk-for-flutter-explore-mapview-imageformat
+<p>Currently only <a href="../../mapview/ImageFormat.html">/sdk-for-flutter-explore-mapview-imageformat</a>
 is accepted.</p>
 <ul>
 <li>
@@ -68,9 +67,9 @@ defined in <a href="https://www.w3.org/TR/PNG">https://www.w3.org/TR/PNG</a></p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapimage-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a></li>
 <li class="self-crumb">MapImage.withPixelDataAndImageFormat factory constructor</li>
 </ol>
 <h5>MapImage class</h5>
@@ -87,5 +86,4 @@ defined in <a href="https://www.w3.org/TR/PNG">https://www.w3.org/TR/PNG</a></p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

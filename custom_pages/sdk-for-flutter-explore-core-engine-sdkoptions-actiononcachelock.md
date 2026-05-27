@@ -1,10 +1,9 @@
 ---
-title: "actionOnCacheLock property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-sdkoptions-actiononcachelock"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- actionOnCacheLock.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdkoptions-actiononcachelock"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
 <li class="self-crumb">actionOnCacheLock property</li>
 </ol>
 <div class="self-name">actionOnCacheLock</div>
@@ -38,12 +37,12 @@ menu
 <div>
 <h1>actionOnCacheLock property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-engine-sdkoptionsactiononcachelock
+<a href="../../core.engine/SDKOptionsActionOnCacheLock.html">/sdk-for-flutter-explore-core-engine-sdkoptionsactiononcachelock</a>
 actionOnCacheLock
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>Specifies action to perform when cache folder is locked by another process. Default value is /sdk-for-flutter-explore-core-engine-sdkoptionsactiononcachelock.</p>
+<p>Specifies action to perform when cache folder is locked by another process. Default value is <a href="../../core.engine/SDKOptionsActionOnCacheLock.html">/sdk-for-flutter-explore-core-engine-sdkoptionsactiononcachelock</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -57,9 +56,9 @@ actionOnCacheLock
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdkoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKOptions-class.html">/sdk-for-flutter-explore-core-engine-sdkoptions-class</a></li>
 <li class="self-crumb">actionOnCacheLock property</li>
 </ol>
 <h5>SDKOptions class</h5>
@@ -76,5 +75,4 @@ actionOnCacheLock
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

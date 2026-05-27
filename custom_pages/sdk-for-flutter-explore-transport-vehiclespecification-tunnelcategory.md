@@ -1,10 +1,9 @@
 ---
-title: "tunnelCategory property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-vehiclespecification-tunnelcategory"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- tunnelCategory.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecification-tunnelcategory"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecification-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a></li>
 <li class="self-crumb">tunnelCategory property</li>
 </ol>
 <div class="self-name">tunnelCategory</div>
@@ -38,17 +37,17 @@ menu
 <div>
 <h1>tunnelCategory property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-transport-tunnelcategory?
+<a href="../../transport/TunnelCategory.html">/sdk-for-flutter-explore-transport-tunnelcategory</a>?
         tunnelCategory
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Specifies the tunnel categories to restrict certain route links.
 The route will pass only through tunnels of a less strict category.
-Refer to /sdk-for-flutter-explore-transport-tunnelcategory for the available options.
+Refer to <a href="../../transport/TunnelCategory.html">/sdk-for-flutter-explore-transport-tunnelcategory</a> for the available options.
 By default, it is not set.</p>
-<p><strong>Note:</strong> Supported in /sdk-for-flutter-explore-transport-transportmode, /sdk-for-flutter-explore-transport-transportmode, /sdk-for-flutter-explore-transport-transportmode,
-/sdk-for-flutter-explore-transport-transportmode (Beta), /sdk-for-flutter-explore-transport-transportmode (Beta) transport modes.</p>
+<p><strong>Note:</strong> Supported in <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>, <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>, <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a>,
+<a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> (Beta), <a href="../../transport/TransportMode.html">/sdk-for-flutter-explore-transport-transportmode</a> (Beta) transport modes.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -62,9 +61,9 @@ By default, it is not set.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecification-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecification-class.html">/sdk-for-flutter-explore-transport-vehiclespecification-class</a></li>
 <li class="self-crumb">tunnelCategory property</li>
 </ol>
 <h5>VehicleSpecification class</h5>
@@ -81,5 +80,4 @@ By default, it is not set.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

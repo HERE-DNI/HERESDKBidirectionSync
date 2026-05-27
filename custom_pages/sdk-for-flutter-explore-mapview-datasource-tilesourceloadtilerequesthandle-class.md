@@ -1,10 +1,9 @@
 ---
-title: "TileSourceLoadTileRequestHandle class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TileSourceLoadTileRequestHandle-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandl
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">TileSourceLoadTileRequestHandle class</li>
 </ol>
 <div class="self-name">TileSourceLoadTileRequestHandle</div>
@@ -57,7 +56,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TileSourceLoadTileRequestHandle">
-/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-tilesourceloadtilerequesthandle(void cancelLambda())
+<a href="../mapview.datasource/TileSourceLoadTileRequestHandle/TileSourceLoadTileRequestHandle.html">/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-tilesourceloadtilerequesthandle</a>(void cancelLambda())
 </dt>
 <dd>
           Handle of a load request.
@@ -69,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-hashcode
+<a href="../mapview.datasource/TileSourceLoadTileRequestHandle/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -77,7 +76,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-runtimetype
+<a href="../mapview.datasource/TileSourceLoadTileRequestHandle/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -90,7 +89,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="cancel">
-/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-cancel(<wbr/>)
+<a href="../mapview.datasource/TileSourceLoadTileRequestHandle/cancel.html">/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-cancel</a>(<wbr/>)
     → void
 
 </dt>
@@ -100,7 +99,7 @@ menu
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview.datasource/TileSourceLoadTileRequestHandle/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -109,7 +108,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-tostring(<wbr/>)
+<a href="../mapview.datasource/TileSourceLoadTileRequestHandle/toString.html">/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -123,7 +122,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-operator-equals(<wbr/>Object other)
+<a href="../mapview.datasource/TileSourceLoadTileRequestHandle/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-tilesourceloadtilerequesthandle-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -141,8 +140,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">TileSourceLoadTileRequestHandle class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -159,5 +158,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

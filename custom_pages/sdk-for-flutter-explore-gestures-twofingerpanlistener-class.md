@@ -1,10 +1,9 @@
 ---
-title: "TwoFingerPanListener class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-gestures-twofingerpanlistener-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TwoFingerPanListener-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-gestures-twofingerpanlistener-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
 <li class="self-crumb">TwoFingerPanListener class</li>
 </ol>
 <div class="self-name">TwoFingerPanListener</div>
@@ -59,7 +58,7 @@ and both of them are moving vertically.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TwoFingerPanListener">
-/sdk-for-flutter-explore-gestures-twofingerpanlistener-twofingerpanlistener(void onTwoFingerPanLambda(/sdk-for-flutter-explore-gestures-gesturestate, /sdk-for-flutter-explore-core-point2d-class, /sdk-for-flutter-explore-core-point2d-class, double))
+<a href="../gestures/TwoFingerPanListener/TwoFingerPanListener.html">/sdk-for-flutter-explore-gestures-twofingerpanlistener-twofingerpanlistener</a>(void onTwoFingerPanLambda(<a href="../gestures/GestureState.html">/sdk-for-flutter-explore-gestures-gesturestate</a>, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>, double))
 </dt>
 <dd>
           Abstract class for handling two finger pan gestures.
@@ -71,7 +70,7 @@ and both of them are moving vertically.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-gestures-twofingerpanlistener-hashcode
+<a href="../gestures/TwoFingerPanListener/hashCode.html">/sdk-for-flutter-explore-gestures-twofingerpanlistener-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -79,7 +78,7 @@ and both of them are moving vertically.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-gestures-twofingerpanlistener-runtimetype
+<a href="../gestures/TwoFingerPanListener/runtimeType.html">/sdk-for-flutter-explore-gestures-twofingerpanlistener-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -92,7 +91,7 @@ and both of them are moving vertically.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-gestures-twofingerpanlistener-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../gestures/TwoFingerPanListener/noSuchMethod.html">/sdk-for-flutter-explore-gestures-twofingerpanlistener-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -101,7 +100,7 @@ and both of them are moving vertically.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="onTwoFingerPan">
-/sdk-for-flutter-explore-gestures-twofingerpanlistener-ontwofingerpan(<wbr/>/sdk-for-flutter-explore-gestures-gesturestate state, /sdk-for-flutter-explore-core-point2d-class origin, /sdk-for-flutter-explore-core-point2d-class translation, double velocity)
+<a href="../gestures/TwoFingerPanListener/onTwoFingerPan.html">/sdk-for-flutter-explore-gestures-twofingerpanlistener-ontwofingerpan</a>(<wbr/><a href="../gestures/GestureState.html">/sdk-for-flutter-explore-gestures-gesturestate</a> state, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> origin, <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> translation, double velocity)
     → void
 
 </dt>
@@ -111,7 +110,7 @@ and both of them are moving vertically.</p>
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-gestures-twofingerpanlistener-tostring(<wbr/>)
+<a href="../gestures/TwoFingerPanListener/toString.html">/sdk-for-flutter-explore-gestures-twofingerpanlistener-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -125,7 +124,7 @@ and both of them are moving vertically.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-gestures-twofingerpanlistener-operator-equals(<wbr/>Object other)
+<a href="../gestures/TwoFingerPanListener/operator_equals.html">/sdk-for-flutter-explore-gestures-twofingerpanlistener-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -143,8 +142,8 @@ and both of them are moving vertically.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
 <li class="self-crumb">TwoFingerPanListener class</li>
 </ol>
 <h5>gestures library</h5>
@@ -161,5 +160,4 @@ and both of them are moving vertically.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

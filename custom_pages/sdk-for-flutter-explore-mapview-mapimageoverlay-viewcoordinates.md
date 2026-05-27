@@ -1,10 +1,9 @@
 ---
-title: "viewCoordinates property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapimageoverlay-viewcoordinates"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- viewCoordinates.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapimageoverlay-viewcoordinates"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapimageoverlay-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapImageOverlay-class.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-class</a></li>
 <li class="self-crumb">viewCoordinates property</li>
 </ol>
 <div class="self-name">viewCoordinates</div>
@@ -39,7 +38,7 @@ menu
 <h1>viewCoordinates property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-point2d-class
+<a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>
 viewCoordinates
 </section>
 <section class="desc markdown">
@@ -54,7 +53,7 @@ Gets the view point in pixels on the map viewport where the overlay is drawn.</p
 <section id="setter">
 <section class="multi-line-signature">
 void
-viewCoordinates=(<wbr/>/sdk-for-flutter-explore-core-point2d-class value)
+viewCoordinates=(<wbr/><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> value)
 </section>
 <section class="desc markdown">
 <p>The view point in pixels on the map viewport where the map overlay is drawn.
@@ -73,9 +72,9 @@ Sets the view point in pixels on the map viewport where the overlay is drawn.</p
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapimageoverlay-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapImageOverlay-class.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-class</a></li>
 <li class="self-crumb">viewCoordinates property</li>
 </ol>
 <h5>MapImageOverlay class</h5>
@@ -92,5 +91,4 @@ Sets the view point in pixels on the map viewport where the overlay is drawn.</p
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

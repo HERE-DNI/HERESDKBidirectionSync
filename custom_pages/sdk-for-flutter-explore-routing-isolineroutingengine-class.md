@@ -1,10 +1,9 @@
 ---
-title: "IsolineRoutingEngine class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-isolineroutingengine-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- IsolineRoutingEngine-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-routing-isolineroutingengine-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">IsolineRoutingEngine class</li>
 </ol>
 <div class="self-name">IsolineRoutingEngine</div>
@@ -63,28 +62,28 @@ online connection.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="IsolineRoutingEngine">
-/sdk-for-flutter-explore-routing-isolineroutingengine-isolineroutingengine()
+<a href="../routing/IsolineRoutingEngine/IsolineRoutingEngine.html">/sdk-for-flutter-explore-routing-isolineroutingengine-isolineroutingengine</a>()
 </dt>
 <dd>
           Creates a new instance of this class.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="IsolineRoutingEngine.withConnectionSettings">
-/sdk-for-flutter-explore-routing-isolineroutingengine-isolineroutingengine-withconnectionsettings(/sdk-for-flutter-explore-routing-routingconnectionsettings-class connectionSettings)
+<a href="../routing/IsolineRoutingEngine/IsolineRoutingEngine.withConnectionSettings.html">/sdk-for-flutter-explore-routing-isolineroutingengine-isolineroutingengine-withconnectionsettings</a>(<a href="../routing/RoutingConnectionSettings-class.html">/sdk-for-flutter-explore-routing-routingconnectionsettings-class</a> connectionSettings)
 </dt>
 <dd>
           Creates a new instance of RoutingEngine.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="IsolineRoutingEngine.withSdkEngine">
-/sdk-for-flutter-explore-routing-isolineroutingengine-isolineroutingengine-withsdkengine(/sdk-for-flutter-explore-core-engine-sdknativeengine-class sdkEngine)
+<a href="../routing/IsolineRoutingEngine/IsolineRoutingEngine.withSdkEngine.html">/sdk-for-flutter-explore-routing-isolineroutingengine-isolineroutingengine-withsdkengine</a>(<a href="../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a> sdkEngine)
 </dt>
 <dd>
           Creates a new instance of IsolineRoutingEngine.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="IsolineRoutingEngine.withSdkEngineAndConnectionSettings">
-/sdk-for-flutter-explore-routing-isolineroutingengine-isolineroutingengine-withsdkengineandconnectionsettings(/sdk-for-flutter-explore-core-engine-sdknativeengine-class sdkEngine, /sdk-for-flutter-explore-routing-routingconnectionsettings-class connectionSettings)
+<a href="../routing/IsolineRoutingEngine/IsolineRoutingEngine.withSdkEngineAndConnectionSettings.html">/sdk-for-flutter-explore-routing-isolineroutingengine-isolineroutingengine-withsdkengineandconnectionsettings</a>(<a href="../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a> sdkEngine, <a href="../routing/RoutingConnectionSettings-class.html">/sdk-for-flutter-explore-routing-routingconnectionsettings-class</a> connectionSettings)
 </dt>
 <dd>
           Creates a new instance of RoutingEngine.
@@ -96,7 +95,7 @@ online connection.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-routing-isolineroutingengine-hashcode
+<a href="../routing/IsolineRoutingEngine/hashCode.html">/sdk-for-flutter-explore-routing-isolineroutingengine-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -104,7 +103,7 @@ online connection.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-isolineroutingengine-runtimetype
+<a href="../routing/IsolineRoutingEngine/runtimeType.html">/sdk-for-flutter-explore-routing-isolineroutingengine-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -117,9 +116,8 @@ online connection.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="calculateIsoline">
-/sdk-for-flutter-explore-routing-isolineroutingengine-calculateisoline(<wbr/>/sdk-for-flutter-explore-routing-waypoint-class center, /sdk-for-flutter-explore-routing-isolineoptions-class isolineOptions, /sdk-for-flutter-explore-routing-calculateisolinecallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a href="../routing/IsolineRoutingEngine/calculateIsoline.html">/sdk-for-flutter-explore-routing-isolineroutingengine-calculateisoline</a>(<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a> center, <a href="../routing/IsolineOptions-class.html">/sdk-for-flutter-explore-routing-isolineoptions-class</a> isolineOptions, <a href="../routing/CalculateIsolineCallback.html">/sdk-for-flutter-explore-routing-calculateisolinecallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously calculates isolines to indicate the reachable area from a center point.
@@ -127,7 +125,7 @@ online connection.</p>
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-isolineroutingengine-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/IsolineRoutingEngine/noSuchMethod.html">/sdk-for-flutter-explore-routing-isolineroutingengine-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -136,8 +134,8 @@ online connection.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="setCustomOption">
-/sdk-for-flutter-explore-routing-isolineroutingengine-setcustomoption(<wbr/>String name, String? value)
-    → /sdk-for-flutter-explore-routing-routingerror?
+<a href="../routing/IsolineRoutingEngine/setCustomOption.html">/sdk-for-flutter-explore-routing-isolineroutingengine-setcustomoption</a>(<wbr/>String name, String? value)
+    → <a href="../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a>?
 
 </dt>
 <dd>
@@ -146,7 +144,7 @@ online connection.</p>
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-isolineroutingengine-tostring(<wbr/>)
+<a href="../routing/IsolineRoutingEngine/toString.html">/sdk-for-flutter-explore-routing-isolineroutingengine-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -160,7 +158,7 @@ online connection.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-routing-isolineroutingengine-operator-equals(<wbr/>Object other)
+<a href="../routing/IsolineRoutingEngine/operator_equals.html">/sdk-for-flutter-explore-routing-isolineroutingengine-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -178,8 +176,8 @@ online connection.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">IsolineRoutingEngine class</li>
 </ol>
 <h5>routing library</h5>
@@ -196,5 +194,4 @@ online connection.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

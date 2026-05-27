@@ -1,10 +1,9 @@
 ---
-title: "AddressQuery class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-addressquery-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- AddressQuery-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-search-addressquery-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">AddressQuery class</li>
 </ol>
 <div class="self-name">AddressQuery</div>
@@ -56,12 +55,12 @@ menu
 <h1>AddressQuery class</h1></div>
 <section class="desc markdown">
 <p>The options to specify an address query.</p>
-<p>A /sdk-for-flutter-explore-search-addressquery-query can consist of parts of an address or full addresses,
-optionally comma separated. /sdk-for-flutter-explore-search-addressquery-class should only be used to search for parts of the address,
+<p>A <a href="../search/AddressQuery/query.html">/sdk-for-flutter-explore-search-addressquery-query</a> can consist of parts of an address or full addresses,
+optionally comma separated. <a href="../search/AddressQuery-class.html">/sdk-for-flutter-explore-search-addressquery-class</a> should only be used to search for parts of the address,
 excluding the POI name. For example, "Invalidenstraße 116, Berlin, Germany" is appropriate, whereas
 "HERE, Invalidenstraße 116, Berlin, Germany" is not. To be able to include the POI name, use
-/sdk-for-flutter-explore-search-textquery-class instead. /sdk-for-flutter-explore-search-searchoptions-languagecode specifies the language of the
-/sdk-for-flutter-explore-search-addressquery-query and determines the preferred language of the results.</p>
+<a href="../search/TextQuery-class.html">/sdk-for-flutter-explore-search-textquery-class</a> instead. <a href="../search/SearchOptions/languageCode.html">/sdk-for-flutter-explore-search-searchoptions-languagecode</a> specifies the language of the
+<a href="../search/AddressQuery/query.html">/sdk-for-flutter-explore-search-addressquery-query</a> and determines the preferred language of the results.</p>
 </section>
 <section>
 <dl class="dl-horizontal">
@@ -77,21 +76,21 @@ excluding the POI name. For example, "Invalidenstraße 116, Berlin, Germany" is 
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="AddressQuery">
-/sdk-for-flutter-explore-search-addressquery-addressquery(String query)
+<a href="../search/AddressQuery/AddressQuery.html">/sdk-for-flutter-explore-search-addressquery-addressquery</a>(String query)
 </dt>
 <dd>
           Constructs an AddressQuery from the provided text query.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="AddressQuery.withAreaCenter">
-/sdk-for-flutter-explore-search-addressquery-addressquery-withareacenter(String query, /sdk-for-flutter-explore-core-geocoordinates-class areaCenter)
+<a href="../search/AddressQuery/AddressQuery.withAreaCenter.html">/sdk-for-flutter-explore-search-addressquery-addressquery-withareacenter</a>(String query, <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> areaCenter)
 </dt>
 <dd>
           Constructs an AddressQuery from the provided text query and geographical coordinates.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="AddressQuery.withAreaCenterInCountries">
-/sdk-for-flutter-explore-search-addressquery-addressquery-withareacenterincountries(String query, /sdk-for-flutter-explore-core-geocoordinates-class areaCenter, List&lt;<wbr/>/sdk-for-flutter-explore-core-countrycode&gt; countries)
+<a href="../search/AddressQuery/AddressQuery.withAreaCenterInCountries.html">/sdk-for-flutter-explore-search-addressquery-addressquery-withareacenterincountries</a>(String query, <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> areaCenter, List&lt;<wbr/><a href="../core/CountryCode.html">/sdk-for-flutter-explore-core-countrycode</a>&gt; countries)
 </dt>
 <dd>
           Constructs an AddressQuery from the provided text query, geographical coordinates and the
@@ -104,17 +103,17 @@ list of countries the query is applied in.
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="areaCenter">
-/sdk-for-flutter-explore-search-addressquery-areacenter
-→ /sdk-for-flutter-explore-core-geocoordinates-class?
+<a href="../search/AddressQuery/areaCenter.html">/sdk-for-flutter-explore-search-addressquery-areacenter</a>
+→ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>?
 </dt>
 <dd>
   Geographical coordinates of the center around which to provide the most relevant places.
-For Offline Search null value will result in /sdk-for-flutter-explore-search-searcherror
+For Offline Search null value will result in <a href="../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a>
 <div class="features">final</div>
 </dd>
 <dt class="property" id="countries">
-/sdk-for-flutter-explore-search-addressquery-countries
-→ List&lt;<wbr/>/sdk-for-flutter-explore-core-countrycode&gt;
+<a href="../search/AddressQuery/countries.html">/sdk-for-flutter-explore-search-addressquery-countries</a>
+→ List&lt;<wbr/><a href="../core/CountryCode.html">/sdk-for-flutter-explore-core-countrycode</a>&gt;
 </dt>
 <dd>
   A list of countries that the query is applied in.
@@ -122,7 +121,7 @@ Not supported in <code>OfflineSearchEngine</code> (only available for the Naviga
   <div class="features">final</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-addressquery-hashcode
+<a href="../search/AddressQuery/hashCode.html">/sdk-for-flutter-explore-search-addressquery-hashcode</a>
 → int
 </dt>
 <dd>
@@ -130,7 +129,7 @@ Not supported in <code>OfflineSearchEngine</code> (only available for the Naviga
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="query">
-/sdk-for-flutter-explore-search-addressquery-query
+<a href="../search/AddressQuery/query.html">/sdk-for-flutter-explore-search-addressquery-query</a>
 → String
 </dt>
 <dd>
@@ -138,7 +137,7 @@ Not supported in <code>OfflineSearchEngine</code> (only available for the Naviga
   <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-addressquery-runtimetype
+<a href="../search/AddressQuery/runtimeType.html">/sdk-for-flutter-explore-search-addressquery-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -151,7 +150,7 @@ Not supported in <code>OfflineSearchEngine</code> (only available for the Naviga
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-addressquery-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/AddressQuery/noSuchMethod.html">/sdk-for-flutter-explore-search-addressquery-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -160,7 +159,7 @@ Not supported in <code>OfflineSearchEngine</code> (only available for the Naviga
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-addressquery-tostring(<wbr/>)
+<a href="../search/AddressQuery/toString.html">/sdk-for-flutter-explore-search-addressquery-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -174,7 +173,7 @@ Not supported in <code>OfflineSearchEngine</code> (only available for the Naviga
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-addressquery-operator-equals(<wbr/>Object other)
+<a href="../search/AddressQuery/operator_equals.html">/sdk-for-flutter-explore-search-addressquery-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -193,8 +192,8 @@ Not supported in <code>OfflineSearchEngine</code> (only available for the Naviga
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">AddressQuery class</li>
 </ol>
 <h5>search library</h5>
@@ -211,5 +210,4 @@ Not supported in <code>OfflineSearchEngine</code> (only available for the Naviga
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

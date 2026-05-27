@@ -1,10 +1,9 @@
 ---
-title: "HereMap constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-heremap-heremap"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- HereMap.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-heremap-heremap"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-heremap-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/HereMap-class.html">/sdk-for-flutter-explore-mapview-heremap-class</a></li>
 <li class="self-crumb">HereMap const constructor</li>
 </ol>
 <div class="self-name">HereMap</div>
@@ -40,9 +39,9 @@ menu
 <section class="multi-line-signature">
       const
       HereMap(<wbr/>{<ol class="parameter-list"> <li>Key? key, </li>
-<li>/sdk-for-flutter-explore-mapview-heremapcreatedcallback? onMapCreated, </li>
+<li><a href="../../mapview/HereMapCreatedCallback.html">/sdk-for-flutter-explore-mapview-heremapcreatedcallback</a>? onMapCreated, </li>
 <li>Set&lt;<wbr/>Factory&lt;<wbr/>OneSequenceGestureRecognizer&gt;&gt;? gestureRecognizers, </li>
-<li>/sdk-for-flutter-explore-mapview-nativeviewmode mode = NativeViewMode.virtualDisplay, </li>
+<li><a href="../../mapview/NativeViewMode.html">/sdk-for-flutter-explore-mapview-nativeviewmode</a> mode = NativeViewMode.virtualDisplay, </li>
 <li>dynamic options, </li>
 </ol>})
     </section>
@@ -68,9 +67,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-heremap-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/HereMap-class.html">/sdk-for-flutter-explore-mapview-heremap-class</a></li>
 <li class="self-crumb">HereMap const constructor</li>
 </ol>
 <h5>HereMap class</h5>
@@ -87,5 +86,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

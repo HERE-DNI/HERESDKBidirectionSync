@@ -1,10 +1,9 @@
 ---
-title: "MapViewBase constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapviewbase-mapviewbase"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapViewBase.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapviewbase-mapviewbase"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapviewbase-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a></li>
 <li class="self-crumb">MapViewBase factory constructor</li>
 </ol>
 <div class="self-name">MapViewBase</div>
@@ -38,33 +37,33 @@ menu
 <div>
 <h1>MapViewBase constructor</h1></div>
 <section class="multi-line-signature">
-MapViewBase(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-core-geocoordinates-class? viewToGeoCoordinatesLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-point2d-class</li>
+MapViewBase(<wbr/><ol class="parameter-list"> <li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>? viewToGeoCoordinatesLambda(<ol class="parameter-list single-line"> <li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a></li>
 </ol>), </li>
-<li>/sdk-for-flutter-explore-core-point2d-class? geoToViewCoordinatesLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geocoordinates-class</li>
+<li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>? geoToViewCoordinatesLambda(<ol class="parameter-list single-line"> <li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a></li>
 </ol>), </li>
-<li>void setWatermarkLocationLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-anchor2d-class, </li>
-<li>/sdk-for-flutter-explore-core-point2d-class</li>
+<li>void setWatermarkLocationLambda(<ol class="parameter-list single-line"> <li><a href="../../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a>, </li>
+<li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a></li>
 </ol>), </li>
-<li>void addLifecycleListenerLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</li>
+<li>void addLifecycleListenerLambda(<ol class="parameter-list single-line"> <li><a href="../../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a></li>
 </ol>), </li>
-<li>void removeLifecycleListenerLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</li>
+<li>void removeLifecycleListenerLambda(<ol class="parameter-list single-line"> <li><a href="../../mapview/MapViewLifecycleListener-class.html">/sdk-for-flutter-explore-mapview-mapviewlifecyclelistener-class</a></li>
 </ol>), </li>
-<li>void pickLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapscenemappickfilter-class?, </li>
-<li>/sdk-for-flutter-explore-core-rectangle2d-class, </li>
-<li>/sdk-for-flutter-explore-mapview-mapviewbasemappickcallback </li>
+<li>void pickLambda(<ol class="parameter-list single-line"> <li><a href="../../mapview/MapSceneMapPickFilter-class.html">/sdk-for-flutter-explore-mapview-mapscenemappickfilter-class</a>?, </li>
+<li><a href="../../core/Rectangle2D-class.html">/sdk-for-flutter-explore-core-rectangle2d-class</a>, </li>
+<li><a href="../../mapview/MapViewBaseMapPickCallback.html">/sdk-for-flutter-explore-mapview-mapviewbasemappickcallback</a> </li>
 </ol>), </li>
 <li>bool isValidGetLambda(), </li>
-<li>/sdk-for-flutter-explore-mapview-mapcamera-class cameraGetLambda(), </li>
-<li>/sdk-for-flutter-explore-gestures-gestures-class gesturesGetLambda(), </li>
-<li>/sdk-for-flutter-explore-mapview-mapscene-class mapSceneGetLambda(), </li>
-<li>/sdk-for-flutter-explore-mapview-mapcontext-class mapContextGetLambda(), </li>
-<li>/sdk-for-flutter-explore-mapview-heremapcontrollercore-class hereMapControllerCoreGetLambda(), </li>
-<li>/sdk-for-flutter-explore-core-size2d-class viewportSizeGetLambda(), </li>
+<li><a href="../../mapview/MapCamera-class.html">/sdk-for-flutter-explore-mapview-mapcamera-class</a> cameraGetLambda(), </li>
+<li><a href="../../gestures/Gestures-class.html">/sdk-for-flutter-explore-gestures-gestures-class</a> gesturesGetLambda(), </li>
+<li><a href="../../mapview/MapScene-class.html">/sdk-for-flutter-explore-mapview-mapscene-class</a> mapSceneGetLambda(), </li>
+<li><a href="../../mapview/MapContext-class.html">/sdk-for-flutter-explore-mapview-mapcontext-class</a> mapContextGetLambda(), </li>
+<li><a href="../../mapview/HereMapControllerCore-class.html">/sdk-for-flutter-explore-mapview-heremapcontrollercore-class</a> hereMapControllerCoreGetLambda(), </li>
+<li><a href="../../core/Size2D-class.html">/sdk-for-flutter-explore-core-size2d-class</a> viewportSizeGetLambda(), </li>
 <li>int frameRateGetLambda(), </li>
 <li>void frameRateSetLambda(<ol class="parameter-list single-line"> <li>int</li>
 </ol>), </li>
 <li>double pixelScaleGetLambda(), </li>
-<li>/sdk-for-flutter-explore-core-size2d-class watermarkSizeGetLambda(), </li>
+<li><a href="../../core/Size2D-class.html">/sdk-for-flutter-explore-core-size2d-class</a> watermarkSizeGetLambda(), </li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -118,9 +117,9 @@ MapViewBase(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-core-
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapviewbase-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a></li>
 <li class="self-crumb">MapViewBase factory constructor</li>
 </ol>
 <h5>MapViewBase class</h5>
@@ -137,5 +136,4 @@ MapViewBase(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-core-
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

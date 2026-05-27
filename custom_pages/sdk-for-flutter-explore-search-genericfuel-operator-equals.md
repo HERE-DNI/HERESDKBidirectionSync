@@ -1,10 +1,9 @@
 ---
-title: "operator == method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-genericfuel-operator-equals"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- operator_equals.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-genericfuel-operator-equals"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-genericfuel-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/GenericFuel-class.html">/sdk-for-flutter-explore-search-genericfuel-class</a></li>
 <li class="self-crumb">operator == method</li>
 </ol>
 <div class="self-name">operator ==</div>
@@ -77,7 +76,7 @@ either both be true, or both be false.</p>
 so whether two objects are equal should only change
 if at least one of the objects was modified.</p>
 <p>If a subclass overrides the equality operator, it should override
-the /sdk-for-flutter-explore-search-genericfuel-hashcode method as well to maintain consistency.</p>
+the <a href="../../search/GenericFuel/hashCode.html">/sdk-for-flutter-explore-search-genericfuel-hashcode</a> method as well to maintain consistency.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -98,9 +97,9 @@ bool operator ==(Object other) {
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-genericfuel-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/GenericFuel-class.html">/sdk-for-flutter-explore-search-genericfuel-class</a></li>
 <li class="self-crumb">operator == method</li>
 </ol>
 <h5>GenericFuel class</h5>
@@ -117,5 +116,4 @@ bool operator ==(Object other) {
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

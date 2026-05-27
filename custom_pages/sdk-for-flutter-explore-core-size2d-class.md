@@ -1,10 +1,9 @@
 ---
-title: "Size2D class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-size2d-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Size2D-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-core-size2d-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">Size2D class</li>
 </ol>
 <div class="self-name">Size2D</div>
@@ -59,13 +58,13 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Size2D">
-/sdk-for-flutter-explore-core-size2d-size2d(double width, double height)
+<a href="../core/Size2D/Size2D.html">/sdk-for-flutter-explore-core-size2d-size2d</a>(double width, double height)
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="Size2D.zero">
-/sdk-for-flutter-explore-core-size2d-size2d-zero()
+<a href="../core/Size2D/Size2D.zero.html">/sdk-for-flutter-explore-core-size2d-size2d-zero</a>()
 </dt>
 <dd>
           Creates a new instance.
@@ -76,7 +75,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-core-size2d-hashcode
+<a href="../core/Size2D/hashCode.html">/sdk-for-flutter-explore-core-size2d-hashcode</a>
 → int
 </dt>
 <dd>
@@ -84,7 +83,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="height">
-/sdk-for-flutter-explore-core-size2d-height
+<a href="../core/Size2D/height.html">/sdk-for-flutter-explore-core-size2d-height</a>
 ↔ double
 </dt>
 <dd>
@@ -92,7 +91,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-size2d-runtimetype
+<a href="../core/Size2D/runtimeType.html">/sdk-for-flutter-explore-core-size2d-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -100,7 +99,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="width">
-/sdk-for-flutter-explore-core-size2d-width
+<a href="../core/Size2D/width.html">/sdk-for-flutter-explore-core-size2d-width</a>
 ↔ double
 </dt>
 <dd>
@@ -113,7 +112,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-size2d-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/Size2D/noSuchMethod.html">/sdk-for-flutter-explore-core-size2d-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -122,7 +121,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-size2d-tostring(<wbr/>)
+<a href="../core/Size2D/toString.html">/sdk-for-flutter-explore-core-size2d-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -136,7 +135,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-core-size2d-operator-equals(<wbr/>Object other)
+<a href="../core/Size2D/operator_equals.html">/sdk-for-flutter-explore-core-size2d-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -155,8 +154,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">Size2D class</li>
 </ol>
 <h5>core library</h5>
@@ -173,5 +172,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

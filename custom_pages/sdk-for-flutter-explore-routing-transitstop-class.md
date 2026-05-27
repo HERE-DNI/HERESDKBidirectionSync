@@ -1,10 +1,9 @@
 ---
-title: "TransitStop class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-transitstop-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TransitStop-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-routing-transitstop-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">TransitStop class</li>
 </ol>
 <div class="self-name">TransitStop</div>
@@ -58,7 +57,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TransitStop">
-/sdk-for-flutter-explore-routing-transitstop-transitstop(/sdk-for-flutter-explore-routing-transitdeparture-class departure)
+<a href="../routing/TransitStop/TransitStop.html">/sdk-for-flutter-explore-routing-transitstop-transitstop</a>(<a href="../routing/TransitDeparture-class.html">/sdk-for-flutter-explore-routing-transitdeparture-class</a> departure)
 </dt>
 <dd>
 </dd>
@@ -68,15 +67,15 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="departure">
-/sdk-for-flutter-explore-routing-transitstop-departure
-↔ /sdk-for-flutter-explore-routing-transitdeparture-class
+<a href="../routing/TransitStop/departure.html">/sdk-for-flutter-explore-routing-transitstop-departure</a>
+↔ <a href="../routing/TransitDeparture-class.html">/sdk-for-flutter-explore-routing-transitdeparture-class</a>
 </dt>
 <dd>
   Departure.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="duration">
-/sdk-for-flutter-explore-routing-transitstop-duration
+<a href="../routing/TransitStop/duration.html">/sdk-for-flutter-explore-routing-transitstop-duration</a>
 ↔ Duration?
 </dt>
 <dd>
@@ -86,7 +85,7 @@ Defaults to <code>null</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-transitstop-hashcode
+<a href="../routing/TransitStop/hashCode.html">/sdk-for-flutter-explore-routing-transitstop-hashcode</a>
 → int
 </dt>
 <dd>
@@ -94,7 +93,7 @@ Defaults to <code>null</code>.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-transitstop-runtimetype
+<a href="../routing/TransitStop/runtimeType.html">/sdk-for-flutter-explore-routing-transitstop-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -107,7 +106,7 @@ Defaults to <code>null</code>.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-transitstop-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/TransitStop/noSuchMethod.html">/sdk-for-flutter-explore-routing-transitstop-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -116,7 +115,7 @@ Defaults to <code>null</code>.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-transitstop-tostring(<wbr/>)
+<a href="../routing/TransitStop/toString.html">/sdk-for-flutter-explore-routing-transitstop-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -130,7 +129,7 @@ Defaults to <code>null</code>.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-transitstop-operator-equals(<wbr/>Object other)
+<a href="../routing/TransitStop/operator_equals.html">/sdk-for-flutter-explore-routing-transitstop-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -149,8 +148,8 @@ Defaults to <code>null</code>.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">TransitStop class</li>
 </ol>
 <h5>routing library</h5>
@@ -167,5 +166,4 @@ Defaults to <code>null</code>.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

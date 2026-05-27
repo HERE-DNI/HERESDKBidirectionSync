@@ -1,10 +1,9 @@
 ---
-title: "CategoryQueryArea class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-categoryqueryarea-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- CategoryQueryArea-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -32,8 +31,8 @@ slug: "sdk-for-flutter-explore-search-categoryqueryarea-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">CategoryQueryArea class</li>
 </ol>
 <div class="self-name">CategoryQueryArea</div>
@@ -73,28 +72,28 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="CategoryQueryArea.withBox">
-/sdk-for-flutter-explore-search-categoryqueryarea-categoryqueryarea-withbox(/sdk-for-flutter-explore-core-geocoordinates-class areaCenter, /sdk-for-flutter-explore-core-geobox-class boxArea)
+<a href="../search/CategoryQueryArea/CategoryQueryArea.withBox.html">/sdk-for-flutter-explore-search-categoryqueryarea-categoryqueryarea-withbox</a>(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> areaCenter, <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> boxArea)
 </dt>
 <dd>
           Constructs a new instance of this class from provided parameters.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="CategoryQueryArea.withCenter">
-/sdk-for-flutter-explore-search-categoryqueryarea-categoryqueryarea-withcenter(/sdk-for-flutter-explore-core-geocoordinates-class areaCenter)
+<a href="../search/CategoryQueryArea/CategoryQueryArea.withCenter.html">/sdk-for-flutter-explore-search-categoryqueryarea-categoryqueryarea-withcenter</a>(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> areaCenter)
 </dt>
 <dd>
           Constructs a new instance of this class from provided parameters.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="CategoryQueryArea.withCircle">
-/sdk-for-flutter-explore-search-categoryqueryarea-categoryqueryarea-withcircle(/sdk-for-flutter-explore-core-geocoordinates-class areaCenter, /sdk-for-flutter-explore-core-geocircle-class circleArea)
+<a href="../search/CategoryQueryArea/CategoryQueryArea.withCircle.html">/sdk-for-flutter-explore-search-categoryqueryarea-categoryqueryarea-withcircle</a>(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> areaCenter, <a href="../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a> circleArea)
 </dt>
 <dd>
           Constructs a new instance of this class from provided parameters.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="CategoryQueryArea.withCorridorAndCenter">
-/sdk-for-flutter-explore-search-categoryqueryarea-categoryqueryarea-withcorridorandcenter(/sdk-for-flutter-explore-core-geocorridor-class corridorArea, /sdk-for-flutter-explore-core-geocoordinates-class areaCenter)
+<a href="../search/CategoryQueryArea/CategoryQueryArea.withCorridorAndCenter.html">/sdk-for-flutter-explore-search-categoryqueryarea-categoryqueryarea-withcorridorandcenter</a>(<a href="../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a> corridorArea, <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> areaCenter)
 </dt>
 <dd>
           Constructs a new instance of this class from provided parameters.
@@ -106,32 +105,32 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="areaCenter">
-/sdk-for-flutter-explore-search-categoryqueryarea-areacenter
-→ /sdk-for-flutter-explore-core-geocoordinates-class
+<a href="../search/CategoryQueryArea/areaCenter.html">/sdk-for-flutter-explore-search-categoryqueryarea-areacenter</a>
+→ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 </dt>
 <dd>
   Geographic coordinates of the center around which to provide the most relevant places.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="boxArea">
-/sdk-for-flutter-explore-search-categoryqueryarea-boxarea
-→ /sdk-for-flutter-explore-core-geobox-class?
+<a href="../search/CategoryQueryArea/boxArea.html">/sdk-for-flutter-explore-search-categoryqueryarea-boxarea</a>
+→ <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>?
 </dt>
 <dd>
   Geographic rectangle area in which to provide the most relevant places.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="circleArea">
-/sdk-for-flutter-explore-search-categoryqueryarea-circlearea
-→ /sdk-for-flutter-explore-core-geocircle-class?
+<a href="../search/CategoryQueryArea/circleArea.html">/sdk-for-flutter-explore-search-categoryqueryarea-circlearea</a>
+→ <a href="../core/GeoCircle-class.html">/sdk-for-flutter-explore-core-geocircle-class</a>?
 </dt>
 <dd>
   Geographic circle area in which to provide the most relevant places.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="corridorArea">
-/sdk-for-flutter-explore-search-categoryqueryarea-corridorarea
-→ /sdk-for-flutter-explore-core-geocorridor-class?
+<a href="../search/CategoryQueryArea/corridorArea.html">/sdk-for-flutter-explore-search-categoryqueryarea-corridorarea</a>
+→ <a href="../core/GeoCorridor-class.html">/sdk-for-flutter-explore-core-geocorridor-class</a>?
 </dt>
 <dd>
   Geographic corridor area in which to provide the most relevant places.
@@ -139,7 +138,7 @@ The contained polyline and half-width define the area that will be used in a sea
   <div class="features">final</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-categoryqueryarea-hashcode
+<a href="../search/CategoryQueryArea/hashCode.html">/sdk-for-flutter-explore-search-categoryqueryarea-hashcode</a>
 → int
 </dt>
 <dd>
@@ -147,7 +146,7 @@ The contained polyline and half-width define the area that will be used in a sea
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-categoryqueryarea-runtimetype
+<a href="../search/CategoryQueryArea/runtimeType.html">/sdk-for-flutter-explore-search-categoryqueryarea-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -160,7 +159,7 @@ The contained polyline and half-width define the area that will be used in a sea
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-categoryqueryarea-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/CategoryQueryArea/noSuchMethod.html">/sdk-for-flutter-explore-search-categoryqueryarea-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -169,7 +168,7 @@ The contained polyline and half-width define the area that will be used in a sea
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-categoryqueryarea-tostring(<wbr/>)
+<a href="../search/CategoryQueryArea/toString.html">/sdk-for-flutter-explore-search-categoryqueryarea-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -183,7 +182,7 @@ The contained polyline and half-width define the area that will be used in a sea
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-categoryqueryarea-operator-equals(<wbr/>Object other)
+<a href="../search/CategoryQueryArea/operator_equals.html">/sdk-for-flutter-explore-search-categoryqueryarea-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -202,8 +201,8 @@ The contained polyline and half-width define the area that will be used in a sea
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">CategoryQueryArea class</li>
 </ol>
 <h5>search library</h5>
@@ -220,5 +219,4 @@ The contained polyline and half-width define the area that will be used in a sea
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "DesiredCatalog class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-engine-desiredcatalog-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- DesiredCatalog-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-core-engine-desiredcatalog-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
 <li class="self-crumb">DesiredCatalog class</li>
 </ol>
 <div class="self-name">DesiredCatalog</div>
@@ -54,14 +53,14 @@ menu
 <p>This class provides an interface to the user, to identify a catalog on the HERE platform, whose data he wants to access.</p>
 <p>The user can specify the HERE Resource Name (HRN) for the catalog along with a hint for the desired version.
 If the desired version is not available, the HERE platform will determine the best version to use for a specific catalog or result in error logs.
-For information on how to specify the catalog version, see /sdk-for-flutter-explore-core-engine-catalogversionhint-class.
-For information about catalogs and related concepts see /sdk-for-flutter-explore-core-engine-catalogidentifier-class.</p>
+For information on how to specify the catalog version, see <a href="../core.engine/CatalogVersionHint-class.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-class</a>.
+For information about catalogs and related concepts see <a href="../core.engine/CatalogIdentifier-class.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-class</a>.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="DesiredCatalog">
-/sdk-for-flutter-explore-core-engine-desiredcatalog-desiredcatalog(String hrn, /sdk-for-flutter-explore-core-engine-catalogversionhint-class version)
+<a href="../core.engine/DesiredCatalog/DesiredCatalog.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-desiredcatalog</a>(String hrn, <a href="../core.engine/CatalogVersionHint-class.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-class</a> version)
 </dt>
 <dd>
           Creates a new instance.
@@ -73,7 +72,7 @@ For information about catalogs and related concepts see /sdk-for-flutter-explore
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-core-engine-desiredcatalog-hashcode
+<a href="../core.engine/DesiredCatalog/hashCode.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-hashcode</a>
 → int
 </dt>
 <dd>
@@ -81,16 +80,16 @@ For information about catalogs and related concepts see /sdk-for-flutter-explore
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="id">
-/sdk-for-flutter-explore-core-engine-desiredcatalog-id
-↔ /sdk-for-flutter-explore-core-engine-catalogidentifier-class
+<a href="../core.engine/DesiredCatalog/id.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-id</a>
+↔ <a href="../core.engine/CatalogIdentifier-class.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-class</a>
 </dt>
 <dd>
   The identifier for the catalog to be accessed on the HERE platform.
-See /sdk-for-flutter-explore-core-engine-catalogidentifier-class.
+See <a href="../core.engine/CatalogIdentifier-class.html">/sdk-for-flutter-explore-core-engine-catalogidentifier-class</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-engine-desiredcatalog-runtimetype
+<a href="../core.engine/DesiredCatalog/runtimeType.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -103,7 +102,7 @@ See /sdk-for-flutter-explore-core-engine-catalogidentifier-class.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-engine-desiredcatalog-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core.engine/DesiredCatalog/noSuchMethod.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -112,7 +111,7 @@ See /sdk-for-flutter-explore-core-engine-catalogidentifier-class.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-engine-desiredcatalog-tostring(<wbr/>)
+<a href="../core.engine/DesiredCatalog/toString.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -126,7 +125,7 @@ See /sdk-for-flutter-explore-core-engine-catalogidentifier-class.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-core-engine-desiredcatalog-operator-equals(<wbr/>Object other)
+<a href="../core.engine/DesiredCatalog/operator_equals.html">/sdk-for-flutter-explore-core-engine-desiredcatalog-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -145,8 +144,8 @@ See /sdk-for-flutter-explore-core-engine-catalogidentifier-class.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
 <li class="self-crumb">DesiredCatalog class</li>
 </ol>
 <h5>core.engine library</h5>
@@ -163,5 +162,4 @@ See /sdk-for-flutter-explore-core-engine-catalogidentifier-class.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

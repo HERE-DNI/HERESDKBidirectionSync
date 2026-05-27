@@ -1,10 +1,9 @@
 ---
-title: "EVChargingConnectorGroup constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evchargingconnectorgroup-evchargingconnectorgroup"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- EVChargingConnectorGroup.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evchargingconnectorgroup-evchargingconnect
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingconnectorgroup-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingConnectorGroup-class.html">/sdk-for-flutter-explore-search-evchargingconnectorgroup-class</a></li>
 <li class="self-crumb">EVChargingConnectorGroup constructor</li>
 </ol>
 <div class="self-name">EVChargingConnectorGroup</div>
@@ -53,9 +52,9 @@ EVChargingConnectorGroup(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingconnectorgroup-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingConnectorGroup-class.html">/sdk-for-flutter-explore-search-evchargingconnectorgroup-class</a></li>
 <li class="self-crumb">EVChargingConnectorGroup constructor</li>
 </ol>
 <h5>EVChargingConnectorGroup class</h5>
@@ -72,5 +71,4 @@ EVChargingConnectorGroup(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

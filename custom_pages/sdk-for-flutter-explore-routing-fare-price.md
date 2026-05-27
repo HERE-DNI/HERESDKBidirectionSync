@@ -1,10 +1,9 @@
 ---
-title: "price property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-fare-price"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- price.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-fare-price"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-fare-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Fare-class.html">/sdk-for-flutter-explore-routing-fare-class</a></li>
 <li class="self-crumb">price property</li>
 </ol>
 <div class="self-name">price</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>price property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-routing-fareprice-class?
+<a href="../../routing/FarePrice-class.html">/sdk-for-flutter-explore-routing-fareprice-class</a>?
         price
 <div class="features">getter/setter pair</div>
 </section>
@@ -57,9 +56,9 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-fare-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Fare-class.html">/sdk-for-flutter-explore-routing-fare-class</a></li>
 <li class="self-crumb">price property</li>
 </ol>
 <h5>Fare class</h5>
@@ -76,5 +75,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

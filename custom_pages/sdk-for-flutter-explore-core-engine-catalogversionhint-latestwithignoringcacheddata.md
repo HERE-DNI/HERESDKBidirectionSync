@@ -1,10 +1,9 @@
 ---
-title: "latestWithIgnoringCachedData static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-catalogversionhint-latestwithignoringcacheddata"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- latestWithIgnoringCachedData.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-catalogversionhint-latestwithignoring
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-catalogversionhint-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/CatalogVersionHint-class.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-class</a></li>
 <li class="self-crumb">latestWithIgnoringCachedData static method</li>
 </ol>
 <div class="self-name">latestWithIgnoringCachedData</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>latestWithIgnoringCachedData static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-engine-catalogversionhint-class
+<a href="../../core.engine/CatalogVersionHint-class.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-class</a>
 latestWithIgnoringCachedData(<wbr/><ol class="parameter-list single-line"> <li>bool ignoreCachedData</li>
 </ol>)
 
@@ -71,7 +70,7 @@ If set to false, the HERE SDK will auto-update to use the latest version, only
 when there is no cached map data at all (for example, at first install or after
 clearing the cache) <em>and</em> no installed map data. Otherwise, this call will have no effect.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-engine-catalogversionhint-class. Instance of /sdk-for-flutter-explore-core-engine-catalogversionhint-class.</p>
+<p>Returns <a href="../../core.engine/CatalogVersionHint-class.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-class</a>. Instance of <a href="../../core.engine/CatalogVersionHint-class.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-class</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -85,9 +84,9 @@ clearing the cache) <em>and</em> no installed map data. Otherwise, this call wil
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-catalogversionhint-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/CatalogVersionHint-class.html">/sdk-for-flutter-explore-core-engine-catalogversionhint-class</a></li>
 <li class="self-crumb">latestWithIgnoringCachedData static method</li>
 </ol>
 <h5>CatalogVersionHint class</h5>
@@ -104,5 +103,4 @@ clearing the cache) <em>and</em> no installed map data. Otherwise, this call wil
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "boundingBox property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapcamera-boundingbox"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- boundingBox.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcamera-boundingbox"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcamera-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCamera-class.html">/sdk-for-flutter-explore-mapview-mapcamera-class</a></li>
 <li class="self-crumb">boundingBox property</li>
 </ol>
 <div class="self-name">boundingBox</div>
@@ -39,7 +38,7 @@ menu
 <h1>boundingBox property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-geobox-class?
+<a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>?
 boundingBox
 </section>
 <section class="desc markdown">
@@ -69,9 +68,9 @@ Gets the current visible map area encompassed in a GeoBox.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcamera-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCamera-class.html">/sdk-for-flutter-explore-mapview-mapcamera-class</a></li>
 <li class="self-crumb">boundingBox property</li>
 </ol>
 <h5>MapCamera class</h5>
@@ -88,5 +87,4 @@ Gets the current visible map area encompassed in a GeoBox.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

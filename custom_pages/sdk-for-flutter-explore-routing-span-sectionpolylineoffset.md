@@ -1,10 +1,9 @@
 ---
-title: "sectionPolylineOffset property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-span-sectionpolylineoffset"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- sectionPolylineOffset.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-span-sectionpolylineoffset"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-span-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Span-class.html">/sdk-for-flutter-explore-routing-span-class</a></li>
 <li class="self-crumb">sectionPolylineOffset property</li>
 </ol>
 <div class="self-name">sectionPolylineOffset</div>
@@ -63,9 +62,9 @@ included in the span, because the spans' geometry share a point in the section's
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-span-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/Span-class.html">/sdk-for-flutter-explore-routing-span-class</a></li>
 <li class="self-crumb">sectionPolylineOffset property</li>
 </ol>
 <h5>Span class</h5>
@@ -82,5 +81,4 @@ included in the span, because the spans' geometry share a point in the section's
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

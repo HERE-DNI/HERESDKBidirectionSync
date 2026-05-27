@@ -1,10 +1,9 @@
 ---
-title: "traveledDistanceOnStartingSectionInMeters property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-refreshrouteparameters-traveleddistanceonstartingsectioninmeters"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- traveledDistanceOnStartingSectionInMeters.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-refreshrouteparameters-traveleddistanceon
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-refreshrouteparameters-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RefreshRouteParameters-class.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-class</a></li>
 <li class="self-crumb">traveledDistanceOnStartingSectionInMeters property</li>
 </ol>
 <div class="self-name">traveledDistanceOnStartingSectionInMeters</div>
@@ -46,7 +45,7 @@ menu
 <section class="desc markdown">
 <p>Provides an indication on how much of the starting section is already traveled. The refresh route function
 would ignore the first part of the section. If it is provided with an invalid starting section index, an
-/sdk-for-flutter-explore-routing-routingerror error is generated.</p>
+<a href="../../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a> error is generated.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -60,9 +59,9 @@ would ignore the first part of the section. If it is provided with an invalid st
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-refreshrouteparameters-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RefreshRouteParameters-class.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-class</a></li>
 <li class="self-crumb">traveledDistanceOnStartingSectionInMeters property</li>
 </ol>
 <h5>RefreshRouteParameters class</h5>
@@ -79,5 +78,4 @@ would ignore the first part of the section. If it is provided with an invalid st
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

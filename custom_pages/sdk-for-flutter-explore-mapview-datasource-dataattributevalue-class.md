@@ -1,10 +1,9 @@
 ---
-title: "DataAttributeValue class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- DataAttributeValue-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -40,8 +39,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">DataAttributeValue class</li>
 </ol>
 <div class="self-name">DataAttributeValue</div>
@@ -74,49 +73,49 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="DataAttributeValue.withArray">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-dataattributevalue-witharray(List&lt;<wbr/>/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class&gt; value)
+<a href="../mapview.datasource/DataAttributeValue/DataAttributeValue.withArray.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-dataattributevalue-witharray</a>(List&lt;<wbr/><a href="../mapview.datasource/DataAttributeValue-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class</a>&gt; value)
 </dt>
 <dd>
           Creates an aggregated data attribute value.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="DataAttributeValue.withBoolean">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-dataattributevalue-withboolean(bool value)
+<a href="../mapview.datasource/DataAttributeValue/DataAttributeValue.withBoolean.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-dataattributevalue-withboolean</a>(bool value)
 </dt>
 <dd>
           Creates a boolean data attribute value.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="DataAttributeValue.withColor">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-dataattributevalue-withcolor(Color value)
+<a href="../mapview.datasource/DataAttributeValue/DataAttributeValue.withColor.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-dataattributevalue-withcolor</a>(Color value)
 </dt>
 <dd>
           Creates a color data attribute value.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="DataAttributeValue.withDouble">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-dataattributevalue-withdouble(double value)
+<a href="../mapview.datasource/DataAttributeValue/DataAttributeValue.withDouble.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-dataattributevalue-withdouble</a>(double value)
 </dt>
 <dd>
           Creates a double precision floating decimal data attribute value.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="DataAttributeValue.withFloat">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-dataattributevalue-withfloat(double value)
+<a href="../mapview.datasource/DataAttributeValue/DataAttributeValue.withFloat.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-dataattributevalue-withfloat</a>(double value)
 </dt>
 <dd>
           Creates a single precision floating decimal data attribute value.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="DataAttributeValue.withInt64">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-dataattributevalue-withint64(int value)
+<a href="../mapview.datasource/DataAttributeValue/DataAttributeValue.withInt64.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-dataattributevalue-withint64</a>(int value)
 </dt>
 <dd>
           Creates a 64-bit integer data attribute value.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="DataAttributeValue.withString">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-dataattributevalue-withstring(String value)
+<a href="../mapview.datasource/DataAttributeValue/DataAttributeValue.withString.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-dataattributevalue-withstring</a>(String value)
 </dt>
 <dd>
           Creates a string data attribute value.
@@ -128,7 +127,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-hashcode
+<a href="../mapview.datasource/DataAttributeValue/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -136,7 +135,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-runtimetype
+<a href="../mapview.datasource/DataAttributeValue/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -149,8 +148,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="getArray">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-getarray(<wbr/>)
-    → List&lt;<wbr/>/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class&gt;?
+<a href="../mapview.datasource/DataAttributeValue/getArray.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-getarray</a>(<wbr/>)
+    → List&lt;<wbr/><a href="../mapview.datasource/DataAttributeValue-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class</a>&gt;?
 
 </dt>
 <dd>
@@ -159,7 +158,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="getAsString">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-getasstring(<wbr/>)
+<a href="../mapview.datasource/DataAttributeValue/getAsString.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-getasstring</a>(<wbr/>)
     → String
 
 </dt>
@@ -169,7 +168,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="getBoolean">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-getboolean(<wbr/>)
+<a href="../mapview.datasource/DataAttributeValue/getBoolean.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-getboolean</a>(<wbr/>)
     → bool?
 
 </dt>
@@ -179,7 +178,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="getColor">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-getcolor(<wbr/>)
+<a href="../mapview.datasource/DataAttributeValue/getColor.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-getcolor</a>(<wbr/>)
     → Color?
 
 </dt>
@@ -189,7 +188,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="getDouble">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-getdouble(<wbr/>)
+<a href="../mapview.datasource/DataAttributeValue/getDouble.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-getdouble</a>(<wbr/>)
     → double?
 
 </dt>
@@ -199,7 +198,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="getFloat">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-getfloat(<wbr/>)
+<a href="../mapview.datasource/DataAttributeValue/getFloat.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-getfloat</a>(<wbr/>)
     → double?
 
 </dt>
@@ -209,7 +208,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="getInt64">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-getint64(<wbr/>)
+<a href="../mapview.datasource/DataAttributeValue/getInt64.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-getint64</a>(<wbr/>)
     → int?
 
 </dt>
@@ -219,7 +218,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="getString">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-getstring(<wbr/>)
+<a href="../mapview.datasource/DataAttributeValue/getString.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-getstring</a>(<wbr/>)
     → String?
 
 </dt>
@@ -229,9 +228,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="getType">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-gettype(<wbr/>)
-    → /sdk-for-flutter-explore-mapview-datasource-dataattributevaluevaluetype
-
+<a href="../mapview.datasource/DataAttributeValue/getType.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-gettype</a>(<wbr/>)
+    → <a href="../mapview.datasource/DataAttributeValueValueType.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevaluevaluetype</a>
 </dt>
 <dd>
   Returns the type of the value.
@@ -239,7 +237,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview.datasource/DataAttributeValue/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -248,7 +246,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-tostring(<wbr/>)
+<a href="../mapview.datasource/DataAttributeValue/toString.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -262,7 +260,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-operator-equals(<wbr/>Object other)
+<a href="../mapview.datasource/DataAttributeValue/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -280,8 +278,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">DataAttributeValue class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -298,5 +296,4 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

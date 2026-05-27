@@ -1,10 +1,9 @@
 ---
-title: "BusOptions class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-busoptions-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- BusOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -34,8 +33,8 @@ slug: "sdk-for-flutter-explore-routing-busoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">BusOptions class</li>
 </ol>
 <div class="self-name">BusOptions</div>
@@ -66,7 +65,7 @@ menu
 <dt>Annotations</dt>
 <dd>
 <ul class="annotation-list clazz-relationships">
-<li>@Deprecated("Will be removed in v4.28.0. Use <code>RoutingOptions</code> class instead.")</li>
+<li>@Deprecated("Will be removed in v4.28.0. Use `RoutingOptions` class instead.")</li>
 </ul>
 </dd>
 </dl>
@@ -75,7 +74,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="BusOptions">
-/sdk-for-flutter-explore-routing-busoptions-busoptions()
+<a href="../routing/BusOptions/BusOptions.html">/sdk-for-flutter-explore-routing-busoptions-busoptions</a>()
 </dt>
 <dd>
           Creates a new instance.
@@ -86,8 +85,8 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="allowOptions">
-/sdk-for-flutter-explore-routing-busoptions-allowoptions
-↔ /sdk-for-flutter-explore-routing-allowoptions-class
+<a href="../routing/BusOptions/allowOptions.html">/sdk-for-flutter-explore-routing-busoptions-allowoptions</a>
+↔ <a href="../routing/AllowOptions-class.html">/sdk-for-flutter-explore-routing-allowoptions-class</a>
 </dt>
 <dd>
   The options explicitly allowed by user for route calculations. By default
@@ -95,8 +94,8 @@ no options are opt in.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="avoidanceOptions">
-/sdk-for-flutter-explore-routing-busoptions-avoidanceoptions
-↔ /sdk-for-flutter-explore-routing-avoidanceoptions-class
+<a href="../routing/BusOptions/avoidanceOptions.html">/sdk-for-flutter-explore-routing-busoptions-avoidanceoptions</a>
+↔ <a href="../routing/AvoidanceOptions-class.html">/sdk-for-flutter-explore-routing-avoidanceoptions-class</a>
 </dt>
 <dd>
   Options to specify restrictions for route calculations. By default
@@ -104,15 +103,15 @@ no restrictions are applied.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="busSpecifications">
-/sdk-for-flutter-explore-routing-busoptions-busspecifications
-↔ /sdk-for-flutter-explore-transport-busspecifications-class
+<a href="../routing/BusOptions/busSpecifications.html">/sdk-for-flutter-explore-routing-busoptions-busspecifications</a>
+↔ <a class="deprecated" href="../transport/BusSpecifications-class.html">/sdk-for-flutter-explore-transport-busspecifications-class</a>
 </dt>
 <dd>
   Detailed bus specifications such as dimensions and weight.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-routing-busoptions-hashcode
+<a href="../routing/BusOptions/hashCode.html">/sdk-for-flutter-explore-routing-busoptions-hashcode</a>
 → int
 </dt>
 <dd>
@@ -120,7 +119,7 @@ no restrictions are applied.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="lastCharacterOfLicensePlate">
-/sdk-for-flutter-explore-routing-busoptions-lastcharacteroflicenseplate
+<a href="../routing/BusOptions/lastCharacterOfLicensePlate.html">/sdk-for-flutter-explore-routing-busoptions-lastcharacteroflicenseplate</a>
 ↔ String?
 </dt>
 <dd>
@@ -134,15 +133,15 @@ Example usage: "7", when the license plate of a vehicle looks like "B-ET-182487"
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="maxSpeedOnSegments">
-/sdk-for-flutter-explore-routing-busoptions-maxspeedonsegments
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-routing-maxspeedonsegment-class&gt;
+<a href="../routing/BusOptions/maxSpeedOnSegments.html">/sdk-for-flutter-explore-routing-busoptions-maxspeedonsegments</a>
+↔ List&lt;<wbr/><a href="../routing/MaxSpeedOnSegment-class.html">/sdk-for-flutter-explore-routing-maxspeedonsegment-class</a>&gt;
 </dt>
 <dd>
   Segments with restriction on maximum baseSpeed.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="occupantsNumber">
-/sdk-for-flutter-explore-routing-busoptions-occupantsnumber
+<a href="../routing/BusOptions/occupantsNumber.html">/sdk-for-flutter-explore-routing-busoptions-occupantsnumber</a>
 ↔ int
 </dt>
 <dd>
@@ -152,15 +151,15 @@ Shouldn't be less than 1 or greater than 255. Defaults to 1.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="routeOptions">
-/sdk-for-flutter-explore-routing-busoptions-routeoptions
-↔ /sdk-for-flutter-explore-routing-routeoptions-class
+<a href="../routing/BusOptions/routeOptions.html">/sdk-for-flutter-explore-routing-busoptions-routeoptions</a>
+↔ <a href="../routing/RouteOptions-class.html">/sdk-for-flutter-explore-routing-routeoptions-class</a>
 </dt>
 <dd>
   Specifies the common route calculation options.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-busoptions-runtimetype
+<a href="../routing/BusOptions/runtimeType.html">/sdk-for-flutter-explore-routing-busoptions-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -168,8 +167,8 @@ Shouldn't be less than 1 or greater than 255. Defaults to 1.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="textOptions">
-/sdk-for-flutter-explore-routing-busoptions-textoptions
-↔ /sdk-for-flutter-explore-routing-routetextoptions-class
+<a href="../routing/BusOptions/textOptions.html">/sdk-for-flutter-explore-routing-busoptions-textoptions</a>
+↔ <a href="../routing/RouteTextOptions-class.html">/sdk-for-flutter-explore-routing-routetextoptions-class</a>
 </dt>
 <dd>
   Customize textual content returned from the route calculation, such
@@ -177,8 +176,8 @@ as localization, format, and unit system.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="tollOptions">
-/sdk-for-flutter-explore-routing-busoptions-tolloptions
-↔ /sdk-for-flutter-explore-routing-tolloptions-class
+<a href="../routing/BusOptions/tollOptions.html">/sdk-for-flutter-explore-routing-busoptions-tolloptions</a>
+↔ <a href="../routing/TollOptions-class.html">/sdk-for-flutter-explore-routing-tolloptions-class</a>
 </dt>
 <dd>
   Options to specify how the tolls should be calculated,
@@ -191,7 +190,7 @@ such as transponders, vehicle category, and emission type.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-busoptions-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/BusOptions/noSuchMethod.html">/sdk-for-flutter-explore-routing-busoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -200,7 +199,7 @@ such as transponders, vehicle category, and emission type.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-busoptions-tostring(<wbr/>)
+<a href="../routing/BusOptions/toString.html">/sdk-for-flutter-explore-routing-busoptions-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -214,7 +213,7 @@ such as transponders, vehicle category, and emission type.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-routing-busoptions-operator-equals(<wbr/>Object other)
+<a href="../routing/BusOptions/operator_equals.html">/sdk-for-flutter-explore-routing-busoptions-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -233,8 +232,8 @@ such as transponders, vehicle category, and emission type.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">BusOptions class</li>
 </ol>
 <h5>routing library</h5>
@@ -251,5 +250,4 @@ such as transponders, vehicle category, and emission type.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

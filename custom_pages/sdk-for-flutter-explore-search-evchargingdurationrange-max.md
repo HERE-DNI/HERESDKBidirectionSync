@@ -1,10 +1,9 @@
 ---
-title: "max property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evchargingdurationrange-max"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- max.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evchargingdurationrange-max"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingdurationrange-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingDurationRange-class.html">/sdk-for-flutter-explore-search-evchargingdurationrange-class</a></li>
 <li class="self-crumb">max property</li>
 </ol>
 <div class="self-name">max</div>
@@ -59,9 +58,9 @@ If absent the element is valid until end of the charging session or until some o
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evchargingdurationrange-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVChargingDurationRange-class.html">/sdk-for-flutter-explore-search-evchargingdurationrange-class</a></li>
 <li class="self-crumb">max property</li>
 </ol>
 <h5>EVChargingDurationRange class</h5>
@@ -78,5 +77,4 @@ If absent the element is valid until end of the charging session or until some o
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "MapMarker3D.fromImage constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapmarker3d-mapmarker3d-fromimage"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapMarker3D.fromImage.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmarker3d-mapmarker3d-fromimage"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarker3d-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a></li>
 <li class="self-crumb">MapMarker3D.fromImage factory constructor</li>
 </ol>
 <div class="self-name">MapMarker3D.fromImage</div>
@@ -38,29 +37,29 @@ menu
 <div>
 <h1>MapMarker3D.fromImage constructor</h1></div>
 <section class="multi-line-signature">
-MapMarker3D.fromImage(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-core-geocoordinates-class at, </li>
-<li>/sdk-for-flutter-explore-mapview-mapimage-class image, </li>
+MapMarker3D.fromImage(<wbr/><ol class="parameter-list"> <li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> at, </li>
+<li><a href="../../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a> image, </li>
 <li>double scale, </li>
-<li>/sdk-for-flutter-explore-mapview-rendersizeunit unit, </li>
+<li><a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> unit, </li>
 </ol>)
     </section>
 <section class="desc markdown">
 <p>Creates a flat marker from provided map image.</p>
 <p>Such map marker is a flat 3D marker of rectangular shape textured with given image.
 Aspect ratio of the flat marker is determined by aspect ratio of the image.</p>
-<p>Only bitmap images are supported, using a /sdk-for-flutter-explore-mapview-mapimage-class created from SVG data
+<p>Only bitmap images are supported, using a <a href="../../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a> created from SVG data
 will result in distorted rendering of the flat marker.</p>
 <p>Altitude component of the coordinates, if set, controls 3D marker's elevation
 above ground. If not set, the 3D marker is placed at ground level.</p>
 <p>Size of the rendered flat marker can be specified in either world or screen coordinate space.</p>
-<p>For /sdk-for-flutter-explore-mapview-rendersizeunit, the flat marker will cover <code>MapMarker3D.fromImage.scale</code> * image's width pixels
+<p>For <a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a>, the flat marker will cover <code>MapMarker3D.fromImage.scale</code> * image's width pixels
 horizontally and <code>MapMarker3D.fromImage.scale</code> * image's height pixels vertically. The size of the flat marker
 remains constant on the screen.</p>
-<p>For /sdk-for-flutter-explore-mapview-rendersizeunit the flat marker will cover <code>MapMarker3D.fromImage.scale</code> *
+<p>For <a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> the flat marker will cover <code>MapMarker3D.fromImage.scale</code> *
 image's width density independent pixels horizontally and <code>MapMarker3D.fromImage.scale</code> * image's height
 density independent pixels vertically. The size of the flat marker remains constant on
 the screen.</p>
-<p>For /sdk-for-flutter-explore-mapview-rendersizeunit the flat marker will cover <code>MapMarker3D.fromImage.scale</code> * image's width meters
+<p>For <a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> the flat marker will cover <code>MapMarker3D.fromImage.scale</code> * image's width meters
 horizontally and <code>MapMarker3D.fromImage.scale</code> * image's height meters vertically. Unlike with pixels or
 density independent pixels the size of the flat marker will grow and shrink together
 with regular map content like streets or buildings.</p>
@@ -92,9 +91,9 @@ provided map image.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmarker3d-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMarker3D-class.html">/sdk-for-flutter-explore-mapview-mapmarker3d-class</a></li>
 <li class="self-crumb">MapMarker3D.fromImage factory constructor</li>
 </ol>
 <h5>MapMarker3D class</h5>
@@ -111,5 +110,4 @@ provided map image.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

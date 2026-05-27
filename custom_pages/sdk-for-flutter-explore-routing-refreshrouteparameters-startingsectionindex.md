@@ -1,10 +1,9 @@
 ---
-title: "startingSectionIndex property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-refreshrouteparameters-startingsectionindex"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- startingSectionIndex.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-refreshrouteparameters-startingsectionind
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-refreshrouteparameters-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RefreshRouteParameters-class.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-class</a></li>
 <li class="self-crumb">startingSectionIndex property</li>
 </ol>
 <div class="self-name">startingSectionIndex</div>
@@ -46,7 +45,7 @@ menu
 <section class="desc markdown">
 <p>Indicates the index of the last traveled route section. When it is provided, the previous sections are discarded
 from the refreshed route and the starting point is searched in the provided section. If the starting point
-is not found in that section an /sdk-for-flutter-explore-routing-routingerror error is triggered.</p>
+is not found in that section an <a href="../../routing/RoutingError.html">/sdk-for-flutter-explore-routing-routingerror</a> error is triggered.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -60,9 +59,9 @@ is not found in that section an /sdk-for-flutter-explore-routing-routingerror er
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-refreshrouteparameters-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/RefreshRouteParameters-class.html">/sdk-for-flutter-explore-routing-refreshrouteparameters-class</a></li>
 <li class="self-crumb">startingSectionIndex property</li>
 </ol>
 <h5>RefreshRouteParameters class</h5>
@@ -79,5 +78,4 @@ is not found in that section an /sdk-for-flutter-explore-routing-routingerror er
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

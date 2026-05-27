@@ -1,10 +1,9 @@
 ---
-title: "LayerConfiguration.withDefaults constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-layerconfiguration-layerconfiguration-withdefaults"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- LayerConfiguration.withDefaults.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-layerconfiguration-layerconfiguration
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-layerconfiguration-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a></li>
 <li class="self-crumb">LayerConfiguration.withDefaults constructor</li>
 </ol>
 <div class="self-name">LayerConfiguration.withDefaults</div>
@@ -56,9 +55,9 @@ LayerConfiguration.withDefaults(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-layerconfiguration-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/LayerConfiguration-class.html">/sdk-for-flutter-explore-core-engine-layerconfiguration-class</a></li>
 <li class="self-crumb">LayerConfiguration.withDefaults constructor</li>
 </ol>
 <h5>LayerConfiguration class</h5>
@@ -75,5 +74,4 @@ LayerConfiguration.withDefaults(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

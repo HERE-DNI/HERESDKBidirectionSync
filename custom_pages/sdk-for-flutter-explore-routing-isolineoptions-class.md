@@ -1,10 +1,9 @@
 ---
-title: "IsolineOptions class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-isolineoptions-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- IsolineOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -35,8 +34,8 @@ slug: "sdk-for-flutter-explore-routing-isolineoptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">IsolineOptions class</li>
 </ol>
 <div class="self-name">IsolineOptions</div>
@@ -66,7 +65,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="IsolineOptions.withCarOptions">
-/sdk-for-flutter-explore-routing-isolineoptions-isolineoptions-withcaroptions(/sdk-for-flutter-explore-routing-isolineoptionscalculation-class calculationOptions, /sdk-for-flutter-explore-routing-caroptions-class carOptions)
+<a class="deprecated" href="../routing/IsolineOptions/IsolineOptions.withCarOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-isolineoptions-withcaroptions</a>(<a href="../routing/IsolineOptionsCalculation-class.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</a> calculationOptions, <a class="deprecated" href="../routing/CarOptions-class.html">/sdk-for-flutter-explore-routing-caroptions-class</a> carOptions)
 </dt>
 <dd>
           Constructs options to calculate isolines from destination or origin,
@@ -74,7 +73,7 @@ with preferences for isoline calculation and car routing options.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="IsolineOptions.withEVCarOptions">
-/sdk-for-flutter-explore-routing-isolineoptions-isolineoptions-withevcaroptions(/sdk-for-flutter-explore-routing-isolineoptionscalculation-class calculationOptions, /sdk-for-flutter-explore-routing-evcaroptions-class evCarOptions)
+<a class="deprecated" href="../routing/IsolineOptions/IsolineOptions.withEVCarOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-isolineoptions-withevcaroptions</a>(<a href="../routing/IsolineOptionsCalculation-class.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</a> calculationOptions, <a class="deprecated" href="../routing/EVCarOptions-class.html">/sdk-for-flutter-explore-routing-evcaroptions-class</a> evCarOptions)
 </dt>
 <dd>
           Constructs options to calculate isolines from destination or origin,
@@ -82,7 +81,7 @@ with preferences for isoline calculation and electric car routing options.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="IsolineOptions.withEVTruckOptions">
-/sdk-for-flutter-explore-routing-isolineoptions-isolineoptions-withevtruckoptions(/sdk-for-flutter-explore-routing-isolineoptionscalculation-class calculationOptions, /sdk-for-flutter-explore-routing-evtruckoptions-class evTruckOptions)
+<a class="deprecated" href="../routing/IsolineOptions/IsolineOptions.withEVTruckOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-isolineoptions-withevtruckoptions</a>(<a href="../routing/IsolineOptionsCalculation-class.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</a> calculationOptions, <a class="deprecated" href="../routing/EVTruckOptions-class.html">/sdk-for-flutter-explore-routing-evtruckoptions-class</a> evTruckOptions)
 </dt>
 <dd>
           Constructs options to calculate isolines from destination or origin,
@@ -90,7 +89,7 @@ with preferences for isoline calculation and electric truck routing options.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="IsolineOptions.withRoutingOptions">
-/sdk-for-flutter-explore-routing-isolineoptions-isolineoptions-withroutingoptions(/sdk-for-flutter-explore-routing-isolineoptionscalculation-class calculationOptions, /sdk-for-flutter-explore-routing-routingoptions-class routingOptions)
+<a href="../routing/IsolineOptions/IsolineOptions.withRoutingOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-isolineoptions-withroutingoptions</a>(<a href="../routing/IsolineOptionsCalculation-class.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</a> calculationOptions, <a href="../routing/RoutingOptions-class.html">/sdk-for-flutter-explore-routing-routingoptions-class</a> routingOptions)
 </dt>
 <dd>
           Constructs options to calculate isolines from destination or origin,
@@ -98,7 +97,7 @@ with preferences for isoline calculation and routing options.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="IsolineOptions.withTruckOptions">
-/sdk-for-flutter-explore-routing-isolineoptions-isolineoptions-withtruckoptions(/sdk-for-flutter-explore-routing-isolineoptionscalculation-class calculationOptions, /sdk-for-flutter-explore-routing-truckoptions-class truckOptions)
+<a class="deprecated" href="../routing/IsolineOptions/IsolineOptions.withTruckOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-isolineoptions-withtruckoptions</a>(<a href="../routing/IsolineOptionsCalculation-class.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</a> calculationOptions, <a class="deprecated" href="../routing/TruckOptions-class.html">/sdk-for-flutter-explore-routing-truckoptions-class</a> truckOptions)
 </dt>
 <dd>
           Constructs options to calculate isolines from destination or origin,
@@ -111,42 +110,42 @@ with preferences for isoline calculation and truck routing options.
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="calculationOptions">
-/sdk-for-flutter-explore-routing-isolineoptions-calculationoptions
-↔ /sdk-for-flutter-explore-routing-isolineoptionscalculation-class
+<a href="../routing/IsolineOptions/calculationOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-calculationoptions</a>
+↔ <a href="../routing/IsolineOptionsCalculation-class.html">/sdk-for-flutter-explore-routing-isolineoptionscalculation-class</a>
 </dt>
 <dd>
   Specifies isoline parameters.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="carOptions">
-/sdk-for-flutter-explore-routing-isolineoptions-caroptions
-↔ /sdk-for-flutter-explore-routing-caroptions-class?
+<a class="deprecated" href="../routing/IsolineOptions/carOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-caroptions</a>
+↔ <a class="deprecated" href="../routing/CarOptions-class.html">/sdk-for-flutter-explore-routing-caroptions-class</a>?
 </dt>
 <dd>
   Specifies options for calculation of isolines for car.
-Mutually exclusive with /sdk-for-flutter-explore-routing-isolineoptions-truckoptions, /sdk-for-flutter-explore-routing-isolineoptions-evcaroptions, /sdk-for-flutter-explore-routing-isolineoptions-evtruckoptions and /sdk-for-flutter-explore-routing-isolineoptions-routingoptions.
+Mutually exclusive with <a class="deprecated" href="../routing/IsolineOptions/truckOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-truckoptions</a>, <a class="deprecated" href="../routing/IsolineOptions/evCarOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-evcaroptions</a>, <a class="deprecated" href="../routing/IsolineOptions/evTruckOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-evtruckoptions</a> and <a href="../routing/IsolineOptions/routingOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-routingoptions</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="evCarOptions">
-/sdk-for-flutter-explore-routing-isolineoptions-evcaroptions
-↔ /sdk-for-flutter-explore-routing-evcaroptions-class?
+<a class="deprecated" href="../routing/IsolineOptions/evCarOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-evcaroptions</a>
+↔ <a class="deprecated" href="../routing/EVCarOptions-class.html">/sdk-for-flutter-explore-routing-evcaroptions-class</a>?
 </dt>
 <dd>
   Specifies options for calculation of isolines for electric car.
-Mutually exclusive with /sdk-for-flutter-explore-routing-isolineoptions-caroptions, /sdk-for-flutter-explore-routing-isolineoptions-truckoptions, /sdk-for-flutter-explore-routing-isolineoptions-evtruckoptions and /sdk-for-flutter-explore-routing-isolineoptions-routingoptions.
+Mutually exclusive with <a class="deprecated" href="../routing/IsolineOptions/carOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-caroptions</a>, <a class="deprecated" href="../routing/IsolineOptions/truckOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-truckoptions</a>, <a class="deprecated" href="../routing/IsolineOptions/evTruckOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-evtruckoptions</a> and <a href="../routing/IsolineOptions/routingOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-routingoptions</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="evTruckOptions">
-/sdk-for-flutter-explore-routing-isolineoptions-evtruckoptions
-↔ /sdk-for-flutter-explore-routing-evtruckoptions-class?
+<a class="deprecated" href="../routing/IsolineOptions/evTruckOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-evtruckoptions</a>
+↔ <a class="deprecated" href="../routing/EVTruckOptions-class.html">/sdk-for-flutter-explore-routing-evtruckoptions-class</a>?
 </dt>
 <dd>
   Specifies options for calculation of isolines for electric truck.
-Mutually exclusive with /sdk-for-flutter-explore-routing-isolineoptions-caroptions, /sdk-for-flutter-explore-routing-isolineoptions-truckoptions, /sdk-for-flutter-explore-routing-isolineoptions-evcaroptions and /sdk-for-flutter-explore-routing-isolineoptions-routingoptions.
+Mutually exclusive with <a class="deprecated" href="../routing/IsolineOptions/carOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-caroptions</a>, <a class="deprecated" href="../routing/IsolineOptions/truckOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-truckoptions</a>, <a class="deprecated" href="../routing/IsolineOptions/evCarOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-evcaroptions</a> and <a href="../routing/IsolineOptions/routingOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-routingoptions</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-routing-isolineoptions-hashcode
+<a href="../routing/IsolineOptions/hashCode.html">/sdk-for-flutter-explore-routing-isolineoptions-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -154,16 +153,16 @@ Mutually exclusive with /sdk-for-flutter-explore-routing-isolineoptions-caroptio
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="routingOptions">
-/sdk-for-flutter-explore-routing-isolineoptions-routingoptions
-↔ /sdk-for-flutter-explore-routing-routingoptions-class?
+<a href="../routing/IsolineOptions/routingOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-routingoptions</a>
+↔ <a href="../routing/RoutingOptions-class.html">/sdk-for-flutter-explore-routing-routingoptions-class</a>?
 </dt>
 <dd>
   Specifies options for calculation of isolines for any vehicle type.
-Mutually exclusive with /sdk-for-flutter-explore-routing-isolineoptions-caroptions, /sdk-for-flutter-explore-routing-isolineoptions-truckoptions, /sdk-for-flutter-explore-routing-isolineoptions-evcaroptions and /sdk-for-flutter-explore-routing-isolineoptions-evtruckoptions.
+Mutually exclusive with <a class="deprecated" href="../routing/IsolineOptions/carOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-caroptions</a>, <a class="deprecated" href="../routing/IsolineOptions/truckOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-truckoptions</a>, <a class="deprecated" href="../routing/IsolineOptions/evCarOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-evcaroptions</a> and <a class="deprecated" href="../routing/IsolineOptions/evTruckOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-evtruckoptions</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-isolineoptions-runtimetype
+<a href="../routing/IsolineOptions/runtimeType.html">/sdk-for-flutter-explore-routing-isolineoptions-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -171,12 +170,12 @@ Mutually exclusive with /sdk-for-flutter-explore-routing-isolineoptions-caroptio
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="truckOptions">
-/sdk-for-flutter-explore-routing-isolineoptions-truckoptions
-↔ /sdk-for-flutter-explore-routing-truckoptions-class?
+<a class="deprecated" href="../routing/IsolineOptions/truckOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-truckoptions</a>
+↔ <a class="deprecated" href="../routing/TruckOptions-class.html">/sdk-for-flutter-explore-routing-truckoptions-class</a>?
 </dt>
 <dd>
   Specifies options for calculation of isolines for truck.
-Mutually exclusive with /sdk-for-flutter-explore-routing-isolineoptions-caroptions, /sdk-for-flutter-explore-routing-isolineoptions-evcaroptions, /sdk-for-flutter-explore-routing-isolineoptions-evtruckoptions and /sdk-for-flutter-explore-routing-isolineoptions-routingoptions.
+Mutually exclusive with <a class="deprecated" href="../routing/IsolineOptions/carOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-caroptions</a>, <a class="deprecated" href="../routing/IsolineOptions/evCarOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-evcaroptions</a>, <a class="deprecated" href="../routing/IsolineOptions/evTruckOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-evtruckoptions</a> and <a href="../routing/IsolineOptions/routingOptions.html">/sdk-for-flutter-explore-routing-isolineoptions-routingoptions</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 </dl>
@@ -185,7 +184,7 @@ Mutually exclusive with /sdk-for-flutter-explore-routing-isolineoptions-caroptio
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-isolineoptions-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/IsolineOptions/noSuchMethod.html">/sdk-for-flutter-explore-routing-isolineoptions-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -194,7 +193,7 @@ Mutually exclusive with /sdk-for-flutter-explore-routing-isolineoptions-caroptio
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-isolineoptions-tostring(<wbr/>)
+<a href="../routing/IsolineOptions/toString.html">/sdk-for-flutter-explore-routing-isolineoptions-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -208,7 +207,7 @@ Mutually exclusive with /sdk-for-flutter-explore-routing-isolineoptions-caroptio
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-routing-isolineoptions-operator-equals(<wbr/>Object other)
+<a href="../routing/IsolineOptions/operator_equals.html">/sdk-for-flutter-explore-routing-isolineoptions-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -226,8 +225,8 @@ Mutually exclusive with /sdk-for-flutter-explore-routing-isolineoptions-caroptio
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">IsolineOptions class</li>
 </ol>
 <h5>routing library</h5>
@@ -244,5 +243,4 @@ Mutually exclusive with /sdk-for-flutter-explore-routing-isolineoptions-caroptio
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

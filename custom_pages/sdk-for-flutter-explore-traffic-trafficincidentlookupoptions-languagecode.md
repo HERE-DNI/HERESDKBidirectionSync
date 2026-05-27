@@ -1,10 +1,9 @@
 ---
-title: "languageCode property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-languagecode"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- languageCode.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-languagecode
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficIncidentLookupOptions-class.html">/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-class</a></li>
 <li class="self-crumb">languageCode property</li>
 </ol>
 <div class="self-name">languageCode</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>languageCode property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-languagecode?
+<a href="../../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>?
         languageCode
 <div class="features">getter/setter pair</div>
 </section>
@@ -58,9 +57,9 @@ If the language code is null or not supported then response fields are expected 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficIncidentLookupOptions-class.html">/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-class</a></li>
 <li class="self-crumb">languageCode property</li>
 </ol>
 <h5>TrafficIncidentLookupOptions class</h5>
@@ -77,5 +76,4 @@ If the language code is null or not supported then response fields are expected 
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

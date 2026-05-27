@@ -1,10 +1,9 @@
 ---
-title: "OpeningHours constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-openinghours-openinghours"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- OpeningHours.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-openinghours-openinghours"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-openinghours-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/OpeningHours-class.html">/sdk-for-flutter-explore-search-openinghours-class</a></li>
 <li class="self-crumb">OpeningHours constructor</li>
 </ol>
 <div class="self-name">OpeningHours</div>
@@ -40,8 +39,8 @@ menu
 <section class="multi-line-signature">
 OpeningHours(<wbr/><ol class="parameter-list"> <li>List&lt;<wbr/>String&gt; text, </li>
 <li>bool isOpen, </li>
-<li>List&lt;<wbr/>/sdk-for-flutter-explore-search-scheduledetails-class&gt; scheduleDetailsList, </li>
-<li>List&lt;<wbr/>/sdk-for-flutter-explore-search-placecategory-class&gt; categories, </li>
+<li>List&lt;<wbr/><a href="../../search/ScheduleDetails-class.html">/sdk-for-flutter-explore-search-scheduledetails-class</a>&gt; scheduleDetailsList, </li>
+<li>List&lt;<wbr/><a href="../../search/PlaceCategory-class.html">/sdk-for-flutter-explore-search-placecategory-class</a>&gt; categories, </li>
 </ol>)
     </section>
 <section class="desc markdown">
@@ -68,9 +67,9 @@ This data is not available in offline search.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-openinghours-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/OpeningHours-class.html">/sdk-for-flutter-explore-search-openinghours-class</a></li>
 <li class="self-crumb">OpeningHours constructor</li>
 </ol>
 <h5>OpeningHours class</h5>
@@ -87,5 +86,4 @@ This data is not available in offline search.</li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

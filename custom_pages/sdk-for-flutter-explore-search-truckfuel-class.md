@@ -1,10 +1,9 @@
 ---
-title: "TruckFuel class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-truckfuel-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TruckFuel-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-search-truckfuel-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">TruckFuel class</li>
 </ol>
 <div class="self-name">TruckFuel</div>
@@ -59,7 +58,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TruckFuel">
-/sdk-for-flutter-explore-search-truckfuel-truckfuel(/sdk-for-flutter-explore-transport-truckfueltype type)
+<a href="../search/TruckFuel/TruckFuel.html">/sdk-for-flutter-explore-search-truckfuel-truckfuel</a>(<a href="../transport/TruckFuelType.html">/sdk-for-flutter-explore-transport-truckfueltype</a> type)
 </dt>
 <dd>
 </dd>
@@ -69,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-truckfuel-hashcode
+<a href="../search/TruckFuel/hashCode.html">/sdk-for-flutter-explore-search-truckfuel-hashcode</a>
 → int
 </dt>
 <dd>
@@ -77,15 +76,15 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="maximumTruckClass">
-/sdk-for-flutter-explore-search-truckfuel-maximumtruckclass
-↔ /sdk-for-flutter-explore-transport-truckclass?
+<a href="../search/TruckFuel/maximumTruckClass.html">/sdk-for-flutter-explore-search-truckfuel-maximumtruckclass</a>
+↔ <a href="../transport/TruckClass.html">/sdk-for-flutter-explore-transport-truckclass</a>?
 </dt>
 <dd>
   The maximum truck class that this fuel type supports. <code>null</code> means information is unknown.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-truckfuel-runtimetype
+<a href="../search/TruckFuel/runtimeType.html">/sdk-for-flutter-explore-search-truckfuel-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -93,8 +92,8 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="type">
-/sdk-for-flutter-explore-search-truckfuel-type
-↔ /sdk-for-flutter-explore-transport-truckfueltype
+<a href="../search/TruckFuel/type.html">/sdk-for-flutter-explore-search-truckfuel-type</a>
+↔ <a href="../transport/TruckFuelType.html">/sdk-for-flutter-explore-transport-truckfueltype</a>
 </dt>
 <dd>
   The type of the fuel.
@@ -106,7 +105,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-truckfuel-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/TruckFuel/noSuchMethod.html">/sdk-for-flutter-explore-search-truckfuel-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -115,7 +114,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-truckfuel-tostring(<wbr/>)
+<a href="../search/TruckFuel/toString.html">/sdk-for-flutter-explore-search-truckfuel-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -129,7 +128,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-truckfuel-operator-equals(<wbr/>Object other)
+<a href="../search/TruckFuel/operator_equals.html">/sdk-for-flutter-explore-search-truckfuel-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -148,8 +147,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">TruckFuel class</li>
 </ol>
 <h5>search library</h5>
@@ -166,5 +165,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

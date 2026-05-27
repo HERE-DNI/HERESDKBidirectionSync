@@ -1,10 +1,9 @@
 ---
-title: "runtimeType property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-animation-easinginstantiationexception-runtimetype"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- runtimeType.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-animation-easinginstantiationexception-runtimetyp
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-animation-easinginstantiationexception-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../../animation/EasingInstantiationException-class.html">/sdk-for-flutter-explore-animation-easinginstantiationexception-class</a></li>
 <li class="self-crumb">runtimeType property</li>
 </ol>
 <div class="self-name">runtimeType</div>
@@ -59,9 +58,9 @@ runtimeType
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
-<li>/sdk-for-flutter-explore-animation-easinginstantiationexception-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
+<li><a href="../../animation/EasingInstantiationException-class.html">/sdk-for-flutter-explore-animation-easinginstantiationexception-class</a></li>
 <li class="self-crumb">runtimeType property</li>
 </ol>
 <h5>EasingInstantiationException class</h5>
@@ -78,5 +77,4 @@ runtimeType
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

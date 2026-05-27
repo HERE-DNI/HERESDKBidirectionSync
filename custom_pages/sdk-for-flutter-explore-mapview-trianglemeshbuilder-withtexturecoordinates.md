@@ -1,10 +1,9 @@
 ---
-title: "withTextureCoordinates abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-trianglemeshbuilder-withtexturecoordinates"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withTextureCoordinates.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-trianglemeshbuilder-withtexturecoordinate
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-trianglemeshbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/TriangleMeshBuilder-class.html">/sdk-for-flutter-explore-mapview-trianglemeshbuilder-class</a></li>
 <li class="self-crumb">withTextureCoordinates abstract method</li>
 </ol>
 <div class="self-name">withTextureCoordinates</div>
@@ -38,10 +37,10 @@ menu
 <div>
 <h1>withTextureCoordinates abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-meshbuilder-class
-withTextureCoordinates(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-anchor2d-class a, </li>
-<li>/sdk-for-flutter-explore-core-anchor2d-class b, </li>
-<li>/sdk-for-flutter-explore-core-anchor2d-class c</li>
+<a href="../../mapview/MeshBuilder-class.html">/sdk-for-flutter-explore-mapview-meshbuilder-class</a>
+withTextureCoordinates(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a> a, </li>
+<li><a href="../../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a> b, </li>
+<li><a href="../../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a> c</li>
 </ol>)
 
       
@@ -53,16 +52,16 @@ withTextureCoordinates(<wbr/><ol class="parameter-list single-line"> <li>/sdk-fo
 representing the bottom-left and <code>&lt;1,1&gt;</code> upper-right corner.</p>
 <ul>
 <li>
-<p><code>a</code> Texture coordinate for vertex a. See /sdk-for-flutter-explore-mapview-meshbuilder-triangle</p>
+<p><code>a</code> Texture coordinate for vertex a. See <a href="../../mapview/MeshBuilder/triangle.html">/sdk-for-flutter-explore-mapview-meshbuilder-triangle</a></p>
 </li>
 <li>
-<p><code>b</code> Texture coordinate for vertex b. See /sdk-for-flutter-explore-mapview-meshbuilder-triangle</p>
+<p><code>b</code> Texture coordinate for vertex b. See <a href="../../mapview/MeshBuilder/triangle.html">/sdk-for-flutter-explore-mapview-meshbuilder-triangle</a></p>
 </li>
 <li>
-<p><code>c</code> Texture coordinate for vertex c. See /sdk-for-flutter-explore-mapview-meshbuilder-triangle</p>
+<p><code>c</code> Texture coordinate for vertex c. See <a href="../../mapview/MeshBuilder/triangle.html">/sdk-for-flutter-explore-mapview-meshbuilder-triangle</a></p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-meshbuilder-class. A /sdk-for-flutter-explore-mapview-meshbuilder-class instance.</p>
+<p>Returns <a href="../../mapview/MeshBuilder-class.html">/sdk-for-flutter-explore-mapview-meshbuilder-class</a>. A <a href="../../mapview/MeshBuilder-class.html">/sdk-for-flutter-explore-mapview-meshbuilder-class</a> instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -76,9 +75,9 @@ representing the bottom-left and <code>&lt;1,1&gt;</code> upper-right corner.</p
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-trianglemeshbuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/TriangleMeshBuilder-class.html">/sdk-for-flutter-explore-mapview-trianglemeshbuilder-class</a></li>
 <li class="self-crumb">withTextureCoordinates abstract method</li>
 </ol>
 <h5>TriangleMeshBuilder class</h5>
@@ -95,5 +94,4 @@ representing the bottom-left and <code>&lt;1,1&gt;</code> upper-right corner.</p
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

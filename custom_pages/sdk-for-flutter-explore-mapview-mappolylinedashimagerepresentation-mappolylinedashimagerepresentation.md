@@ -1,10 +1,9 @@
 ---
-title: "MapPolylineDashImageRepresentation constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-mappolylinedashimagerepresentation"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapPolylineDashImageRepresentation.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-mappol
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolylineDashImageRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-class</a></li>
 <li class="self-crumb">MapPolylineDashImageRepresentation factory constructor</li>
 </ol>
 <div class="self-name">MapPolylineDashImageRepresentation</div>
@@ -38,21 +37,21 @@ menu
 <div>
 <h1>MapPolylineDashImageRepresentation constructor</h1></div>
 <section class="multi-line-signature">
-MapPolylineDashImageRepresentation(<wbr/><ol class="parameter-list"> <li>/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class dashLength, </li>
-<li>/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class gapLength, </li>
-<li>/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class dashWidth, </li>
-<li>/sdk-for-flutter-explore-mapview-mapimage-class image, </li>
+MapPolylineDashImageRepresentation(<wbr/><ol class="parameter-list"> <li><a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> dashLength, </li>
+<li><a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> gapLength, </li>
+<li><a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> dashWidth, </li>
+<li><a href="../../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a> image, </li>
 </ol>)
     </section>
 <section class="desc markdown">
 <p>Creates a simple dash pattern in which the lengths of a dash and gap can be different.</p>
 <p>Dashes are rendered as image.</p>
 <p>This allows for patterns like <code>'  —  —  —  —'</code> or <code>' ——— ——— ———'</code>.</p>
-<p>For /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class supplied for <code>dashLength</code>, <code>gapLength</code> and <code>dashWidth</code>,
-only /sdk-for-flutter-explore-mapview-mapmeasurekind is supported for /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-measurekind
-and only /sdk-for-flutter-explore-mapview-rendersizeunit is supported for /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizeunit.</p>
+<p>For <a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a> supplied for <code>dashLength</code>, <code>gapLength</code> and <code>dashWidth</code>,
+only <a href="../../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> is supported for <a href="../../mapview/MapMeasureDependentRenderSize/measureKind.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-measurekind</a>
+and only <a href="../../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> is supported for <a href="../../mapview/MapMeasureDependentRenderSize/sizeUnit.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizeunit</a>.</p>
 <p>Only map measure values in range [3-19] are supported.</p>
-<p>The value of the keys in /sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizes is truncated to integer values,
+<p>The value of the keys in <a href="../../mapview/MapMeasureDependentRenderSize/sizes.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-sizes</a> is truncated to integer values,
 hence only a single value can be provided per zoom level.</p>
 <p>The values are interpolated linearly between zoom levels.</p>
 <ul>
@@ -69,7 +68,7 @@ hence only a single value can be provided per zoom level.</p>
 <p><code>image</code> Image to be rendered in place of dash space. It is stretched to match <code>dashWidth</code> and <code>dashLength</code>.</p>
 </li>
 </ul>
-<p>Throws /sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-class. In case of invalid input parameters.</p>
+<p>Throws <a href="../../mapview/MapPolylineRepresentationInstantiationException-class.html">/sdk-for-flutter-explore-mapview-mappolylinerepresentationinstantiationexception-class</a>. In case of invalid input parameters.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -83,9 +82,9 @@ hence only a single value can be provided per zoom level.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolylineDashImageRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinedashimagerepresentation-class</a></li>
 <li class="self-crumb">MapPolylineDashImageRepresentation factory constructor</li>
 </ol>
 <h5>MapPolylineDashImageRepresentation class</h5>
@@ -102,5 +101,4 @@ hence only a single value can be provided per zoom level.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

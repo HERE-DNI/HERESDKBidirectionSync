@@ -1,10 +1,9 @@
 ---
-title: "coordinatesAtOffsetInMeters method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-geopolyline-coordinatesatoffsetinmeters"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- coordinatesAtOffsetInMeters.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-geopolyline-coordinatesatoffsetinmeters"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geopolyline-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a></li>
 <li class="self-crumb">coordinatesAtOffsetInMeters method</li>
 </ol>
 <div class="self-name">coordinatesAtOffsetInMeters</div>
@@ -38,9 +37,9 @@ menu
 <div>
 <h1>coordinatesAtOffsetInMeters method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-geocoordinates-class
+<a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 coordinatesAtOffsetInMeters(<wbr/><ol class="parameter-list single-line"> <li>double offsetInMeters, </li>
-<li>/sdk-for-flutter-explore-core-geopolylinedirection direction</li>
+<li><a href="../../core/GeoPolylineDirection.html">/sdk-for-flutter-explore-core-geopolylinedirection</a> direction</li>
 </ol>)
 
       
@@ -57,10 +56,10 @@ i.e. the first vertex in positive direction and the last vertex in the negative 
 Similarly, when the offset is larger than the length of the polyline, then the function
 returns the opposite end point of the polyline.</p>
 <p>The distance between two consecutive vertices is calculated using the
-/sdk-for-flutter-explore-core-geocoordinates-distanceto function. Therefore, it computes the distance (in meters) along
+<a href="../../core/GeoCoordinates/distanceTo.html">/sdk-for-flutter-explore-core-geocoordinates-distanceto</a> function. Therefore, it computes the distance (in meters) along
 the great circle between the two vertices. Similarly, the full length of the polyline is the
 sum of the distances between its vertices. The interpolation coordinates between two vertices
-is calculated using the /sdk-for-flutter-explore-core-geocoordinates-interpolate function.</p>
+is calculated using the <a href="../../core/GeoCoordinates/interpolate.html">/sdk-for-flutter-explore-core-geocoordinates-interpolate</a> function.</p>
 <p>Note: the result may different from the analogue result from other matching components since
 they may adapt the result to the length of the underlying object described by the polyline.</p>
 <ul>
@@ -71,7 +70,7 @@ they may adapt the result to the length of the underlying object described by th
 <p><code>direction</code> The direction in which the polyline is traversed.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-geocoordinates-class. The coordinates of the point at the given distance</p>
+<p>Returns <a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>. The coordinates of the point at the given distance</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -85,9 +84,9 @@ they may adapt the result to the length of the underlying object described by th
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geopolyline-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoPolyline-class.html">/sdk-for-flutter-explore-core-geopolyline-class</a></li>
 <li class="self-crumb">coordinatesAtOffsetInMeters method</li>
 </ol>
 <h5>GeoPolyline class</h5>
@@ -104,5 +103,4 @@ they may adapt the result to the length of the underlying object described by th
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

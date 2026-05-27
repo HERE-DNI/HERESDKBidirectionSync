@@ -1,10 +1,9 @@
 ---
-title: "PassThroughWaypoint constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-passthroughwaypoint-passthroughwaypoint"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PassThroughWaypoint.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-passthroughwaypoint-passthroughwaypoint"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-passthroughwaypoint-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/PassThroughWaypoint-class.html">/sdk-for-flutter-explore-routing-passthroughwaypoint-class</a></li>
 <li class="self-crumb">PassThroughWaypoint constructor</li>
 </ol>
 <div class="self-name">PassThroughWaypoint</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>PassThroughWaypoint constructor</h1></div>
 <section class="multi-line-signature">
-PassThroughWaypoint(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-routing-routeplace-class place</li>
+PassThroughWaypoint(<wbr/><ol class="parameter-list single-line"> <li><a href="../../routing/RoutePlace-class.html">/sdk-for-flutter-explore-routing-routeplace-class</a> place</li>
 </ol>)
     </section>
 <section class="summary source-code" id="source">
@@ -54,9 +53,9 @@ PassThroughWaypoint(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-f
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-passthroughwaypoint-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/PassThroughWaypoint-class.html">/sdk-for-flutter-explore-routing-passthroughwaypoint-class</a></li>
 <li class="self-crumb">PassThroughWaypoint constructor</li>
 </ol>
 <h5>PassThroughWaypoint class</h5>
@@ -73,5 +72,4 @@ PassThroughWaypoint(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-f
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

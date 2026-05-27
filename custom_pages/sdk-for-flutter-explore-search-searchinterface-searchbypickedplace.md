@@ -1,10 +1,9 @@
 ---
-title: "searchByPickedPlace abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-searchinterface-searchbypickedplace"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- searchByPickedPlace.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-searchinterface-searchbypickedplace"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-searchinterface-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/SearchInterface-class.html">/sdk-for-flutter-explore-search-searchinterface-class</a></li>
 <li class="self-crumb">searchByPickedPlace abstract method</li>
 </ol>
 <div class="self-name">searchByPickedPlace</div>
@@ -38,20 +37,20 @@ menu
 <div>
 <h1>searchByPickedPlace abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-threading-taskhandle-class
-searchByPickedPlace(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-pickedplace-class pickedPlace, </li>
-<li>/sdk-for-flutter-explore-core-languagecode? languageCode, </li>
-<li>/sdk-for-flutter-explore-search-placeidsearchcallback callback</li>
+<a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
+searchByPickedPlace(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/PickedPlace-class.html">/sdk-for-flutter-explore-core-pickedplace-class</a> pickedPlace, </li>
+<li><a href="../../core/LanguageCode.html">/sdk-for-flutter-explore-core-languagecode</a>? languageCode, </li>
+<li><a href="../../search/PlaceIdSearchCallback.html">/sdk-for-flutter-explore-search-placeidsearchcallback</a> callback</li>
 </ol>)
 
       
 
     </section>
 <section class="desc markdown">
-<p>Performs an asynchronous search for a /sdk-for-flutter-explore-search-place-class based on the content found in /sdk-for-flutter-explore-core-pickedplace-class.</p>
-<p>If /sdk-for-flutter-explore-core-pickedplace-class data is obtained from the offline map, it may happen that the newer version
+<p>Performs an asynchronous search for a <a href="../../search/Place-class.html">/sdk-for-flutter-explore-search-place-class</a> based on the content found in <a href="../../core/PickedPlace-class.html">/sdk-for-flutter-explore-core-pickedplace-class</a>.</p>
+<p>If <a href="../../core/PickedPlace-class.html">/sdk-for-flutter-explore-core-pickedplace-class</a> data is obtained from the offline map, it may happen that the newer version
 that is used by the online service represented by <code>SearchEngine</code> no longer contains the
-related POI. In that case, /sdk-for-flutter-explore-search-searcherror error is reported.
+related POI. In that case, <a href="../../search/SearchError.html">/sdk-for-flutter-explore-search-searcherror</a> error is reported.
 When that happens, you may try to obtain the POI from the offline map by calling
 <code>OfflineSearchEngine.searchByPickedPlace</code>, only available for the Navigate license.</p>
 <ul>
@@ -66,7 +65,7 @@ result will be returned in the local language.</p>
 <p><code>callback</code> Callback which receives the result on the main thread.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-threading-taskhandle-class. Handle that will be used to manipulate the execution of the task.</p>
+<p>Returns <a href="../../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>. Handle that will be used to manipulate the execution of the task.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -80,9 +79,9 @@ result will be returned in the local language.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-searchinterface-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/SearchInterface-class.html">/sdk-for-flutter-explore-search-searchinterface-class</a></li>
 <li class="self-crumb">searchByPickedPlace abstract method</li>
 </ol>
 <h5>SearchInterface class</h5>
@@ -99,5 +98,4 @@ result will be returned in the local language.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

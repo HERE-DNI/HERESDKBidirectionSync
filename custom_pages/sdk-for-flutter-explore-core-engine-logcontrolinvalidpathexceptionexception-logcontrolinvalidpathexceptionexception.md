@@ -1,10 +1,9 @@
 ---
-title: "LogControlInvalidPathExceptionException constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-logcontrolinvalidpathexceptionexception"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- LogControlInvalidPathExceptionException.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexcepti
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/LogControlInvalidPathExceptionException-class.html">/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-class</a></li>
 <li class="self-crumb">LogControlInvalidPathExceptionException constructor</li>
 </ol>
 <div class="self-name">LogControlInvalidPathExceptionException</div>
@@ -53,9 +52,9 @@ LogControlInvalidPathExceptionException(<wbr/><ol class="parameter-list single-l
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/LogControlInvalidPathExceptionException-class.html">/sdk-for-flutter-explore-core-engine-logcontrolinvalidpathexceptionexception-class</a></li>
 <li class="self-crumb">LogControlInvalidPathExceptionException constructor</li>
 </ol>
 <h5>LogControlInvalidPathExceptionException class</h5>
@@ -72,5 +71,4 @@ LogControlInvalidPathExceptionException(<wbr/><ol class="parameter-list single-l
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

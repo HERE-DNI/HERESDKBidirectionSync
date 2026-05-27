@@ -1,10 +1,9 @@
 ---
-title: "Point3D class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-point3d-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Point3D-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +28,8 @@ slug: "sdk-for-flutter-explore-core-point3d-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">Point3D class</li>
 </ol>
 <div class="self-name">Point3D</div>
@@ -60,13 +59,13 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Point3D">
-/sdk-for-flutter-explore-core-point3d-point3d(double x, double y, double z)
+<a href="../core/Point3D/Point3D.html">/sdk-for-flutter-explore-core-point3d-point3d</a>(double x, double y, double z)
 </dt>
 <dd>
           Constructs Point3D instance from the provided x,y and z values.
         </dd>
 <dt class="callable" id="Point3D.zero">
-/sdk-for-flutter-explore-core-point3d-point3d-zero()
+<a href="../core/Point3D/Point3D.zero.html">/sdk-for-flutter-explore-core-point3d-point3d-zero</a>()
 </dt>
 <dd>
           Constructs Point3D instance at coordinate system's origin.
@@ -77,7 +76,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-core-point3d-hashcode
+<a href="../core/Point3D/hashCode.html">/sdk-for-flutter-explore-core-point3d-hashcode</a>
 → int
 </dt>
 <dd>
@@ -85,7 +84,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-point3d-runtimetype
+<a href="../core/Point3D/runtimeType.html">/sdk-for-flutter-explore-core-point3d-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -93,7 +92,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="x">
-/sdk-for-flutter-explore-core-point3d-x
+<a href="../core/Point3D/x.html">/sdk-for-flutter-explore-core-point3d-x</a>
 ↔ double
 </dt>
 <dd>
@@ -101,7 +100,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="y">
-/sdk-for-flutter-explore-core-point3d-y
+<a href="../core/Point3D/y.html">/sdk-for-flutter-explore-core-point3d-y</a>
 ↔ double
 </dt>
 <dd>
@@ -109,7 +108,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="z">
-/sdk-for-flutter-explore-core-point3d-z
+<a href="../core/Point3D/z.html">/sdk-for-flutter-explore-core-point3d-z</a>
 ↔ double
 </dt>
 <dd>
@@ -122,7 +121,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-point3d-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/Point3D/noSuchMethod.html">/sdk-for-flutter-explore-core-point3d-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -131,7 +130,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-point3d-tostring(<wbr/>)
+<a href="../core/Point3D/toString.html">/sdk-for-flutter-explore-core-point3d-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -145,7 +144,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-core-point3d-operator-equals(<wbr/>Object other)
+<a href="../core/Point3D/operator_equals.html">/sdk-for-flutter-explore-core-point3d-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -164,8 +163,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">Point3D class</li>
 </ol>
 <h5>core library</h5>
@@ -182,5 +181,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "TwoFingerTapListener constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-gestures-twofingertaplistener-twofingertaplistener"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TwoFingerTapListener.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-gestures-twofingertaplistener-twofingertaplistene
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-twofingertaplistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/TwoFingerTapListener-class.html">/sdk-for-flutter-explore-gestures-twofingertaplistener-class</a></li>
 <li class="self-crumb">TwoFingerTapListener factory constructor</li>
 </ol>
 <div class="self-name">TwoFingerTapListener</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>TwoFingerTapListener constructor</h1></div>
 <section class="multi-line-signature">
-TwoFingerTapListener(<wbr/><ol class="parameter-list single-line"> <li>void onTwoFingerTapLambda(<ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-point2d-class</li>
+TwoFingerTapListener(<wbr/><ol class="parameter-list single-line"> <li>void onTwoFingerTapLambda(<ol class="parameter-list single-line"> <li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a></li>
 </ol>)</li>
 </ol>)
     </section>
@@ -64,9 +63,9 @@ TwoFingerTapListener(<wbr/><ol class="parameter-list single-line"> <li>void onTw
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-gestures-gestures-library</li>
-<li>/sdk-for-flutter-explore-gestures-twofingertaplistener-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../gestures/gestures-library.html">/sdk-for-flutter-explore-gestures-gestures-library</a></li>
+<li><a href="../../gestures/TwoFingerTapListener-class.html">/sdk-for-flutter-explore-gestures-twofingertaplistener-class</a></li>
 <li class="self-crumb">TwoFingerTapListener factory constructor</li>
 </ol>
 <h5>TwoFingerTapListener class</h5>
@@ -83,5 +82,4 @@ TwoFingerTapListener(<wbr/><ol class="parameter-list single-line"> <li>void onTw
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

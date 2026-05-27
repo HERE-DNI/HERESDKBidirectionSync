@@ -1,10 +1,9 @@
 ---
-title: "MapMeasure constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapmeasure-mapmeasure"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapMeasure.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapmeasure-mapmeasure"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmeasure-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a></li>
 <li class="self-crumb">MapMeasure factory constructor</li>
 </ol>
 <div class="self-name">MapMeasure</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>MapMeasure constructor</h1></div>
 <section class="multi-line-signature">
-MapMeasure(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-mapview-mapmeasurekind kind, </li>
+MapMeasure(<wbr/><ol class="parameter-list single-line"> <li><a href="../../mapview/MapMeasureKind.html">/sdk-for-flutter-explore-mapview-mapmeasurekind</a> kind, </li>
 <li>double value</li>
 </ol>)
     </section>
@@ -65,9 +64,9 @@ MapMeasure(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-ex
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapmeasure-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapMeasure-class.html">/sdk-for-flutter-explore-mapview-mapmeasure-class</a></li>
 <li class="self-crumb">MapMeasure factory constructor</li>
 </ol>
 <h5>MapMeasure class</h5>
@@ -84,5 +83,4 @@ MapMeasure(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-ex
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

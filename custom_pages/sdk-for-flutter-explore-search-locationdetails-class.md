@@ -1,10 +1,9 @@
 ---
-title: "LocationDetails class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-search-locationdetails-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- LocationDetails-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -29,8 +28,8 @@ slug: "sdk-for-flutter-explore-search-locationdetails-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">LocationDetails class</li>
 </ol>
 <div class="self-name">LocationDetails</div>
@@ -60,7 +59,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="LocationDetails">
-/sdk-for-flutter-explore-search-locationdetails-locationdetails(/sdk-for-flutter-explore-core-geocoordinates-class coordinates)
+<a href="../search/LocationDetails/LocationDetails.html">/sdk-for-flutter-explore-search-locationdetails-locationdetails</a>(<a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates)
 </dt>
 <dd>
           Creates a new instance.
@@ -71,31 +70,31 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="accessPoints">
-/sdk-for-flutter-explore-search-locationdetails-accesspoints
-↔ List&lt;<wbr/>/sdk-for-flutter-explore-core-geocoordinates-class&gt;
+<a href="../search/LocationDetails/accessPoints.html">/sdk-for-flutter-explore-search-locationdetails-accesspoints</a>
+↔ List&lt;<wbr/><a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>&gt;
 </dt>
 <dd>
   The access points to the place, such as the points on a road or in a parking lot.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="boundingBox">
-/sdk-for-flutter-explore-search-locationdetails-boundingbox
-↔ /sdk-for-flutter-explore-core-geobox-class?
+<a href="../search/LocationDetails/boundingBox.html">/sdk-for-flutter-explore-search-locationdetails-boundingbox</a>
+↔ <a href="../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>?
 </dt>
 <dd>
   The geographic coordinates of the map bounding box containing the place.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="coordinates">
-/sdk-for-flutter-explore-search-locationdetails-coordinates
-↔ /sdk-for-flutter-explore-core-geocoordinates-class
+<a href="../search/LocationDetails/coordinates.html">/sdk-for-flutter-explore-search-locationdetails-coordinates</a>
+↔ <a href="../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a>
 </dt>
 <dd>
   The geographic coordinates of the place.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="coordinatesInterpolated">
-/sdk-for-flutter-explore-search-locationdetails-coordinatesinterpolated
+<a href="../search/LocationDetails/coordinatesInterpolated.html">/sdk-for-flutter-explore-search-locationdetails-coordinatesinterpolated</a>
 ↔ bool
 </dt>
 <dd>
@@ -103,7 +102,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-search-locationdetails-hashcode
+<a href="../search/LocationDetails/hashCode.html">/sdk-for-flutter-explore-search-locationdetails-hashcode</a>
 → int
 </dt>
 <dd>
@@ -111,7 +110,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-search-locationdetails-runtimetype
+<a href="../search/LocationDetails/runtimeType.html">/sdk-for-flutter-explore-search-locationdetails-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -124,7 +123,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-search-locationdetails-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../search/LocationDetails/noSuchMethod.html">/sdk-for-flutter-explore-search-locationdetails-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -133,7 +132,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-search-locationdetails-tostring(<wbr/>)
+<a href="../search/LocationDetails/toString.html">/sdk-for-flutter-explore-search-locationdetails-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -147,7 +146,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-search-locationdetails-operator-equals(<wbr/>Object other)
+<a href="../search/LocationDetails/operator_equals.html">/sdk-for-flutter-explore-search-locationdetails-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -166,8 +165,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
 <li class="self-crumb">LocationDetails class</li>
 </ol>
 <h5>search library</h5>
@@ -184,5 +183,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

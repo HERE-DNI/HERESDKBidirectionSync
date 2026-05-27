@@ -1,10 +1,9 @@
 ---
-title: "maxSpeedOnSegments property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-evtruckoptions-maxspeedonsegments"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- maxSpeedOnSegments.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-evtruckoptions-maxspeedonsegments"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-evtruckoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/EVTruckOptions-class.html">/sdk-for-flutter-explore-routing-evtruckoptions-class</a></li>
 <li class="self-crumb">maxSpeedOnSegments property</li>
 </ol>
 <div class="self-name">maxSpeedOnSegments</div>
@@ -39,12 +38,12 @@ menu
 <h1>maxSpeedOnSegments property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-routing-maxspeedonsegment-class&gt;
+        List&lt;<wbr/><a href="../../routing/MaxSpeedOnSegment-class.html">/sdk-for-flutter-explore-routing-maxspeedonsegment-class</a>&gt;
 maxSpeedOnSegments
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
-<p>Segments with restriction on maximum /sdk-for-flutter-explore-routing-dynamicspeedinfo-basespeedinmeterspersecond.</p>
+<p>Segments with restriction on maximum <a href="../../routing/DynamicSpeedInfo/baseSpeedInMetersPerSecond.html">/sdk-for-flutter-explore-routing-dynamicspeedinfo-basespeedinmeterspersecond</a>.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -58,9 +57,9 @@ maxSpeedOnSegments
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-evtruckoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/EVTruckOptions-class.html">/sdk-for-flutter-explore-routing-evtruckoptions-class</a></li>
 <li class="self-crumb">maxSpeedOnSegments property</li>
 </ol>
 <h5>EVTruckOptions class</h5>
@@ -77,5 +76,4 @@ maxSpeedOnSegments
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

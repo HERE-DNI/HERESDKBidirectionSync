@@ -1,10 +1,9 @@
 ---
-title: "NetworkEndpoint class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-networkendpoint-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- NetworkEndpoint-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-core-networkendpoint-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">NetworkEndpoint class</li>
 </ol>
 <div class="self-name">NetworkEndpoint</div>
@@ -59,13 +58,13 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="NetworkEndpoint">
-/sdk-for-flutter-explore-core-networkendpoint-networkendpoint(InternetAddress address)
+<a href="../core/NetworkEndpoint/NetworkEndpoint.html">/sdk-for-flutter-explore-core-networkendpoint-networkendpoint</a>(InternetAddress address)
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="NetworkEndpoint.withPort">
-/sdk-for-flutter-explore-core-networkendpoint-networkendpoint-withport(InternetAddress address, int? port)
+<a href="../core/NetworkEndpoint/NetworkEndpoint.withPort.html">/sdk-for-flutter-explore-core-networkendpoint-networkendpoint-withport</a>(InternetAddress address, int? port)
 </dt>
 <dd>
           Creates a new instance.
@@ -76,7 +75,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="address">
-/sdk-for-flutter-explore-core-networkendpoint-address
+<a href="../core/NetworkEndpoint/address.html">/sdk-for-flutter-explore-core-networkendpoint-address</a>
 ↔ InternetAddress
 </dt>
 <dd>
@@ -84,7 +83,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-core-networkendpoint-hashcode
+<a href="../core/NetworkEndpoint/hashCode.html">/sdk-for-flutter-explore-core-networkendpoint-hashcode</a>
 → int
 </dt>
 <dd>
@@ -92,7 +91,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="port">
-/sdk-for-flutter-explore-core-networkendpoint-port
+<a href="../core/NetworkEndpoint/port.html">/sdk-for-flutter-explore-core-networkendpoint-port</a>
 ↔ int?
 </dt>
 <dd>
@@ -100,7 +99,7 @@ menu
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-networkendpoint-runtimetype
+<a href="../core/NetworkEndpoint/runtimeType.html">/sdk-for-flutter-explore-core-networkendpoint-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -113,7 +112,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-networkendpoint-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/NetworkEndpoint/noSuchMethod.html">/sdk-for-flutter-explore-core-networkendpoint-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -122,7 +121,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-networkendpoint-tostring(<wbr/>)
+<a href="../core/NetworkEndpoint/toString.html">/sdk-for-flutter-explore-core-networkendpoint-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -136,7 +135,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-core-networkendpoint-operator-equals(<wbr/>Object other)
+<a href="../core/NetworkEndpoint/operator_equals.html">/sdk-for-flutter-explore-core-networkendpoint-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -155,8 +154,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">NetworkEndpoint class</li>
 </ol>
 <h5>core library</h5>
@@ -173,5 +172,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

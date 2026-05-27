@@ -1,10 +1,9 @@
 ---
-title: "AvoidBoundingBoxAreaOptions constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-avoidboundingboxareaoptions"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- AvoidBoundingBoxAreaOptions.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-avoidbounding
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/AvoidBoundingBoxAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class</a></li>
 <li class="self-crumb">AvoidBoundingBoxAreaOptions constructor</li>
 </ol>
 <div class="self-name">AvoidBoundingBoxAreaOptions</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>AvoidBoundingBoxAreaOptions constructor</h1></div>
 <section class="multi-line-signature">
-AvoidBoundingBoxAreaOptions(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geobox-class avoidBoundingBoxArea</li>
+AvoidBoundingBoxAreaOptions(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a> avoidBoundingBoxArea</li>
 </ol>)
     </section>
 <section class="summary source-code" id="source">
@@ -54,9 +53,9 @@ AvoidBoundingBoxAreaOptions(<wbr/><ol class="parameter-list single-line"> <li>/s
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/AvoidBoundingBoxAreaOptions-class.html">/sdk-for-flutter-explore-routing-avoidboundingboxareaoptions-class</a></li>
 <li class="self-crumb">AvoidBoundingBoxAreaOptions constructor</li>
 </ol>
 <h5>AvoidBoundingBoxAreaOptions class</h5>
@@ -73,5 +72,4 @@ AvoidBoundingBoxAreaOptions(<wbr/><ol class="parameter-list single-line"> <li>/s
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

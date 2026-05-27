@@ -1,10 +1,9 @@
 ---
-title: "MapLayerVisibilityRange class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-maplayervisibilityrange-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapLayerVisibilityRange-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-mapview-maplayervisibilityrange-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapLayerVisibilityRange class</li>
 </ol>
 <div class="self-name">MapLayerVisibilityRange</div>
@@ -69,7 +68,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapLayerVisibilityRange">
-/sdk-for-flutter-explore-mapview-maplayervisibilityrange-maplayervisibilityrange(double minimumZoomLevel, double maximumZoomLevel)
+<a href="../mapview/MapLayerVisibilityRange/MapLayerVisibilityRange.html">/sdk-for-flutter-explore-mapview-maplayervisibilityrange-maplayervisibilityrange</a>(double minimumZoomLevel, double maximumZoomLevel)
 </dt>
 <dd>
           Creates a new instance.
@@ -81,7 +80,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-mapview-maplayervisibilityrange-hashcode
+<a href="../mapview/MapLayerVisibilityRange/hashCode.html">/sdk-for-flutter-explore-mapview-maplayervisibilityrange-hashcode</a>
 → int
 </dt>
 <dd>
@@ -89,7 +88,7 @@ menu
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="maximumZoomLevel">
-/sdk-for-flutter-explore-mapview-maplayervisibilityrange-maximumzoomlevel
+<a href="../mapview/MapLayerVisibilityRange/maximumZoomLevel.html">/sdk-for-flutter-explore-mapview-maplayervisibilityrange-maximumzoomlevel</a>
 → double
 </dt>
 <dd>
@@ -98,7 +97,7 @@ Note that the map layer is not visible at the maximum zoom level.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="minimumZoomLevel">
-/sdk-for-flutter-explore-mapview-maplayervisibilityrange-minimumzoomlevel
+<a href="../mapview/MapLayerVisibilityRange/minimumZoomLevel.html">/sdk-for-flutter-explore-mapview-maplayervisibilityrange-minimumzoomlevel</a>
 → double
 </dt>
 <dd>
@@ -106,7 +105,7 @@ Note that the map layer is not visible at the maximum zoom level.
   <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-maplayervisibilityrange-runtimetype
+<a href="../mapview/MapLayerVisibilityRange/runtimeType.html">/sdk-for-flutter-explore-mapview-maplayervisibilityrange-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -119,7 +118,7 @@ Note that the map layer is not visible at the maximum zoom level.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-maplayervisibilityrange-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapLayerVisibilityRange/noSuchMethod.html">/sdk-for-flutter-explore-mapview-maplayervisibilityrange-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -128,7 +127,7 @@ Note that the map layer is not visible at the maximum zoom level.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-maplayervisibilityrange-tostring(<wbr/>)
+<a href="../mapview/MapLayerVisibilityRange/toString.html">/sdk-for-flutter-explore-mapview-maplayervisibilityrange-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -142,7 +141,7 @@ Note that the map layer is not visible at the maximum zoom level.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-mapview-maplayervisibilityrange-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapLayerVisibilityRange/operator_equals.html">/sdk-for-flutter-explore-mapview-maplayervisibilityrange-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -161,8 +160,8 @@ Note that the map layer is not visible at the maximum zoom level.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapLayerVisibilityRange class</li>
 </ol>
 <h5>mapview library</h5>
@@ -179,5 +178,4 @@ Note that the map layer is not visible at the maximum zoom level.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "weightPerAxleInKilograms property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-truckspecifications-weightperaxleinkilograms"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- weightPerAxleInKilograms.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-truckspecifications-weightperaxleinkilo
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-truckspecifications-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/TruckSpecifications-class.html">/sdk-for-flutter-explore-transport-truckspecifications-class</a></li>
 <li class="self-crumb">weightPerAxleInKilograms property</li>
 </ol>
 <div class="self-name">weightPerAxleInKilograms</div>
@@ -64,9 +63,9 @@ Otherwise, when offline RoutingEngine is in place, both parameters are evaluated
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-truckspecifications-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/TruckSpecifications-class.html">/sdk-for-flutter-explore-transport-truckspecifications-class</a></li>
 <li class="self-crumb">weightPerAxleInKilograms property</li>
 </ol>
 <h5>TruckSpecifications class</h5>
@@ -83,5 +82,4 @@ Otherwise, when offline RoutingEngine is in place, both parameters are evaluated
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

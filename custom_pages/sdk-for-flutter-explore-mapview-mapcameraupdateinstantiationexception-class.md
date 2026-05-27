@@ -1,10 +1,9 @@
 ---
-title: "MapCameraUpdateInstantiationException class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationexception-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapCameraUpdateInstantiationException-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationexception-cla
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapCameraUpdateInstantiationException class</li>
 </ol>
 <div class="self-name">MapCameraUpdateInstantiationException</div>
@@ -51,13 +50,13 @@ menu
 <div>
 <h1>MapCameraUpdateInstantiationException class</h1></div>
 <section class="desc markdown">
-<p>Thrown when a problem occurs while trying to create a /sdk-for-flutter-explore-mapview-mapcameraupdate-class.</p>
+<p>Thrown when a problem occurs while trying to create a <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapCameraUpdateInstantiationException">
-/sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationexception-mapcameraupdateinstantiationexception(/sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationerrorcode error)
+<a href="../mapview/MapCameraUpdateInstantiationException/MapCameraUpdateInstantiationException.html">/sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationexception-mapcameraupdateinstantiationexception</a>(<a href="../mapview/MapCameraUpdateInstantiationErrorCode.html">/sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationerrorcode</a> error)
 </dt>
 <dd>
 </dd>
@@ -67,14 +66,14 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="error">
-/sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationexception-error
-→ /sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationerrorcode
+<a href="../mapview/MapCameraUpdateInstantiationException/error.html">/sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationexception-error</a>
+→ <a href="../mapview/MapCameraUpdateInstantiationErrorCode.html">/sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationerrorcode</a>
 </dt>
 <dd>
 <div class="features">final</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationexception-hashcode
+<a href="../mapview/MapCameraUpdateInstantiationException/hashCode.html">/sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationexception-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -82,7 +81,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationexception-runtimetype
+<a href="../mapview/MapCameraUpdateInstantiationException/runtimeType.html">/sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationexception-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -95,7 +94,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationexception-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapCameraUpdateInstantiationException/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationexception-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -104,7 +103,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationexception-tostring(<wbr/>)
+<a href="../mapview/MapCameraUpdateInstantiationException/toString.html">/sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationexception-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -118,7 +117,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationexception-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapCameraUpdateInstantiationException/operator_equals.html">/sdk-for-flutter-explore-mapview-mapcameraupdateinstantiationexception-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -136,8 +135,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapCameraUpdateInstantiationException class</li>
 </ol>
 <h5>mapview library</h5>
@@ -154,5 +153,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

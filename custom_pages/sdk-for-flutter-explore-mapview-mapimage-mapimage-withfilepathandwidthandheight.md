@@ -1,10 +1,9 @@
 ---
-title: "MapImage.withFilePathAndWidthAndHeight constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapimage-mapimage-withfilepathandwidthandheight"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapImage.withFilePathAndWidthAndHeight.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapimage-mapimage-withfilepathandwidthand
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapimage-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a></li>
 <li class="self-crumb">MapImage.withFilePathAndWidthAndHeight factory constructor</li>
 </ol>
 <div class="self-name">MapImage.withFilePathAndWidthAndHeight</div>
@@ -53,7 +52,7 @@ specification may result in an image that exhibits unexpected artifacts.</p>
 SDK. If that cannot be ensured, then it is recommended to either copy the file to a location that
 remains accessible for the entire duration of its usage by the SDK or load and pass the file content
 to one of the <code>MapImage</code> constructors that creates instances out of image data
-(/sdk-for-flutter-explore-mapview-mapimage-mapimage-withpixeldataandimageformat, /sdk-for-flutter-explore-mapview-mapimage-mapimage-withimagedataimageformatwidthandheight).}</p>
+(<a href="../../mapview/MapImage/MapImage.withPixelDataAndImageFormat.html">/sdk-for-flutter-explore-mapview-mapimage-mapimage-withpixeldataandimageformat</a>, <a href="../../mapview/MapImage/MapImage.withImageDataImageFormatWidthAndHeight.html">/sdk-for-flutter-explore-mapview-mapimage-mapimage-withimagedataimageformatwidthandheight</a>).}</p>
 <p>Please note that on iOS, file paths that originate, for example from a file picker (like <code>FilePicker</code>)
 can be deleted by the system while the application is still running.</p>
 <ul>
@@ -67,7 +66,7 @@ can be deleted by the system while the application is still running.</p>
 <p><code>height</code> The height of image in pixels.</p>
 </li>
 </ul>
-<p>Throws /sdk-for-flutter-explore-core-errors-instantiationexception-class. Indicates what went wrong when the instantiation was attempted.</p>
+<p>Throws <a href="../../core.errors/InstantiationException-class.html">/sdk-for-flutter-explore-core-errors-instantiationexception-class</a>. Indicates what went wrong when the instantiation was attempted.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -81,9 +80,9 @@ can be deleted by the system while the application is still running.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapimage-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a></li>
 <li class="self-crumb">MapImage.withFilePathAndWidthAndHeight factory constructor</li>
 </ol>
 <h5>MapImage class</h5>
@@ -100,5 +99,4 @@ can be deleted by the system while the application is still running.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "lastCharacterOfLicensePlate property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-evcaroptions-lastcharacteroflicenseplate"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- lastCharacterOfLicensePlate.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-evcaroptions-lastcharacteroflicenseplate"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-evcaroptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/EVCarOptions-class.html">/sdk-for-flutter-explore-routing-evcaroptions-class</a></li>
 <li class="self-crumb">lastCharacterOfLicensePlate property</li>
 </ol>
 <div class="self-name">lastCharacterOfLicensePlate</div>
@@ -66,9 +65,9 @@ routing is performed without considering them.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-evcaroptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/EVCarOptions-class.html">/sdk-for-flutter-explore-routing-evcaroptions-class</a></li>
 <li class="self-crumb">lastCharacterOfLicensePlate property</li>
 </ol>
 <h5>EVCarOptions class</h5>
@@ -85,5 +84,4 @@ routing is performed without considering them.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

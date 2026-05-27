@@ -1,10 +1,9 @@
 ---
-title: "extent property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-anglerange-extent"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- extent.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-anglerange-extent"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-anglerange-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a></li>
 <li class="self-crumb">extent property</li>
 </ol>
 <div class="self-name">extent</div>
@@ -59,9 +58,9 @@ The value is in the range of [0, 360] degrees.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-anglerange-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/AngleRange-class.html">/sdk-for-flutter-explore-core-anglerange-class</a></li>
 <li class="self-crumb">extent property</li>
 </ol>
 <h5>AngleRange class</h5>
@@ -78,5 +77,4 @@ The value is in the range of [0, 360] degrees.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

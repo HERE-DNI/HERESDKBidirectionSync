@@ -1,10 +1,9 @@
 ---
-title: "DataAttributesBuilder class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- DataAttributesBuilder-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -32,8 +31,8 @@ slug: "sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">DataAttributesBuilder class</li>
 </ol>
 <div class="self-name">DataAttributesBuilder</div>
@@ -65,7 +64,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="DataAttributesBuilder">
-/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-dataattributesbuilder()
+<a href="../mapview.datasource/DataAttributesBuilder/DataAttributesBuilder.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-dataattributesbuilder</a>()
 </dt>
 <dd>
           Creates a data attributes builder instance.
@@ -77,7 +76,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-hashcode
+<a href="../mapview.datasource/DataAttributesBuilder/hashCode.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -85,7 +84,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-runtimetype
+<a href="../mapview.datasource/DataAttributesBuilder/runtimeType.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -98,9 +97,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="build">
-/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-build(<wbr/>)
-    → /sdk-for-flutter-explore-mapview-datasource-dataattributes-class
-
+<a href="../mapview.datasource/DataAttributesBuilder/build.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-build</a>(<wbr/>)
+    → <a href="../mapview.datasource/DataAttributes-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributes-class</a>
 </dt>
 <dd>
   Builds instance of DataAttributes.
@@ -108,7 +106,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview.datasource/DataAttributesBuilder/noSuchMethod.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -117,7 +115,7 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-tostring(<wbr/>)
+<a href="../mapview.datasource/DataAttributesBuilder/toString.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -126,9 +124,8 @@ behavior. Related APIs may change for new releases without a deprecation process
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="withBoolean">
-/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-withboolean(<wbr/>String name, bool value)
-    → /sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class
-
+<a href="../mapview.datasource/DataAttributesBuilder/withBoolean.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-withboolean</a>(<wbr/>String name, bool value)
+    → <a href="../mapview.datasource/DataAttributesBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class</a>
 </dt>
 <dd>
   Configures the builder to add the given attribute.
@@ -136,9 +133,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="withDataAttributeValue">
-/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-withdataattributevalue(<wbr/>String name, /sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class value)
-    → /sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class
-
+<a href="../mapview.datasource/DataAttributesBuilder/withDataAttributeValue.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-withdataattributevalue</a>(<wbr/>String name, <a href="../mapview.datasource/DataAttributeValue-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributevalue-class</a> value)
+    → <a href="../mapview.datasource/DataAttributesBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class</a>
 </dt>
 <dd>
   Configures the builder to add the given attribute.
@@ -146,9 +142,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="withDouble">
-/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-withdouble(<wbr/>String name, double value)
-    → /sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class
-
+<a href="../mapview.datasource/DataAttributesBuilder/withDouble.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-withdouble</a>(<wbr/>String name, double value)
+    → <a href="../mapview.datasource/DataAttributesBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class</a>
 </dt>
 <dd>
   Configures the builder to add the given attribute.
@@ -156,9 +151,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="withFloat">
-/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-withfloat(<wbr/>String name, double value)
-    → /sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class
-
+<a href="../mapview.datasource/DataAttributesBuilder/withFloat.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-withfloat</a>(<wbr/>String name, double value)
+    → <a href="../mapview.datasource/DataAttributesBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class</a>
 </dt>
 <dd>
   Configures the builder to add the given attribute.
@@ -166,9 +160,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="withLong">
-/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-withlong(<wbr/>String name, int value)
-    → /sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class
-
+<a href="../mapview.datasource/DataAttributesBuilder/withLong.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-withlong</a>(<wbr/>String name, int value)
+    → <a href="../mapview.datasource/DataAttributesBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class</a>
 </dt>
 <dd>
   Configures the builder to add the given attribute.
@@ -176,9 +169,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 
 </dd>
 <dt class="callable" id="withString">
-/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-withstring(<wbr/>String name, String value)
-    → /sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class
-
+<a href="../mapview.datasource/DataAttributesBuilder/withString.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-withstring</a>(<wbr/>String name, String value)
+    → <a href="../mapview.datasource/DataAttributesBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-class</a>
 </dt>
 <dd>
   Configures the builder to add the given attribute.
@@ -191,7 +183,7 @@ behavior. Related APIs may change for new releases without a deprecation process
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-operator-equals(<wbr/>Object other)
+<a href="../mapview.datasource/DataAttributesBuilder/operator_equals.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesbuilder-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -209,8 +201,8 @@ behavior. Related APIs may change for new releases without a deprecation process
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
 <li class="self-crumb">DataAttributesBuilder class</li>
 </ol>
 <h5>mapview.datasource library</h5>
@@ -227,5 +219,4 @@ behavior. Related APIs may change for new releases without a deprecation process
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

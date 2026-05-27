@@ -1,10 +1,9 @@
 ---
-title: "build abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-maplayerprioritybuilder-build"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- build.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-maplayerprioritybuilder-build"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a></li>
 <li class="self-crumb">build abstract method</li>
 </ol>
 <div class="self-name">build</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>build abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-maplayerpriority-class
+<a href="../../mapview/MapLayerPriority-class.html">/sdk-for-flutter-explore-mapview-maplayerpriority-class</a>
 build(<wbr/>)
 
       
@@ -48,7 +47,7 @@ build(<wbr/>)
 <p>Constructs a MapLayerPriority.</p>
 <p>The builder is then empty and can be re-used to generate a new
 MapLayerPriority.</p>
-<p>Returns /sdk-for-flutter-explore-mapview-maplayerpriority-class. A new MapLayerPriority instance.</p>
+<p>Returns <a href="../../mapview/MapLayerPriority-class.html">/sdk-for-flutter-explore-mapview-maplayerpriority-class</a>. A new MapLayerPriority instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -62,9 +61,9 @@ MapLayerPriority.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a></li>
 <li class="self-crumb">build abstract method</li>
 </ol>
 <h5>MapLayerPriorityBuilder class</h5>
@@ -81,5 +80,4 @@ MapLayerPriority.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

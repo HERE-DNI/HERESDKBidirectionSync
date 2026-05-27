@@ -1,10 +1,9 @@
 ---
-title: "latestEndTime property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-latestendtime"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- latestEndTime.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-latestendtim
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficIncidentsQueryOptions-class.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class</a></li>
 <li class="self-crumb">latestEndTime property</li>
 </ol>
 <div class="self-name">latestEndTime</div>
@@ -59,9 +58,9 @@ If the value is null filtering by the latest end time is not applied.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
-<li>/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
+<li><a href="../../traffic/TrafficIncidentsQueryOptions-class.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-class</a></li>
 <li class="self-crumb">latestEndTime property</li>
 </ol>
 <h5>TrafficIncidentsQueryOptions class</h5>
@@ -78,5 +77,4 @@ If the value is null filtering by the latest end time is not applied.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

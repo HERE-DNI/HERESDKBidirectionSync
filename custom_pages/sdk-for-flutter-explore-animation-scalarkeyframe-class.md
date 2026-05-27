@@ -1,10 +1,9 @@
 ---
-title: "ScalarKeyframe class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-animation-scalarkeyframe-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- ScalarKeyframe-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-animation-scalarkeyframe-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
 <li class="self-crumb">ScalarKeyframe class</li>
 </ol>
 <div class="self-name">ScalarKeyframe</div>
@@ -68,7 +67,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="ScalarKeyframe">
-/sdk-for-flutter-explore-animation-scalarkeyframe-scalarkeyframe(double value, Duration duration)
+<a href="../animation/ScalarKeyframe/ScalarKeyframe.html">/sdk-for-flutter-explore-animation-scalarkeyframe-scalarkeyframe</a>(double value, Duration duration)
 </dt>
 <dd>
           Constructs a ScalarKeyframe from the value and offset.
@@ -80,7 +79,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="duration">
-/sdk-for-flutter-explore-animation-scalarkeyframe-duration
+<a href="../animation/ScalarKeyframe/duration.html">/sdk-for-flutter-explore-animation-scalarkeyframe-duration</a>
 → Duration
 </dt>
 <dd>
@@ -89,7 +88,7 @@ Negative duration value gets clamped to 0.
   <div class="features">final</div>
 </dd>
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-animation-scalarkeyframe-hashcode
+<a href="../animation/ScalarKeyframe/hashCode.html">/sdk-for-flutter-explore-animation-scalarkeyframe-hashcode</a>
 → int
 </dt>
 <dd>
@@ -97,7 +96,7 @@ Negative duration value gets clamped to 0.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-animation-scalarkeyframe-runtimetype
+<a href="../animation/ScalarKeyframe/runtimeType.html">/sdk-for-flutter-explore-animation-scalarkeyframe-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -105,7 +104,7 @@ Negative duration value gets clamped to 0.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="value">
-/sdk-for-flutter-explore-animation-scalarkeyframe-value
+<a href="../animation/ScalarKeyframe/value.html">/sdk-for-flutter-explore-animation-scalarkeyframe-value</a>
 → double
 </dt>
 <dd>
@@ -118,7 +117,7 @@ Negative duration value gets clamped to 0.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-animation-scalarkeyframe-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../animation/ScalarKeyframe/noSuchMethod.html">/sdk-for-flutter-explore-animation-scalarkeyframe-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -127,7 +126,7 @@ Negative duration value gets clamped to 0.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-animation-scalarkeyframe-tostring(<wbr/>)
+<a href="../animation/ScalarKeyframe/toString.html">/sdk-for-flutter-explore-animation-scalarkeyframe-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -141,7 +140,7 @@ Negative duration value gets clamped to 0.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-animation-scalarkeyframe-operator-equals(<wbr/>Object other)
+<a href="../animation/ScalarKeyframe/operator_equals.html">/sdk-for-flutter-explore-animation-scalarkeyframe-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -160,8 +159,8 @@ Negative duration value gets clamped to 0.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
 <li class="self-crumb">ScalarKeyframe class</li>
 </ol>
 <h5>animation library</h5>
@@ -178,5 +177,4 @@ Negative duration value gets clamped to 0.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "RouteOffset class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-routeoffset-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- RouteOffset-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -27,8 +26,8 @@ slug: "sdk-for-flutter-explore-routing-routeoffset-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">RouteOffset class</li>
 </ol>
 <div class="self-name">RouteOffset</div>
@@ -61,7 +60,7 @@ For the latter case, the location of a railway crossing can be retrieved from <c
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="RouteOffset">
-/sdk-for-flutter-explore-routing-routeoffset-routeoffset(int sectionIndex, double offsetInMeters)
+<a href="../routing/RouteOffset/RouteOffset.html">/sdk-for-flutter-explore-routing-routeoffset-routeoffset</a>(int sectionIndex, double offsetInMeters)
 </dt>
 <dd>
           Creates a new instance.
@@ -72,7 +71,7 @@ For the latter case, the location of a railway crossing can be retrieved from <c
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-routing-routeoffset-hashcode
+<a href="../routing/RouteOffset/hashCode.html">/sdk-for-flutter-explore-routing-routeoffset-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -80,16 +79,16 @@ For the latter case, the location of a railway crossing can be retrieved from <c
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="offsetInMeters">
-/sdk-for-flutter-explore-routing-routeoffset-offsetinmeters
+<a href="../routing/RouteOffset/offsetInMeters.html">/sdk-for-flutter-explore-routing-routeoffset-offsetinmeters</a>
 ↔ double
 </dt>
 <dd>
-  Offset from the start of the indexed /sdk-for-flutter-explore-routing-section-class to the specified location along the route.
+  Offset from the start of the indexed <a href="../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a> to the specified location along the route.
 The maximum possible offset is limited by the length of the section and cannot exceed it.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-routeoffset-runtimetype
+<a href="../routing/RouteOffset/runtimeType.html">/sdk-for-flutter-explore-routing-routeoffset-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -97,11 +96,11 @@ The maximum possible offset is limited by the length of the section and cannot e
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="sectionIndex">
-/sdk-for-flutter-explore-routing-routeoffset-sectionindex
+<a href="../routing/RouteOffset/sectionIndex.html">/sdk-for-flutter-explore-routing-routeoffset-sectionindex</a>
 ↔ int
 </dt>
 <dd>
-  Index of the corresponding route /sdk-for-flutter-explore-routing-section-class. The start of the section indicates the start of the offset.
+  Index of the corresponding route <a href="../routing/Section-class.html">/sdk-for-flutter-explore-routing-section-class</a>. The start of the section indicates the start of the offset.
   <div class="features">getter/setter pair</div>
 </dd>
 </dl>
@@ -110,7 +109,7 @@ The maximum possible offset is limited by the length of the section and cannot e
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-routeoffset-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/RouteOffset/noSuchMethod.html">/sdk-for-flutter-explore-routing-routeoffset-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -119,7 +118,7 @@ The maximum possible offset is limited by the length of the section and cannot e
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-routeoffset-tostring(<wbr/>)
+<a href="../routing/RouteOffset/toString.html">/sdk-for-flutter-explore-routing-routeoffset-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -133,7 +132,7 @@ The maximum possible offset is limited by the length of the section and cannot e
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-routing-routeoffset-operator-equals(<wbr/>Object other)
+<a href="../routing/RouteOffset/operator_equals.html">/sdk-for-flutter-explore-routing-routeoffset-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -151,8 +150,8 @@ The maximum possible offset is limited by the length of the section and cannot e
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">RouteOffset class</li>
 </ol>
 <h5>routing library</h5>
@@ -169,5 +168,4 @@ The maximum possible offset is limited by the length of the section and cannot e
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "AnimationListener class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-animation-animationlistener-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- AnimationListener-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -26,8 +25,8 @@ slug: "sdk-for-flutter-explore-animation-animationlistener-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
 <li class="self-crumb">AnimationListener class</li>
 </ol>
 <div class="self-name">AnimationListener</div>
@@ -57,7 +56,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="AnimationListener">
-/sdk-for-flutter-explore-animation-animationlistener-animationlistener(void onAnimationStateChangedLambda(/sdk-for-flutter-explore-animation-animationstate))
+<a href="../animation/AnimationListener/AnimationListener.html">/sdk-for-flutter-explore-animation-animationlistener-animationlistener</a>(void onAnimationStateChangedLambda(<a href="../animation/AnimationState.html">/sdk-for-flutter-explore-animation-animationstate</a>))
 </dt>
 <dd>
           A listener for animation events.
@@ -69,7 +68,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-animation-animationlistener-hashcode
+<a href="../animation/AnimationListener/hashCode.html">/sdk-for-flutter-explore-animation-animationlistener-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -77,7 +76,7 @@ menu
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-animation-animationlistener-runtimetype
+<a href="../animation/AnimationListener/runtimeType.html">/sdk-for-flutter-explore-animation-animationlistener-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -90,7 +89,7 @@ menu
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-animation-animationlistener-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../animation/AnimationListener/noSuchMethod.html">/sdk-for-flutter-explore-animation-animationlistener-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -99,7 +98,7 @@ menu
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="onAnimationStateChanged">
-/sdk-for-flutter-explore-animation-animationlistener-onanimationstatechanged(<wbr/>/sdk-for-flutter-explore-animation-animationstate state)
+<a href="../animation/AnimationListener/onAnimationStateChanged.html">/sdk-for-flutter-explore-animation-animationlistener-onanimationstatechanged</a>(<wbr/><a href="../animation/AnimationState.html">/sdk-for-flutter-explore-animation-animationstate</a> state)
     → void
 
 </dt>
@@ -109,7 +108,7 @@ menu
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-animation-animationlistener-tostring(<wbr/>)
+<a href="../animation/AnimationListener/toString.html">/sdk-for-flutter-explore-animation-animationlistener-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -123,7 +122,7 @@ menu
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-animation-animationlistener-operator-equals(<wbr/>Object other)
+<a href="../animation/AnimationListener/operator_equals.html">/sdk-for-flutter-explore-animation-animationlistener-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -141,8 +140,8 @@ menu
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-animation-animation-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../animation/animation-library.html">/sdk-for-flutter-explore-animation-animation-library</a></li>
 <li class="self-crumb">AnimationListener class</li>
 </ol>
 <h5>animation library</h5>
@@ -159,5 +158,4 @@ menu
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

@@ -1,10 +1,9 @@
 ---
-title: "MapImageOverlay class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-mapimageoverlay-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- MapImageOverlay-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-mapview-mapimageoverlay-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapImageOverlay class</li>
 </ol>
 <div class="self-name">MapImageOverlay</div>
@@ -56,25 +55,25 @@ menu
 <h1>MapImageOverlay class abstract</h1></div>
 <section class="desc markdown">
 <p><code>MapImageOverlay</code> is used to draw images over the map, at a view coordinate inside the map viewport.</p>
-<p>The image to be displayed is represented by a /sdk-for-flutter-explore-mapview-mapimage-class object.
+<p>The image to be displayed is represented by a <a href="../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a> object.
 By default, the overlay is centered on the given view coordinate.</p>
 <p>The resulting viewport area covered by the overlay is computed out of the overlay's view coordinate,
 the anchor point and the image size. The overlay subareas that fall outside of the map viewport get clipped.</p>
-<p>To display the map overlay, it needs to be added to the scene using /sdk-for-flutter-explore-mapview-mapscene-addmapimageoverlay.
-To stop displaying it, remove it from the scene using /sdk-for-flutter-explore-mapview-mapscene-removemapimageoverlay.</p>
+<p>To display the map overlay, it needs to be added to the scene using <a href="../mapview/MapScene/addMapImageOverlay.html">/sdk-for-flutter-explore-mapview-mapscene-addmapimageoverlay</a>.
+To stop displaying it, remove it from the scene using <a href="../mapview/MapScene/removeMapImageOverlay.html">/sdk-for-flutter-explore-mapview-mapscene-removemapimageoverlay</a>.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="MapImageOverlay">
-/sdk-for-flutter-explore-mapview-mapimageoverlay-mapimageoverlay(/sdk-for-flutter-explore-core-point2d-class viewCoordinates, /sdk-for-flutter-explore-mapview-mapimage-class image)
+<a href="../mapview/MapImageOverlay/MapImageOverlay.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-mapimageoverlay</a>(<a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> viewCoordinates, <a href="../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a> image)
 </dt>
 <dd>
           Creates an instance of an overlay at given view coordinates, represented by specified image.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="MapImageOverlay.withAnchor">
-/sdk-for-flutter-explore-mapview-mapimageoverlay-mapimageoverlay-withanchor(/sdk-for-flutter-explore-core-point2d-class viewCoordinates, /sdk-for-flutter-explore-mapview-mapimage-class image, /sdk-for-flutter-explore-core-anchor2d-class anchor)
+<a href="../mapview/MapImageOverlay/MapImageOverlay.withAnchor.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-mapimageoverlay-withanchor</a>(<a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> viewCoordinates, <a href="../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a> image, <a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a> anchor)
 </dt>
 <dd>
           Creates an instance of an overlay at given view coordinates, represented by specified image,
@@ -87,8 +86,8 @@ with anchor point specifying how the image is positioned relative to the overlay
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="anchor">
-/sdk-for-flutter-explore-mapview-mapimageoverlay-anchor
-↔ /sdk-for-flutter-explore-core-anchor2d-class
+<a href="../mapview/MapImageOverlay/anchor.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-anchor</a>
+↔ <a href="../core/Anchor2D-class.html">/sdk-for-flutter-explore-core-anchor2d-class</a>
 </dt>
 <dd>
   The anchor point for the overlay image which specifies the position offset relative
@@ -97,7 +96,7 @@ Gets current anchor point for the overlay image.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="drawOrder">
-/sdk-for-flutter-explore-mapview-mapimageoverlay-draworder
+<a href="../mapview/MapImageOverlay/drawOrder.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-draworder</a>
 ↔ int
 </dt>
 <dd>
@@ -106,7 +105,7 @@ Gets draw order of this <code>MapImageOverlay</code>. The default value is 0.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-mapimageoverlay-hashcode
+<a href="../mapview/MapImageOverlay/hashCode.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -114,8 +113,8 @@ Gets draw order of this <code>MapImageOverlay</code>. The default value is 0.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="image">
-/sdk-for-flutter-explore-mapview-mapimageoverlay-image
-↔ /sdk-for-flutter-explore-mapview-mapimage-class
+<a href="../mapview/MapImageOverlay/image.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-image</a>
+↔ <a href="../mapview/MapImage-class.html">/sdk-for-flutter-explore-mapview-mapimage-class</a>
 </dt>
 <dd>
   Image overlayed on the map.
@@ -123,7 +122,7 @@ Gets currently used map image.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-mapimageoverlay-runtimetype
+<a href="../mapview/MapImageOverlay/runtimeType.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -131,8 +130,8 @@ Gets currently used map image.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="viewCoordinates">
-/sdk-for-flutter-explore-mapview-mapimageoverlay-viewcoordinates
-↔ /sdk-for-flutter-explore-core-point2d-class
+<a href="../mapview/MapImageOverlay/viewCoordinates.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-viewcoordinates</a>
+↔ <a href="../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a>
 </dt>
 <dd>
   The view point in pixels on the map viewport where the map overlay is drawn.
@@ -145,7 +144,7 @@ Gets the view point in pixels on the map viewport where the overlay is drawn.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-mapimageoverlay-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/MapImageOverlay/noSuchMethod.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -154,7 +153,7 @@ Gets the view point in pixels on the map viewport where the overlay is drawn.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-mapimageoverlay-tostring(<wbr/>)
+<a href="../mapview/MapImageOverlay/toString.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -168,7 +167,7 @@ Gets the view point in pixels on the map viewport where the overlay is drawn.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-mapimageoverlay-operator-equals(<wbr/>Object other)
+<a href="../mapview/MapImageOverlay/operator_equals.html">/sdk-for-flutter-explore-mapview-mapimageoverlay-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -186,8 +185,8 @@ Gets the view point in pixels on the map viewport where the overlay is drawn.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">MapImageOverlay class</li>
 </ol>
 <h5>mapview library</h5>
@@ -204,5 +203,4 @@ Gets the view point in pixels on the map viewport where the overlay is drawn.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

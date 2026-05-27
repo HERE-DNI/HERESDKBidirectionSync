@@ -1,10 +1,9 @@
 ---
-title: "RoutingInterface class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-routing-routinginterface-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- RoutingInterface-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -37,8 +36,8 @@ slug: "sdk-for-flutter-explore-routing-routinginterface-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">RoutingInterface class</li>
 </ol>
 <div class="self-name">RoutingInterface</div>
@@ -69,7 +68,7 @@ routing engines.</p>
 <dl class="dl-horizontal">
 <dt>Implementers</dt>
 <dd><ul class="comma-separated clazz-relationships">
-<li>/sdk-for-flutter-explore-routing-routingengine-class</li>
+<li><a href="../routing/RoutingEngine-class.html">/sdk-for-flutter-explore-routing-routingengine-class</a></li>
 </ul></dd>
 </dl>
 </section>
@@ -77,7 +76,7 @@ routing engines.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="RoutingInterface">
-/sdk-for-flutter-explore-routing-routinginterface-routinginterface(/sdk-for-flutter-explore-core-threading-taskhandle-class calculateRouteWithRoutingOptionsLambda(List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt;, /sdk-for-flutter-explore-routing-routingoptions-class, /sdk-for-flutter-explore-routing-calculateroutecallback ), /sdk-for-flutter-explore-core-threading-taskhandle-class calculateCarRouteLambda(List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt;, /sdk-for-flutter-explore-routing-caroptions-class, /sdk-for-flutter-explore-routing-calculateroutecallback ), /sdk-for-flutter-explore-core-threading-taskhandle-class calculatePedestrianRouteLambda(List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt;, /sdk-for-flutter-explore-routing-pedestrianoptions-class, /sdk-for-flutter-explore-routing-calculateroutecallback ), /sdk-for-flutter-explore-core-threading-taskhandle-class calculateTruckRouteLambda(List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt;, /sdk-for-flutter-explore-routing-truckoptions-class, /sdk-for-flutter-explore-routing-calculateroutecallback ), /sdk-for-flutter-explore-core-threading-taskhandle-class calculateScooterRouteLambda(List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt;, /sdk-for-flutter-explore-routing-scooteroptions-class, /sdk-for-flutter-explore-routing-calculateroutecallback ), /sdk-for-flutter-explore-core-threading-taskhandle-class calculateBicycleRouteLambda(List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt;, /sdk-for-flutter-explore-routing-bicycleoptions-class, /sdk-for-flutter-explore-routing-calculateroutecallback ), /sdk-for-flutter-explore-core-threading-taskhandle-class calculateTaxiRouteLambda(List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt;, /sdk-for-flutter-explore-routing-taxioptions-class, /sdk-for-flutter-explore-routing-calculateroutecallback ), /sdk-for-flutter-explore-core-threading-taskhandle-class calculateEVCarRouteLambda(List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt;, /sdk-for-flutter-explore-routing-evcaroptions-class, /sdk-for-flutter-explore-routing-calculateroutecallback ), /sdk-for-flutter-explore-core-threading-taskhandle-class calculateEVTruckRouteLambda(List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt;, /sdk-for-flutter-explore-routing-evtruckoptions-class, /sdk-for-flutter-explore-routing-calculateroutecallback ), /sdk-for-flutter-explore-core-threading-taskhandle-class calculateBusRouteLambda(List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt;, /sdk-for-flutter-explore-routing-busoptions-class, /sdk-for-flutter-explore-routing-calculateroutecallback ), /sdk-for-flutter-explore-core-threading-taskhandle-class calculatePrivateBusRouteLambda(List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt;, /sdk-for-flutter-explore-routing-privatebusoptions-class, /sdk-for-flutter-explore-routing-calculateroutecallback ), /sdk-for-flutter-explore-core-threading-taskhandle-class returnToRouteWithTraveledDistanceLambda(/sdk-for-flutter-explore-routing-route-class, /sdk-for-flutter-explore-routing-waypoint-class, int, int, /sdk-for-flutter-explore-routing-calculateroutecallback ))
+<a href="../routing/RoutingInterface/RoutingInterface.html">/sdk-for-flutter-explore-routing-routinginterface-routinginterface</a>(<a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> calculateRouteWithRoutingOptionsLambda(List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt;, <a href="../routing/RoutingOptions-class.html">/sdk-for-flutter-explore-routing-routingoptions-class</a>, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> ), <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> calculateCarRouteLambda(List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt;, <a class="deprecated" href="../routing/CarOptions-class.html">/sdk-for-flutter-explore-routing-caroptions-class</a>, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> ), <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> calculatePedestrianRouteLambda(List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt;, <a class="deprecated" href="../routing/PedestrianOptions-class.html">/sdk-for-flutter-explore-routing-pedestrianoptions-class</a>, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> ), <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> calculateTruckRouteLambda(List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt;, <a class="deprecated" href="../routing/TruckOptions-class.html">/sdk-for-flutter-explore-routing-truckoptions-class</a>, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> ), <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> calculateScooterRouteLambda(List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt;, <a class="deprecated" href="../routing/ScooterOptions-class.html">/sdk-for-flutter-explore-routing-scooteroptions-class</a>, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> ), <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> calculateBicycleRouteLambda(List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt;, <a class="deprecated" href="../routing/BicycleOptions-class.html">/sdk-for-flutter-explore-routing-bicycleoptions-class</a>, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> ), <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> calculateTaxiRouteLambda(List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt;, <a class="deprecated" href="../routing/TaxiOptions-class.html">/sdk-for-flutter-explore-routing-taxioptions-class</a>, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> ), <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> calculateEVCarRouteLambda(List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt;, <a class="deprecated" href="../routing/EVCarOptions-class.html">/sdk-for-flutter-explore-routing-evcaroptions-class</a>, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> ), <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> calculateEVTruckRouteLambda(List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt;, <a class="deprecated" href="../routing/EVTruckOptions-class.html">/sdk-for-flutter-explore-routing-evtruckoptions-class</a>, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> ), <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> calculateBusRouteLambda(List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt;, <a class="deprecated" href="../routing/BusOptions-class.html">/sdk-for-flutter-explore-routing-busoptions-class</a>, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> ), <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> calculatePrivateBusRouteLambda(List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt;, <a class="deprecated" href="../routing/PrivateBusOptions-class.html">/sdk-for-flutter-explore-routing-privatebusoptions-class</a>, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> ), <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a> returnToRouteWithTraveledDistanceLambda(<a href="../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a>, <a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>, int, int, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> ))
 </dt>
 <dd>
           Provides the abstract class for the online and offline
@@ -90,7 +89,7 @@ routing engines.
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-routing-routinginterface-hashcode
+<a href="../routing/RoutingInterface/hashCode.html">/sdk-for-flutter-explore-routing-routinginterface-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -98,7 +97,7 @@ routing engines.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-routing-routinginterface-runtimetype
+<a href="../routing/RoutingInterface/runtimeType.html">/sdk-for-flutter-explore-routing-routinginterface-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -111,9 +110,8 @@ routing engines.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="calculateBicycleRoute">
-/sdk-for-flutter-explore-routing-routinginterface-calculatebicycleroute(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt; waypoints, /sdk-for-flutter-explore-routing-bicycleoptions-class bicycleOptions, /sdk-for-flutter-explore-routing-calculateroutecallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a class="deprecated" href="../routing/RoutingInterface/calculateBicycleRoute.html">/sdk-for-flutter-explore-routing-routinginterface-calculatebicycleroute</a>(<wbr/>List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt; waypoints, <a class="deprecated" href="../routing/BicycleOptions-class.html">/sdk-for-flutter-explore-routing-bicycleoptions-class</a> bicycleOptions, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously calculates a bicycle route from one point to another,
@@ -122,9 +120,8 @@ passing through the given waypoints in the given order.
 
 </dd>
 <dt class="callable" id="calculateBusRoute">
-/sdk-for-flutter-explore-routing-routinginterface-calculatebusroute(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt; waypoints, /sdk-for-flutter-explore-routing-busoptions-class busOptions, /sdk-for-flutter-explore-routing-calculateroutecallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a class="deprecated" href="../routing/RoutingInterface/calculateBusRoute.html">/sdk-for-flutter-explore-routing-routinginterface-calculatebusroute</a>(<wbr/>List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt; waypoints, <a class="deprecated" href="../routing/BusOptions-class.html">/sdk-for-flutter-explore-routing-busoptions-class</a> busOptions, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously calculates a bus route from one point to another,
@@ -133,9 +130,8 @@ passing through the given waypoints in the given order.
 
 </dd>
 <dt class="callable" id="calculateCarRoute">
-/sdk-for-flutter-explore-routing-routinginterface-calculatecarroute(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt; waypoints, /sdk-for-flutter-explore-routing-caroptions-class carOptions, /sdk-for-flutter-explore-routing-calculateroutecallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a class="deprecated" href="../routing/RoutingInterface/calculateCarRoute.html">/sdk-for-flutter-explore-routing-routinginterface-calculatecarroute</a>(<wbr/>List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt; waypoints, <a class="deprecated" href="../routing/CarOptions-class.html">/sdk-for-flutter-explore-routing-caroptions-class</a> carOptions, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously calculates a car route from one point to another,
@@ -144,9 +140,8 @@ passing through the given waypoints in the given order.
 
 </dd>
 <dt class="callable" id="calculateEVCarRoute">
-/sdk-for-flutter-explore-routing-routinginterface-calculateevcarroute(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt; waypoints, /sdk-for-flutter-explore-routing-evcaroptions-class evCarOptions, /sdk-for-flutter-explore-routing-calculateroutecallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a class="deprecated" href="../routing/RoutingInterface/calculateEVCarRoute.html">/sdk-for-flutter-explore-routing-routinginterface-calculateevcarroute</a>(<wbr/>List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt; waypoints, <a class="deprecated" href="../routing/EVCarOptions-class.html">/sdk-for-flutter-explore-routing-evcaroptions-class</a> evCarOptions, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously calculates an electric car route from one point to another,
@@ -155,9 +150,8 @@ passing through the given waypoints in the given order.
 
 </dd>
 <dt class="callable" id="calculateEVTruckRoute">
-/sdk-for-flutter-explore-routing-routinginterface-calculateevtruckroute(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt; waypoints, /sdk-for-flutter-explore-routing-evtruckoptions-class evTruckOptions, /sdk-for-flutter-explore-routing-calculateroutecallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a class="deprecated" href="../routing/RoutingInterface/calculateEVTruckRoute.html">/sdk-for-flutter-explore-routing-routinginterface-calculateevtruckroute</a>(<wbr/>List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt; waypoints, <a class="deprecated" href="../routing/EVTruckOptions-class.html">/sdk-for-flutter-explore-routing-evtruckoptions-class</a> evTruckOptions, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously calculates an electic truck route from one point to another,
@@ -166,9 +160,8 @@ passing through the given waypoints in the given order.
 
 </dd>
 <dt class="callable" id="calculatePedestrianRoute">
-/sdk-for-flutter-explore-routing-routinginterface-calculatepedestrianroute(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt; waypoints, /sdk-for-flutter-explore-routing-pedestrianoptions-class pedestrianOptions, /sdk-for-flutter-explore-routing-calculateroutecallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a class="deprecated" href="../routing/RoutingInterface/calculatePedestrianRoute.html">/sdk-for-flutter-explore-routing-routinginterface-calculatepedestrianroute</a>(<wbr/>List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt; waypoints, <a class="deprecated" href="../routing/PedestrianOptions-class.html">/sdk-for-flutter-explore-routing-pedestrianoptions-class</a> pedestrianOptions, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously calculates a pedestrian route from one point to another,
@@ -177,9 +170,8 @@ passing through the given waypoints in the given order.
 
 </dd>
 <dt class="callable" id="calculatePrivateBusRoute">
-/sdk-for-flutter-explore-routing-routinginterface-calculateprivatebusroute(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt; waypoints, /sdk-for-flutter-explore-routing-privatebusoptions-class privateBusOptions, /sdk-for-flutter-explore-routing-calculateroutecallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a class="deprecated" href="../routing/RoutingInterface/calculatePrivateBusRoute.html">/sdk-for-flutter-explore-routing-routinginterface-calculateprivatebusroute</a>(<wbr/>List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt; waypoints, <a class="deprecated" href="../routing/PrivateBusOptions-class.html">/sdk-for-flutter-explore-routing-privatebusoptions-class</a> privateBusOptions, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously calculates a private bus route from one point to another,
@@ -188,9 +180,8 @@ passing through the given waypoints in the given order.
 
 </dd>
 <dt class="callable" id="calculateRouteWithRoutingOptions">
-/sdk-for-flutter-explore-routing-routinginterface-calculateroutewithroutingoptions(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt; waypoints, /sdk-for-flutter-explore-routing-routingoptions-class options, /sdk-for-flutter-explore-routing-calculateroutecallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a href="../routing/RoutingInterface/calculateRouteWithRoutingOptions.html">/sdk-for-flutter-explore-routing-routinginterface-calculateroutewithroutingoptions</a>(<wbr/>List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt; waypoints, <a href="../routing/RoutingOptions-class.html">/sdk-for-flutter-explore-routing-routingoptions-class</a> options, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously calculates a route from one point to another,
@@ -199,9 +190,8 @@ passing through the given waypoints in the given order.
 
 </dd>
 <dt class="callable" id="calculateScooterRoute">
-/sdk-for-flutter-explore-routing-routinginterface-calculatescooterroute(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt; waypoints, /sdk-for-flutter-explore-routing-scooteroptions-class scooterOptions, /sdk-for-flutter-explore-routing-calculateroutecallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a class="deprecated" href="../routing/RoutingInterface/calculateScooterRoute.html">/sdk-for-flutter-explore-routing-routinginterface-calculatescooterroute</a>(<wbr/>List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt; waypoints, <a class="deprecated" href="../routing/ScooterOptions-class.html">/sdk-for-flutter-explore-routing-scooteroptions-class</a> scooterOptions, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously calculates a scooter route from one point to another,
@@ -210,9 +200,8 @@ passing through the given waypoints in the given order.
 
 </dd>
 <dt class="callable" id="calculateTaxiRoute">
-/sdk-for-flutter-explore-routing-routinginterface-calculatetaxiroute(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt; waypoints, /sdk-for-flutter-explore-routing-taxioptions-class taxiOptions, /sdk-for-flutter-explore-routing-calculateroutecallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a class="deprecated" href="../routing/RoutingInterface/calculateTaxiRoute.html">/sdk-for-flutter-explore-routing-routinginterface-calculatetaxiroute</a>(<wbr/>List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt; waypoints, <a class="deprecated" href="../routing/TaxiOptions-class.html">/sdk-for-flutter-explore-routing-taxioptions-class</a> taxiOptions, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously calculates a taxi route from one point to another,
@@ -221,9 +210,8 @@ passing through the given waypoints in the given order.
 
 </dd>
 <dt class="callable" id="calculateTruckRoute">
-/sdk-for-flutter-explore-routing-routinginterface-calculatetruckroute(<wbr/>List&lt;<wbr/>/sdk-for-flutter-explore-routing-waypoint-class&gt; waypoints, /sdk-for-flutter-explore-routing-truckoptions-class truckOptions, /sdk-for-flutter-explore-routing-calculateroutecallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a class="deprecated" href="../routing/RoutingInterface/calculateTruckRoute.html">/sdk-for-flutter-explore-routing-routinginterface-calculatetruckroute</a>(<wbr/>List&lt;<wbr/><a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a>&gt; waypoints, <a class="deprecated" href="../routing/TruckOptions-class.html">/sdk-for-flutter-explore-routing-truckoptions-class</a> truckOptions, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously calculates a truck route from one point to another,
@@ -232,7 +220,7 @@ passing through the given waypoints in the given order.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-routing-routinginterface-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../routing/RoutingInterface/noSuchMethod.html">/sdk-for-flutter-explore-routing-routinginterface-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -241,9 +229,8 @@ passing through the given waypoints in the given order.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="returnToRouteWithTraveledDistance">
-/sdk-for-flutter-explore-routing-routinginterface-returntoroutewithtraveleddistance(<wbr/>/sdk-for-flutter-explore-routing-route-class route, /sdk-for-flutter-explore-routing-waypoint-class startingPoint, int lastTraveledSectionIndex, int traveledDistanceOnLastSectionInMeters, /sdk-for-flutter-explore-routing-calculateroutecallback callback)
-    → /sdk-for-flutter-explore-core-threading-taskhandle-class
-
+<a href="../routing/RoutingInterface/returnToRouteWithTraveledDistance.html">/sdk-for-flutter-explore-routing-routinginterface-returntoroutewithtraveleddistance</a>(<wbr/><a href="../routing/Route-class.html">/sdk-for-flutter-explore-routing-route-class</a> route, <a href="../routing/Waypoint-class.html">/sdk-for-flutter-explore-routing-waypoint-class</a> startingPoint, int lastTraveledSectionIndex, int traveledDistanceOnLastSectionInMeters, <a href="../routing/CalculateRouteCallback.html">/sdk-for-flutter-explore-routing-calculateroutecallback</a> callback)
+    → <a href="../core.threading/TaskHandle-class.html">/sdk-for-flutter-explore-core-threading-taskhandle-class</a>
 </dt>
 <dd>
   Asynchronously calculates a new route that leads back to the original route.
@@ -251,7 +238,7 @@ passing through the given waypoints in the given order.
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-routing-routinginterface-tostring(<wbr/>)
+<a href="../routing/RoutingInterface/toString.html">/sdk-for-flutter-explore-routing-routinginterface-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -265,7 +252,7 @@ passing through the given waypoints in the given order.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-routing-routinginterface-operator-equals(<wbr/>Object other)
+<a href="../routing/RoutingInterface/operator_equals.html">/sdk-for-flutter-explore-routing-routinginterface-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -283,8 +270,8 @@ passing through the given waypoints in the given order.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
 <li class="self-crumb">RoutingInterface class</li>
 </ol>
 <h5>routing library</h5>
@@ -301,5 +288,4 @@ passing through the given waypoints in the given order.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

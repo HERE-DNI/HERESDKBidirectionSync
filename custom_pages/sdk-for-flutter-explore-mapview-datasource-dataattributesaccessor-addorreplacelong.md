@@ -1,10 +1,9 @@
 ---
-title: "addOrReplaceLong abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-addorreplacelong"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- addOrReplaceLong.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-addorre
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/DataAttributesAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-class</a></li>
 <li class="self-crumb">addOrReplaceLong abstract method</li>
 </ol>
 <div class="self-name">addOrReplaceLong</div>
@@ -69,9 +68,9 @@ addOrReplaceLong(<wbr/><ol class="parameter-list single-line"> <li>String name, 
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/DataAttributesAccessor-class.html">/sdk-for-flutter-explore-mapview-datasource-dataattributesaccessor-class</a></li>
 <li class="self-crumb">addOrReplaceLong abstract method</li>
 </ol>
 <h5>DataAttributesAccessor class</h5>
@@ -88,5 +87,4 @@ addOrReplaceLong(<wbr/><ol class="parameter-list single-line"> <li>String name, 
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

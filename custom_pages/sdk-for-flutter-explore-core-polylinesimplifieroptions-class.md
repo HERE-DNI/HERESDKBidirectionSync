@@ -1,10 +1,9 @@
 ---
-title: "PolylineSimplifierOptions class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-polylinesimplifieroptions-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- PolylineSimplifierOptions-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -30,8 +29,8 @@ slug: "sdk-for-flutter-explore-core-polylinesimplifieroptions-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">PolylineSimplifierOptions class</li>
 </ol>
 <div class="self-name">PolylineSimplifierOptions</div>
@@ -55,24 +54,24 @@ menu
 <div>
 <h1>PolylineSimplifierOptions class</h1></div>
 <section class="desc markdown">
-<p>Controls the strategy of /sdk-for-flutter-explore-core-polylinesimplifier-simplify
+<p>Controls the strategy of <a href="../core/PolylineSimplifier/simplify.html">/sdk-for-flutter-explore-core-polylinesimplifier-simplify</a>
 when reducing a size of polyline.</p>
 </section>
 <section class="summary offset-anchor" id="constructors">
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="PolylineSimplifierOptions">
-/sdk-for-flutter-explore-core-polylinesimplifieroptions-polylinesimplifieroptions()
+<a href="../core/PolylineSimplifierOptions/PolylineSimplifierOptions.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-polylinesimplifieroptions</a>()
 </dt>
 <dd>
-          Creates default options with /sdk-for-flutter-explore-core-polylinesimplifieroptions-maxpoints equal to 0 and
-/sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtoleranceinmeters equal to /sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationinmeters14zoomlevel.
+          Creates default options with <a href="../core/PolylineSimplifierOptions/maxPoints.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-maxpoints</a> equal to 0 and
+<a href="../core/PolylineSimplifierOptions/simplificationToleranceInMeters.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtoleranceinmeters</a> equal to <a href="../core/PolylineSimplifierOptions/simplificationInMeters14ZoomLevel.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationinmeters14zoomlevel</a>.
         </dd>
 <dt class="callable" id="PolylineSimplifierOptions.withMaxPointsAndTolerance">
-/sdk-for-flutter-explore-core-polylinesimplifieroptions-polylinesimplifieroptions-withmaxpointsandtolerance(int maxPoints, int simplificationToleranceInMeters)
+<a href="../core/PolylineSimplifierOptions/PolylineSimplifierOptions.withMaxPointsAndTolerance.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-polylinesimplifieroptions-withmaxpointsandtolerance</a>(int maxPoints, int simplificationToleranceInMeters)
 </dt>
 <dd>
-          Creates options with explicitly specified /sdk-for-flutter-explore-core-polylinesimplifieroptions-maxpoints and /sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtoleranceinmeters.
+          Creates options with explicitly specified <a href="../core/PolylineSimplifierOptions/maxPoints.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-maxpoints</a> and <a href="../core/PolylineSimplifierOptions/simplificationToleranceInMeters.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtoleranceinmeters</a>.
         </dd>
 </dl>
 </section>
@@ -80,7 +79,7 @@ when reducing a size of polyline.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-core-polylinesimplifieroptions-hashcode
+<a href="../core/PolylineSimplifierOptions/hashCode.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -88,23 +87,23 @@ when reducing a size of polyline.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="maxPoints">
-/sdk-for-flutter-explore-core-polylinesimplifieroptions-maxpoints
+<a href="../core/PolylineSimplifierOptions/maxPoints.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-maxpoints</a>
 ↔ int
 </dt>
 <dd>
   Sets the upper limit on the resulting collection for
-the /sdk-for-flutter-explore-core-polylinesimplifier-simplify. Lower
+the <a href="../core/PolylineSimplifier/simplify.html">/sdk-for-flutter-explore-core-polylinesimplifier-simplify</a>. Lower
 value results in the lower accuracy of the resulting
 polyline. If <code>maxPoints</code> is less than <code>2</code>
 then resulting polyline will not have an upper limit
-on the size and only /sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtoleranceinmeters
+on the size and only <a href="../core/PolylineSimplifierOptions/simplificationToleranceInMeters.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtoleranceinmeters</a>
 will be considered. When <code>maxPoints</code> is greater than
 size of the passed polyline then simplification algorithm
-will take into account only /sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtoleranceinmeters.
+will take into account only <a href="../core/PolylineSimplifierOptions/simplificationToleranceInMeters.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtoleranceinmeters</a>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-polylinesimplifieroptions-runtimetype
+<a href="../core/PolylineSimplifierOptions/runtimeType.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -112,11 +111,11 @@ will take into account only /sdk-for-flutter-explore-core-polylinesimplifieropti
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="simplificationToleranceInMeters">
-/sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtoleranceinmeters
+<a href="../core/PolylineSimplifierOptions/simplificationToleranceInMeters.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationtoleranceinmeters</a>
 ↔ int
 </dt>
 <dd>
-  Sets the accuracy limit for the /sdk-for-flutter-explore-core-polylinesimplifier-simplify:
+  Sets the accuracy limit for the <a href="../core/PolylineSimplifier/simplify.html">/sdk-for-flutter-explore-core-polylinesimplifier-simplify</a>:
   <div class="features">getter/setter pair</div>
 </dd>
 </dl>
@@ -125,7 +124,7 @@ will take into account only /sdk-for-flutter-explore-core-polylinesimplifieropti
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-polylinesimplifieroptions-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/PolylineSimplifierOptions/noSuchMethod.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -134,7 +133,7 @@ will take into account only /sdk-for-flutter-explore-core-polylinesimplifieropti
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-polylinesimplifieroptions-tostring(<wbr/>)
+<a href="../core/PolylineSimplifierOptions/toString.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -148,7 +147,7 @@ will take into account only /sdk-for-flutter-explore-core-polylinesimplifieropti
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-core-polylinesimplifieroptions-operator-equals(<wbr/>Object other)
+<a href="../core/PolylineSimplifierOptions/operator_equals.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -162,7 +161,7 @@ will take into account only /sdk-for-flutter-explore-core-polylinesimplifieropti
 <h2>Static Properties</h2>
 <dl class="properties">
 <dt class="property" id="simplificationInMeters14ZoomLevel">
-/sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationinmeters14zoomlevel
+<a href="../core/PolylineSimplifierOptions/simplificationInMeters14ZoomLevel.html">/sdk-for-flutter-explore-core-polylinesimplifieroptions-simplificationinmeters14zoomlevel</a>
 → int
 </dt>
 <dd>
@@ -179,8 +178,8 @@ will take into account only /sdk-for-flutter-explore-core-polylinesimplifieropti
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">PolylineSimplifierOptions class</li>
 </ol>
 <h5>core library</h5>
@@ -197,5 +196,4 @@ will take into account only /sdk-for-flutter-explore-core-polylinesimplifieropti
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

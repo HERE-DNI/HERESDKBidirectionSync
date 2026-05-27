@@ -1,10 +1,9 @@
 ---
-title: "VehicleSpecificationTaxiBuilder constructor"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-vehiclespecificationtaxibuilder"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- VehicleSpecificationTaxiBuilder.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-vehicle
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</a></li>
 <li class="self-crumb">VehicleSpecificationTaxiBuilder factory constructor</li>
 </ol>
 <div class="self-name">VehicleSpecificationTaxiBuilder</div>
@@ -55,9 +54,9 @@ VehicleSpecificationTaxiBuilder(<wbr/>)
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-transport-transport-library</li>
-<li>/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../transport/transport-library.html">/sdk-for-flutter-explore-transport-transport-library</a></li>
+<li><a href="../../transport/VehicleSpecificationTaxiBuilder-class.html">/sdk-for-flutter-explore-transport-vehiclespecificationtaxibuilder-class</a></li>
 <li class="self-crumb">VehicleSpecificationTaxiBuilder factory constructor</li>
 </ol>
 <h5>VehicleSpecificationTaxiBuilder class</h5>
@@ -74,5 +73,4 @@ VehicleSpecificationTaxiBuilder(<wbr/>)
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

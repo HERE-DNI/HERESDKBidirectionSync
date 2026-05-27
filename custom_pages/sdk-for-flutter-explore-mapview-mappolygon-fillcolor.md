@@ -1,10 +1,9 @@
 ---
-title: "fillColor property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mappolygon-fillcolor"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- fillColor.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolygon-fillcolor"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolygon-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolygon-class.html">/sdk-for-flutter-explore-mapview-mappolygon-class</a></li>
 <li class="self-crumb">fillColor property</li>
 </ol>
 <div class="self-name">fillColor</div>
@@ -74,9 +73,9 @@ Sets the current color of the fill.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolygon-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolygon-class.html">/sdk-for-flutter-explore-mapview-mappolygon-class</a></li>
 <li class="self-crumb">fillColor property</li>
 </ol>
 <h5>MapPolygon class</h5>
@@ -93,5 +92,4 @@ Sets the current color of the fill.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

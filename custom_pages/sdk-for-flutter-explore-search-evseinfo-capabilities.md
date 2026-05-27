@@ -1,10 +1,9 @@
 ---
-title: "capabilities property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-search-evseinfo-capabilities"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- capabilities.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-search-evseinfo-capabilities"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evseinfo-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVSEInfo-class.html">/sdk-for-flutter-explore-search-evseinfo-class</a></li>
 <li class="self-crumb">capabilities property</li>
 </ol>
 <div class="self-name">capabilities</div>
@@ -39,7 +38,7 @@ menu
 <h1>capabilities property</h1></div>
 <section class="multi-line-signature">
         
-        List&lt;<wbr/>/sdk-for-flutter-explore-ev-evsecapability&gt;
+        List&lt;<wbr/><a href="../../ev/EVSECapability.html">/sdk-for-flutter-explore-ev-evsecapability</a>&gt;
 capabilities
 <div class="features">getter/setter pair</div>
 </section>
@@ -58,9 +57,9 @@ capabilities
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-search-search-library</li>
-<li>/sdk-for-flutter-explore-search-evseinfo-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../search/search-library.html">/sdk-for-flutter-explore-search-search-library</a></li>
+<li><a href="../../search/EVSEInfo-class.html">/sdk-for-flutter-explore-search-evseinfo-class</a></li>
 <li class="self-crumb">capabilities property</li>
 </ol>
 <h5>EVSEInfo class</h5>
@@ -77,5 +76,4 @@ capabilities
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

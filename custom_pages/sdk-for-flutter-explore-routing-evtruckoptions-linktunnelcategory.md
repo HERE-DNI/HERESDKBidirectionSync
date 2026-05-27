@@ -1,10 +1,9 @@
 ---
-title: "linkTunnelCategory property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-evtruckoptions-linktunnelcategory"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- linkTunnelCategory.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-evtruckoptions-linktunnelcategory"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-evtruckoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/EVTruckOptions-class.html">/sdk-for-flutter-explore-routing-evtruckoptions-class</a></li>
 <li class="self-crumb">linkTunnelCategory property</li>
 </ol>
 <div class="self-name">linkTunnelCategory</div>
@@ -38,14 +37,14 @@ menu
 <div>
 <h1>linkTunnelCategory property</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-transport-tunnelcategory?
+<a href="../../transport/TunnelCategory.html">/sdk-for-flutter-explore-transport-tunnelcategory</a>?
         linkTunnelCategory
 <div class="features">getter/setter pair</div>
 </section>
 <section class="desc markdown">
 <p>Specifies the tunnel categories to restrict certain route links.
 The route will pass only through tunnels of a less strict category.
-Refer to /sdk-for-flutter-explore-transport-tunnelcategory for the available options.</p>
+Refer to <a href="../../transport/TunnelCategory.html">/sdk-for-flutter-explore-transport-tunnelcategory</a> for the available options.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -59,9 +58,9 @@ Refer to /sdk-for-flutter-explore-transport-tunnelcategory for the available opt
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-evtruckoptions-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/EVTruckOptions-class.html">/sdk-for-flutter-explore-routing-evtruckoptions-class</a></li>
 <li class="self-crumb">linkTunnelCategory property</li>
 </ol>
 <h5>EVTruckOptions class</h5>
@@ -78,5 +77,4 @@ Refer to /sdk-for-flutter-explore-transport-tunnelcategory for the available opt
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

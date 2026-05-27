@@ -1,10 +1,9 @@
 ---
-title: "lookToMatchGeoPointToViewPoint static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-looktomatchgeopointtoviewpoint"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- lookToMatchGeoPointToViewPoint.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mapcameraupdatefactory-looktomatchgeopoin
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraUpdateFactory-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</a></li>
 <li class="self-crumb">lookToMatchGeoPointToViewPoint static method</li>
 </ol>
 <div class="self-name">lookToMatchGeoPointToViewPoint</div>
@@ -38,9 +37,9 @@ menu
 <div>
 <h1>lookToMatchGeoPointToViewPoint static method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-mapcameraupdate-class
-lookToMatchGeoPointToViewPoint(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geocoordinates-class geoPoint, </li>
-<li>/sdk-for-flutter-explore-core-point2d-class viewPoint</li>
+<a href="../../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>
+lookToMatchGeoPointToViewPoint(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> geoPoint, </li>
+<li><a href="../../core/Point2D-class.html">/sdk-for-flutter-explore-core-point2d-class</a> viewPoint</li>
 </ol>)
 
       
@@ -66,7 +65,7 @@ if the given view point is identical to the principal point.</p>
 <p><code>viewPoint</code> View point coordinates in pixels.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-mapcameraupdate-class. MapCameraUpdate instance.</p>
+<p>Returns <a href="../../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a>. MapCameraUpdate instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -80,9 +79,9 @@ if the given view point is identical to the principal point.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapCameraUpdateFactory-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdatefactory-class</a></li>
 <li class="self-crumb">lookToMatchGeoPointToViewPoint static method</li>
 </ol>
 <h5>MapCameraUpdateFactory class</h5>
@@ -99,5 +98,4 @@ if the given view point is identical to the principal point.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

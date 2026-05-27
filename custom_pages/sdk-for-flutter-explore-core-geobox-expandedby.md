@@ -1,10 +1,9 @@
 ---
-title: "expandedBy method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-geobox-expandedby"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- expandedBy.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-geobox-expandedby"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geobox-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a></li>
 <li class="self-crumb">expandedBy method</li>
 </ol>
 <div class="self-name">expandedBy</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>expandedBy method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-core-geobox-class
+<a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>
 expandedBy(<wbr/><ol class="parameter-list"> <li>double southMeters, </li>
 <li>double westMeters, </li>
 <li>double northMeters, </li>
@@ -66,8 +65,8 @@ expandedBy(<wbr/><ol class="parameter-list"> <li>double southMeters, </li>
 <p><code>eastMeters</code> Distance in the east direction in meters to expand the <code>GeoBox</code>.</p>
 </li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-core-geobox-class. The expanded <code>GeoBox</code>.</p>
-<p>Throws /sdk-for-flutter-explore-core-errors-instantiationexception-class. Instantiation error.</p>
+<p>Returns <a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a>. The expanded <code>GeoBox</code>.</p>
+<p>Throws <a href="../../core.errors/InstantiationException-class.html">/sdk-for-flutter-explore-core-errors-instantiationexception-class</a>. Instantiation error.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -81,9 +80,9 @@ expandedBy(<wbr/><ol class="parameter-list"> <li>double southMeters, </li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
-<li>/sdk-for-flutter-explore-core-geobox-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
+<li><a href="../../core/GeoBox-class.html">/sdk-for-flutter-explore-core-geobox-class</a></li>
 <li class="self-crumb">expandedBy method</li>
 </ol>
 <h5>GeoBox class</h5>
@@ -100,5 +99,4 @@ expandedBy(<wbr/><ol class="parameter-list"> <li>double southMeters, </li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

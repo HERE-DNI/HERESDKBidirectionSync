@@ -1,10 +1,9 @@
 ---
-title: "enableLoggingToConsole static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-logcontrol-enableloggingtoconsole"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- enableLoggingToConsole.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-logcontrol-enableloggingtoconsole"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-logcontrol-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/LogControl-class.html">/sdk-for-flutter-explore-core-engine-logcontrol-class</a></li>
 <li class="self-crumb">enableLoggingToConsole static method</li>
 </ol>
 <div class="self-name">enableLoggingToConsole</div>
@@ -39,7 +38,7 @@ menu
 <h1>enableLoggingToConsole static method</h1></div>
 <section class="multi-line-signature">
 void
-enableLoggingToConsole(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-engine-loglevel level</li>
+enableLoggingToConsole(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.engine/LogLevel.html">/sdk-for-flutter-explore-core-engine-loglevel</a> level</li>
 </ol>)
 
       
@@ -47,7 +46,7 @@ enableLoggingToConsole(<wbr/><ol class="parameter-list single-line"> <li>/sdk-fo
     </section>
 <section class="desc markdown">
 <p>Enables SDK logging messages to console .</p>
-<p>Enabled by default with /sdk-for-flutter-explore-core-engine-loglevel.</p>
+<p>Enabled by default with <a href="../../core.engine/LogLevel.html">/sdk-for-flutter-explore-core-engine-loglevel</a>.</p>
 <ul>
 <li><code>level</code> Log level.</li>
 </ul>
@@ -64,9 +63,9 @@ enableLoggingToConsole(<wbr/><ol class="parameter-list single-line"> <li>/sdk-fo
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-logcontrol-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/LogControl-class.html">/sdk-for-flutter-explore-core-engine-logcontrol-class</a></li>
 <li class="self-crumb">enableLoggingToConsole static method</li>
 </ol>
 <h5>LogControl class</h5>
@@ -83,5 +82,4 @@ enableLoggingToConsole(<wbr/><ol class="parameter-list single-line"> <li>/sdk-fo
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

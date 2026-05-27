@@ -1,10 +1,9 @@
 ---
-title: "LocationIndicator class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-mapview-locationindicator-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- LocationIndicator-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -39,8 +38,8 @@ slug: "sdk-for-flutter-explore-mapview-locationindicator-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">LocationIndicator class</li>
 </ol>
 <div class="self-name">LocationIndicator</div>
@@ -66,10 +65,10 @@ menu
 <section class="desc markdown">
 <p>Graphical object to represent the location of the user on the map.</p>
 <p>It is either a green dot for pedestrian style or a triangular arrow for vehicle navigation style.
-This style can be changed by /sdk-for-flutter-explore-mapview-locationindicator-locationindicatorstyle</p>
-<p>The location is made available to an instance of this class by calling /sdk-for-flutter-explore-mapview-locationindicator-updatelocation or
-/sdk-for-flutter-explore-mapview-locationindicator-updatelocationandcamera.</p>
-<p>Use /sdk-for-flutter-explore-mapview-locationindicator-enable to add this object to the map and /sdk-for-flutter-explore-mapview-locationindicator-disable to remove it.</p>
+This style can be changed by <a href="../mapview/LocationIndicator/locationIndicatorStyle.html">/sdk-for-flutter-explore-mapview-locationindicator-locationindicatorstyle</a></p>
+<p>The location is made available to an instance of this class by calling <a href="../mapview/LocationIndicator/updateLocation.html">/sdk-for-flutter-explore-mapview-locationindicator-updatelocation</a> or
+<a href="../mapview/LocationIndicator/updateLocationAndCamera.html">/sdk-for-flutter-explore-mapview-locationindicator-updatelocationandcamera</a>.</p>
+<p>Use <a href="../mapview/LocationIndicator/enable.html">/sdk-for-flutter-explore-mapview-locationindicator-enable</a> to add this object to the map and <a href="../mapview/LocationIndicator/disable.html">/sdk-for-flutter-explore-mapview-locationindicator-disable</a> to remove it.</p>
 <p>Note: The LocationIndicator is always rendered at a fixed altitude near 0. Changing the MapCamera
 to look at geographic coordinates with an altitude that is higher can cause the following behavior: If the
 MapCamera angle is tilted and altitude is too high, the LocationIndicator can unexpectedly
@@ -79,17 +78,17 @@ disappear from the viewport due to the new perspective.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="LocationIndicator">
-/sdk-for-flutter-explore-mapview-locationindicator-locationindicator()
+<a href="../mapview/LocationIndicator/LocationIndicator.html">/sdk-for-flutter-explore-mapview-locationindicator-locationindicator</a>()
 </dt>
 <dd>
           Creates an instance of LocationIndicator.
             <div class="constructor-modifier features">factory</div>
 </dd>
 <dt class="callable" id="LocationIndicator.withMapView">
-/sdk-for-flutter-explore-mapview-locationindicator-locationindicator-withmapview(/sdk-for-flutter-explore-mapview-mapviewbase-class mapView)
+<a href="../mapview/LocationIndicator/LocationIndicator.withMapView.html">/sdk-for-flutter-explore-mapview-locationindicator-locationindicator-withmapview</a>(<a href="../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a> mapView)
 </dt>
 <dd>
-          Creates an instance of LocationIndicator and adds it to provided /sdk-for-flutter-explore-mapview-mapviewbase-class.
+          Creates an instance of LocationIndicator and adds it to provided <a href="../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a>.
             <div class="constructor-modifier features">factory</div>
 </dd>
 </dl>
@@ -98,7 +97,7 @@ disappear from the viewport due to the new perspective.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-mapview-locationindicator-hashcode
+<a href="../mapview/LocationIndicator/hashCode.html">/sdk-for-flutter-explore-mapview-locationindicator-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -106,17 +105,17 @@ disappear from the viewport due to the new perspective.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="isAccuracyVisualized">
-/sdk-for-flutter-explore-mapview-locationindicator-isaccuracyvisualized
+<a href="../mapview/LocationIndicator/isAccuracyVisualized.html">/sdk-for-flutter-explore-mapview-locationindicator-isaccuracyvisualized</a>
 ↔ bool
 </dt>
 <dd>
   Whether the horizontal accuracy is visualized by scaling the accuracy indicator halo.
-Returns whether /sdk-for-flutter-explore-core-location-horizontalaccuracyinmeters is used to scale the accuracy indicator halo.
+Returns whether <a href="../core/Location/horizontalAccuracyInMeters.html">/sdk-for-flutter-explore-core-location-horizontalaccuracyinmeters</a> is used to scale the accuracy indicator halo.
 Default is <code>false</code>, in which case the halo has a fixed and zoom level independent size.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="isActive">
-/sdk-for-flutter-explore-mapview-locationindicator-isactive
+<a href="../mapview/LocationIndicator/isActive.html">/sdk-for-flutter-explore-mapview-locationindicator-isactive</a>
 ↔ bool
 </dt>
 <dd>
@@ -126,18 +125,18 @@ when inactive version is shown. By default, it is <code>true</code>.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="locationIndicatorStyle">
-/sdk-for-flutter-explore-mapview-locationindicator-locationindicatorstyle
-↔ /sdk-for-flutter-explore-mapview-locationindicatorindicatorstyle
+<a href="../mapview/LocationIndicator/locationIndicatorStyle.html">/sdk-for-flutter-explore-mapview-locationindicator-locationindicatorstyle</a>
+↔ <a href="../mapview/LocationIndicatorIndicatorStyle.html">/sdk-for-flutter-explore-mapview-locationindicatorindicatorstyle</a>
 </dt>
 <dd>
   The visual style of location indicator.
-By default, it is set to /sdk-for-flutter-explore-mapview-locationindicatorindicatorstyle.
+By default, it is set to <a href="../mapview/LocationIndicatorIndicatorStyle.html">/sdk-for-flutter-explore-mapview-locationindicatorindicatorstyle</a>.
 Returns visual style of location indicator.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="materialReflectivity">
-/sdk-for-flutter-explore-mapview-locationindicator-materialreflectivity
-↔ /sdk-for-flutter-explore-mapview-materialreflectivity-class?
+<a href="../mapview/LocationIndicator/materialReflectivity.html">/sdk-for-flutter-explore-mapview-locationindicator-materialreflectivity</a>
+↔ <a href="../mapview/MaterialReflectivity-class.html">/sdk-for-flutter-explore-mapview-materialreflectivity-class</a>?
 </dt>
 <dd>
   The material reflectivity properties of the location indicator.
@@ -148,7 +147,7 @@ back to <code>null</code>, lighting is disabled and markers revert to unlit (emi
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="opacity">
-/sdk-for-flutter-explore-mapview-locationindicator-opacity
+<a href="../mapview/LocationIndicator/opacity.html">/sdk-for-flutter-explore-mapview-locationindicator-opacity</a>
 ↔ double
 </dt>
 <dd>
@@ -159,7 +158,7 @@ Gets the current opacity of the location indicator.
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-mapview-locationindicator-runtimetype
+<a href="../mapview/LocationIndicator/runtimeType.html">/sdk-for-flutter-explore-mapview-locationindicator-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -172,27 +171,27 @@ Gets the current opacity of the location indicator.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable" id="disable">
-/sdk-for-flutter-explore-mapview-locationindicator-disable(<wbr/>)
+<a href="../mapview/LocationIndicator/disable.html">/sdk-for-flutter-explore-mapview-locationindicator-disable</a>(<wbr/>)
     → void
 
 </dt>
 <dd>
-  This function removes /sdk-for-flutter-explore-mapview-locationindicator-class from map view.
+  This function removes <a href="../mapview/LocationIndicator-class.html">/sdk-for-flutter-explore-mapview-locationindicator-class</a> from map view.
   
 
 </dd>
 <dt class="callable" id="enable">
-/sdk-for-flutter-explore-mapview-locationindicator-enable(<wbr/>/sdk-for-flutter-explore-mapview-mapviewbase-class mapView)
+<a href="../mapview/LocationIndicator/enable.html">/sdk-for-flutter-explore-mapview-locationindicator-enable</a>(<wbr/><a href="../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a> mapView)
     → void
 
 </dt>
 <dd>
-  Enables /sdk-for-flutter-explore-mapview-locationindicator-class for provided /sdk-for-flutter-explore-mapview-mapviewbase-class.
+  Enables <a href="../mapview/LocationIndicator-class.html">/sdk-for-flutter-explore-mapview-locationindicator-class</a> for provided <a href="../mapview/MapViewBase-class.html">/sdk-for-flutter-explore-mapview-mapviewbase-class</a>.
   
 
 </dd>
 <dt class="callable" id="getHaloColor">
-/sdk-for-flutter-explore-mapview-locationindicator-gethalocolor(<wbr/>/sdk-for-flutter-explore-mapview-locationindicatorindicatorstyle style)
+<a href="../mapview/LocationIndicator/getHaloColor.html">/sdk-for-flutter-explore-mapview-locationindicator-gethalocolor</a>(<wbr/><a href="../mapview/LocationIndicatorIndicatorStyle.html">/sdk-for-flutter-explore-mapview-locationindicatorindicatorstyle</a> style)
     → Color
 
 </dt>
@@ -202,7 +201,7 @@ Gets the current opacity of the location indicator.
 
 </dd>
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-mapview-locationindicator-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../mapview/LocationIndicator/noSuchMethod.html">/sdk-for-flutter-explore-mapview-locationindicator-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -211,7 +210,7 @@ Gets the current opacity of the location indicator.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="setHaloColor">
-/sdk-for-flutter-explore-mapview-locationindicator-sethalocolor(<wbr/>/sdk-for-flutter-explore-mapview-locationindicatorindicatorstyle style, Color color)
+<a href="../mapview/LocationIndicator/setHaloColor.html">/sdk-for-flutter-explore-mapview-locationindicator-sethalocolor</a>(<wbr/><a href="../mapview/LocationIndicatorIndicatorStyle.html">/sdk-for-flutter-explore-mapview-locationindicatorindicatorstyle</a> style, Color color)
     → void
 
 </dt>
@@ -221,7 +220,7 @@ Gets the current opacity of the location indicator.
 
 </dd>
 <dt class="callable" id="setMarker3dModel">
-/sdk-for-flutter-explore-mapview-locationindicator-setmarker3dmodel(<wbr/>/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class model, double scale, /sdk-for-flutter-explore-mapview-locationindicatormarkertype type)
+<a class="deprecated" href="../mapview/LocationIndicator/setMarker3dModel.html">/sdk-for-flutter-explore-mapview-locationindicator-setmarker3dmodel</a>(<wbr/><a href="../mapview/MapMarker3DModel-class.html">/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</a> model, double scale, <a href="../mapview/LocationIndicatorMarkerType.html">/sdk-for-flutter-explore-mapview-locationindicatormarkertype</a> type)
     → void
 
 </dt>
@@ -231,17 +230,17 @@ Gets the current opacity of the location indicator.
 
 </dd>
 <dt class="callable" id="setMarker3dModelWithRenderSizeUnit">
-/sdk-for-flutter-explore-mapview-locationindicator-setmarker3dmodelwithrendersizeunit(<wbr/>/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class model, double scale, /sdk-for-flutter-explore-mapview-locationindicatormarkertype type, /sdk-for-flutter-explore-mapview-rendersizeunit renderSizeUnit)
+<a href="../mapview/LocationIndicator/setMarker3dModelWithRenderSizeUnit.html">/sdk-for-flutter-explore-mapview-locationindicator-setmarker3dmodelwithrendersizeunit</a>(<wbr/><a href="../mapview/MapMarker3DModel-class.html">/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</a> model, double scale, <a href="../mapview/LocationIndicatorMarkerType.html">/sdk-for-flutter-explore-mapview-locationindicatormarkertype</a> type, <a href="../mapview/RenderSizeUnit.html">/sdk-for-flutter-explore-mapview-rendersizeunit</a> renderSizeUnit)
     → void
 
 </dt>
 <dd>
-  Sets the /sdk-for-flutter-explore-mapview-mapmarker3dmodel-class asset to be displayed as location indicator for a specified type.
+  Sets the <a href="../mapview/MapMarker3DModel-class.html">/sdk-for-flutter-explore-mapview-mapmarker3dmodel-class</a> asset to be displayed as location indicator for a specified type.
   
 
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-mapview-locationindicator-tostring(<wbr/>)
+<a href="../mapview/LocationIndicator/toString.html">/sdk-for-flutter-explore-mapview-locationindicator-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -250,7 +249,7 @@ Gets the current opacity of the location indicator.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable" id="updateLocation">
-/sdk-for-flutter-explore-mapview-locationindicator-updatelocation(<wbr/>/sdk-for-flutter-explore-core-location-class location)
+<a href="../mapview/LocationIndicator/updateLocation.html">/sdk-for-flutter-explore-mapview-locationindicator-updatelocation</a>(<wbr/><a href="../core/Location-class.html">/sdk-for-flutter-explore-core-location-class</a> location)
     → void
 
 </dt>
@@ -260,7 +259,7 @@ Gets the current opacity of the location indicator.
 
 </dd>
 <dt class="callable" id="updateLocationAndCamera">
-/sdk-for-flutter-explore-mapview-locationindicator-updatelocationandcamera(<wbr/>/sdk-for-flutter-explore-core-location-class location, /sdk-for-flutter-explore-mapview-mapcameraupdate-class cameraUpdate)
+<a href="../mapview/LocationIndicator/updateLocationAndCamera.html">/sdk-for-flutter-explore-mapview-locationindicator-updatelocationandcamera</a>(<wbr/><a href="../core/Location-class.html">/sdk-for-flutter-explore-core-location-class</a> location, <a href="../mapview/MapCameraUpdate-class.html">/sdk-for-flutter-explore-mapview-mapcameraupdate-class</a> cameraUpdate)
     → void
 
 </dt>
@@ -275,7 +274,7 @@ Gets the current opacity of the location indicator.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-mapview-locationindicator-operator-equals(<wbr/>Object other)
+<a href="../mapview/LocationIndicator/operator_equals.html">/sdk-for-flutter-explore-mapview-locationindicator-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -293,8 +292,8 @@ Gets the current opacity of the location indicator.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
 <li class="self-crumb">LocationIndicator class</li>
 </ol>
 <h5>mapview library</h5>
@@ -311,5 +310,4 @@ Gets the current opacity of the location indicator.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

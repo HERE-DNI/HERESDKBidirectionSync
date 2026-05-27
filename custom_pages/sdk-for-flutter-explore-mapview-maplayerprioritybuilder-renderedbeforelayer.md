@@ -1,10 +1,9 @@
 ---
-title: "renderedBeforeLayer abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedbeforelayer"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- renderedBeforeLayer.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-maplayerprioritybuilder-renderedbeforelay
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a></li>
 <li class="self-crumb">renderedBeforeLayer abstract method</li>
 </ol>
 <div class="self-name">renderedBeforeLayer</div>
@@ -38,7 +37,7 @@ menu
 <div>
 <h1>renderedBeforeLayer abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class
+<a href="../../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a>
 renderedBeforeLayer(<wbr/><ol class="parameter-list single-line"> <li>String referenceLayer</li>
 </ol>)
 
@@ -48,7 +47,7 @@ renderedBeforeLayer(<wbr/><ol class="parameter-list single-line"> <li>String ref
 <section class="desc markdown">
 <p>Sets the priority as rendered before the first one from the referenceLayer and its categories.</p>
 <p>Applies to the layer itself or the category pointed to by the preceding call to
-/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-withcategory.
+<a href="../../mapview/MapLayerPriorityBuilder/withCategory.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-withcategory</a>.
 Notice that the order of calls to the functions
 <code>renderedFirst|Last|Before|After</code>
 matters, and that after such a call the builder clears the current category and refers again to
@@ -63,7 +62,7 @@ before all layers and categories.</p>
 <ul>
 <li><code>referenceLayer</code> The beforehand defined layer name which renders directly after the current layer.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class. This class instance.</p>
+<p>Returns <a href="../../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a>. This class instance.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -77,9 +76,9 @@ before all layers and categories.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapLayerPriorityBuilder-class.html">/sdk-for-flutter-explore-mapview-maplayerprioritybuilder-class</a></li>
 <li class="self-crumb">renderedBeforeLayer abstract method</li>
 </ol>
 <h5>MapLayerPriorityBuilder class</h5>
@@ -96,5 +95,4 @@ before all layers and categories.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

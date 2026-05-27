@@ -1,10 +1,9 @@
 ---
-title: "withCoordinates abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-withcoordinates"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- withCoordinates.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-withcoordinat
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/PointDataBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-class</a></li>
 <li class="self-crumb">withCoordinates abstract method</li>
 </ol>
 <div class="self-name">withCoordinates</div>
@@ -38,8 +37,8 @@ menu
 <div>
 <h1>withCoordinates abstract method</h1></div>
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-class
-withCoordinates(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-geocoordinates-class coordinates</li>
+<a href="../../mapview.datasource/PointDataBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-class</a>
+withCoordinates(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core/GeoCoordinates-class.html">/sdk-for-flutter-explore-core-geocoordinates-class</a> coordinates</li>
 </ol>)
 
       
@@ -51,7 +50,7 @@ withCoordinates(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutt
 <li><code>coordinates</code> Geodetic coordinates of the point.
 Altitude of coordinates is ignored.</li>
 </ul>
-<p>Returns /sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-class. The builder.</p>
+<p>Returns <a href="../../mapview.datasource/PointDataBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-class</a>. The builder.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
@@ -65,9 +64,9 @@ Altitude of coordinates is ignored.</li>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</li>
-<li>/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview.datasource/mapview.datasource-library.html">/sdk-for-flutter-explore-mapview-datasource-mapview-datasource-library</a></li>
+<li><a href="../../mapview.datasource/PointDataBuilder-class.html">/sdk-for-flutter-explore-mapview-datasource-pointdatabuilder-class</a></li>
 <li class="self-crumb">withCoordinates abstract method</li>
 </ol>
 <h5>PointDataBuilder class</h5>
@@ -84,5 +83,4 @@ Altitude of coordinates is ignored.</li>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

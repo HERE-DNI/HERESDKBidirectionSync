@@ -1,10 +1,9 @@
 ---
-title: "lineWidth property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-linewidth"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- lineWidth.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-linewidth"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolylineSolidRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-class</a></li>
 <li class="self-crumb">lineWidth property</li>
 </ol>
 <div class="self-name">lineWidth</div>
@@ -39,7 +38,7 @@ menu
 <h1>lineWidth property</h1></div>
 <section id="getter">
 <section class="multi-line-signature">
-/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class
+<a href="../../mapview/MapMeasureDependentRenderSize-class.html">/sdk-for-flutter-explore-mapview-mapmeasuredependentrendersize-class</a>
 lineWidth
 </section>
 <section class="desc markdown">
@@ -67,9 +66,9 @@ Gets the map measure dependent polyline width.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-mapview-mapview-library</li>
-<li>/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../mapview/mapview-library.html">/sdk-for-flutter-explore-mapview-mapview-library</a></li>
+<li><a href="../../mapview/MapPolylineSolidRepresentation-class.html">/sdk-for-flutter-explore-mapview-mappolylinesolidrepresentation-class</a></li>
 <li class="self-crumb">lineWidth property</li>
 </ol>
 <h5>MapPolylineSolidRepresentation class</h5>
@@ -86,5 +85,4 @@ Gets the map measure dependent polyline width.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

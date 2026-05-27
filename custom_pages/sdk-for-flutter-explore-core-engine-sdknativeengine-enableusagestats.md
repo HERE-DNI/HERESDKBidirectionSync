@@ -1,10 +1,9 @@
 ---
-title: "enableUsageStats abstract method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-enableusagestats"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- enableUsageStats.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-sdknativeengine-enableusagestats"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
 <li class="self-crumb">enableUsageStats abstract method</li>
 </ol>
 <div class="self-name">enableUsageStats</div>
@@ -46,10 +45,10 @@ enableUsageStats(<wbr/><ol class="parameter-list single-line"> <li>bool enabled<
 
     </section>
 <section class="desc markdown">
-<p>Enable or disable /sdk-for-flutter-explore-core-engine-usagestats-class for the HERE SDK.</p>
+<p>Enable or disable <a href="../../core.engine/UsageStats-class.html">/sdk-for-flutter-explore-core-engine-usagestats-class</a> for the HERE SDK.</p>
 <p>Defaults to disabled (false). When enabled, <code>SDKNativeEngine.getSdkUsageStats()</code>
 returns actual online data consumption. Note that the flag does not cancel pending requests.
-/sdk-for-flutter-explore-core-engine-usagestats-class can be enabled or disabled at any time.</p>
+<a href="../../core.engine/UsageStats-class.html">/sdk-for-flutter-explore-core-engine-usagestats-class</a> can be enabled or disabled at any time.</p>
 <p>Note: This is a beta release of this feature, so there could be a few bugs and unexpected behaviors.
 Related APIs may change for new releases without a deprecation process.</p>
 <ul>
@@ -68,9 +67,9 @@ Related APIs may change for new releases without a deprecation process.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-sdknativeengine-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/SDKNativeEngine-class.html">/sdk-for-flutter-explore-core-engine-sdknativeengine-class</a></li>
 <li class="self-crumb">enableUsageStats abstract method</li>
 </ol>
 <h5>SDKNativeEngine class</h5>
@@ -87,5 +86,4 @@ Related APIs may change for new releases without a deprecation process.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

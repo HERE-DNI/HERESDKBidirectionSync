@@ -1,10 +1,9 @@
 ---
-title: "Point2D class"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-core-point2d-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- Point2D-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -28,8 +27,8 @@ slug: "sdk-for-flutter-explore-core-point2d-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">Point2D class</li>
 </ol>
 <div class="self-name">Point2D</div>
@@ -61,13 +60,13 @@ then (0,0) will mark the top-left corner of the view.</p>
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="Point2D">
-/sdk-for-flutter-explore-core-point2d-point2d(double x, double y)
+<a href="../core/Point2D/Point2D.html">/sdk-for-flutter-explore-core-point2d-point2d</a>(double x, double y)
 </dt>
 <dd>
           Creates a new instance.
         </dd>
 <dt class="callable" id="Point2D.zero">
-/sdk-for-flutter-explore-core-point2d-point2d-zero()
+<a href="../core/Point2D/Point2D.zero.html">/sdk-for-flutter-explore-core-point2d-point2d-zero</a>()
 </dt>
 <dd>
           Creates a new instance.
@@ -78,7 +77,7 @@ then (0,0) will mark the top-left corner of the view.</p>
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="hashCode">
-/sdk-for-flutter-explore-core-point2d-hashcode
+<a href="../core/Point2D/hashCode.html">/sdk-for-flutter-explore-core-point2d-hashcode</a>
 → int
 </dt>
 <dd>
@@ -86,7 +85,7 @@ then (0,0) will mark the top-left corner of the view.</p>
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-core-point2d-runtimetype
+<a href="../core/Point2D/runtimeType.html">/sdk-for-flutter-explore-core-point2d-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -94,7 +93,7 @@ then (0,0) will mark the top-left corner of the view.</p>
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="x">
-/sdk-for-flutter-explore-core-point2d-x
+<a href="../core/Point2D/x.html">/sdk-for-flutter-explore-core-point2d-x</a>
 ↔ double
 </dt>
 <dd>
@@ -102,7 +101,7 @@ then (0,0) will mark the top-left corner of the view.</p>
   <div class="features">getter/setter pair</div>
 </dd>
 <dt class="property" id="y">
-/sdk-for-flutter-explore-core-point2d-y
+<a href="../core/Point2D/y.html">/sdk-for-flutter-explore-core-point2d-y</a>
 ↔ double
 </dt>
 <dd>
@@ -115,7 +114,7 @@ then (0,0) will mark the top-left corner of the view.</p>
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-core-point2d-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../core/Point2D/noSuchMethod.html">/sdk-for-flutter-explore-core-point2d-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -124,7 +123,7 @@ then (0,0) will mark the top-left corner of the view.</p>
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-core-point2d-tostring(<wbr/>)
+<a href="../core/Point2D/toString.html">/sdk-for-flutter-explore-core-point2d-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -138,7 +137,7 @@ then (0,0) will mark the top-left corner of the view.</p>
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable" id="operator ==">
-/sdk-for-flutter-explore-core-point2d-operator-equals(<wbr/>Object other)
+<a href="../core/Point2D/operator_equals.html">/sdk-for-flutter-explore-core-point2d-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -157,8 +156,8 @@ then (0,0) will mark the top-left corner of the view.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-core-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../core/core-library.html">/sdk-for-flutter-explore-core-core-library</a></li>
 <li class="self-crumb">Point2D class</li>
 </ol>
 <h5>core library</h5>
@@ -175,5 +174,4 @@ then (0,0) will mark the top-left corner of the view.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

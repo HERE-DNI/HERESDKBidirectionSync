@@ -1,10 +1,9 @@
 ---
-title: "TrafficIncident class abstract"
+title: "Constructors"
 slug: "sdk-for-flutter-explore-traffic-trafficincident-class"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- TrafficIncident-class.html -->
 <div class="doc-with-sidebar"><div class="sidebar-nav"><ol>
@@ -40,8 +39,8 @@ slug: "sdk-for-flutter-explore-traffic-trafficincident-class"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
 <li class="self-crumb">TrafficIncident class</li>
 </ol>
 <div class="self-name">TrafficIncident</div>
@@ -72,7 +71,7 @@ menu
 <dt>Implemented types</dt>
 <dd>
 <ul class="comma-separated clazz-relationships">
-<li>/sdk-for-flutter-explore-traffic-trafficincidentbase-class</li>
+<li><a href="../traffic/TrafficIncidentBase-class.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-class</a></li>
 </ul>
 </dd>
 </dl>
@@ -81,7 +80,7 @@ menu
 <h2>Constructors</h2>
 <dl class="constructor-summary-list">
 <dt class="callable" id="TrafficIncident">
-/sdk-for-flutter-explore-traffic-trafficincident-trafficincident()
+<a href="../traffic/TrafficIncident/TrafficIncident.html">/sdk-for-flutter-explore-traffic-trafficincident-trafficincident</a>()
 </dt>
 <dd>
 </dd>
@@ -91,7 +90,7 @@ menu
 <h2>Properties</h2>
 <dl class="properties">
 <dt class="property" id="codes">
-/sdk-for-flutter-explore-traffic-trafficincident-codes
+<a href="../traffic/TrafficIncident/codes.html">/sdk-for-flutter-explore-traffic-trafficincident-codes</a>
 → List&lt;<wbr/>int&gt;
 </dt>
 <dd>
@@ -101,8 +100,8 @@ Gets the list of standardized codes as categorized in ISO 14819-2:2013 standard 
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="description">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-description
-→ /sdk-for-flutter-explore-core-localizedtext-class
+<a href="../traffic/TrafficIncidentBase/description.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-description</a>
+→ <a href="../core/LocalizedText-class.html">/sdk-for-flutter-explore-core-localizedtext-class</a>
 </dt>
 <dd class="inherited">
   The human readable description of the incident, possibly with location information.
@@ -113,7 +112,7 @@ Gets the human readable description of the incident, possibly with location info
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="endTime">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-endtime
+<a href="../traffic/TrafficIncidentBase/endTime.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-endtime</a>
 → DateTime?
 </dt>
 <dd class="inherited">
@@ -123,7 +122,7 @@ Get the time until which the incident is valid, after this time the incident sho
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="entryTime">
-/sdk-for-flutter-explore-traffic-trafficincident-entrytime
+<a href="../traffic/TrafficIncident/entryTime.html">/sdk-for-flutter-explore-traffic-trafficincident-entrytime</a>
 → DateTime?
 </dt>
 <dd>
@@ -133,7 +132,7 @@ Gets the time the incident was entered into the system.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="hashCode">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-hashcode
+<a href="../traffic/TrafficIncidentBase/hashCode.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-hashcode</a>
 → int
 </dt>
 <dd class="inherited">
@@ -141,7 +140,7 @@ Gets the time the incident was entered into the system.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="id">
-/sdk-for-flutter-explore-traffic-trafficincident-id
+<a href="../traffic/TrafficIncident/id.html">/sdk-for-flutter-explore-traffic-trafficincident-id</a>
 → String
 </dt>
 <dd>
@@ -150,17 +149,17 @@ Gets the unique current identifier for a traffic incident.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="impact">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-impact
-→ /sdk-for-flutter-explore-traffic-trafficincidentimpact
+<a href="../traffic/TrafficIncidentBase/impact.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-impact</a>
+→ <a href="../traffic/TrafficIncidentImpact.html">/sdk-for-flutter-explore-traffic-trafficincidentimpact</a>
 </dt>
 <dd class="inherited">
   The impact of the incident.
-The value is /sdk-for-flutter-explore-traffic-trafficincidentimpact if it hasn't been provided by the traffic incidents supplier.
+The value is <a href="../traffic/TrafficIncidentImpact.html">/sdk-for-flutter-explore-traffic-trafficincidentimpact</a> if it hasn't been provided by the traffic incidents supplier.
 Gets the impact of the incident.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="isRoadClosed">
-/sdk-for-flutter-explore-traffic-trafficincident-isroadclosed
+<a href="../traffic/TrafficIncident/isRoadClosed.html">/sdk-for-flutter-explore-traffic-trafficincident-isroadclosed</a>
 → bool
 </dt>
 <dd>
@@ -169,8 +168,8 @@ Gets the flag indicating whether road is closed or not.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="junctionsTraversability">
-/sdk-for-flutter-explore-traffic-trafficincident-junctionstraversability
-→ /sdk-for-flutter-explore-traffic-junctionstraversability
+<a href="../traffic/TrafficIncident/junctionsTraversability.html">/sdk-for-flutter-explore-traffic-trafficincident-junctionstraversability</a>
+→ <a href="../traffic/JunctionsTraversability.html">/sdk-for-flutter-explore-traffic-junctionstraversability</a>
 </dt>
 <dd>
   The traversability of junctions along the affected road.
@@ -178,8 +177,8 @@ Gets the traversability of junctions along the affected road.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="location">
-/sdk-for-flutter-explore-traffic-trafficincident-location
-→ /sdk-for-flutter-explore-traffic-trafficlocation-class
+<a href="../traffic/TrafficIncident/location.html">/sdk-for-flutter-explore-traffic-trafficincident-location</a>
+→ <a href="../traffic/TrafficLocation-class.html">/sdk-for-flutter-explore-traffic-trafficlocation-class</a>
 </dt>
 <dd>
   The location of the incident.
@@ -187,19 +186,19 @@ Gets the location of the incident.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="originalId">
-/sdk-for-flutter-explore-traffic-trafficincident-originalid
+<a href="../traffic/TrafficIncident/originalId.html">/sdk-for-flutter-explore-traffic-trafficincident-originalid</a>
 → String
 </dt>
 <dd>
   The unique identifier of the first traffic incident.
-The original id remains the same whenever the traffic incident is updated and /sdk-for-flutter-explore-traffic-trafficincident-id is changed.
+The original id remains the same whenever the traffic incident is updated and <a href="../traffic/TrafficIncident/id.html">/sdk-for-flutter-explore-traffic-trafficincident-id</a> is changed.
 Once an incident chain has been created, this value will never change.
-The traffic incident an be looked up by original id using /sdk-for-flutter-explore-traffic-trafficengine-lookupincident.
+The traffic incident an be looked up by original id using <a href="../traffic/TrafficEngine/lookupIncident.html">/sdk-for-flutter-explore-traffic-trafficengine-lookupincident</a>.
 Gets the unique identifier of the first traffic incident.
   <div class="features">no setter</div>
 </dd>
 <dt class="property" id="parentId">
-/sdk-for-flutter-explore-traffic-trafficincident-parentid
+<a href="../traffic/TrafficIncident/parentId.html">/sdk-for-flutter-explore-traffic-trafficincident-parentid</a>
 → String?
 </dt>
 <dd>
@@ -209,7 +208,7 @@ Gets the identifier of another incident to which this incident is linked.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="runtimeType">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-runtimetype
+<a href="../traffic/TrafficIncidentBase/runtimeType.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-runtimetype</a>
 → Type
 </dt>
 <dd class="inherited">
@@ -217,7 +216,7 @@ Gets the identifier of another incident to which this incident is linked.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property inherited" id="startTime">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-starttime
+<a href="../traffic/TrafficIncidentBase/startTime.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-starttime</a>
 → DateTime?
 </dt>
 <dd class="inherited">
@@ -227,30 +226,30 @@ Gets the time from which the incident is valid, before this time the incident sh
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="summary">
-/sdk-for-flutter-explore-traffic-trafficincident-summary
-→ /sdk-for-flutter-explore-core-localizedtext-class
+<a href="../traffic/TrafficIncident/summary.html">/sdk-for-flutter-explore-traffic-trafficincident-summary</a>
+→ <a href="../core/LocalizedText-class.html">/sdk-for-flutter-explore-core-localizedtext-class</a>
 </dt>
 <dd>
   The human readable summary of the incident.
 The summary field provides a short version of the description containing no location information.
 The expected summary language can be managed
-via /sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-languagecode and /sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-languagecode.
+via <a href="../traffic/TrafficIncidentsQueryOptions/languageCode.html">/sdk-for-flutter-explore-traffic-trafficincidentsqueryoptions-languagecode</a> and <a href="../traffic/TrafficIncidentLookupOptions/languageCode.html">/sdk-for-flutter-explore-traffic-trafficincidentlookupoptions-languagecode</a>.
 Gets the human readable summary of the incident.
   <div class="features">no setter</div>
 </dd>
 <dt class="property inherited" id="type">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-type
-→ /sdk-for-flutter-explore-traffic-trafficincidenttype
+<a href="../traffic/TrafficIncidentBase/type.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-type</a>
+→ <a href="../traffic/TrafficIncidentType.html">/sdk-for-flutter-explore-traffic-trafficincidenttype</a>
 </dt>
 <dd class="inherited">
   The category of the incident.
-The value is /sdk-for-flutter-explore-traffic-trafficincidenttype if it hasn't been provided by the traffic incidents supplier.
+The value is <a href="../traffic/TrafficIncidentType.html">/sdk-for-flutter-explore-traffic-trafficincidenttype</a> if it hasn't been provided by the traffic incidents supplier.
 Gets the category of the incident.
   <div class="features">no setterinherited</div>
 </dd>
 <dt class="property" id="vehicleRestrictions">
-/sdk-for-flutter-explore-traffic-trafficincident-vehiclerestrictions
-→ Map&lt;<wbr/>/sdk-for-flutter-explore-traffic-trafficincidentrestrictedvehiclecategory, /sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-class&gt;
+<a href="../traffic/TrafficIncident/vehicleRestrictions.html">/sdk-for-flutter-explore-traffic-trafficincident-vehiclerestrictions</a>
+→ Map&lt;<wbr/><a href="../traffic/TrafficIncidentRestrictedVehicleCategory.html">/sdk-for-flutter-explore-traffic-trafficincidentrestrictedvehiclecategory</a>, <a href="../traffic/TrafficIncidentVehicleRestriction-class.html">/sdk-for-flutter-explore-traffic-trafficincidentvehiclerestriction-class</a>&gt;
 </dt>
 <dd>
   The map of restricted vehicle categories to restrictions.
@@ -265,7 +264,7 @@ Gets the map of restricted vehicle categories to restrictions.
 <h2>Methods</h2>
 <dl class="callables">
 <dt class="callable inherited" id="noSuchMethod">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-nosuchmethod(<wbr/>Invocation invocation)
+<a href="../traffic/TrafficIncidentBase/noSuchMethod.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-nosuchmethod</a>(<wbr/>Invocation invocation)
     → dynamic
 
 </dt>
@@ -274,7 +273,7 @@ Gets the map of restricted vehicle categories to restrictions.
   <div class="features">inherited</div>
 </dd>
 <dt class="callable inherited" id="toString">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-tostring(<wbr/>)
+<a href="../traffic/TrafficIncidentBase/toString.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-tostring</a>(<wbr/>)
     → String
 
 </dt>
@@ -288,7 +287,7 @@ Gets the map of restricted vehicle categories to restrictions.
 <h2>Operators</h2>
 <dl class="callables">
 <dt class="callable inherited" id="operator ==">
-/sdk-for-flutter-explore-traffic-trafficincidentbase-operator-equals(<wbr/>Object other)
+<a href="../traffic/TrafficIncidentBase/operator_equals.html">/sdk-for-flutter-explore-traffic-trafficincidentbase-operator-equals</a>(<wbr/>Object other)
     → bool
 
 </dt>
@@ -306,8 +305,8 @@ Gets the map of restricted vehicle categories to restrictions.
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-traffic-traffic-library</li>
+<li><a href="../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../traffic/traffic-library.html">/sdk-for-flutter-explore-traffic-traffic-library</a></li>
 <li class="self-crumb">TrafficIncident class</li>
 </ol>
 <h5>traffic library</h5>
@@ -324,5 +323,4 @@ Gets the map of restricted vehicle categories to restrictions.
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

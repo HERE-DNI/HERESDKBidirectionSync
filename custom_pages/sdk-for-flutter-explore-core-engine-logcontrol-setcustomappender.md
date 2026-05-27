@@ -1,10 +1,9 @@
 ---
-title: "setCustomAppender static method"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-core-engine-logcontrol-setcustomappender"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- setCustomAppender.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-core-engine-logcontrol-setcustomappender"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-logcontrol-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/LogControl-class.html">/sdk-for-flutter-explore-core-engine-logcontrol-class</a></li>
 <li class="self-crumb">setCustomAppender static method</li>
 </ol>
 <div class="self-name">setCustomAppender</div>
@@ -39,8 +38,8 @@ menu
 <h1>setCustomAppender static method</h1></div>
 <section class="multi-line-signature">
 void
-setCustomAppender(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flutter-explore-core-engine-loglevel level, </li>
-<li>/sdk-for-flutter-explore-core-engine-logappender-class appender</li>
+setCustomAppender(<wbr/><ol class="parameter-list single-line"> <li><a href="../../core.engine/LogLevel.html">/sdk-for-flutter-explore-core-engine-loglevel</a> level, </li>
+<li><a href="../../core.engine/LogAppender-class.html">/sdk-for-flutter-explore-core-engine-logappender-class</a> appender</li>
 </ol>)
 
       
@@ -50,7 +49,7 @@ setCustomAppender(<wbr/><ol class="parameter-list single-line"> <li>/sdk-for-flu
 <p>Sets a custom log appender to receive log messages from the SDK.</p>
 <p>This overwrites a previous custom log appender set by user.
 Note, that setting the custom appender does not disable logging to the console made by SDK,
-in order to do that use /sdk-for-flutter-explore-core-engine-logcontrol-disableloggingtoconsole API.</p>
+in order to do that use <a href="../../core.engine/LogControl/disableLoggingToConsole.html">/sdk-for-flutter-explore-core-engine-logcontrol-disableloggingtoconsole</a> API.</p>
 <ul>
 <li>
 <p><code>level</code> Log level.</p>
@@ -72,9 +71,9 @@ in order to do that use /sdk-for-flutter-explore-core-engine-logcontrol-disablel
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-core-engine-core-engine-library</li>
-<li>/sdk-for-flutter-explore-core-engine-logcontrol-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../core.engine/core.engine-library.html">/sdk-for-flutter-explore-core-engine-core-engine-library</a></li>
+<li><a href="../../core.engine/LogControl-class.html">/sdk-for-flutter-explore-core-engine-logcontrol-class</a></li>
 <li class="self-crumb">setCustomAppender static method</li>
 </ol>
 <h5>LogControl class</h5>
@@ -91,5 +90,4 @@ in order to do that use /sdk-for-flutter-explore-core-engine-logcontrol-disablel
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>

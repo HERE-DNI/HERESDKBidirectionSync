@@ -1,10 +1,9 @@
 ---
-title: "duration property"
+title: "Implementation"
 slug: "sdk-for-flutter-explore-routing-trafficonspan-duration"
 ---
 
-<HTMLBlock>{
-`
+<HTMLBlock>
 <div class="sdk-for-flutter">
 <!-- duration.html -->
 <div class="doc-with-sidebar"><div class="doc-content">
@@ -12,9 +11,9 @@ slug: "sdk-for-flutter-explore-routing-trafficonspan-duration"
 <header id="title">
 menu
 <ol class="breadcrumbs gt-separated dark hidden-xs">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-trafficonspan-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TrafficOnSpan-class.html">/sdk-for-flutter-explore-routing-trafficonspan-class</a></li>
 <li class="self-crumb">duration property</li>
 </ol>
 <div class="self-name">duration</div>
@@ -59,9 +58,9 @@ consideration the delays caused by the traffic.</p>
 </form>
 </header>
 <ol class="breadcrumbs gt-separated dark hidden-l" id="sidebar-nav">
-<li>/sdk-for-flutter-explore</li>
-<li>/sdk-for-flutter-explore-routing-routing-library</li>
-<li>/sdk-for-flutter-explore-routing-trafficonspan-class</li>
+<li><a href="../../index.html">/sdk-for-flutter-explore</a></li>
+<li><a href="../../routing/routing-library.html">/sdk-for-flutter-explore-routing-routing-library</a></li>
+<li><a href="../../routing/TrafficOnSpan-class.html">/sdk-for-flutter-explore-routing-trafficonspan-class</a></li>
 <li class="self-crumb">duration property</li>
 </ol>
 <h5>TrafficOnSpan class</h5>
@@ -78,5 +77,4 @@ consideration the delays caused by the traffic.</p>
 </footer>
 </div></div>
 </div>
-`
-}</HTMLBlock>
+</HTMLBlock>
