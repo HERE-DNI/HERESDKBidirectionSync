@@ -130,7 +130,7 @@ subclass as in the case for <code>TransformProperty</code> which handles <a href
 that represent transforms. Generally any property value with a good
 <code>toString</code> method implementation works fine using <code>DiagnosticsProperty</code>
 directly.</p>
-<p>{@tool snippet}</p>
+<p>\{@tool snippet}</p>
 <p>This example shows best practices for implementing /sdk-for-flutter-explore-mapview-heremap-debugfillproperties
 illustrating use of all common <code>DiagnosticsProperty</code> subclasses and all
 common <code>DiagnosticsProperty</code> parameters.</p>
@@ -224,16 +224,16 @@ common <code>DiagnosticsProperty</code> parameters.</p>
     properties.add(DiagnosticsProperty&lt;Size&gt;.lazy(
       'size',
       () =&gt; size,
-      description: '${ hasSize ? size : "MISSING" }',
+      description: '\${ hasSize ? size : "MISSING" }',
     ));
 
-    // If the toString method for the property value does not provide a
+    // If the `toString` method for the property value does not provide a
     // good terse description, write a DiagnosticsProperty subclass as in
     // the case of TransformProperty which displays a nice debugging view
     // of a Matrix4 that represents a transform.
     properties.add(TransformProperty('transform', transform));
 
-    // If the value class has a good toString method, use
+    // If the value class has a good `toString` method, use
     // DiagnosticsProperty&lt;YourValueType&gt;. Specifying the value type ensures
     // that debugging tools always know the type of the field and so can
     // provide the right UI affordances. For example, in this case even
@@ -242,12 +242,12 @@ common <code>DiagnosticsProperty</code> parameters.</p>
     properties.add(DiagnosticsProperty&lt;Color&gt;('color', color));
 
     // Use a custom description to generate a more terse summary than the
-    // toString method on the map class.
+    // `toString` method on the map class.
     properties.add(DiagnosticsProperty&lt;Map&lt;Listenable, VoidCallback&gt;&gt;(
       'handles',
       handles,
       description: handles != null
-        ? '${handles!.length} active client${ handles!.length == 1 ? "" : "s" }'
+        ? '\${handles!.length} active client\${ handles!.length == 1 ? "" : "s" }'
         : null,
       ifNull: 'no notifications ever received',
       showName: false,
@@ -255,7 +255,7 @@ common <code>DiagnosticsProperty</code> parameters.</p>
   }
 }
 </code></pre>
-<p>{@end-tool}</p>
+<p>\{@end-tool}</p>
 <p>Used by /sdk-for-flutter-explore-mapview-heremap-todiagnosticsnode and /sdk-for-flutter-explore-mapview-heremap-tostring.</p>
 <p>Do not add values that have lifetime shorter than the object.</p>
 </section>

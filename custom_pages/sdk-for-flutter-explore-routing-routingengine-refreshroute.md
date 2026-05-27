@@ -89,7 +89,7 @@ It is always invoked on the main thread.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
-<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the refresh_route() methods with RoutingOptions parameter instead.")
+<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the `refresh_route()` methods with RoutingOptions parameter instead.")
 
 TaskHandle refreshRoute(RouteHandle routeHandle, Waypoint startingPoint, RefreshRouteOptions refreshRouteOptions, CalculateRouteCallback callback);</code></pre>
 </section>

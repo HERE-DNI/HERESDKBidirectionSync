@@ -86,7 +86,7 @@ It is always invoked on the main thread.</p>
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
-<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the import_route() methods with RoutingOptions parameter instead.")
+<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.28.0. Use the `import_route()` methods with RoutingOptions parameter instead.")
 
 TaskHandle importEVCarRouteWithStops(List&lt;Location&gt; locations, List&lt;RouteStop&gt; routeStops, EVCarOptions evCarOptions, CalculateRouteCallback callback);</code></pre>
 </section>

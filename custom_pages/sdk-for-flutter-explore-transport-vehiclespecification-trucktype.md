@@ -55,7 +55,7 @@ Rendering <code>sdk.mapview.TruckProfile</code>: /sdk-for-flutter-explore-transp
 </section>
 <section class="summary source-code" id="source">
 <h2>Implementation</h2>
-<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.27.0. Use VehicleSpecification.truckCategory instead.")
+<pre class="language-dart"><code class="language-dart">@Deprecated("Will be removed in v4.27.0. Use `VehicleSpecification.truckCategory` instead.")
 TruckType truckType;</code></pre>
 </section>
 </div>
